@@ -74,6 +74,12 @@ Optionale Felder (schalten Zusatzfunktionen frei; weglassen = schlichtes Quiz):
 - `trap` (Frage): kurzer Fallen-Hinweis, wird über der Erklärung angezeigt.
 - `showGrade` (Quiz, true/false): zeigt am Ende eine Notenschätzung (dt. Skala).
   Nur für benotete Fächer sinnvoll – bei z. B. Vokabeln weglassen.
+- `isImage` (Frage, true/false): markiert eine Bildfrage. Zeigt einen Hinweis-Banner,
+  dass die Grafik im Original fehlt. Nur nutzen, wenn die Frage sich auf ein Bild bezieht.
+- `gradeScale` (Quiz): eigene Notentabelle nach Anzahl richtiger Antworten, überschreibt
+  die prozentuale Standardskala. Format: absteigende Liste `[[minRichtig, "Note"], ...]`,
+  z. B. `[[43,"1,0"],[40,"1,3"], ...]`. Nur setzen, wenn eine konkrete Punktetabelle vorliegt;
+  sonst weglassen (dann greift die Prozentskala). Braucht `showGrade: true`.
 
 ### Manifest-Eintrag (`data/subjects.json`)
 

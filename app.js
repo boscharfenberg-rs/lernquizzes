@@ -155,6 +155,7 @@ function render() {
   if (q.hard) html += `<span class="hardTag">SCHWER</span>`;
   html += `</div>`;
 
+  if (q.isImage) html += `<div class="imageNote">🖼 Bildfrage – im Original mit Grafik. Die markierte Lösung orientiert sich an der Original-Grafik; ohne Bild bitte an der Vorlage verifizieren.</div>`;
   html += `<p class="question-text">${fmt(q.question)}</p>`;
   html += `<div class="options">`;
   q.options.forEach((opt, i) => {
@@ -211,8 +212,9 @@ function renderResult() {
   let html = `<div class="result-card">`;
   html += `<div class="resultHeader">Auswertung</div>`;
   html += `<div class="score">${correct}<small> / ${total}</small></div>`;
+  const note = quiz.gradeScale ? gradeByCount(correct, quiz.gradeScale) : grade(pct);
   html += `<div class="gradeRow"><span>${pct}% richtig · ${escapeHtml(msg)}</span>`;
-  if (quiz.showGrade) html += `<span class="gradePill">Note ≈ ${grade(pct)}</span>`;
+  if (quiz.showGrade) html += `<span class="gradePill">Note ≈ ${note}</span>`;
   html += `</div>`;
 
   // Auswertung pro Thema
@@ -314,6 +316,11 @@ function grade(pct) {
   for (const [min, g] of table) if (pct >= min) return g;
   return "n. b.";
 }
+// Optionale, quiz-eigene Notentabelle nach Anzahl richtiger Antworten.
+function gradeByCount(correct, scale) {
+  for (const [min, g] of scale) if (correct >= min) return g;
+  return "n. b.";
+}
 
 function showError(text) {
   homeBtn.hidden = subjects.length === 0;
@@ -347,3 +354,4 @@ document.addEventListener("keydown", (e) => {
 homeBtn.addEventListener("click", renderSubjects);
 
 init();
+// Ende

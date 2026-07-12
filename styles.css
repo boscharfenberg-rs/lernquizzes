@@ -199,6 +199,10 @@ button { font: inherit; cursor: pointer; }
 .navBtn:disabled { opacity: 0.35; cursor: default; }
 .navBtnPrimary { padding: 11px 22px; border-radius: 11px; border: none; color: #fff; font-weight: 800; margin-left: auto; }
 
+.imageNote {
+  font-size: 0.8rem; background: #fbf3e7; border: 1px solid #ead9bc; color: #8a6a34;
+  border-radius: 10px; padding: 8px 11px; margin-bottom: 12px; line-height: 1.4;
+}
 .question-text code { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
 .option code { background: rgba(0,0,0,0.05); padding: 0 4px; border-radius: 4px; }
 
