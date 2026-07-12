@@ -1,0 +1,235 @@
+:root {
+  --bg: #f5f7fa;
+  --card: #ffffff;
+  --ink: #1f2933;
+  --muted: #66727f;
+  --accent: #3b5bdb;
+  --accent-soft: #edf0ff;
+  --correct: #2b8a3e;
+  --correct-soft: #ebfbee;
+  --wrong: #c92a2a;
+  --wrong-soft: #fff0f0;
+  --border: #e3e8ef;
+  --radius: 14px;
+  --shadow: 0 2px 10px rgba(20, 30, 60, 0.06);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.5;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 22px;
+  max-width: 760px;
+  margin: 0 auto;
+}
+.site-header h1 { font-size: 1.35rem; margin: 0; }
+
+.site-footer {
+  max-width: 760px;
+  margin: 40px auto 24px;
+  padding: 0 22px;
+  color: var(--muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+.site-footer code { background: var(--accent-soft); padding: 1px 6px; border-radius: 6px; }
+
+#app {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 22px 40px;
+}
+
+.loading { color: var(--muted); }
+
+/* Buttons */
+button { font: inherit; cursor: pointer; }
+
+.ghost-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 7px 12px;
+  border-radius: 10px;
+}
+.ghost-btn:hover { background: var(--card); }
+
+.primary-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.primary-btn:hover { filter: brightness(1.05); }
+.primary-btn:disabled { opacity: 0.5; cursor: default; }
+
+/* Subject grid */
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 8px;
+}
+.subject-card {
+  text-align: left;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+.subject-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(20,30,60,0.1); }
+.subject-card .tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-bottom: 10px;
+}
+.subject-card h3 { margin: 0 0 6px; font-size: 1.05rem; }
+.subject-card p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.subject-card .count { margin-top: 12px; font-size: 0.8rem; color: var(--muted); }
+
+/* Quiz */
+.progress-wrap { margin: 4px 0 20px; }
+.progress-meta { display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--muted); margin-bottom: 6px; }
+.progress-bar { height: 8px; background: var(--border); border-radius: 999px; overflow: hidden; }
+.progress-fill { height: 100%; background: var(--accent); width: 0; transition: width 0.25s ease; }
+
+.question-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px;
+}
+.question-text { font-size: 1.15rem; font-weight: 600; margin: 0 0 18px; }
+
+.options { display: flex; flex-direction: column; gap: 10px; }
+.option {
+  text-align: left;
+  background: #fff;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  padding: 13px 16px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.option:hover:not(:disabled) { border-color: var(--accent); background: var(--accent-soft); }
+.option .key {
+  flex: 0 0 26px;
+  height: 26px;
+  border-radius: 6px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+}
+.option.correct { border-color: var(--correct); background: var(--correct-soft); }
+.option.correct .key { background: var(--correct); color: #fff; }
+.option.wrong { border-color: var(--wrong); background: var(--wrong-soft); }
+.option.wrong .key { background: var(--wrong); color: #fff; }
+.option:disabled { cursor: default; }
+
+.option.dim { opacity: 0.5; }
+
+.explanation {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  border: 1.5px solid var(--border);
+  background: #fafbfd;
+  font-size: 0.92rem;
+}
+.explanation.ok { border-color: var(--correct); }
+.explanation.no { border-color: var(--wrong); }
+.explainHead { font-weight: 800; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 8px; }
+.explanation.ok .explainHead { color: var(--correct); }
+.explanation.no .explainHead { color: var(--wrong); }
+.trap {
+  font-size: 0.82rem; font-weight: 700; color: #8a5a16;
+  background: #fbf1dd; border-radius: 8px; padding: 7px 10px; margin-bottom: 9px; line-height: 1.4;
+}
+.explainBody { color: #37414f; line-height: 1.55; }
+
+/* Meta-Zeile über der Frage (Thema + Schwer-Badge) */
+.qMeta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; gap: 8px; min-height: 22px; }
+.topicTag { font-size: 0.7rem; font-weight: 700; color: #fff; padding: 4px 10px; border-radius: 999px; }
+.hardTag { font-size: 0.62rem; font-weight: 800; color: #b4451f; background: #fbe9e1; padding: 3px 8px; border-radius: 999px; letter-spacing: 0.5px; }
+
+/* Steuerung (Mischen) */
+.controls { display: flex; justify-content: flex-end; margin-bottom: 12px; }
+.chip-btn {
+  font-size: 0.72rem; font-weight: 600; padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: #f8fafc; color: var(--muted);
+}
+.chip-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Themenfilter */
+.filterRow { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.filterChip {
+  font-size: 0.72rem; font-weight: 600; padding: 5px 10px; border-radius: 999px;
+  border: 1px solid var(--border); background: #f8fafc; color: var(--muted);
+}
+.filterChip.active { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+/* Navigation */
+.nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 20px; }
+.navBtn { padding: 11px 18px; border-radius: 11px; border: 1.5px solid var(--border); background: #fff; color: var(--muted); font-weight: 700; }
+.navBtn:disabled { opacity: 0.35; cursor: default; }
+.navBtnPrimary { padding: 11px 22px; border-radius: 11px; border: none; color: #fff; font-weight: 800; margin-left: auto; }
+
+.question-text code { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
+.option code { background: rgba(0,0,0,0.05); padding: 0 4px; border-radius: 4px; }
+
+.lead { color: var(--muted); margin-top: 0; }
+
+/* Results */
+.result-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 30px;
+  text-align: center;
+}
+.result-card .score { font-size: 3rem; font-weight: 700; color: var(--accent); }
+.result-card .score small { font-size: 1.2rem; color: var(--muted); font-weight: 500; }
+.result-card p { color: var(--muted); }
+.result-actions { margin-top: 22px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.resultHeader { font-size: 0.8rem; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.gradeRow { display: flex; justify-content: center; align-items: center; gap: 12px; margin: 4px 0 6px; color: var(--muted); font-weight: 600; flex-wrap: wrap; }
+.gradePill { background: var(--ink); color: #fff; padding: 5px 14px; border-radius: 999px; font-weight: 800; }
+.topicList { display: flex; flex-direction: column; gap: 4px; margin: 18px 0 6px; text-align: left; }
+.topicRow { display: flex; align-items: center; gap: 10px; font-size: 0.9rem; padding: 6px 0; border-bottom: 1px solid var(--border); }
+.dot { width: 11px; height: 11px; border-radius: 999px; flex-shrink: 0; }
+.topicName { flex: 1; color: #37414f; }
+.topicScore { font-weight: 800; }
+
+.error {
+  background: var(--wrong-soft);
+  border: 1px solid var(--wrong);
+  color: var(--wrong);
+  padding: 14px 16px;
+  border-radius: 10px;
+}
