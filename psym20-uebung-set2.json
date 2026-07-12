@@ -1,0 +1,335 @@
+{
+  "id": "psym20-uebung-set2",
+  "title": "PSYM20 · Übungsquiz Set 2",
+  "subject": "Statistik",
+  "description": "42 Fragen im Altklausur-Stil · gemischte Schwierigkeit, mit Themenfilter.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Inferenzstatistik",
+      "hard": true,
+      "trap": "Klassische Fehlinterpretation des p-Werts.",
+      "question": "Ein Kollege sagt: „Mein Ergebnis ist mit p = .04 signifikant, also ist die Wahrscheinlichkeit, dass die Nullhypothese stimmt, nur 4 %.“ Was ist an dieser Aussage korrekt?",
+      "options": ["Nur, dass die Alternativhypothese mit 96 % Wahrscheinlichkeit stimmt.", "Nichts – der p-Wert ist die Wahrscheinlichkeit der Daten (oder extremerer) unter H₀, nicht die Wahrscheinlichkeit von H₀.", "Nur, dass H₀ damit zu 96 % bewiesen ist.", "Alles – p ist genau die Wahrscheinlichkeit, dass H₀ stimmt."],
+      "answer": 1,
+      "explanation": "p = P(Daten so extrem oder extremer | H₀). Es ist KEINE Aussage über die Wahrscheinlichkeit einer Hypothese – weder von H₀ (B, C) noch von H₁ (D). Hypothesen sind im frequentistischen Rahmen entweder wahr oder falsch, nicht „mit x % wahr“."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "trap": "Effektstärke ≠ Power.",
+      "question": "Sie verdoppeln den Stichprobenumfang. Wie wirkt sich das bei sonst gleichem wahren Effekt tendenziell aus?",
+      "options": ["Die Effektstärke in der Population wird größer.", "Der Standardfehler bleibt gleich, nur α ändert sich.", "Der Standardfehler wird tendenziell kleiner und die Power steigt.", "Der Standardfehler wird größer und die Power sinkt."],
+      "answer": 2,
+      "explanation": "Größeres N → kleinerer Standardfehler → engere Kennwerteverteilung → leichter, einen echten Effekt aufzudecken (höhere Power). B ist das Gegenteil, C stimmt nicht (SE hängt von N ab), D verwechselt Power mit Populationseffekt – der bleibt vom N unberührt."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "hard": true,
+      "trap": "„Welche ist FALSCH?“ – das konkrete Intervall.",
+      "question": "Welche Aussage über das 95 %-Konfidenzintervall ist FALSCH?",
+      "options": ["Enthält das 95 %-KI die Null nicht, ist der Koeffizient auf dem 5 %-Niveau signifikant.", "Das konkrete berechnete Intervall enthält den Parameter mit 95 % Wahrscheinlichkeit.", "Es überdeckt den Populationsparameter bei wiederholter Ziehung in 95 % der Fälle.", "Ein breiteres KI deutet (bei gleichem Konfidenzniveau) auf einen größeren Standardfehler hin."],
+      "answer": 1,
+      "explanation": "Die 95 % beziehen sich auf das VERFAHREN über viele Stichproben, nicht auf ein bereits berechnetes Intervall – dieses enthält den (festen) Parameter entweder oder nicht. Deshalb ist diese Aussage falsch. Die übrigen drei sind korrekt."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Welcher Zusammenhang zwischen Power und Fehler 2. Art (β) trifft zu?",
+      "options": ["Power = 1 − α.", "Power = α · β.", "Power = 1 − β.", "Power = β."],
+      "answer": 2,
+      "explanation": "Power ist die Wahrscheinlichkeit, einen vorhandenen Effekt zu entdecken, also die Gegenwahrscheinlichkeit zum Übersehen (β): Power = 1 − β. Mit α (Fehler 1. Art) ist sie nicht direkt so verknüpft (C), und die anderen sind schlicht falsch."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was ist eine Kennwerteverteilung (Stichprobenkennwerteverteilung)?",
+      "options": ["Die Verteilung einer Teststatistik über (gedanklich) wiederholte Stichproben.", "Die Verteilung der Residuen in einem Regressionsmodell.", "Die Verteilung der Rohdaten in der Population.", "Die Häufigkeitsverteilung eines Merkmals in einer einzelnen Stichprobe."],
+      "answer": 0,
+      "explanation": "Eine Kennwerteverteilung beschreibt, wie ein Kennwert/Schätzer (z. B. t, F) über viele Stichproben streut – die Grundlage von SE, KI und Tests. Die anderen beschreiben eine empirische Merkmalsverteilung, die Populationsverteilung bzw. Residuen."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "In einer einfachen Regression von Y auf X ist b₁ = 0. Was folgt daraus für R²?",
+      "options": ["R² = 0,5.", "R² ist nicht bestimmbar.", "R² = 1.", "R² = 0."],
+      "answer": 3,
+      "explanation": "Ist die Steigung 0, klärt X keine Varianz von Y auf → R² = 0 (in der einfachen Regression gilt R² = r², und r = 0). R² = 1 hieße perfekte Vorhersage, 0,5 ist willkürlich, und R² ist sehr wohl bestimmbar."
+    },
+    {
+      "topic": "Einfache Regression",
+      "trap": "Absolutbeträge & einfache Summe sind Distraktoren.",
+      "question": "Was besagt das Prinzip der kleinsten Quadrate (OLS)?",
+      "options": ["Es maximiert die aufgeklärte Varianz durch Maximierung der Residuen.", "Es minimiert die Summe der quadrierten Residuen Σ(Yᵢ − Ŷᵢ)².", "Es minimiert die Summe der Residuen Σ(Yᵢ − Ŷᵢ).", "Es minimiert die Summe der absoluten Residuen Σ|Yᵢ − Ŷᵢ|."],
+      "answer": 1,
+      "explanation": "OLS minimiert die Summe der QUADRIERTEN Abweichungen. Absolutbeträge gehören zu einem anderen Kriterium (LAD), Residuen maximieren ist unsinnig, und die einfache Summe der Residuen ist bei OLS ohnehin ≈ 0 und taugt nicht als Kriterium."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Die z-standardisierte einfache Regression liefert β = 0,60. Wie ist das zu lesen?",
+      "options": ["Steigt X um 1 Rohwert-Einheit, steigt Ŷ um 0,60 Einheiten.", "Steigt Y um 1 SD, steigt X̂ um 0,60 SD.", "Der Achsenabschnitt beträgt 0,60.", "Steigt X um 1 SD, steigt Ŷ um 0,60 SD."],
+      "answer": 3,
+      "explanation": "Der standardisierte Slope β sagt: 1 SD mehr in X → β SD mehr in Ŷ. Die zweite Option beschreibt den unstandardisierten Koeffizienten, die dritte dreht X und Y um, die vierte verwechselt Slope und Intercept (der standardisierte Intercept ist 0)."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "In der einfachen Regression gilt für den Zusammenhang von R² und der Korrelation r:",
+      "options": ["R² = 2r.", "R² = r².", "R² = √r.", "R² = |r|."],
+      "answer": 1,
+      "explanation": "R² ist das Quadrat der Produkt-Moment-Korrelation. |r|, 2r und √r sind falsch – Letzteres ist bei negativem r nicht einmal definiert."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Welche Interpretation hat der Achsenabschnitt (Intercept) β₀ laut Interpretationshilfe?",
+      "options": ["Vorhergesagter Y-Wert, wenn der Prädiktor den Wert Null annimmt (x₁ = 0).", "Vorhergesagter X-Wert, wenn Y = 0.", "Die Veränderung in Y pro Einheit von X.", "Der Mittelwert aller Residuen."],
+      "answer": 0,
+      "explanation": "Laut Interpretationshilfe ist β₀ der vorhergesagte Wert im Kriterium Y bei x₁ = 0. Die zweite Option dreht die Rollen um, die dritte ist die Definition des Slopes β₁, die vierte beschreibt eine Residualeigenschaft."
+    },
+    {
+      "topic": "Einfache Regression",
+      "hard": true,
+      "question": "Ein R-Output zeigt für den Prädiktor: Estimate = 1,80, Std. Error = 0,60. Welchen t-Wert erwarten Sie ungefähr, und was heißt das?",
+      "options": ["t ≈ 1,08 – knapp signifikant.", "t ≈ 0,33 – der Koeffizient ist praktisch 0.", "t lässt sich aus diesen Angaben nicht berechnen.", "t ≈ 3,0 – der Koeffizient ist relativ deutlich von 0 verschieden."],
+      "answer": 3,
+      "explanation": "t = Estimate / Std. Error = 1,80 / 0,60 = 3,0 (Signal-Rausch-Verhältnis). Werte um |t| ≥ ~2 gelten grob als signifikant, 3,0 ist deutlich. Die anderen rechnen falsch bzw. behaupten fälschlich, es sei nicht berechenbar – genau dafür stehen Estimate und SE."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Modell: `Lesen = 0 + 3·Übung + 2·IQ`. Wie interpretiert man die 3 vor Übung?",
+      "options": ["Wer 3 Einheiten mehr übt, liest 1 Punkt besser.", "Bei gleicher Übung geht 1 IQ-Punkt mehr mit 3 Punkten mehr einher.", "Übung erklärt 3 % der Varianz im Lesen.", "Bei gleichem IQ geht 1 Einheit mehr Übung im Mittel mit 3 Punkten mehr im Lesen einher."],
+      "answer": 3,
+      "explanation": "Der Partialkoeffizient 3 gilt UNTER KONSTANTHALTUNG von IQ: 1 Einheit mehr Übung → 3 Punkte mehr, bei gleichem IQ. Die zweite Option beschreibt den IQ-Koeffizienten (=2), die dritte verwechselt Koeffizient mit Varianzanteil, die vierte rechnet die Einheiten falsch herum."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Was bedeutet der Zusatz „unter Konstanthaltung aller anderen Prädiktoren“?",
+      "options": ["Die übrigen Prädiktoren werden gedanklich festgehalten, während ein Prädiktor um 1 Einheit variiert.", "Die übrigen Prädiktoren sind nicht im Modell.", "Die Koeffizienten der übrigen Prädiktoren sind Null.", "Alle Prädiktoren ändern sich gemeinsam um 1 Einheit."],
+      "answer": 0,
+      "explanation": "Konstanthalten heißt ceteris paribus: nur ein Prädiktor variiert, die anderen bleiben fix (aber im Modell). Zwei Distraktoren entfernen sie faktisch, einer lässt sie mitvariieren – beides widerspricht der Partialisierung."
+    },
+    {
+      "topic": "Multiple Regression",
+      "trap": "t-Test gilt für Einzelkoeffizienten.",
+      "question": "Womit prüft man, ob das GESAMTE R² eines Modells signifikant von 0 abweicht?",
+      "options": ["Mit einem z-Test für Korrelationen.", "Mit einem Chi²-Test.", "Mit einem F-Test.", "Mit einem t-Test."],
+      "answer": 2,
+      "explanation": "Das Gesamtmodell / R² wird per F-Test (Omnibus) geprüft. Der t-Test betrifft einzelne Koeffizienten, Chi² den Modellfit in SEM, der z-Test ist hier nicht einschlägig."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Die hierarchische Regression prüft einen Prädiktor über …",
+      "options": ["… die Zunahme der Residualvarianz.", "… die Reduktion des Intercepts.", "… den Zuwachs an Korrelation zwischen Prädiktor und Kriterium.", "… den Zuwachs an aufgeklärter Varianz (ΔR²) beim Hinzunehmen des Prädiktors."],
+      "answer": 3,
+      "explanation": "Man vergleicht Modelle mit/ohne Prädiktor und testet den ΔR²-Zuwachs (per F). Es geht um Varianzaufklärung, nicht Korrelation; Intercept und Residualvarianz (die sinkt sogar) sind nicht das Kriterium."
+    },
+    {
+      "topic": "Multiple Regression",
+      "hard": true,
+      "trap": "Omnibus- und Einzeltest messen Verschiedenes.",
+      "question": "In einem R-Output ist ein Prädiktor einzeln nicht signifikant (p = .21), das Gesamtmodell aber hoch signifikant (F-Test p < .001). Was ist die plausibelste Erklärung?",
+      "options": ["Andere Prädiktoren tragen die Aufklärung; Multikollinearität oder geteilte Varianz können Einzeltests abschwächen.", "Der F-Test ist immer identisch mit den t-Tests der Koeffizienten.", "Das Modell ist fehlerhaft – beides kann nicht gleichzeitig auftreten.", "R² muss dann negativ sein."],
+      "answer": 0,
+      "explanation": "F-Test (Gesamtmodell) und t-Tests (Einzelkoeffizienten unter Konstanthaltung der anderen) beantworten verschiedene Fragen. Bei überlappender Prädiktorvarianz kann ein einzelner Koeffizient klein/unsicher sein, obwohl das Modell insgesamt viel aufklärt. Die anderen Aussagen sind sachlich falsch (R² ist nie negativ)."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Was ist ein zentrales Ziel der multiplen Regression gegenüber der einfachen?",
+      "options": ["Die Vermeidung jeglicher Modellannahmen.", "Die Maximierung der Residuen.", "Die Umwandlung metrischer in kategoriale Variablen.", "Die statistische Kontrolle von Drittvariablen (Partialisierung)."],
+      "answer": 3,
+      "explanation": "Durch Aufnahme weiterer Prädiktoren kontrolliert man Drittvariablen heraus (Partialisierung). Die anderen Optionen beschreiben keine Ziele der multiplen Regression."
+    },
+    {
+      "topic": "Messfehler",
+      "hard": true,
+      "trap": "Messfehler ≠ nur mehr Rauschen.",
+      "question": "Ein Prädiktor X wird unreliabel gemessen (X = t + e). Wie verzerrt der Messfehler im Prädiktor typischerweise den Regressionskoeffizienten?",
+      "options": ["Der Koeffizient bleibt unverzerrt, nur der Standardfehler steigt.", "Der Koeffizient wird betragsmäßig unterschätzt (Attenuation Richtung 0).", "Das Vorzeichen kehrt sich immer um.", "Der Koeffizient wird betragsmäßig überschätzt."],
+      "answer": 1,
+      "explanation": "Laut Skript gilt Bias(b̂*) = {Rel(x) − 1}·b. Da Rel(x) < 1, ist der Faktor negativ → der geschätzte Koeffizient wird Richtung 0 gezogen (Attenuation/Verdünnung). Überschätzung und garantierter Vorzeichenwechsel sind falsch; unverzerrt gilt gerade NICHT."
+    },
+    {
+      "topic": "Messfehler",
+      "question": "Die Verdünnungsformel (attenuation) beschreibt, dass die Korrelation zwischen zwei manifesten Variablen im Vergleich zur Korrelation ihrer wahren Werte …",
+      "options": ["… tendenziell größer ausfällt, je unreliabler die Messungen sind.", "… von der Reliabilität völlig unabhängig ist.", "… tendenziell kleiner ausfällt, je unreliabler die Messungen sind.", "… stets exakt gleich bleibt."],
+      "answer": 2,
+      "explanation": "Messfehler „verdünnen“ Zusammenhänge: je geringer die Reliabilität, desto stärker wird die beobachtete Korrelation gegenüber der wahren nach unten gezogen. Die anderen Optionen kehren das um oder leugnen den Reliabilitätseinfluss."
+    },
+    {
+      "topic": "Messfehler",
+      "hard": true,
+      "trap": "Klingt nach „Scheineffekt“, ist aber das Gegenteil.",
+      "question": "Ein Phantomeffekt (nach den Beispielitems) ist …",
+      "options": ["… ein Begriff, den es gar nicht gibt.", "… ein existierender Effekt, der erst durch Aufnahme von Kovariaten ins Modell sichtbar wird.", "… ein reines Messfehler-Artefakt ohne realen Hintergrund.", "… ein Effekt, der nur manchmal wie ein Phantom auftaucht."],
+      "answer": 1,
+      "explanation": "Ein Phantomeffekt ist real und wird erst durch Kontrolle einer Kovariate ENTHÜLLT (Suppression). Das ist gerade kein bloßes Artefakt und keine zufällige Erscheinung; den Begriff gibt es sehr wohl."
+    },
+    {
+      "topic": "Messfehler",
+      "hard": true,
+      "question": "Warum ist Messfehler im KRITERIUM (Y) für die Verzerrung des Steigungskoeffizienten weniger problematisch als Messfehler im PRÄDIKTOR (X)?",
+      "options": ["Messfehler in Y verdoppelt den Koeffizienten, in X halbiert er ihn.", "Messfehler in Y kehrt das Vorzeichen um, in X nicht.", "Beide wirken exakt gleich.", "Messfehler in Y erhöht v. a. die Residualstreuung, verzerrt den Koeffizienten aber nicht systematisch; Messfehler in X attenuiert den Koeffizienten."],
+      "answer": 3,
+      "explanation": "Zufälliger Messfehler in Y geht in den Fehlerterm ein: er vergrößert den SE / senkt R², verzerrt b aber nicht systematisch. Messfehler in X hingegen zieht b Richtung 0 (Attenuation) – daher die Asymmetrie. Die anderen Optionen beschreiben diese Asymmetrie falsch."
+    },
+    {
+      "topic": "Moderation",
+      "trap": "Ein Distraktor beschreibt einen Mediator, nicht Moderator.",
+      "question": "Was ist ein Moderator?",
+      "options": ["Eine Variable, die zwischen Prädiktor und Kriterium vermittelt.", "Der Achsenabschnitt der bedingten Regression.", "Eine Variable, die Stärke und/oder Vorzeichen des Zusammenhangs zwischen Prädiktor und Kriterium verändert.", "Ein Regressionskoeffizient, der die Höhe eines Prädiktors bestimmt."],
+      "answer": 2,
+      "explanation": "Ein Moderator ist eine VARIABLE, die den X-Y-Zusammenhang in Stärke/Richtung verändert. Ein Distraktor verwechselt Variable und Koeffizient, einer beschreibt Mediation (Vermittlung), einer nennt einen Modellparameter."
+    },
+    {
+      "topic": "Moderation",
+      "hard": true,
+      "question": "Warum zentriert man die Prädiktoren vor Bildung des Interaktionsterms?",
+      "options": ["Um die Interaktion vollständig zu eliminieren.", "Um die hohe Korrelation des Produktterms mit den Ausgangsvariablen (Multikollinearität) zu verringern und die Haupteffekte interpretierbar zu machen.", "Weil sonst kein t-Test möglich ist.", "Um R² künstlich zu erhöhen."],
+      "answer": 1,
+      "explanation": "Der Produktterm korreliert unzentriert stark mit seinen Ausgangsvariablen (im Skript-Beispiel .72 bzw. .92). Zentrierung reduziert diese Multikollinearität und macht die Haupteffekte als Effekte „bei mittlerer Ausprägung der anderen Variable“ interpretierbar. Die Interaktion selbst bleibt, R² des Gesamtmodells ändert sich dadurch nicht künstlich, und ein t-Test ginge auch ohne."
+    },
+    {
+      "topic": "Moderation",
+      "question": "Eine bedingte einfache Regression erhält man, indem man …",
+      "options": ["… den Koeffizienten des Moderators auf 1 fixiert.", "… den Interaktionsterm quadriert.", "… für den Moderator einen konkreten Wert einsetzt (z. B. M, M−SD, M+SD).", "… den Moderator ganz aus dem Modell entfernt."],
+      "answer": 2,
+      "explanation": "Setzt man einen konkreten Moderatorwert ein, ergibt sich die bedingte Regression von Y auf X für diesen Wert (typisch M, M±SD). Entfernen, Quadrieren oder Fixieren auf 1 ergeben etwas anderes."
+    },
+    {
+      "topic": "Moderation",
+      "trap": "Verlockend, nur die Interaktion zu testen.",
+      "question": "Beim Testen eines Interaktionseffekts gilt eine wichtige Regel:",
+      "options": ["Die Haupteffekte (X₁ und X₂) müssen im Modell enthalten bleiben.", "Die Haupteffekte müssen aus dem Modell entfernt werden.", "Der Moderator darf nicht zentriert werden.", "Nur der Interaktionsterm darf im Modell stehen."],
+      "answer": 0,
+      "explanation": "Ein Interaktionsmodell muss die zugehörigen Haupteffekte enthalten, sonst ist der Interaktionsterm nicht sauber interpretierbar (Skript: „Haupteffekte müssen im Modell enthalten sein!“). Zwei Distraktoren verletzen das, einer ist inhaltlich falsch (Zentrierung ist gerade erwünscht)."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "3 Gruppen (A, B, C), C ist Referenz bei Dummy-Kodierung. Welche Regel gilt?",
+      "options": ["Man bildet 3 Dummies, für jede Gruppe einen.", "Alle Gruppen bekommen dieselbe Kodierung.", "Man bildet c−1 = 2 Dummies; die Referenz C hat auf allen Dummies 0, A und B je genau eine eigene 1.", "Die Referenz erhält auf jedem Dummy eine 1."],
+      "answer": 2,
+      "explanation": "Bei c Gruppen braucht man c−1 Dummies; die Referenzkategorie ist auf ALLEN Dummies 0, jede andere Gruppe auf genau einem Dummy 1. 3 Dummies erzeugen Redundanz, die anderen verletzen die Kodierregeln."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Wie ist der adjustierte Mittelwert einer Gruppe definiert?",
+      "options": ["Der Mittelwert der Kovariate in der Gruppe.", "Der Rohmittelwert der Gruppe ohne jede Korrektur.", "Der vorhergesagte Y-Wert der Gruppe, wenn die Kovariate ihren Mittelwert annimmt.", "Der Y-Wert bei überdurchschnittlicher Kovariate."],
+      "answer": 2,
+      "explanation": "Adjustierte Mittelwerte sind die für die Kovariate korrigierten Gruppen-Vorhersagen beim Kovariaten-Mittelwert (deshalb zentriert man). Ein Distraktor ignoriert die Adjustierung, einer wählt den falschen Kovariatenwert, einer verwechselt Y mit der Kovariate."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "trap": "„NICHT“ – Power wird erhöht, nicht gesenkt.",
+      "question": "Welchen Zweck erfüllt die Kovarianzanalyse NICHT?",
+      "options": ["Scheineffekte aufzudecken, die auf Drittvariablen beruhen.", "Konfundierende Störgrößen zu kontrollieren.", "Den Standardfehler durch Varianzbindung zu verringern.", "Die statistische Power gezielt zu senken."],
+      "answer": 3,
+      "explanation": "Die ANCOVA bindet Fehlervarianz über die Kovariate → kleinerer SE → HÖHERE Power. Power zu senken ist kein Zweck. Die anderen drei sind echte Zwecke der Kovarianzanalyse."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "hard": true,
+      "trap": "Slope = Differenz, nicht Mittelwert.",
+      "question": "Nach Zentrierung der Kovariate: Welche Aussage trifft NICHT zu?",
+      "options": ["Der Intercept entspricht dem adjustierten Mittelwert der Referenzgruppe.", "Der Intercept ist der vorhergesagte Y-Wert der Referenzgruppe bei mittlerer Kovariate.", "Der Slope einer Kodiervariablen entspricht der adjustierten Mittelwertsdifferenz zur Referenzgruppe.", "Der Slope einer Kodiervariablen entspricht dem adjustierten Mittelwert der kodierten Gruppe."],
+      "answer": 3,
+      "explanation": "Der Slope einer Kodiervariablen ist die DIFFERENZ der adjustierten Mittelwerte (kodierte Gruppe minus Referenz), nicht der adjustierte Mittelwert selbst → diese Aussage trifft nicht zu. Die übrigen beschreiben die zentrierte ANCOVA korrekt (Skript: „Intercept = adjustierter Mittelwert der Referenzgruppe“)."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "hard": true,
+      "question": "In einem ANCOVA-Output sinkt der Gruppeneffekt (Dummy Gymnasium) von 4,80 (ohne Kovariate) auf 1,26 (mit Kovariate „Matheleistung Grundschule“). Wie liest man das?",
+      "options": ["Die Kovariate hat den Effekt künstlich vergrößert.", "Ein Teil des rohen Gruppenunterschieds ging auf die Kovariate zurück; adjustiert bleibt ein kleinerer Effekt von 1,26.", "Der Gruppeneffekt ist nun exakt 0.", "Der F-Test ist dadurch immer nicht signifikant."],
+      "answer": 1,
+      "explanation": "Die Kovariate erklärt einen Teil des rohen Unterschieds; der ADJUSTIERTE (um Vorwissen bereinigte) Effekt ist mit 1,26 kleiner, aber im Beispiel weiterhin signifikant (p = .007). Die anderen kehren die Richtung um oder sind faktisch falsch."
+    },
+    {
+      "topic": "Messtheorie",
+      "question": "In der klassischen Testtheorie (KTT) wird eine beobachtete Testwertvariable Y zerlegt in …",
+      "options": ["… Prädiktor plus Kriterium.", "… True-Score τ plus Messfehler ε (Y = τ + ε).", "… latente Variable plus Regressionsgewicht.", "… Reliabilität plus Validität."],
+      "answer": 1,
+      "explanation": "Grundgleichung der KTT: beobachteter Wert = wahrer Wert (True Score τ) + Messfehler ε. Die anderen vermischen unpassende Begriffe – der Messfehler ist im Skript das Residuum der Regression E(Y|U)."
+    },
+    {
+      "topic": "Messtheorie",
+      "trap": "Ein Distraktor ist gerade die Gegenrichtung (1 − Rel).",
+      "question": "Wie ist die Reliabilität in der KTT konzeptuell definiert?",
+      "options": ["Als Anteil der Fehlervarianz an der Gesamtvarianz.", "Als Anteil der True-Score-Varianz an der Gesamtvarianz der beobachteten Variable.", "Als Korrelation zwischen Prädiktor und Kriterium.", "Als Differenz aus Validität und Objektivität."],
+      "answer": 1,
+      "explanation": "Reliabilität = Var(τ)/Var(Y), also der Anteil wahrer Varianz an der Gesamtvarianz (im Skript: der Determinationskoeffizient der Regression E(Yᵢ|U)). Ein Distraktor beschreibt 1 − Reliabilität, die anderen sind andere Gütekriterien."
+    },
+    {
+      "topic": "Messtheorie",
+      "hard": true,
+      "question": "Was bedeutet metrische Messinvarianz (wie in der SEM-Übung etabliert)?",
+      "options": ["Die Mittelwerte sind über die Gruppen gleich.", "Alle Items haben dieselbe Reliabilität.", "Die latente Varianz ist auf 1 fixiert.", "Die Faktorladungen sind über die Messzeitpunkte/Gruppen gleich, sodass Vergleiche „echte“ Veränderungen abbilden."],
+      "answer": 3,
+      "explanation": "Metrische Invarianz setzt die LADUNGEN über die Messungen gleich – erst dann ist sichergestellt, dass beobachtete Unterschiede echte Veränderungen sind und nicht nur Ladungsunterschiede. Gleiche Mittelwerte betreffen skalare Invarianz, die anderen sind eigene Bedingungen."
+    },
+    {
+      "topic": "Messtheorie",
+      "trap": "„FALSCH“ – perfekt reliabel = keine Fehlervarianz.",
+      "question": "Welche Aussage über den Zusammenhang von Reliabilität und Messfehler ist FALSCH?",
+      "options": ["Je höher die Reliabilität, desto kleiner der Anteil der Fehlervarianz.", "Unreliable Messungen verdünnen beobachtete Zusammenhänge.", "Reliabilität kann für Subtests, Testhälften oder den Gesamttest bestimmt werden.", "Eine perfekt reliable Messung hätte eine große Fehlervarianz."],
+      "answer": 3,
+      "explanation": "Perfekte Reliabilität bedeutet KEINE Fehlervarianz (Var(ε) = 0), nicht eine große → diese Aussage ist falsch. Die anderen sind korrekt (Reliabilität und Fehleranteil sind komplementär; Messfehler verdünnen Zusammenhänge)."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Wie viele einzigartige Informationen (Varianzen + Kovarianzen) liefern 4 beobachtete Variablen?",
+      "options": ["6.", "16.", "10.", "4."],
+      "answer": 2,
+      "explanation": "Formel p(p+1)/2 = 4·5/2 = 10 (4 Varianzen + 6 Kovarianzen). 16 wäre die volle p×p-Matrix, 6 nur die Kovarianzen, 4 nur die Varianzen."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "hard": true,
+      "question": "Ein Modell hat 10 einzigartige Informationen und schätzt 9 Parameter frei. Wie viele Freiheitsgrade (df) hat es, und was bedeutet das?",
+      "options": ["df = 19, überidentifiziert.", "df = 0, saturiert – perfekter Fit erzwungen.", "df = 1, überidentifiziert – das Modell ist testbar/falsifizierbar.", "df = 1, nicht identifiziert – nicht lösbar."],
+      "answer": 2,
+      "explanation": "df = Infos − Parameter = 10 − 9 = 1 (> 0) → überidentifiziert, also mit 1 Restriktion falsifizierbar. df = 0 wäre saturiert (perfekter Fit erzwungen), df < 0 wäre nicht identifiziert, 19 ist rechnerisch falsch."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Nach welchen Regeln bestimmt man modellimplizierte Korrelationen in Pfadmodellen?",
+      "options": ["Nach dem Prinzip der kleinsten Quadrate.", "Durch Quadrieren aller Ladungen.", "Nach Wrights Pfadregeln (tracing rules): keine Schleifen, nicht erst vorwärts dann rückwärts, höchstens ein ungerichteter Effekt pro Pfad.", "Durch Mittelung der beobachteten Korrelationen."],
+      "answer": 2,
+      "explanation": "Modellimplizierte Korrelationen ergeben sich über Wrights tracing rules (R1–R3 im Skript). OLS, Quadrieren oder Mittelung sind hier nicht das Verfahren."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "hard": true,
+      "trap": "„Signifikant“ ist hier gerade unerwünscht.",
+      "question": "Der Chi²-Anpassungstest für SEM hat eine bekannte Schwäche. Welche?",
+      "options": ["Er kann nur bei df = 0 berechnet werden.", "Er wird in großen Stichproben sehr leicht signifikant (sehr sensitiv), obwohl der Fit praktisch gut sein kann.", "Er ersetzt RMSEA und CFI vollständig.", "Er ist völlig unabhängig von der Stichprobengröße."],
+      "answer": 1,
+      "explanation": "Der Chi²-Test soll idealerweise NICHT signifikant werden; in großen Stichproben ist er aber sehr sensitiv und schlägt schon bei kleinen Abweichungen an. Deshalb ergänzt man ihn durch RMSEA (absolut) und CFI (inkrementell). Die anderen Aussagen sind falsch – der Test hängt gerade von N ab."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "trap": "RMSEA vergleicht mit dem saturierten Modell, CFI mit dem Nullmodell.",
+      "question": "Ein inkrementeller Fit-Index wie der CFI vergleicht das Modell mit …",
+      "options": ["… einem zufällig gezogenen Vergleichsdatensatz.", "… einem restriktiveren Modell (z. B. dem Nullmodell / Independence-Modell ohne Zusammenhänge).", "… dem saturierten Modell mit perfektem Fit.", "… der beobachteten Rohdatenmatrix direkt."],
+      "answer": 1,
+      "explanation": "Inkrementelle Indizes (CFI) vergleichen das Modell mit einem RESTRIKTIVEREN Baseline-/Nullmodell (keine Zusammenhänge). Der Vergleich mit dem saturierten/perfekten Modell kennzeichnet absolute Indizes wie RMSEA. Die anderen sind keine Referenzmodelle."
+    },
+    {
+      "topic": "Versuchsplanung",
+      "hard": true,
+      "question": "Bei einem Regressions-Diskontinuitätsdesign (lokale Regression) am Cutoff schätzt welcher Koeffizient den (lokalen) Treatmenteffekt?",
+      "options": ["Der Achsenabschnitt β₀.", "Die Residualvarianz.", "Der Koeffizient des zentrierten Laufvariablen-Terms (x − x_cutoff).", "Der Koeffizient der Gruppen-/Treatmentvariable c am Cutoff."],
+      "answer": 3,
+      "explanation": "Im Modell yᵢ = β₀ + β₁cᵢ + β₂(xᵢ − x_cutoff) + β₃cᵢ(xᵢ − x_cutoff) + ε ist β₁ (Koeffizient der Treatmentvariable c) der lokale Treatmenteffekt am Cutoff. β₀ ist das Niveau, β₂ der Zusammenhang der Laufvariable, die Residualvarianz ist kein Effekt."
+    },
+    {
+      "topic": "Versuchsplanung",
+      "trap": "Klingt technisch, ist aber ein Kontroll-Argument.",
+      "question": "Warum ist bei nicht-äquivalenten Gruppen (Quasi-Experiment mit Prä-Unterschied) von einer reinen ANOVA abzuraten?",
+      "options": ["Weil sie den Unterschied VOR dem Treatment nicht korrigiert; ANCOVA oder lokale Regression sind angemessener.", "Weil die ANOVA keine metrische AV zulässt.", "Weil die ANOVA immer signifikant wird.", "Weil die ANOVA grundsätzlich keine Gruppen vergleichen kann."],
+      "answer": 0,
+      "explanation": "Bei Prä-Unterschieden korrigiert die ANOVA nicht für den Ausgangsunterschied; man braucht Verfahren, die die Kovariate/den Prä-Wert einbeziehen (ANCOVA, lokale Regression). Die anderen Aussagen sind sachlich falsch."
+    },
+    {
+      "topic": "Methodenlehre",
+      "trap": "Zwei Distraktoren klingen plausibel, sind aber zu eng.",
+      "question": "Was meint „inhaltlich-methodische Synergie“ (Marsh & Hau, 2007) laut Beispielitems?",
+      "options": ["Methodenentwicklung erfolgt unabhängig von inhaltlichen Theorien.", "Methodiker analysieren lediglich fremde Daten.", "Methodiker beraten nur zu passenden Verfahren.", "Die Methodenentwicklung adressiert den Wunsch Forschender nach Verfahren für immer komplexere Fragestellungen (inhaltliche und methodische Entwicklung befruchten sich)."],
+      "answer": 3,
+      "explanation": "Synergie meint das WECHSELSEITIGE Zusammenspiel: Methodenentwicklung entsteht aus dem Bedarf an Verfahren für komplexere inhaltliche Fragen – beide Seiten treiben sich an. Zwei Optionen greifen zu kurz, eine beschreibt gerade das Gegenteil von Synergie."
+    }
+  ]
+}
