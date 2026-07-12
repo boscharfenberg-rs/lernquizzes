@@ -1,0 +1,331 @@
+{
+  "id": "psym20-probeklausur",
+  "title": "PSYM20 · Probeklausur Quiz",
+  "subject": "Statistik",
+  "description": "45 Fragen im Probeklausur-Stil · Multivariate Verfahren, mit Notentabelle.",
+  "showGrade": true,
+  "gradeScale": [[43,"1,0"],[40,"1,3"],[38,"1,7"],[36,"2,0"],[33,"2,3"],[31,"2,7"],[28,"3,0"],[26,"3,3"],[24,"3,7"],[23,"4,0"]],
+  "questions": [
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Welche der folgenden Verteilungen ist keine Kennwerteverteilung?",
+      "options": ["F-Verteilung.", "Chi²-Verteilung.", "Geschlechterverteilung.", "t-Verteilung."],
+      "answer": 2,
+      "explanation": "F-, Chi²- und t-Verteilung sind Stichprobenkennwerteverteilungen (Verteilungen von Teststatistiken). Die Geschlechterverteilung ist eine empirische Häufigkeitsverteilung eines Merkmals – keine Kennwerteverteilung."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was ist der Standardfehler für einen Parameter im Modell (z.B. für den Intercept in der Regression)?",
+      "options": ["Die Standardabweichung des Parameters in der Population.", "Die Varianz des Schätzers für den Parameter.", "Die Standardabweichung des Schätzers für den Parameter.", "Die Varianz des Parameters in der Population."],
+      "answer": 2,
+      "explanation": "Der Standardfehler (SE) ist die Standardabweichung der Stichprobenkennwerteverteilung des SCHÄTZERS. Der Parameter selbst ist eine feste Populationsgröße – er streut nicht (A, D falsch). Und es ist die SD, nicht die Varianz (B falsch)."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was ist das 95%-Konfidenzintervall?",
+      "options": ["Das Intervall, das den Parameter in der Population bei wiederholter Stichprobenziehung in 90% der Fälle überdeckt.", "Das Intervall, das den Schätzer bei wiederholter Stichprobenziehung in 95% der Fälle überdeckt.", "Das Intervall, das den Parameter in der Population bei wiederholter Stichprobenziehung in 95% der Fälle überdeckt.", "Das Intervall, das den Schätzer bei wiederholter Stichprobenziehung in 90% der Fälle überdeckt."],
+      "answer": 2,
+      "explanation": "Das KI überdeckt den PARAMETER (nicht den Schätzer, B/D falsch) in 95% (nicht 90%, A falsch) der wiederholten Stichproben. Die frequentistische Interpretation bezieht sich immer auf den festen Populationsparameter."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was ist der p-Wert?",
+      "options": ["Die Wahrscheinlichkeit ein solches oder noch extremeres Ergebnis zu erhalten, wenn die Alternativhypothese stimmt.", "Die Wahrscheinlichkeit ein weniger extremes Ergebnis zu erhalten, wenn die Nullhypothese stimmt.", "Die Wahrscheinlichkeit ein solches oder noch extremeres Ergebnis zu erhalten, wenn die Nullhypothese stimmt.", "Die Wahrscheinlichkeit ein weniger extremes Ergebnis zu erhalten, wenn die Alternativhypothese stimmt."],
+      "answer": 2,
+      "explanation": "p = P(Ergebnis so extrem oder extremer | H₀ stimmt). Bedingung ist immer H₀ (A/D falsch) und es geht um „so extrem oder extremer“, nicht „weniger extrem“ (B falsch)."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was besagt der Fehler 1. Art in einem Signifikanztest?",
+      "options": ["Die Nullhypothese zu verwerfen, wenn sie nicht stimmt.", "Die Nullhypothese zu verwerfen, obwohl sie stimmt.", "Die Nullhypothese nicht zu verwerfen, obwohl sie nicht stimmt.", "Die Nullhypothese nicht zu verwerfen, wenn sie stimmt."],
+      "answer": 1,
+      "explanation": "Fehler 1. Art (α-Fehler): H₀ wird verworfen, obwohl sie WAHR ist (Falsch-Positiv). A beschreibt eine korrekte Entscheidung, C ist der Fehler 2. Art, D ist ebenfalls korrekt."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was besagt der Fehler 2. Art in einem Signifikanztest?",
+      "options": ["Die Nullhypothese zu verwerfen, wenn sie nicht stimmt.", "Die Nullhypothese zu verwerfen, obwohl sie stimmt.", "Die Nullhypothese nicht zu verwerfen, obwohl sie nicht stimmt.", "Die Nullhypothese nicht zu verwerfen, wenn sie stimmt."],
+      "answer": 2,
+      "explanation": "Fehler 2. Art (β-Fehler): H₀ wird beibehalten, obwohl sie FALSCH ist (Falsch-Negativ – ein echter Effekt wird übersehen). B ist der Fehler 1. Art, A und D sind korrekte Entscheidungen."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Was gibt die Power eines Tests an?",
+      "options": ["Die Wahrscheinlichkeit ein signifikantes Ergebnis zu erhalten.", "Die Wahrscheinlichkeit kein signifikantes Ergebnis zu erhalten.", "Die Wahrscheinlichkeit, mit der ein tatsächlich vorhandener Unterschied/Zusammenhang aufgedeckt werden kann.", "Die Wahrscheinlichkeit einen tatsächlich vorhandenen Unterschied/Zusammenhang nicht aufzudecken."],
+      "answer": 2,
+      "explanation": "Power = 1 − β = Wahrscheinlichkeit, einen EXISTIERENDEN Effekt korrekt zu entdecken. A ist zu unspezifisch (auch bei wahrer H₀ kann man signifikant werden = Fehler 1. Art), D beschreibt genau β (den Fehler 2. Art)."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Welcher Fehler wird minimiert, wenn man die Power eines Tests maximiert?",
+      "options": ["Fehler 1. Art.", "Fehler 2. Art.", "Fehler 3. Art.", "Keiner der Fehler, denn die Fehler sind unabhängig von der Power eines Tests."],
+      "answer": 1,
+      "explanation": "Power = 1 − β. Maximiert man die Power, minimiert man β = Fehler 2. Art. Der Fehler 1. Art (α) wird vorab festgelegt (A falsch), einen „Fehler 3. Art“ gibt es hier nicht (C), und Power und β sind direkt gekoppelt (D falsch)."
+    },
+    {
+      "topic": "Inferenzstatistik",
+      "question": "Welche Aussage dürfen Sie bei einem negativen Ergebnis des Signifikanztests (p > α) auf keinen Fall treffen?",
+      "options": ["Dass die Stichprobe zu klein war, um den gewünschten Effekt aufzudecken.", "Dass die Power zu gering war.", "Dass die Nullhypothese damit bewiesen wurde.", "Dass der gewünschte Effekt zu klein war, um ihn mit der Studie aufzudecken."],
+      "answer": 2,
+      "explanation": "Ein nicht-signifikantes Ergebnis BEWEIST H₀ nie – „absence of evidence ≠ evidence of absence“. A, B und D sind zulässige, vorsichtige Erklärungen für ein Nicht-Signifikant-Werden."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Was bezeichnet man in der Regressionsanalyse als Prädiktor?",
+      "options": ["Die zu erklärende Variable.", "Die erklärende Variable.", "Die abhängige Variable.", "Das Kriterium."],
+      "answer": 1,
+      "explanation": "Der Prädiktor ist die erklärende (unabhängige) Variable X. „Zu erklärende Variable“, „abhängige Variable“ und „Kriterium“ sind alle drei Bezeichnungen für Y – das Gegenteil."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Was bezeichnet man in der Regressionsanalyse als abhängige Variable?",
+      "options": ["Die erklärende Variable.", "Den Prädiktor.", "Die zu erklärende Variable.", "Die Einflussgröße."],
+      "answer": 2,
+      "explanation": "Die abhängige Variable Y ist die zu erklärende Variable (Kriterium). „Erklärende Variable“, „Prädiktor“ und „Einflussgröße“ meinen alle X."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Was besagt das Prinzip der kleinsten Quadrate?",
+      "options": ["Maximiere die Summe der quadrierten Abweichung zwischen beobachteten und vorhergesagten Y-Werten.", "Minimiere die Summe der quadrierten Abweichung zwischen beobachteten und vorhergesagten Y-Werten.", "Minimiere das Produkt der quadrierten Abweichung zwischen beobachteten und vorhergesagten Y-Werten.", "Maximiere das Produkt der quadrierten Abweichung zwischen beobachteten und vorhergesagten Y-Werten."],
+      "answer": 1,
+      "explanation": "OLS MINIMIERT die SUMME der quadrierten Residuen Σ(Y−Ŷ)². Maximieren (A, D) wäre unsinnig, und es ist die Summe, nicht das Produkt (C)."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Was gibt das R² in der einfachen Regression an?",
+      "options": ["Die Residualvarianz der abhängigen Variablen.", "Die durch die abhängige Variable erklärte Varianz des Prädiktors.", "Die nicht durch den Prädiktor erklärte Varianz der abhängigen Variablen.", "Die durch den Prädiktor erklärte Varianz der abhängigen Variablen."],
+      "answer": 3,
+      "explanation": "R² = Anteil der durch den Prädiktor AUFGEKLÄRTEN Varianz von Y. C beschreibt genau das Gegenteil (1 − R²), A meint ebenfalls den unerklärten Rest, B dreht die Richtung um (X durch Y)."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Wie verhält sich R² zur Korrelation des Prädiktors mit der abhängigen Variablen?",
+      "options": ["Das R² entspricht der doppelten Korrelation.", "Das R² entspricht der Wurzel aus der Korrelation.", "Das R² entspricht der quadrierten Korrelation.", "Das R² entspricht der halben Korrelation."],
+      "answer": 2,
+      "explanation": "In der einfachen Regression gilt R² = r². Deshalb heißt es auch „R-Quadrat“. Doppelt, Wurzel oder halbe Korrelation sind alle falsch."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Welche Interpretation hat der Achsenabschnitt (Intercept) der einfachen Regression?",
+      "options": ["Vorhergesagter X-Wert, wenn Y den Wert Null annimmt.", "Vorhergesagter Y-Wert, wenn Y den Wert Null annimmt.", "Vorhergesagter X-Wert, wenn X den Wert Null annimmt.", "Vorhergesagter Y-Wert, wenn X den Wert Null annimmt."],
+      "answer": 3,
+      "explanation": "Der Intercept ist der vorhergesagte Ŷ-Wert bei X = 0. Vorhergesagt wird immer Y (nicht X → A, C falsch), und die Bedingung betrifft X = 0, nicht Y = 0 (B falsch)."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Welche Interpretation hat der Steigungskoeffizient (Slope) der einfachen Regression?",
+      "options": ["Vorhergesagte Änderung von Y, wenn sich X um eine Einheit ändert.", "Vorhergesagte Änderung von X, wenn sich Y um eine Einheit ändert.", "Vorhergesagte Änderung von Y, wenn sich Y um eine Einheit ändert.", "Vorhergesagte Änderung von X, wenn sich X um eine Einheit ändert."],
+      "answer": 0,
+      "explanation": "Der Slope b sagt: Ändert sich X um 1 Einheit, ändert sich Ŷ um b Einheiten. B/D drehen die Rollen von X und Y, C ist unsinnig (Y erklärt Y)."
+    },
+    {
+      "topic": "Einfache Regression",
+      "question": "Mit welchem der folgenden Tests lassen sich Regressionskoeffizienten auf Signifikanz prüfen?",
+      "options": ["Chi²-Test.", "Gamma-Test.", "Omega-Test.", "t-Test."],
+      "answer": 3,
+      "explanation": "Einzelne Regressionskoeffizienten werden per t-Test geprüft (t = Estimate / SE). Chi² prüft z.B. Modellfit in SEM, „Gamma-“ und „Omega-Test“ sind hier Fantasienamen."
+    },
+    {
+      "topic": "Standardisierte Regression",
+      "question": "Welche Einheit hat eine z-standardisierte Variable?",
+      "options": ["1 Einheit auf der Likert-Skala.", "1 cm.", "1 Standardabweichung.", "1 kg."],
+      "answer": 2,
+      "explanation": "Nach der z-Standardisierung wird in Standardabweichungen gemessen (M = 0, SD = 1). Die ursprünglichen Skaleneinheiten (Likert, cm, kg) sind gerade herausgerechnet."
+    },
+    {
+      "topic": "Standardisierte Regression",
+      "question": "Wie groß ist der standardisierte Achsenabschnitt (Intercept) in einer einfachen Regression?",
+      "options": ["-1.", "1.", "0.", "2."],
+      "answer": 2,
+      "explanation": "Bei z-standardisierten Variablen liegen beide Mittelwerte bei 0, also geht die Regressionsgerade durch den Ursprung → standardisierter Intercept = 0."
+    },
+    {
+      "topic": "Standardisierte Regression",
+      "question": "Welche Interpretation hat der standardisierte Steigungskoeffizient (Slope) der einfachen Regression?",
+      "options": ["Vorhergesagte Änderung von X in SD, wenn sich X um eine SD ändert.", "Vorhergesagte Änderung von X in SD, wenn sich Y um eine SD ändert.", "Vorhergesagte Änderung von Y in SD, wenn sich Y um eine SD ändert.", "Vorhergesagte Änderung von Y in SD, wenn sich X um eine SD ändert."],
+      "answer": 3,
+      "explanation": "Der standardisierte Slope (β) sagt: Ändert sich X um 1 SD, ändert sich Ŷ um β SD. Vorhergesagt wird Y (A/B falsch), Auslöser ist X (C falsch)."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Welches ist ein Ziel der multiplen Regressionsanalyse?",
+      "options": ["Kontrolle von Drittvariablen.", "Kontrolle von Zweitvariablen.", "Überprüfung von Drittvariablen.", "Überprüfung von Zweitvariablen."],
+      "answer": 0,
+      "explanation": "Durch Aufnahme weiterer Prädiktoren kontrolliert (partialisiert) man Drittvariablen heraus. „Zweitvariablen“ ist kein Fachbegriff, und „Überprüfung“ trifft den Kontroll-Zweck nicht."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Was meint man mit dem Zusatz „unter Konstanthaltung aller anderen Prädiktoren“ bei der Slope-Interpretation?",
+      "options": ["Die Koeffizienten aller anderen Prädiktoren sind Null.", "Alle anderen Prädiktoren ändern sich nicht.", "Alle anderen Prädiktoren ändern sich auch um eine Einheit.", "Alle anderen Prädiktoren sind nicht im Modell enthalten."],
+      "answer": 1,
+      "explanation": "„Konstanthalten“ heißt: die übrigen Prädiktoren bleiben unverändert (ceteris paribus), während man einen um 1 Einheit erhöht. Ihre Koeffizienten bleiben im Modell (A/D falsch) und sie ändern sich gerade NICHT (C falsch)."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Welche Bedeutung hat die Zahl 2 vor IQ in: `Mathe = 0 + 2·IQ + 1·Gewissenhaftigkeit`?",
+      "options": ["Bei gleicher Gewissenhaftigkeit erhält eine um 1 IQ-Punkt bessere Schülerin im Mittel 2 Punkte mehr.", "Bei gleichem IQ erhält eine um 1 Punkt gewissenhaftere Schülerin im Mittel 1 Punkt mehr.", "Bei gleicher Gewissenhaftigkeit erhält eine um 2 IQ-Punkte bessere Schülerin im Mittel 1 Punkt mehr.", "Bei gleichem IQ erhält eine um 2 Punkte gewissenhaftere Schülerin im Mittel 2 Punkte mehr."],
+      "answer": 0,
+      "explanation": "b_IQ = 2 heißt: 1 IQ-Punkt mehr → 2 Mathe-Punkte mehr, bei konstant gehaltener Gewissenhaftigkeit. B beschreibt korrekt den Gewissenhaftigkeits-Koeffizienten (nicht IQ), C/D rechnen die Einheiten falsch um."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Mit welchem Test prüft man das R² (Determinationskoeffizient) auf Signifikanz?",
+      "options": ["Gamma-Test.", "t-Test.", "F-Test.", "Chi²-Test."],
+      "answer": 2,
+      "explanation": "Das gesamte R² (bzw. das Gesamtmodell) wird per F-Test geprüft. Der t-Test gilt für einzelne Koeffizienten, „Gamma“ existiert hier nicht, Chi² ist der SEM-Fittest."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Mit welcher alternativen Teststrategie lassen sich Regressionskoeffizienten auf Signifikanz prüfen?",
+      "options": ["Test auf zusätzliche Aufklärung der Varianz der abhängigen Variablen durch den Prädiktor.", "Test auf zusätzliche Korrelation zwischen der abhängigen Variablen und dem Prädiktor.", "Test auf zusätzliche Aufklärung der Varianz des Prädiktors durch die abhängige Variable.", "Test auf zusätzliche Korrelation zwischen dem Prädiktor und der abhängigen Variablen."],
+      "answer": 0,
+      "explanation": "Man prüft, ob der Prädiktor ZUSÄTZLICHE Varianz von Y aufklärt (ΔR²-Test per F). Es geht um Varianzaufklärung, nicht Korrelation (B/D), und Y wird aufgeklärt, nicht X (C dreht die Richtung um)."
+    },
+    {
+      "topic": "Multiple Regression",
+      "question": "Wie nennt man diese alternative Teststrategie auch?",
+      "options": ["Mediation.", "Interaktives Vorgehen.", "Hierarchische Regression.", "Moderation."],
+      "answer": 2,
+      "explanation": "Der blockweise ΔR²-Vergleich heißt hierarchische Regression. Mediation und Moderation sind eigene inhaltliche Modelle, „interaktives Vorgehen“ ist kein Fachbegriff."
+    },
+    {
+      "topic": "Pfadmodelle",
+      "isImage": true,
+      "question": "Sie untersuchen, ob gewissenhaftere und am Fach interessiertere Schüler:innen auch mehr lernen. Welche pfadanalytische Darstellung entspricht dem Modell der zu berechnenden Regression?",
+      "options": ["Diagramm A", "Diagramm B", "Diagramm C", "Diagramm D"],
+      "answer": 0,
+      "explanation": "BILDFRAGE – im Original werden vier Pfaddiagramme gezeigt. Gesucht ist das Diagramm, in dem beide Prädiktoren (Gewissenhaftigkeit, Interesse) je einen Pfeil auf das Kriterium (Lernen) richten UND miteinander korreliert sind (Doppelpfeil zwischen den Prädiktoren) – das Standardbild der multiplen Regression. Schau dir dazu die Original-Grafik auf S. 7 an; die Auswahl hier ist Platzhalter."
+    },
+    {
+      "topic": "Moderation",
+      "question": "Was ist ein Moderator im Rahmen der Moderationsanalyse?",
+      "options": ["Eine Variable, die die Höhe eines Prädiktors beeinflusst.", "Ein Regressionskoeffizient, der Vorzeichen und/oder Stärke des Zusammenhangs eines Prädiktors mit dem Kriterium beeinflusst.", "Eine Variable, die Vorzeichen und/oder Stärke des Zusammenhangs eines Prädiktors mit dem Kriterium beeinflusst.", "Ein Regressionskoeffizient, der die Höhe eines Prädiktors beeinflusst."],
+      "answer": 2,
+      "explanation": "Ein Moderator ist eine VARIABLE, die Stärke/Richtung des X-Y-Zusammenhangs verändert. B/D sagen fälschlich „Regressionskoeffizient“ statt Variable, A meint bloß die Höhe eines Prädiktors (kein Moderationseffekt)."
+    },
+    {
+      "topic": "Moderation",
+      "question": "Was versteht man unter einer bedingten einfachen Regression?",
+      "options": ["Die Regression, die sich ergibt, wenn man den Moderator weglässt.", "Die Regression, die sich ergibt, wenn man für den Moderator einen konkreten Wert einsetzt.", "Die Regression, die sich ergibt, wenn der Regressionskoeffizient für den Moderator Null ist.", "Die Regression, die sich ergibt, wenn man den Moderator quadriert."],
+      "answer": 1,
+      "explanation": "Setzt man für den Moderator einen konkreten Wert ein, erhält man die bedingte (conditional) Regression von Y auf X für genau diesen Moderatorwert. Weglassen (A), Nullsetzen (C) oder Quadrieren (D) ergeben etwas anderes."
+    },
+    {
+      "topic": "Moderation",
+      "isImage": true,
+      "question": "Fehlendes Interesse an Mathe soll durch mehr Anstrengung kompensiert werden können (Interaktionsplot). Welche Aussage ist FALSCH?",
+      "options": ["Der Zusammenhang zwischen Interesse und Leistung wird von der Anstrengung moderiert.", "Es gibt einen Zusammenhang zwischen Schulleistung und Interesse.", "Schüler:innen, die sich anstrengen, lernen auch mehr.", "Die Anstrengung zahlt sich insbesondere für Schüler:innen mit starkem Interesse aus."],
+      "answer": 3,
+      "explanation": "BILDFRAGE (Interaktionsplot, S. 8). „Kompensation“ heißt: gerade bei GERINGEM Interesse hilft Anstrengung besonders. Aussage D behauptet das Gegenteil (Nutzen v.a. bei starkem Interesse) und ist damit die falsche Aussage. A, B, C sind mit dem Kompensations-Muster vereinbar."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Was zeichnet die Kovarianzanalyse gegenüber der klassischen multiplen Regression aus?",
+      "options": ["Der fokale Prädiktor ist kategoriell und nicht metrisch.", "Die abhängige Variable ist kategoriell und nicht metrisch.", "Die Kovariate ist kategoriell und nicht metrisch.", "Alle Variablen sind kategoriell und nicht metrisch."],
+      "answer": 0,
+      "explanation": "In der ANCOVA ist der interessierende (fokale) Prädiktor kategoriell (Gruppen), während eine metrische Kovariate kontrolliert wird. Y bleibt metrisch (B falsch), die Kovariate ist gerade metrisch (C falsch), und nicht alle Variablen sind kategoriell (D falsch)."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Welchen Zweck erfüllt die Kovarianzanalyse NICHT?",
+      "options": ["Aufdeckung von Scheineffekten (scheinbare Kategorienunterschiede, die auf Drittvariablen beruhen).", "Kontrolle von Störgrößen/konfundierenden Variablen.", "Verringerung des Standardfehlers.", "Senkung der statistischen Power."],
+      "answer": 3,
+      "explanation": "Die ANCOVA ERHÖHT durch Kontrolle einer Kovariate die Power (kleinerer Fehlerterm → kleinerer SE), sie senkt sie nicht. A, B und C sind echte Zwecke der Kovarianzanalyse."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "isImage": true,
+      "question": "3 Schultypen (Gymnasium, Realschule, Hauptschule), Hauptschule = Referenzkategorie. Welches Dummy-Kodierschema ist korrekt?",
+      "options": ["C1: Gym0 Real1 Haupt0 · C2: Gym0 Real0 Haupt1", "C1: Gym1 Real1 Haupt0 · C2: Gym0 Real0 Haupt0", "C1: Gym1 Real0 Haupt0 · C2: Gym1 Real0 Haupt0", "C1: Gym1 Real0 Haupt0 · C2: Gym0 Real1 Haupt0"],
+      "answer": 3,
+      "explanation": "Bei Dummy-Kodierung mit Hauptschule als Referenz bekommt die Referenz in ALLEN Dummies eine 0, und jede andere Kategorie genau eine eigene 1: C1 markiert Gymnasium (1,0,0), C2 markiert Realschule (0,1,0). Das ist Option D. Die anderen Schemata verletzen die Regel (Referenz nicht durchgehend 0 bzw. Kategorien nicht eindeutig kodiert). Vergleiche mit der Originaltabelle auf S. 9."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "isImage": true,
+      "question": "Gymnasium vs. Gesamtschule, zusätzlich SES als Kovariate (Plot). Welche Aussage ist FALSCH?",
+      "options": ["Der Zusammenhang zwischen Schulform und Leistung wird NICHT vom SES moderiert.", "Es gibt einen Zusammenhang zwischen Schulleistung und Schulform unter Kontrolle des SES.", "Schüler:innen in Gymnasien lernen mehr als in Gesamtschulen.", "Schüler:innen mit hohem SES lernen mehr als solche mit niedrigem SES."],
+      "answer": 0,
+      "explanation": "BILDFRAGE (S. 10). In einer typischen ANCOVA-Darstellung mit zwei parallelen Regressionsgeraden ist die richtige Lösung diejenige Aussage, die dem Bild widerspricht. Achte im Original darauf, ob die Geraden parallel (keine Moderation) oder unterschiedlich steil (Moderation) sind – die FALSCHE Aussage ist die, die dem Bild widerspricht. Hier als Platzhalter A markiert; verifiziere an der Original-Grafik."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Wie ist der adjustierte Mittelwert einer Kategorie in der Kovarianzanalyse definiert?",
+      "options": ["Vorhergesagter Y-Wert der Kategorie, wenn die Kovariate eine mittlere Ausprägung annimmt.", "Vorhergesagter Y-Wert der Kategorie, wenn die Kovariate eine überdurchschnittliche Ausprägung annimmt.", "Vorhergesagter Y-Wert der Kategorie, wenn die Kovariate eine unterdurchschnittliche Ausprägung annimmt.", "Vorhergesagter Y-Wert der Kategorie, wenn die Interaktion den Wert Null annimmt."],
+      "answer": 0,
+      "explanation": "Der adjustierte Mittelwert ist der vorhergesagte Ŷ der Gruppe beim MITTELWERT der Kovariate (deshalb zentriert man sie oft). Über-/unterdurchschnittliche Werte (B/C) ergäben andere Werte, D verwechselt Kovariate mit Interaktion."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Was versteht man unter der adjustierten Mittelwertsdifferenz zweier Kategorien?",
+      "options": ["Die Differenz der (unadjustierten) Mittelwerte der Kategorien.", "Die Differenz der Summenwerte der Kategorien.", "Die Summe der adjustierten Mittelwerte der Kategorien.", "Die Differenz der adjustierten Mittelwerte der Kategorien."],
+      "answer": 3,
+      "explanation": "Es ist die DIFFERENZ der ADJUSTIERTEN Mittelwerte (bei gleicher Kovariatenausprägung). A nimmt unadjustierte Mittelwerte, B nutzt Summenwerte, C bildet eine Summe statt einer Differenz."
+    },
+    {
+      "topic": "Kovarianzanalyse",
+      "question": "Welche Aussage trifft NICHT zu, wenn die Kovariate zuvor zentriert wurde?",
+      "options": ["Der Intercept entspricht dem vorhergesagten Y-Wert der Referenzkategorie bei mittlerer Kovariatenausprägung.", "Der Slope einer Kodiervariablen entspricht der Differenz zwischen vorhergesagtem Y der kodierten Kategorie und der Referenzkategorie bei mittlerer Kovariatenausprägung.", "Der Intercept entspricht dem adjustierten Mittelwert der Referenzkategorie.", "Der Slope entspricht dem adjustierten Mittelwert der kodierten Kategorie."],
+      "answer": 3,
+      "explanation": "Der Slope einer Kodiervariablen ist die DIFFERENZ der adjustierten Mittelwerte (kodierte Kategorie minus Referenz), nicht der adjustierte Mittelwert selbst – deshalb trifft D nicht zu. A, B und C beschreiben die zentrierte ANCOVA korrekt."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Was versteht man unter einer latenten Variablen?",
+      "options": ["Das Y in der Regressionsgleichung.", "Ein psychologisches Konzept.", "Das Modell eines Konzepts.", "Eine unbeobachtbare Eigenschaft."],
+      "answer": 3,
+      "explanation": "Eine latente Variable ist eine nicht direkt beobachtbare (nur über Indikatoren erschlossene) Eigenschaft. Y kann beobachtet sein (A), ein psychologisches Konzept (B) bzw. dessen Modell (C) sind inhaltliche Begriffe, nicht die statistische Definition."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Welches Symbol gehört NICHT zur Notation latenter Variablenmodelle?",
+      "options": ["→ (gerichteter Pfeil)", "↔ (Doppelpfeil)", "○ (Kreis/Oval)", "⌂ (Haus)"],
+      "answer": 3,
+      "explanation": "Pfad-/SEM-Notation nutzt gerichtete Pfeile (→), Doppelpfeile für Kovarianzen (↔) und Kreise/Ovale für latente Variablen (○) – Rechtecke stehen für manifeste Variablen. Ein „Haus“-Symbol (⌂) gibt es nicht."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Welches ist KEINE statistische Annahme von latenten Variablenmodellen?",
+      "options": ["Unabhängigkeit der Beobachtungen.", "Linearität.", "Multivariate Normalverteilung.", "Eine hinreichend große Stichprobe."],
+      "answer": 3,
+      "explanation": "Unabhängigkeit, Linearität und multivariate Normalverteilung sind statistische ANNAHMEN. Eine große Stichprobe ist eine praktische Voraussetzung für stabile Schätzung/Fit, aber keine Verteilungs-/Modellannahme im engeren Sinn."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Wie viele einzigartige Informationen (Varianzen und Kovarianzen) gibt es bei 7 beobachteten Variablen?",
+      "options": ["35.", "7.", "28.", "21."],
+      "answer": 2,
+      "explanation": "Formel: p(p+1)/2 = 7·8/2 = 28 (7 Varianzen + 21 Kovarianzen). 21 (D) wäre nur die Zahl der Kovarianzen ohne Varianzen, 7 (B) nur die Varianzen, 35 (A) ist schlicht falsch."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "isImage": true,
+      "question": "Wie viele Freiheitsgrade besitzt das gezeigte Modell?",
+      "options": ["Keinen.", "3.", "1.", "2."],
+      "answer": 2,
+      "explanation": "BILDFRAGE (S. 12). df = (Zahl einzigartiger Informationen) − (Zahl frei geschätzter Parameter). Zähle in der Original-Grafik die manifesten Variablen für p(p+1)/2 und ziehe die geschätzten Pfade/Varianzen ab. Die markierte Lösung (1) ist Platzhalter – rechne mit der konkreten Grafik nach."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "isImage": true,
+      "question": "Bestimme (bei z-standardisierten Variablen) die modellimplizierte Korrelation zwischen y3 und y4.",
+      "options": ["p31·p41 + p31·r12·p42 + p32·p42.", "p31·r12·p42.", "p31·r12·p42 + p32·p42.", "p32·p42."],
+      "answer": 0,
+      "explanation": "BILDFRAGE (S. 12). Nach den Pfadregeln summiert man ALLE zulässigen Pfade zwischen y3 und y4: den direkten Weg über jeden gemeinsamen Prädiktor plus den Weg, der über die Korrelation r12 der beiden Prädiktoren läuft. Die vollständige Summe (Option A) enthält genau diese drei Terme; B, C, D lassen jeweils Pfade weg."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Welcher Verteilung folgt der gängige Anpassungstest für latente Variablenmodelle?",
+      "options": ["Chi².", "RMSEA.", "F.", "CFI."],
+      "answer": 0,
+      "explanation": "Der klassische globale Modellfittest ist der Chi²-Test. RMSEA und CFI sind Fit-INDIZES (keine Verteilungen), F gehört zur Regression/ANOVA."
+    },
+    {
+      "topic": "Latente Variablenmodelle",
+      "question": "Ein Modell mit 1 latenten Variablen, auf die 5 Items laden, soll per CFI gegen ein restriktiveres Modell getestet werden. Wie viele Ladungen enthält dieses restriktivere Modell?",
+      "options": ["5.", "4.", "Keine.", "1."],
+      "answer": 2,
+      "explanation": "Der CFI vergleicht das Modell mit dem Baseline-/Nullmodell (Independence-Modell), in dem die Variablen unkorreliert sind – dort werden KEINE Ladungen geschätzt. 5, 4 oder 1 Ladung(en) gehören zum getesteten bzw. zu Zwischenmodellen, nicht zum Baseline-Modell."
+    }
+  ]
+}
