@@ -1,6 +1,7 @@
 {
   "subjects": [
     { "id": "psym20-probeklausur", "file": "psym20-probeklausur.json", "title": "PSYM20 · Probeklausur Quiz", "subject": "Statistik", "description": "45 Fragen im Probeklausur-Stil, mit Themenfilter und Notentabelle." },
-    { "id": "psym20-uebung-set2", "file": "psym20-uebung-set2.json", "title": "PSYM20 · Übungsquiz Set 2", "subject": "Statistik", "description": "42 Fragen im Altklausur-Stil, mit Themenfilter und Note." }
+    { "id": "psym20-uebung-set2", "file": "psym20-uebung-set2.json", "title": "PSYM20 · Übungsquiz Set 2", "subject": "Statistik", "description": "42 Fragen im Altklausur-Stil, mit Themenfilter und Note." },
+    { "id": "psym20-uebung-set3", "file": "psym20-uebung-set3.json", "title": "PSYM20 · Übungsquiz Set 3", "subject": "Statistik", "description": "30 Fragen zu Notation, Formeln & R-/lavaan-Output, mit Themenfilter und Note." }
   ]
 }
