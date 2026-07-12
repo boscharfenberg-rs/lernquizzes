@@ -23,6 +23,8 @@ let subjects = [];
 let quiz = null;                 // aktuell geladenes Quiz
 let topicColors = {};            // Thema -> Farbe
 let state = { idx: 0, answers: {}, showResult: false, filterTopic: "Alle" };
+let currentSubject = null;       // aktuell gewähltes Fach (für Zurück-Navigation)
+let faecherList = [];            // deklarierte Fächer aus subjects.json (auch ohne Sets)
 
 // --- Laden -----------------------------------------------------------------
 
@@ -32,6 +34,7 @@ async function init() {
     if (!res.ok) throw new Error(`subjects.json: HTTP ${res.status}`);
     const data = await res.json();
     subjects = Array.isArray(data.subjects) ? data.subjects : [];
+    faecherList = Array.isArray(data.faecher) ? data.faecher : [];
     renderSubjects();
   } catch (err) {
     showError(
@@ -64,6 +67,7 @@ async function loadQuiz(file) {
 
 // --- Übersicht -------------------------------------------------------------
 
+// Ebene 1: Fächer (eindeutige subject-Werte). Klick -> Sets dieses Fachs.
 function renderSubjects() {
   homeBtn.hidden = true;
   appTitle.textContent = "Lernquiz";
@@ -74,7 +78,43 @@ function renderSubjects() {
     return;
   }
 
-  const cards = subjects.map((s) => `
+  // Anzahl der Sets je Fach.
+  const counts = {};
+  subjects.forEach((s) => {
+    const subj = s.subject || "Ohne Fach";
+    counts[subj] = (counts[subj] || 0) + 1;
+  });
+  // Level-1-Menü: deklarierte Fächer (auch ohne Sets); sonst aus den Sets abgeleitet.
+  const faecher = faecherList.length ? faecherList : Object.keys(counts);
+
+  const cards = faecher.map((subj) => {
+    const n = counts[subj] || 0;
+    return `
+    <button class="subject-card" data-subject="${escapeHtml(subj)}">
+      <h3>${escapeHtml(subj)}</h3>
+      <p class="count">${n} ${n === 1 ? "Set" : "Sets"}</p>
+    </button>`;
+  }).join("");
+
+  app.innerHTML = `
+    <p class="lead">Wähle ein Fach:</p>
+    <div class="subject-grid">${cards}</div>
+  `;
+  app.querySelectorAll(".subject-card").forEach((btn) => {
+    btn.addEventListener("click", () => renderSets(btn.dataset.subject));
+  });
+}
+
+// Ebene 2: Sets eines Fachs (alle Einträge mit diesem subject). Klick -> Quiz.
+function renderSets(subject) {
+  homeBtn.hidden = false;          // Zurück-Button führt zurück zu den Fächern
+  appTitle.textContent = "Lernquiz";
+  quiz = null;
+  currentSubject = subject;
+
+  const sets = subjects.filter((s) => (s.subject || "Ohne Fach") === subject);
+
+  const cards = sets.map((s) => `
     <button class="subject-card" data-file="${escapeHtml(s.file)}">
       ${s.subject ? `<span class="tag">${escapeHtml(s.subject)}</span>` : ""}
       <h3>${escapeHtml(s.title || s.file)}</h3>
@@ -82,9 +122,13 @@ function renderSubjects() {
     </button>
   `).join("");
 
+  const body = sets.length
+    ? `<div class="subject-grid">${cards}</div>`
+    : `<p class="lead">Für dieses Fach gibt es noch keine Sets.</p>`;
+
   app.innerHTML = `
-    <p class="lead">Wähle ein Thema:</p>
-    <div class="subject-grid">${cards}</div>
+    <p class="lead">${escapeHtml(subject)} – wähle ein Set:</p>
+    ${body}
   `;
   app.querySelectorAll(".subject-card").forEach((btn) => {
     btn.addEventListener("click", () => loadQuiz(btn.dataset.file));
@@ -351,7 +395,12 @@ document.addEventListener("keydown", (e) => {
   if (i >= 0 && i < q.options.length) selectAnswer(i);
 });
 
-homeBtn.addEventListener("click", renderSubjects);
+// Zurück-Button ist kontextabhängig: aus dem Quiz zu den Sets des Fachs,
+// aus der Set-Liste zu den Fächern.
+homeBtn.addEventListener("click", () => {
+  if (quiz) renderSets(currentSubject);
+  else renderSubjects();
+});
 
 init();
 // Ende
