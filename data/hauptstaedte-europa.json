@@ -1,0 +1,32 @@
+{
+  "id": "hauptstaedte-europa",
+  "title": "Hauptstädte Europas",
+  "subject": "Geografie",
+  "description": "Zweites Beispiel-Fach – zeigt, wie einfach Erweitern ist.",
+  "questions": [
+    {
+      "question": "Wie heißt die Hauptstadt von Portugal?",
+      "options": ["Lissabon", "Porto", "Madrid", "Sevilla"],
+      "answer": 0,
+      "explanation": "Lissabon (Lisboa) liegt an der Atlantikmündung des Tejo."
+    },
+    {
+      "question": "Welche Stadt ist die Hauptstadt von Norwegen?",
+      "options": ["Bergen", "Oslo", "Stockholm", "Trondheim"],
+      "answer": 1,
+      "explanation": "Oslo liegt am Ende des Oslofjords und ist seit 1814 Hauptstadt."
+    },
+    {
+      "question": "Die Hauptstadt von Kroatien ist …",
+      "options": ["Split", "Dubrovnik", "Zagreb", "Rijeka"],
+      "answer": 2,
+      "explanation": "Zagreb ist die größte Stadt und das politische Zentrum Kroatiens."
+    },
+    {
+      "question": "Welche Stadt ist die Hauptstadt der Schweiz?",
+      "options": ["Zürich", "Genf", "Basel", "Bern"],
+      "answer": 3,
+      "explanation": "Bern ist die 'Bundesstadt' – Zürich und Genf sind größer, aber nicht Hauptstadt."
+    }
+  ]
+}

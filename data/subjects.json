@@ -1,0 +1,25 @@
+{
+  "subjects": [
+    {
+      "id": "psym20-uebung-set2",
+      "file": "psym20-uebung-set2.json",
+      "title": "PSYM20 · Übungsquiz Set 2",
+      "subject": "Statistik",
+      "description": "42 Fragen im Altklausur-Stil, mit Themenfilter und Note."
+    },
+    {
+      "id": "psym20-statistik",
+      "file": "psym20-statistik.json",
+      "title": "Statistik – Grundlagen (PSYM20)",
+      "subject": "Statistik",
+      "description": "Regression, Moderation, Mediation und Messfehler."
+    },
+    {
+      "id": "hauptstaedte-europa",
+      "file": "hauptstaedte-europa.json",
+      "title": "Hauptstädte Europas",
+      "subject": "Geografie",
+      "description": "Zweites Beispiel-Fach – zeigt, wie einfach Erweitern ist."
+    }
+  ]
+}
