@@ -42,6 +42,13 @@
       "title": "PSYM20 · Übungsquiz Set 5",
       "subject": "Statistik",
       "description": "12 Single-Choice-Fragen zu Regression, SEM, Messtheorie & Kausalität."
+    },
+    {
+      "id": "auo-evaluation-transfer",
+      "file": "auo-evaluation-transfer.json",
+      "title": "A&O Interventionen · Evaluation & Transfer",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "30 Fragen zu Evaluation & Transfer (Metaanalyse, Konstruktvalidität, Kirkpatrick, Evaluationsdesigns, Transfer) im Altklausur-Stil, mit Themenfilter und Note."
     }
   ]
 }
