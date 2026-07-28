@@ -49,6 +49,13 @@
       "title": "A&O Interventionen · Evaluation & Transfer",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "30 Fragen zu Evaluation & Transfer (Metaanalyse, Konstruktvalidität, Kirkpatrick, Evaluationsdesigns, Transfer) im Altklausur-Stil, mit Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-prozess-guetekriterien",
+      "file": "diagnostik-prozess-guetekriterien.json",
+      "title": "Psychologische Diagnostik · Prozess & Gütekriterien",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zum diagnostischen Prozess, zur Instrumentenauswahl und zu den Gütekriterien (inkl. Objektivität) im Altklausur-Stil, mit Themenfilter und Note."
     }
   ]
 }
