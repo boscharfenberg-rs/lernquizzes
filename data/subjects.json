@@ -56,6 +56,13 @@
       "title": "Psychologische Diagnostik · Prozess & Gütekriterien",
       "subject": "Psychologische Diagnostik",
       "description": "30 Fragen zum diagnostischen Prozess, zur Instrumentenauswahl und zu den Gütekriterien (inkl. Objektivität) im Altklausur-Stil, mit Themenfilter und Note."
+    },
+    {
+      "id": "auo-arbeitsgestaltung",
+      "file": "auo-arbeitsgestaltung.json",
+      "title": "A&O Interventionen · Arbeitsgestaltung",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "30 Fragen zur Arbeitsgestaltung (Arbeitsanalyse, humane Kriterien, Prävention, Job-Design, Arbeitszeit, Job-Characteristics-Modell) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }
