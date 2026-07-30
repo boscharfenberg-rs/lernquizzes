@@ -63,6 +63,13 @@
       "title": "A&O Interventionen · Arbeitsgestaltung",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "30 Fragen zur Arbeitsgestaltung (Arbeitsanalyse, humane Kriterien, Prävention, Job-Design, Arbeitszeit, Job-Characteristics-Modell) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-reliabilitaet",
+      "file": "diagnostik-reliabilitaet.json",
+      "title": "Psychologische Diagnostik · Reliabilität",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zur Reliabilität (KTT & Axiome, Retest, Paralleltest, Testhalbierung, interne Konsistenz, Höhe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }

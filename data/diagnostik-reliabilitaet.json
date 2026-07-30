@@ -1,0 +1,386 @@
+{
+  "id": "diagnostik-reliabilitaet",
+  "title": "Psychologische Diagnostik · Reliabilität",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zur Reliabilität (KTT & Axiome, Retest, Paralleltest, Testhalbierung, interne Konsistenz, Höhe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Reliabilität: Grundlagen",
+      "question": "Was beschreibt das Gütekriterium Reliabilität?",
+      "options": [
+        "Die Messgenauigkeit, mit der ein Test ein Merkmal erfasst",
+        "Die Einordnung eines Testwerts an einer Vergleichsstichprobe",
+        "Die Unabhängigkeit des Ergebnisses von der Testleitung",
+        "Die Gültigkeit, ob ein Test das richtige Merkmal misst"
+      ],
+      "answer": 0,
+      "explanation": "Reliabilität ist die Zuverlässigkeit/Messgenauigkeit – wie genau ein Test misst, unabhängig davon, ob es das intendierte Merkmal ist. Die Frage nach dem richtigen Merkmal ist Validität, die Unabhängigkeit von der Testleitung Objektivität, die Einordnung an einer Vergleichsstichprobe Normierung."
+    },
+    {
+      "topic": "Reliabilität: Grundlagen",
+      "question": "Was gilt laut Folie für einen sehr reliablen Test?",
+      "options": [
+        "Er ist dadurch automatisch auch valide, objektiv und ausreichend normiert",
+        "Er misst genau, ob er das Richtige misst, ist aber Frage der Validität",
+        "Er kommt ohne eine Vergleichsstichprobe zur Einordnung aus",
+        "Er ist frei von jeder Art systematischer Verzerrung"
+      ],
+      "answer": 1,
+      "explanation": "Hohe Reliabilität heißt nur geringe unsystematische Messfehler; ob der Test das Intendierte misst, klärt die Validität. Reliabilität garantiert weder Validität/Objektivität noch Freiheit von systematischen Verzerrungen, und mit Normierung/Vergleichsstichprobe hat sie nichts zu tun."
+    },
+    {
+      "topic": "Klassische Testtheorie",
+      "question": "Wie setzt sich nach der KTT jeder beobachtete Wert zusammen?",
+      "options": [
+        "Aus wahrem Wert und Validität: `X = T + V`",
+        "Aus zwei getrennten wahren Werten: `X = T1 + T2`",
+        "Aus wahrem Wert und Messfehler: `X = T + E`",
+        "Aus Messfehler und Objektivität: `X = E + O`"
+      ],
+      "answer": 2,
+      "explanation": "Das Grundaxiom der KTT lautet `X = T + E`: beobachteter Wert = wahrer Wert + Messfehler. Validität, Objektivität oder ein zweiter wahrer Wert kommen in dieser Zerlegung nicht vor."
+    },
+    {
+      "topic": "Klassische Testtheorie",
+      "question": "Welches Axiom der Klassischen Testtheorie ist korrekt?",
+      "options": [
+        "Der Messfehler korreliert perfekt mit dem wahren Wert",
+        "Die Messfehler zweier Tests korrelieren perfekt miteinander",
+        "Der wahre Wert einer Person ist in jedem Test null",
+        "Der Erwartungswert des Messfehlers ist null: `E(E) = 0`"
+      ],
+      "answer": 3,
+      "explanation": "Nach den Axiomen gilt `E(E) = 0` (Erwartungswert des Messfehlers null). Messfehler sind gerade unkorreliert mit dem wahren Wert (`Corr(E,T) = 0`) und untereinander (`Corr(EA,EB) = 0`); der wahre Wert ist nicht generell null."
+    },
+    {
+      "topic": "Klassische Testtheorie",
+      "question": "Warum wird die KTT auch Messfehler- bzw. Reliabilitätstheorie genannt?",
+      "options": [
+        "Weil sie annimmt, dass alle Testergebnisse fehlerbehaftet sind",
+        "Weil sie Messfehler grundsätzlich für vernachlässigbar hält",
+        "Weil sie nur für vollständig fehlerfreie Leistungstests gilt",
+        "Weil sie ausschließlich die Validität eines Tests modelliert"
+      ],
+      "answer": 0,
+      "explanation": "Die KTT geht davon aus, dass jedes Testergebnis fehlerbehaftet ist (`X = T + E`) – daher Messfehler-/Reliabilitätstheorie. Sie hält Messfehler nicht für vernachlässigbar, modelliert nicht die Validität und setzt keine Fehlerfreiheit voraus."
+    },
+    {
+      "topic": "Klassische Testtheorie",
+      "question": "Wie ist die Reliabilität in der KTT definiert?",
+      "options": [
+        "Als Anteil der Fehlervarianz an der wahren Varianz: `Var(E)/Var(T)`",
+        "Als Anteil wahrer Varianz an beobachteter Varianz: `Var(T)/Var(X)`",
+        "Als Differenz beobachteter und wahrer Varianz: `Var(X) − Var(T)`",
+        "Als Produkt aus wahrer und beobachteter Varianz: `Var(T)·Var(X)`"
+      ],
+      "answer": 1,
+      "explanation": "Reliabilität ist der Anteil der wahren Varianz an der beobachteten Varianz: `Var(T)/Var(X)`, mit Werten zwischen 0 und 1. Ein Fehler-zu-Wahr-Verhältnis, ein Produkt oder eine Differenz der Varianzen entsprechen dieser Definition nicht."
+    },
+    {
+      "topic": "Klassische Testtheorie",
+      "hard": true,
+      "question": "Welche Aussage zu Reliabilitätskoeffizienten trifft zu?",
+      "options": [
+        "Sie liegen zwischen −1 und +1 wie ein Korrelationskoeffizient",
+        "Sie werden umso kleiner, je mehr Items ein Test enthält",
+        "Sie sind eine feste Testeigenschaft, unabhängig von der Stichprobe",
+        "Sie liegen zwischen 0 und 1 und sind stets stichprobenabhängig"
+      ],
+      "answer": 3,
+      "explanation": "Reliabilitätskoeffizienten variieren zwischen 0 und 1 und sind stichprobenabhängig. Der Wertebereich −1 bis +1 gilt für Korrelationen allgemein; Reliabilität ist keine feste Testeigenschaft und steigt (nicht sinkt) tendenziell mit der Itemzahl."
+    },
+    {
+      "topic": "Retest-Reliabilität",
+      "question": "Was ist die Retest-Reliabilität?",
+      "options": [
+        "Die Korrelation zweier Hälften eines einmaligen Tests",
+        "Die Korrelation zweier inhaltlich äquivalenter Testversionen",
+        "Die Korrelation desselben Tests zu zwei Messzeitpunkten",
+        "Der Mittelwert aller möglichen Testhalbierungen eines Tests"
+      ],
+      "answer": 2,
+      "explanation": "Retest-Reliabilität ist die Korrelation der Ergebnisse desselben Tests bei wiederholter Vorgabe an dieselbe Stichprobe. Äquivalente Versionen betreffen den Paralleltest, zwei Hälften die Testhalbierung, der Mittelwert aller Halbierungen Cronbachs Alpha."
+    },
+    {
+      "topic": "Retest-Reliabilität",
+      "hard": true,
+      "question": "Wie wirkt ein großer Zeitabstand zwischen den beiden Messungen auf die Retest-Reliabilität?",
+      "options": [
+        "Er erhöht sie nur bei sehr instabilen Merkmalen (States)",
+        "Er senkt sie tendenziell, je instabiler das Merkmal ist",
+        "Er hat keinen Einfluss, da Messfehler unsystematisch sind",
+        "Er erhöht sie, weil Übungseffekte die Werte angleichen"
+      ],
+      "answer": 1,
+      "explanation": "Große Zeitabstände führen tendenziell zu niedrigeren Werten – umso stärker, je geringer die Stabilität des Merkmals ist. Übungseffekte gleichen nicht verlässlich an, ein Einfluss besteht sehr wohl, und instabile Merkmale verschärfen die Absenkung, statt sie umzukehren."
+    },
+    {
+      "topic": "Retest-Reliabilität",
+      "trap": "Eine gleichmäßige Verschiebung aller Werte verändert die Korrelation nicht.",
+      "question": "Welche Veränderung beeinflusst die Retest-Reliabilität laut Folie NICHT?",
+      "options": [
+        "Eine Mittelwertänderung, die alle Personen gleichermaßen betrifft",
+        "Erinnerungs- und Übungseffekte, die zwischen den beiden Messungen wirken",
+        "Eine geringe zeitliche Stabilität des gemessenen Merkmals",
+        "Ein langes Zeitintervall zwischen den beiden Messungen"
+      ],
+      "answer": 0,
+      "explanation": "Eine für alle Personen gleiche Mittelwertverschiebung lässt die Rangordnung und damit die Korrelation unberührt. Geringe Merkmalsstabilität, lange Intervalle sowie Erinnerungs- und Übungseffekte beeinflussen die Retest-Reliabilität dagegen sehr wohl."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Was kennzeichnet Paralleltests?",
+      "options": [
+        "Zwei Hälften eines einmal durchgeführten Tests",
+        "In so viele Teile wie Items zerlegte Aufgaben",
+        "Denselben Test, zweimal derselben Stichprobe vorgegeben",
+        "Inhaltlich äquivalente, aber nicht identische Testversionen"
+      ],
+      "answer": 3,
+      "explanation": "Paralleltests sind inhaltlich äquivalente, aber nicht identische Versionen desselben Tests (Form A und B). Der gleiche Test zu zwei Zeitpunkten ist Retest, zwei Hälften sind Split-half, die Zerlegung in Item-Teile ist die interne Konsistenz."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Warum sind Paralleltests in der Praxis selten anzutreffen?",
+      "options": [
+        "Weil ihre Konstruktion sehr aufwändig ist (äquivalente Items)",
+        "Weil sie nur bei Einzeltestungen einsetzbar sind",
+        "Weil sie keine Wirksamkeitsprüfung von Interventionen erlauben",
+        "Weil sie stets eine sehr niedrige Reliabilität aufweisen"
+      ],
+      "answer": 0,
+      "explanation": "Der Konstruktionsaufwand für inhaltlich äquivalente Versionen ist sehr hoch, daher sind Paralleltests selten. Sie sind gerade für Gruppentestungen und die Wirksamkeitsprüfung nützlich – die anderen Optionen widersprechen dem."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Was ist ein Pseudo-Paralleltest?",
+      "options": [
+        "Eine Version mit vollständig neu formulierten, inhaltlich anderen Items",
+        "Ein verlängerter Test mit verdoppelter Itemzahl",
+        "Ein Test, der in zwei gleich große Hälften geteilt wird",
+        "Eine Version, bei der nur die Reihenfolge der Items geändert wird"
+      ],
+      "answer": 3,
+      "explanation": "Beim Pseudo-Paralleltest wird lediglich die Item-Reihenfolge variiert – die Items selbst bleiben gleich. Neu formulierte Items wären ein echter Paralleltest, das Teilen ist Split-half, die Verdopplung eine Testverlängerung."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Was ist die Testhalbierungsreliabilität (Split-half)?",
+      "options": [
+        "Die Korrelation zweier getrennt konstruierter Versionen",
+        "Der Anteil wahrer Varianz an der beobachteten Varianz",
+        "Die Korrelation zweier möglichst äquivalenter Testhälften",
+        "Die Korrelation desselben Tests zu zwei Messzeitpunkten"
+      ],
+      "answer": 2,
+      "explanation": "Bei Split-half wird der Test nach der Durchführung in zwei äquivalente Hälften geteilt und deren Korrelation gebildet. Zwei Zeitpunkte sind Retest, getrennte Versionen der Paralleltest, das Varianzverhältnis die Definition der Reliabilität."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Welchen Vorteil hat die Testhalbierung gegenüber der Retest-Methode?",
+      "options": [
+        "Sie benötigt zwei getrennt konstruierte Testversionen",
+        "Sie überschätzt die Reliabilität systematisch nach oben",
+        "Motivations-, Stimmungsschwankungen und Merkmalsänderungen entfallen",
+        "Sie erfordert stets ein langes Zeitintervall zwischen Messungen"
+      ],
+      "answer": 2,
+      "explanation": "Da nur eine Durchführung nötig ist, spielen Motivations-, Stimmungs- und Aufmerksamkeitsschwankungen sowie Merkmalsveränderungen kaum eine Rolle. Split-half überschätzt nicht, braucht keine zweite Version und kein Zeitintervall."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "hard": true,
+      "question": "Warum wird bei der Testhalbierung die Spearman-Brown-Formel eingesetzt?",
+      "options": [
+        "Die halbierte Itemzahl unterschätzt die Reliabilität, sie korrigiert das",
+        "Die Halbierung verzerrt die Validität, sie stellt sie wieder her",
+        "Sie wandelt die Reliabilität in einen Validitätskoeffizienten um",
+        "Die doppelte Itemzahl überschätzt die Reliabilität deutlich, sie senkt sie wieder"
+      ],
+      "answer": 0,
+      "explanation": "Weil bei nur einer Testhälfte die relative Wirkung unsystematischer Fehler größer ist, unterschätzt die Halbkorrelation die Reliabilität – Spearman-Brown korrigiert auf die volle Testlänge. Es geht nicht um Überschätzung, Validität oder eine Umwandlung."
+    },
+    {
+      "topic": "Paralleltest & Halbierung",
+      "question": "Nach welchem Prinzip kann ein Test u. a. halbiert werden?",
+      "options": [
+        "Nach dem Schwierigkeitsindex und der Trennschärfe der Gesamtskala",
+        "Nach ungeraden und geraden Item-Nummern (Odd-Even-Methode)",
+        "Nach dem Geschlecht der getesteten Personen",
+        "Nach der Reihenfolge der Antwortalternativen"
+      ],
+      "answer": 1,
+      "explanation": "Als Halbierungsprinzipien nennt die Folie erste/zweite Hälfte, ungerade/gerade Item-Nummern (Odd-Even) und Itemkennwerte. Geschlecht, ein Skalen-Schwierigkeitsindex oder die Antwortreihenfolge sind keine Halbierungskriterien."
+    },
+    {
+      "topic": "Interne Konsistenz",
+      "question": "Was ist Cronbachs Alpha?",
+      "options": [
+        "Die Korrelation desselben Tests zu zwei Zeitpunkten",
+        "Die Korrelation zweier paralleler, inhaltlich äquivalenter Testversionen",
+        "Der Mittelwert aller möglichen Testhalbierungen eines Tests",
+        "Der Anteil der Fehlervarianz an der Gesamtvarianz"
+      ],
+      "answer": 2,
+      "explanation": "Cronbachs Alpha ist der Mittelwert aller möglichen Testhalbierungen (Verallgemeinerung der Halbierungsmethode). Parallele Versionen betreffen den Paralleltest, zwei Zeitpunkte den Retest, das Fehler-Varianz-Verhältnis ist etwas anderes."
+    },
+    {
+      "topic": "Interne Konsistenz",
+      "hard": true,
+      "trap": "Mehr Items heben Alpha auch dann, wenn das Konstrukt heterogen ist.",
+      "question": "Wie wirkt sich die Itemzahl auf Cronbachs Alpha aus?",
+      "options": [
+        "Mehr Items erhöhen Alpha, auch bei heterogenem Konstrukt",
+        "Nur bei homogenen Konstrukten steigt Alpha mit der Itemzahl",
+        "Mehr Items senken Alpha durch zusätzliche Messfehler",
+        "Die Itemzahl hat keinen Einfluss auf die Höhe von Alpha"
+      ],
+      "answer": 0,
+      "explanation": "Je mehr Items, desto höher fällt Alpha aus – selbst ein heterogenes Konstrukt mit niedrig korrelierenden Items kann bei vielen Items ein hohes Alpha erreichen. Die Itemzahl senkt Alpha nicht, ist nicht einflusslos und wirkt nicht nur bei homogenen Konstrukten."
+    },
+    {
+      "topic": "Interne Konsistenz",
+      "question": "Welche Schwäche von Cronbachs Alpha nennt die Folie?",
+      "options": [
+        "Es setzt voraus, dass die Items untereinander unkorreliert sind",
+        "Es liefert grundsätzlich ein Konfidenzintervall zur Schätzung",
+        "Es lässt sich nur für Leistungstests, nicht für Fragebögen berechnen",
+        "Es nimmt an, dass alle Items das Konstrukt gleich gut repräsentieren"
+      ],
+      "answer": 3,
+      "explanation": "Alpha unterstellt (unrealistisch), dass alle Items das Konstrukt gleich gut repräsentieren und stark mit dem Testwert zusammenhängen. Es gilt nicht nur für Leistungstests, liefert selbst kein Konfidenzintervall (das bietet Omega) und setzt keine unkorrelierten Items voraus."
+    },
+    {
+      "topic": "Interne Konsistenz",
+      "question": "Was kennzeichnet den Omega-Koeffizienten als Alternative zu Alpha?",
+      "options": [
+        "Er ignoriert die itemspezifischen Zusammenhänge mit dem Merkmal",
+        "Er ist der Mittelwert aller möglichen Testhalbierungen",
+        "Er nimmt an, dass alle Items exakt gleich stark laden",
+        "Er macht realistischere Annahmen und liefert ein Konfidenzintervall"
+      ],
+      "answer": 3,
+      "explanation": "Omega macht weniger und realistischere Annahmen, stützt sich auf die itemspezifischen Zusammenhänge und liefert Konfidenzintervalle. Gleich starke Ladungen anzunehmen ist gerade die Schwäche von Alpha; der Mittelwert der Halbierungen ist Alpha selbst."
+    },
+    {
+      "topic": "Höhe & Einflussfaktoren",
+      "hard": true,
+      "trap": "Weniger Streuung in der Stichprobe drückt den Koeffizienten.",
+      "question": "Wie wirkt eine homogene (wenig streuende) Stichprobe auf die Reliabilität?",
+      "options": [
+        "Sie hat keinen Einfluss, da Reliabilität stichprobenunabhängig ist",
+        "Sie führt tendenziell zu niedrigeren Reliabilitätskoeffizienten",
+        "Sie macht den Test automatisch valider und objektiver",
+        "Sie führt tendenziell zu höheren Reliabilitätskoeffizienten"
+      ],
+      "answer": 1,
+      "explanation": "Homogene Stichproben liefern tendenziell niedrigere Reliabilitäten, da Koeffizienten stichprobenabhängig sind und Varianz brauchen. Eine Erhöhung, Einflusslosigkeit oder ein automatischer Gewinn an Validität/Objektivität widersprechen dem."
+    },
+    {
+      "topic": "Höhe & Einflussfaktoren",
+      "question": "Welche Reliabilitätshöhe wird laut Folie grob erwartet?",
+      "options": [
+        "Leistungstests etwa .90–.95, Persönlichkeitstests etwa .70–.80",
+        "Beide Testarten nur etwa .40–.50, je nach Stichprobe",
+        "Leistungstests etwa .50–.60, Persönlichkeitstests etwa .90–.95",
+        "Beide Testarten stets über .95, andernfalls unbrauchbar"
+      ],
+      "answer": 0,
+      "explanation": "Als Orientierung nennt die Folie für Leistungstests ca. .90–.95 und für Persönlichkeitstests ca. .70–.80. Die vertauschten, pauschal sehr hohen oder pauschal niedrigen Werte entsprechen nicht der Vorlage."
+    },
+    {
+      "topic": "Höhe & Einflussfaktoren",
+      "question": "Für welchen Einsatz ist eine besonders hohe Reliabilität nötig?",
+      "options": [
+        "Für rein explorative, vorläufige Forschungsfragen",
+        "Für die Individualdiagnostik (Aussagen über einzelne Personen)",
+        "Für ein grobes Screening sehr vieler Personen",
+        "Für die Kollektivdiagnostik (Aussagen über ganze Gruppen)"
+      ],
+      "answer": 1,
+      "explanation": "Individualdiagnostik erfordert eine höhere Reliabilität, da Aussagen über einzelne Personen getroffen werden. Kollektivdiagnostik, grobes Screening und explorative Fragen stellen geringere Ansprüche an die Messgenauigkeit."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Fragebogen misst positiven Affekt einmal als überdauerndes Merkmal („im Allgemeinen“) und einmal als momentanen Zustand („gerade jetzt“). Bei welcher Variante fällt die Retest-Reliabilität über zwei Wochen niedriger aus?",
+      "options": [
+        "Bei beiden gleich, da dasselbe Instrument verwendet wird",
+        "Bei keiner, da Mittelwertänderungen die Retest-Werte bestimmen",
+        "Bei der Zustandsmessung (State), da das Merkmal weniger stabil ist",
+        "Bei der Merkmalsmessung (Trait), da hier mehr Items nötig sind"
+      ],
+      "answer": 2,
+      "explanation": "States sind zeitlich instabil, daher fällt die Retest-Reliabilität niedriger aus (im Folienbeispiel State rtt ≈ .42–.49 vs. Trait ≈ .75–.82). Die Itemzahl ist gleich, das Instrument identisch, und gleichmäßige Mittelwertänderungen beeinflussen die Korrelation nicht."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Eine Forscherin legt 125 Personen denselben Konzentrationstest nach zwei Wochen erneut vor und korreliert beide Ergebnisse. Welche Reliabilitätsart bestimmt sie?",
+      "options": [
+        "Paralleltestreliabilität",
+        "Interne Konsistenz (Alpha)",
+        "Retest-Reliabilität",
+        "Testhalbierungsreliabilität"
+      ],
+      "answer": 2,
+      "explanation": "Derselbe Test zu zwei Zeitpunkten an derselben Stichprobe ergibt die Retest-Reliabilität. Der Paralleltest bräuchte zwei Versionen, Split-half zwei Hälften einer Durchführung, die interne Konsistenz die Zerlegung in Items."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Ein Verlag entwickelt zu einem Test eine zweite, inhaltlich gleichwertige, aber nicht identische Fassung und korreliert beide. Welche Reliabilitätsart wird geschätzt?",
+      "options": [
+        "Testhalbierungsreliabilität",
+        "Interne Konsistenz (Alpha)",
+        "Retest-Reliabilität",
+        "Paralleltestreliabilität"
+      ],
+      "answer": 3,
+      "explanation": "Zwei inhaltlich äquivalente, nicht identische Versionen ergeben die Paralleltestreliabilität. Derselbe Test zu zwei Zeitpunkten wäre Retest, zwei Hälften Split-half, die Item-Zerlegung interne Konsistenz."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Um mit nur einer Durchführung auszukommen, wertet ein Diagnostiker die ungeraden und die geraden Items getrennt aus und korreliert beide Werte. Welche Methode nutzt er?",
+      "options": [
+        "Testhalbierung (Split-half)",
+        "Retest-Reliabilität",
+        "Retest mit langem Zeitintervall",
+        "Paralleltestreliabilität"
+      ],
+      "answer": 0,
+      "explanation": "Das getrennte Auswerten und Korrelieren ungerader/gerader Items ist die Testhalbierung nach der Odd-Even-Methode. Retest bräuchte zwei Zeitpunkte, der Paralleltest zwei Versionen; ein langes Intervall ist hier gar nicht im Spiel."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Zwei Testhälften korrelieren mit rtt = .50. Wie hoch ist die per Spearman-Brown auf die volle Testlänge (k = 2) korrigierte Reliabilität?",
+      "options": [
+        "≈ .50",
+        "≈ .67",
+        "≈ 1.00",
+        "≈ .25"
+      ],
+      "answer": 1,
+      "explanation": "Spearman-Brown mit k = 2: (2 · .50) / (1 + .50) = 1.0 / 1.5 ≈ .67. Der Wert .50 wäre die unkorrigierte Halbkorrelation, .25 und 1.00 ergeben sich aus der Formel nicht."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Sehr hohes Alpha bei wenigen Items ist kein Qualitätssiegel.",
+      "question": "Ein kurzer Fragebogen mit nur vier Items weist ein außergewöhnlich hohes Cronbachs Alpha auf. Worauf deutet das am ehesten hin?",
+      "options": [
+        "Das Merkmal ist ein instabiler momentaner Zustand",
+        "Die Items sind vermutlich weitgehend redundant",
+        "Die Reliabilität ist durch die Kürze unterschätzt",
+        "Der Test misst ein besonders heterogenes Konstrukt"
+      ],
+      "answer": 1,
+      "explanation": "Weist ein kurzer Test ein sehr hohes Alpha auf, sind die Items meist redundant. Hohe interne Konsistenz spricht für ein homogenes (nicht heterogenes) Konstrukt; unterschätzt wird Alpha bei kurzer Länge nicht, und mit Merkmalsstabilität hat die interne Konsistenz nichts zu tun."
+    }
+  ]
+}
