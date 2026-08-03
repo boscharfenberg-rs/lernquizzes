@@ -77,6 +77,13 @@
       "title": "Psychologische Diagnostik · Validität",
       "subject": "Psychologische Diagnostik",
       "description": "30 Fragen zur Validität (Inhalts-, Kriteriums- & Konstruktvalidität, konvergent/diskriminant) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-normen",
+      "file": "diagnostik-normen.json",
+      "title": "Psychologische Diagnostik · Normen",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zu Normen (Bezugsnormen, Äquivalent-, Abweichungs- & Prozentrangnormen, Normstichprobe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }
