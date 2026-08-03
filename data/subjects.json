@@ -70,6 +70,13 @@
       "title": "Psychologische Diagnostik · Reliabilität",
       "subject": "Psychologische Diagnostik",
       "description": "30 Fragen zur Reliabilität (KTT & Axiome, Retest, Paralleltest, Testhalbierung, interne Konsistenz, Höhe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-validitaet",
+      "file": "diagnostik-validitaet.json",
+      "title": "Psychologische Diagnostik · Validität",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zur Validität (Inhalts-, Kriteriums- & Konstruktvalidität, konvergent/diskriminant) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }

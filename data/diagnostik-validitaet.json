@@ -1,0 +1,389 @@
+{
+  "id": "diagnostik-validitaet",
+  "title": "Psychologische Diagnostik · Validität",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zur Validität (Inhalts-, Kriteriums- & Konstruktvalidität, konvergent/diskriminant) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Validität: Grundlagen",
+      "question": "Was beschreibt das Gütekriterium Validität?",
+      "options": [
+        "Wie ein Testwert an einer repräsentativen Vergleichsstichprobe eingeordnet wird",
+        "Wie angemessen Schlüsse vom Testwert auf ein Merkmal oder Verhalten sind",
+        "Wie unabhängig das Ergebnis von der auswertenden Person zustande kommt",
+        "Wie genau ein Test ein Merkmal zuverlässig ohne Messfehler erfasst"
+      ],
+      "answer": 1,
+      "explanation": "Validität ist die Gültigkeit: wie angemessen Schlussfolgerungen vom Testwert auf ein Merkmal oder Verhalten außerhalb der Testsituation sind. Messgenauigkeit ist Reliabilität, Unabhängigkeit von der Auswertung Objektivität, die Einordnung an einer Stichprobe Normierung."
+    },
+    {
+      "topic": "Validität: Grundlagen",
+      "question": "Gibt es den einen Kennwert für die Validität eines Tests?",
+      "options": [
+        "Nein, es gibt verschiedene Kennwerte und ergänzende verbale Aussagen",
+        "Ja, sie ist als fester Wert im Testmanual dauerhaft angegeben",
+        "Ja, ein einzelner Validitätskoeffizient beziffert sie vollständig",
+        "Ja, sie entspricht immer dem Cronbachs Alpha des Verfahrens"
+      ],
+      "answer": 0,
+      "explanation": "Es gibt nicht den einen Kennwert: Validität wird über verschiedene Koeffizienten und verbale Aussagen beurteilt und ist nie abgeschlossen. Ein einzelner Koeffizient, Cronbachs Alpha (das ist Reliabilität) oder ein fester Manualwert bilden sie nicht ab."
+    },
+    {
+      "topic": "Validität: Grundlagen",
+      "trap": "„Dieser Test ist valide“ ist keine präzise Aussage.",
+      "question": "Warum ist die pauschale Aussage „Dieser Test ist valide“ laut Folie unpräzise?",
+      "options": [
+        "Weil Validität allein durch das Cronbachs Alpha ausgedrückt wird",
+        "Weil Validität eine feste, ein für alle Mal bestimmte Eigenschaft jedes Tests ist",
+        "Weil Validität einzelne Interpretationen und Verwendungen von Testwerten betrifft",
+        "Weil Validität nur die Unabhängigkeit von der Testleitung beschreibt"
+      ],
+      "answer": 2,
+      "explanation": "Validität bezieht sich auf die Gültigkeit einzelner Interpretationen und Verwendungen von Testwerten, nicht auf „den Test“ als Ganzes – Validierung ist ein offener Prozess. Alpha ist Reliabilität, eine feste einsatzunabhängige Eigenschaft ist sie nicht, und die Testleiter-Unabhängigkeit ist Objektivität."
+    },
+    {
+      "topic": "Validität: Grundlagen",
+      "question": "Welche drei Hauptarten der Validität nennt die Folie?",
+      "options": [
+        "Retest-, Paralleltest- und Halbierungsvalidität",
+        "Durchführungs-, Auswertungs- und Interpretationsvalidität",
+        "Konvergente, diskriminante und faktorielle Reliabilität",
+        "Inhalts-, Kriteriums- und Konstruktvalidität"
+      ],
+      "answer": 3,
+      "explanation": "Die drei Arten sind Inhalts-, Kriteriums- und Konstruktvalidität. Retest/Paralleltest/Halbierung sind Reliabilitätsarten, konvergent/diskriminant/faktoriell sind Unteraspekte der Konstruktvalidität, und Durchführung/Auswertung/Interpretation betreffen die Objektivität."
+    },
+    {
+      "topic": "Validität: Grundlagen",
+      "question": "Worin liegt laut Folie die Bedeutung der Konstruktvalidität vor allem?",
+      "options": [
+        "In der Sicherung der Unabhängigkeit von der durchführenden Person",
+        "In der unmittelbaren praktisch-diagnostischen Verwertbarkeit des Tests",
+        "In der theoretischen Klärung dessen, was ein Test tatsächlich misst",
+        "In der Verkürzung der Testdauer bei gleichbleibender Genauigkeit"
+      ],
+      "answer": 2,
+      "explanation": "Konstruktvalidität dient der theoretischen Klärung, was ein Test misst, nicht der unmittelbaren praktischen Verwertbarkeit. Testdauer betrifft die Ökonomie, die Unabhängigkeit von der Durchführung die Objektivität."
+    },
+    {
+      "topic": "Validität: Grundlagen",
+      "question": "Was gilt laut Folie für die Validierung eines Tests?",
+      "options": [
+        "Sie ist ein kontinuierlicher, im Grunde nie abgeschlossener Prozess",
+        "Sie erfolgt automatisch, sobald die Reliabilität hoch genug ist",
+        "Sie wird ausschließlich über die Beurteilerübereinstimmung bestimmt",
+        "Sie ist mit einer einmaligen Erhebung endgültig abgeschlossen"
+      ],
+      "answer": 0,
+      "explanation": "Validierung ist ein kontinuierlicher, offener Prozess und praktisch nie abgeschlossen. Sie ist weder einmalig endgültig, noch folgt sie automatisch aus hoher Reliabilität, noch beruht sie nur auf Beurteilerübereinstimmung (das betrifft speziell die Inhaltsvalidität)."
+    },
+    {
+      "topic": "Inhaltsvalidität",
+      "question": "Was besagt die Inhaltsvalidität?",
+      "options": [
+        "Wie gut der Test das theoretische Konstrukt empirisch belegt",
+        "Wie repräsentativ die Items eines Tests für das Merkmal sind",
+        "Wie unabhängig die Auswertung von der Testleitung erfolgt",
+        "Wie stark das Testergebnis mit einem Außenkriterium zusammenhängt"
+      ],
+      "answer": 1,
+      "explanation": "Inhaltsvalidität bezeichnet, wie repräsentativ die Items das zu messende Merkmal erfassen. Der Zusammenhang mit einem Außenkriterium ist Kriteriumsvalidität, der empirische Konstruktbeleg Konstruktvalidität, die Auswertungsunabhängigkeit Objektivität."
+    },
+    {
+      "topic": "Inhaltsvalidität",
+      "question": "Wie wird die Inhaltsvalidität laut Folie empirisch ermittelt?",
+      "options": [
+        "Über die Korrelation zweier paralleler Versionen desselben Tests",
+        "Über die Korrelation des Tests mit einem zeitlich später erhobenen Außenkriterium",
+        "Über Expert*inneneinschätzungen der Items (Beurteiler*innenübereinstimmung)",
+        "Über die Faktorenstruktur der Items in einer großen Stichprobe"
+      ],
+      "answer": 2,
+      "explanation": "Empirisch wird die Inhaltsvalidität z. B. über Expert*inneneinschätzungen und deren Übereinstimmung geprüft, dokumentiert im Manual. Kriteriumskorrelation, Faktorenstruktur und Paralleltestkorrelation betreffen Kriteriums-, Konstrukt- bzw. Reliabilitätsfragen."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "question": "Was versteht man unter Kriteriumsvalidität?",
+      "options": [
+        "Die Genauigkeit der Messung unter Vernachlässigung des Inhalts",
+        "Die theoretische Einbettung des Tests in ein umfassendes nomologisches Netzwerk",
+        "Die Repräsentativität der Items für das zu erfassende Merkmal",
+        "Den Zusammenhang des Testergebnisses mit Verhalten außerhalb der Testsituation"
+      ],
+      "answer": 3,
+      "explanation": "Kriteriumsvalidität ist der Zusammenhang zwischen Testergebnis und relevanten Leistungen/Verhaltensweisen außerhalb der Testsituation. Item-Repräsentativität ist Inhaltsvalidität, das nomologische Netzwerk Konstruktvalidität, die inhaltsunabhängige Genauigkeit Reliabilität."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "question": "Was kennzeichnet die Übereinstimmungsvalidität (konkurrente Validität)?",
+      "options": [
+        "Der Test korreliert hoch mit einem etablierten Maß desselben Merkmals",
+        "Das Kriterium wird erst Jahre nach dem Test erhoben und korreliert",
+        "Test und Kriterium werden (nahezu) gleichzeitig erhoben und korreliert",
+        "Der Test klärt zusätzliche Varianz über andere Prädiktoren hinaus auf"
+      ],
+      "answer": 2,
+      "explanation": "Bei der konkurrenten Validität finden Testung und Kriteriumsmessung (nahezu) gleichzeitig statt. Ein zeitlich späteres Kriterium ist die Vorhersagevalidität, der Varianzzuwachs die inkrementelle Validität, die Korrelation mit einem Merkmalsmaß die konvergente (Konstrukt-)Validität."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "trap": "Der Zeitpunkt der Kriteriumsmessung trennt konkurrent und prognostisch.",
+      "question": "Was kennzeichnet die Vorhersagevalidität (prognostische Validität)?",
+      "options": [
+        "Das Kriterium wird in zeitlichem Abstand nach dem Test erhoben",
+        "Der Test unterscheidet erwartungsgemäß zwischen bekannten Gruppen",
+        "Die Items decken das Merkmal möglichst vollständig repräsentativ ab",
+        "Das Kriterium wird zeitgleich mit dem Test erhoben und korreliert"
+      ],
+      "answer": 0,
+      "explanation": "Bei der prognostischen Validität wird das Kriterium erst später erhoben (z. B. Studierfähigkeitstest, Jahre später Studienerfolg). Gleichzeitige Erhebung ist die konkurrente Validität, Item-Repräsentativität die Inhaltsvalidität, Gruppenunterschiede ein Weg zur Konstruktvalidität."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "hard": true,
+      "question": "Was besagt die inkrementelle Validität eines Tests?",
+      "options": [
+        "Er misst dasselbe Merkmal wie ein bereits etabliertes Verfahren",
+        "Er korreliert möglichst hoch mit einem exakt gleichzeitig erhobenen Außenkriterium",
+        "Er klärt zusätzliche Varianz im Kriterium über andere Prädiktoren hinaus auf",
+        "Er erfasst die interessierenden Items besonders repräsentativ und breit"
+      ],
+      "answer": 2,
+      "explanation": "Inkrementelle Validität ist der Zuwachs an aufgeklärter Kriteriumsvarianz durch Hinzunahme des Tests zu anderen Prädiktoren. Hohe Korrelation mit einem gleichzeitigen Kriterium ist konkurrente, Item-Repräsentativität Inhalts-, Übereinstimmung mit einem Merkmalsmaß konvergente Validität."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "hard": true,
+      "question": "Mit welchen Koeffizienten wird die inkrementelle Validität laut Folie erfasst?",
+      "options": [
+        "Cronbachs Alpha und die Retest-Korrelation über zwei getrennte Messzeitpunkte",
+        "Semipartialkorrelation (sr) und Änderung der aufgeklärten Varianz (ΔR²)",
+        "Beurteiler*innenübereinstimmung und die Faktorladung der Items",
+        "Standardmessfehler und die Breite des Konfidenzintervalls"
+      ],
+      "answer": 1,
+      "explanation": "Inkrementelle Validität wird über die Semipartialkorrelation (sr, unique contribution) und die Änderung der aufgeklärten Varianz (ΔR²) bestimmt, z. B. per hierarchischer Regression. Alpha/Retest betreffen die Reliabilität, Beurteilerübereinstimmung die Inhaltsvalidität, der Standardmessfehler die Einzelfalldiagnostik."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "hard": true,
+      "question": "In der Metaanalyse (Schmidt & Hunter) korrelieren Intelligenztest und strukturiertes Interview je r = .51 mit Berufserfolg, kombiniert R = .63. Was folgt für das Interview?",
+      "options": [
+        "Es senkt die Vorhersagegüte gegenüber dem Intelligenztest allein",
+        "Es besitzt inkrementelle Validität über den Intelligenztest hinaus (ΔR = .12)",
+        "Es ersetzt den Intelligenztest ohne jeden Vorhersageverlust nahezu vollständig",
+        "Es besitzt keine eigenständige Validität für den Berufserfolg"
+      ],
+      "answer": 1,
+      "explanation": "Da die Kombination (R = .63) über die Einzelvalidität (r = .51) hinausgeht, klärt das Interview zusätzliche Varianz auf – inkrementelle Validität von ΔR = .12. Es hat also sehr wohl eigenständigen Beitrag, ersetzt den Test nicht und senkt die Vorhersage nicht."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "question": "Wie beurteilt man laut Folie, ob eine Kriteriumsvalidität ausreichend hoch ist?",
+      "options": [
+        "Durch den Vergleich mit Werten geeigneter konkurrierender Verfahren",
+        "Durch eine feste Faustregel, ab der jeder Test als valide gilt",
+        "Durch das verbindliche Erreichen eines festen Koeffizienten von mindestens .90",
+        "Durch die alleinige Höhe der internen Konsistenz des Tests"
+      ],
+      "answer": 0,
+      "explanation": "Eine pauschale Beurteilung ist nicht möglich; man sucht Vergleichswerte konkurrierender Verfahren. Feste Faustregeln sind laut Folie unbrauchbar, ein starrer .90-Wert gilt nicht, und die interne Konsistenz ist ein Reliabilitäts-, kein Validitätsmaß."
+    },
+    {
+      "topic": "Kriteriumsvalidität",
+      "question": "Welche Anforderung stellt die Folie an das Kriterium bei der Kriteriumsvalidierung?",
+      "options": [
+        "Es muss aus denselben Items wie der zu validierende Test bestehen",
+        "Es muss zwingend zeitgleich mit dem Test erhoben werden",
+        "Es muss ein rein theoretisches, nicht beobachtbares Konstrukt sein",
+        "Es muss für den vorgesehenen Einsatzbereich des Tests relevant sein"
+      ],
+      "answer": 3,
+      "explanation": "Das Kriterium muss für den Einsatzbereich relevant sein (mit schlüssiger Begründung). Es muss nicht zeitgleich erhoben werden (das wäre nur die konkurrente Variante), nicht aus denselben Items bestehen und ist gerade ein beobachtbares Außenkriterium."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "question": "Was besagt die Konstruktvalidität?",
+      "options": [
+        "Die Repräsentativität der Items für das zu messende Merkmal",
+        "Empirische Belege, dass ein Test das gemeinte Konstrukt erfasst",
+        "Der Zusammenhang des Tests mit einem konkreten praktischen Außenkriterium",
+        "Die Zuverlässigkeit der Messung unabhängig vom erfassten Inhalt"
+      ],
+      "answer": 1,
+      "explanation": "Konstruktvalidität liefert empirische Belege, dass der Test das intendierte theoretische Konstrukt misst und kein anderes. Der Kriteriumsbezug ist Kriteriumsvalidität, die Item-Repräsentativität Inhaltsvalidität, die inhaltsunabhängige Zuverlässigkeit Reliabilität."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "question": "Welcher Weg führt laut Folie NICHT zum Nachweis der Konstruktvalidität?",
+      "options": [
+        "Die Höhe des Standardmessfehlers in der Einzelfalldiagnostik",
+        "Erwartungsgemäße Gruppenunterschiede zwischen bekannten Gruppen",
+        "Die interne Faktorenstruktur des Tests (faktorielle Validität)",
+        "Konvergente und diskriminante Korrelationsmuster mit anderen Maßen"
+      ],
+      "answer": 0,
+      "explanation": "Der Standardmessfehler ist ein Reliabilitäts-/Einzelfallmaß, kein Weg zur Konstruktvalidität. Gruppenunterschiede, konvergente/diskriminante Korrelationen und die interne Faktorenstruktur nennt die Folie ausdrücklich als solche Wege."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "question": "Was kennzeichnet die konvergente Validität?",
+      "options": [
+        "Fehlende Zusammenhänge mit Maßen eines anderen, fremden Merkmals",
+        "Der Zuwachs an aufgeklärter Varianz durch einen zusätzlichen Prädiktor",
+        "Die Übereinstimmung mehrerer Auswerter*innen bei der Testauswertung",
+        "Hohe Zusammenhänge mit Maßen desselben oder eines ähnlichen Merkmals"
+      ],
+      "answer": 3,
+      "explanation": "Konvergente Validität zeigt sich in hohen Zusammenhängen mit Instrumenten, die dasselbe/ein ähnliches Merkmal messen (auch Selbst-/Fremdeinschätzung). Fehlende Zusammenhänge mit fremden Merkmalen sind diskriminante Validität, der Varianzzuwachs inkrementelle Validität, die Auswerterübereinstimmung Objektivität."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "trap": "Konvergent = korreliert, diskriminant = korreliert gerade nicht.",
+      "question": "Was kennzeichnet die diskriminante Validität?",
+      "options": [
+        "Die repräsentative Abdeckung des Merkmals durch die Items",
+        "Im Idealfall keine Zusammenhänge mit Maßen eines anderen Merkmals",
+        "Hohe Zusammenhänge mit Maßen desselben oder ähnlichen Merkmals",
+        "Die Vorhersage eines zeitlich später erhobenen Außenkriteriums"
+      ],
+      "answer": 1,
+      "explanation": "Diskriminante Validität liegt vor, wenn (idealerweise) keine Zusammenhänge mit Maßen eines anderen Merkmals bestehen – sie divergieren. Hohe Zusammenhänge mit gleichem Merkmal sind konvergente Validität, Item-Abdeckung Inhaltsvalidität, die Vorhersage die prognostische Validität."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "hard": true,
+      "question": "Welche Beziehung müssen konvergente und diskriminante Koeffizienten laut Folie zueinander haben?",
+      "options": [
+        "Beide sollten möglichst gleich hoch und nahe bei null liegen",
+        "Die konvergenten müssen deutlich höher als die diskriminanten sein",
+        "Die diskriminanten müssen deutlich höher als die konvergenten sein",
+        "Beide sollten möglichst hoch und nahe bei eins liegen"
+      ],
+      "answer": 1,
+      "explanation": "Die Logik verlangt, dass die konvergenten Korrelationen deutlich höher ausfallen als die diskriminanten. Ein umgekehrtes Verhältnis oder gleich hohe Werte (nahe 0 bzw. nahe 1) würden Konstruktvalidität gerade nicht belegen."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "question": "Welcher Weg zur Konstruktvalidität nutzt die interne Struktur eines Tests?",
+      "options": [
+        "Die Korrelation des Tests mit einem späteren Außenkriterium",
+        "Der Vergleich erwarteter Unterschiede zwischen bekannten Gruppen",
+        "Die faktorielle Validität (Analyse der Faktorenstruktur der Items)",
+        "Die Beurteilung der Item-Repräsentativität durch Expert*innen"
+      ],
+      "answer": 2,
+      "explanation": "Die faktorielle Validität prüft die interne Struktur (Faktorenstruktur) des Tests. Gruppenunterschiede und Kriteriumskorrelationen sind andere Wege, die Item-Repräsentativität durch Expert*innen betrifft die Inhaltsvalidität."
+    },
+    {
+      "topic": "Konstruktvalidität",
+      "hard": true,
+      "question": "Welche groben Vergleichswerte nennt die Folie für die Selbst-Fremd-Konvergenz?",
+      "options": [
+        "Etwa r = .51 bei Persönlichkeitseigenschaften, etwa .63 bei Problemen",
+        "Etwa r = .37 bei Persönlichkeitseigenschaften, etwa .25 bei Problemen",
+        "Etwa r = .90 bei Persönlichkeitseigenschaften, etwa .80 bei Problemen",
+        "Etwa r = .05 bei Persönlichkeitseigenschaften, etwa .10 bei Problemen"
+      ],
+      "answer": 1,
+      "explanation": "Die Folie nennt für die konvergente Selbst-Fremd-Übereinstimmung im Mittel r ≈ .37 (Big Five) bzw. r ≈ .25 (Verhaltens-/emotionale Probleme). Werte um .90/.80, um .05/.10 oder .51/.63 (letztere stammen aus dem Berufserfolg-Beispiel) passen nicht."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Studierfähigkeitstest wird zu Studienbeginn erhoben und Jahre später mit dem tatsächlichen Studienerfolg korreliert. Welche Validität wird hier bestimmt?",
+      "options": [
+        "Vorhersagevalidität (prognostische Validität)",
+        "Inhaltsvalidität des Studierfähigkeitstests",
+        "Übereinstimmungsvalidität (konkurrente Validität)",
+        "Diskriminante Validität des Studierfähigkeitstests"
+      ],
+      "answer": 0,
+      "explanation": "Weil das Kriterium (Studienerfolg) erst Jahre später erhoben wird, ist es die Vorhersage-/prognostische Validität. Bei gleichzeitiger Erhebung wäre es konkurrente Validität; Inhalts- und diskriminante Validität betreffen Item-Abdeckung bzw. Abgrenzung von Fremdmerkmalen."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "„Unmittelbar anschließend“ = gleichzeitig, also konkurrent.",
+      "question": "Nach dem Ausfüllen eines Machtmotiv-Fragebogens wird sofort eine Gruppendiskussion inszeniert und das gezeigte Verhalten als Kriterium erfasst. Welche Validität wird geprüft?",
+      "options": [
+        "Übereinstimmungsvalidität (konkurrente Validität)",
+        "Faktorielle Konstruktvalidität des Fragebogens",
+        "Vorhersagevalidität (prognostische Validität)",
+        "Inkrementelle Validität des Fragebogens"
+      ],
+      "answer": 0,
+      "explanation": "Test und Kriterium werden nahezu gleichzeitig erhoben – das ist konkurrente (Übereinstimmungs-)Validität. Ein zeitlich späteres Kriterium wäre prognostisch, der Varianzzuwachs inkrementell, die Faktorenanalyse faktoriell."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Fachleute beurteilen, ob die Aufgaben eines neuen Aggressivitätstests das Merkmal repräsentativ und vollständig abdecken. Welche Validität wird geprüft?",
+      "options": [
+        "Kriteriumsvalidität des Aggressivitätstests",
+        "Vorhersagevalidität des Aggressivitätstests",
+        "Konvergente Validität des Aggressivitätstests",
+        "Inhaltsvalidität des Aggressivitätstests"
+      ],
+      "answer": 3,
+      "explanation": "Die Expert*innenbeurteilung der Item-Repräsentativität für das Merkmal betrifft die Inhaltsvalidität. Kriteriums- und Vorhersagevalidität bräuchten ein Außenkriterium, konvergente Validität den Vergleich mit einem etablierten Merkmalsmaß."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein neuer Hoffnungs-Fragebogen klärt über die bereits erfasste „Liebe zum Lernen“ hinaus zusätzliche Varianz in der Schulleistung auf. Welche Validität zeigt sich?",
+      "options": [
+        "Diskriminante Validität des Hoffnungs-Fragebogens",
+        "Inhaltsvalidität des Hoffnungs-Fragebogens",
+        "Inkrementelle Validität des Hoffnungs-Fragebogens",
+        "Übereinstimmungsvalidität des Hoffnungs-Fragebogens"
+      ],
+      "answer": 2,
+      "explanation": "Der zusätzliche Varianzbeitrag über einen bereits vorhandenen Prädiktor hinaus ist inkrementelle Validität. Konkurrente Validität wäre die gleichzeitige Kriteriumskorrelation, diskriminante Validität die Abgrenzung von Fremdmerkmalen, Inhaltsvalidität die Item-Abdeckung."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Ein neuer Angst-Fragebogen korreliert hoch mit einem etablierten, gut validierten Angst-Fragebogen. Welche Validität wird damit gestützt?",
+      "options": [
+        "Konvergente Validität des neuen Angst-Fragebogens",
+        "Inhaltsvalidität des neuen Angst-Fragebogens",
+        "Diskriminante Validität des neuen Angst-Fragebogens",
+        "Retest-Reliabilität des neuen Angst-Fragebogens"
+      ],
+      "answer": 0,
+      "explanation": "Ein hoher Zusammenhang mit einem etablierten Maß desselben Merkmals stützt die konvergente Validität. Diskriminante Validität wäre gerade der fehlende Zusammenhang mit Fremdmerkmalen, Inhaltsvalidität die Item-Repräsentativität, Retest-Reliabilität die zeitliche Stabilität."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Kein Zusammenhang mit einem Fremdmerkmal ist hier gewollt.",
+      "question": "Der neue Angst-Fragebogen korreliert erwartungsgemäß nahezu null mit einem Intelligenztest. Welche Validität wird damit gestützt?",
+      "options": [
+        "Kriteriumsvalidität des neuen Angst-Fragebogens",
+        "Inhaltsvalidität des neuen Angst-Fragebogens",
+        "Konvergente Validität des neuen Angst-Fragebogens",
+        "Diskriminante Validität des neuen Angst-Fragebogens"
+      ],
+      "answer": 3,
+      "explanation": "Der fehlende Zusammenhang mit einem anderen Merkmal (Intelligenz) belegt diskriminante Validität – die Maße divergieren. Ein hoher Zusammenhang mit gleichem Merkmal wäre konvergent, ein Außenkriterium die Kriteriumsvalidität, die Item-Abdeckung die Inhaltsvalidität."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Depressionstest trennt erwartungsgemäß klar zwischen diagnostizierten Patient*innen und gesunden Personen. Welchen Weg der Validierung nutzt man hier?",
+      "options": [
+        "Inkrementelle Validität über einen zusätzlichen Prädiktor",
+        "Inhaltsvalidität über die Repräsentativität der Items",
+        "Konkurrente Kriteriumsvalidität über ein Außenkriterium",
+        "Konstruktvalidität über erwartete Gruppenunterschiede"
+      ],
+      "answer": 3,
+      "explanation": "Erwartungsgemäße Unterschiede zwischen bekannten Gruppen sind ein Weg zur Konstruktvalidität. Ein konkretes Außenkriterium wäre Kriteriumsvalidität, die Item-Repräsentativität Inhaltsvalidität, der Varianzzuwachs inkrementelle Validität."
+    }
+  ]
+}
