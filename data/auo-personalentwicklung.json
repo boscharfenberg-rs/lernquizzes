@@ -1,0 +1,388 @@
+{
+  "id": "auo-personalentwicklung",
+  "title": "A&O Interventionen · Personalentwicklung",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "30 Fragen zur Personalentwicklung (Ziele, Bedarfsanalyse, Kompetenzfelder, Lernorte, Basistechniken, Fehlermanagement, Selbstwirksamkeit) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "PE: Grundlagen",
+      "question": "Wie definiert die Folie Personalentwicklung?",
+      "options": [
+        "Alle Maßnahmen zur langfristigen, systematischen Veränderung von Arbeits- und Organisationsstrukturen",
+        "Alle Verfahren zur Auswahl geeigneter Bewerber:innen für offene Stellen",
+        "Alle geplanten Maßnahmen zur Entwicklung und Erhaltung der beruflichen Handlungskompetenz",
+        "Alle Kennzahlen zur Bewertung des wirtschaftlichen Erfolgs eines Betriebs"
+      ],
+      "answer": 2,
+      "explanation": "Personalentwicklung umfasst alle geplanten Maßnahmen, die die individuelle berufliche Handlungskompetenz entwickeln und erhalten. Die Veränderung von Strukturen ist Organisationsentwicklung, die Bewerberauswahl Personalauswahl, Erfolgskennzahlen sind Controlling."
+    },
+    {
+      "topic": "PE: Grundlagen",
+      "trap": "PE zielt aufs Individuum, OE auf die Organisation.",
+      "question": "Worin unterscheidet sich die Personalentwicklung von der Organisationsentwicklung?",
+      "options": [
+        "Die PE zielt auf das Individuum, die OE auf die gesamte Organisation",
+        "Die PE zielt auf die Organisation, die OE auf das einzelne Individuum",
+        "Beide zielen ausschließlich auf die Auswahl neuer Mitarbeitender ab",
+        "Beide zielen ausschließlich auf die Veränderung von Arbeitsbedingungen"
+      ],
+      "answer": 0,
+      "explanation": "Die PE zielt auf das Individuum im Unternehmen (Kompetenz, Performanz, Motivation), die OE auf die gesamte Organisation. Die umgekehrte Zuordnung ist falsch; reine Bedingungsveränderung oder Personalauswahl beschreiben beide nicht zutreffend."
+    },
+    {
+      "topic": "PE: Grundlagen",
+      "trap": "Arbeitsbedingungen zu verbessern ist ein OE-Ziel, nicht PE.",
+      "question": "Welches ist laut Folie KEIN Ziel der Personalentwicklung?",
+      "options": [
+        "Die Anpassung der Qualifikation der Mitarbeitenden",
+        "Die Erhöhung der Arbeitgeberattraktivität",
+        "Die Erhöhung von Motivation und Integration",
+        "Die Verbesserung der Arbeitsbedingungen im Betrieb"
+      ],
+      "answer": 3,
+      "explanation": "Die Verbesserung der Arbeitsbedingungen ist ein Ziel der Organisationsentwicklung, nicht der PE. Arbeitgeberattraktivität, Anpassung der Qualifikation sowie Motivation und Integration werden dagegen als PE-Ziele genannt."
+    },
+    {
+      "topic": "Bedarfsanalyse & Prozess",
+      "question": "Welche Phasenfolge beschreibt das Prozessmodell der Personalentwicklung?",
+      "options": [
+        "Durchführung, Evaluation, Bedarfsanalyse und Konzeption",
+        "Evaluation, Durchführung, Konzeption und Bedarfsanalyse",
+        "Konzeption, Bedarfsanalyse, Evaluation und Durchführung",
+        "Bedarfsanalyse, Konzeption, Durchführung und Evaluation"
+      ],
+      "answer": 3,
+      "explanation": "Das Prozessmodell verläuft von der Bedarfsanalyse über die Konzeption und Durchführung zur Evaluation. Die anderen Reihenfolgen vertauschen die Phasen und widersprechen der logischen Abfolge von der Bedarfsklärung bis zur Wirksamkeitsprüfung."
+    },
+    {
+      "topic": "Bedarfsanalyse & Prozess",
+      "hard": true,
+      "question": "Wie wird der Personalentwicklungsbedarf in der Bedarfsanalyse bestimmt?",
+      "options": [
+        "Als Vergleich der Trainingskosten mit dem erzielten Betriebsgewinn",
+        "Als Abgleich von IST-Kompetenzprofil und SOLL-Anforderungsprofil",
+        "Als Abgleich der Reliabilität mit der Validität des Testverfahrens",
+        "Als Vergleich der Fluktuation mit den Krankenständen im Betrieb"
+      ],
+      "answer": 1,
+      "explanation": "Der PE-Bedarf ergibt sich aus dem Abgleich des vorhandenen Kompetenzprofils (IST) mit dem geforderten Anforderungsprofil (SOLL). Reliabilität/Validität, Fluktuation/Krankenstand oder Kosten/Gewinn sind nicht die Grundlage dieser Bedarfsbestimmung."
+    },
+    {
+      "topic": "Bedarfsanalyse & Prozess",
+      "question": "Worauf zielt die Organisationsanalyse im Rahmen der Bedarfsanalyse?",
+      "options": [
+        "Auf die Kompetenzen, die für die Unternehmensziele benötigt werden",
+        "Auf die Wirksamkeit und Effizienz der durchgeführten Maßnahme",
+        "Auf die konkreten Aufgaben und ihre Anforderungen an die Person",
+        "Auf die vorhandenen Kompetenzen und Potenziale der Mitarbeitenden"
+      ],
+      "answer": 0,
+      "explanation": "Die Organisationsanalyse fragt, welche Kompetenzen für gegenwärtige und zukünftige Unternehmensziele benötigt werden. Aufgaben/Anforderungen betrifft die Aufgabenanalyse, vorhandene Kompetenzen die Personenanalyse, Wirksamkeit die Evaluation."
+    },
+    {
+      "topic": "Bedarfsanalyse & Prozess",
+      "question": "Welche Frage steht im Zentrum der Aufgabenanalyse?",
+      "options": [
+        "Welche Kompetenzen und Potenziale bringen die Personen bereits mit?",
+        "Welche Kompetenzen sind insgesamt für die gegenwärtigen Unternehmensziele nötig?",
+        "Welche Anforderungen stellt die Aufgabenbewältigung an die Mitarbeitenden?",
+        "Welche wirtschaftlichen Kennzahlen belegen den Trainingserfolg?"
+      ],
+      "answer": 2,
+      "explanation": "Die Aufgabenanalyse fragt, welche Aufgaben zu bewältigen sind und welche Anforderungen sie an die Mitarbeitenden stellen. Unternehmensziele betrifft die Organisationsanalyse, vorhandene Kompetenzen die Personenanalyse, Kennzahlen die Evaluation."
+    },
+    {
+      "topic": "Bedarfsanalyse & Prozess",
+      "hard": true,
+      "question": "Was unterscheidet Lernfeld und Anwendungsfeld im Prozessmodell?",
+      "options": [
+        "Lernfeld meint die Gestaltung des Transferklimas, Anwendungsfeld hingegen das PE-Design",
+        "Lernfeld meint die Gestaltung des PE-Designs, Anwendungsfeld die des Transferklimas",
+        "Beide meinen dasselbe und werden lediglich unterschiedlich benannt",
+        "Lernfeld meint die Evaluation, Anwendungsfeld die Bedarfsanalyse"
+      ],
+      "answer": 1,
+      "explanation": "Das Lernfeld betrifft die Gestaltung des PE-Designs (wo gelernt wird), das Anwendungsfeld die Gestaltung des Transferklimas (wo angewendet wird). Die umgekehrte Zuordnung, eine Gleichsetzung oder der Bezug auf Evaluation/Bedarfsanalyse treffen nicht zu."
+    },
+    {
+      "topic": "Kompetenzen & Lernziele",
+      "question": "Welche vier beruflichen Kompetenzfelder nennt die Folie?",
+      "options": [
+        "Fach-, Methoden-, Sozial- und Selbstkompetenz",
+        "Kognitiv-, Behavioral-, Affektiv- und Motivkompetenz",
+        "Organisations-, Aufgaben-, Personen- und Zielkompetenz",
+        "Simulative, kognitive, systemische und erlebnisorientierte Kompetenz"
+      ],
+      "answer": 0,
+      "explanation": "Die vier Kompetenzfelder sind Fach-, Methoden-, Sozial- und Selbstkompetenz. Kognitiv/behavioral/affektiv sind Lernzielarten, Organisations-/Aufgaben-/Personenanalyse Bedarfsanalyse-Schritte, und die letzten Begriffe sind Basistechniken."
+    },
+    {
+      "topic": "Kompetenzen & Lernziele",
+      "question": "Was fällt laut Folie unter die Methodenkompetenz?",
+      "options": [
+        "Einstellungen und Werthaltungen zur beruflichen Selbstreflexion",
+        "Generelle Planungs- und Entscheidungskompetenzen wie Problemlösung",
+        "Fachkenntnisse zur Bewältigung konkreter beruflicher Aufgaben",
+        "Kommunikative und kooperative Fähigkeiten in sozialer Interaktion"
+      ],
+      "answer": 1,
+      "explanation": "Methodenkompetenz meint generelle Planungs- und Entscheidungskompetenzen (z. B. Problemlösung, Wissensmanagement). Fachkenntnisse sind Fachkompetenz, kommunikativ-kooperative Fähigkeiten Sozialkompetenz, Werthaltungen Selbstkompetenz."
+    },
+    {
+      "topic": "Kompetenzen & Lernziele",
+      "question": "Welche drei Arten von Lernzielen unterscheidet die Folie?",
+      "options": [
+        "Simulative, kognitive und systemische Ziele",
+        "Organisations-, Aufgaben- und Personenziele",
+        "Kognitive, behaviorale und affektive Lernziele",
+        "Fach-, Methoden- und Sozialkompetenzziele"
+      ],
+      "answer": 2,
+      "explanation": "Die drei Lernzielarten sind kognitive (Wissen vermitteln), behaviorale (Verhalten modifizieren) und affektive (Einstellungen/Motivation). Die anderen Aufzählungen mischen Kompetenzfelder, Bedarfsanalyse-Schritte bzw. Basistechniken."
+    },
+    {
+      "topic": "Kompetenzen & Lernziele",
+      "hard": true,
+      "question": "Worin unterscheiden sich kognitive und behaviorale Lernziele?",
+      "options": [
+        "Beide zielen ausschließlich auf das Automatisieren von Handlungen",
+        "Kognitive vermitteln Wissen, behaviorale modifizieren konkretes Verhalten",
+        "Beide zielen ausschließlich auf Einstellungen und Motive der Person",
+        "Kognitive modifizieren Verhalten, behaviorale vermitteln ausschließlich Wissen"
+      ],
+      "answer": 1,
+      "explanation": "Kognitive Lernziele vermitteln Wissen (deklarativ, Strategien), behaviorale modifizieren Verhalten (z. B. Automatisieren von Handlungsabläufen). Die umgekehrte Zuordnung ist falsch; Einstellungen/Motive sind affektive Ziele."
+    },
+    {
+      "topic": "Lernorte der PE",
+      "question": "Welche Lernorte der Personalentwicklung nennt die Folie?",
+      "options": [
+        "into, on, near, off, along und out of the job",
+        "in, out, up und down of the job",
+        "pre, main, post und meta of the job",
+        "top, middle, bottom und cross of the job als sechs Lernorte"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie unterscheidet into, on, near, off, along und out of the job. Die anderen Aufzählungen sind erfundene Bezeichnungen ohne Grundlage in der Vorlesung."
+    },
+    {
+      "topic": "Lernorte der PE",
+      "question": "Welche Beispiele nennt die Folie für Personalentwicklung on the job?",
+      "options": [
+        "Outplacement und die gezielte Vorbereitung auf den Ruhestand",
+        "Berufsausbildung, Einarbeitung und ein begleitendes Traineeprogramm",
+        "Seminar und Training außerhalb des eigentlichen Arbeitsplatzes",
+        "Coaching, Mentoring und Job Enrichment am Arbeitsplatz"
+      ],
+      "answer": 3,
+      "explanation": "On the job umfasst z. B. Coaching, Mentoring und Job Enrichment direkt am Arbeitsplatz. Seminar/Training sind off the job, Berufsausbildung/Einarbeitung into the job, Outplacement/Ruhestandsvorbereitung out of the job."
+    },
+    {
+      "topic": "Lernorte der PE",
+      "question": "Welche Maßnahme ist laut Folie ein Beispiel für Personalentwicklung off the job?",
+      "options": [
+        "Berufsausbildung und Einarbeitung neuer Mitarbeitender",
+        "Ein Seminar oder Training außerhalb des Arbeitsplatzes",
+        "Coaching und Mentoring direkt an der eigenen Arbeitsaufgabe",
+        "Laufbahn- und Förderplanung begleitend zur Tätigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Off the job meint Lernen außerhalb des Arbeitsplatzes, z. B. Seminar oder Training. Coaching/Mentoring sind on the job, Ausbildung/Einarbeitung into the job, Laufbahn-/Förderplanung along the job."
+    },
+    {
+      "topic": "Techniken & Trainings",
+      "question": "Welche der folgenden ist laut Folie eine Basistechnik der Personalentwicklung?",
+      "options": [
+        "Die summative Evaluation am Ende einer Maßnahme",
+        "Die Organisationsanalyse als Schritt der Bedarfsanalyse",
+        "Das Anforderungsprofil als Ergebnis der Aufgabenanalyse",
+        "Die Verhaltensmodellierung als eigenständige Basistechnik"
+      ],
+      "answer": 3,
+      "explanation": "Die Verhaltensmodellierung zählt zu den Basistechniken (neben u. a. Feedback-, kognitiven und simulativen Techniken). Organisationsanalyse und Anforderungsprofil gehören zur Bedarfsanalyse, die summative Evaluation zur Evaluationsphase."
+    },
+    {
+      "topic": "Techniken & Trainings",
+      "question": "Was gehört laut Folie zum Ablauf der Verhaltensmodellierung?",
+      "options": [
+        "Ausschließlich die frontale Vermittlung von deklarativem Fachwissen",
+        "Ausschließlich die statistische Auswertung von Fehlerhäufigkeiten",
+        "Filmmodell, Übung im Rollenspiel und Rückmeldung durch die Gruppe",
+        "Ausschließlich der Abgleich von IST- und SOLL-Kompetenzprofil"
+      ],
+      "answer": 2,
+      "explanation": "Zur Verhaltensmodellierung gehören u. a. das Filmmodell, das Üben im Rollenspiel und die Rückmeldung durch die Gruppe. Reine Wissensvermittlung, ein IST/SOLL-Abgleich oder eine Fehlerstatistik beschreiben andere Verfahren."
+    },
+    {
+      "topic": "Techniken & Trainings",
+      "question": "Was ist laut Folie ein Merkmal interkultureller Trainings?",
+      "options": [
+        "Sie richten sich primär an Personen kurz vor dem Ruhestand",
+        "Sie richten sich primär an Expatriates (ins Ausland Entsandte)",
+        "Sie richten sich primär an neu eingestellte Auszubildende",
+        "Sie richten sich primär an das obere Führungsmanagement"
+      ],
+      "answer": 1,
+      "explanation": "Interkulturelle Trainings richten sich primär an Expatriates, also für längere Zeit ins Ausland entsandte Mitarbeitende. Auszubildende, Führungskräfte oder Personen vor dem Ruhestand sind nicht die genannte primäre Zielgruppe."
+    },
+    {
+      "topic": "Techniken & Trainings",
+      "question": "Was ist laut Folie typisch für das Training diagnostischer Kompetenzen?",
+      "options": [
+        "Es besteht nur aus dem Austausch positiver Stresserfahrungen",
+        "Es findet ausschließlich in realen Störungs- und Notfallsituationen statt",
+        "Es findet außerhalb von Ernstsituationen statt, z. B. mit Simulatoren",
+        "Es zielt allein auf die Vermittlung interkulturellen Wissens ab"
+      ],
+      "answer": 2,
+      "explanation": "Das Training diagnostischer Kompetenzen (z. B. Signalsuche, heuristische Regeln) findet außerhalb von Ernstsituationen statt, etwa mit Simulatoren. Reale Notfälle, Stresserfahrungsaustausch oder interkulturelles Wissen betreffen andere Trainings."
+    },
+    {
+      "topic": "Techniken & Trainings",
+      "question": "Welche Aufzählung nennt Basistechniken der Personalentwicklung?",
+      "options": [
+        "Fachkompetenz, Methodenkompetenz, Sozialkompetenz und Selbstkompetenz",
+        "Into the job, on the job, near the job und off the job als Basistechniken",
+        "Organisationsanalyse, Aufgabenanalyse, Personenanalyse und die abschließende Evaluation",
+        "Simulative Technik, Feedback-Technik, Fallarbeit und Moderationstechnik"
+      ],
+      "answer": 3,
+      "explanation": "Zu den Basistechniken zählen laut Folie u. a. simulative, Feedback-, kognitive, erlebnisorientierte Techniken sowie Fallarbeit und Moderationstechniken. Die anderen Aufzählungen sind Schritte der Bedarfsanalyse, die vier Kompetenzfelder bzw. die Lernorte der PE."
+    },
+    {
+      "topic": "Fehlermanagement & Selbstwirksamkeit",
+      "question": "Was ist ein Merkmal von Fehlermanagement-Trainings?",
+      "options": [
+        "Es werden nur wirtschaftliche Kennzahlen des Betriebs analysiert",
+        "Es wird ausschließlich fehlerfreies Modellverhalten vorgeführt",
+        "Fehler werden bewusst zugelassen und aktiv reflektiert",
+        "Fehler werden von Beginn an strikt verhindert und vermieden"
+      ],
+      "answer": 2,
+      "explanation": "Fehlermanagement-Trainings lassen Fehler bewusst zu und setzen sich mit ihren Bedingungen auseinander (eigenständige Exploration). Striktes Vermeiden, reines Modellverhalten oder Kennzahlenanalyse beschreiben das Gegenteil bzw. andere Verfahren."
+    },
+    {
+      "topic": "Fehlermanagement & Selbstwirksamkeit",
+      "hard": true,
+      "trap": "Sie wirken über Metakognition, nicht über reines Fehlervermeiden.",
+      "question": "Über welchen Mechanismus entfalten Fehlermanagement-Trainings ihre Wirkung?",
+      "options": [
+        "Über eine Steigerung metakognitiver Aktivitäten und Emotionskontrolle",
+        "Über das reine Auswendiglernen fehlerfreier Handlungsabläufe",
+        "Über das präventive und konsequente Verhindern jeglicher Fehler von Anfang an",
+        "Über die Herabsetzung der allgemeinen Relevanz von Fehlern"
+      ],
+      "answer": 0,
+      "explanation": "Fehlermanagement-Trainings wirken über gesteigerte metakognitive Aktivitäten und Emotionskontrolle (Selbstregulation). Präventives Fehlervermeiden, reines Einüben oder das Herabsetzen der Fehlerrelevanz sind nicht der belegte Wirkmechanismus."
+    },
+    {
+      "topic": "Fehlermanagement & Selbstwirksamkeit",
+      "question": "Welche Quellen der Selbstwirksamkeit nennt die Folie?",
+      "options": [
+        "Fach-, Methoden-, Sozial- und Selbstkompetenz der Mitarbeitenden",
+        "Aktives Meistern, stellvertretende Erfahrung, verbale Überzeugung und Affekt",
+        "Organisations-, Aufgaben-, Personen- und Zielanalyse der Bedürfnisse",
+        "Reliabilität, Validität, Objektivität und Normierung des eingesetzten Verfahrens"
+      ],
+      "answer": 1,
+      "explanation": "Als Quellen der Selbstwirksamkeit nennt die Folie aktives Meistern, stellvertretende Erfahrung, verbale Überzeugung und positive affektive Zustände. Die anderen Aufzählungen sind Gütekriterien, Bedarfsanalyse-Schritte bzw. Kompetenzfelder."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Ein PE-Team fragt: „Welche Anforderungen stellt die neue Software an die Sachbearbeitenden?“ Welchem Schritt der Bedarfsanalyse entspricht das?",
+      "options": [
+        "Der Aufgabenanalyse",
+        "Der Evaluation der Maßnahme",
+        "Der Personenanalyse",
+        "Der Organisationsanalyse"
+      ],
+      "answer": 0,
+      "explanation": "Die Frage nach den Anforderungen der Aufgabenbewältigung ist die Aufgabenanalyse. Die Organisationsanalyse fragt nach Kompetenzen für die Unternehmensziele, die Personenanalyse nach vorhandenen Kompetenzen, die Evaluation nach der Wirksamkeit."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "In einem Projekt wird erhoben, welche Kompetenzen die Mitarbeitenden bereits mitbringen und welche Potenziale sie für künftige Aufgaben haben. Welcher Schritt der Bedarfsanalyse ist das?",
+      "options": [
+        "Die Personenanalyse",
+        "Die Aufgabenanalyse",
+        "Die Konzeption des Trainings",
+        "Die Organisationsanalyse"
+      ],
+      "answer": 0,
+      "explanation": "Die Erhebung vorhandener Kompetenzen und Entwicklungspotenziale ist die Personenanalyse. Die Aufgabenanalyse betrifft Aufgabenanforderungen, die Organisationsanalyse die Unternehmensziele, die Konzeption die spätere Trainingsgestaltung."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Direkt an der Arbeitsaufgabe = on the job, nicht near.",
+      "question": "Eine Führungskraft begleitet eine Mitarbeiterin direkt an ihrer Arbeitsaufgabe durch Coaching. Welchem Lernort entspricht das?",
+      "options": [
+        "Out of the job",
+        "Off the job",
+        "Near the job",
+        "On the job"
+      ],
+      "answer": 3,
+      "explanation": "Coaching direkt an der Arbeitsaufgabe ist on the job. Off the job wäre ein externes Seminar, near the job ein Workshop nahe der Arbeit, out of the job z. B. Outplacement."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Mitarbeitende besuchen ein mehrtägiges externes Seminar in einem Tagungshotel. Welchem Lernort entspricht das?",
+      "options": [
+        "On the job",
+        "Along the job",
+        "Off the job",
+        "Into the job"
+      ],
+      "answer": 2,
+      "explanation": "Ein externes Seminar fernab des Arbeitsplatzes ist off the job. On the job wäre Lernen an der Aufgabe, into the job die Einarbeitung, along the job die begleitende Laufbahnplanung."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "In einer Studie steigert ein Stressmanagement-Training die Selbstwirksamkeit, und diese wiederum verbessert das Wohlbefinden. Welche Rolle spielt die Selbstwirksamkeit hier?",
+      "options": [
+        "Sie wirkt als Moderator, der die Trainingswirkung nur verstärkt",
+        "Sie ist allein das Kriterium und ohne weitere Wirkung",
+        "Sie ist eine unabhängige Störvariable ohne Bezug zum Training",
+        "Sie wirkt als Mediator zwischen Training und Wohlbefinden"
+      ],
+      "answer": 3,
+      "explanation": "Weil das Training über die Selbstwirksamkeit auf das Wohlbefinden wirkt, ist sie ein Mediator. Ein Moderator würde die Stärke des Effekts verändern, das reine Kriterium wäre ein bloßes Ziel, und eine Störvariable stünde außerhalb der Wirkkette."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "In einem Training erkunden die Teilnehmenden ein neues Programm eigenständig, dürfen Fehler machen und analysieren deren Ursachen. Um welche Trainingsart handelt es sich?",
+      "options": [
+        "Ein Fehlermanagement-Training",
+        "Ein interkulturelles Orientierungstraining",
+        "Eine klassische Verhaltensmodellierung",
+        "Ein Training diagnostischer Kompetenzen"
+      ],
+      "answer": 0,
+      "explanation": "Eigenständige Exploration mit bewusst zugelassenen Fehlern und Ursachenanalyse kennzeichnet das Fehlermanagement-Training. Interkulturelle Trainings, Verhaltensmodellierung und diagnostische Kompetenztrainings folgen anderen Prinzipien."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Training soll erreichen, dass Servicekräfte eine kundenorientierte Grundhaltung entwickeln. Welche Art von Lernziel wird damit verfolgt?",
+      "options": [
+        "Ein kognitives Lernziel (Wissen und Strategien)",
+        "Ein affektives Lernziel (Einstellungen und Haltungen)",
+        "Ein organisationales Lernziel (Strukturveränderung)",
+        "Ein behaviorales Lernziel (Automatisieren von Abläufen)"
+      ],
+      "answer": 1,
+      "explanation": "Eine Grundhaltung wie Kundenorientierung ist ein affektives Lernziel (Einstellungen/Motivation). Wissen wäre kognitiv, das Automatisieren von Handlungen behavioral, eine Strukturveränderung wäre Organisationsentwicklung."
+    }
+  ]
+}
