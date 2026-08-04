@@ -1,0 +1,387 @@
+{
+  "id": "diagnostik-guetekriterien-zusammenspiel",
+  "title": "Psychologische Diagnostik · Gütekriterien-Zusammenspiel",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zum Zusammenspiel der Gütekriterien und zu Einflussfaktoren auf die Validität (Fairness, Reliabilität, Symmetrie, Methodenvarianz, Stichprobe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Normen & Fairness",
+      "question": "Wann bieten sich laut Folie gruppenspezifische Normen (statt Gesamtnormen) an?",
+      "options": [
+        "Wenn es im Test Mittelwertunterschiede zwischen zwei oder mehr Gruppen gibt",
+        "Wenn der Test in allen betrachteten Gruppen exakt denselben Mittelwert erzielt",
+        "Wenn die Reliabilität des Tests in allen Gruppen sehr niedrig ausfällt",
+        "Wenn das Kriterium ausschließlich durch die Testleitung erhoben wird"
+      ],
+      "answer": 0,
+      "explanation": "Gruppenspezifische Normen bieten sich an, wenn es im Test Mittelwertunterschiede zwischen Gruppen (z. B. Alter, Geschlecht, Bildung) gibt. Bei gleichem Mittelwert wären sie überflüssig; niedrige Reliabilität oder die Erhebungsart sind kein Anlass dafür."
+    },
+    {
+      "topic": "Normen & Fairness",
+      "question": "Was bewirken gruppenspezifische Normen mit den Testunterschieden zwischen Gruppen?",
+      "options": [
+        "Sie vergrößern die Mittelwertunterschiede im Test zwischen den Gruppen",
+        "Sie eliminieren die Mittelwertunterschiede im Test zwischen den Gruppen",
+        "Sie ersetzen das Kriterium durch das Urteil der Testleitung",
+        "Sie erhöhen die Reliabilität des Tests in jeder einzelnen Gruppe"
+      ],
+      "answer": 1,
+      "explanation": "Durch gruppenspezifische Normen werden die Mittelwertunterschiede im Test zwischen den Gruppen eliminiert. Sie vergrößern die Unterschiede nicht, verändern nicht die Reliabilität und ersetzen kein Kriterium."
+    },
+    {
+      "topic": "Normen & Fairness",
+      "trap": "Fairness steigt nur, wenn der Unterschied allein im Test liegt.",
+      "question": "Wann erhöhen gruppenspezifische Normen laut Folie die Testfairness?",
+      "options": [
+        "Wenn die Reliabilität des Kriteriums in beiden Gruppen sehr hoch ist",
+        "Wenn sich der Gruppenunterschied sowohl im Test als auch im Kriterium zeigt",
+        "Wenn weder im Test noch im Kriterium ein Gruppenunterschied besteht",
+        "Wenn ein Gruppenunterschied im Test besteht, im Kriterium aber nicht"
+      ],
+      "answer": 3,
+      "explanation": "Die Fairness steigt, wenn im Test ein Gruppenunterschied vorliegt, den es im Kriterium nicht gibt – dann korrigiert die Norm eine Benachteiligung. Bilden Test und Kriterium den Unterschied gleichermaßen ab, sinkt die Fairness; die Reliabilität ist hier nicht entscheidend."
+    },
+    {
+      "topic": "Normen & Fairness",
+      "question": "Wann verringern gruppenspezifische Normen laut Folie die Testfairness?",
+      "options": [
+        "Wenn der Test in allen Gruppen dieselbe Streuung der Werte zeigt",
+        "Wenn sich der Gruppenunterschied in Test UND Kriterium widerspiegelt",
+        "Wenn weder Test noch Kriterium einen Gruppenunterschied aufweisen",
+        "Wenn ein Gruppenunterschied nur im Test, nicht aber im Kriterium besteht"
+      ],
+      "answer": 1,
+      "explanation": "Die Fairness sinkt, wenn sich der Gruppenunterschied in Test und Kriterium gleichermaßen zeigt – dann verwischt die Norm einen realen Unterschied. Liegt der Unterschied nur im Test, steigt die Fairness; ohne Unterschied oder bei gleicher Streuung stellt sich die Frage nicht."
+    },
+    {
+      "topic": "Zusammenspiel der Gütekriterien",
+      "question": "Welche Beziehung zwischen Validität und Reliabilität gilt laut Folie?",
+      "options": [
+        "Eine hohe Reliabilität garantiert stets eine ebenso hohe Validität",
+        "Die (Kriteriums-)Validität ist stets deutlich höher als die Reliabilität",
+        "Validität und Reliabilität sind völlig unabhängig voneinander",
+        "Die (Kriteriums-)Validität kann nicht höher sein als die Reliabilität"
+      ],
+      "answer": 3,
+      "explanation": "Die Kriteriumsvalidität kann nicht höher als die Reliabilität sein – die Reliabilität bildet eine Obergrenze. Sie ist also nicht höher, nicht unabhängig, und hohe Reliabilität garantiert keine hohe Validität."
+    },
+    {
+      "topic": "Zusammenspiel der Gütekriterien",
+      "question": "Was muss ein Test mit hoher Kriteriumsvalidität laut Folie besitzen?",
+      "options": [
+        "Ausschließlich eine hohe Durchführungsobjektivität, sonst nichts weiter",
+        "Eine durchweg niedrige Objektivität bei zugleich sehr niedriger Reliabilität des Tests",
+        "Hohe Objektivität, Reliabilität und Zulänglichkeit (Überlappung mit dem Kriterium)",
+        "Eine möglichst geringe inhaltliche Überlappung mit dem Kriterium"
+      ],
+      "answer": 2,
+      "explanation": "Hohe Kriteriumsvalidität setzt hohe Objektivität, Reliabilität und Zulänglichkeit (inhaltliche Überlappung mit dem Kriterium) voraus. Niedrige Objektivität/Reliabilität oder geringe Überlappung würden die Validität gerade begrenzen. (Hinweis: Der Begriff „Zulänglichkeit“ stammt aus vertiefender Zusatzliteratur, Lienert & Raatz.)"
+    },
+    {
+      "topic": "Zusammenspiel der Gütekriterien",
+      "hard": true,
+      "question": "Ein Test hat ausreichende Kriteriumsvalidität, aber geringe Reliabilität. Was folgt daraus laut Folie?",
+      "options": [
+        "Er muss eine hohe Zulänglichkeit besitzen; Verbesserung durch Testverlängerung",
+        "Er muss eine geringe Zulänglichkeit besitzen; Verbesserung durch inhaltliche Überarbeitung",
+        "Seine Validität kann durch die geringe Reliabilität gar nicht zustande kommen",
+        "Er benötigt zwingend eine völlig neue, unabhängige Normstichprobe"
+      ],
+      "answer": 0,
+      "explanation": "Trotz geringer Reliabilität ausreichende Validität ist nur bei hoher Zulänglichkeit möglich – verbessern lässt sich das durch Testverlängerung (die die Reliabilität erhöht). Geringe Zulänglichkeit mit inhaltlicher Überarbeitung gilt für den umgekehrten Fall; eine neue Normstichprobe ist nicht der Punkt. (Hinweis: „Zulänglichkeit“ stammt aus vertiefender Zusatzliteratur, Lienert & Raatz.)"
+    },
+    {
+      "topic": "Zusammenspiel der Gütekriterien",
+      "hard": true,
+      "question": "Ein Test hat hohe Reliabilität, aber geringe Kriteriumsvalidität. Was folgt daraus laut Folie?",
+      "options": [
+        "Er hat eine hohe Zulänglichkeit; Verbesserung erfolgt durch eine bloße Testverlängerung",
+        "Er benötigt lediglich eine strengere Auswertungsobjektivität der Items",
+        "Er hat eine geringe Zulänglichkeit; Verbesserung durch inhaltliche Überarbeitung",
+        "Seine hohe Reliabilität macht jede weitere Verbesserung grundsätzlich unnötig"
+      ],
+      "answer": 2,
+      "explanation": "Hohe Reliabilität bei geringer Validität deutet auf geringe Zulänglichkeit – der Test misst zuverlässig, aber am Kriterium vorbei; Abhilfe schafft inhaltliche Überarbeitung. Testverlängerung hülfe nur der Reliabilität, und die Auswertungsobjektivität ist nicht das Problem. (Hinweis: „Zulänglichkeit“ stammt aus vertiefender Zusatzliteratur, Lienert & Raatz.)"
+    },
+    {
+      "topic": "Zusammenspiel der Gütekriterien",
+      "question": "Welche Aussage zum Zusammenspiel von Reliabilität und Objektivität trifft laut Folie zu?",
+      "options": [
+        "Objektivität und Reliabilität eines Tests sind völlig unabhängig voneinander",
+        "Paralleltest- und Retest-Reliabilität sind stets deutlich höher als die Objektivität",
+        "Paralleltest- und Retest-Reliabilität sind nicht höher als die Objektivität",
+        "Eine hohe Objektivität senkt die Reliabilität eines Tests systematisch ab"
+      ],
+      "answer": 2,
+      "explanation": "Paralleltest- und Retest-Reliabilität können nicht höher als die Objektivität (und nicht höher als die interne Konsistenz) sein – die Objektivität bildet eine Obergrenze. Sie sind also nicht höher, nicht unabhängig, und Objektivität senkt die Reliabilität nicht."
+    },
+    {
+      "topic": "Reliabilität & Minderungskorrektur",
+      "question": "Warum begrenzt die Reliabilität die Höhe der Validität?",
+      "options": [
+        "Weil das Kriterium bei hoher Reliabilität grundsätzlich entfallen kann",
+        "Weil eine hohe Reliabilität die Korrelation mit dem Kriterium künstlich senkt",
+        "Weil die Validität ausschließlich von der Objektivität des Tests abhängt",
+        "Weil eine fehlerbehaftete Messung die Korrelation mit dem Kriterium mindert"
+      ],
+      "answer": 3,
+      "explanation": "Messfehler in Test und Kriterium mindern die beobachtbare Korrelation, daher kann die Validität die Reliabilität nicht übersteigen. Hohe Reliabilität senkt nichts künstlich, die Validität hängt nicht nur von der Objektivität ab, und das Kriterium entfällt nicht."
+    },
+    {
+      "topic": "Reliabilität & Minderungskorrektur",
+      "hard": true,
+      "question": "Worin unterscheiden sich einfache und doppelte Minderungskorrektur?",
+      "options": [
+        "Die einfache korrigiert um beide Reliabilitäten, die doppelte um nur eine",
+        "Die einfache korrigiert um EINE Reliabilität, die doppelte um BEIDE Reliabilitäten",
+        "Beide korrigieren ausschließlich die Reliabilität des Kriteriums, nie des Tests",
+        "Beide korrigieren die Validität um die Objektivität von Test und Kriterium"
+      ],
+      "answer": 1,
+      "explanation": "Die einfache Minderungskorrektur korrigiert um die Reliabilität von Test ODER Kriterium, die doppelte um beide zugleich (beide Reliabilitäten müssen bekannt sein). Die umgekehrte Zuordnung oder ein Bezug auf die Objektivität treffen nicht zu."
+    },
+    {
+      "topic": "Reliabilität & Minderungskorrektur",
+      "question": "Was schätzt die (doppelte) Minderungskorrektur?",
+      "options": [
+        "Die tatsächliche, reale Vorhersagekraft des Tests im Anwendungsfeld",
+        "Die Repräsentativität der Items für das zu erfassende Merkmal",
+        "Die interne Konsistenz eines Tests aus seinen einzelnen Itemvarianzen",
+        "Die Korrelation der wahren Werte zweier fehlerbehafteter Variablen"
+      ],
+      "answer": 3,
+      "explanation": "Die Minderungskorrektur schätzt die Korrelation der wahren Werte zweier korrelierter, fehlerbehafteter Variablen. Sie liefert nicht die reale Vorhersagekraft (nur eine Hochrechnung), keine interne Konsistenz und keine Item-Repräsentativität."
+    },
+    {
+      "topic": "Reliabilität & Minderungskorrektur",
+      "hard": true,
+      "trap": "Die Korrektur erhöht nicht die Reliabilität, nur die geschätzte Zahl.",
+      "question": "Warum macht die Minderungskorrektur einen Test laut Folie NICHT prädiktiver?",
+      "options": [
+        "Weil sie nur eine Hochrechnung ist und die reale Reliabilität nicht erhöht",
+        "Weil sie die Validität immer auf einen festen Wert von 1.0 hochsetzt",
+        "Weil sie die Stichprobengröße für die Validierung automatisch vergrößert",
+        "Weil sie die reale Reliabilität des Tests unmittelbar und dauerhaft anhebt"
+      ],
+      "answer": 0,
+      "explanation": "Die Korrektur ist nur eine Hochrechnung: Sie erhöht die tatsächliche Reliabilität nicht, also auch nicht die reale Vorhersage. Sie hebt die Reliabilität nicht an, setzt die Validität nicht auf 1.0 und ändert nichts an der Stichprobe."
+    },
+    {
+      "topic": "Reliabilität & Minderungskorrektur",
+      "question": "Was fordert die Folie zum Berichten korrigierter Validitäten?",
+      "options": [
+        "Es sollten ausschließlich die korrigierten Validitäten berichtet werden",
+        "Korrigierte Validitäten ersetzen jede Angabe zur Reliabilität des Tests",
+        "Korrigierte Validitäten dürfen grundsätzlich niemals berichtet werden",
+        "Es sollten stets auch die unkorrigierten Validitäten mitberichtet werden"
+      ],
+      "answer": 3,
+      "explanation": "Man sollte nie nur korrigierte Werte berichten, sondern stets auch die unkorrigierten Validitäten. Weder ein ausschließliches Berichten korrigierter Werte noch ein generelles Verbot noch ein Ersatz der Reliabilitätsangabe entsprechen der Folie."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "question": "Was ist mit Symmetrie zwischen Test (Prädiktor) und Kriterium gemeint?",
+      "options": [
+        "Prädiktor und Kriterium messen bewusst zwei völlig verschiedene Merkmale",
+        "Prädiktor und Kriterium werden stets mit derselben Methode erhoben",
+        "Prädiktor und Kriterium stammen immer aus derselben Normstichprobe",
+        "Prädiktor und Kriterium liegen auf demselben Generalisierungsniveau"
+      ],
+      "answer": 3,
+      "explanation": "Symmetrie meint, dass Prädiktor und Kriterium dasselbe Generalisierungsniveau abdecken (weder zu eng noch zu breit). Dieselbe Methode betrifft die Methodenvarianz, verschiedene Merkmale wären unerwünscht, und die Normstichprobe ist ein anderer Aspekt."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "question": "Ein allgemeiner Intelligenztest wird nur mit einem engen Test des schlussfolgernden Denkens validiert. Was liegt vor?",
+      "options": [
+        "Eine Asymmetrie: das Vergleichsmaß ist zu eng bzw. zu spezifisch",
+        "Eine perfekte Reliabilität beider eingesetzten Verfahren",
+        "Eine gemeinsame Methodenvarianz zwischen den beiden eingesetzten Verfahren",
+        "Eine gewünschte Symmetrie zwischen Prädiktor und Kriterium"
+      ],
+      "answer": 0,
+      "explanation": "Ein zu enges Vergleichsmaß erzeugt Asymmetrie und mindert den Zusammenhang. Symmetrie läge bei gleichem Niveau vor, Methodenvarianz beträfe die Erhebungsmethode, und über die Reliabilität sagt das Beispiel nichts aus."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "hard": true,
+      "trap": "Gemeinsame Methode erhöht den Zusammenhang – aber unerwünscht.",
+      "question": "Wie wirkt sich gemeinsame Methodenvarianz auf die Validität aus?",
+      "options": [
+        "Sie hat auf die Höhe der Validität keinerlei nennenswerten Einfluss",
+        "Sie erhöht den Zusammenhang künstlich und überschätzt so die Validität",
+        "Sie verbessert die reale Vorhersagekraft des Tests im Anwendungsfeld",
+        "Sie senkt den Zusammenhang und unterschätzt so die Validität deutlich"
+      ],
+      "answer": 1,
+      "explanation": "Gleiche Erhebungsmethode erhöht die Korrelation unabhängig vom Merkmal und überschätzt damit die Validität (unerwünscht). Sie senkt sie nicht, ist nicht einflusslos und verbessert nicht die reale Vorhersage."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "question": "Welche Ursachen der gemeinsamen Methodenvarianz nennt die Folie?",
+      "options": [
+        "Itemschwierigkeit, Itemvarianz und Trennschärfe der Items",
+        "Stichprobenumfang, Varianzeinschränkung und Übertragbarkeit",
+        "Anstrengungsbereitschaft, soziale Erwünschtheit und Antwortstile",
+        "Reliabilität, Objektivität und Normierung der beiden Verfahren"
+      ],
+      "answer": 2,
+      "explanation": "Die Methodenvarianz entsteht durch systematische Personenunterschiede in Anstrengungsbereitschaft, sozialer Erwünschtheit und Antwortstilen. Gütekriterien, Itemkennwerte oder Stichprobenmerkmale sind hier nicht die genannten Ursachen."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "hard": true,
+      "question": "Test und Kriterium erfassen beide zusätzlich dasselbe störende Merkmal (z. B. Angst). Wie nennt die Folie das und wie wirkt es?",
+      "options": [
+        "Konfundierung mit dem gleichen Merkmal; sie senkt den Zusammenhang erwünscht",
+        "Konfundierung mit dem gleichen Merkmal; sie erhöht den Zusammenhang unerwünscht",
+        "Varianzeinschränkung; sie mindert den Zusammenhang der beiden Maße",
+        "Gewünschte Symmetrie; sie erhöht den Zusammenhang in erwünschter Weise"
+      ],
+      "answer": 1,
+      "explanation": "Erfassen beide Maße dasselbe zusätzliche Merkmal, ist das eine Konfundierung mit dem gleichen Merkmal – sie erhöht den Zusammenhang, ist aber unerwünscht (nicht das Zielmerkmal). Eine Senkung, gewünschte Symmetrie oder Varianzeinschränkung treffen nicht zu."
+    },
+    {
+      "topic": "Symmetrie & Methodenvarianz",
+      "question": "Zwei Tests zum schlussfolgernden Denken sind zusätzlich mit unterschiedlichen Merkmalen konfundiert (verbal mit Wortschatz, numerisch mit Rechenfertigkeit). Wie wirkt das?",
+      "options": [
+        "Es entsteht Asymmetrie und der Zusammenhang der beiden Maße wird gemindert",
+        "Es entsteht Methodenvarianz und die Validität des Tests wird deutlich überschätzt",
+        "Es entsteht Symmetrie und der Zusammenhang der beiden Maße wird erwünscht erhöht",
+        "Es entsteht Varianzeinschränkung durch eine zu klein gewählte Validierungsstichprobe"
+      ],
+      "answer": 0,
+      "explanation": "Konfundierung mit unterschiedlichen Merkmalen erzeugt Asymmetrie und mindert den Zusammenhang der Maße (nicht erwünscht). Symmetrie mit erhöhtem Zusammenhang, Methodenvarianz oder Varianzeinschränkung beschreiben andere Einflussfaktoren."
+    },
+    {
+      "topic": "Stichprobe & Items",
+      "question": "Wie wirken sich kleine Stichproben auf Validitätskoeffizienten aus?",
+      "options": [
+        "Die Korrelationen sind von der Stichprobengröße völlig unabhängig",
+        "Die Korrelationen liegen stets systematisch zu niedrig unter dem wahren Wert",
+        "Die Korrelationen sind grundsätzlich exakter und stabiler als bei großen",
+        "Die Korrelationen können nach oben oder unten verzerrt sein (Ausreißer)"
+      ],
+      "answer": 3,
+      "explanation": "Korrelationen sind stichprobenabhängig; in kleinen Stichproben können sie durch einzelne Ausreißer nach oben oder unten verzerrt sein. Sie sind nicht exakter, nicht generell zu niedrig und nicht unabhängig von der Größe."
+    },
+    {
+      "topic": "Stichprobe & Items",
+      "question": "Was ist bei der Übertragung von Validitätsergebnissen auf eine andere Stichprobe zu beachten?",
+      "options": [
+        "Sie ist immer uneingeschränkt und ohne jede Bedingung möglich",
+        "Sie gelingt umso besser, je unähnlicher die beiden Stichproben sind",
+        "Sie ist nur möglich, wenn die beiden Stichproben vergleichbar sind",
+        "Sie hängt allein von der Reliabilität des Kriteriums ab"
+      ],
+      "answer": 2,
+      "explanation": "Eine Übertragung ist nur bei vergleichbaren Stichproben sinnvoll (auch wegen möglicher Varianzeinschränkung). Sie ist nicht bedingungslos möglich, gelingt nicht bei Unähnlichkeit und hängt nicht allein an der Kriteriumsreliabilität."
+    },
+    {
+      "topic": "Stichprobe & Items",
+      "question": "Wie wirkt sich eine geringe Itemvarianz laut Folie aus?",
+      "options": [
+        "Geringe Varianz führt zu geringer Korrelation und mindert Reliabilität/Validität",
+        "Die Itemvarianz hat keinen Einfluss auf Korrelationen oder Reliabilität",
+        "Geringe Varianz führt zu besonders hohen und stabilen Korrelationen mit dem Kriterium",
+        "Geringe Varianz erhöht die Trennschärfe und die interne Konsistenz stark"
+      ],
+      "answer": 0,
+      "explanation": "Geringe Itemvarianz führt zu geringer Korrelation und mindert damit Reliabilität und Validität. Sie erhöht die Korrelation nicht, ist nicht einflusslos und steigert nicht die Trennschärfe."
+    },
+    {
+      "topic": "Stichprobe & Items",
+      "question": "Wie hängen Trennschärfe und interne Konsistenz laut Folie zusammen?",
+      "options": [
+        "Je höher die Trennschärfen der Items, desto höher die interne Konsistenz",
+        "Die Trennschärfe der Items hat auf die interne Konsistenz keinen Einfluss",
+        "Je höher die Trennschärfen der Items, desto niedriger die interne Konsistenz",
+        "Hohe Trennschärfe senkt zugleich die Itemschwierigkeit systematisch ab"
+      ],
+      "answer": 0,
+      "explanation": "Je höher die Trennschärfen, desto höher fällt die interne Konsistenz aus. Ein gegenläufiger oder fehlender Zusammenhang trifft nicht zu, und mit der Itemschwierigkeit ist die Trennschärfe hier nicht so verknüpft."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Test benachteiligt eine Gruppe im Mittelwert, obwohl es im vorherzusagenden Kriterium keinen Gruppenunterschied gibt. Wie wirken gruppenspezifische Normen hier?",
+      "options": [
+        "Sie haben auf die Fairness keinen Einfluss",
+        "Sie erhöhen die Testfairness",
+        "Sie senken die Reliabilität des Tests",
+        "Sie verringern die Testfairness"
+      ],
+      "answer": 1,
+      "explanation": "Da der Unterschied nur im Test, nicht im Kriterium besteht, korrigieren gruppenspezifische Normen eine Benachteiligung und erhöhen die Fairness. Eine Verringerung träte nur ein, wenn der Unterschied auch im Kriterium läge; die Reliabilität ist davon nicht betroffen."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "In einem Manual wird für einen Test eine Validität von .85 berichtet, während seine Reliabilität mit .70 angegeben ist. Wie ist das zu bewerten?",
+      "options": [
+        "Auffällig, denn die Reliabilität kann nie unter dem Wert .90 liegen",
+        "Auffällig, denn die Validität kann nicht höher als die Reliabilität sein",
+        "Unauffällig, denn die Validität ist regelhaft deutlich höher als die Reliabilität",
+        "Unauffällig, denn beide Kennwerte sind völlig voneinander unabhängig"
+      ],
+      "answer": 1,
+      "explanation": "Da die Reliabilität eine Obergrenze der Validität bildet, ist eine Validität über der Reliabilität auffällig und erklärungsbedürftig. Validität ist nicht regelhaft höher, die Kennwerte sind nicht unabhängig, und es gibt keine feste .90-Grenze für Reliabilität."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Gleiche Methode blüht den Zusammenhang künstlich auf.",
+      "question": "Ein Fragebogen und sein Validierungskriterium sind beide Selbsteinschätzungen. Der Zusammenhang fällt sehr hoch aus. Wie ist das zu deuten?",
+      "options": [
+        "Als Zeichen einer zu engen, asymmetrischen Kriteriumswahl",
+        "Als klarer Beleg für eine besonders hohe wahre Validität",
+        "Möglicherweise durch gemeinsame Methodenvarianz überschätzt",
+        "Als Folge einer zu kleinen, stark eingeschränkten Stichprobe"
+      ],
+      "answer": 2,
+      "explanation": "Weil beide Maße dieselbe Methode (Selbsteinschätzung) nutzen, kann gemeinsame Methodenvarianz den Zusammenhang aufblähen und die Validität überschätzen. Ein Beleg für hohe wahre Validität ist es gerade nicht; Asymmetrie oder Stichprobengröße erklären den Fall nicht."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Nach inhaltlicher Überarbeitung steigt die Reliabilität eines Tests deutlich an. Wie wirkt sich das auf den Validitätskoeffizienten aus?",
+      "options": [
+        "Er kann steigen – erwünscht, da die Obergrenze der Validität mit angehoben wird",
+        "Er wird bedeutungslos, da nur noch korrigierte Werte berichtet werden dürfen",
+        "Er sinkt zwangsläufig, da mehr Items den beobachteten Zusammenhang stets verwässern",
+        "Er bleibt unverändert, da Reliabilität und Validität unabhängig sind"
+      ],
+      "answer": 0,
+      "explanation": "Da die Reliabilität die Obergrenze der Validität bildet, kann ein höherer Reliabilitätswert den Validitätskoeffizienten erwünscht anheben. Ein zwangsläufiges Sinken, Unabhängigkeit oder ein Bedeutungsverlust widersprechen dem."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "In einer Studie werden ausschließlich minderungskorrigierte Validitäten berichtet. Was ist daran laut Folie problematisch?",
+      "options": [
+        "Die korrigierten Werte beziffern die reale Vorhersage des Tests exakt",
+        "Korrigierte Validitäten hätten hier gar nicht berechnet werden dürfen",
+        "Es sollten stets auch die unkorrigierten Validitäten mitberichtet werden",
+        "Ohne Korrektur wäre die Reliabilität des Tests nicht bestimmbar gewesen"
+      ],
+      "answer": 2,
+      "explanation": "Korrigierte Werte sind nur Hochrechnungen; man sollte daher stets auch die unkorrigierten Validitäten berichten. Die Berechnung ist nicht verboten, die korrigierten Werte beziffern nicht die reale Vorhersage, und die Reliabilität ist unabhängig davon bestimmbar."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Ein Depressionsfragebogen erfasst vor allem Stimmung, wird aber mit einem Verfahren validiert, das ALLE ICD-Kriterien der Depression abdeckt. Was liegt vor?",
+      "options": [
+        "Eine gewünschte Symmetrie zwischen Fragebogen und Vergleichsmaß",
+        "Eine Asymmetrie: das Vergleichsmaß ist zu breit bzw. zu generell",
+        "Eine gemeinsame Methodenvarianz der beiden Depressionsmaße",
+        "Eine Varianzeinschränkung in der untersuchten Stichprobe"
+      ],
+      "answer": 1,
+      "explanation": "Ein zu breites Vergleichsmaß gegenüber einem engen Prädiktor erzeugt Asymmetrie. Symmetrie läge bei gleichem Niveau vor, Methodenvarianz beträfe die Erhebungsmethode, und Varianzeinschränkung ist ein Stichprobenphänomen."
+    }
+  ]
+}

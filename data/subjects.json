@@ -98,6 +98,13 @@
       "title": "A&O Interventionen · Arbeit & Gesundheit",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "30 Fragen zu Arbeit & Gesundheit (Stress, Belastung/Beanspruchung, Stressmodelle, Coping, Erholung, Work-Family, Boundary) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-guetekriterien-zusammenspiel",
+      "file": "diagnostik-guetekriterien-zusammenspiel.json",
+      "title": "Psychologische Diagnostik · Gütekriterien-Zusammenspiel",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zum Zusammenspiel der Gütekriterien und zu Einflussfaktoren auf die Validität (Fairness, Reliabilität, Symmetrie, Methodenvarianz, Stichprobe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }
