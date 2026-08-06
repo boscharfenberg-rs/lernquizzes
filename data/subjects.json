@@ -119,6 +119,13 @@
       "title": "Beobachten & weitere Methoden",
       "subject": "Psychologische Diagnostik",
       "description": "Wege der Informationsbeschaffung II: Verhaltensbeobachtung, implizite Maße, objektive & projektive Verfahren, psychophysiologische Methoden. 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "diagnostik-einzelfalldiagnostik",
+      "file": "diagnostik-einzelfalldiagnostik.json",
+      "title": "Diagnostische Untersuchung & Einzelfalldiagnostik",
+      "subject": "Psychologische Diagnostik",
+      "description": "Diagnostische Untersuchung I: Untersuchungssituation, Ergebnismitteilung und psychometrische Einzelfalldiagnostik (Standardmessfehler, Konfidenzintervall, kritische Differenz). 30 Fragen mit Fallbeispielen."
     }
   ]
 }
