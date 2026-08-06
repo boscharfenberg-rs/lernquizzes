@@ -105,6 +105,13 @@
       "title": "Psychologische Diagnostik · Gütekriterien-Zusammenspiel",
       "subject": "Psychologische Diagnostik",
       "description": "30 Fragen zum Zusammenspiel der Gütekriterien und zu Einflussfaktoren auf die Validität (Fairness, Reliabilität, Symmetrie, Methodenvarianz, Stichprobe) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-informationsbeschaffung",
+      "file": "diagnostik-informationsbeschaffung.json",
+      "title": "Psychologische Diagnostik · Wege der Informationsbeschaffung",
+      "subject": "Psychologische Diagnostik",
+      "description": "30 Fragen zu den Wegen der Informationsbeschaffung (Bezugsquellen, Testen, Aufmerksamkeit/Konzentration, Intelligenztests, schriftliches Befragen) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
     }
   ]
 }

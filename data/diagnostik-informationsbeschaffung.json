@@ -1,0 +1,386 @@
+{
+  "id": "diagnostik-informationsbeschaffung",
+  "title": "Psychologische Diagnostik · Wege der Informationsbeschaffung",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zu den Wegen der Informationsbeschaffung (Bezugsquellen, Testen, Aufmerksamkeit/Konzentration, Intelligenztests, schriftliches Befragen) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Bezugsquellen",
+      "question": "Woher können diagnostische Testverfahren laut Folie bezogen werden?",
+      "options": [
+        "Von Testverlagen und aus Open-Source-Repositorien",
+        "Ausschließlich von den Autor*innen der Originalstudien",
+        "Ausschließlich über die zuständige Ethikkommission",
+        "Nur über die kassenärztliche Vereinigung der Region"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie nennt Testverlage (z. B. Hogrefe, Pearson, Schuhfried) und Open-Source-Repositorien (z. B. testarchiv.eu, zis.gesis.org). Autor*innen, Ethikkommission oder kassenärztliche Vereinigung sind nicht die genannten Bezugswege."
+    },
+    {
+      "topic": "Bezugsquellen",
+      "question": "Welche der folgenden sind laut Folie Beispiele für Testverlage?",
+      "options": [
+        "Springer, Beltz und die Deutsche Nationalbibliothek",
+        "Hogrefe (Testzentrale), Pearson und Schuhfried",
+        "Die APA, die AERA und die International Test Commission",
+        "GESIS, das Testarchiv und das FDZ Bildung"
+      ],
+      "answer": 1,
+      "explanation": "Als Testverlage nennt die Folie Hogrefe (testzentrale.de), Pearson und Schuhfried. GESIS/Testarchiv/FDZ sind Open-Source-Repositorien, die APA/AERA/ITC sind Herausgeber von Teststandards, nicht Verlage."
+    },
+    {
+      "topic": "Bezugsquellen",
+      "question": "Was gilt laut Folie für das Anschauen von Tests in der MSH-Bibliothek?",
+      "options": [
+        "Die Eignung der Tests muss man dort grundsätzlich nicht mehr prüfen",
+        "Kopieren für den Eigengebrauch ist ausdrücklich uneingeschränkt erlaubt",
+        "Tests dürfen dort weder eingesehen noch in die Hand genommen werden",
+        "Einsehen ist möglich, aber Kopieren widerspricht dem Copyright"
+      ],
+      "answer": 3,
+      "explanation": "Man kann Tests in der Bibliothek einsehen, das Kopieren für den Eigengebrauch verstößt jedoch gegen das Copyright. Uneingeschränktes Kopieren, ein generelles Einsichtsverbot oder ein Verzicht auf die Eignungsprüfung treffen nicht zu."
+    },
+    {
+      "topic": "Methoden & Durchführung",
+      "question": "Welche Hauptmethoden der Informationsbeschaffung nennt die Folie?",
+      "options": [
+        "Objektivität, Reliabilität, Validität und Normierung",
+        "Selbsteinschätzung, Fremdeinschätzung und Expert*innenurteil",
+        "Testen, Befragen, Beobachten sowie weitere Methoden",
+        "Alertness, selektive, geteilte und Daueraufmerksamkeit"
+      ],
+      "answer": 2,
+      "explanation": "Als Methoden nennt die Folie Testen, Befragen, Beobachten sowie weitere Methoden (z. B. implizite Maße). Gütekriterien, Aufmerksamkeitsformen oder Einschätzungsquellen sind keine Methoden-Oberkategorien dieser Aufzählung."
+    },
+    {
+      "topic": "Methoden & Durchführung",
+      "question": "Welche der folgenden zählt die Folie zu den weiteren (übrigen) Methoden?",
+      "options": [
+        "Das schriftliche Befragen mittels standardisierter Fragebögen",
+        "Der klassische Leistungstest mit richtigen und falschen Antworten",
+        "Indirekte/implizite Maße und psychophysiologische Methoden",
+        "Die systematische Verhaltensbeobachtung in einer Testsituation"
+      ],
+      "answer": 2,
+      "explanation": "Zu den weiteren Methoden zählt die Folie u. a. indirekte/implizite Maße und psychophysiologische Methoden. Leistungstest, Befragen und Beobachten sind dagegen jeweils eigene, ausdrücklich genannte Hauptmethoden."
+    },
+    {
+      "topic": "Methoden & Durchführung",
+      "question": "Welche Aspekte gehören laut Folie zu den Durchführungsbedingungen eines Verfahrens?",
+      "options": [
+        "Fluide Intelligenz, kristalline Intelligenz und schulisches Wissen",
+        "Reliabilität, Validität und Objektivität des eingesetzten Verfahrens",
+        "Alertness, selektive, geteilte Aufmerksamkeit und Vigilanz",
+        "Einzel- oder Gruppentestung, Papier- oder Computertest und die Dauer"
+      ],
+      "answer": 3,
+      "explanation": "Durchführungsbedingungen sind z. B. Einzel-/Gruppentestung, Papier-Bleistift- oder Computertest und die Testdauer. Gütekriterien, Aufmerksamkeitsformen oder Intelligenzarten betreffen andere Aspekte."
+    },
+    {
+      "topic": "Testen im engen Sinne",
+      "question": "Was bedeutet Testen im engen Sinne laut Folie?",
+      "options": [
+        "Die freie, unstandardisierte Exploration des subjektiven Lebensraums",
+        "Die Beobachtung des Verhaltens in einer natürlichen Alltagssituation",
+        "Die Erfassung typischen Verhaltens über einen längeren Zeitraum",
+        "Die Erfassung von Leistungsmerkmalen unter standardisierten Bedingungen"
+      ],
+      "answer": 3,
+      "explanation": "Testen im engen Sinne erfasst Leistungsmerkmale unter standardisierten Bedingungen (Informationsstichprobe über die Person). Typisches Verhalten erfasst der Persönlichkeitsfragebogen, freie Exploration das Interview, natürliches Verhalten die Beobachtung."
+    },
+    {
+      "topic": "Testen im engen Sinne",
+      "trap": "Leistungstest = maximales, Persönlichkeitstest = typisches Verhalten.",
+      "question": "Worin unterscheiden sich Leistungstest und Persönlichkeitsfragebogen laut Folie?",
+      "options": [
+        "Beide erfassen ausschließlich das maximal mögliche Verhalten der Person",
+        "Beide erfassen ausschließlich das typische Alltagsverhalten der Person",
+        "Der Leistungstest erfasst maximal mögliches, der Fragebogen typisches Verhalten",
+        "Der Leistungstest erfasst typisches, der Fragebogen maximal mögliches Verhalten"
+      ],
+      "answer": 2,
+      "explanation": "Der Leistungstest zielt auf das maximal mögliche Verhalten (mit richtig/falsch), der Persönlichkeitsfragebogen auf das typische Verhalten. Die umgekehrte Zuordnung oder eine Gleichsetzung beider treffen nicht zu."
+    },
+    {
+      "topic": "Testen im engen Sinne",
+      "question": "Was gilt laut Folie für die Antworten in einem Leistungstest?",
+      "options": [
+        "Nur die Bearbeitungsgeschwindigkeit wird gewertet",
+        "Es gibt richtige und falsche Antworten",
+        "Nur die soziale Erwünschtheit wird ausgewertet",
+        "Es gibt grundsätzlich keine falschen Antworten"
+      ],
+      "answer": 1,
+      "explanation": "Im Leistungstest gibt es richtige und falsche Antworten. Fehlende richtige/falsche Antworten kennzeichnen eher Persönlichkeitsfragebögen; reine Geschwindigkeit oder soziale Erwünschtheit sind nicht das definierende Merkmal."
+    },
+    {
+      "topic": "Testen im engen Sinne",
+      "question": "Was kennzeichnet einen Speedtest?",
+      "options": [
+        "Die Bearbeitungszeit ist knapp bemessen, es kommt auf Schnelligkeit an",
+        "Er erfasst typisches Verhalten ohne richtige oder falsche Antworten",
+        "Die Zeit ist unbegrenzt und die Aufgaben werden von Item zu Item schwerer",
+        "Er misst ausschließlich subjektive Einstellungen und Präferenzen"
+      ],
+      "answer": 0,
+      "explanation": "Beim Speedtest ist die Zeit knapp bemessen, sodass es auf Schnelligkeit ankommt. Ansteigende Schwierigkeit ohne Zeitdruck kennzeichnet den Powertest; typisches Verhalten oder Einstellungen betreffen Fragebögen."
+    },
+    {
+      "topic": "Testen im engen Sinne",
+      "hard": true,
+      "question": "Was kennzeichnet einen Power- bzw. Niveautest?",
+      "options": [
+        "Keine starke Zeitbegrenzung, die Schwierigkeit steigt von Item zu Item",
+        "Die reine Beobachtung des Verhaltens in einer natürlichen Situation",
+        "Eine knapp bemessene Zeit, sodass es allein auf die Schnelligkeit ankommt",
+        "Die Erfassung typischen Verhaltens ohne richtige oder falsche Lösung"
+      ],
+      "answer": 0,
+      "explanation": "Beim Power-/Niveautest gibt es keine starke Zeitbegrenzung, die Schwierigkeit steigt von Item zu Item (letzte Aufgaben sind selbst für sehr Fähige kaum lösbar). Knappe Zeit kennzeichnet den Speedtest; typisches Verhalten bzw. Beobachtung sind andere Verfahren."
+    },
+    {
+      "topic": "Aufmerksamkeit & Konzentration",
+      "question": "Welche Aufmerksamkeitsformen nennt die Folie?",
+      "options": [
+        "Speed, Power, Niveau, Reasoning und breite Messung",
+        "Alertness, selektive, geteilte, Daueraufmerksamkeit und Vigilanz",
+        "Fluide, kristalline, numerische, verbale und räumliche Intelligenz",
+        "Selbst-, Fremd-, Experten-, Peer- und Verhaltenseinschätzung"
+      ],
+      "answer": 1,
+      "explanation": "Die Folie nennt Alertness, selektive Aufmerksamkeit, geteilte Aufmerksamkeit, Daueraufmerksamkeit und Vigilanz. Die anderen Aufzählungen betreffen Intelligenzarten, Testtypen bzw. Einschätzungsquellen."
+    },
+    {
+      "topic": "Aufmerksamkeit & Konzentration",
+      "hard": true,
+      "trap": "Vigilanz = seltene Reize; Daueraufmerksamkeit = anhaltende selektive/geteilte.",
+      "question": "Was kennzeichnet die Vigilanz?",
+      "options": [
+        "Das schnelle und zuverlässige Beantworten einfacher Reize",
+        "Das Beachten seltener Reize über einen längeren Zeitraum",
+        "Das gleichzeitige Beachten von Reizen aus zwei Reizklassen",
+        "Das Beachten eines Reizes innerhalb einer ganzen Reizklasse"
+      ],
+      "answer": 1,
+      "explanation": "Vigilanz ist das Beachten seltener Reize über längere Zeit. Einfache Reize schnell beantworten ist Alertness, das Beachten eines Reizes einer Klasse selektive, zwei Klassen gleichzeitig geteilte Aufmerksamkeit."
+    },
+    {
+      "topic": "Aufmerksamkeit & Konzentration",
+      "question": "Was kennzeichnet die selektive Aufmerksamkeit?",
+      "options": [
+        "Das schnelle und zuverlässige Beantworten sehr einfacher Reize",
+        "Das Beachten seltener Reize über einen langen Zeitraum hinweg",
+        "Das gleichzeitige Beachten von Reizen aus zwei verschiedenen Klassen",
+        "Das Beachten eines oder weniger Reize innerhalb einer Reizklasse"
+      ],
+      "answer": 3,
+      "explanation": "Selektive Aufmerksamkeit meint das Beachten eines bestimmten bzw. weniger Reize innerhalb einer Reizklasse. Zwei Klassen zugleich ist geteilte Aufmerksamkeit, seltene Reize über Zeit ist Vigilanz, einfache Reize schnell ist Alertness."
+    },
+    {
+      "topic": "Aufmerksamkeit & Konzentration",
+      "hard": true,
+      "question": "Wie wird Konzentration laut Folie beschrieben?",
+      "options": [
+        "Das theoretische Konstrukt empirisch als latenten Faktor belegen",
+        "Unter erschwerenden Bedingungen schnell und genau arbeiten können",
+        "Typisches Alltagsverhalten der Person über viele Situationen erfassen",
+        "Seltene Reize über einen sehr langen Zeitraum zuverlässig beachten"
+      ],
+      "answer": 1,
+      "explanation": "Konzentration ist die Fähigkeit, unter erschwerenden Bedingungen schnell und genau zu arbeiten (abgebildet in Geschwindigkeit und Sorgfalt). Seltene Reize über Zeit ist Vigilanz; latente Faktoren und typisches Verhalten betreffen andere Konzepte."
+    },
+    {
+      "topic": "Aufmerksamkeit & Konzentration",
+      "question": "Welche Aufgabentypen sind laut Folie typisch für Konzentrationstests?",
+      "options": [
+        "Freies Erzählen, offene Exploration und assoziatives Deuten von Bildern",
+        "Fremdeinschätzung durch nahestehende und professionelle Personen",
+        "Selbsteinschätzung von Einstellungen, Werten und Präferenzen",
+        "Suchen (Durchstreichtest), Rechnen, Sortieren und Transformieren"
+      ],
+      "answer": 3,
+      "explanation": "Typische Konzentrationstest-Aufgaben sind Suchen (Durchstreichtest, z. B. d2-R), Rechnen (z. B. KLT-R), Sortieren und Transformieren. Freies Erzählen, Selbst- oder Fremdeinschätzung sind andere Erhebungsformen."
+    },
+    {
+      "topic": "Intelligenztests",
+      "question": "Welche Aussage zur Messung von Intelligenz trifft laut Folie zu?",
+      "options": [
+        "Intelligenz misst man am besten mit einem Persönlichkeitsfragebogen",
+        "Es gibt genau ein allgemein anerkanntes Intelligenzmodell",
+        "Es gibt nicht DIE Intelligenz; das Manual ist stets zu sichten",
+        "Intelligenz wird ausschließlich über die Reaktionszeit gemessen"
+      ],
+      "answer": 2,
+      "explanation": "Es gibt nicht DIE Intelligenz, sondern unterschiedliche Modelle – daher immer das Manual zur konzeptuellen Einordnung sichten. Ein einziges Modell, reine Reaktionszeit oder ein Persönlichkeitsfragebogen treffen nicht zu."
+    },
+    {
+      "topic": "Intelligenztests",
+      "hard": true,
+      "question": "Welche zwei Hauptwege zur Erfassung allgemeiner Intelligenz nennt die Folie?",
+      "options": [
+        "Fokus auf schlussfolgerndes Denken oder breite Messung mit vielen Aufgabentypen",
+        "Speedtest mit knapper Zeit oder Powertest mit steigender Schwierigkeit",
+        "Erfassung typischen Verhaltens oder maximal möglichen Verhaltens der Person",
+        "Selbsteinschätzung durch die Person oder Fremdeinschätzung durch andere"
+      ],
+      "answer": 0,
+      "explanation": "Die zwei Hauptwege sind der Fokus auf den Kern (schlussfolgerndes Denken/Reasoning, z. B. SPM) oder die breite Messung mit unterschiedlichen Aufgabentypen (z. B. BIS-Test). Verhalten, Einschätzungsquelle oder Testtempo sind hier nicht die Unterscheidung."
+    },
+    {
+      "topic": "Intelligenztests",
+      "trap": "Wortschatz misst kristalline, nicht fluide Intelligenz.",
+      "question": "Womit wird laut Folie eher die kristalline (kristallisierte) Intelligenz erfasst?",
+      "options": [
+        "Mit einem Culture-Fair-Test (z. B. CFT 20-R)",
+        "Mit einem Wortschatztest (z. B. MWT)",
+        "Mit einem reinen Durchstreichtest (z. B. d2-R)",
+        "Mit einer standardisierten Verhaltensbeobachtung"
+      ],
+      "answer": 1,
+      "explanation": "Kristalline Intelligenz wird eher über einen Wortschatztest (z. B. MWT) erfasst. Culture-Fair-Tests messen fluide Intelligenz, der Durchstreichtest die Konzentration, die Beobachtung ist eine andere Methode."
+    },
+    {
+      "topic": "Schriftliches Befragen",
+      "question": "Was ist ein Fragebogen laut Folie?",
+      "options": [
+        "Eine standardisierte Aufgabe zur Erfassung maximaler Leistung",
+        "Eine freie mündliche Exploration des subjektiven Lebensraums",
+        "Eine Sammlung von Fragen oder Aussagen zur systematischen Befragung",
+        "Eine Beobachtung des Verhaltens in einer natürlichen Situation"
+      ],
+      "answer": 2,
+      "explanation": "Ein Fragebogen ist eine Sammlung von Fragen (oft auch Aussagen oder Begriffe) zur systematischen Befragung. Maximale Leistung erfasst der Leistungstest, freie Exploration das Interview, Verhalten die Beobachtung."
+    },
+    {
+      "topic": "Schriftliches Befragen",
+      "question": "Warum ist die Objektivität beim schriftlichen Befragen laut Folie hoch?",
+      "options": [
+        "Weil die Befragten die Auswertungsregeln selbst festlegen können",
+        "Weil vorformulierte Fragen die Durchführung und Auswertung standardisieren",
+        "Weil ausschließlich offene mündliche Antworten protokolliert werden",
+        "Weil die Testleitung die Antworten frei und individuell interpretieren darf"
+      ],
+      "answer": 1,
+      "explanation": "Vorformulierte Fragen in schriftlicher Form sorgen für hohe Durchführungs- und Auswertungsobjektivität. Freie Interpretation, selbst gewählte Auswertungsregeln oder offene mündliche Antworten würden die Objektivität gerade senken."
+    },
+    {
+      "topic": "Schriftliches Befragen",
+      "question": "Welchen Vorteil hat die Selbsteinschätzung laut Folie?",
+      "options": [
+        "Sie ist grundsätzlich frei von Antworttendenzen und Bezugsrahmen",
+        "Sie benötigt keinerlei Instruktion zur Art der Bearbeitung",
+        "Niemand verfügt über so viele Informationen über die Person wie sie selbst",
+        "Sie erfasst ausschließlich objektive, von außen prüfbare Tatsachen"
+      ],
+      "answer": 2,
+      "explanation": "Der Vorteil: Niemand kennt so viele Informationen über eine Zielperson wie diese selbst (Erfassung subjektiver Sichtweisen). Freiheit von Antworttendenzen ist gerade nicht gegeben, rein objektive Tatsachen und fehlende Instruktion treffen nicht zu."
+    },
+    {
+      "topic": "Schriftliches Befragen",
+      "question": "Welchen Nachteil der Selbsteinschätzung nennt die Folie?",
+      "options": [
+        "Unterschiedliche Bezugsrahmen sowie Antwortstile und -tendenzen",
+        "Die Unmöglichkeit, subjektive Einstellungen überhaupt zu erfassen",
+        "Die zwingend erforderliche persönliche Anwesenheit der Testleitung",
+        "Der grundsätzlich sehr hohe Aufwand bei Durchführung und Auswertung"
+      ],
+      "answer": 0,
+      "explanation": "Als Nachteile nennt die Folie unterschiedliche Bezugsrahmen sowie Antwortstile/-tendenzen. Der Aufwand ist gerade gering, subjektive Einstellungen sind gut erfassbar, und Anwesenheit der Testleitung ist nicht zwingend."
+    },
+    {
+      "topic": "Schriftliches Befragen",
+      "question": "Welche Prämisse gilt laut Folie für eine sinnvolle Fremdeinschätzung?",
+      "options": [
+        "Die Beurteilenden müssen approbierte Psychotherapeut*innen sein",
+        "Die Beurteilung muss ohne jede vorherige Interaktion erfolgen",
+        "Die Beurteilenden dürfen die Zielperson zuvor gar nicht gekannt haben",
+        "Die Beurteilenden konnten die Person über viele Situationen beobachten"
+      ],
+      "answer": 3,
+      "explanation": "Prämisse ist, dass informierte Andere die Person bereits über viele Situationen beobachten konnten. Fehlende Vorkenntnis, ein Approbationszwang oder das Ausschließen jeder Interaktion widersprechen dem."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Test hat keine Zeitbegrenzung, und die Aufgaben werden von Item zu Item schwerer, bis selbst sehr fähige Personen scheitern. Um welchen Testtyp handelt es sich?",
+      "options": [
+        "Um einen Persönlichkeitsfragebogen",
+        "Um einen Power- bzw. Niveautest",
+        "Um einen Speedtest",
+        "Um eine Verhaltensbeobachtung"
+      ],
+      "answer": 1,
+      "explanation": "Keine Zeitbegrenzung mit ansteigender Schwierigkeit kennzeichnet den Power-/Niveautest. Knappe Zeit wäre ein Speedtest; ein Fragebogen erfasst typisches Verhalten und die Beobachtung ist eine eigene Methode."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Maximales Verhalten mit richtig/falsch = Leistungstest.",
+      "question": "Ein Verfahren stellt Aufgaben mit richtigen und falschen Lösungen und erfasst das maximal mögliche Verhalten. Was liegt vor?",
+      "options": [
+        "Ein Leistungstest (im engen Sinne)",
+        "Eine unstandardisierte Exploration",
+        "Eine Selbsteinschätzung von Einstellungen",
+        "Ein Persönlichkeitsfragebogen"
+      ],
+      "answer": 0,
+      "explanation": "Richtige/falsche Aufgaben und maximal mögliches Verhalten kennzeichnen den Leistungstest. Der Persönlichkeitsfragebogen erfasst typisches Verhalten, die Selbsteinschätzung Einstellungen, die Exploration ist unstandardisiert."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Radar-Operator muss über Stunden hinweg auf sehr selten auftauchende Signale reagieren. Welche Aufmerksamkeitsform ist hier zentral?",
+      "options": [
+        "Selektive Aufmerksamkeit",
+        "Geteilte Aufmerksamkeit",
+        "Alertness",
+        "Vigilanz"
+      ],
+      "answer": 3,
+      "explanation": "Das Beachten seltener Reize über lange Zeit ist Vigilanz. Alertness meint das schnelle Reagieren auf einfache Reize, selektive das Fokussieren auf einen Reiz einer Klasse, geteilte das Beachten zweier Klassen zugleich."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "In einem Test müssen Proband*innen in langen Zeichenreihen zügig bestimmte Zielzeichen durchstreichen. Welche Art von Test ist das am ehesten?",
+      "options": [
+        "Ein Konzentrationstest (Durchstreich-/Suchaufgabe)",
+        "Ein Persönlichkeitsfragebogen zur Selbsteinschätzung",
+        "Ein Culture-Fair-Test der fluiden Intelligenz",
+        "Ein Wortschatztest der kristallinen Intelligenz"
+      ],
+      "answer": 0,
+      "explanation": "Das zügige, genaue Durchstreichen von Zielzeichen ist eine typische Konzentrationstest-Aufgabe (Suchen/Durchstreichen, z. B. d2-R). Culture-Fair- und Wortschatztests messen Intelligenz, der Fragebogen erfasst Selbstangaben."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Verfahren erfasst über einen Mehrfachwahl-Wortschatztest das erworbene sprachliche Wissen. Welche Intelligenzkomponente wird damit vor allem gemessen?",
+      "options": [
+        "Die fluide, kaum wissensgebundene Intelligenz",
+        "Die allgemeine Konzentrationsfähigkeit",
+        "Die kristalline Intelligenz",
+        "Die anhaltende Daueraufmerksamkeit"
+      ],
+      "answer": 2,
+      "explanation": "Ein Wortschatztest (z. B. MWT) erfasst vor allem die kristalline Intelligenz (erworbenes Wissen). Fluide Intelligenz misst man mit Culture-Fair-Tests; Daueraufmerksamkeit und Konzentration sind keine Intelligenzkomponenten."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Um die Verzerrung einzelner Urteile zu verringern, werden mehrere Fremdberichte über eine Person gemittelt. Was nutzt man hier laut Folie?",
+      "options": [
+        "Die Aggregation von Fremdberichten",
+        "Die selektive Aufmerksamkeit",
+        "Einen Speedtest der Leistung",
+        "Die Selbsteinschätzung der Zielperson"
+      ],
+      "answer": 0,
+      "explanation": "Das Mitteln mehrerer Fremdberichte ist die Aggregation, die beurteilerspezifische Verzerrungen verringert. Selbsteinschätzung, Speedtest oder selektive Aufmerksamkeit haben mit diesem Prinzip nichts zu tun."
+    }
+  ]
+}
