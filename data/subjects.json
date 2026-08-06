@@ -112,6 +112,13 @@
       "title": "Psychologische Diagnostik · Wege der Informationsbeschaffung",
       "subject": "Psychologische Diagnostik",
       "description": "30 Fragen zu den Wegen der Informationsbeschaffung (Bezugsquellen, Testen, Aufmerksamkeit/Konzentration, Intelligenztests, schriftliches Befragen) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-informationsbeschaffung-2",
+      "file": "diagnostik-informationsbeschaffung-2.json",
+      "title": "Beobachten & weitere Methoden",
+      "subject": "Psychologische Diagnostik",
+      "description": "Wege der Informationsbeschaffung II: Verhaltensbeobachtung, implizite Maße, objektive & projektive Verfahren, psychophysiologische Methoden. 30 Fragen mit Fallbeispielen."
     }
   ]
 }

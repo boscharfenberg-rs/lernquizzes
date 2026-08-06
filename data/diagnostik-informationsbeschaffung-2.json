@@ -1,0 +1,387 @@
+{
+  "id": "diagnostik-informationsbeschaffung-2",
+  "title": "Psychologische Diagnostik · Beobachten & weitere Methoden",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zu Wegen der Informationsbeschaffung II (Beobachtung, implizite Maße, objektive & projektive Verfahren, psychophysiologische Methoden) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "trap": "Beobachtung beschreibt wertfrei, Beurteilung stuft Eigenschaften ein.",
+      "question": "Worin unterscheiden sich Verhaltensbeobachtung und Verhaltensbeurteilung laut Folie?",
+      "options": [
+        "Die Beobachtung beschreibt Verhalten wertfrei, die Beurteilung stuft Eigenschaften ein",
+        "Beide beschreiben Verhalten ausschließlich wertfrei und ohne jede Deutung",
+        "Beide stufen die Ausprägung von Eigenschaften mittels Rating-Skalen ein",
+        "Die Beobachtung stuft Eigenschaften ein, die Beurteilung beschreibt Verhalten wertfrei"
+      ],
+      "answer": 0,
+      "explanation": "Die Verhaltensbeobachtung beschreibt Verhalten nicht wertend, die Verhaltensbeurteilung stuft die Ausprägung von Eigenschaften (per Rating) ein. Die umgekehrte Zuordnung oder eine Gleichsetzung treffen nicht zu; eine Beurteilung setzt eine Beobachtung voraus."
+    },
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "question": "Wann ist die Verhaltensbeobachtung laut Folie besonders gut geeignet?",
+      "options": [
+        "Wenn ausschließlich subjektive Einstellungen erfasst werden sollen",
+        "Wenn maximal mögliches Leistungsverhalten geprüft werden soll",
+        "Wenn unbewusste Inhalte indirekt erschlossen werden sollen",
+        "Wenn andere Informationsquellen nicht verfügbar oder unergiebig sind"
+      ],
+      "answer": 3,
+      "explanation": "Beobachtung eignet sich gut, wenn andere Quellen fehlen oder unergiebig sind; im Idealfall liefert sie bewertungsfreie Fakten. Subjektive Einstellungen erfasst der Fragebogen, maximale Leistung der Leistungstest, unbewusste Inhalte implizite Maße."
+    },
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "question": "Welche Gegensatzpaare zur Unterscheidung von Beobachtungen nennt die Folie?",
+      "options": [
+        "Systematisch/unsystematisch, direkt/indirekt, Feld/Labor, verdeckt/offen und weitere",
+        "Alertness, selektiv, geteilt, Daueraufmerksamkeit und Vigilanz",
+        "Konvergent/diskriminant, faktoriell, kriterienbezogen und inhaltlich validierend erhoben",
+        "Nominal, ordinal, intervall- und verhältnisskaliert erhoben"
+      ],
+      "answer": 0,
+      "explanation": "Beobachtungen unterscheidet man u. a. nach systematisch/unsystematisch, direkt/indirekt, Feld/Labor, verdeckt/offen, teilnehmend/nicht-teilnehmend und Selbst-/Fremdbeobachtung. Die anderen Aufzählungen betreffen Validität, Skalenniveaus bzw. Aufmerksamkeitsformen."
+    },
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "hard": true,
+      "question": "Worin besteht laut Folie der Vorteil der indirekten Beobachtung?",
+      "options": [
+        "Sie erfasst das Verhalten unmittelbar in der Situation, in der es passiert",
+        "Sie stuft die Ausprägung von Eigenschaften direkt per Rating-Skala ein",
+        "Sie trennt über Aufzeichnungen (z. B. Video) das Beobachten vom Registrieren",
+        "Sie erlaubt es, den Blick flexibel auf das interessante Geschehen zu richten"
+      ],
+      "answer": 2,
+      "explanation": "Indirekte Beobachtung nutzt Aufzeichnungen (z. B. Video) und kann so das Beobachten vom Registrieren trennen. Flexibler Blick und unmittelbares Erfassen kennzeichnen die direkte Beobachtung; das Einstufen per Rating ist die Verhaltensbeurteilung."
+    },
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "question": "Welchen Vorteil hat die Beobachtung im Feld (natürliche Umgebung)?",
+      "options": [
+        "Kontextbedingungen sind erfassbar und die Generalisierbarkeit auf den Alltag ist besser",
+        "Die Beobachtung kann grundsätzlich ohne Zustimmung erfolgen",
+        "Die Bedingungen sind maximal standardisiert und dadurch zwischen Personen gut vergleichbar",
+        "Die Reaktivität der beobachteten Person wird vollständig ausgeschlossen"
+      ],
+      "answer": 0,
+      "explanation": "Im Feld sind Kontextbedingungen erfassbar und die Ergebnisse besser auf den Alltag generalisierbar. Standardisierung und Vergleichbarkeit sind Vorteile der Laborbeobachtung; Reaktivität vermeidet die verdeckte Beobachtung, und Zustimmung bleibt nötig."
+    },
+    {
+      "topic": "Beobachtung: Grundlagen",
+      "question": "Was kennzeichnet die verdeckte Beobachtung laut Folie?",
+      "options": [
+        "Die beobachtete Person protokolliert ihr Verhalten selbst per Tagebuch",
+        "Die beobachtende Person ist nicht sichtbar, was die Reaktivität vermeidet",
+        "Die beobachtende Person ist klar erkennbar am Geschehen beteiligt",
+        "Die Ausprägung von Eigenschaften wird offen per Rating eingestuft"
+      ],
+      "answer": 1,
+      "explanation": "Bei verdeckter Beobachtung ist der/die Beobachter*in nicht sichtbar (z. B. Einwegspiegel), was Reaktivität vermeidet – Zustimmung bleibt aber ethisch nötig. Sichtbare Beteiligung ist die offene/teilnehmende Form, Selbstprotokoll die Selbstbeobachtung."
+    },
+    {
+      "topic": "Systematische Beobachtung",
+      "question": "Was kennzeichnet die unsystematische (freie) Beobachtung?",
+      "options": [
+        "Es ist genau vorgegeben, worauf zu achten und wie zu protokollieren ist",
+        "Verhalten wird nach Intensität, Dauer und Häufigkeit standardisiert eingestuft",
+        "Vorab liegen klare Hypothesen zur Beobachtungssituation vor",
+        "Die beobachtende Person entscheidet selbst, welches Verhalten beobachtet wird"
+      ],
+      "answer": 3,
+      "explanation": "Bei der freien Beobachtung entscheidet die beobachtende Person selbst (explorativ), Ergebnis ist ein schriftlicher Bericht. Feste Vorgaben, standardisierte Quantifizierung und vorab formulierte Hypothesen kennzeichnen die systematische Beobachtung."
+    },
+    {
+      "topic": "Systematische Beobachtung",
+      "hard": true,
+      "question": "Welche drei Aspekte werden bei der systematischen Beobachtung laut Folie standardisiert?",
+      "options": [
+        "Selektion, Segmentierung und Quantifizierung des relevanten Verhaltens",
+        "Objektivität, Reliabilität und Validität des eingesetzten Verfahrens",
+        "Alertness, selektive und geteilte Aufmerksamkeit der Beobachtenden",
+        "Selbst-, Fremd- und Expert*innenbeurteilung der Zielperson"
+      ],
+      "answer": 0,
+      "explanation": "Systematisches Beobachten standardisiert Selektion (Relevantes trennen), Segmentierung (abgrenzen/benennen) und Quantifizierung (nach Intensität, Dauer, Häufigkeit einstufen). Gütekriterien, Beurteilungsquellen oder Aufmerksamkeitsformen sind hier nicht gemeint."
+    },
+    {
+      "topic": "Systematische Beobachtung",
+      "question": "Welche Techniken der systematischen Beobachtung nennt die Folie?",
+      "options": [
+        "Zeichensysteme (Time-/Event-Sampling), Kategoriensysteme und Rating-Verfahren",
+        "Formdeuteverfahren, Ergänzungsverfahren sowie thematische Apperzeptionsverfahren",
+        "Selbsteinschätzung, Fremdeinschätzung und Expert*innenurteil",
+        "Speedtests, Powertests und Culture-Fair-Tests der Intelligenz"
+      ],
+      "answer": 0,
+      "explanation": "Als Techniken nennt die Folie Zeichensysteme (z. B. Time-/Event-Sampling), Kategoriensysteme (z. B. Interaktionsprozessanalyse) und Rating-Verfahren. Einschätzungsquellen, Leistungstests oder projektive Verfahren sind keine Beobachtungstechniken."
+    },
+    {
+      "topic": "Beobachtungsfehler",
+      "question": "Was beschreibt der Halo-Effekt (Hofeffekt) als Beobachtungsfehler?",
+      "options": [
+        "Die Beobachtungskriterien verschieben sich im Verlauf unbemerkt",
+        "Ein Gesamteindruck überstrahlt die Beurteilung einzelner Merkmale",
+        "Alle Personen werden systematisch zu milde oder zu streng beurteilt",
+        "Der erste Eindruck prägt das spätere Gesamturteil überproportional stark"
+      ],
+      "answer": 1,
+      "explanation": "Beim Halo-Effekt überstrahlt ein Gesamteindruck die Bewertung einzelner Merkmale. Der prägende erste Eindruck ist der Primacy-Effekt, systematische Milde/Strenge sind Milde-/Strenge-Fehler, das unbemerkte Verschieben der Kriterien ist Beobachterdrift."
+    },
+    {
+      "topic": "Beobachtungsfehler",
+      "trap": "Primacy = erster Eindruck, Recency = letzter Eindruck.",
+      "question": "Wodurch unterscheiden sich Primacy- und Recency-Effekt?",
+      "options": [
+        "Beide beschreiben das Überstrahlen einzelner Merkmale durch den Gesamteindruck",
+        "Beide beschreiben das systematisch zu milde Beurteilen aller Personen",
+        "Der Primacy-Effekt betont den letzten, der Recency-Effekt den ersten Eindruck",
+        "Der Primacy-Effekt betont den ersten, der Recency-Effekt den letzten Eindruck"
+      ],
+      "answer": 3,
+      "explanation": "Der Primacy-Effekt gewichtet den ersten Eindruck über, der Recency-Effekt den letzten. Die umgekehrte Zuordnung ist falsch; systematische Milde ist der Milde-Fehler, das Überstrahlen der Halo-Effekt."
+    },
+    {
+      "topic": "Beobachtungsfehler",
+      "question": "Was beschreibt die Beobachterdrift als Fehlerquelle?",
+      "options": [
+        "Ein einziger Gesamteindruck überstrahlt die Bewertung aller Merkmale",
+        "Alle Personen werden durchgängig zu nachsichtig oder deutlich zu streng beurteilt",
+        "Die beobachtete Person ändert ihr Verhalten, weil sie beobachtet wird",
+        "Die Beurteilungsmaßstäbe der beobachtenden Person verschieben sich mit der Zeit"
+      ],
+      "answer": 3,
+      "explanation": "Beobachterdrift meint das allmähliche Verschieben der eigenen Beurteilungsmaßstäbe. Die Verhaltensänderung durch Beobachtetwerden ist Reaktivität, das Überstrahlen der Halo-Effekt, durchgängige Nachsicht/Strenge der Milde-/Strenge-Fehler."
+    },
+    {
+      "topic": "Implizite Maße",
+      "question": "Was kennzeichnet implizite (indirekte) Maße im Unterschied zu expliziten?",
+      "options": [
+        "Die Ausprägung wird von geschulten Fremdbeurteilenden eingestuft",
+        "Das Verhalten wird wertfrei in natürlicher Umgebung beschrieben",
+        "Das Merkmal wird nicht direkt erfragt, sondern indirekt erschlossen",
+        "Das Merkmal wird direkt über Selbstauskunft der Person erfragt"
+      ],
+      "answer": 2,
+      "explanation": "Implizite Maße erfragen ein Merkmal nicht direkt, sondern erschließen es indirekt (z. B. IAT) – brauchbar für unbewusste/verdrängte Inhalte. Direkte Selbstauskunft ist ein explizites Maß, die anderen Optionen beschreiben Beobachtung bzw. Fremdeinschätzung."
+    },
+    {
+      "topic": "Implizite Maße",
+      "question": "Welchen Vorteil haben implizite Maße laut Folie?",
+      "options": [
+        "Sie benötigen keine standardisierte Durchführung oder Auswertung",
+        "Sie sind wegen ihrer Intransparenz wenig anfällig für Verfälschung",
+        "Sie erreichen durchweg sehr hohe Reliabilitäten für die Einzeldiagnostik",
+        "Sie erfassen ausschließlich bewusst zugängliche Einstellungen der Person"
+      ],
+      "answer": 1,
+      "explanation": "Wegen ihrer Intransparenz/Unkontrollierbarkeit sind implizite Maße wenig verfälschbar. Hohe Reliabilität für die Einzeldiagnostik ist gerade NICHT gegeben; sie erfassen auch unbewusste Inhalte und sind standardisiert."
+    },
+    {
+      "topic": "Implizite Maße",
+      "hard": true,
+      "trap": "Trotz Vorteilen: niedrige Reliabilität → nur Forschung.",
+      "question": "Welches psychometrische Problem nennt die Folie für implizite Maße?",
+      "options": [
+        "Zu hohe Reliabilität, die reale Merkmalsunterschiede verdeckt",
+        "Zu hohe Augenscheinvalidität, die zu bewussten Verfälschungen der Antworten einlädt",
+        "Niedrige Reliabilität, daher nur für Forschung, nicht für Individualdiagnostik",
+        "Fehlende Objektivität, weil die Auswertung frei interpretiert wird"
+      ],
+      "answer": 2,
+      "explanation": "Implizite Maße haben oft niedrige Reliabilitäten und eignen sich daher nur für Forschungszwecke, nicht für die Individualdiagnostik. Hohe Augenscheinvalidität, fehlende Objektivität oder zu hohe Reliabilität sind nicht das genannte Problem."
+    },
+    {
+      "topic": "Objektive & projektive Verfahren",
+      "question": "Was kennzeichnet objektive Persönlichkeitstests?",
+      "options": [
+        "Physiologische Signale wie Herzrate oder Hautleitfähigkeit werden erhoben",
+        "Ein Merkmal wird über die subjektive Selbsteinschätzung der jeweiligen Person erfasst",
+        "Mehrdeutiges Bildmaterial wird von der Person frei gedeutet",
+        "Ein Merkmal wird über das Verhalten in einer standardisierten Situation gemessen"
+      ],
+      "answer": 3,
+      "explanation": "Objektive Persönlichkeitstests messen ein Merkmal über das Verhalten in einer standardisierten Situation (nicht über Selbsteinschätzung), meist computergestützt. Selbsteinschätzung ist der Fragebogen, Bilddeutung das projektive Verfahren, Physiologie die psychophysiologische Methode."
+    },
+    {
+      "topic": "Objektive & projektive Verfahren",
+      "hard": true,
+      "question": "Was gilt laut Folie für die Augenscheinvalidität objektiver Persönlichkeitstests?",
+      "options": [
+        "Sie ist identisch mit der Reliabilität des eingesetzten Verfahrens",
+        "Sie ist nicht gegeben, wodurch bewusste Verfälschung erheblich reduziert wird",
+        "Sie ersetzt vollständig die Notwendigkeit einer Konstruktvalidierung",
+        "Sie ist besonders hoch, was die Akzeptanz bei den Testpersonen spürbar steigert"
+      ],
+      "answer": 1,
+      "explanation": "Objektive Persönlichkeitstests haben keine Augenscheinvalidität – die Person erkennt nicht, was gemessen wird, wodurch Verfälschung reduziert wird. Sie ist nicht hoch, ersetzt keine Konstruktvalidierung und ist nicht mit der Reliabilität gleichzusetzen."
+    },
+    {
+      "topic": "Objektive & projektive Verfahren",
+      "question": "Was ist das Grundprinzip projektiver Verfahren?",
+      "options": [
+        "Ein Merkmal wird direkt über eine Rating-Skala selbst eingeschätzt",
+        "Beobachtbares Verhalten wird in einer standardisierten Situation objektiv registriert",
+        "Mehrdeutiges Bildmaterial wird gedeutet, wobei unbewusste Inhalte projiziert werden",
+        "Physiologische Prozesse werden ohne Beeinflussung objektiv gemessen"
+      ],
+      "answer": 2,
+      "explanation": "Projektive Verfahren lassen mehrdeutiges Bildmaterial deuten; die Annahme ist, dass Personen unbewusste/verdrängte Inhalte hineinprojizieren. Objektive Registrierung, Selbsteinschätzung oder Physiologie kennzeichnen andere Methoden."
+    },
+    {
+      "topic": "Objektive & projektive Verfahren",
+      "question": "Wie ist die Güte projektiver Verfahren laut Folie zu bewerten?",
+      "options": [
+        "Sie sind wegen hoher Reliabilität besonders für die Einzeldiagnostik geeignet",
+        "Sie erfüllen die Gütekriterien meist unzureichend und dienen ggf. als Explorationshilfe",
+        "Sie sind identisch mit den objektiven Persönlichkeitstests und ebenso standardisiert",
+        "Sie erfüllen alle Hauptgütekriterien in vorbildlicher Weise und sind bestens normiert"
+      ],
+      "answer": 1,
+      "explanation": "Projektive Verfahren erfüllen die Gütekriterien in der Regel unzureichend und dienen allenfalls als Explorationshilfe. Vorbildliche Güte, hohe Reliabilität für die Einzeldiagnostik oder eine Gleichsetzung mit objektiven Tests treffen nicht zu."
+    },
+    {
+      "topic": "Objektive & projektive Verfahren",
+      "question": "Welche Verfahrensgruppe zählt laut Folie zu den projektiven Verfahren?",
+      "options": [
+        "Standardisierte Konzentrationstests (z. B. der d2-R)",
+        "Formdeuteverfahren (z. B. Rorschach-Test)",
+        "Objektive Leistungsmotivations-Tests am Computer",
+        "Sensumotorische Koordinationstests (z. B. Balancieren)"
+      ],
+      "answer": 1,
+      "explanation": "Zu den projektiven Verfahren zählt die Folie u. a. Formdeuteverfahren (z. B. Rorschach), thematische Apperzeptionstests und Ergänzungsverfahren. Koordinationstests sind apparativ, der Leistungsmotivations-Test ist ein objektiver Persönlichkeitstest, der d2-R ein Konzentrationstest."
+    },
+    {
+      "topic": "Apparativ & psychophysiologisch",
+      "question": "Wozu dienen apparative Tests laut Folie vor allem?",
+      "options": [
+        "Zur direkten Selbsteinschätzung von Einstellungen, Werten und Interessen",
+        "Zur qualitativen Deutung von mehrdeutigem Bildmaterial durch die Person",
+        "Zur wertfreien Beschreibung des Verhaltens in einer natürlichen Umgebung",
+        "Zur Erhebung sensorischer und motorischer, teils auch kognitiver Merkmale"
+      ],
+      "answer": 3,
+      "explanation": "Apparative Tests erheben sensorische und motorische (teils kognitive) Merkmale, z. B. Hand-Auge-Koordination oder Muskelkraft. Bilddeutung, Selbsteinschätzung und Verhaltensbeschreibung sind andere Methoden."
+    },
+    {
+      "topic": "Apparativ & psychophysiologisch",
+      "question": "Wann sind psychophysiologische Methoden laut Folie sinnvoll?",
+      "options": [
+        "Wenn Prozesse physiologisch sensitiver erfassbar oder nicht verbalisierbar sind",
+        "Wenn mehrdeutiges Bildmaterial qualitativ gedeutet werden soll",
+        "Wenn ausschließlich bewusst zugängliche Einstellungen erfragt werden sollen",
+        "Wenn Verhalten nur wertfrei in natürlicher Umgebung beschrieben wird"
+      ],
+      "answer": 0,
+      "explanation": "Psychophysiologische Methoden sind sinnvoll, wenn Prozesse physiologisch sensitiver/objektiver erfassbar oder für die Person nicht verbalisierbar sind (auch: Lügendetektor). Bewusste Selbstauskunft, Bilddeutung oder reine Verhaltensbeschreibung sind andere Wege."
+    },
+    {
+      "topic": "Apparativ & psychophysiologisch",
+      "question": "Welche der folgenden ist laut Folie eine psychophysiologische Methode?",
+      "options": [
+        "Die Selbsteinschätzung der eigenen Stimmung per Fragebogen",
+        "Die Messung der elektrodermalen Aktivität (Hautleitfähigkeit)",
+        "Die Deutung eines mehrdeutigen Tintenkleckses durch die Person",
+        "Die freie, unsystematische Beobachtung im natürlichen Feld"
+      ],
+      "answer": 1,
+      "explanation": "Die elektrodermale Aktivität (Hautleitfähigkeit) ist eine psychophysiologische Methode (autonome Aktivität), ebenso z. B. EEG oder Herzrate. Tintenklecks-Deutung, Selbsteinschätzung und freie Beobachtung sind andere Verfahren."
+    },
+    {
+      "topic": "Apparativ & psychophysiologisch",
+      "hard": true,
+      "question": "Welche Zuordnung von Hormon zu Bedeutung nennt die Folie?",
+      "options": [
+        "Cortisol als klassisches Bindungshormon, Oxytocin als Konzentrationsindikator",
+        "Noradrenalin als Bindungshormon, Oxytocin als Stressindikator",
+        "Cortisol/Noradrenalin als Stressindikatoren, Oxytocin als Bindungshormon",
+        "Oxytocin als Stressindikator, Cortisol als Bindungshormon"
+      ],
+      "answer": 2,
+      "explanation": "Die Folie nennt Noradrenalin und Corticosteroide (Cortisol) als Stressindikatoren und Oxytocin als „Bindungshormon“. Die übrigen Zuordnungen vertauschen die Bedeutungen."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "trap": "Nicht sichtbar hinter dem Einwegspiegel = verdeckt.",
+      "question": "Kinder werden hinter einem Einwegspiegel beobachtet, ohne dass sie die beobachtende Person sehen. Welche Beobachtungsform liegt vor?",
+      "options": [
+        "Eine verdeckte Beobachtung",
+        "Eine offene Beobachtung",
+        "Eine Selbstbeobachtung",
+        "Eine teilnehmende Beobachtung"
+      ],
+      "answer": 0,
+      "explanation": "Weil die beobachtende Person nicht sichtbar ist (Einwegspiegel), handelt es sich um eine verdeckte Beobachtung, die Reaktivität vermeidet. Bei offener/teilnehmender Beobachtung wäre sie sichtbar bzw. beteiligt, bei Selbstbeobachtung beobachtete man sich selbst."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Eine Lehrerin gestaltet den Unterricht und beobachtet dabei zugleich das Verhalten der Klasse. Welche Beobachtungsform ist das?",
+      "options": [
+        "Eine nicht-teilnehmende Beobachtung",
+        "Eine teilnehmende Beobachtung",
+        "Eine verdeckte Beobachtung",
+        "Eine indirekte Beobachtung"
+      ],
+      "answer": 1,
+      "explanation": "Weil die Lehrerin aktiv am Geschehen beteiligt ist, ist es eine teilnehmende Beobachtung. Nicht-teilnehmend wäre eine passive Außenrolle, indirekt liefe über Aufzeichnungen, verdeckt wäre sie unsichtbar."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "In einer Beobachtung wird alle 30 Sekunden notiert, ob ein Zielverhalten gerade auftritt. Welche Technik der systematischen Beobachtung ist das?",
+      "options": [
+        "Ein Rating-Verfahren mit Eigenschaftsskalen",
+        "Eine projektive Deutung von Bildmaterial",
+        "Ein Zeichensystem mit Time-Sampling",
+        "Eine unsystematische, freie Beobachtung"
+      ],
+      "answer": 2,
+      "explanation": "Das zeitgebundene Registrieren in festen Intervallen ist Time-Sampling, eine Form der Zeichensysteme. Rating-Verfahren stufen Eigenschaften ein, die freie Beobachtung ist unsystematisch, und Bilddeutung ist ein projektives Verfahren."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Um eine unbewusste Einstellung zu erfassen, wird ein Verfahren genutzt, das das Merkmal indirekt über Reaktionszeiten erschließt (z. B. IAT). Wie ist es einzuordnen?",
+      "options": [
+        "Als explizites Selbsteinschätzungsverfahren per standardisiertem Fragebogen",
+        "Als objektiver Persönlichkeitstest mit sehr hoher Individualreliabilität",
+        "Als implizites Maß, geeignet für die Forschung, nicht für die Einzeldiagnostik",
+        "Als projektives Verfahren mit deutlich unzureichenden Gütekriterien"
+      ],
+      "answer": 2,
+      "explanation": "Der IAT erschließt ein Merkmal indirekt und ist ein implizites Maß – wegen niedriger Reliabilität nur für Forschung, nicht für die Individualdiagnostik. Es ist kein objektiver Test mit hoher Reliabilität, kein Selbstbericht und kein projektives Verfahren."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "question": "Einer Person werden mehrdeutige Tintenklecksbilder vorgelegt, die sie frei deuten soll. Welches Verfahren liegt vor?",
+      "options": [
+        "Ein projektives Verfahren (Formdeuteverfahren)",
+        "Ein objektiver Persönlichkeitstest",
+        "Eine standardisierte, systematische Verhaltensbeobachtung",
+        "Ein apparativer Koordinationstest"
+      ],
+      "answer": 0,
+      "explanation": "Das freie Deuten mehrdeutiger Kleckse ist ein projektives Formdeuteverfahren (z. B. Rorschach). Ein objektiver Test misst Verhalten standardisiert, der apparative Test Motorik, die Beobachtung beschreibt Verhalten."
+    },
+    {
+      "topic": "Anwendung (Fälle)",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein computergestütztes Verfahren misst die Anstrengungsbereitschaft über das tatsächliche Tastendruck-Verhalten, ohne dass die Person das Messziel erkennt. Was liegt vor?",
+      "options": [
+        "Eine psychophysiologische Herzratenmessung",
+        "Ein exploratives Selbsteinschätzungsinterview",
+        "Ein projektives Persönlichkeits-Entfaltungsverfahren",
+        "Ein objektiver Persönlichkeitstest"
+      ],
+      "answer": 3,
+      "explanation": "Verhalten in einer standardisierten Situation zu messen, ohne dass das Messziel erkennbar ist (keine Augenscheinvalidität), kennzeichnet den objektiven Persönlichkeitstest (z. B. OLMT). Bilddeutung, Selbstinterview oder Physiologie treffen nicht zu."
+    }
+  ]
+}
