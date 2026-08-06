@@ -9,10 +9,10 @@
       "topic": "Diagnostische Untersuchung",
       "question": "Welcher Umstand macht laut Folie KEINE erneute Datenerhebung erforderlich?",
       "options": [
+        "Es liegt keine eindeutige Antwort auf die gestellte psychologische Frage vor",
         "Die erhobene Antwort erweist sich als ungültig und nicht verwertbar",
-        "Die erhobenen diagnostischen Ergebnisse fallen widersprüchlich und uneinheitlich aus",
         "Das Ergebnis liefert eine eindeutige und gültige Antwort auf die psychologische Frage",
-        "Es liegt keine eindeutige Antwort auf die gestellte psychologische Frage vor"
+        "Die erhobenen diagnostischen Ergebnisse fallen widersprüchlich und uneinheitlich aus"
       ],
       "answer": 2,
       "explanation": "Nur wenn das Ergebnis eine eindeutige und gültige Antwort liefert, ist keine neue Datenerhebung nötig. Widersprüchliche, uneindeutige oder ungültige Antworten sind laut Folie genau die Gründe, die eine erneute Erhebung erfordern."
@@ -21,9 +21,9 @@
       "topic": "Diagnostische Untersuchung",
       "question": "Welche Entscheidung betrifft laut Folie die Gestaltung der Untersuchungssituation?",
       "options": [
-        "Wie stark die Messfehler um den wahren Wert streuen",
-        "Welche soziale Bezugsnorm zur Interpretation gewählt wird",
         "Wie hoch die Reliabilität des eingesetzten Verfahrens ausfällt",
+        "Welche soziale Bezugsnorm zur Interpretation gewählt wird",
+        "Wie stark die Messfehler um den wahren Wert streuen",
         "Ob einzeln oder in der Gruppe getestet wird"
       ],
       "answer": 3,
@@ -33,13 +33,13 @@
       "topic": "Diagnostische Untersuchung",
       "question": "Was zählt laut Folie zur Durchführung und Auswertung diagnostischer Verfahren?",
       "options": [
+        "Die Standardisierung der Untersuchungsbedingungen",
         "Die Festlegung der globalen Fragestellung des Auftrags",
-        "Die Berechnung der kritischen Differenz zweier Testwerte",
-        "Die Auswahl einer geeigneten sozialen Bezugsnorm für die Deutung",
-        "Die Standardisierung der Untersuchungsbedingungen"
+        "Die Normierung des Tests an einer großen Eichstichprobe",
+        "Die Auswahl der geeigneten diagnostischen Instrumente"
       ],
-      "answer": 3,
-      "explanation": "Zur Durchführung/Auswertung gehören Aufklärung, gute Arbeitsbedingungen, Standardisierung der Bedingungen und die Testauswertung. Bezugsnorm-Wahl, globale Fragestellung und kritische Differenz sind anderen Prozessschritten zugeordnet."
+      "answer": 0,
+      "explanation": "Zur Durchführung/Auswertung gehören laut Folie Aufklärung, gute Arbeitsbedingungen, Standardisierung der Bedingungen und die Testauswertung. Die Auswahl der Instrumente und die globale Fragestellung sind frühere Schritte des diagnostischen Prozesses, die Normierung an einer Eichstichprobe gehört zur Testkonstruktion – keiner dieser Punkte fällt unter die Durchführung/Auswertung."
     },
     {
       "topic": "Diagnostische Untersuchung",
@@ -47,34 +47,34 @@
       "options": [
         "Auf jede Angabe einer Referenzgruppe bewusst verzichten",
         "Ausschließlich den numerischen Testwert ohne jeden Merkmalsbezug angeben",
-        "Das Merkmal benennen und seine Ausprägung sprachlich einordnen",
-        "Die einzelnen Testitems mitsamt ihren Musterlösungen offenlegen"
+        "Die einzelnen Testitems mitsamt ihren Musterlösungen offenlegen",
+        "Das Merkmal benennen und seine Ausprägung sprachlich einordnen"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Zur Ergebnismitteilung gehört, das Merkmal zu benennen und seine Ausprägung einheitlich sprachlich einzuordnen (plus Referenzgruppe und Vertrauensintervall). Ein bloßer Zahlenwert, offengelegte Items oder das Weglassen der Referenzgruppe widersprechen dem."
     },
     {
       "topic": "Diagnostische Untersuchung",
       "question": "Welche Rolle spielt das Vertrauensintervall bei der Mitteilung eines Testergebnisses?",
       "options": [
-        "Es wird bewusst verschwiegen, um die Testperson nicht zu verunsichern",
-        "Es wird mitgeteilt, um die Messgenauigkeit des Verfahrens auszudrücken",
+        "Es ersetzt die Angabe des Merkmals und seiner Merkmalsausprägung",
         "Es bezeichnet die Gesamtzahl der bearbeiteten Testitems",
-        "Es ersetzt die Angabe des Merkmals und seiner Merkmalsausprägung"
+        "Es wird mitgeteilt, um die Messgenauigkeit des Verfahrens auszudrücken",
+        "Es wird bewusst verschwiegen, um die Testperson nicht zu verunsichern"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Das Vertrauensintervall wird mitgeteilt, um die Messgenauigkeit auszudrücken (\"kann unter Berücksichtigung der Messgenauigkeit auch als … bezeichnet werden\"). Es wird nicht verschwiegen, ersetzt weder Merkmal noch Ausprägung und zählt keine Items."
     },
     {
       "topic": "Diagnostische Untersuchung",
       "question": "Was ist laut Folie bei der Durchführung diagnostischer Verfahren zu gewährleisten?",
       "options": [
-        "Die Aufklärung der Testperson und gute Arbeitsbedingungen",
-        "Die Auswahl der Bewerber nach dem jeweils höchsten Testwert",
+        "Der bewusste Verzicht auf jede Standardisierung der Bedingungen",
         "Die Vergrößerung der Eichstichprobe für feinstufigere Normen",
-        "Der bewusste Verzicht auf jede Standardisierung der Bedingungen"
+        "Die Auswahl der Bewerber nach dem jeweils höchsten Testwert",
+        "Die Aufklärung der Testperson und gute Arbeitsbedingungen"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Zur Durchführung gehören Aufklärung und gute Arbeitsbedingungen (sowie Standardisierung und Testauswertung). Ein Verzicht auf Standardisierung widerspricht dem, Bewerberauswahl und Eichstichprobe betreffen andere Themen."
     },
     {
@@ -82,47 +82,47 @@
       "question": "Welche der folgenden zählt laut Folie NICHT zu den Untersuchungseinheiten der Einzelfalldiagnostik?",
       "options": [
         "Eine einzelne Person als betrachtete Untersuchungseinheit",
+        "Eine Organisation wie eine Partei oder ein Jugendverband",
         "Eine Gruppe wie eine Schulklasse oder eine Therapiegruppe",
-        "Ein einzelnes Testitem innerhalb eines Verfahrens",
-        "Eine Organisation wie eine Partei oder ein Jugendverband"
+        "Ein einzelnes Testitem innerhalb eines Verfahrens"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Untersuchungseinheiten können eine Person, eine Gruppe, eine Organisation oder eine Gesellschaft/Kultur sein – ein einzelnes Item ist keine solche Einheit, sondern Bestandteil eines Verfahrens."
     },
     {
       "topic": "Einzelfalldiagnostik: Grundlagen",
       "question": "Was kennzeichnet die psychometrische Einzelfalldiagnostik?",
       "options": [
+        "Sie ignoriert Konstruktion und Normierung des verwendeten Verfahrens",
         "Sie beurteilt individuelle Testbefunde zufallskritisch anhand der Testtheorie",
-        "Sie bezieht sich ausschließlich auf Gruppenmittelwerte statt Einzelwerte",
         "Sie verzichtet auf jede Testtheorie und wertet Befunde rein intuitiv aus",
-        "Sie ignoriert Konstruktion und Normierung des verwendeten Verfahrens"
+        "Sie bezieht sich ausschließlich auf Gruppenmittelwerte statt Einzelwerte"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Psychometrische Einzelfalldiagnostik nutzt Informationen aus Testtheorie, Konstruktion und Normierung, um individuelle Befunde zufallskritisch zu beurteilen. Intuition ohne Theorie, reine Gruppenmittelwerte oder das Ignorieren der Normierung treffen nicht zu."
     },
     {
       "topic": "Einzelfalldiagnostik: Grundlagen",
       "question": "Warum ist ein beobachteter Testwert laut KTT nur eine Annäherung an den wahren Wert?",
       "options": [
-        "Weil die Reliabilität eines Tests keinen Einfluss auf den Wert hat",
-        "Weil kein Verfahren perfekt reliabel ist und der Wert Messfehler enthält",
         "Weil Testwerte niemals mit normierten Werten verrechnet werden dürfen",
-        "Weil der wahre Wert einer Person grundsätzlich gar nicht existiert"
+        "Weil der wahre Wert einer Person grundsätzlich gar nicht existiert",
+        "Weil kein Verfahren perfekt reliabel ist und der Wert Messfehler enthält",
+        "Weil die Reliabilität eines Tests keinen Einfluss auf den Wert hat"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Da kein Verfahren perfekt zuverlässig ist, enthält jeder Testwert einen Messfehler und nähert sich dem wahren Wert nur an. Der wahre Wert existiert (als Erwartungswert), normierte Werte werden sehr wohl genutzt, und die Reliabilität beeinflusst die Genauigkeit."
     },
     {
       "topic": "Einzelfalldiagnostik: Grundlagen",
       "question": "Wie lautet das 1. Axiom der KTT und was folgt daraus für den wahren Wert?",
       "options": [
+        "`Xi = Ti × Ei`; der Messfehler ist bei allen Personen identisch null",
         "`Xi = Ti − Ei`; der wahre Wert entspricht exakt dem beobachteten Wert",
-        "`Xi = Ti + Ei`; der wahre Wert liegt im Bereich um Xi ± Ei",
         "`Xi = Ei ÷ Ti`; der beobachtete Wert ist stets kleiner als der wahre",
-        "`Xi = Ti × Ei`; der Messfehler ist bei allen Personen identisch null"
+        "`Xi = Ti + Ei`; der wahre Wert liegt im Bereich um Xi ± Ei"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Das 1. Axiom lautet `Xi = Ti + Ei` (beobachteter = wahrer Wert + Messfehler); daraus folgt, dass der wahre Wert im Bereich um Xi ± Ei liegt. Die anderen Gleichungen sind falsch, und ein exakt gleicher oder stets kleinerer beobachteter Wert widerspräche dem Messfehler."
     },
     {
@@ -131,11 +131,11 @@
       "question": "Welche Annahme erlaubt es, den bei der Reliabilitätsbestimmung ermittelten Messfehler auf den Einzelfall anzuwenden?",
       "options": [
         "Die Reliabilität einer Person wird allein aus ihrem einzelnen Testwert bestimmt",
+        "Die interindividuelle Fehlervarianz schätzt die intraindividuelle Fehlervarianz",
         "Die intraindividuelle Fehlervarianz ist bei jeder einzelnen Person exakt null",
-        "Der Messfehler einer Gruppe darf grundsätzlich nie auf eine Person übertragen werden",
-        "Die interindividuelle Fehlervarianz schätzt die intraindividuelle Fehlervarianz"
+        "Der Messfehler einer Gruppe darf grundsätzlich nie auf eine Person übertragen werden"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Angenommen wird, dass die aus der Gruppe stammende interindividuelle Fehlervarianz ein angemessener Schätzer für die intraindividuelle Fehlervarianz einer Person ist – so lässt sich der Messfehler auf den Einzelfall anwenden. Eine Fehlervarianz von null, ein generelles Übertragungsverbot oder eine Reliabilität aus einem Einzelwert sind falsch."
     },
     {
@@ -155,12 +155,12 @@
       "hard": true,
       "question": "Wie hängt der Standardmessfehler `sE` von der Reliabilität ab (`sE = sX · √(1 − Rel)`)?",
       "options": [
-        "Er wird kleiner, je höher die Reliabilität des Tests ist",
         "Er ist von der Reliabilität des Tests vollständig unabhängig",
+        "Er entspricht stets genau der Standardabweichung der Testwerte",
         "Er wird größer, je höher die Reliabilität des Tests ausfällt",
-        "Er entspricht stets genau der Standardabweichung der Testwerte"
+        "Er wird kleiner, je höher die Reliabilität des Tests ist"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Wegen `sE = sX · √(1 − Rel)` sinkt der Standardmessfehler mit steigender Reliabilität. Er wächst also nicht mit der Reliabilität, ist von ihr abhängig und entspricht `sX` nur im Grenzfall Rel = 0."
     },
     {
@@ -168,9 +168,9 @@
       "question": "Wozu dient der Standardmessfehler in der diagnostischen Praxis?",
       "options": [
         "Zur Berechnung des Konfidenzintervalls um einen Testwert",
-        "Zur Bestimmung der globalen Fragestellung eines diagnostischen Auftrags",
+        "Zur Festlegung der Anzahl der Auswertenden pro Testung",
         "Zur Auswahl der Konstruktionsstrategie eines neu entwickelten Tests",
-        "Zur Festlegung der Anzahl der Auswertenden pro Testung"
+        "Zur Bestimmung der globalen Fragestellung eines diagnostischen Auftrags"
       ],
       "answer": 0,
       "explanation": "Die praktische Bedeutung des Standardmessfehlers liegt in der Berechnung des Konfidenzintervalls (Erwartungs-/Vertrauensintervall). Globale Fragestellung, Konstruktionsstrategie und Auswerterzahl haben damit nichts zu tun."
@@ -179,36 +179,36 @@
       "topic": "Konfidenzintervall",
       "question": "Was gibt ein Konfidenzintervall an?",
       "options": [
-        "Den Anteil der Personen, die ein bestimmtes Item lösen können",
         "Den Bereich, in dem der wahre Wert mit bestimmter Sicherheit liegt",
+        "Den Anteil der Personen, die ein bestimmtes Item lösen können",
         "Den exakten Punktwert, der dem wahren Wert der Person entspricht",
         "Die Differenz zwischen zwei Testwerten innerhalb einer Person"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Das Konfidenzintervall gibt den Bereich an, in dem der wahre Wert mit einer festgelegten Sicherheit liegt. Es ist kein exakter Punktwert, keine Testwertdifferenz (das ist die kritische Differenz) und keine Itemschwierigkeit."
     },
     {
       "topic": "Konfidenzintervall",
       "question": "Wie wird ein zweiseitiges Konfidenzintervall berechnet?",
       "options": [
-        "`KI = Xi ± zα/2 · Rel` (direkt mit dem Reliabilitätskoeffizienten)",
         "`KI = Xi ± zα/2 · sX` (ohne jeden Bezug auf die Reliabilität)",
         "`KI = Xi ± zα/2 · sE`",
+        "`KI = Xi ± zα/2 · Rel` (direkt mit dem Reliabilitätskoeffizienten)",
         "`KI = Ti ± zα/2 · sX` (ausgehend vom wahren statt beobachteten Wert)"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Das zweiseitige KI ist `KI = Xi ± zα/2 · sE`, also um den beobachteten Wert mit dem Standardmessfehler. Weder `sX` noch `Rel` treten an dieser Stelle direkt auf, und ausgegangen wird vom beobachteten Wert Xi, nicht vom wahren Wert Ti."
     },
     {
       "topic": "Konfidenzintervall",
       "question": "Welcher z-Wert gehört zu einem zweiseitigen 95%-Konfidenzintervall?",
       "options": [
-        "`z = 1.96`",
-        "`z = 2.58` (dies gehört zum zweiseitigen 99%-Intervall)",
         "`z = 0.95` (dies entspricht der Sicherheitswahrscheinlichkeit)",
-        "`z = 1.64` (dies gilt für das einseitige 95%-Intervall)"
+        "`z = 1.96`",
+        "`z = 1.64` (dies gilt für das einseitige 95%-Intervall)",
+        "`z = 2.58` (dies gehört zum zweiseitigen 99%-Intervall)"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Für ein zweiseitiges 95%-Intervall gilt `z = 1.96`. 1.64 gehört zum einseitigen Fall, 2.58 zum zweiseitigen 99%-Intervall, und 0.95 ist die Sicherheitswahrscheinlichkeit selbst, kein z-Wert."
     },
     {
@@ -217,12 +217,12 @@
       "trap": "Geringere Reliabilität macht das KI breiter, nicht schmaler.",
       "question": "Wie verändert sich das Konfidenzintervall, wenn die Reliabilität des Tests geringer ist?",
       "options": [
+        "Es wird breiter",
         "Es wird schmaler und damit präziser",
-        "Es verschiebt sich, ohne seine Breite zu ändern",
         "Es bleibt in seiner Breite völlig unverändert",
-        "Es wird breiter"
+        "Es verschiebt sich, ohne seine Breite zu ändern"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Je geringer die Reliabilität, desto größer der Standardmessfehler und damit desto breiter das Konfidenzintervall. Es wird also nicht schmaler, bleibt nicht gleich und verschiebt sich nicht nur."
     },
     {
@@ -244,22 +244,22 @@
       "transfer": true,
       "question": "Ein IQ-Wert von 110 ergibt bei REL = .80 ein 95%-KI von 96.9 bis 123.1, bei REL = .95 dagegen von 103.4 bis 116.6. Was zeigt der Vergleich?",
       "options": [
-        "Die Reliabilität hat keinen Einfluss auf die Breite des Intervalls",
         "Die höhere Reliabilität führt zum schmaleren Konfidenzintervall",
         "Die niedrigere Reliabilität führt zum schmaleren Konfidenzintervall",
+        "Die Reliabilität hat keinen Einfluss auf die Breite des Intervalls",
         "Beide Intervalle sind gleich breit, da derselbe Testwert vorliegt"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Bei REL = .95 ist das Intervall (103.4–116.6) deutlich schmaler als bei REL = .80 (96.9–123.1) – höhere Reliabilität, kleinerer Messfehler, engeres KI. Die niedrigere Reliabilität liefert also das breitere, nicht das schmalere Intervall; ein Einfluss besteht sehr wohl."
     },
     {
       "topic": "Kritische Differenz",
       "question": "Wozu dient die kritische Differenz?",
       "options": [
+        "Zur Bestimmung der Reliabilität eines neu konstruierten Verfahrens",
         "Zur Schätzung des einzelnen wahren Werts einer bestimmten Person",
-        "Zur Festlegung der Referenzgruppe für die Normierung eines Tests",
         "Zur Prüfung, ob der Unterschied zweier Testwerte überzufällig ist",
-        "Zur Bestimmung der Reliabilität eines neu konstruierten Verfahrens"
+        "Zur Festlegung der Referenzgruppe für die Normierung eines Tests"
       ],
       "answer": 2,
       "explanation": "Die kritische Differenz prüft, ob der Unterschied zweier Testwerte (innerhalb einer Person oder zwischen Personen) überzufällig ist. Die Schätzung eines einzelnen wahren Werts leistet das Konfidenzintervall; Reliabilität und Normierung sind andere Konzepte."
@@ -269,23 +269,23 @@
       "question": "Wann gilt eine gefundene Testwertdifferenz als überzufällig (bedeutsam)?",
       "options": [
         "Wenn die empirische Differenz kleiner als die kritische Differenz ist",
+        "Wenn die empirische Differenz kleiner als der Standardmessfehler ist",
         "Wenn die empirische Differenz größer als die kritische Differenz ist",
-        "Wenn die empirische Differenz exakt dem wahren Wert entspricht",
-        "Wenn die empirische Differenz kleiner als der Standardmessfehler ist"
+        "Wenn die empirische Differenz exakt dem wahren Wert entspricht"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Nur wenn die empirische Differenz die kritische Differenz übersteigt, ist sie überzufällig. Ist sie kleiner, gilt sie als zufällig; ein Bezug zum wahren Wert oder zum Standardmessfehler allein ist kein Kriterium."
     },
     {
       "topic": "Kritische Differenz",
       "question": "Warum muss die kritische Differenz mit normierten Testwerten berechnet werden?",
       "options": [
+        "Weil dann kein z-Wert mehr in die Berechnung eingehen muss",
         "Weil so die Streuung der Testwerte bekannt ist",
         "Weil Rohwerte grundsätzlich gar keinen Messfehler enthalten",
-        "Weil normierte Werte immer eine Reliabilität von genau 1 aufweisen",
-        "Weil dann kein z-Wert mehr in die Berechnung eingehen muss"
+        "Weil normierte Werte immer eine Reliabilität von genau 1 aufweisen"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Mit normierten Werten ist die Streuung `sX` bekannt (z. B. 15 bei IQ, 10 bei T-/Standardwerten), was die Berechnung erst ermöglicht. Rohwerte enthalten sehr wohl Messfehler, normierte Werte haben keine Reliabilität von 1, und der z-Wert bleibt Teil der Formel."
     },
     {
@@ -295,8 +295,8 @@
       "options": [
         "Die Zahl der Vergleiche gering halten, um Fehlalarme zu vermeiden",
         "Auf ein hypothesengeleitetes Vorgehen bewusst verzichten",
-        "Bei vielen Vergleichen eine hohe Irrtumswahrscheinlichkeit wählen",
-        "Möglichst viele Vergleiche anstellen, um nichts zu übersehen"
+        "Möglichst viele Vergleiche anstellen, um nichts zu übersehen",
+        "Bei vielen Vergleichen eine hohe Irrtumswahrscheinlichkeit wählen"
       ],
       "answer": 0,
       "explanation": "Viele Vergleiche erhöhen die Gefahr fälschlich signifikanter Effekte, daher die Zahl gering halten, hypothesengeleitet vorgehen und bei vielen Vergleichen eine niedrige Irrtumswahrscheinlichkeit wählen. Die drei anderen Optionen kehren genau diese Empfehlungen um."
@@ -308,11 +308,11 @@
       "question": "Wie verändert sich die kritische Differenz, wenn die Reliabilität geringer ist?",
       "options": [
         "Sie wird kleiner und dadurch leichter zu überschreiten",
-        "Sie bleibt von der Reliabilität vollständig unberührt",
         "Sie wird größer",
+        "Sie bleibt von der Reliabilität vollständig unberührt",
         "Sie wird negativ und verliert ihre Aussagekraft"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Je geringer die Reliabilität, desto größer die kritische Differenz, ab der ein Unterschied als bedeutsam gilt. Sie wird also nicht kleiner, bleibt nicht gleich und wird nicht negativ."
     },
     {
@@ -322,11 +322,11 @@
       "question": "Eine Probandin erzielt im Subtest „Soziales“ 108 und im Subtest „Technik“ 125; die kritische Differenz beträgt Dkrit = 9.2. Wie ist das zu bewerten?",
       "options": [
         "Die Differenz ist bedeutungslos, weil beide Werte über 100 liegen",
-        "Die Differenz von 17 liegt unter 9.2 und ist damit rein zufällig",
+        "Die Differenz von 17 übersteigt 9.2 und ist somit überzufällig",
         "Eine Bewertung ist unmöglich, da hier die Reliabilität fehlt",
-        "Die Differenz von 17 übersteigt 9.2 und ist somit überzufällig"
+        "Die Differenz von 17 liegt unter 9.2 und ist damit rein zufällig"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Die empirische Differenz 125 − 108 = 17 ist größer als Dkrit = 9.2, also überzufällig – das technische Interesse ist bedeutsam stärker. Die Differenz ist damit nicht zufällig, die Höhe der Rohwerte ist unerheblich, und die Bewertung ist mit gegebenem Dkrit möglich."
     },
     {
@@ -334,12 +334,12 @@
       "transfer": true,
       "question": "Eine Psychologin teilt mit: „Die verbale Intelligenz ist durchschnittlich, verglichen mit gleichaltrigen Männern, und kann unter Berücksichtigung der Messgenauigkeit auch als durchschnittlich bezeichnet werden.“ Welche Elemente fachgerechter Ergebnismitteilung erfüllt sie?",
       "options": [
-        "Nur den numerischen Rohwert ohne jede sprachliche Einordnung",
         "Merkmal, Ausprägung, Referenzgruppe und Vertrauensintervall",
         "Ausschließlich das Merkmal, ohne Ausprägung und ohne Referenzgruppe",
+        "Nur den numerischen Rohwert ohne jede sprachliche Einordnung",
         "Lediglich die kritische Differenz zu einem zweiten Testwert"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Die Aussage benennt das Merkmal (verbale Intelligenz), die Ausprägung (durchschnittlich), die Referenzgruppe (gleichaltrige Männer) und das Vertrauensintervall (Messgenauigkeit) – alle vier Elemente. Die übrigen Optionen greifen zu kurz oder nennen ein falsches Konzept."
     },
     {
@@ -348,12 +348,12 @@
       "transfer": true,
       "question": "In einem Auswahlverfahren erzielen zwei Bewerber die Testwerte 118 und 125. Welches Konzept ist nötig, um zu entscheiden, ob dieser Unterschied bedeutsam ist?",
       "options": [
-        "Die kritische Differenz zwischen zwei Personen",
-        "Der Standardmessfehler einer einmaligen Einzelmessung",
+        "Das Konfidenzintervall um einen einzelnen wahren Wert",
         "Die konvergente Validität der beiden Testwerte",
-        "Das Konfidenzintervall um einen einzelnen wahren Wert"
+        "Die kritische Differenz zwischen zwei Personen",
+        "Der Standardmessfehler einer einmaligen Einzelmessung"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Ob zwei Personen sich in einem Testwert überzufällig unterscheiden, prüft die kritische Differenz zwischen Personen. Das Konfidenzintervall bezieht sich auf einen einzelnen wahren Wert, der Standardmessfehler ist nur ein Baustein, und konvergente Validität ist ein Gütekriterium."
     },
     {
@@ -361,12 +361,12 @@
       "transfer": true,
       "question": "Eine Klientin erzielt einen einzelnen Testwert; gefragt ist, in welchem Bereich ihr wahrer Wert liegt. Welches Konzept beantwortet das?",
       "options": [
-        "Die kritische Differenz zwischen zwei ihrer Testwerte",
+        "Das Konfidenzintervall um den beobachteten Testwert",
         "Die Selektionsrate des eingesetzten Auswahlverfahrens",
         "Die Trennschärfe der einzelnen Items des Tests",
-        "Das Konfidenzintervall um den beobachteten Testwert"
+        "Die kritische Differenz zwischen zwei ihrer Testwerte"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Der Bereich, in dem der wahre Wert liegt, wird durch das Konfidenzintervall um den beobachteten Wert angegeben. Die kritische Differenz vergleicht zwei Werte, Selektionsrate und Trennschärfe betreffen ganz andere Fragestellungen."
     },
     {
@@ -376,8 +376,8 @@
       "question": "Ein in einer Beratungsstelle eingesetzter Test hat eine eher niedrige Reliabilität. Was folgt daraus für die Interpretation eines Einzelwerts?",
       "options": [
         "Die Reliabilität beeinflusst die Interpretation des Werts nicht",
-        "Der beobachtete Wert entspricht dann exakt dem wahren Wert",
         "Das Konfidenzintervall ist schmal, der Wert also sehr präzise",
+        "Der beobachtete Wert entspricht dann exakt dem wahren Wert",
         "Das Konfidenzintervall ist breit, der Wert also unsicherer"
       ],
       "answer": 3,
