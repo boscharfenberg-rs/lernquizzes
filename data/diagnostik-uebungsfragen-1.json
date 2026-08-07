@@ -1,0 +1,637 @@
+{
+  "id": "diagnostik-uebungsfragen-1",
+  "title": "Psychologische Diagnostik · Übungsfragen 1",
+  "subject": "Psychologische Diagnostik",
+  "description": "Offizielle Übungsfragen Diagnostik 1 (VL1 Grundlagen + VL2 Testtheorie/Testkonstruktion), 1:1 als Single-Choice-Set übernommen. 52 Fragen mit Lösungen und Erklärungen, Themenfilter und Note. Antwortpositionen gemischt; Bild-/Tabellenfragen sind als solche markiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Grundlagen & Prozess",
+      "question": "Welche der folgenden Aussagen über die Psychologische Diagnostik ist richtig?",
+      "options": [
+        "Sie interpretiert Informationen zur Beantwortung einer Fragestellung",
+        "Sie dient nur der Intelligenzdiagnostik",
+        "Sie ersetzt klinische Urteile vollständig",
+        "Sie beschränkt sich auf Gruppendiagnostik"
+      ],
+      "answer": 0,
+      "explanation": "Psychologische Diagnostik sammelt und interpretiert Informationen, um eine Fragestellung zu beantworten. Sie beschränkt sich nicht auf Intelligenz oder Gruppen und ersetzt klinische Urteile nicht vollständig."
+    },
+    {
+      "topic": "Grundlagen & Prozess",
+      "question": "Ein Unternehmen wählt Bewerber:innen nach dem höchsten Intelligenztestwert aus. Welche Form liegt vor?",
+      "options": [
+        "Bedarfsanalyse",
+        "Verhaltensdiagnostik",
+        "Eigenschaftsdiagnostik",
+        "Motivationsdiagnostik"
+      ],
+      "answer": 2,
+      "explanation": "Die Auswahl anhand eines stabilen Merkmals (Intelligenz) ist Eigenschaftsdiagnostik. Verhaltens- oder Motivationsdiagnostik zielen auf anderes, eine Bedarfsanalyse ist keine personenbezogene Diagnostikform."
+    },
+    {
+      "topic": "Grundlagen & Prozess",
+      "question": "Welche Ebene der Diagnostik wurde im Kurs behandelt?",
+      "options": [
+        "Historische Ebene",
+        "Organisationsebene",
+        "Gesellschaftsebene",
+        "Individuelle Ebene"
+      ],
+      "answer": 3,
+      "explanation": "Behandelt wurde die individuelle Ebene. Organisations- und Gesellschaftsebene sind denkbare Einheiten, waren aber nicht gemeint; eine historische Ebene gibt es in dieser Systematik nicht."
+    },
+    {
+      "topic": "Grundlagen & Prozess",
+      "question": "Was ist der zweite Schritt im diagnostischen Prozess?",
+      "options": [
+        "Daten erheben",
+        "Intervention planen",
+        "Hypothesen prüfen",
+        "Psychologische Fragen formulieren"
+      ],
+      "answer": 3,
+      "explanation": "Nach der globalen Fragestellung folgt als zweiter Schritt das Formulieren der psychologischen Fragen. Datenerhebung und Hypothesenprüfung kommen später, Interventionsplanung gehört nicht in diesen Schritt."
+    },
+    {
+      "topic": "Gütekriterien",
+      "question": "Welches Kriterium ist ein Hauptgütekriterium?",
+      "options": [
+        "Fairness",
+        "Skalierung",
+        "Objektivität",
+        "Ökonomie"
+      ],
+      "answer": 2,
+      "explanation": "Objektivität ist eines der drei Hauptgütekriterien (mit Reliabilität und Validität). Fairness, Ökonomie und Skalierung zählen zu den Nebengütekriterien."
+    },
+    {
+      "topic": "Gütekriterien",
+      "question": "Welches Kriterium ist ein Nebengütekriterium?",
+      "options": [
+        "Objektivität",
+        "Validität",
+        "Skalierung",
+        "Reliabilität"
+      ],
+      "answer": 2,
+      "explanation": "Skalierung ist ein Nebengütekriterium. Objektivität, Reliabilität und Validität sind dagegen die drei Hauptgütekriterien."
+    },
+    {
+      "topic": "Reliabilität",
+      "question": "Wann ist die Retestreliabilität am höchsten?",
+      "options": [
+        "Bei heterogener Stichprobe",
+        "Wenn die Objektivität gegeben ist",
+        "Wenn viele Items ausgeschlossen werden",
+        "Bei kurzer Testdauer"
+      ],
+      "answer": 1,
+      "explanation": "Gegebene Objektivität ist Voraussetzung für eine hohe (Retest-)Reliabilität. Heterogenität, Itemausschluss oder eine kurze Testdauer sichern die Stabilität der Messung nicht."
+    },
+    {
+      "topic": "Reliabilität",
+      "question": "Welche Aussage zur Testhalbierung trifft zu?",
+      "options": [
+        "Sie ist nur bei Leistungstests möglich",
+        "Die Reliabilität wird durch Experten geschätzt",
+        "Der Test wird in zwei Hälften geteilt, die Korrelation wird berechnet",
+        "Sie erfordert ein Retestverfahren"
+      ],
+      "answer": 2,
+      "explanation": "Bei der Testhalbierung wird der Test in zwei Hälften geteilt und deren Werte werden korreliert. Experten schätzen keine Reliabilität, sie ist nicht auf Leistungstests beschränkt und braucht keinen Retest."
+    },
+    {
+      "topic": "Validität",
+      "question": "Welche Validität liegt vor, wenn Fachleute die Passung der Items bestätigen?",
+      "options": [
+        "Kriteriumsvalidität",
+        "Prognostische Validität",
+        "Ökologische Validität",
+        "Inhaltsvalidität"
+      ],
+      "answer": 3,
+      "explanation": "Wenn Fachleute die Passung der Items beurteilen, geht es um Inhaltsvalidität. Prognostische und Kriteriumsvalidität nutzen ein Außenkriterium, ökologische Validität betrifft die Alltagsnähe."
+    },
+    {
+      "topic": "Validität",
+      "question": "Wenn ein Studierfähigkeitstest mit den Studienabschlussnoten korreliert wird, handelt es sich um:",
+      "options": [
+        "Prognostische Validität",
+        "Übereinstimmungsvalidität",
+        "Inhaltsvalidität",
+        "Konstruktvalidität"
+      ],
+      "answer": 0,
+      "explanation": "Die Korrelation eines Tests mit einem später erhobenen Kriterium (Abschlussnoten) ist prognostische Validität. Inhalts- und Konstruktvalidität nutzen kein Außenkriterium, die Übereinstimmungsvalidität misst gleichzeitig statt später."
+    },
+    {
+      "topic": "Validität",
+      "question": "Welche Aussage zur Konstruktvalidität ist falsch?",
+      "options": [
+        "Sie kann empirisch durch Varianzaufklärung gezeigt werden",
+        "Sie wird durch Hypothesentests gestützt",
+        "Sie prüft Abgrenzungen zu anderen Konstrukten",
+        "Sie prüft Zusammenhänge mit ähnlichen Konstrukten"
+      ],
+      "answer": 0,
+      "explanation": "Laut Lösung gilt diese Aussage als die falsche. Die Prüfung von Zusammenhängen mit ähnlichen (konvergent) und Abgrenzungen zu anderen Konstrukten (diskriminant) sowie die Stützung durch Hypothesentests kennzeichnen die Konstruktvalidität."
+    },
+    {
+      "topic": "Normen",
+      "question": "Welche Aussage zu Abweichungsnormen ist korrekt?",
+      "options": [
+        "Sie basieren nur auf klinischen Daten",
+        "Sie ersetzen Prozentränge",
+        "Sie werden nur bei kategorialen Tests verwendet",
+        "Sie zeigen die Distanz einer Person zum Mittelwert der Vergleichsgruppe"
+      ],
+      "answer": 3,
+      "explanation": "Abweichungsnormen geben die Distanz einer Person zum Gruppenmittelwert an. Sie sind nicht auf klinische Daten oder kategoriale Tests beschränkt und ersetzen Prozentränge nicht."
+    },
+    {
+      "topic": "Normen",
+      "isImage": true,
+      "question": "Welche Bezugsnorm ist in der Abbildung (drei Bezugsnormen zur Leistungsbewertung) mit „2“ gekennzeichnet?",
+      "options": [
+        "Individuelle Bezugsnorm",
+        "Absolute Bezugsnorm",
+        "Kriteriumsorientierte Norm",
+        "Soziale Bezugsnorm"
+      ],
+      "answer": 3,
+      "explanation": "In der Abbildung ist Position „2“ die soziale Bezugsnorm (Vergleich mit einer Bezugsgruppe). Die individuelle Norm vergleicht mit früheren eigenen Werten, die kriteriumsorientierte mit einem festen Standard. (Die Originalgrafik liegt hier nicht vor.)"
+    },
+    {
+      "topic": "Normen",
+      "question": "Welche Aussage zu Normen ist richtig?",
+      "options": [
+        "Normen machen die Reliabilität überflüssig",
+        "Normen gelten universell für alle Tests",
+        "Normen ordnen Ergebnisse in ein Bezugssystem ein",
+        "Normen ersetzen Gütekriterien"
+      ],
+      "answer": 2,
+      "explanation": "Normen ordnen Rohergebnisse in ein Bezugssystem ein. Sie ersetzen weder Gütekriterien noch Reliabilität und gelten nicht universell für alle Tests."
+    },
+    {
+      "topic": "Informationsquellen",
+      "question": "Welche Aussage zum Testen im engeren Sinne ist korrekt?",
+      "options": [
+        "Tests im engeren Sinne sind immer nonverbal",
+        "Erfasst werden standardisiert Fähigkeiten, Fertigkeiten oder Wissen",
+        "Es geht ausschließlich um Persönlichkeitsdiagnostik",
+        "Testen im engeren Sinne erfolgt ohne Standardisierung"
+      ],
+      "answer": 1,
+      "explanation": "Testen im engeren Sinne erfasst standardisiert Leistungsmerkmale (Fähigkeiten, Fertigkeiten, Wissen). Es ist nicht auf Persönlichkeit beschränkt, nicht zwingend nonverbal und immer standardisiert."
+    },
+    {
+      "topic": "Informationsquellen",
+      "question": "Welche Aussage zu Aufmerksamkeitstests ist richtig?",
+      "options": [
+        "Sie überprüfen nur sprachliche Fähigkeiten",
+        "Sie sind nicht objektiv auswertbar",
+        "Sie messen, wie schnell kritische Reize erkannt werden",
+        "Sie messen ausschließlich Gedächtnisleistungen"
+      ],
+      "answer": 2,
+      "explanation": "Aufmerksamkeitstests erfassen u. a., wie schnell kritische Reize erkannt werden. Sie messen nicht ausschließlich Gedächtnis oder Sprache und sind objektiv auswertbar."
+    },
+    {
+      "topic": "Informationsquellen",
+      "question": "Mehrere Bewerber:innen zeigen Teamfähigkeit im Assessment Center und werden beobachtet. Welche Beobachtungsform liegt vor?",
+      "options": [
+        "Im Labor",
+        "Selbstbeobachtung",
+        "Offene Beobachtung ohne System",
+        "Im Feld"
+      ],
+      "answer": 0,
+      "explanation": "Ein Assessment Center ist eine standardisierte, künstlich geschaffene Situation – also Laborbeobachtung. Eine Feldbeobachtung fände im natürlichen Umfeld statt; Selbst- oder unsystematische Beobachtung liegt hier nicht vor."
+    },
+    {
+      "topic": "Informationsquellen",
+      "question": "Welche Methoden weisen häufig psychometrische Probleme auf?",
+      "options": [
+        "Projektive Verfahren",
+        "Fragebögen",
+        "Leistungstests",
+        "Interviews"
+      ],
+      "answer": 0,
+      "explanation": "Projektive Verfahren weisen häufig psychometrische Probleme (unzureichende Güte) auf. Fragebögen, Leistungstests und standardisierte Interviews sind demgegenüber psychometrisch besser abgesichert."
+    },
+    {
+      "topic": "Einzelfalldiagnostik",
+      "question": "Was untersucht die psychometrische Einzelfalldiagnostik?",
+      "options": [
+        "Den Unterschied zwischen Gruppenwerten",
+        "Den Wahrscheinlichkeitsbereich des wahren Wertes einer Person",
+        "Nur Mittelwertsunterschiede",
+        "Nur qualitative Unterschiede"
+      ],
+      "answer": 1,
+      "explanation": "Die psychometrische Einzelfalldiagnostik untersucht u. a., in welchem Bereich der wahre Wert einer Person liegt. Gruppen- oder Mittelwertsunterschiede bzw. rein qualitative Vergleiche sind nicht ihr Gegenstand."
+    },
+    {
+      "topic": "Einzelfalldiagnostik",
+      "question": "Was gibt die kritische Differenz an?",
+      "options": [
+        "Wie groß Differenzen sein müssen, um nicht durch Messfehler erklärbar zu sein",
+        "Den Standardfehler der Messung",
+        "Die Abweichung von Normwerten",
+        "Die Distanz zwischen zwei Mittelwerten"
+      ],
+      "answer": 0,
+      "explanation": "Die kritische Differenz gibt an, wie groß ein Unterschied sein muss, um nicht allein durch Messfehler erklärbar zu sein. Sie ist weder ein Mittelwertsabstand noch der Standardmessfehler noch eine Normabweichung."
+    },
+    {
+      "topic": "Einzelfalldiagnostik",
+      "question": "Wann ist das Konfidenzintervall am engsten und die kritische Differenz am kleinsten?",
+      "options": [
+        "Bei niedriger Testfairness",
+        "Bei niedriger Reliabilität",
+        "Bei kleiner Stichprobe",
+        "Bei hoher Irrtumswahrscheinlichkeit"
+      ],
+      "answer": 3,
+      "explanation": "Eine höhere Irrtumswahrscheinlichkeit (kleinerer z-Wert) macht das Konfidenzintervall enger und die kritische Differenz kleiner. Niedrige Reliabilität würde beide vergrößern; Stichprobengröße und Fairness sind hier nicht ausschlaggebend."
+    },
+    {
+      "topic": "Einzelfalldiagnostik",
+      "question": "Welche Art der Profilinterpretation wurde besprochen?",
+      "options": [
+        "Profilvalidität",
+        "Profilreliabilität",
+        "Profilgüte",
+        "Profiläquivalenz"
+      ],
+      "answer": 1,
+      "explanation": "Besprochen wurde die Profilreliabilität (Zuverlässigkeit von Profilunterschieden). Profilvalidität, -güte und -äquivalenz wurden in diesem Zusammenhang nicht als Interpretationsart eingeführt."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Eine Schulpsychologin entscheidet anhand von Tests, Fragebogen und Interview nach ihrer Erfahrung. Welche Urteilsbildung liegt vor?",
+      "options": [
+        "Statistische Urteilsbildung",
+        "Klinische Urteilsbildung",
+        "Algorithmische Urteilsbildung",
+        "Nomothetische Urteilsbildung"
+      ],
+      "answer": 1,
+      "explanation": "Entscheidet die Psychologin nach Erfahrung und Gesamteindruck, ist es klinische Urteilsbildung. Statistische bzw. algorithmische Urteilsbildung folgt einer festen Formel; „nomothetisch“ bezeichnet hier keine solche Urteilsart."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Eine A&O-Psychologin nutzt eine validierte Gewichtungsformel für Auswahlentscheidungen. Welche Urteilsbildung liegt vor?",
+      "options": [
+        "Intuitive Urteilsbildung",
+        "Heuristische Urteilsbildung",
+        "Statistische Urteilsbildung",
+        "Klinische Urteilsbildung"
+      ],
+      "answer": 2,
+      "explanation": "Die Nutzung einer validierten Gewichtungsformel ist statistische Urteilsbildung. Klinische, intuitive oder heuristische Urteilsbildung stützt sich dagegen auf Erfahrung und Eindruck."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Universitäten vergeben Plätze nach einem Mindestwert in einer Testbatterie. Welche Art von Entscheidung liegt vor?",
+      "options": [
+        "Kriteriumsarm",
+        "Multivariat",
+        "Eindimensional",
+        "Univariabel"
+      ],
+      "answer": 1,
+      "explanation": "Eine Entscheidung anhand einer Testbatterie (mehrere Prädiktoren) ist multivariat. „Univariabel/eindimensional“ beträfe nur einen Prädiktor, „kriteriumsarm“ ist kein passender Entscheidungstyp."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Welches Entscheidungsmodell wurde bei der Platzvergabe nach Mindestwert in der Testbatterie angewandt?",
+      "options": [
+        "Disjunktives Modell",
+        "Konjunktives Modell",
+        "Mischmodell",
+        "Kompensatorisches Modell mit Gleichgewichtung der Prädiktoren"
+      ],
+      "answer": 3,
+      "explanation": "Ein Gesamtmindestwert aus summierten Einzeltests erlaubt einen Ausgleich zwischen den Prädiktoren – ein kompensatorisches Modell mit Gleichgewichtung. Konjunktive/disjunktive Modelle setzen feste Schwellen pro Prädiktor."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Welche Strategie wurde bei der Platzvergabe nach Mindestwert in der Testbatterie angewendet?",
+      "options": [
+        "Sequentielle Batterie",
+        "Zufallsauswahl",
+        "Multiple Hürde",
+        "Nichtsequentielle Batterie"
+      ],
+      "answer": 3,
+      "explanation": "Alle Tests werden gemeinsam ausgewertet – eine nichtsequentielle Batterie. Bei sequentieller Batterie oder multipler Hürde entscheidet man stufenweise; Zufallsauswahl ist keine diagnostische Strategie."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Der Anteil der richtig Negativen an allen als negativ Diagnostizierten bezeichnet:",
+      "options": [
+        "Sensitivität",
+        "Negativer Prädiktionswert",
+        "Spezifität",
+        "Positiver Prädiktionswert"
+      ],
+      "answer": 1,
+      "explanation": "Der Anteil richtig Negativer an allen als negativ Diagnostizierten ist der negative Prädiktionswert. Sensitivität/Spezifität beziehen sich auf die tatsächlich Kranken bzw. Gesunden, der positive Prädiktionswert auf die positiv Diagnostizierten."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Der Anteil der richtig Positiven an den Geeigneten bzw. Kranken bezeichnet:",
+      "options": [
+        "Sensitivität",
+        "Positiver Prädiktionswert",
+        "Prävalenz",
+        "Spezifität"
+      ],
+      "answer": 0,
+      "explanation": "Der Anteil richtig Positiver an den tatsächlich Geeigneten/Kranken ist die Sensitivität. Spezifität betrifft die Gesunden, Prävalenz die Grundrate, der positive Prädiktionswert die positiv Getesteten."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Welche Aussage zum Klassifizieren und Entscheiden ist korrekt?",
+      "options": [
+        "Die Sensitivität sinkt mit größerer Stichprobe",
+        "Der positive Prädiktionswert steigt mit höherer Basisrate",
+        "Prädiktionswerte sind unabhängig von Basisraten",
+        "Die Spezifität hängt nicht vom Cut-Off ab"
+      ],
+      "answer": 1,
+      "explanation": "Der positive Prädiktionswert steigt mit der Basisrate. Die Sensitivität hängt nicht von der Stichprobengröße ab, die Spezifität sehr wohl vom Cut-Off, und Prädiktionswerte sind gerade basisratenabhängig."
+    },
+    {
+      "topic": "KTT & Merkmale",
+      "question": "Wie wird nach der KTT der wahre Wert geschätzt?",
+      "options": [
+        "Über den Mittelwert der (wiederholten) Antworten",
+        "Durch einen einzelnen Retest",
+        "Über den Vergleich mit Normen",
+        "Durch ein Expertenurteil"
+      ],
+      "answer": 0,
+      "explanation": "Nach der KTT wird der wahre Wert als Mittelwert (Erwartungswert) der Antworten bei vielen Messwiederholungen geschätzt. Expertenurteil, Normvergleich oder ein einzelner Retest liefern diese Schätzung nicht."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Welcher Aspekt gehört laut Lösung NICHT zur Testkonstruktion?",
+      "options": [
+        "Sicherstellung relevanter Vorbedingungen",
+        "Itemanalyse",
+        "Itemformulierung",
+        "Erprobungsversion entwickeln"
+      ],
+      "answer": 0,
+      "explanation": "Itemformulierung, Erprobungsversion und Itemanalyse sind Schritte der Testkonstruktion; die „Sicherstellung relevanter Vorbedingungen“ zählt laut Lösung nicht zu diesen Konstruktionsschritten."
+    },
+    {
+      "topic": "KTT & Merkmale",
+      "question": "Welche Aussage zu psychologischen Merkmalen ist korrekt?",
+      "options": [
+        "Qualitative Merkmale sind kontinuierlich",
+        "Quantitative Merkmale sind nominal",
+        "Qualitative Merkmale teilen Personen in Kategorien ein",
+        "Quantitative Merkmale teilen Personen in Gruppen"
+      ],
+      "answer": 2,
+      "explanation": "Qualitative Merkmale teilen Personen in Kategorien ein. Quantitative Merkmale sind abgestuft/kontinuierlich (nicht nominal), und qualitative Merkmale sind gerade nicht kontinuierlich."
+    },
+    {
+      "topic": "KTT & Merkmale",
+      "question": "Was muss beim Festlegen des Geltungsbereichs beachtet werden?",
+      "options": [
+        "Die Menge der vorhergesagten Kriterien",
+        "Die Testzeit",
+        "Die Gütekriterien",
+        "Die Altersstruktur der Normstichprobe"
+      ],
+      "answer": 0,
+      "explanation": "Beim Geltungsbereich ist die Menge der vorherzusagenden Kriterien zu beachten. Altersstruktur der Normstichprobe, Testzeit und Gütekriterien betreffen andere Aspekte der Testkonstruktion."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Welche Aussage zu freien Antwortformaten trifft zu?",
+      "options": [
+        "Sie sind immer reliabler",
+        "Je länger die Antworten, desto stärker kann die Auswertungsobjektivität eingeschränkt sein",
+        "Sie vermeiden soziale Erwünschtheit",
+        "Sie haben keine Validitätsprobleme"
+      ],
+      "answer": 1,
+      "explanation": "Bei freien Antwortformaten kann die Auswertungsobjektivität mit der Antwortlänge sinken. Sie sind nicht automatisch reliabler oder valider und vermeiden soziale Erwünschtheit nicht."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Welchen Vorteil haben Ergänzungsaufgaben?",
+      "options": [
+        "Sie sind stets objektiv",
+        "Sie sind immer mehrdeutig",
+        "Sie verlangen hauptsächlich die Reproduktion von Wissen",
+        "Sie fördern kreatives Denken"
+      ],
+      "answer": 2,
+      "explanation": "Ergänzungsaufgaben verlangen vor allem die Reproduktion von Wissen. Sie sind nicht per se kreativitätsfördernd, nicht stets objektiv und nicht grundsätzlich mehrdeutig."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Eine Skala von ‚trifft gar nicht zu‘ bis ‚trifft völlig zu‘ beschreibt welche Skala?",
+      "options": [
+        "Rangskala",
+        "Nominalskala",
+        "Bipolare Antwortskala",
+        "Unipolare Antwortskala"
+      ],
+      "answer": 3,
+      "explanation": "Der Verlauf von null bis maximal in eine Richtung kennzeichnet eine unipolare Skala. Eine bipolare Skala hätte zwei entgegengesetzte Pole; Nominal- und Rangskala sind Skalenniveaus, keine Antwortpolung."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Wenn Items so gewählt werden, dass sie am besten zwischen Gruppen differenzieren, spricht man von:",
+      "options": [
+        "Internaler Strategie",
+        "Explorativer Strategie",
+        "Rationaler Strategie",
+        "External-kriteriumsorientierter Strategie"
+      ],
+      "answer": 3,
+      "explanation": "Werden Items nach ihrer Trennkraft zwischen Gruppen ausgewählt, ist das die externale (kriteriumsorientierte) Strategie. Die rationale Strategie leitet Items aus einer Theorie ab, die internale aus Itemzusammenhängen."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Antworten in sozial erwünschter Weise zu geben bezeichnet:",
+      "options": [
+        "Akquieszenz",
+        "Soziale Erwünschtheit",
+        "Halo-Effekt",
+        "Tendenz zur Mitte"
+      ],
+      "answer": 1,
+      "explanation": "In sozial erwünschter Weise zu antworten ist die soziale Erwünschtheit. Tendenz zur Mitte, Halo-Effekt und Akquieszenz (Ja-Sage-Tendenz) sind andere Antwort- bzw. Urteilstendenzen."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Wie kann man Ankereffekten entgegenwirken?",
+      "options": [
+        "Durch Verkürzen der Testzeit",
+        "Durch Randomisierung von Items verschiedener Dimensionen",
+        "Durch ausschließlich geschlossene Fragen",
+        "Durch Vermeidung von Normen"
+      ],
+      "answer": 1,
+      "explanation": "Ankereffekten begegnet man durch Randomisierung von Items verschiedener Dimensionen. Kürzere Testzeit, nur geschlossene Fragen oder der Verzicht auf Normen wirken dem nicht entgegen."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Die Gedanken beim Beantworten laut zu äußern bezeichnet:",
+      "options": [
+        "Pretest-Befragung",
+        "Expertenrating",
+        "Debriefing",
+        "Kognitives Vortesten – Think-Aloud"
+      ],
+      "answer": 3,
+      "explanation": "Gedanken beim Beantworten laut zu äußern ist das Think-Aloud (kognitives Vortesten). Debriefing erfolgt nach der Bearbeitung; Pretest-Befragung und Expertenrating sind andere Erprobungsformen."
+    },
+    {
+      "topic": "Testkonstruktion",
+      "question": "Wenn Proband:innen nach der Testbearbeitung interviewt werden, bezeichnet man das als:",
+      "options": [
+        "Debriefing",
+        "Simulationstest",
+        "Beobachtungsinterview",
+        "Think-Aloud"
+      ],
+      "answer": 0,
+      "explanation": "Das Interview nach der Bearbeitung ist das Debriefing. Das Think-Aloud findet währenddessen statt; Simulationstest und Beobachtungsinterview sind keine solchen Erprobungsformen."
+    },
+    {
+      "topic": "Itemanalyse & Faktorenanalyse",
+      "question": "Welche Aussage zur Trennschärfe ist korrekt?",
+      "options": [
+        "Sehr trennscharfe Items erhöhen die Reliabilität, können aber die Validität beeinträchtigen",
+        "Trennschärfe ersetzt die Reliabilität",
+        "Trennschärfe zeigt die interne Konsistenz",
+        "Trennschärfe ist immer optimal bei 0,00"
+      ],
+      "answer": 0,
+      "explanation": "Sehr hohe Trennschärfen steigern die Reliabilität, können aber die inhaltliche Breite/Validität einschränken (Attenuationsparadox). Trennschärfe ist nicht die interne Konsistenz, nicht bei 0 optimal und ersetzt die Reliabilität nicht."
+    },
+    {
+      "topic": "Itemanalyse & Faktorenanalyse",
+      "isImage": true,
+      "question": "Welches Item ist laut Tabelle der Schwierigkeitsindices (ESWLS-Items) das leichteste?",
+      "options": [
+        "Item 7",
+        "Item 3",
+        "Item 5",
+        "Item 1"
+      ],
+      "answer": 2,
+      "explanation": "Item 5 hat laut Tabelle den höchsten Schwierigkeitsindex und ist damit das leichteste (mehr Personen lösen es). (Die Originaltabelle liegt hier nicht vor.)"
+    },
+    {
+      "topic": "Itemanalyse & Faktorenanalyse",
+      "question": "Wozu dient die Faktorenanalyse bei der Testkonstruktion?",
+      "options": [
+        "Zur Bestimmung der Normwerte",
+        "Zur Ermittlung der Ökonomie",
+        "Zur Überprüfung der Konstruktvalidität",
+        "Zur Schätzung der Reliabilität"
+      ],
+      "answer": 2,
+      "explanation": "Die Faktorenanalyse dient vor allem der Überprüfung der (faktoriellen) Konstruktvalidität. Ökonomie, Reliabilität und Normwerte werden mit anderen Verfahren bestimmt."
+    },
+    {
+      "topic": "Itemanalyse & Faktorenanalyse",
+      "isImage": true,
+      "question": "Scree-Plot zum Eigenwerteverlauf (9 Items): Wie viele Faktoren legt die Parallelanalyse nahe?",
+      "options": [
+        "3 Faktoren",
+        "4 Faktoren",
+        "1 Faktor",
+        "2 Faktoren"
+      ],
+      "answer": 3,
+      "explanation": "Die Parallelanalyse legt hier 2 Faktoren nahe, während Kaiser-Kriterium und Scree-Test je 3 Faktoren ergeben. (Die Originalgrafik liegt hier nicht vor.)"
+    },
+    {
+      "topic": "Validität",
+      "question": "Wann liegt konvergente Validität vor?",
+      "options": [
+        "Wenn die Testwerte mit Kriteriumswerten übereinstimmen",
+        "Wenn ein Test niedrig mit einem anderen Merkmal korreliert",
+        "Wenn Experten die Items beurteilen",
+        "Wenn ein Test hoch mit einem anderen Test für dasselbe Merkmal korreliert"
+      ],
+      "answer": 3,
+      "explanation": "Konvergente Validität liegt vor, wenn ein Test hoch mit einem anderen Test desselben Merkmals korreliert. Die niedrige Korrelation mit einem anderen Merkmal ist diskriminante Validität; Expertenurteil bzw. Kriteriumsübereinstimmung sind andere Validitätsformen."
+    },
+    {
+      "topic": "Validität",
+      "question": "Wann liegt diskriminante Validität vor?",
+      "options": [
+        "Wenn die Reliabilität hoch ist",
+        "Wenn ein Test niedrig mit einem anderen Merkmal korreliert",
+        "Wenn die Items homogen sind",
+        "Wenn ein Test hoch mit demselben Merkmal korreliert"
+      ],
+      "answer": 1,
+      "explanation": "Diskriminante Validität zeigt sich in einer niedrigen Korrelation mit einem anderen Merkmal. Die hohe Korrelation mit demselben Merkmal ist konvergente Validität; Itemhomogenität und Reliabilität sind eigene Kennwerte."
+    },
+    {
+      "topic": "Validität",
+      "isImage": true,
+      "question": "MTMM-Analyse (Tabelle nach Miller et al., 2018): Welche Aussage trifft auf die Ergebnisse zu?",
+      "options": [
+        "Das Kriterium der konvergenten Validität ist voll erfüllt",
+        "Die Methodeneffekte sind größer als die Traiteffekte",
+        "Das Kriterium der diskriminanten Validität ist voll erfüllt",
+        "Die Messungen sind nicht reliabel"
+      ],
+      "answer": 0,
+      "explanation": "Laut MTMM-Tabelle ist das Kriterium der konvergenten Validität voll erfüllt. (Die Originaltabelle liegt hier nicht vor.)"
+    },
+    {
+      "topic": "Normen",
+      "question": "Welche Aussage zur Normstichprobe ist korrekt?",
+      "options": [
+        "Kleine Stichproben reichen grundsätzlich aus",
+        "Normen sind unabhängig von Stichproben",
+        "Je feinstufiger die Norm, desto größer die Stichprobe",
+        "Die Stichprobengröße ist irrelevant"
+      ],
+      "answer": 2,
+      "explanation": "Je feinstufiger die Norm sein soll, desto größer muss die Normstichprobe sein. Die Stichprobengröße ist also relevant, und Normen hängen sehr wohl von der Stichprobe ab."
+    },
+    {
+      "topic": "Urteilsbildung & Entscheiden",
+      "question": "Wozu dient die ROC-Analyse?",
+      "options": [
+        "Zur Überprüfung der Trennschärfen",
+        "Zur Berechnung von Sensitivität und Spezifität für Cut-Offs",
+        "Zur Bestimmung der Reliabilität",
+        "Zur Ermittlung der Objektivität"
+      ],
+      "answer": 1,
+      "explanation": "Die ROC-Analyse berechnet für mögliche Cut-Offs jeweils Sensitivität und Spezifität. Reliabilität, Trennschärfen und Objektivität werden mit anderen Verfahren bestimmt."
+    },
+    {
+      "topic": "Itemanalyse & Faktorenanalyse",
+      "question": "Wie wird die Itemhomogenität in der IRT bestimmt?",
+      "options": [
+        "Über die Testhalbierung",
+        "Über Expertenratings",
+        "Über die Überprüfung der lokalen stochastischen Unabhängigkeit",
+        "Über Mittelwertvergleiche"
+      ],
+      "answer": 2,
+      "explanation": "Itemhomogenität in der IRT wird über die lokale stochastische Unabhängigkeit geprüft. Expertenratings, Testhalbierung und Mittelwertvergleiche leisten das nicht."
+    }
+  ]
+}

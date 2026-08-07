@@ -126,6 +126,13 @@
       "title": "Diagnostische Untersuchung & Einzelfalldiagnostik",
       "subject": "Psychologische Diagnostik",
       "description": "Diagnostische Untersuchung I: Untersuchungssituation, Ergebnismitteilung und psychometrische Einzelfalldiagnostik (Standardmessfehler, Konfidenzintervall, kritische Differenz). 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "diagnostik-uebungsfragen-1",
+      "file": "diagnostik-uebungsfragen-1.json",
+      "title": "Übungsfragen 1 (Altklausur-Übung)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Offizielle Übungsfragen Diagnostik 1 (VL1 + VL2), 1:1 als Single-Choice übernommen. 52 Fragen mit Lösungen und Erklärungen."
     }
   ]
 }
