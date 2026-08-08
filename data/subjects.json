@@ -140,6 +140,13 @@
       "title": "Profilinterpretation & Urteilsbildung",
       "subject": "Psychologische Diagnostik",
       "description": "Diagnostische Untersuchung II & Integration I: Profilinterpretation (Profilreliabilität, -höhe, -streuung, -gestalt) und diagnostische Urteilsbildung (klinisch vs. statistisch). 30 Fragen mit Rechen- und Fallbeispielen."
+    },
+    {
+      "id": "diagnostik-entscheidungen-modelle",
+      "file": "diagnostik-entscheidungen-modelle.json",
+      "title": "Diagnostische Entscheidungen & Modelle",
+      "subject": "Psychologische Diagnostik",
+      "description": "Integration der Ergebnisse II: Arten diagnostischer Entscheidungen (Selektion/Platzierung, terminal/investigatorisch u. a.) und Entscheidungsmodelle (kompensatorisch, Oder-/Und-Strategie). 30 Fragen mit Fallbeispielen."
     }
   ]
 }

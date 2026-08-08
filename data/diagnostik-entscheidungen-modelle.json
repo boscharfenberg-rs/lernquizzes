@@ -1,0 +1,387 @@
+{
+  "id": "diagnostik-entscheidungen-modelle",
+  "title": "Psychologische Diagnostik · Diagnostische Entscheidungen & Modelle",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zu Arten diagnostischer Entscheidungen (u. a. Selektion vs. Platzierung, terminal vs. investigatorisch) und Entscheidungsmodellen (kompensatorisch, Oder-/Und-Strategie) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Arten: Nutzen & Selektion",
+      "question": "Was kennzeichnet eine institutionelle diagnostische Entscheidung?",
+      "options": [
+        "Es wird ausschließlich eine einzige Merkmalsdimension erhoben",
+        "Eine Organisation untersucht alle Personen standardisiert auf die gleiche Weise",
+        "Eine einzelne Person sucht ganz für sich persönlich einen individuellen fachlichen Rat",
+        "Es wird ganz auf jedes standardisierte Vorgehen bewusst verzichtet"
+      ],
+      "answer": 1,
+      "explanation": "Institutionell bedeutet, dass eine Organisation alle Personen standardisiert prüft (z. B. Auswahlverfahren). Der einzelne Ratsuchende ist der individuelle Nutzen; Standardisierungsverzicht und Eindimensionalität kennzeichnen die Art nicht."
+    },
+    {
+      "topic": "Arten: Nutzen & Selektion",
+      "transfer": true,
+      "question": "Eine einzelne Person lässt sich in einer Berufsberatung beraten, welcher Beruf zu ihr passt. Welche Art der Entscheidung (nach Nutzen) liegt vor?",
+      "options": [
+        "Eine Entscheidung zum Nutzen der Institution",
+        "Eine Entscheidung zum Nutzen des Individuums",
+        "Eine Entscheidung mit festgelegter Annahmequote",
+        "Eine rein univariate diagnostische Entscheidung"
+      ],
+      "answer": 1,
+      "explanation": "Sucht eine einzelne Person Rat (Berufsberatung), dient die Entscheidung dem Nutzen des Individuums. Der institutionelle Nutzen läge bei einem standardisierten Organisations-Auswahlverfahren; Annahmequote und Variablenzahl sind andere Unterscheidungsmerkmale."
+    },
+    {
+      "topic": "Arten: Nutzen & Selektion",
+      "question": "Was kennzeichnet eine Selektionsentscheidung (Möglichkeit von Ablehnungen: ja)?",
+      "options": [
+        "Ablehnungen aufgrund der Testergebnisse sind möglich",
+        "Alle Probanden verbleiben auf jeden Fall im System",
+        "Die Personen werden lediglich horizontal verschoben",
+        "Niemand kann aufgrund der Ergebnisse ausgeschlossen werden"
+      ],
+      "answer": 0,
+      "explanation": "Bei der Selektion sind Ablehnungen aufgrund der Testergebnisse möglich (klassisches Selektionsparadigma). Dass alle im System verbleiben und nur verschoben werden, kennzeichnet dagegen die Platzierung."
+    },
+    {
+      "topic": "Arten: Nutzen & Selektion",
+      "trap": "Platzierung = niemand wird ausgeschlossen.",
+      "transfer": true,
+      "question": "In einem Programm wird niemand abgelehnt; alle Teilnehmenden werden je nach Ergebnis einer passenden Maßnahme zugewiesen. Welche Art liegt vor?",
+      "options": [
+        "Eine Selektion",
+        "Eine festgelegte Annahmequote",
+        "Eine Platzierung",
+        "Eine terminale Selektionsentscheidung"
+      ],
+      "answer": 2,
+      "explanation": "Wenn niemand ausgeschlossen wird und alle im System auf Maßnahmen verteilt werden, ist es eine Platzierung. Selektion würde Ablehnungen zulassen; Annahmequote und terminal/investigatorisch sind andere Merkmale."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "question": "Wodurch unterscheiden sich festgelegte und variable Annahmequote?",
+      "options": [
+        "Bei festgelegter Quote steht nur eine bestimmte Anzahl an Plätzen zur Verfügung",
+        "Bei festgelegter Quote erhalten grundsätzlich alle Bewerber einen Platz",
+        "Bei variabler Quote ist die Zahl der Plätze streng nach oben begrenzt",
+        "Bei variabler Quote werden ausschließlich die Testergebnisse ignoriert"
+      ],
+      "answer": 0,
+      "explanation": "Festgelegte Quote heißt begrenzte Platzzahl (z. B. Ausbildungsplätze); bei variabler Quote erhalten z. B. alle Therapiebedürftigen eine Therapie. Die anderen Aussagen vertauschen oder verfälschen diese Zuordnung."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "question": "Was kennzeichnet eine multiple (im Unterschied zur singulären) Behandlung?",
+      "options": [
+        "Es wird ausschließlich ein einziger Prädiktor erhoben",
+        "Es wird genau eine eng umschriebene Einzelmaßnahme durchgeführt",
+        "Es werden verschiedene Maßnahmen miteinander kombiniert",
+        "Es wird über die Aufnahme in mehreren Stufen entschieden"
+      ],
+      "answer": 2,
+      "explanation": "Multipel bedeutet, verschiedene Maßnahmen zu kombinieren (z. B. Verhaltenstherapie plus Einbezug der Familie). Die einzelne Maßnahme ist singulär; Prädiktorzahl und Stufigkeit betreffen andere Merkmale."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "question": "Was bedeutet eine univariate diagnostische Entscheidung?",
+      "options": [
+        "Die Entscheidung lässt keinerlei Ablehnung von Personen zu",
+        "Die diagnostische Information beschränkt sich auf eine einzige Dimension",
+        "Die diagnostische Information umfasst mehrere Dimensionen zugleich",
+        "Die Entscheidung erfolgt in mehreren aufeinanderfolgenden Stufen"
+      ],
+      "answer": 1,
+      "explanation": "Univariat heißt, die Information beschränkt sich auf eine Dimension/Variable. Mehrere Dimensionen sind multivariat; Stufigkeit und Ablehnbarkeit sind andere Unterscheidungsmerkmale."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "question": "Warum wird in der Praxis oft multivariat statt univariat entschieden?",
+      "options": [
+        "Mehrere Prädiktoren erhöhen häufig die Entscheidungssicherheit",
+        "Ein einzelner Prädiktor liefert grundsätzlich die sichereren Urteile",
+        "Mehrere Prädiktoren schließen jede Ablehnung von vornherein aus",
+        "Mehrere Prädiktoren machen eine Gewichtung vollständig überflüssig"
+      ],
+      "answer": 0,
+      "explanation": "Mehrere Prädiktoren erhöhen oft die Entscheidungssicherheit. Ein Einzelprädiktor ist nicht generell sicherer, Ablehnungen werden nicht ausgeschlossen, und eine Gewichtung wird gerade dann relevant."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "hard": true,
+      "question": "Was kennzeichnet eine terminale (einstufige) Entscheidung?",
+      "options": [
+        "Die Entscheidung schließt eine Ablehnung von Personen grundsätzlich aus",
+        "Die Entscheidung wird in mehreren aufeinanderfolgenden Runden getroffen",
+        "Die Entscheidung weist einer Person eine Behandlung zu, in der sie verbleibt",
+        "Die Entscheidung ist nur der erste Schritt eines mehrstufigen Verfahrens"
+      ],
+      "answer": 2,
+      "explanation": "Terminal (einstufig) heißt, die Entscheidung weist eine Behandlung zu, in der die Person verbleibt. Der erste Schritt eines mehrstufigen Verfahrens ist investigatorisch; Ablehnbarkeit ist ein anderes Merkmal."
+    },
+    {
+      "topic": "Arten: weitere Merkmale",
+      "hard": true,
+      "transfer": true,
+      "question": "Bewerber durchlaufen zuerst einen Test, danach die Ausgewählten ein Interview und schließlich eine Probezeit. Welche Art der Entscheidung ist das?",
+      "options": [
+        "Eine terminale (einstufige) Entscheidung",
+        "Eine investigatorische (sequentielle, mehrstufige) Entscheidung",
+        "Eine Platzierung ganz ohne jede Ablehnung",
+        "Eine rein univariate, streng eindimensionale diagnostische Entscheidung"
+      ],
+      "answer": 1,
+      "explanation": "Ein mehrstufiges Verfahren (Test → Interview → Probezeit) ist investigatorisch/sequentiell. Terminal wäre eine einstufige Zuweisung; Variablenzahl und Platzierung betreffen andere Merkmale."
+    },
+    {
+      "topic": "Entscheidungsmodelle: Grundlagen",
+      "question": "Was bezeichnet man in Entscheidungsmodellen als Prädiktoren?",
+      "options": [
+        "Die festgelegte Anzahl der insgesamt verfügbaren Plätze",
+        "Die einzelnen Stufen eines mehrstufigen Entscheidungsverfahrens",
+        "Die zu kombinierenden Merkmale, aus denen die Entscheidung abgeleitet wird",
+        "Die verschiedenen Behandlungen, denen die untersuchten Personen zugewiesen werden"
+      ],
+      "answer": 2,
+      "explanation": "Prädiktoren sind die zu kombinierenden Merkmale, aus denen die Entscheidung abgeleitet wird. Behandlungen, Platzzahl und Verfahrensstufen sind keine Prädiktoren."
+    },
+    {
+      "topic": "Entscheidungsmodelle: Grundlagen",
+      "question": "Welche Frage klären EntscheidungsMODELLE (im Unterschied zu Entscheidungsstrategien)?",
+      "options": [
+        "Wie viele Plätze für die Bewerber insgesamt verfügbar sind",
+        "Ob man sich einmal oder in mehreren Runden bewähren muss",
+        "Auf wie vielen einzelnen Stufen die endgültige Entscheidung insgesamt letztlich beruht",
+        "Wie die einzelnen Informationen kombiniert, verrechnet und gewichtet werden"
+      ],
+      "answer": 3,
+      "explanation": "Modelle klären, wie die Informationen kombiniert und gewichtet werden. Auf wie vielen Stufen bzw. Runden entschieden wird, betrifft die Entscheidungsstrategien; die Platzzahl ist die Annahmequote."
+    },
+    {
+      "topic": "Entscheidungsmodelle: Grundlagen",
+      "question": "Warum sind in der diagnostischen Praxis meist multivariate Entscheidungen nötig?",
+      "options": [
+        "Weil grundsätzlich immer nur ein einziges Merkmal zählt",
+        "Weil eine Ablehnung von Personen ausgeschlossen sein muss",
+        "Weil sich die einzelnen Prädiktoren untereinander niemals gegenseitig ausgleichen dürfen",
+        "Weil eine Person meist über mehrere geforderte Eigenschaften verfügen soll"
+      ],
+      "answer": 3,
+      "explanation": "Meist soll eine Person mehrere geforderte Eigenschaften mitbringen (z. B. Anforderungsanalyse), daher multivariat. Ein Einzelmerkmal, ein generelles Kompensationsverbot oder ausgeschlossene Ablehnung treffen nicht zu."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "trap": "Kompensatorisch = Ausgleich, nicht Mindestwert pro Prädiktor.",
+      "question": "Was kennzeichnet ein kompensatorisches Entscheidungsmodell?",
+      "options": [
+        "Ein hoher Wert in nur einem einzigen Prädiktor genügt bereits für die Aufnahme",
+        "Niedrige Werte in einem Prädiktor können durch hohe in einem anderen ausgeglichen werden",
+        "In jedem einzelnen Prädiktor muss ein fest vorgegebener Mindestwert erreicht werden",
+        "Die Entscheidung fällt zwingend in mehreren getrennten Stufen nacheinander"
+      ],
+      "answer": 1,
+      "explanation": "Kompensatorisch heißt, niedrige Werte in einem Prädiktor lassen sich durch hohe in einem anderen ausgleichen. Ein Mindestwert je Prädiktor ist konjunktiv, ein einzelner hoher Wert die Oder-Strategie, Stufigkeit eine Strategie-Frage."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "question": "Wie wird im kompensatorischen Modell über Annahme oder Ablehnung entschieden?",
+      "options": [
+        "Über die Anzahl der insgesamt durchlaufenen Auswahlstufen",
+        "Über einen festen Mindestwert in jedem einzelnen Prädiktor",
+        "Über einen Gesamtwert der Prädiktoren, der einen kritischen Wert überschreiten muss",
+        "Über einen ausreichend hohen Wert in einem einzelnen, beliebig herausgegriffenen Prädiktor"
+      ],
+      "answer": 2,
+      "explanation": "Es wird ein Gesamtwert gebildet, der einen kritischen Wert übersteigen muss. Mindestwerte je Prädiktor sind konjunktiv, ein einzelner hoher Wert ist disjunktiv, und Stufen betreffen die Strategie."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "transfer": true,
+      "question": "Zwei Prädiktoren werden gleich gewichtet; der kritische Gesamtwert liegt bei 100. Eine Person hat A = 85 und B = 120. Wird sie angenommen?",
+      "options": [
+        "Nein, denn beide Prädiktoren müssen einzeln über 100 liegen",
+        "Ja, denn der Mittelwert 102,5 liegt über dem kritischen Wert von 100",
+        "Nein, denn Prädiktor A liegt unter dem kritischen Wert von 100",
+        "Das lässt sich ohne die konkreten Einzelgewichte nicht entscheiden"
+      ],
+      "answer": 1,
+      "explanation": "Bei Gleichgewichtung ist der Gesamtwert (85 + 120) / 2 = 102,5 > 100 → angenommen. Die Einzelwert-Argumente entsprechen dem konjunktiven Denken und gelten hier nicht; die Gewichte sind mit „gleich gewichtet“ bekannt."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "hard": true,
+      "question": "Wie wird die optimale Gewichtung der Prädiktoren im kompensatorischen Modell bestimmt?",
+      "options": [
+        "Über die Anzahl der insgesamt verfügbaren Plätze im Verfahren",
+        "Empirisch, z. B. über die β-Gewichte einer multiplen Regression",
+        "Durch gleiche Gewichtung, die grundsätzlich immer die beste Lösung ist",
+        "Rein intuitiv nach dem persönlichen Eindruck der diagnostizierenden Person"
+      ],
+      "answer": 1,
+      "explanation": "Die optimale Gewichtung wird empirisch bestimmt, etwa über die β-Gewichte einer multiplen Regression. Intuition, pauschale Gleichgewichtung oder die Platzzahl leisten das nicht."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "hard": true,
+      "question": "Was bedeutet eine Un-Gleichgewichtung der Prädiktoren, bei der Prädiktor A stärker gewichtet wird?",
+      "options": [
+        "Ein niedriger Wert in A wiegt schwerer und muss durch viel B ausgeglichen werden",
+        "In beiden Prädiktoren muss derselbe feste Mindestwert erreicht werden",
+        "Beide Prädiktoren gehen mit exakt gleichem Gewicht in den Gesamtwert ein",
+        "Ein niedriger Wert in A ist für die Entscheidung völlig bedeutungslos"
+      ],
+      "answer": 0,
+      "explanation": "Wird A stärker gewichtet, wiegt ein geringer A-Wert schwerer und braucht viel B zum Ausgleich. Gleiches Gewicht wäre Gleichgewichtung; ein bedeutungsloser A-Wert oder feste Mindestwerte treffen nicht zu."
+    },
+    {
+      "topic": "Kompensatorisches Modell",
+      "question": "Wofür ist die Versetzung in die nächste Schulklasse laut Folie ein Beispiel?",
+      "options": [
+        "Für eine rein investigatorische Mehrstufenentscheidung",
+        "Für eine Platzierung ohne jede Möglichkeit der Ablehnung",
+        "Für ein konjunktives Entscheidungsmodell",
+        "Für ein kompensatorisches Entscheidungsmodell"
+      ],
+      "answer": 3,
+      "explanation": "Die Versetzung (gute Noten gleichen schwächere aus) ist ein kompensatorisches Modell. Konjunktives Modell, investigatorische Entscheidung und Platzierung passen inhaltlich nicht."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "question": "Was kennzeichnet die Oder-Strategie (disjunktives Vorgehen)?",
+      "options": [
+        "Ein ausreichend hoher Wert in einem der Prädiktoren genügt bereits",
+        "Aus allen Prädiktoren wird ein gewichteter Gesamtwert gebildet",
+        "Die Entscheidung erfolgt zwingend in mehreren Stufen nacheinander",
+        "In allen Prädiktoren muss ein Mindestwert erreicht werden"
+      ],
+      "answer": 0,
+      "explanation": "Bei der Oder-Strategie genügt ein ausreichend hoher Wert in einem Prädiktor; der andere ist dann bedeutungslos. Mindestwerte in allen Prädiktoren sind konjunktiv, ein Gesamtwert ist kompensatorisch, Stufen sind eine Strategie-Frage."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "question": "Wann ist die Oder-Strategie laut Folie sinnvoll?",
+      "options": [
+        "Wenn die Entscheidung in mehreren Runden getroffen werden muss",
+        "Wenn in jedem einzelnen Teilbereich bestimmte Mindestleistungen zwingend unabdingbar sind",
+        "Wenn ausschließlich ein einziges Merkmal erhoben werden kann",
+        "Wenn die geforderte Leistung auf die eine oder die andere Weise erbracht werden kann"
+      ],
+      "answer": 3,
+      "explanation": "Die Oder-Strategie passt, wenn die geforderte Leistung auf die eine oder die andere Weise erbracht werden kann. Unabdingbare Mindestleistungen sprechen für das konjunktive Modell; Merkmalszahl und Stufen sind andere Aspekte."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "hard": true,
+      "trap": "Konjunktiv = Und (alle Bereiche), nicht Oder oder Ausgleich.",
+      "question": "Was kennzeichnet das konjunktive Modell (Und-Strategie)?",
+      "options": [
+        "Ein hoher Wert in einem einzigen Bereich genügt bereits",
+        "In allen Bereichen muss ein festgelegter Mindestwert erreicht werden",
+        "Es wird ein gewichteter Gesamtwert über alle Bereiche gebildet",
+        "Niedrige Werte lassen sich durch hohe in anderen Bereichen ausgleichen"
+      ],
+      "answer": 1,
+      "explanation": "Konjunktiv (Und) verlangt in allen Bereichen einen festgelegten Mindestwert. Ein einzelner hoher Wert ist die Oder-Strategie, der Ausgleich bzw. der Gesamtwert kennzeichnen das kompensatorische Modell."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "question": "Wie wird das konjunktive Modell auch genannt?",
+      "options": [
+        "Investigatorisches Stufenmodell",
+        "Disjunktives Oder-Modell",
+        "Multiple-Cut-off-Modell",
+        "Kompensatorisches Gesamtwert-Modell"
+      ],
+      "answer": 2,
+      "explanation": "Weil in jedem Bereich ein Mindestwert (Cut-off) verlangt wird, heißt das konjunktive Modell auch Multiple-Cut-off-Modell. Kompensatorisch, disjunktiv und investigatorisch bezeichnen andere Konzepte."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "hard": true,
+      "trap": "Konjunktiv ist konservativer – höhere Hürde für „Zugelassen“.",
+      "question": "Warum gilt das konjunktive Modell als konservativer?",
+      "options": [
+        "Weil die Anforderungen für ein „Zugelassen“ höher sind (Mindestwert in allen Bereichen)",
+        "Weil sich schwache Werte beliebig gegenseitig ausgleichen lassen",
+        "Weil bereits ein einziger ausreichend hoher Prädiktorwert allein für die Aufnahme genügt",
+        "Weil gar keine Mindestwerte festgelegt werden müssen"
+      ],
+      "answer": 0,
+      "explanation": "Konjunktiv ist konservativer, weil in allen Bereichen ein Mindestwert erreicht werden muss – eine höhere Hürde. Ein einzelner hoher Wert (Oder) oder beliebiger Ausgleich (kompensatorisch) sind weniger streng."
+    },
+    {
+      "topic": "Oder- & Und-Strategie",
+      "transfer": true,
+      "question": "In einem Auswahlverfahren wird aussortiert, wer in auch nur einem der geforderten Merkmale unter dem festgelegten Mindestwert bleibt. Welches Modell liegt vor?",
+      "options": [
+        "Die disjunktive Oder-Strategie",
+        "Eine investigatorische Mehrstufenentscheidung",
+        "Das kompensatorische Modell mit Gesamtwert",
+        "Das konjunktive Modell (Und-Strategie)"
+      ],
+      "answer": 3,
+      "explanation": "Wer in einem Merkmal den Mindestwert verfehlt, wird aussortiert – das ist das konjunktive Modell (Mindestwert in allen Bereichen). Ausgleich (kompensatorisch), ein einzelner hoher Wert (Oder) oder Mehrstufigkeit treffen nicht zu."
+    },
+    {
+      "topic": "Modelle: Vergleich & Konsequenzen",
+      "question": "Wann ist ein kompensatorisches Modell laut Folie dysfunktional?",
+      "options": [
+        "Wenn in jedem Teilbereich bestimmte Mindestleistungen unabdingbar sind",
+        "Wenn ein einziger hoher Prädiktorwert ausreichend sein soll",
+        "Wenn die Prädiktoren sich beliebig gegenseitig ausgleichen dürfen",
+        "Wenn nur eine einzige Merkmalsdimension erhoben wird"
+      ],
+      "answer": 0,
+      "explanation": "Kompensatorische Modelle sind dysfunktional, wenn in jedem Teilbereich Mindestleistungen unabdingbar sind (dann ist Ausgleich unerwünscht). Die anderen Fälle sprechen gerade für Kompensation bzw. betreffen andere Modelle."
+    },
+    {
+      "topic": "Modelle: Vergleich & Konsequenzen",
+      "question": "Welches Modell löst das Problem, dass in jedem Bereich Mindestleistungen unabdingbar sind?",
+      "options": [
+        "Das konjunktive Modell",
+        "Die disjunktive Oder-Strategie",
+        "Das kompensatorische Modell",
+        "Die terminale Einstufenentscheidung"
+      ],
+      "answer": 0,
+      "explanation": "Sind Mindestleistungen in allen Bereichen nötig, löst das konjunktive Modell (Mindestwert überall) das Problem. Kompensatorisch und disjunktiv erlauben Ausgleich bzw. Einzelstärke; terminal ist ein Entscheidungstyp, kein Modell."
+    },
+    {
+      "topic": "Modelle: Vergleich & Konsequenzen",
+      "hard": true,
+      "transfer": true,
+      "question": "Gefordert ist ein Wert von mindestens 110. Person X hat A = 130 und B = 95. Wie entscheiden ein kompensatorisches Modell (Gleichgewichtung) und die Und-Strategie?",
+      "options": [
+        "Kompensatorisch klar abgelehnt, nach der Und-Strategie dagegen ohne Weiteres angenommen",
+        "Nach beiden Modellen angenommen, da A deutlich über 110 liegt",
+        "Nach beiden Modellen abgelehnt, da B unter 110 liegt",
+        "Kompensatorisch angenommen (Mittel 112,5 ≥ 110), nach Und-Strategie abgelehnt (B < 110)"
+      ],
+      "answer": 3,
+      "explanation": "Der Mittelwert (130 + 95) / 2 = 112,5 ≥ 110 → kompensatorisch angenommen; die Und-Strategie verlangt beide ≥ 110, doch B = 95 → abgelehnt. Genau darum führen die Modelle im Einzelfall zu unterschiedlichen Entscheidungen."
+    },
+    {
+      "topic": "Modelle: Vergleich & Konsequenzen",
+      "question": "Was zeigt der Vergleich der verschiedenen Entscheidungsmodelle laut Folie?",
+      "options": [
+        "Nur das kompensatorische Modell liefert überhaupt fachlich gültige und brauchbare Entscheidungen",
+        "Die Wahl des Modells ist für das Ergebnis grundsätzlich belanglos",
+        "Unterschiedliche Modelle führen im Einzelfall zu unterschiedlichen Entscheidungen",
+        "Alle Modelle führen bei denselben Daten stets zur selben Entscheidung"
+      ],
+      "answer": 2,
+      "explanation": "Dasselbe Datenmuster kann je nach Modell zu Annahme oder Ablehnung führen – die Modelle entscheiden im Einzelfall unterschiedlich. Ein einheitliches Ergebnis, die Alleingültigkeit eines Modells oder die Belanglosigkeit der Wahl treffen nicht zu."
+    },
+    {
+      "topic": "Modelle: Vergleich & Konsequenzen",
+      "transfer": true,
+      "question": "Ein Betrieb nimmt Bewerber an, die ENTWEDER in Konzentration ODER im Sehvermögen einen sehr hohen Wert haben; der jeweils andere Wert spielt keine Rolle. Welches Vorgehen ist das?",
+      "options": [
+        "Das konjunktive Und-Modell",
+        "Eine terminale Platzierung ohne Ablehnung",
+        "Das kompensatorische Gesamtwert-Modell",
+        "Die disjunktive Oder-Strategie"
+      ],
+      "answer": 3,
+      "explanation": "Ein hoher Wert in einem der beiden Merkmale genügt, der andere ist bedeutungslos – das ist die disjunktive Oder-Strategie. Das Und-Modell verlangt beides, das kompensatorische bildet einen Gesamtwert, und eine Platzierung schlösse Ablehnung aus."
+    }
+  ]
+}
