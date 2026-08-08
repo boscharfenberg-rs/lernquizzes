@@ -133,6 +133,13 @@
       "title": "Übungsfragen 1 (Altklausur-Übung)",
       "subject": "Psychologische Diagnostik",
       "description": "Offizielle Übungsfragen Diagnostik 1 (VL1 + VL2), 1:1 als Single-Choice übernommen. 52 Fragen mit Lösungen und Erklärungen."
+    },
+    {
+      "id": "diagnostik-profil-urteilsbildung",
+      "file": "diagnostik-profil-urteilsbildung.json",
+      "title": "Profilinterpretation & Urteilsbildung",
+      "subject": "Psychologische Diagnostik",
+      "description": "Diagnostische Untersuchung II & Integration I: Profilinterpretation (Profilreliabilität, -höhe, -streuung, -gestalt) und diagnostische Urteilsbildung (klinisch vs. statistisch). 30 Fragen mit Rechen- und Fallbeispielen."
     }
   ]
 }

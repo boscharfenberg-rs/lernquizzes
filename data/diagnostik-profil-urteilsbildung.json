@@ -1,0 +1,386 @@
+{
+  "id": "diagnostik-profil-urteilsbildung",
+  "title": "Psychologische Diagnostik · Profilinterpretation & Urteilsbildung",
+  "subject": "Psychologische Diagnostik",
+  "description": "30 Fragen zu Profilinterpretation (Profilreliabilität, -höhe, -streuung, -gestalt) und diagnostischer Urteilsbildung (klinisch vs. statistisch) im Altklausur-Stil, mit Rechen- und Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Profilinterpretation: Grundlagen",
+      "question": "Was ist ein Profil in der psychometrischen Einzelfalldiagnostik?",
+      "options": [
+        "Graphisch dargestellte standardisierte Skalenwerte eines multidimensionalen Inventars",
+        "Der über viele Personen gemittelte Rohwert eines eindimensionalen Tests",
+        "Die Normtabelle zur Umrechnung von Rohwerten in Standardwerte",
+        "Die Verteilung der Itemschwierigkeiten innerhalb eines einzelnen ausgewählten Subtests"
+      ],
+      "answer": 0,
+      "explanation": "Ein Profil stellt die standardisierten Skalenwerte eines mehrdimensionalen Inventars graphisch dar (und verbindet sie ggf.). Ein Personenmittel eines eindimensionalen Tests, eine Itemschwierigkeitsverteilung oder eine Normtabelle sind kein Profil."
+    },
+    {
+      "topic": "Profilinterpretation: Grundlagen",
+      "question": "Wann ist der Vergleich von Profilpunkten laut Folie sinnvoll?",
+      "options": [
+        "Wenn möglichst blind sämtliche Profilpunkte wahllos miteinander verglichen werden",
+        "Wenn er inhaltlich sinnvoll und durch Fragestellung bzw. Hypothesen geleitet ist",
+        "Wenn die verglichenen Subtests sich möglichst viele Items teilen",
+        "Wenn ausschließlich Rohwerte ohne jede Normierung verglichen werden"
+      ],
+      "answer": 1,
+      "explanation": "Man vergleicht nur inhaltlich Sinnvolles, geleitet von Fragestellung und Hypothesen. Blindes Vergleichen aller Punkte, überlappende Items oder unnormierte Rohwerte widersprechen dem Vorgehen."
+    },
+    {
+      "topic": "Profilinterpretation: Grundlagen",
+      "question": "Welches Problem entsteht laut Folie, wenn sich Subtests Items teilen (wie z. B. im MMPI)?",
+      "options": [
+        "Die Profilhöhe kann dann nicht mehr korrekt als Mittelwert der Punkte berechnet werden",
+        "Die Profilpunkte überschneiden sich und sind nicht mehr sauber vergleichbar",
+        "Die Standardwerte lassen sich nicht mehr graphisch darstellen",
+        "Das Profil wird dadurch automatisch besonders gut reliabel"
+      ],
+      "answer": 1,
+      "explanation": "Teilen sich Subtests Items, überschneiden sich die Profilpunkte und der Vergleich wird verzerrt (Problem des MMPI). Die Überschneidung erhöht nicht die Güte und verhindert weder Darstellung noch Mittelwertbildung."
+    },
+    {
+      "topic": "Profilinterpretation: Grundlagen",
+      "hard": true,
+      "question": "Was drückt die Profilreliabilität aus?",
+      "options": [
+        "Wie zuverlässig die Unterschiede innerhalb des Profils sind, nicht nur die Einzelwerte",
+        "Wie hoch der Mittelwert aller Profilpunkte einer Person ausfällt",
+        "Wie viele Profilpunkte für eine graphische Darstellung nötig sind",
+        "Wie stark die einzelnen Subtests innerhalb des betrachteten Profils miteinander korrelieren"
+      ],
+      "answer": 0,
+      "explanation": "Die Profilreliabilität (prof rtt) sagt, wie zuverlässig die Profil-Unterschiede sind; für ein interpretierbares Profil sollte sie mind. .50 betragen (Ziegler & Bühner). Sie ist weder die reine Interkorrelation der Subtests noch die Profilhöhe noch die Punktzahl."
+    },
+    {
+      "topic": "Profilinterpretation: Grundlagen",
+      "question": "Welche drei Merkmale eines Profils nennt die Folie (nach Cattell, 1949)?",
+      "options": [
+        "Profilmittelwert, Profilvarianz und Profiltrennschärfe",
+        "Profilhöhe, Profilbreite und Profilsymmetrie",
+        "Profilreliabilität, Profilvalidität und Profilnormierung",
+        "Profilhöhe, Profilstreuung und Profilgestalt"
+      ],
+      "answer": 3,
+      "explanation": "Cattell unterscheidet Profilhöhe (level), Profilstreuung (scatter) und Profilgestalt (shape). Die anderen Dreiergruppen mischen erfundene oder unpassende Begriffe."
+    },
+    {
+      "topic": "Profilhöhe",
+      "question": "Was gibt die Profilhöhe an?",
+      "options": [
+        "Den Mittelwert der Werte über alle Profilpunkte einer Person",
+        "Den höchsten erreichten Standardwert im gesamten Profil",
+        "Die Spannweite zwischen höchstem und niedrigstem Profilpunkt",
+        "Die Streuung der Profilpunkte um ihren gemeinsamen Mittelwert"
+      ],
+      "answer": 0,
+      "explanation": "Die Profilhöhe ist der Mittelwert über alle Profilpunkte. Spannweite und Streuung beschreiben die Profilstreuung, der höchste Einzelwert ist nur ein einzelner Punkt."
+    },
+    {
+      "topic": "Profilhöhe",
+      "transfer": true,
+      "question": "Eine Person hat in drei Subtests die Standardwerte 106, 121 und 112. Wie groß ist die Profilhöhe?",
+      "options": [
+        "339 (die Summe der drei Werte)",
+        "15 (die Differenz zwischen höchstem und niedrigstem Wert)",
+        "113 (der Mittelwert der drei Werte)",
+        "121 (der höchste der drei Werte)"
+      ],
+      "answer": 2,
+      "explanation": "Die Profilhöhe ist der Mittelwert: (106 + 121 + 112) / 3 = 113. Der Maximalwert, die Spannweite oder die reine Summe sind nicht die Profilhöhe."
+    },
+    {
+      "topic": "Profilhöhe",
+      "hard": true,
+      "question": "Wozu dient das Konfidenzintervall für die Profilhöhe?",
+      "options": [
+        "Zur zufallskritischen Absicherung, in welchem Bereich die wahre Profilhöhe liegt",
+        "Zur Prüfung, ob sich zwei einzelne Profilpunkte statistisch signifikant voneinander unterscheiden",
+        "Zur Bestimmung der Interkorrelation der beteiligten Subtests",
+        "Zur Berechnung des reinen Mittelwerts aller Profilpunkte einer Person"
+      ],
+      "answer": 0,
+      "explanation": "Das Konfidenzintervall sichert zufallskritisch ab, in welchem Bereich die wahre Profilhöhe liegt (z. B. 101.9–124.1). Der Vergleich zweier Punkte ist die Profilgestalt, der reine Mittelwert die Profilhöhe selbst, die Interkorrelation ein anderer Kennwert."
+    },
+    {
+      "topic": "Profilstreuung",
+      "question": "Welche Frage beantwortet die Analyse der Profilstreuung?",
+      "options": [
+        "Ob die Items eines Subtests inhaltsvalide sind",
+        "Ob der Mittelwert des gesamten Profils über dem Populationsmittelwert liegt",
+        "Ob die Streuung im Profil echt ist oder vor allem auf Messfehler beruht",
+        "Ob zwei verschiedene Personen dasselbe Profil aufweisen"
+      ],
+      "answer": 2,
+      "explanation": "Die Profilstreuung prüft, ob die gefundene Streuung überzufällig (echt) ist oder vor allem Messfehler widerspiegelt. Populationsvergleich, Personenvergleich und Inhaltsvalidität sind andere Fragen."
+    },
+    {
+      "topic": "Profilstreuung",
+      "trap": "Nicht überzufällige Streuung = Scheinprofil, nicht besonders gut.",
+      "question": "Was folgt, wenn die Profilstreuung NICHT überzufällig ist?",
+      "options": [
+        "Die Profilhöhe muss neu als Median berechnet werden",
+        "Es liegt ein Scheinprofil vor und wird nicht weiter analysiert",
+        "Die Profilgestalt zeigt dann zwingend signifikante Stärken und Schwächen",
+        "Es liegt ein besonders reliables, echtes Profil vor"
+      ],
+      "answer": 1,
+      "explanation": "Ohne überzufällige Streuung gibt es keine systematischen Unterschiede zwischen den Punkten – ein Scheinprofil, das nicht weiter analysiert wird. Es ist gerade kein besonders gutes Profil, und Höhe bzw. Gestalt folgen daraus nicht."
+    },
+    {
+      "topic": "Profilstreuung",
+      "hard": true,
+      "transfer": true,
+      "question": "Der empirische χ²-Wert eines Profils beträgt 6.70, der kritische χ²-Wert (df = m − 1) liegt bei 5.99. Wie ist das zu bewerten?",
+      "options": [
+        "Die Streuung ist zufällig – es liegt ein Scheinprofil vor",
+        "Die beiden Werte sind gleich groß, eine Aussage ist unmöglich",
+        "Das Profil ist nicht auswertbar, weil χ² über 5 liegt",
+        "Die Streuung ist überzufällig – es liegt ein echtes Profil vor"
+      ],
+      "answer": 3,
+      "explanation": "Weil der empirische Wert (6.70) den kritischen (5.99) übersteigt, ist die Streuung überzufällig – ein echtes Profil (Daumenregel: empirisches χ² > 2·df). Ein Scheinprofil läge bei kleinerem χ² vor; die anderen Deutungen sind falsch."
+    },
+    {
+      "topic": "Profilgestalt",
+      "question": "Welche Frage klärt die Analyse der Profilgestalt?",
+      "options": [
+        "Ob der Mittelwert des Profils überzufällig hoch ausfällt",
+        "Ob es signifikante Stärken oder Schwächen zwischen Profilpunkten gibt",
+        "Ob das gesamte Profil überhaupt eine ausreichende Reliabilität besitzt",
+        "Ob die Gesamtstreuung des Profils überzufällig ist"
+      ],
+      "answer": 1,
+      "explanation": "Die Profilgestalt klärt über paarweise Vergleiche (kritische Differenzen), ob es signifikante Stärken/Schwächen gibt. Profilhöhe, Profilreliabilität und Profilstreuung beantworten jeweils andere Fragen."
+    },
+    {
+      "topic": "Profilgestalt",
+      "hard": true,
+      "trap": "Bonferroni senkt den Fehler 1. Art; weniger strenges α den Fehler 2. Art.",
+      "question": "Wie begegnet man laut Folie dem erhöhten Fehler 1. Art bei vielen paarweisen Profilvergleichen?",
+      "options": [
+        "Mit einem bewusst weniger strengen Signifikanzniveau, also einem deutlich größeren α",
+        "Mit einer Erhöhung der Anzahl der durchgeführten Vergleiche",
+        "Mit einer Bonferroni-Korrektur (α geteilt durch die Anzahl der Vergleiche)",
+        "Mit dem Verzicht auf normierte Testwerte im Profil"
+      ],
+      "answer": 2,
+      "explanation": "Dem Fehler 1. Art begegnet man mit der Bonferroni-Korrektur (α / Anzahl der Vergleiche). Ein größeres α adressiert den Fehler 2. Art, mehr Vergleiche verschärfen das Problem, und unnormierte Werte helfen nicht."
+    },
+    {
+      "topic": "Profilgestalt",
+      "transfer": true,
+      "question": "Zwei Subskalen unterscheiden sich empirisch um Demp = 15; die kritische Differenz beträgt Dkrit = 11.60. Wie ist der Unterschied zu bewerten?",
+      "options": [
+        "Er ist bedeutungslos, weil es sich um Standardwerte handelt",
+        "Er ist zufällig, da die empirische Differenz unter der kritischen liegt",
+        "Er ist nicht bewertbar, weil beide Werte über 10 liegen",
+        "Er ist signifikant, da die empirische Differenz die kritische übersteigt"
+      ],
+      "answer": 3,
+      "explanation": "Weil Demp = 15 > Dkrit = 11.60, unterscheiden sich die Subskalen signifikant (hier: figurale Leistung höher als verbale). Läge Demp darunter, wäre der Unterschied zufällig; die Höhe der Werte oder die Standardwert-Skala ändern daran nichts."
+    },
+    {
+      "topic": "Urteilsbildung: Arten",
+      "question": "Was ist ein diagnostisches Urteil?",
+      "options": [
+        "Die reine Erhebung von Testwerten ohne jede weitere inhaltliche Interpretation und Deutung",
+        "Die Berechnung der Reliabilität der eingesetzten Instrumente",
+        "Die Beantwortung einer Fragestellung anhand vorliegender diagnostischer Informationen",
+        "Die Auswahl der geeigneten diagnostischen Verfahren zu Beginn"
+      ],
+      "answer": 2,
+      "explanation": "Ein diagnostisches Urteil beantwortet eine Fragestellung unter Verwendung der bereits vorliegenden Informationen. Datenerhebung, Verfahrensauswahl und Reliabilitätsberechnung sind andere Prozessschritte."
+    },
+    {
+      "topic": "Urteilsbildung: Arten",
+      "question": "Worauf beruht die klinische (menschliche) Urteilsbildung?",
+      "options": [
+        "Auf subjektiven, intuitiven und informellen Einschätzungen",
+        "Auf festen Regeln, Formeln und Algorithmen",
+        "Auf der zufallskritischen Prüfung von Profilwerten",
+        "Auf einem streng empirisch abgeleiteten statistischen Regressionsmodell"
+      ],
+      "answer": 0,
+      "explanation": "Die klinische Urteilsbildung entsteht aus subjektiven, intuitiven und informellen Einschätzungen. Feste Regeln, Formeln bzw. Regressionsmodelle kennzeichnen die mechanische/statistische Urteilsbildung."
+    },
+    {
+      "topic": "Urteilsbildung: Arten",
+      "question": "Worauf beruht die mechanische/statistische Urteilsbildung?",
+      "options": [
+        "Auf subjektiven, intuitiven und informellen Eindrücken",
+        "Auf der graphischen Betrachtung eines einzelnen Profils",
+        "Auf festen Regeln, Formeln und Algorithmen",
+        "Auf dem spontanen Gesamteindruck der diagnostizierenden Person"
+      ],
+      "answer": 2,
+      "explanation": "Mechanische/statistische Urteile entstehen nach festen Regeln, Formeln und Algorithmen. Subjektive Eindrücke oder ein spontaner Gesamteindruck kennzeichnen das klinische Urteil; die Profilbetrachtung ist etwas anderes."
+    },
+    {
+      "topic": "Urteilsbildung: Arten",
+      "hard": true,
+      "trap": "Mechanisch = rationale Begründung, statistisch = empirische Daten.",
+      "question": "Wodurch unterscheiden sich „mechanische“ und „statistische“ Urteilsbildung laut Folie?",
+      "options": [
+        "Beide verzichten vollständig auf feste Verrechnungsregeln",
+        "Mechanisch beruht auf empirischen Daten, statistisch auf reiner Intuition",
+        "Mechanisch beruht auf rationaler Begründung, statistisch auf empirischen Daten",
+        "Beide beruhen ausschließlich auf subjektiven Einschätzungen der Person"
+      ],
+      "answer": 2,
+      "explanation": "Beide nutzen feste Verrechnungsregeln; mechanisch meint eine rational begründete Regel, statistisch eine empirisch (z. B. per Regression) abgeleitete. Die umgekehrte Zuordnung oder ein Verzicht auf Regeln trifft nicht zu."
+    },
+    {
+      "topic": "Urteilsbildung: Arten",
+      "transfer": true,
+      "question": "Eine Psychologin verrechnet Testwerte mit einer empirisch abgeleiteten Regressionsformel zu einem Urteil. Welche Urteilsbildung liegt vor?",
+      "options": [
+        "Die informelle Urteilsbildung",
+        "Die statistische Urteilsbildung",
+        "Die klinische Urteilsbildung",
+        "Die intuitive Urteilsbildung"
+      ],
+      "answer": 1,
+      "explanation": "Eine empirisch abgeleitete Verrechnungsformel (Regressionsmodell) kennzeichnet die statistische Urteilsbildung. Klinische, intuitive und informelle Urteilsbildung stützen sich dagegen auf subjektive Einschätzungen."
+    },
+    {
+      "topic": "Statistische Überlegenheit: Befunde",
+      "question": "Wofür ist der Goldberg-Index (1965) ein Beispiel?",
+      "options": [
+        "Für eine rein klinische Urteilsbildung nach persönlicher Erfahrung",
+        "Für ein projektives Verfahren der Persönlichkeitsdiagnostik",
+        "Für eine mechanische Urteilsbildung mittels fester Verrechnungsregel",
+        "Für ein Verfahren zur Bestimmung der Profilreliabilität"
+      ],
+      "answer": 2,
+      "explanation": "Der Goldberg-Index verrechnet fünf MMPI-Skalen nach fester Regel (T-Wert > 45 → psychotisch) – ein Beispiel mechanischer Urteilsbildung (68 % vs. 74 % Trefferquote klinisch vs. mechanisch). Er ist weder klinisch noch projektiv noch ein Profilkennwert."
+    },
+    {
+      "topic": "Statistische Überlegenheit: Befunde",
+      "question": "Zu welchem Ergebnis kam Meehl (1954) beim Vergleich klinischer und statistischer Urteile?",
+      "options": [
+        "Beide Urteilsformen waren exakt gleich treffsicher",
+        "Die mechanische/statistische Urteilsbildung war überlegen",
+        "Die klinische Urteilsbildung war deutlich überlegen",
+        "Ein Vergleich war methodisch grundsätzlich unmöglich"
+      ],
+      "answer": 1,
+      "explanation": "Meehl (1954) wertete 22 Studien aus und fand eine Überlegenheit der mechanischen/statistischen Urteilsbildung. Die klinische war nicht überlegen, die Formen nicht gleichwertig, und der Vergleich war sehr wohl möglich."
+    },
+    {
+      "topic": "Statistische Überlegenheit: Befunde",
+      "hard": true,
+      "question": "Wie fiel das Ergebnis der Metaanalyse von Grove et al. (2000) aus?",
+      "options": [
+        "Beide Urteilsformen zeigten exakt denselben Trefferwert (d = 0)",
+        "Statistische Urteile waren deutlich überlegen mit einem sehr großen Effekt (d ≈ .8)",
+        "Klinische Urteile waren überlegen mit einem mittleren Effekt (d ≈ .5)",
+        "Statistische Urteile waren tendenziell überlegen, der Effekt aber klein (d ≈ .09)"
+      ],
+      "answer": 3,
+      "explanation": "Grove et al. (2000) fanden über 136 Studien eine tendenzielle Überlegenheit statistischer Urteile bei kleinem Effekt (d ≈ .089). Ein sehr großer Effekt, eine Überlegenheit klinischer Urteile oder Gleichstand entsprechen nicht dem Befund."
+    },
+    {
+      "topic": "Statistische Überlegenheit: Befunde",
+      "question": "Unter welchen Bedingungen war die statistische Urteilsbildung laut den Studien besonders überlegen?",
+      "options": [
+        "Wenn gar keine Kriteriumswerte für die Fälle vorlagen",
+        "Wenn nur eine einzige diagnostizierende Person urteilte",
+        "Bei rein pädagogischen Kriterien und bei fehlenden Daten",
+        "Bei medizinisch-forensischen Kriterien und bei Interviewdaten"
+      ],
+      "answer": 3,
+      "explanation": "Besonders überlegen war die statistische Urteilsbildung bei medizinisch-forensischen Kriterien und bei Interviewdaten. Ohne Kriteriumswerte ließe sich die Richtigkeit gar nicht bestimmen; die anderen Bedingungen nennt die Folie nicht."
+    },
+    {
+      "topic": "Statistische Überlegenheit: Befunde",
+      "hard": true,
+      "trap": "In keinem Fall war das klinische Urteil überlegen.",
+      "question": "Was zeigte die Metaanalyse von Ægisdóttir et al. (2006) zum klinischen Urteil?",
+      "options": [
+        "Das klinische Urteil war in allen Bereichen exakt gleichwertig",
+        "In keinem Fall war das klinische Urteil überlegen",
+        "Das klinische Urteil war bei Gewaltprognosen klar überlegen",
+        "Das klinische Urteil war dem mechanischen deutlich überlegen"
+      ],
+      "answer": 1,
+      "explanation": "Über 69 Studien war der Gesamteffekt zugunsten des statistischen Urteils (d ≈ .16); in keinem Fall war das klinische Urteil überlegen. Auch bei Gewaltprognosen war das statistische überlegen, und mechanisch war kaum besser als klinisch (d ≈ .03)."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "transfer": true,
+      "question": "Eine Diagnostikerin hält eine sehr seltene Störung für wahrscheinlich, obwohl sie in der Population kaum vorkommt. Welcher typische Urteilsfehler zeigt sich?",
+      "options": [
+        "Die Bonferroni-Korrektur des Signifikanzniveaus",
+        "Die zufallskritische Absicherung der Profilhöhe",
+        "Die Überschätzung der Profilreliabilität",
+        "Das Ignorieren der Basisrate"
+      ],
+      "answer": 3,
+      "explanation": "Wer das seltene Vorkommen in der Population außer Acht lässt, ignoriert die Basisrate – ein typischer Fehler klinischer Urteile. Bonferroni-Korrektur, Profilreliabilität und KI der Profilhöhe sind keine Urteilsfehler."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "question": "Was bezeichnet die Availability-Heuristik als Urteilsfehler?",
+      "options": [
+        "Das systematische Ignorieren der Basisrate in der Population",
+        "Die Übergewichtung leicht verfügbarer Informationen",
+        "Die Verrechnung der Daten nach einer festen Formel",
+        "Die gleichmäßige Gewichtung aller vorliegenden Informationen"
+      ],
+      "answer": 1,
+      "explanation": "Die Availability-Heuristik meint das Übergewichten leicht verfügbarer Informationen. Das Ignorieren der Basisrate ist ein anderer Fehler; gleichmäßige Gewichtung oder eine feste Formel sind gerade keine Urteilsfehler."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "question": "Welche Voraussetzung nennt die Folie für die statistische Urteilsbildung?",
+      "options": [
+        "Informationen, die für alle Probanden vorliegen, und große Fallzahlen",
+        "Ausschließlich Einzelfälle ohne einheitliche Fragestellung",
+        "Der vollständige Verzicht auf jede Verrechnungsformel",
+        "Ein rein intuitives, subjektives Vorgehen ganz ohne jede empirische Grundlage"
+      ],
+      "answer": 0,
+      "explanation": "Statistische Urteile brauchen für alle Probanden vorliegende Informationen und große Fallzahlen bei einheitlicher Fragestellung. Intuition ohne Grundlage, fehlende Formeln oder uneinheitliche Einzelfälle sprechen dagegen."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "question": "Was gilt laut Folie, wenn keine Forschungsergebnisse für eine Verrechnungsformel vorliegen?",
+      "options": [
+        "Man muss dennoch zwingend eine statistische Formel erfinden",
+        "Das diagnostische Urteil muss dann vollständig entfallen",
+        "Die Profilinterpretation ersetzt dann vollständig das diagnostische Urteil",
+        "Es gibt keine Alternative zur klinischen (menschlichen) Urteilsbildung"
+      ],
+      "answer": 3,
+      "explanation": "Fehlt eine empirisch begründbare Formel, bleibt nur die klinische Urteilsbildung – dann aber unter Berücksichtigung allgemeiner Forschungsergebnisse. Eine Formel zu erfinden, das Urteil zu unterlassen oder es durch ein Profil zu ersetzen ist nicht gemeint."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "trap": "Die Überlegenheit ist real, aber nur klein.",
+      "question": "Wie groß ist die Überlegenheit der statistischen gegenüber der klinischen Urteilsbildung insgesamt?",
+      "options": [
+        "Nur leicht – der gefundene Effekt ist durchgehend klein",
+        "Gar nicht – beide sind exakt gleich treffsicher",
+        "Umgekehrt – klinische Urteile sind meist überlegen",
+        "Sehr groß – klinische Urteile sind praktisch wertlos"
+      ],
+      "answer": 0,
+      "explanation": "Die Überlegenheit ist zwar konsistent, aber nur gering (kleine Effekte). Klinische Urteile sind nicht wertlos, nicht gleichwertig und in der Regel nicht überlegen."
+    },
+    {
+      "topic": "Urteilsfehler & Grenzen",
+      "question": "Welchen Optimierungsvorschlag für statistische Urteile nennt die Folie?",
+      "options": [
+        "Statistische Modelle kontinuierlich überprüfen und auf Nachvollziehbarkeit prüfen",
+        "Einmal festgelegte Formeln danach nie wieder verändern",
+        "Rationale Begründungen den statistischen Modellen vorziehen",
+        "Ausschließlich lineare Zusammenhänge in den statistischen Modellen dauerhaft zulassen"
+      ],
+      "answer": 0,
+      "explanation": "Empfohlen wird, statistische Modelle laufend zu überprüfen, auf Nachvollziehbarkeit zu prüfen und ggf. zu verfeinern (auch nichtlineare/intelligente Methoden). Formeln einzufrieren, nur lineare Modelle zuzulassen oder rationale Begründungen vorzuziehen widerspricht dem."
+    }
+  ]
+}
