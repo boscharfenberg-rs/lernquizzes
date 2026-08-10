@@ -176,6 +176,8 @@ button { font: inherit; cursor: pointer; }
 .qMeta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; gap: 8px; min-height: 22px; }
 .topicTag { font-size: 0.7rem; font-weight: 700; color: #fff; padding: 4px 10px; border-radius: 999px; }
 .hardTag { font-size: 0.62rem; font-weight: 800; color: #b4451f; background: #fbe9e1; padding: 3px 8px; border-radius: 999px; letter-spacing: 0.5px; }
+.metaTags { display: flex; align-items: center; gap: 6px; }
+.transferTag { font-size: 0.62rem; font-weight: 800; color: #1f6f52; background: #e2f3ea; padding: 3px 8px; border-radius: 999px; letter-spacing: 0.5px; }
 
 /* Steuerung (Mischen) */
 .controls { display: flex; justify-content: flex-end; margin-bottom: 12px; }

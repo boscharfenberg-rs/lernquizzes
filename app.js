@@ -196,7 +196,10 @@ function render() {
   html += `<div class="qMeta">`;
   if (q.topic) html += `<span class="topicTag" style="background:${accent}">${escapeHtml(q.topic)}</span>`;
   else html += `<span></span>`;
+  html += `<span class="metaTags">`;
+  if (q.transfer) html += `<span class="transferTag">ANWENDUNG</span>`;
   if (q.hard) html += `<span class="hardTag">SCHWER</span>`;
+  html += `</span>`;
   html += `</div>`;
 
   if (q.isImage) html += `<div class="imageNote">🖼 Bildfrage – im Original mit Grafik. Die markierte Lösung orientiert sich an der Original-Grafik; ohne Bild bitte an der Vorlage verifizieren.</div>`;
