@@ -154,6 +154,13 @@
       "title": "Betriebliches Gesundheitsmanagement",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Prävention (verhältnis-/verhaltensorientiert), drei Säulen des BGM, Arbeitsschutzrecht, Gefährdungsbeurteilung psychischer Belastung, Arbeit 4.0, BEM und betriebliche Gesundheitsförderung. 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "auo-teamentwicklung",
+      "file": "auo-teamentwicklung.json",
+      "title": "Teamentwicklung",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Teamarbeit und Teamentwicklung: Nutzen/Risiken, IPO-Modell, Wirkmechanismen, Motivationsgewinne/-verluste, Faultlines, Tuckman-Phasen, Teamdiagnose und Gruppenarbeitsformen. 30 Fragen mit Fallbeispielen."
     }
   ]
 }

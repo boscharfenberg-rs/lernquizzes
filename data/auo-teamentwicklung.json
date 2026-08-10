@@ -1,0 +1,388 @@
+{
+  "id": "auo-teamentwicklung",
+  "title": "A&O · Teamentwicklung",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "30 Fragen zu Teamarbeit und Teamentwicklung (Nutzen/Risiken, IPO-Modell, Motivationsgewinne/-verluste, Faultlines, Tuckman-Phasen, Teamdiagnose, Gruppenarbeitsformen) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Team: Grundlagen",
+      "question": "Was kennzeichnet laut Definition ein Team bzw. eine Gruppe?",
+      "options": [
+        "Mindestens zwei Mitglieder mit gemeinsamen Zielen sowie Kooperation und Interaktion",
+        "Eine völlig beliebige Ansammlung von einzelnen Personen ganz ohne jedes gemeinsame Ziel",
+        "Eine einzelne Person, die mehrere Aufgaben gleichzeitig bearbeitet",
+        "Eine Abteilung völlig ohne soziale Interaktion ihrer Mitglieder"
+      ],
+      "answer": 0,
+      "explanation": "Ein Team besteht aus mindestens zwei Mitgliedern, die gemeinsame Ziele verfolgen und ein Minimum an Kooperation und sozialer Interaktion zeigen. Eine ziellose Ansammlung, eine Einzelperson oder eine interaktionslose Abteilung erfüllen das nicht."
+    },
+    {
+      "topic": "Team: Grundlagen",
+      "question": "Was ist laut Folie ein Nutzen von Teamarbeit?",
+      "options": [
+        "Die vollständige Unabhängigkeit von sozialen Fähigkeiten der Mitglieder",
+        "Komplexe, dynamische Probleme besser lösen durch breiteres Wissen und mehr Kapazität",
+        "Der garantierte Ausschluss von Konflikten auf der Beziehungsebene",
+        "Die vollständige Vermeidung jeglicher Koordinationskosten zwischen den Mitgliedern"
+      ],
+      "answer": 1,
+      "explanation": "Teams lösen komplexe, dynamische Probleme oft besser (breiteres Wissen, mehr Informationsverarbeitungskapazität). Koordinationskosten, Beziehungskonflikte und der Bedarf an sozialen Fähigkeiten sind dagegen gerade Risiken bzw. Voraussetzungen."
+    },
+    {
+      "topic": "Team: Grundlagen",
+      "question": "Was ist laut Folie ein Risiko von Teamarbeit?",
+      "options": [
+        "Eine grundsätzlich geringere Informationsverarbeitungskapazität als bei Einzelnen",
+        "Der vollständige Wegfall jeglicher Motivation im gesamten Team",
+        "Die grundsätzliche Unmöglichkeit, sich sozial zu unterstützen",
+        "Zusätzliche Zeit und Energie durch Koordinationserfordernisse"
+      ],
+      "answer": 3,
+      "explanation": "Teamarbeit kostet durch Koordinationserfordernisse zusätzliche Zeit und Energie (auch soziale Belastungen, Bedarf an sozialen Fähigkeiten). Eine geringere Kapazität, fehlende Motivation oder unmögliche Unterstützung sind gerade nicht die genannten Risiken."
+    },
+    {
+      "topic": "Team: Grundlagen",
+      "trap": "Fehlentscheidungen durch Macht/Rhetorik, nicht durch gleichgewichtige Beiträge.",
+      "question": "Wodurch kann Teamarbeit laut Folie Fehlentscheidungen fördern?",
+      "options": [
+        "Wenn die Aufgaben vollständig unabhängig voneinander bearbeitet werden",
+        "Wenn die Kohäsion innerhalb des gesamten Teams besonders niedrig ausfällt",
+        "Wenn alle Mitglieder ihre Informationen streng gleichgewichtig einbringen",
+        "Wenn sich Mitglieder nur aufgrund von Macht oder rhetorischen Fähigkeiten durchsetzen"
+      ],
+      "answer": 3,
+      "explanation": "Fehlentscheidungen drohen, wenn sich Mitglieder allein über Macht oder Rhetorik durchsetzen. Gleichgewichtige Informationsverarbeitung wäre gerade förderlich; unabhängige Aufgaben oder niedrige Kohäsion sind nicht der genannte Grund."
+    },
+    {
+      "topic": "Dimensionen & IPO-Modell",
+      "question": "Anhand welcher Dimension lassen sich Teams laut Folie vergleichen?",
+      "options": [
+        "Autonomie (geführte vs. selbststeuernde Teams)",
+        "Der Rechtsform des jeweiligen Unternehmens",
+        "Der Höhe des ausgezahlten Akkordlohns",
+        "Der Anzahl der insgesamt verfügbaren Arbeitsplätze"
+      ],
+      "answer": 0,
+      "explanation": "Autonomie (geführt vs. selbststeuernd) ist eine der Vergleichsdimensionen (neben Interdependenz, Aufgabenstruktur, Virtualität, zeitlicher Perspektive, Heterogenität). Rechtsform, Lohn und Arbeitsplatzzahl gehören nicht dazu."
+    },
+    {
+      "topic": "Dimensionen & IPO-Modell",
+      "hard": true,
+      "question": "Welche Reihenfolge beschreibt das Input-Prozess-Output-Modell der Teamarbeit?",
+      "options": [
+        "Prozess, Input und Output laufen vollständig unabhängig voneinander ab",
+        "Output (z. B. Leistung), Prozess (z. B. Kommunikation), Input (z. B. Zusammensetzung)",
+        "Allein der Input bestimmt das Ergebnis, die Prozesse spielen keine Rolle",
+        "Input (z. B. Zusammensetzung), Prozess (z. B. Kommunikation), Output (z. B. Leistung)"
+      ],
+      "answer": 3,
+      "explanation": "Das Modell verläuft von Input (Organisation, Gruppe, Individuum) über Prozess (z. B. Kommunikation, Kohäsion) zu Output (z. B. Leistung, Zufriedenheit). Die umgekehrte Reihenfolge, Unabhängigkeit oder ein reiner Input-Determinismus treffen nicht zu."
+    },
+    {
+      "topic": "Dimensionen & IPO-Modell",
+      "question": "Was zählt im IPO-Modell zu den Prozessvariablen?",
+      "options": [
+        "Persönlichkeit, Wissen und Fähigkeiten der Einzelnen",
+        "Kommunikation, Kooperation, Vertrauen und Kohäsion",
+        "Organisationsklima, Belohnungssystem und Fortbildungsmöglichkeiten",
+        "Teamleistung, Commitment und Team-Lebendigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Kommunikation, Kooperation, Vertrauen und Kohäsion sind Prozessvariablen. Organisationsklima/Belohnung und Persönlichkeit/Wissen sind Input, Leistung/Commitment/Team-Lebendigkeit sind Output."
+    },
+    {
+      "topic": "Wirkmechanismen & Kohäsion",
+      "question": "Welche der folgenden ist ein psychologischer Wirkmechanismus von Teamarbeit?",
+      "options": [
+        "Die Anzahl der betrieblichen Hierarchieebenen",
+        "Die Höhe des monatlichen Grundgehalts",
+        "Die Koordination von Einzelbeiträgen",
+        "Die Rechtsform der beteiligten Organisation"
+      ],
+      "answer": 2,
+      "explanation": "Koordination von Einzelbeiträgen ist ein Wirkmechanismus (neben Kommunikation/Informationsverarbeitung, Motivation, affektiven Prozessen, sozialer Unterstützung, Konfliktumgang). Rechtsform, Gehalt und Hierarchieebenen zählen nicht dazu."
+    },
+    {
+      "topic": "Wirkmechanismen & Kohäsion",
+      "hard": true,
+      "question": "Warum sind Gruppenentscheidungen laut Folie oft suboptimal?",
+      "options": [
+        "Weil Gruppen grundsätzlich über weniger Wissen verfügen als Einzelpersonen",
+        "Weil Kohäsion die Leistung einer Gruppe immer unmittelbar verschlechtert",
+        "Wegen Risikoschub, Verantwortungsdiffusion und ineffizienter Informationsgewichtung",
+        "Weil in Gruppen niemals eine Kommunikation zwischen Mitgliedern stattfindet"
+      ],
+      "answer": 2,
+      "explanation": "Gruppenentscheidungen leiden u. a. an Risikoschub, Verantwortungsdiffusion und ineffizienter Informationsgewichtung. Weniger Wissen, fehlende Kommunikation oder ein pauschal negativer Kohäsionseffekt sind nicht die genannten Gründe."
+    },
+    {
+      "topic": "Wirkmechanismen & Kohäsion",
+      "question": "Was zeigt sich laut Folie beim Brainstorming in Gruppen?",
+      "options": [
+        "Brainstorming ist in Gruppen wenig(er) erfolgreich, „beste Lösungen finden“ ist eher möglich",
+        "Brainstorming ist in Gruppen stets deutlich erfolgreicher als bei einzeln arbeitenden Personen",
+        "Einzelpersonen können praktisch keinerlei Ideen generieren",
+        "Gruppen finden grundsätzlich überhaupt keine brauchbaren Lösungen"
+      ],
+      "answer": 0,
+      "explanation": "Brainstorming ist in Gruppen weniger erfolgreich; das Finden „bester Lösungen“ gelingt dagegen eher. Eine generelle Überlegenheit von Gruppen, völliges Versagen oder unfähige Einzelne treffen nicht zu."
+    },
+    {
+      "topic": "Wirkmechanismen & Kohäsion",
+      "hard": true,
+      "trap": "Eher Leistung → Kohäsion, nicht umgekehrt.",
+      "question": "Wie ist der Zusammenhang von Kohäsion und Leistung laut den Studien zu deuten?",
+      "options": [
+        "Kohäsion wirkt eindeutig und ausschließlich kausal auf die Leistung",
+        "Zwischen Kohäsion und Leistung besteht überhaupt kein Zusammenhang",
+        "Eine hohe Kohäsion senkt die Leistung des Teams immer deutlich ab",
+        "Vermutlich wirkt eher die Leistung auf die Kohäsion als umgekehrt"
+      ],
+      "answer": 3,
+      "explanation": "Längsschnitt- und experimentelle Befunde (Mullen & Copper, 1994; Fullagar & Egleston, 2008) sprechen dafür, dass eher die Leistung auf die Kohäsion wirkt. Eine rein umgekehrte Kausalität, kein Zusammenhang oder ein negativer Effekt treffen nicht zu."
+    },
+    {
+      "topic": "Motivation & soziale Unterstützung",
+      "transfer": true,
+      "question": "Ein sehr fähiges Teammitglied strengt sich mehr an, um schwächere Leistungen anderer auszugleichen, weil ihm die Teamziele wichtig sind. Welche Ursache eines Motivationsgewinns liegt vor?",
+      "options": [
+        "Trittbrettfahren (free riding)",
+        "Soziales Faulenzen (social loafing)",
+        "Sozialer Wettbewerb (social competition)",
+        "Soziale Kompensation (social compensation)"
+      ],
+      "answer": 3,
+      "explanation": "Fähige Mitglieder, die bei wichtigen Zielen schwächere Leistungen ausgleichen, zeigen soziale Kompensation. Sozialer Wettbewerb entsteht bei moderaten Fähigkeitsunterschieden; Faulenzen und Trittbrettfahren sind Motivationsverluste."
+    },
+    {
+      "topic": "Motivation & soziale Unterstützung",
+      "transfer": true,
+      "question": "Ein Teammitglied reduziert seine Anstrengung, weil es glaubt, sein persönlicher Beitrag sei nicht identifizierbar. Welcher Motivationsverlust ist das?",
+      "options": [
+        "Soziale Kompensation (social compensation)",
+        "Soziales Faulenzen (social loafing)",
+        "Gimpel-Effekt (sucker effect)",
+        "Trittbrettfahren (free riding)"
+      ],
+      "answer": 1,
+      "explanation": "Anstrengungsreduktion, weil der eigene Beitrag nicht identifizierbar erscheint, ist soziales Faulenzen. Beim Trittbrettfahren erscheint der Beitrag unwichtig, beim Gimpel-Effekt geht es um Ausbeutungsschutz; Kompensation ist ein Gewinn."
+    },
+    {
+      "topic": "Motivation & soziale Unterstützung",
+      "transfer": true,
+      "trap": "Gimpel-Effekt = Reduktion bei Ungleichheit, um nicht ausgebeutet zu werden.",
+      "question": "Ein Teammitglied reduziert seine Anstrengung bei ungleichen Beiträgen, um sich nicht ausbeuten zu lassen. Welcher Effekt ist das?",
+      "options": [
+        "Der soziale Wettbewerb (social competition)",
+        "Das soziale Faulenzen (social loafing)",
+        "Der Gimpel-Effekt (sucker effect)",
+        "Das Trittbrettfahren (free riding)"
+      ],
+      "answer": 2,
+      "explanation": "Die Reduktion bei ungleichen Beiträgen, um nicht ausgenutzt zu werden, ist der Gimpel-Effekt. Faulenzen (Beitrag nicht identifizierbar) und Trittbrettfahren (Beitrag unwichtig) haben andere Ursachen; Wettbewerb ist ein Gewinn."
+    },
+    {
+      "topic": "Motivation & soziale Unterstützung",
+      "hard": true,
+      "question": "Wodurch unterscheiden sich Trittbrettfahren und soziales Faulenzen?",
+      "options": [
+        "Beim Trittbrettfahren erscheint der eigene Beitrag unwichtig, beim Faulenzen nicht identifizierbar",
+        "Beide treten ausschließlich bei sehr hoher Fähigkeitsgleichheit auf",
+        "Beide beschreiben eine deutliche Steigerung der Anstrengung im Team",
+        "Beim Trittbrettfahren ist der eigene Beitrag nicht identifizierbar, beim Faulenzen dagegen unwichtig"
+      ],
+      "answer": 0,
+      "explanation": "Trittbrettfahren: der eigene Beitrag erscheint für das Ergebnis unwichtig; soziales Faulenzen: der Beitrag erscheint nicht identifizierbar. Die umgekehrte Zuordnung, eine Anstrengungssteigerung oder die Gleichheitsbedingung treffen nicht zu."
+    },
+    {
+      "topic": "Motivation & soziale Unterstützung",
+      "question": "Was meint die informationsbezogene soziale Unterstützung?",
+      "options": [
+        "Die Würdigung des Verhaltens und der Ergebnisse (Anerkennung)",
+        "Das Bereitstellen von Informationen und Ratschlägen",
+        "Sozialer Zuspruch wie Vertrauen, Sympathie und Ermunterung",
+        "Konkrete Hilfeleistungen bei der Aufgabenbearbeitung"
+      ],
+      "answer": 1,
+      "explanation": "Informationsbezogene Unterstützung meint Informationen und Ratschläge. Würdigung ist soziale Anerkennung, Zuspruch ist affektive Unterstützung, Hilfeleistungen sind verhaltens-/aufgabenbezogene Unterstützung."
+    },
+    {
+      "topic": "Diversität & Faultlines",
+      "question": "Was versteht man laut Folie unter „Faultlines“ in Teams?",
+      "options": [
+        "Die formale Hierarchie zwischen der jeweiligen Führungskraft und den einzelnen Mitgliedern",
+        "Die räumliche Distanz zwischen virtuellen Teammitgliedern",
+        "Hypothetische Trennlinien, die ein Team anhand mehrerer Attribute in Subgruppen teilen",
+        "Die Gesamtzahl der Konflikte auf der Beziehungsebene des Teams"
+      ],
+      "answer": 2,
+      "explanation": "Faultlines sind hypothetische Trennlinien, die ein Team anhand der Verteilung mehrerer Attribute in Subgruppen aufteilen. Hierarchie, Konfliktzahl und räumliche Distanz sind nicht gemeint."
+    },
+    {
+      "topic": "Diversität & Faultlines",
+      "hard": true,
+      "question": "Was beschreiben Stärke und Breite von Faultlines?",
+      "options": [
+        "Die Stärke die Ähnlichkeit innerhalb der Subgruppen, die Breite die Distanz zwischen ihnen",
+        "Die Stärke die Distanz zwischen den Subgruppen, die Breite die Ähnlichkeit innerhalb",
+        "Die Stärke die Kohäsion, die Breite die allgemeine Zufriedenheit des Teams",
+        "Die Stärke die Teamgröße, die Breite die Anzahl der Führungskräfte"
+      ],
+      "answer": 0,
+      "explanation": "Stärke meint die Ähnlichkeit innerhalb der Subgruppen, Breite die Distanz zwischen den Subgruppen. Die umgekehrte Zuordnung oder ein Bezug auf Teamgröße bzw. Kohäsion ist falsch."
+    },
+    {
+      "topic": "Diversität & Faultlines",
+      "transfer": true,
+      "question": "In einem Team fallen Alter und Abteilung zusammen, sodass sich zwei klar getrennte, in sich sehr ähnliche Untergruppen bilden. Womit ist laut Faultline-Ansatz zu rechnen?",
+      "options": [
+        "Mit negativen Effekten auf Teamergebnisse (Identifikation mit der Subgruppe statt dem Team)",
+        "Mit einer garantierten Steigerung der Profitabilität des Teams",
+        "Mit einem vollständigen Wegfall jeder Subgruppenbildung im Team",
+        "Mit durchweg positiven und stabilen Effekten auf die Leistung und die Kohäsion des gesamten Teams"
+      ],
+      "answer": 0,
+      "explanation": "Starke, sich überlagernde Attribute bilden ausgeprägte Faultlines; nach Theorien der sozialen Identität wirken sie negativ (Identifikation mit der homogenen Subgruppe statt dem Team). Positive Effekte, garantierte Profitabilität oder ausbleibende Subgruppen widersprechen dem."
+    },
+    {
+      "topic": "Entwicklungsphasen & Teamentwicklung",
+      "question": "Welche Reihenfolge beschreibt die Teamphasen nach Tuckman (1965)?",
+      "options": [
+        "Forming, Norming, Storming, Adjourning, Performing",
+        "Norming, Forming, Storming, Adjourning, Performing",
+        "Storming, Forming, Performing, Norming, Adjourning",
+        "Forming, Storming, Norming, Performing, Adjourning"
+      ],
+      "answer": 3,
+      "explanation": "Die Phasen nach Tuckman sind Forming, Storming, Norming, Performing und Adjourning. Die anderen Reihenfolgen vertauschen die Phasen."
+    },
+    {
+      "topic": "Entwicklungsphasen & Teamentwicklung",
+      "transfer": true,
+      "question": "In einem neuen Team stecken die Mitglieder über Aufgaben- und Rollenkonflikte ihr Revier ab. Welche Tuckman-Phase ist das?",
+      "options": [
+        "Performing",
+        "Norming",
+        "Storming",
+        "Forming"
+      ],
+      "answer": 2,
+      "explanation": "Das Abstecken des Reviers über Aufgaben- und Rollenkonflikte kennzeichnet die Storming-Phase. Forming ist das Kennenlernen, Norming die Regelfestlegung, Performing die eigentliche Arbeitsphase."
+    },
+    {
+      "topic": "Entwicklungsphasen & Teamentwicklung",
+      "question": "Was kennzeichnet Teamentwicklungsmaßnahmen laut Folie?",
+      "options": [
+        "Die rein technische Ausstattung des einzelnen Arbeitsplatzes",
+        "Teambezogene Interventionen in einem bereits bestehenden Team zur Prozessoptimierung",
+        "Die eignungsdiagnostische Auswahl neuer Bewerber für eine offene Stelle im Unternehmen",
+        "Die Festlegung des Grundgehalts einzelner Mitarbeitender"
+      ],
+      "answer": 1,
+      "explanation": "Teamentwicklung sind teambezogene Interventionen in einem bestehenden Team, die soziale und aufgabenbezogene Prozesse optimieren. Personalauswahl, Gehaltsfestlegung und technische Ausstattung sind keine Teamentwicklung."
+    },
+    {
+      "topic": "Entwicklungsphasen & Teamentwicklung",
+      "hard": true,
+      "question": "Welche Reihenfolge haben die Schritte im Teamentwicklungsprozess?",
+      "options": [
+        "Durchführung, Evaluation, Diagnose, Planung und Kontakt",
+        "Planung, Kontakt, Durchführung, Diagnose und Evaluation",
+        "Kontakt-, Diagnose-, Planungs-, Durchführungsphase und Evaluation",
+        "Diagnose-, Kontakt-, Evaluations-, Planungs- und Durchführungsphase"
+      ],
+      "answer": 2,
+      "explanation": "Die Schritte sind Kontaktphase, Diagnosephase, Planungsphase, Durchführungsphase und Evaluation. Die anderen Reihenfolgen sind vertauscht."
+    },
+    {
+      "topic": "Teamdiagnose & Ansätze",
+      "hard": true,
+      "question": "Wodurch unterscheiden sich prozess- und strukturanalytische Verfahren der Teamdiagnose?",
+      "options": [
+        "Beide erfassen ausschließlich die subjektive Wahrnehmung der Mitglieder",
+        "Beide beruhen allein auf objektiven Leistungskennzahlen der Organisation",
+        "Prozessanalytisch beruht auf Beobachtung, strukturanalytisch auf Fragebögen",
+        "Prozessanalytisch beruht auf Fragebögen, strukturanalytisch auf Beobachtung"
+      ],
+      "answer": 2,
+      "explanation": "Prozessanalytische Verfahren nutzen Verhaltensbeobachtung (objektive Realität), strukturanalytische Fragebögen (subjektive Wahrnehmung). Die umgekehrte Zuordnung oder eine einheitliche Datenquelle treffen nicht zu."
+    },
+    {
+      "topic": "Teamdiagnose & Ansätze",
+      "transfer": true,
+      "question": "Ein Berater analysiert eine Teambesprechung per Verhaltensbeobachtung und Kodierung, um Mikroprozesse detailliert abzubilden. Welches Verfahren ist das?",
+      "options": [
+        "Ein prozessanalytisches Verfahren",
+        "Eine reine Fragebogenerhebung",
+        "Ein strukturanalytisches Verfahren",
+        "Eine klassische Survey-Feedback-Methode"
+      ],
+      "answer": 0,
+      "explanation": "Verhaltensbeobachtung mit Kodierung zur Abbildung von Mikroprozessen ist ein prozessanalytisches Verfahren. Strukturanalytische Verfahren und Survey-Feedback beruhen auf Fragebögen und liefern kein Mikroprozessbild."
+    },
+    {
+      "topic": "Teamdiagnose & Ansätze",
+      "trap": "Outdoor-Training: Wir-Gefühl ja, Transfer umstritten.",
+      "question": "Was gilt laut Folie für Outdoor-Trainings zur Teambildung?",
+      "options": [
+        "Sie bearbeiten gezielt echte betriebliche Vorfälle des Teams",
+        "Sie fördern das Wir-Gefühl, ihr Transfer in den Alltag ist aber umstritten",
+        "Sie ersetzen jede Form klassischer Teamentwicklung vollständig",
+        "Ihre Wirksamkeit ist umfassend evaluiert und eindeutig belegt"
+      ],
+      "answer": 1,
+      "explanation": "Outdoor-Trainings fördern Kohäsion und Wir-Gefühl, bearbeiten aber keine echten betrieblichen Vorfälle; ihr Transfer ist umstritten und die Evaluation steht aus. Sie ersetzen die klassische Teamentwicklung nicht."
+    },
+    {
+      "topic": "Teamdiagnose & Ansätze",
+      "transfer": true,
+      "question": "Ein OP-Team mit hoher Verantwortung für Menschenleben soll trainiert werden; klassische Teamentwicklung mit Rollen und Spielregeln kommt nicht infrage. Welches Training ist vorgesehen?",
+      "options": [
+        "Ein Qualitätszirkel der unteren Hierarchieebene",
+        "Ein klassisches Outdoor-Teambuilding",
+        "Eine teilautonome Arbeitsgruppe",
+        "Ein Crew-Resource-Management-Training"
+      ],
+      "answer": 3,
+      "explanation": "Für High Responsibility Teams ist das Crew-Resource-Management-Training vorgesehen (Standardisierung von Abläufen und Kommunikation, Fehlervermeidung). Outdoor-Training, Qualitätszirkel und teilautonome Gruppen passen dafür nicht."
+    },
+    {
+      "topic": "Gruppenarbeitsformen",
+      "question": "Was kennzeichnet einen Qualitätszirkel?",
+      "options": [
+        "Von der Geschäftsführung verpflichtend angeordnete Expertenrunden der Fachabteilungen",
+        "Kleine Gruppen unterer Hierarchieebene, die freiwillig selbstgewählte Arbeitsprobleme lösen",
+        "Externe Beratungsteams ganz ohne jeden Bezug zum eigenen Arbeitsplatz",
+        "Dauerhafte funktionale Einheiten mit voller Ergebnisverantwortung für ein Produkt"
+      ],
+      "answer": 1,
+      "explanation": "Qualitätszirkel sind kleine, freiwillige Gruppen der unteren Hierarchieebene, die selbstgewählte Probleme aus ihrem Arbeitsbereich lösen. Verpflichtende Expertenrunden, dauerhafte Ergebniseinheiten (teilautonome Gruppen) oder externe Berater sind etwas anderes."
+    },
+    {
+      "topic": "Gruppenarbeitsformen",
+      "hard": true,
+      "question": "Welche Konzepte vereint die teilautonome Arbeitsgruppe?",
+      "options": [
+        "Nur die reine Ausführung ohne jede Planungs- und Kontrollaufgabe",
+        "Job Enlargement, Job Enrichment und Job Rotation",
+        "Die vollständige Auflösung jeder festen Gruppenstruktur",
+        "Ausschließlich Job Rotation zwischen völlig identischen Aufgaben"
+      ],
+      "answer": 1,
+      "explanation": "Teilautonome Arbeitsgruppen vereinen Arbeitserweiterung (Job Enlargement), Arbeitsbereicherung (Job Enrichment) und Aufgabenwechsel (Job Rotation) und übernehmen auch Planungs-/Kontrollaufgaben. Reine Rotation, bloße Ausführung oder Strukturauflösung treffen nicht zu."
+    },
+    {
+      "topic": "Gruppenarbeitsformen",
+      "question": "Was zeigen die empirischen Befunde zu Qualitätszirkeln und Gruppenarbeit?",
+      "options": [
+        "Kleine, aber positive Effekte auf Produktivität und Zufriedenheit",
+        "Gar keine messbaren Effekte auf Leistung oder Einstellungen",
+        "Ausschließlich Effekte im öffentlichen, nie im privaten Sektor",
+        "Sehr große, durchweg negative Effekte auf die Produktivität"
+      ],
+      "answer": 0,
+      "explanation": "Die Befunde zeigen kleine, aber positive Effekte auf Produktivität und Zufriedenheit (z. B. d ≈ .19). Große negative Effekte, ein völliges Ausbleiben oder eine Beschränkung auf den öffentlichen Sektor (Moderator: privat > öffentlich) treffen nicht zu."
+    }
+  ]
+}
