@@ -1,0 +1,96 @@
+{
+  "id": "diagnostik-lt-profil-urteilsbildung",
+  "type": "lueckentext",
+  "title": "Psychologische Diagnostik · Profilinterpretation & Urteilsbildung (Lückentext)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Lückentext zur Profilinterpretation (Profilhöhe, -streuung, -gestalt) und zur diagnostischen Urteilsbildung (klinisch vs. statistisch) (Sitzung 12). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen.",
+  "wordbank": [
+    "Availability",
+    "Basisrate",
+    "Bonferroni",
+    "Goldberg",
+    "klinisch",
+    "mechanisch",
+    "Profil",
+    "Profilbreite",
+    "Profilgestalt",
+    "Profilhöhe",
+    "Profilreliabilität",
+    "Profilstreuung",
+    "Scheinprofil",
+    "signifikant",
+    "statistisch",
+    "unterlegen",
+    "Urteil",
+    "überlegen"
+  ],
+  "items": [
+    {
+      "text": "Ein {{gap}} ist die graphische Darstellung standardisierter Skalenwerte eines multidimensionalen Inventars.",
+      "answer": "Profil"
+    },
+    {
+      "text": "Die {{gap}} gibt an, wie zuverlässig die Unterschiede innerhalb eines Profils sind.",
+      "answer": "Profilreliabilität"
+    },
+    {
+      "text": "Der Mittelwert über alle Profilpunkte einer Person ist die {{gap}}.",
+      "answer": "Profilhöhe"
+    },
+    {
+      "text": "Ob die Streuung in einem Profil echt ist oder nur auf Messfehler beruht, prüft die Analyse der {{gap}}.",
+      "answer": "Profilstreuung"
+    },
+    {
+      "text": "Ist die Profilstreuung nicht überzufällig, liegt ein {{gap}} vor, das nicht weiter analysiert wird.",
+      "answer": "Scheinprofil"
+    },
+    {
+      "text": "Ob es signifikante Stärken oder Schwächen zwischen einzelnen Profilpunkten gibt, klärt die Analyse der {{gap}}.",
+      "answer": "Profilgestalt"
+    },
+    {
+      "text": "Bei vielen paarweisen Profilvergleichen begegnet man dem Fehler 1. Art mit der {{gap}}-Korrektur.",
+      "answer": "Bonferroni"
+    },
+    {
+      "text": "Ein diagnostisches {{gap}} ist die Beantwortung einer Fragestellung anhand der vorliegenden diagnostischen Informationen.",
+      "answer": "Urteil"
+    },
+    {
+      "text": "Beruht das Urteil auf subjektiven, intuitiven und informellen Einschätzungen, ist es {{gap}}.",
+      "answer": "klinisch"
+    },
+    {
+      "text": "Beruht das Urteil dagegen auf festen Regeln, Formeln und Algorithmen aus empirischen Daten, ist es {{gap}}.",
+      "answer": "statistisch"
+    },
+    {
+      "text": "Ein bekanntes Beispiel mechanischer Urteilsbildung ist der {{gap}}-Index (feste Verrechnung mehrerer MMPI-Skalen).",
+      "answer": "Goldberg"
+    },
+    {
+      "text": "Empirische Befunde zeigen: Die statistische Urteilsbildung ist der klinischen tendenziell {{gap}} (wenn auch nur gering).",
+      "answer": "überlegen"
+    },
+    {
+      "text": "Ein typischer Fehler klinischer Urteile ist das Ignorieren der {{gap}} in der Population.",
+      "answer": "Basisrate"
+    },
+    {
+      "text": "Zwei Subskalen unterscheiden sich empirisch stärker als die kritische Differenz; im Rahmen der Profilgestalt gilt der Unterschied damit als {{gap}}.",
+      "answer": "signifikant",
+      "transfer": true
+    },
+    {
+      "text": "Weil klinische Urteile leicht verfügbare Informationen übergewichten, wirkt bei ihnen häufig die {{gap}}-Heuristik.",
+      "answer": "Availability",
+      "transfer": true
+    },
+    {
+      "text": "Eine Schulpsychologin entscheidet allein aufgrund ihrer Berufserfahrung und ihres Gesamteindrucks über eine Förderung. Ihre Urteilsbildung ist {{gap}}.",
+      "answer": "klinisch",
+      "transfer": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "diagnostik-lt-guetekriterien-zusammenspiel",
+  "type": "lueckentext",
+  "title": "Psychologische Diagnostik · Zusammenspiel der Gütekriterien (Lückentext)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Lückentext zu Wechselbeziehungen der Gütekriterien: Normen & Fairness, Hierarchie der Hauptgütekriterien und Einflussfaktoren auf die Validität (Sitzung 8). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen.",
+  "wordbank": [
+    "Asymmetrie",
+    "erhöhen",
+    "Fairness",
+    "gemeinsame Methodenvarianz",
+    "Hochrechnung",
+    "höher",
+    "Konfundierung",
+    "Minderungskorrektur",
+    "Mittelwertunterschiede",
+    "niedriger",
+    "Objektivität",
+    "Reliabilität",
+    "Standardisierung",
+    "Symmetrie",
+    "Validität",
+    "Varianzeinschränkung",
+    "verringern",
+    "Zulänglichkeit"
+  ],
+  "items": [
+    {
+      "text": "Gruppenspezifische Normen bieten sich an, wenn es zwischen Gruppen (z. B. nach Alter oder Geschlecht) {{gap}} im Test gibt.",
+      "answer": "Mittelwertunterschiede"
+    },
+    {
+      "text": "Gruppenspezifische Normen erhöhen die {{gap}}, wenn der Gruppenunterschied nur im Test, nicht aber im Kriterium besteht.",
+      "answer": "Fairness"
+    },
+    {
+      "text": "Spiegeln sich die Gruppenunterschiede in Test UND Kriterium gleichermaßen wider, {{gap}} gruppenspezifische Normen die Fairness.",
+      "answer": "verringern"
+    },
+    {
+      "text": "In der Hierarchie der Hauptgütekriterien ist die {{gap}} die Voraussetzung für die Reliabilität, diese wiederum für die Validität.",
+      "answer": "Objektivität"
+    },
+    {
+      "text": "Die Kriteriumsvalidität kann rechnerisch nicht {{gap}} ausfallen als die Reliabilität eines Tests.",
+      "answer": "höher"
+    },
+    {
+      "text": "Die inhaltliche Überlappung bzw. Gemeinsamkeit eines Tests mit dem Kriterium bezeichnet man als {{gap}}.",
+      "answer": "Zulänglichkeit"
+    },
+    {
+      "text": "Die {{gap}} schätzt, wie hoch die Korrelation von Test und Kriterium bei perfekter Reliabilität wäre.",
+      "answer": "Minderungskorrektur"
+    },
+    {
+      "text": "Die Minderungskorrektur macht einen Test nicht prädiktiver; sie ist nur eine {{gap}}, nicht die reale Validität.",
+      "answer": "Hochrechnung"
+    },
+    {
+      "text": "Werden Test und Kriterium mit derselben Methode (z. B. beide per Selbsteinschätzung) erfasst, entsteht {{gap}}, die die Validität überschätzt.",
+      "answer": "gemeinsame Methodenvarianz"
+    },
+    {
+      "text": "Liegen Test und Kriterium auf demselben Generalisierungsniveau, liegt {{gap}} vor (erwünscht).",
+      "answer": "Symmetrie"
+    },
+    {
+      "text": "Ist das Kriterium deutlich enger oder breiter als der Test, entsteht {{gap}} (nicht erwünscht).",
+      "answer": "Asymmetrie"
+    },
+    {
+      "text": "Erfasst ein Depressionsfragebogen zusätzlich komorbide Angst und das Kriterium ebenfalls, erhöht diese {{gap}} den Zusammenhang unerwünscht.",
+      "answer": "Konfundierung"
+    },
+    {
+      "text": "Wird ein Test nur in einer sehr homogenen Gruppe validiert, mindert die {{gap}} den beobachteten Validitätskoeffizienten.",
+      "answer": "Varianzeinschränkung"
+    },
+    {
+      "text": "Zwei Selbstbeurteilungs-Fragebögen (Test und Kriterium) korrelieren auffällig hoch, obwohl sie verschiedene Merkmale messen sollen. Verdächtig ist eine {{gap}}.",
+      "answer": "gemeinsame Methodenvarianz",
+      "transfer": true
+    },
+    {
+      "text": "Ein Eignungstest wird nur an bereits ausgewählten, leistungshomogenen Mitarbeitenden validiert; die Korrelation fällt zu niedrig aus. Ursache ist eine {{gap}}.",
+      "answer": "Varianzeinschränkung",
+      "transfer": true
+    },
+    {
+      "text": "Ein Auswahltest zeigt einen Geschlechterunterschied, den es im späteren Berufserfolg nicht gibt. Gruppenspezifische Normen würden hier die {{gap}} erhöhen.",
+      "answer": "Fairness",
+      "transfer": true
+    }
+  ]
+}

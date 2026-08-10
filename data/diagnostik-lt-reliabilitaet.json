@@ -1,0 +1,98 @@
+{
+  "id": "diagnostik-lt-reliabilitaet",
+  "type": "lueckentext",
+  "title": "Psychologische Diagnostik · Reliabilität (Lückentext)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Lückentext zur Reliabilität: Klassische Testtheorie, Reliabilitätsarten (Retest, Paralleltest, Testhalbierung, interne Konsistenz) und Steigerung (Sitzung 5). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen.",
+  "wordbank": [
+    "Cronbachs Alpha",
+    "interne Konsistenz",
+    "Itemzahl",
+    "latente",
+    "manifeste",
+    "Messfehler",
+    "Objektivität",
+    "Omega",
+    "Paralleltestreliabilität",
+    "Reliabilität",
+    "Retest-Reliabilität",
+    "Spearman-Brown",
+    "Stabilität",
+    "Standardmessfehler",
+    "Testhalbierungsreliabilität",
+    "Testverlängerung",
+    "Trennschärfe",
+    "Validität",
+    "wahren"
+  ],
+  "items": [
+    {
+      "text": "Die {{gap}} bezeichnet die Zuverlässigkeit bzw. Messgenauigkeit, mit der ein Test ein Merkmal erfasst.",
+      "answer": "Reliabilität"
+    },
+    {
+      "text": "Nach der Klassischen Testtheorie setzt sich jeder beobachtete Wert aus dem wahren Wert und dem {{gap}} zusammen (X = T + E).",
+      "answer": "Messfehler"
+    },
+    {
+      "text": "Nicht direkt beobachtbare Merkmale (Konstrukte), die dem Verhalten zugrunde liegen, sind {{gap}} Variablen.",
+      "answer": "latente"
+    },
+    {
+      "text": "Beobachtbare Größen wie Itemantworten oder Alltagsverhalten sind dagegen {{gap}} Variablen.",
+      "answer": "manifeste"
+    },
+    {
+      "text": "Reliabilität ist definiert als Anteil der Varianz der {{gap}} Werte an der Varianz der beobachteten Werte.",
+      "answer": "wahren"
+    },
+    {
+      "text": "Wird derselbe Test derselben Stichprobe wiederholt vorgegeben und werden beide Messungen korreliert, erhält man die {{gap}}.",
+      "answer": "Retest-Reliabilität"
+    },
+    {
+      "text": "Die Retest-Reliabilität wird von der {{gap}} des Merkmals mitbestimmt – bei einem State fällt sie geringer aus als bei einem Trait.",
+      "answer": "Stabilität"
+    },
+    {
+      "text": "Werden zwei inhaltlich äquivalente (nicht identische) Testversionen vorgegeben und korreliert, spricht man von der {{gap}}.",
+      "answer": "Paralleltestreliabilität"
+    },
+    {
+      "text": "Wird ein Test nach der Durchführung in zwei äquivalente Hälften geteilt und werden diese korreliert, ergibt sich die {{gap}}.",
+      "answer": "Testhalbierungsreliabilität"
+    },
+    {
+      "text": "Weil die Halbierung die Itemzahl reduziert und die Reliabilität dadurch unterschätzt, korrigiert man mit der {{gap}}-Formel.",
+      "answer": "Spearman-Brown"
+    },
+    {
+      "text": "Zerlegt man einen Test in so viele Teile, wie er Items hat, misst man seine {{gap}}.",
+      "answer": "interne Konsistenz"
+    },
+    {
+      "text": "Der bekannteste Koeffizient der internen Konsistenz – der Mittelwert aller möglichen Testhalbierungen – ist {{gap}}.",
+      "answer": "Cronbachs Alpha"
+    },
+    {
+      "text": "Unter der Voraussetzung, dass die Teile dasselbe Merkmal messen, lässt sich die Reliabilität durch {{gap}} (mehr gleichwertige Items) steigern.",
+      "answer": "Testverlängerung"
+    },
+    {
+      "text": "Ein Stimmungsfragebogen (State) zeigt über ein langes Intervall eine niedrige Wiederholungskorrelation; erwartungsgemäß leidet die {{gap}} unter der geringen Merkmalsstabilität.",
+      "answer": "Retest-Reliabilität",
+      "transfer": true
+    },
+    {
+      "text": "Ein sehr langer Test mit vielen, nur schwach zusammenhängenden Items weist dennoch ein hohes Alpha auf – Alpha steigt schlicht mit der {{gap}}.",
+      "answer": "Itemzahl",
+      "transfer": true,
+      "hint": "Deshalb ist ein hohes Alpha allein kein Beleg für Homogenität."
+    },
+    {
+      "text": "Ein Test misst sehr zuverlässig, womöglich aber das falsche Merkmal. Ob er wirklich das Intendierte misst, ist keine Frage der Reliabilität, sondern der {{gap}}.",
+      "answer": "Validität",
+      "transfer": true
+    }
+  ]
+}

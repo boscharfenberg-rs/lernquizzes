@@ -1,0 +1,102 @@
+{
+  "id": "diagnostik-lt-prozess-guetekriterien",
+  "type": "lueckentext",
+  "title": "Psychologische Diagnostik · Diagnostischer Prozess & Gütekriterien (Lückentext)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Lückentext zum diagnostischen Prozess, zu Test/Teststandards und zu den Haupt- und Nebengütekriterien inkl. Objektivitätsarten (Sitzung 3–4). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen.",
+  "wordbank": [
+    "Auswahl",
+    "Auswertungsobjektivität",
+    "Durchführungsobjektivität",
+    "fair",
+    "globale Fragestellung",
+    "Integration",
+    "Interpretationsobjektivität",
+    "Neutralität",
+    "Normierung",
+    "nützlich",
+    "Oberbegriff",
+    "objektiv",
+    "psychologische Fragen",
+    "reliabel",
+    "Reliabilität",
+    "Sachkunde",
+    "Skalierung",
+    "Teststandards",
+    "unverfälschbar",
+    "valide",
+    "Validität",
+    "zumutbar",
+    "ökonomisch"
+  ],
+  "items": [
+    {
+      "text": "Der erste Schritt des diagnostischen Prozesses, in dem der Auftrag präzisiert, modifiziert, angenommen oder abgelehnt wird, ist die {{gap}}.",
+      "answer": "globale Fragestellung"
+    },
+    {
+      "text": "Aus der globalen Fragestellung werden konkret durch Verfahren erörterbare {{gap}} abgeleitet (mindestens zwei je Fragestellung).",
+      "answer": "psychologische Fragen"
+    },
+    {
+      "text": "Der letzte Schritt des Prozesses, in dem die Einzelergebnisse zu einem Urteil zusammengeführt werden, ist die {{gap}} der Ergebnisse.",
+      "answer": "Integration"
+    },
+    {
+      "text": "In der Diagnostik dient „Test“ in der weiten Bedeutung als {{gap}} für praktisch alle psychologisch-diagnostischen Verfahren.",
+      "answer": "Oberbegriff"
+    },
+    {
+      "text": "Vereinheitlichte Leitlinien zu Konstruktion, Adaptation, Anwendung und Qualitätsbeurteilung von Tests sind die {{gap}}.",
+      "answer": "Teststandards"
+    },
+    {
+      "text": "Ein Test ist {{gap}}, wenn seine Ergebnisse unabhängig davon zustande kommen, wer die Untersuchung durchführt, auswertet und interpretiert.",
+      "answer": "objektiv"
+    },
+    {
+      "text": "Die {{gap}} beschreibt die Genauigkeit bzw. Zuverlässigkeit einer Messung – unabhängig davon, ob auch das intendierte Merkmal erfasst wird.",
+      "answer": "Reliabilität"
+    },
+    {
+      "text": "Die {{gap}} ist die Übereinstimmung der Testergebnisse mit dem, was der Test zu messen vorgibt (Gültigkeit).",
+      "answer": "Validität"
+    },
+    {
+      "text": "Die {{gap}} liefert ein Bezugssystem, um individuelle Testwerte im Vergleich zu einer meist repräsentativen Stichprobe einzuordnen.",
+      "answer": "Normierung"
+    },
+    {
+      "text": "Ein Test ist {{gap}}, wenn er die Person im Verhältnis zum Nutzen zeitlich, psychisch und körperlich nicht über Gebühr belastet.",
+      "answer": "zumutbar"
+    },
+    {
+      "text": "Ein Test ist {{gap}}, wenn die Person ihre Testwerte nicht durch gezieltes Testverhalten steuern oder verzerren kann.",
+      "answer": "unverfälschbar"
+    },
+    {
+      "text": "Ein Test ist {{gap}}, wenn er bestimmte Personengruppen (z. B. sprachlich benachteiligte) nicht systematisch benachteiligt.",
+      "answer": "fair"
+    },
+    {
+      "text": "Wird ein Verfahren stets auf die gleiche Weise vorgegeben (Material, Instruktion, Zeitvorgaben), sichert das die {{gap}}.",
+      "answer": "Durchführungsobjektivität"
+    },
+    {
+      "text": "Zwei Auswertende werten dasselbe Testprotokoll nach identischen Regeln aus und kommen zum selben Rohwert. Damit ist die {{gap}} erfüllt.",
+      "answer": "Auswertungsobjektivität",
+      "transfer": true
+    },
+    {
+      "text": "Zwei Fachpersonen übersetzen denselben Rohwert mithilfe der Normtabelle in exakt dieselbe Aussage über die Person. Das betrifft die {{gap}}.",
+      "answer": "Interpretationsobjektivität",
+      "transfer": true
+    },
+    {
+      "text": "Eine Praxis lehnt einen Gutachtenauftrag ab, weil ihr das nötige Spezialwissen fehlt. Der Ablehnungsgrund ist die fehlende {{gap}}.",
+      "answer": "Sachkunde",
+      "transfer": true,
+      "hint": "eigene Fachkompetenz zum Thema"
+    }
+  ]
+}

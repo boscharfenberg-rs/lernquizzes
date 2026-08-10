@@ -1,0 +1,98 @@
+{
+  "id": "diagnostik-lt-einzelfalldiagnostik",
+  "type": "lueckentext",
+  "title": "Psychologische Diagnostik · Einzelfalldiagnostik (Lückentext)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Lückentext zur psychometrischen Einzelfalldiagnostik: Standardmessfehler, Konfidenzintervall und kritische Differenz (Sitzung 11). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen.",
+  "wordbank": [
+    "Annäherung",
+    "breiter",
+    "Einzelfall",
+    "größer",
+    "kleiner",
+    "Konfidenzintervall",
+    "kritische Differenz",
+    "Messfehler",
+    "normierten",
+    "Objektivität",
+    "psychometrische Einzelfalldiagnostik",
+    "Referenzgruppe",
+    "Reliabilität",
+    "Rohwerten",
+    "schmaler",
+    "Standardmessfehler",
+    "unsicher",
+    "wahren",
+    "zufällig",
+    "überzufällig"
+  ],
+  "items": [
+    {
+      "text": "Die {{gap}} beurteilt individuelle Testbefunde zufallskritisch auf Basis der Testtheorie.",
+      "answer": "psychometrische Einzelfalldiagnostik"
+    },
+    {
+      "text": "Nach dem 1. Axiom der KTT setzt sich der beobachtete Wert aus dem wahren Wert und dem {{gap}} zusammen.",
+      "answer": "Messfehler"
+    },
+    {
+      "text": "Ein Verfahren ist nie perfekt zuverlässig; der Testwert ist daher nur eine {{gap}} an den wahren Wert.",
+      "answer": "Annäherung"
+    },
+    {
+      "text": "Der {{gap}} gibt an, wie stark die Messfehler um den wahren Wert einer Person streuen.",
+      "answer": "Standardmessfehler"
+    },
+    {
+      "text": "Der Standardmessfehler fällt umso kleiner aus, je höher die {{gap}} des Tests ist.",
+      "answer": "Reliabilität"
+    },
+    {
+      "text": "Das {{gap}} gibt den Bereich an, in dem der wahre Wert mit einer bestimmten Sicherheit liegt.",
+      "answer": "Konfidenzintervall"
+    },
+    {
+      "text": "Je geringer die Reliabilität, desto {{gap}} wird das Konfidenzintervall.",
+      "answer": "breiter"
+    },
+    {
+      "text": "Der aus einer Gruppe geschätzte Messfehler wird laut Annahme der Einzelfalldiagnostik auf den {{gap}} übertragen.",
+      "answer": "Einzelfall"
+    },
+    {
+      "text": "Ob der Unterschied zweier Testwerte überzufällig ist, prüft die {{gap}}.",
+      "answer": "kritische Differenz"
+    },
+    {
+      "text": "Ein Unterschied gilt als überzufällig, wenn die empirische Differenz {{gap}} als die kritische Differenz ist.",
+      "answer": "größer"
+    },
+    {
+      "text": "Die kritische Differenz muss mit {{gap}} Testwerten berechnet werden, weil dann die Streuung der Werte bekannt ist.",
+      "answer": "normierten"
+    },
+    {
+      "text": "Bei der Mitteilung eines Testergebnisses wird die Ausprägung sprachlich eingeordnet und die {{gap}} genannt, auf die sich der Vergleich bezieht.",
+      "answer": "Referenzgruppe"
+    },
+    {
+      "text": "Das Konfidenzintervall wird um den beobachteten Wert gelegt und schätzt den Bereich des {{gap}} Wertes.",
+      "answer": "wahren"
+    },
+    {
+      "text": "Ein Beratungsstellen-Test hat eine eher niedrige Reliabilität; das Konfidenzintervall ist breit, der Einzelwert also {{gap}} zu interpretieren.",
+      "answer": "unsicher",
+      "transfer": true
+    },
+    {
+      "text": "In einem multidimensionalen Intelligenztest unterscheiden sich zwei Subtestwerte um mehr als die kritische Differenz. Der Unterschied ist damit {{gap}}.",
+      "answer": "überzufällig",
+      "transfer": true
+    },
+    {
+      "text": "Zwei Bewerber erzielen unterschiedliche Testwerte; um zu prüfen, ob der Unterschied bedeutsam ist, berechnet man die {{gap}} zwischen Personen.",
+      "answer": "kritische Differenz",
+      "transfer": true
+    }
+  ]
+}

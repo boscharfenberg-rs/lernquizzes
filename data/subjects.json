@@ -177,6 +177,78 @@
       "title": "Diagnostische Entscheidungen & Modelle (Lückentext)",
       "subject": "Psychologische Diagnostik",
       "description": "Lückentext: Arten diagnostischer Entscheidungen (Selektion/Platzierung, terminal/investigatorisch u. a.) und Entscheidungsmodelle (kompensatorisch, konjunktiv, disjunktiv). 16 Lücken mit Wortbank."
+    },
+    {
+      "id": "diagnostik-lt-beobachten",
+      "file": "diagnostik-lt-beobachten.json",
+      "type": "lueckentext",
+      "title": "Beobachten & weitere Methoden (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zur Verhaltensbeobachtung (Dimensionen, Techniken, Fehlerquellen) und weiteren Methoden (implizite Maße, objektive & projektive Verfahren, psychophysiologische Methoden) (Sitzung 10). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-einzelfalldiagnostik",
+      "file": "diagnostik-lt-einzelfalldiagnostik.json",
+      "type": "lueckentext",
+      "title": "Einzelfalldiagnostik (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zur psychometrischen Einzelfalldiagnostik: Standardmessfehler, Konfidenzintervall und kritische Differenz (Sitzung 11). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-guetekriterien-zusammenspiel",
+      "file": "diagnostik-lt-guetekriterien-zusammenspiel.json",
+      "type": "lueckentext",
+      "title": "Zusammenspiel der Gütekriterien (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zu Wechselbeziehungen der Gütekriterien: Normen & Fairness, Hierarchie der Hauptgütekriterien und Einflussfaktoren auf die Validität (Sitzung 8). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-informationsbeschaffung",
+      "file": "diagnostik-lt-informationsbeschaffung.json",
+      "type": "lueckentext",
+      "title": "Wege der Informationsbeschaffung I (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zu Testen (Leistungstests, Aufmerksamkeit, Intelligenz) und schriftlichem Befragen (Fragebogen, Selbst-/Fremdeinschätzung) (Sitzung 9). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-normen",
+      "file": "diagnostik-lt-normen.json",
+      "type": "lueckentext",
+      "title": "Normen (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zu Normen: Bezugsnormen sowie Äquivalent-, Abweichungs- und Prozentrangnormen und die Normstichprobe (Sitzung 7). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-profil-urteilsbildung",
+      "file": "diagnostik-lt-profil-urteilsbildung.json",
+      "type": "lueckentext",
+      "title": "Profilinterpretation & Urteilsbildung (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zur Profilinterpretation (Profilhöhe, -streuung, -gestalt) und zur diagnostischen Urteilsbildung (klinisch vs. statistisch) (Sitzung 12). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-prozess-guetekriterien",
+      "file": "diagnostik-lt-prozess-guetekriterien.json",
+      "type": "lueckentext",
+      "title": "Diagnostischer Prozess & Gütekriterien (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zum diagnostischen Prozess, zu Test/Teststandards und zu den Haupt- und Nebengütekriterien inkl. Objektivitätsarten (Sitzung 3–4). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-reliabilitaet",
+      "file": "diagnostik-lt-reliabilitaet.json",
+      "type": "lueckentext",
+      "title": "Reliabilität (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zur Reliabilität: Klassische Testtheorie, Reliabilitätsarten (Retest, Paralleltest, Testhalbierung, interne Konsistenz) und Steigerung (Sitzung 5). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "diagnostik-lt-validitaet",
+      "file": "diagnostik-lt-validitaet.json",
+      "type": "lueckentext",
+      "title": "Validität (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext zur Validität: Inhalts-, Kriteriums- und Konstruktvalidität samt Unterarten (Übereinstimmung, Vorhersage, inkrementell, konvergent, diskriminant) (Sitzung 6). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
     }
   ]
 }
