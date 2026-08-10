@@ -51,6 +51,15 @@ async function loadQuiz(file) {
     const res = await fetch(`data/${file}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`${file}: HTTP ${res.status}`);
     const q = await res.json();
+    // Lückentext-Sets tragen "type":"lueckentext" und werden an cloze.js delegiert;
+    // die MC-Engine bleibt davon unberührt.
+    if (q.type === "lueckentext") {
+      if (typeof window.renderCloze !== "function") throw new Error("Lückentext-Render (cloze.js) fehlt.");
+      quiz = null;
+      currentSubject = currentSubject || q.subject || null;
+      window.renderCloze(q, { onBack: () => renderSets(currentSubject) });
+      return;
+    }
     if (!q.questions || !q.questions.length) throw new Error("Quiz enthält keine Fragen.");
     quiz = q;
     quiz._file = file;

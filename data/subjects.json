@@ -161,6 +161,14 @@
       "title": "Teamentwicklung",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Teamarbeit und Teamentwicklung: Nutzen/Risiken, IPO-Modell, Wirkmechanismen, Motivationsgewinne/-verluste, Faultlines, Tuckman-Phasen, Teamdiagnose und Gruppenarbeitsformen. 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "diagnostik-lt-klassifikation",
+      "file": "diagnostik-lt-klassifikation.json",
+      "type": "lueckentext",
+      "title": "Klassifizieren & Entscheidungsfehler (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext: Entscheidungsstrategien, Vier-Felder-Klassifikation, Basis-/Selektionsrate und Diagnosekoeffizienten (Sensitivität, Spezifität, Prädiktionswerte). 16 Lücken mit Wortbank."
     }
   ]
 }
