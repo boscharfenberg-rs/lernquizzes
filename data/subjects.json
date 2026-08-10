@@ -169,6 +169,14 @@
       "title": "Klassifizieren & Entscheidungsfehler (Lückentext)",
       "subject": "Psychologische Diagnostik",
       "description": "Lückentext: Entscheidungsstrategien, Vier-Felder-Klassifikation, Basis-/Selektionsrate und Diagnosekoeffizienten (Sensitivität, Spezifität, Prädiktionswerte). 16 Lücken mit Wortbank."
+    },
+    {
+      "id": "diagnostik-lt-entscheidungen",
+      "file": "diagnostik-lt-entscheidungen.json",
+      "type": "lueckentext",
+      "title": "Diagnostische Entscheidungen & Modelle (Lückentext)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Lückentext: Arten diagnostischer Entscheidungen (Selektion/Platzierung, terminal/investigatorisch u. a.) und Entscheidungsmodelle (kompensatorisch, konjunktiv, disjunktiv). 16 Lücken mit Wortbank."
     }
   ]
 }
