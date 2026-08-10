@@ -147,6 +147,13 @@
       "title": "Diagnostische Entscheidungen & Modelle",
       "subject": "Psychologische Diagnostik",
       "description": "Integration der Ergebnisse II: Arten diagnostischer Entscheidungen (Selektion/Platzierung, terminal/investigatorisch u. a.) und Entscheidungsmodelle (kompensatorisch, Oder-/Und-Strategie). 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "auo-gesundheitsmanagement",
+      "file": "auo-gesundheitsmanagement.json",
+      "title": "Betriebliches Gesundheitsmanagement",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Prävention (verhältnis-/verhaltensorientiert), drei Säulen des BGM, Arbeitsschutzrecht, Gefährdungsbeurteilung psychischer Belastung, Arbeit 4.0, BEM und betriebliche Gesundheitsförderung. 30 Fragen mit Fallbeispielen."
     }
   ]
 }

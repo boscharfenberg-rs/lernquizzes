@@ -1,0 +1,386 @@
+{
+  "id": "auo-gesundheitsmanagement",
+  "title": "A&O · Betriebliches Gesundheitsmanagement",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "30 Fragen zum Betrieblichen Gesundheitsmanagement (Prävention, drei Säulen, Arbeitsschutzrecht, Gefährdungsbeurteilung psychischer Belastung, Arbeit 4.0, BEM, betriebliche Gesundheitsförderung) im Altklausur-Stil, mit Fallbeispielen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "question": "Wodurch unterscheiden sich verhältnis- und verhaltensorientierte Interventionen?",
+      "options": [
+        "Verhältnisorientiert setzt an den Arbeitsbedingungen an, verhaltensorientiert an der Person",
+        "Verhältnisorientiert setzt an der Person an, verhaltensorientiert an den Arbeitsbedingungen",
+        "Beide zielen ausschließlich auf die Stärkung personaler Ressourcen der Beschäftigten ab",
+        "Beide setzen ausschließlich an den organisationalen Rahmenbedingungen des Betriebs an"
+      ],
+      "answer": 0,
+      "explanation": "Verhältnisorientiert (bedingungsbezogen) setzt an den Arbeitsbedingungen an, verhaltensorientiert (personenbezogen) an der Person. Die umgekehrte Zuordnung oder eine Beschränkung auf nur einen Ansatzpunkt ist falsch."
+    },
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "question": "Was kennzeichnet die Gesundheitsförderung im Unterschied zur Prävention?",
+      "options": [
+        "Die belastungsarme Gestaltung von Arbeitsaufgaben zur Verhinderung von Erkrankungen",
+        "Die Therapie von Erkrankungen und die anschließende Rehabilitation",
+        "Die Früherkennung bereits bestehender oder beginnender Erkrankungen",
+        "Die Schaffung bzw. Stärkung von Ressourcen"
+      ],
+      "answer": 3,
+      "explanation": "Gesundheitsförderung schafft bzw. stärkt Ressourcen (Aufgaben, Beziehungen, Rahmenbedingungen). Belastungsarme Gestaltung ist primäre, Früherkennung sekundäre, Therapie/Reha tertiäre Prävention."
+    },
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "transfer": true,
+      "question": "Welcher Präventionsebene ist die belastungsarme Gestaltung von Arbeitsaufgaben zuzuordnen?",
+      "options": [
+        "Der reinen Gesundheitsförderung ohne jeden Präventionsbezug",
+        "Der primären Prävention (bedingungsbezogen)",
+        "Der sekundären Prävention (Früherkennung)",
+        "Der tertiären Prävention (Rehabilitation)"
+      ],
+      "answer": 1,
+      "explanation": "Die belastungsarme Gestaltung von Arbeitsaufgaben verhindert Erkrankungen im Vorfeld und ist damit primäre (bedingungsbezogene) Prävention. Früherkennung ist sekundär, Rehabilitation tertiär; Gesundheitsförderung schafft Ressourcen."
+    },
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Betrieb richtet für häufig erkrankte Beschäftigte zeitweilige Schonarbeitsplätze und Arbeitszeitverkürzungen ein. Welche Präventionsebene ist das?",
+      "options": [
+        "Tertiäre Prävention (dauerhaft leistungseingeschränkte Beschäftigte)",
+        "Gesundheitsförderung durch reinen Ressourcenaufbau",
+        "Sekundäre Prävention (bedingungsbezogen)",
+        "Primäre Prävention (belastungsarme Gestaltung)"
+      ],
+      "answer": 2,
+      "explanation": "Zeitweilige Schonarbeitsplätze für häufig/langfristig Erkrankte sind sekundäre (bedingungsbezogene) Prävention. Primär wäre die belastungsarme Gestaltung, tertiär die dauerhafte Anpassung für chronisch Kranke, Gesundheitsförderung der Ressourcenaufbau."
+    },
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "transfer": true,
+      "question": "Für dauerhaft leistungseingeschränkte oder chronisch kranke Beschäftigte werden besondere Arbeitsplätze geschaffen. Welche Präventionsebene liegt vor?",
+      "options": [
+        "Verhaltensbezogene Gesundheitsförderung",
+        "Primäre Prävention (belastungsarme Gestaltung)",
+        "Tertiäre Prävention (bedingungsbezogen)",
+        "Sekundäre Prävention (Früherkennung)"
+      ],
+      "answer": 2,
+      "explanation": "Dauerhafte Arbeitsplatzanpassungen für chronisch kranke oder leistungseingeschränkte Beschäftigte sind tertiäre (bedingungsbezogene) Prävention. Früherkennung ist sekundär, belastungsarme Gestaltung primär, Gesundheitsförderung schafft Ressourcen."
+    },
+    {
+      "topic": "Ansatzpunkte & Prävention",
+      "question": "Was versteht man laut Folie unter sekundärer Prävention (personenbezogen)?",
+      "options": [
+        "Die Therapie bereits eingetretener Erkrankungen und die anschließende medizinische Rehabilitation",
+        "Die Früherkennung von Erkrankungen, z. B. arbeitsmedizinische Vorsorgeuntersuchungen",
+        "Die belastungsarme Gestaltung von Arbeitsaufgaben und -bedingungen",
+        "Die Stärkung personaler Ressourcen und Handlungskompetenzen"
+      ],
+      "answer": 1,
+      "explanation": "Personenbezogene sekundäre Prävention meint die Früherkennung von Erkrankungen (z. B. arbeitsmedizinische Vorsorge). Therapie/Reha ist tertiär, belastungsarme Gestaltung primär, Ressourcenstärkung ist Gesundheitsförderung."
+    },
+    {
+      "topic": "BGM: Drei Säulen",
+      "question": "Welche drei Säulen bilden laut Kauffeld et al. das Betriebliche Gesundheitsmanagement (BGM)?",
+      "options": [
+        "Primäre, sekundäre und tertiäre Prävention von Erkrankungen",
+        "Arbeits- und Gesundheitsschutz, Betriebliches Eingliederungsmanagement und Betriebliche Gesundheitsförderung",
+        "Gefährdungsbeurteilung psychischer Belastung, Präventionskultur und die betriebliche Wirksamkeitsevaluation der Maßnahmen",
+        "Verhältnis-, Verhaltens- und Organisationsprävention im Betrieb"
+      ],
+      "answer": 1,
+      "explanation": "Die drei Säulen sind Arbeits- und Gesundheitsschutz, Betriebliches Eingliederungsmanagement (BEM) und Betriebliche Gesundheitsförderung (BGF). Die Präventionsstufen, -ansätze oder einzelne Instrumente sind nicht die Säulen selbst."
+    },
+    {
+      "topic": "BGM: Drei Säulen",
+      "question": "Was gilt für den Arbeits- und Gesundheitsschutz als Säule des BGM?",
+      "options": [
+        "Verpflichtendes Angebot mit verpflichtender Teilnahme",
+        "Verpflichtendes Angebot mit freiwilliger Teilnahme",
+        "Freiwilliges Angebot mit freiwilliger Teilnahme",
+        "Freiwilliges Angebot mit verpflichtender Teilnahme"
+      ],
+      "answer": 0,
+      "explanation": "Der Arbeits- und Gesundheitsschutz ist verpflichtendes Angebot mit verpflichtender Teilnahme. Verpflichtendes Angebot bei freiwilliger Teilnahme kennzeichnet das BEM, freiwillig/freiwillig die betriebliche Gesundheitsförderung."
+    },
+    {
+      "topic": "BGM: Drei Säulen",
+      "transfer": true,
+      "question": "Ein Angebot ist für den Betrieb verpflichtend bereitzustellen, die Teilnahme der oder des Beschäftigten ist jedoch freiwillig. Welche Säule ist das?",
+      "options": [
+        "Die Gefährdungsbeurteilung psychischer Belastung",
+        "Die Betriebliche Gesundheitsförderung (BGF)",
+        "Das Betriebliche Eingliederungsmanagement (BEM)",
+        "Der Arbeits- und Gesundheitsschutz"
+      ],
+      "answer": 2,
+      "explanation": "Verpflichtendes Angebot bei freiwilliger Teilnahme kennzeichnet das BEM. Der Arbeitsschutz ist verpflichtend/verpflichtend, die BGF freiwillig/freiwillig; die Gefährdungsbeurteilung ist keine der drei Säulen."
+    },
+    {
+      "topic": "BGM: Drei Säulen",
+      "trap": "Betriebliche Gesundheitsförderung ist freiwillig – Angebot UND Teilnahme.",
+      "question": "Ist die verhaltensbezogene Prävention (betriebliche Gesundheitsförderung) für die Beschäftigten ein verpflichtendes Angebot?",
+      "options": [
+        "Nein, das Angebot ist verpflichtend, aber die Teilnahme ist freiwillig",
+        "Ja, sowohl das Angebot als auch die Teilnahme sind verpflichtend",
+        "Ja, das Angebot ist verpflichtend, nur die Teilnahme ist freiwillig",
+        "Nein, sie ist ein freiwilliges Angebot mit freiwilliger Teilnahme"
+      ],
+      "answer": 3,
+      "explanation": "Die betriebliche Gesundheitsförderung ist ein freiwilliges Angebot mit freiwilliger Teilnahme. Verpflichtend/verpflichtend ist der Arbeitsschutz, verpflichtendes Angebot bei freiwilliger Teilnahme das BEM."
+    },
+    {
+      "topic": "Arbeitsschutz & Recht",
+      "question": "Was regelt das Arbeitsschutzgesetz (ArbSchG) von 1996?",
+      "options": [
+        "Die Umsetzung der EU-Rahmenrichtlinie zu Sicherheit und Gesundheitsschutz bei der Arbeit",
+        "Die Zusammenarbeit von Bund, Ländern und Unfallversicherungsträgern in der GDA",
+        "Die Pflicht zur Beratung durch Fachkräfte für Arbeitssicherheit nach dem ASiG von 1973",
+        "Die Berücksichtigung ausschließlich physischer Gefährdungen am Arbeitsplatz"
+      ],
+      "answer": 0,
+      "explanation": "Das ArbSchG von 1996 setzt die EU-Rahmenrichtlinie 89/391/EWG (1989) in nationales Recht um. Das ASiG regelt die Beratungspflicht, die GDA die behördliche Zusammenarbeit; auch psychische Gefährdungen sind einzubeziehen."
+    },
+    {
+      "topic": "Arbeitsschutz & Recht",
+      "hard": true,
+      "question": "Was schreibt §5 des Arbeitsschutzgesetzes vor?",
+      "options": [
+        "Die medizinische Therapie und Rehabilitation bereits arbeitsbedingt erkrankter Beschäftigter",
+        "Die freiwillige Durchführung digitaler Gesundheitsinterventionen",
+        "Die verpflichtende Teilnahme aller Beschäftigten an Gesundheitskursen",
+        "Eine Beurteilung der Arbeitsbedingungen (Gefährdungsbeurteilung) durch den Arbeitgeber"
+      ],
+      "answer": 3,
+      "explanation": "§5 ArbSchG verpflichtet den Arbeitgeber zur Beurteilung der Arbeitsbedingungen (Gefährdungsbeurteilung), um erforderliche Maßnahmen zu ermitteln. Kurspflichten, Therapie oder digitale Interventionen sind nicht Gegenstand von §5."
+    },
+    {
+      "topic": "Arbeitsschutz & Recht",
+      "hard": true,
+      "trap": "Die Kleinbetriebsregelung (bis 10 MA) gilt seit 2014 nicht mehr.",
+      "question": "Was änderte sich mit der Neuorientierung des Arbeitsschutzes seit 2013/2014?",
+      "options": [
+        "Psychische Belastungen müssen in der Gefährdungsbeurteilung berücksichtigt werden",
+        "Die Gefährdungsbeurteilung darf seither ausschließlich mündlich erfolgen",
+        "Nur noch physikalische und chemische Gefährdungen sind überhaupt zu beurteilen",
+        "Kleinbetriebe bis zehn Mitarbeitende sind von der Gefährdungsbeurteilung befreit"
+      ],
+      "answer": 0,
+      "explanation": "Seit 2013 sind psychische Belastungen in der Gefährdungsbeurteilung zu berücksichtigen (§5), seit 2014 gilt für alle Betriebe die schriftliche Beurteilung – die Kleinbetriebsregelung entfällt. Eine Beschränkung auf physische Gefahren oder mündliche Form ist falsch."
+    },
+    {
+      "topic": "Arbeitsschutz & Recht",
+      "question": "Welche Akteure zählen laut Folie zu den unternehmensinternen Akteuren im Arbeitsschutz?",
+      "options": [
+        "Die Berufsgenossenschaften als externe Unfallversicherungsträger",
+        "Die staatliche Gewerbeaufsicht und externe Zertifizierungsstellen",
+        "Fachkräfte für Arbeitssicherheit und Betriebsmediziner",
+        "Die gesetzlichen Krankenkassen und ihre Prüfdienste"
+      ],
+      "answer": 2,
+      "explanation": "Zu den unternehmensinternen Akteuren zählen u. a. Fachkräfte für Arbeitssicherheit und Betriebsmediziner (auch Sicherheitsbeauftragte, Beschäftigtenvertretung). Krankenkassen, Gewerbeaufsicht und Berufsgenossenschaften sind externe Akteure."
+    },
+    {
+      "topic": "Arbeitsschutz & Recht",
+      "question": "Wofür steht die Gemeinsame Deutsche Arbeitsschutzstrategie (GDA, §20a ArbSchG)?",
+      "options": [
+        "Für die alleinige Zuständigkeit des einzelnen Arbeitgebers für den Arbeitsschutz",
+        "Für die Zusammenarbeit von Bund, Ländern und Unfallversicherungsträgern im Arbeitsschutz",
+        "Für die europaweite Vereinheitlichung sämtlicher Arbeitszeitmodelle",
+        "Für ein freiwilliges digitales Gesundheitsprogramm der gesetzlichen Krankenkassen"
+      ],
+      "answer": 1,
+      "explanation": "Die GDA verpflichtet seit 2008 Bund, Länder und Unfallversicherungsträger zur Zusammenarbeit im Arbeitsschutz (u. a. Arbeitsprogramm Psyche). Alleinzuständigkeit, Krankenkassenprogramme oder Arbeitszeit-Harmonisierung sind nicht gemeint."
+    },
+    {
+      "topic": "Gefährdungsbeurteilung psych. Belastung",
+      "question": "Welche der folgenden ist ein Merkmalsbereich der Gefährdungsbeurteilung psychischer Belastung?",
+      "options": [
+        "Der private Freizeitausgleich der Beschäftigten",
+        "Die Rechtsform des jeweiligen Unternehmens",
+        "Die Höhe des betrieblichen Jahresgewinns",
+        "Arbeitsinhalt bzw. Arbeitsaufgabe"
+      ],
+      "answer": 3,
+      "explanation": "Arbeitsinhalt/Arbeitsaufgabe ist ein Merkmalsbereich (neben Arbeitsorganisation, sozialen Beziehungen und Arbeitsumgebung). Gewinn, Rechtsform und privater Freizeitausgleich gehören nicht dazu."
+    },
+    {
+      "topic": "Gefährdungsbeurteilung psych. Belastung",
+      "question": "Welche vier Merkmalsbereiche nennt die Gefährdungsbeurteilung psychischer Belastung?",
+      "options": [
+        "Menge, Gleichzeitigkeit, Unterbrechungen, Arbeitsspitzen und erweiterte Erreichbarkeit",
+        "Primäre, sekundäre und tertiäre Prävention sowie Gesundheitsförderung",
+        "Arbeitsinhalt/-aufgabe, Arbeitsorganisation, soziale Beziehungen und Arbeitsumgebung",
+        "Freiwilligkeit, Transparenz, Vertrauen und strenger Datenschutz"
+      ],
+      "answer": 2,
+      "explanation": "Die vier Merkmalsbereiche sind Arbeitsinhalt/-aufgabe, Arbeitsorganisation, soziale Beziehungen und Arbeitsumgebung. Die anderen Aufzählungen betreffen Facetten der Arbeitsdichte, Präventionsstufen bzw. BEM-Grundprinzipien."
+    },
+    {
+      "topic": "Gefährdungsbeurteilung psych. Belastung",
+      "hard": true,
+      "question": "Was kennzeichnet den Ablauf der Gefährdungsbeurteilung psychischer Belastung?",
+      "options": [
+        "Sie erfolgt ausschließlich nach einem bereits eingetretenen Arbeitsunfall",
+        "Sie ist eine einmalige Maßnahme, die später nicht wiederholt wird",
+        "Sie beschränkt sich auf die reine Dokumentation bestehender Erkrankungen",
+        "Sie ist ein kontinuierlicher Prozess mit Wirksamkeitskontrolle und Fortschreibung"
+      ],
+      "answer": 3,
+      "explanation": "Die Gefährdungsbeurteilung ist ein kontinuierlicher Prozess (Planung, Ermittlung, Beurteilung, Maßnahmen, Wirksamkeitskontrolle, Fortschreibung, durchgehende Dokumentation). Sie ist weder einmalig noch auf Dokumentation oder Unfälle beschränkt."
+    },
+    {
+      "topic": "Gefährdungsbeurteilung psych. Belastung",
+      "transfer": true,
+      "question": "In einem Unternehmen werden Zeitdruck, häufige Unterbrechungen und unklare Verantwortlichkeiten systematisch erfasst und bewertet, um Maßnahmen abzuleiten. Um welches Instrument handelt es sich?",
+      "options": [
+        "Um die Gefährdungsbeurteilung psychischer Belastung",
+        "Um das Treiber-Indikatoren-Modell der Gesundheitsförderung",
+        "Um das Betriebliche Eingliederungsmanagement (BEM)",
+        "Um das PICO-Schema zur Wirksamkeitsevaluation"
+      ],
+      "answer": 0,
+      "explanation": "Die systematische Beurteilung arbeitsbezogener psychischer Belastungen (z. B. Zeitdruck, Unterbrechungen) zur Maßnahmenableitung ist die Gefährdungsbeurteilung psychischer Belastung. BEM, PICO und Treiber-Indikatoren-Modell verfolgen andere Zwecke."
+    },
+    {
+      "topic": "Arbeit 4.0 & Arbeitsdichte",
+      "question": "Welche Merkmale kennzeichnen laut Folie die neue Arbeitswelt (Arbeit 4.0)?",
+      "options": [
+        "Standardisierung, Zentralisierung und Spezialisierung",
+        "Digitalisierung, Flexibilisierung und Entgrenzung",
+        "Primäre, sekundäre und tertiäre Prävention",
+        "Taylorisierung, Fließbandarbeit und Akkordlohn"
+      ],
+      "answer": 1,
+      "explanation": "Arbeit 4.0 ist durch Digitalisierung, Flexibilisierung und Entgrenzung (plus mobiles Arbeiten/Homeoffice) gekennzeichnet. Die anderen Aufzählungen beschreiben ältere Organisationsformen bzw. Präventionsstufen."
+    },
+    {
+      "topic": "Arbeit 4.0 & Arbeitsdichte",
+      "trap": "Entgrenzung = Grenzen zwischen Arbeit und Freizeit verschwimmen.",
+      "question": "Was ist mit „Entgrenzung“ im Kontext von Arbeit 4.0 gemeint?",
+      "options": [
+        "Die Zusammenarbeit über Ländergrenzen hinweg wird untersagt",
+        "Die Grenzen zwischen Arbeit und Freizeit verschwimmen zunehmend",
+        "Die Arbeitszeiten werden streng auf feste Bürozeiten begrenzt",
+        "Die klare räumliche Trennung von Arbeit und Privatleben nimmt zu"
+      ],
+      "answer": 1,
+      "explanation": "Entgrenzung meint, dass die Grenzen zwischen Arbeit und Freizeit zunehmend verschwimmen. Eine zunehmende Trennung, feste Bürozeiten oder ein Kooperationsverbot sind das Gegenteil bzw. nicht gemeint."
+    },
+    {
+      "topic": "Arbeit 4.0 & Arbeitsdichte",
+      "question": "Was zählt laut Folie zu den negativen Konsequenzen von Arbeit 4.0?",
+      "options": [
+        "Die flexible und mobile Zusammenarbeit",
+        "Die Vielzahl an Kommunikationsinstrumenten",
+        "„Digitaler Stress“ und eine erhöhte Arbeitsintensität",
+        "Der deutlich verbesserte Zugang zu Informationen"
+      ],
+      "answer": 2,
+      "explanation": "Zu den negativen Folgen zählen „digitaler Stress“, erhöhte Arbeitsintensität und Gefährdung der psychischen Gesundheit. Informationszugang, Kommunikationsinstrumente und flexible Zusammenarbeit sind die genannten positiven Folgen."
+    },
+    {
+      "topic": "Arbeit 4.0 & Arbeitsdichte",
+      "question": "Welche der folgenden ist eine Facette der Arbeitsdichte (Arbeitsverdichtung)?",
+      "options": [
+        "Gleichzeitigkeit (viele Aufgaben gleichzeitig erledigen)",
+        "Tertiäre Prävention chronischer und dauerhafter Erkrankungen",
+        "Die Augenscheinvalidität eines Fragebogens",
+        "Freiwilligkeit der Teilnahme an Maßnahmen"
+      ],
+      "answer": 0,
+      "explanation": "Gleichzeitigkeit ist eine der sieben Facetten der Arbeitsdichte (mit Menge, Unterbrechungen, Interdependenz, Arbeitsspitzen, erweiterter Erreichbarkeit, Unklarheit). Freiwilligkeit, Prävention und Augenscheinvalidität gehören nicht dazu."
+    },
+    {
+      "topic": "Arbeit 4.0 & Arbeitsdichte",
+      "transfer": true,
+      "question": "Eine Beschäftigte gibt an: „Ich bin auch außerhalb meiner regulären Arbeitszeit für berufliche Angelegenheiten erreichbar.“ Welche Facette der Arbeitsdichte beschreibt das?",
+      "options": [
+        "Unklarheit",
+        "Arbeitsspitzen",
+        "Interdependenz (viel Abstimmung nötig)",
+        "Erweiterte Erreichbarkeit"
+      ],
+      "answer": 3,
+      "explanation": "Die Erreichbarkeit außerhalb der regulären Arbeitszeit ist die Facette „erweiterte Erreichbarkeit“. Interdependenz meint Abstimmungsbedarf, Arbeitsspitzen zeitweisen Mengenanstieg, Unklarheit unklare Aufgabenstellung."
+    },
+    {
+      "topic": "BEM & Präventionskultur",
+      "question": "Welche Grundprinzipien nennt die Folie für das Betriebliche Eingliederungsmanagement (BEM)?",
+      "options": [
+        "Verpflichtung, Kontrolle, Sanktion und laufende Leistungsbewertung",
+        "Freiwilligkeit, Transparenz, Vertrauen, Offenheit und strenger Datenschutz",
+        "Digitalisierung, Flexibilisierung und Entgrenzung der Arbeit",
+        "Standardisierung, Zentralisierung und lückenlose Dokumentationspflicht"
+      ],
+      "answer": 1,
+      "explanation": "Die BEM-Grundprinzipien sind Freiwilligkeit, Transparenz, Vertrauen, Offenheit und strenger Datenschutz. Kontrolle/Sanktion, Standardisierung oder Arbeit-4.0-Merkmale widersprechen dem wertschätzenden, offenen Vorgehen."
+    },
+    {
+      "topic": "BEM & Präventionskultur",
+      "question": "Was ist ein zentrales Ziel des Betrieblichen Eingliederungsmanagements (BEM)?",
+      "options": [
+        "Erkrankte Beschäftigte möglichst rasch aus dem Betrieb zu entlassen",
+        "Bewerber nach dem jeweils höchsten Testwert auszuwählen",
+        "Die Arbeitsunfähigkeit überwinden, ihr vorbeugen und den Arbeitsplatz erhalten",
+        "Die betriebliche Produktivität durch die flächendeckende Einführung von Akkordlohn zu maximieren"
+      ],
+      "answer": 2,
+      "explanation": "Das BEM zielt darauf, die Arbeitsunfähigkeit zu überwinden, erneuter vorzubeugen und den Arbeitsplatz zu erhalten. Personalauswahl, Akkordlohn oder Entlassung sind gerade nicht die Ziele."
+    },
+    {
+      "topic": "BEM & Präventionskultur",
+      "hard": true,
+      "question": "Was gehört laut Folie zu den Handlungsfeldern der Präventionskultur?",
+      "options": [
+        "Primäre, sekundäre und tertiäre Prävention von Erkrankungen",
+        "Akkordlohn, Zielspiralen und gezielte Leistungsverdichtung",
+        "Population, Intervention, Control und das jeweilige Outcome",
+        "Führung, Kommunikation/Beteiligung, Fehlerkultur und Betriebsklima"
+      ],
+      "answer": 3,
+      "explanation": "Handlungsfelder der Präventionskultur sind u. a. Führung, Kommunikation/Beteiligung, Fehlerkultur, Sicherheit/Gesundheit und Betriebsklima. Leistungsverdichtung, Präventionsstufen und das PICO-Schema sind etwas anderes."
+    },
+    {
+      "topic": "BGF: Prinzipien & Evaluation",
+      "question": "Welches Prinzip nennt die Folie für die Gestaltung von Interventionen der betrieblichen Gesundheitsförderung?",
+      "options": [
+        "Maßnahmen richten sich an alle Beschäftigten, nicht nur an Risikogruppen",
+        "Der Prozess ist kurzfristig und auf ein fest vorgegebenes Ergebnis ausgerichtet",
+        "Die Teilnahme ist für alle Beschäftigten verpflichtend vorgeschrieben",
+        "Maßnahmen richten sich ausschließlich an bereits erkrankte Risikogruppen"
+      ],
+      "answer": 0,
+      "explanation": "Ein Prinzip ist, dass Maßnahmen sich an alle Beschäftigten richten (proaktiv/partizipativ), nicht nur an Risikogruppen. Verpflichtende Teilnahme oder ein kurzfristiger, ergebnisfixierter Prozess widersprechen den Prinzipien (freiwillig, ergebnisoffen)."
+    },
+    {
+      "topic": "BGF: Prinzipien & Evaluation",
+      "hard": true,
+      "question": "Wofür steht das PICO-Schema in der Wirksamkeitsevaluation?",
+      "options": [
+        "Population, Intervention, Control und Outcome",
+        "Planung, Implementierung, Controlling und Optimierung",
+        "Prävention, Intervention, Coping und Organisation",
+        "Person, Institution, Kultur und Organisation"
+      ],
+      "answer": 0,
+      "explanation": "PICO steht für Population, Intervention, Control (Vergleichsbedingung) und Outcome und dient der Orientierung bei Wirksamkeitsfragen. Die anderen Auflösungen sind erfunden."
+    },
+    {
+      "topic": "BGF: Prinzipien & Evaluation",
+      "hard": true,
+      "trap": "Rechtlich hat Verhältnis- Vorrang, faktisch dominiert Verhaltensprävention.",
+      "question": "Was zeigt sich laut Folie bei der Evaluation verhältnispräventiver Maßnahmen?",
+      "options": [
+        "Sie sind rechtlich der Verhaltensprävention ausdrücklich nachgeordnet",
+        "Sie sind wenig untersucht und zeigen tendenziell geringere Effekte als verhaltensorientierte",
+        "Sie lassen sich stets leicht standardisiert und experimentell überprüfen",
+        "Sie sind besonders gut untersucht und zeigen im direkten Vergleich durchweg die allergrößten Effekte"
+      ],
+      "answer": 1,
+      "explanation": "Verhältnisorientierte Maßnahmen sind noch wenig untersucht und zeigen tendenziell geringere Effekte; ihre Evaluation ist erschwert (Eingriff in komplexe Systeme). Rechtlich soll die Verhältnisprävention der Verhaltensprävention sogar vorangestellt werden."
+    }
+  ]
+}
