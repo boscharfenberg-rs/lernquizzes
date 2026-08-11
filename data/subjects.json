@@ -270,6 +270,13 @@
       "title": "Organisationskultur & -klima (Kernfolien)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Organisationskultur und -klima aus dem Kernfoliensatz: Schein-Ebenen, Funktionen, Competing Values Framework, Kultur-Vielfalt, Person-Organization-Fit, Kulturwandel sowie Klima-Definition und spezifische Klima-Konzepte. 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "kl-klassifikation-psychopathologie",
+      "file": "kl-klassifikation-psychopathologie.json",
+      "title": "Klassifikation & Psychopathologie (KliPs Teil 1)",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Grundlagen der psychiatrischen Klassifikation und allgemeine Psychopathologie (KliPs Teil 1): Geschichte, deskriptiv-atheoretischer Ansatz, ICD-10/ICD-11, allgemeine Störungskriterien, Konstruktcharakter und Kernbegriffe (Wahn, Halluzination, synton/synthym). 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }

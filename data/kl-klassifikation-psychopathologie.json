@@ -1,0 +1,419 @@
+{
+  "id": "kl-klassifikation-psychopathologie",
+  "title": "Klassifikation & Psychopathologie (KliPs Teil 1)",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Grundlagen der psychiatrischen Klassifikation und allgemeine Psychopathologie (KliPs Teil 1, Folien 6–51): Geschichte, deskriptiv-atheoretischer Ansatz, ICD-10/ICD-11, allgemeine Störungskriterien, Konstruktcharakter, Kernbegriffe (Wahn, Halluzination, synton/synthym u. a.). 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen. Keine Code-Werte (z. B. F32) abgefragt.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Welche Aussage zur Geschichte der psychiatrischen Klassifikation trifft am ehesten NICHT zu?",
+      "options": [
+        "Philippe Pinel gilt als Wegbereiter der formalen Klassifikation und einer „Nosologie der Geisteskrankheiten“.",
+        "Bis etwa 1950 existierten über hundert nicht kompatible Klassifikationssysteme mit unterschiedlichen Schwerpunkten.",
+        "Kraepelins frühes System unterschied u. a. organische Psychosen, endogene Psychosen, Neurosen und Oligophrenie.",
+        "Wilhelm Griesinger konnte psychische Krankheiten bereits eindeutig anhand anatomischer Hirnveränderungen einteilen.",
+        "Der Wechsel zu einem deskriptiv-atheoretischen Ansatz erfolgte mit dem DSM-III im Jahr 1980."
+      ],
+      "answer": 3,
+      "explanation": "Falsch (und damit gesucht) ist die Griesinger-Aussage: Griesinger hielt eine Einteilung nach anatomischen Hirnveränderungen gerade NICHT für möglich und ordnete symptomatologisch/funktionell-psychologisch nach Symptomenkomplexen. Richtig (und daher nicht gesucht) sind: Pinel als Wegbereiter der formalen Klassifikation; über hundert inkompatible Systeme bis ~1950; Kraepelins grobe Einteilung; und der Paradigmenwechsel mit DSM-III 1980.",
+      "topic": "Geschichte der Klassifikation",
+      "hard": true,
+      "trap": "Griesinger: NICHT anatomisch, sondern symptomatologisch – die Aussage kehrt das um."
+    },
+    {
+      "question": "Der mit dem DSM-III (1980) vollzogene Paradigmenwechsel lässt sich am besten so beschreiben:",
+      "options": [
+        "dimensional statt kategorial, da Störungen durchgängig als Ausprägungsgrade beschrieben wurden.",
+        "rein prognostisch, da die Einteilung sich allein am zu erwartenden Krankheitsverlauf ausrichtete.",
+        "atheoretisch und deskriptiv, mit explizit ausformulierten Kriterien auf Symptom- und Syndromebene.",
+        "psychodynamisch orientiert, da die Kriterien der psychoanalytischen Neurosenlehre folgten.",
+        "ätiologisch fundiert, da die Diagnosen erstmals konsequent nach biologischen Ursachen geordnet wurden."
+      ],
+      "answer": 2,
+      "explanation": "DSM-III war der Wechsel zu einem atheoretischen, deskriptiven System mit expliziten Kriterien (Symptom-/Syndromebene, Zeit-/Schweregrad-/Ausschlusskriterien) und dadurch hoher Reliabilität. Nicht ätiologisch: gerade die Ablehnung unzureichend gestützter Ursachenannahmen war der Kern. Nicht psychodynamisch: der Ansatz war theorieneutral. Nicht dimensional: DSM-III blieb kategorial. Nicht rein prognostisch: das war eher Kraepelins verlaufsorientierte Logik.",
+      "topic": "Geschichte der Klassifikation"
+    },
+    {
+      "question": "Warum galt die Vielzahl von über hundert Klassifikationssystemen vor 1950 als Problem?",
+      "options": [
+        "Sie führte dazu, dass psychische Störungen generell als unheilbar und ausschließlich organisch galten.",
+        "Sie sorgte dafür, dass Reliabilität und Validität als Gütekriterien vollständig abgeschafft wurden.",
+        "Sie machte jede symptomorientierte Diagnostik unmöglich und erzwang stets anatomische Befunde.",
+        "Sie bewirkte, dass ausschließlich ätiologisch neutrale Diagnosen gestellt werden durften.",
+        "Sie verhinderte eine einheitliche Kommunikation und vergleichbare Forschung zwischen den Schulen."
+      ],
+      "answer": 4,
+      "explanation": "Unterschiedliche, inkompatible Systeme mit je eigenen ätiologischen Schwerpunkten verhinderten eine gemeinsame Sprache und damit vergleichbare Forschung – das war der Antrieb für einheitliche Systeme. Die übrigen Optionen sind erfunden: weder galt alles als unheilbar/organisch, noch war symptomorientierte Diagnostik unmöglich; ätiologische Neutralität kam erst mit dem deskriptiven Ansatz, und Gütekriterien wurden nicht abgeschafft.",
+      "topic": "Geschichte der Klassifikation"
+    },
+    {
+      "question": "Kraepelins erstes Klassifikationssystem (um 1920) nahm am ehesten welche grobe Einteilung vor?",
+      "options": [
+        "phobische, somatoforme, dissoziative und artifizielle Störungsgruppen im engeren Sinn.",
+        "organisch bedingte Psychosen, endogene Psychosen, Neurosen und Oligophrenie.",
+        "affektive, schizophrene, neurokognitive und substanzbezogene Störungsgruppen.",
+        "Cluster-A-, Cluster-B- und Cluster-C-Persönlichkeitsstörungen sowie Anpassungsstörungen.",
+        "internalisierende, externalisierende, psychotische und neurodevelopmentale Spektren."
+      ],
+      "answer": 1,
+      "explanation": "Kraepelins grobe Einteilung umfasste organisch bedingte Psychosen, endogene Psychosen, Neurosen und Oligophrenie. Die anderen Gruppierungen sind spätere bzw. moderne Ordnungsschemata (somatoform/dissoziativ; affektiv/neurokognitiv; internalisierend/externalisierend; DSM-Cluster) und entsprechen nicht Kraepelins historischem System.",
+      "topic": "Geschichte der Klassifikation"
+    },
+    {
+      "question": "Welches Merkmal gehört am ehesten NICHT zu den Zielen des deskriptiv-atheoretischen Klassifikationsansatzes?",
+      "options": [
+        "möglichst großer Interpretationsspielraum, damit schulenspezifische Deutungen der Symptome erhalten bleiben.",
+        "Verbesserung und Vereinheitlichung von Kommunikation und Forschung über die Schulen hinweg.",
+        "hohe Reliabilität durch explizite, deskriptive und nachvollziehbare Kriterien, die zwischen verschiedenen Behandlern gut übereinstimmen.",
+        "weitgehende Neutralität hinsichtlich der Ätiologie der beschriebenen Störungsbilder.",
+        "eine für alle Gesundheitsberufe und Therapieschulen verbindliche, eindeutige Nomenklatur."
+      ],
+      "answer": 0,
+      "explanation": "Der Ansatz will Interpretationsspielräume gerade ablehnen (explizite Kriterien statt freier Deutung); die genannte Option kehrt das Ziel um und ist daher gesucht. Reliabilität, verbindliche Nomenklatur, ätiologische Neutralität sowie bessere Kommunikation/Forschung sind ausdrücklich Ziele und damit richtig (nicht gesucht).",
+      "topic": "Ziele des Klassifikationsansatzes"
+    },
+    {
+      "question": "„Atheoretisch“ im Sinne der modernen Klassifikationssysteme bedeutet vor allem:",
+      "options": [
+        "die Gleichsetzung des Diagnosenamens mit der zugrunde liegenden objektiven Krankheitsentität.",
+        "die ausschließliche Orientierung an psychoanalytischen Theorien der Krankheitsentstehung.",
+        "vollständiger Verzicht auf jede Form von Diagnosekriterien zugunsten freier klinischer Urteile.",
+        "die Festlegung, dass jede Diagnose zwingend einen biologischen Marker voraussetzt.",
+        "Verzicht auf empirisch unzureichend gestützte Ätiologieannahmen zugunsten deskriptiver Kriterien."
+      ],
+      "answer": 4,
+      "explanation": "Atheoretisch meint den bewussten Verzicht auf schlecht belegte ätiologische Annahmen zugunsten beobachtbarer, deskriptiver Kriterien – nicht den Verzicht auf Kriterien überhaupt (das Gegenteil ist der Fall). Es bedeutet weder eine psychoanalytische Festlegung noch einen zwingenden Biomarker, und schon gar nicht die Gleichsetzung von Name und Realität (das wäre der Konstrukt-Denkfehler).",
+      "topic": "Ziele des Klassifikationsansatzes"
+    },
+    {
+      "question": "Was gilt für das Kodierungsprinzip der ICD-10 (unabhängig von konkreten Code-Ziffern)?",
+      "options": [
+        "Je mehr Stellen ein Code hat, desto spezifischer wird die beschriebene Störung.",
+        "Die erste Stelle bezeichnet stets den Schweregrad und nicht die Störungsgruppe.",
+        "Die Stellenzahl eines Codes sagt nichts über den Spezifitätsgrad der Diagnose aus.",
+        "Zusätzliche Stellen kodieren ausschließlich die Ätiologie und nie die Symptomatik.",
+        "Je mehr Stellen ein Code hat, desto unspezifischer und breiter wird die Kategorie."
+      ],
+      "answer": 0,
+      "explanation": "Prinzip der ICD-10: mehr Stellen = feinere, spezifischere Diagnose (von der Gruppe hin zu Unterform und Zusatzmerkmalen). Die Gegenrichtung (unspezifischer) ist falsch; die Stellenzahl ist gerade der Spezifitätsindikator (nicht bedeutungslos). Die erste Stelle steht für die Störungsgruppe, nicht den Schweregrad, und zusätzliche Stellen kodieren nicht ausschließlich Ätiologie.",
+      "topic": "Klassifikationssysteme (ICD-10)"
+    },
+    {
+      "question": "Eine Klinikerin verfeinert eine Diagnose von einer zwei- auf eine vierstellige ICD-10-Kodierung. Was tut sie damit am ehesten?",
+      "options": [
+        "Sie verändert damit in erster Linie den ätiologischen Erklärungsansatz der Störung.",
+        "Sie wechselt von einer spezifischen zu einer bewusst unschärferen Oberkategorie.",
+        "Sie legt damit ausschließlich den Schweregrad ohne weitere Merkmale fest.",
+        "Sie beschreibt das Störungsbild spezifischer, etwa mit Unterform und Zusatzmerkmalen.",
+        "Sie hebt die Diagnose auf die Ebene eines ganzen ICD-Kapitels an."
+      ],
+      "answer": 3,
+      "explanation": "Mehr Stellen bedeuten mehr Spezifität: von der groben Gruppe zur konkreten Unterform mit Zusatzmerkmalen. Das Gegenteil (unschärfer werden, aufs Kapitel anheben) ist falsch. Es geht um Spezifität der Beschreibung, nicht primär um Ätiologie, und auch nicht ausschließlich um den Schweregrad.",
+      "topic": "Klassifikationssysteme (ICD-10)",
+      "transfer": true
+    },
+    {
+      "question": "Die F0–F9-Grobsystematik der ICD-10 ist am ehesten zu verstehen als:",
+      "options": [
+        "eine rein ätiologische Ordnung nach zweifelsfrei nachgewiesenen biologischen Ursachen.",
+        "ein Verzeichnis, das ausschließlich körperliche und keine psychischen Diagnosen enthält.",
+        "eine kategoriale Grobgliederung psychischer Störungen in zusammengehörige Gruppen.",
+        "eine dimensionale Skala, die den Schweregrad einer einzelnen Störung abbildet.",
+        "eine Rangfolge der Störungen nach ihrer Behandlungspriorität in der Klinik."
+      ],
+      "answer": 2,
+      "explanation": "Die F-Systematik ist eine kategoriale Grobgliederung, die verwandte Störungen zu Gruppen bündelt. Sie ist keine Schweregrad-Dimension, keine rein ätiologische Ordnung (der Ansatz ist deskriptiv, nicht ursachenbasiert), keine Behandlungsrangfolge und selbstverständlich kein Verzeichnis körperlicher Diagnosen.",
+      "topic": "Klassifikationssysteme (ICD-10)"
+    },
+    {
+      "question": "Welche Aussage zur ICD-11 trifft am ehesten NICHT zu?",
+      "options": [
+        "Es gibt ganz neue Diagnosen wie die anhaltende Trauerstörung und die Katatonie.",
+        "Psychische Störungen finden sich in Kapitel 06 („Mental, behavioural or neurodevelopmental disorders“).",
+        "Die ICD-11 behält die vertraute F0–F9-Kodierung der psychischen Störungen unverändert bei.",
+        "Bei einigen Störungen wurden Subtypen abgeschafft, etwa bei der Schizophrenie.",
+        "Die ICD-11 erscheint nicht mehr als Printversion und wird laufend online aktualisiert."
+      ],
+      "answer": 2,
+      "explanation": "Gesucht ist die falsche Aussage: Die ICD-11 behält die F-Codes NICHT bei, sondern nutzt eine neue Systematik (Kapitel 06, Codes 6A–6E). Richtig sind dagegen: psychische Störungen in Kapitel 06; neue Diagnosen (anhaltende Trauerstörung, Katatonie); Abschaffung von Subtypen (z. B. Schizophrenie); keine Printversion, laufende Online-Aktualisierung.",
+      "topic": "Klassifikationssysteme (ICD-11)",
+      "trap": "F-Codes gehören zur ICD-10; die ICD-11 nutzt eine neue alphanumerische Systematik."
+    },
+    {
+      "question": "Welche Störungsgruppe ist in der ICD-11 am ehesten NICHT im Kapitel für psychische Störungen (Kapitel 06) angesiedelt?",
+      "options": [
+        "Persönlichkeitsstörungen, die nun dimensional nach Schweregrad beschrieben werden.",
+        "Angst- und furchtbezogene Störungen einschließlich phobischer Störungsbilder.",
+        "Schizophrenie und andere primär psychotische Störungen mit Wahn und Halluzinationen.",
+        "Affektive Störungen wie depressive und bipolare Episoden unterschiedlichen Schweregrads.",
+        "Schlaf-Wach-Störungen, die ein eigenes Kapitel erhalten (neben dem eigenen System ICSD)."
+      ],
+      "answer": 4,
+      "explanation": "Schlaf-Wach-Störungen sind in der ICD-11 aus dem Kapitel der psychischen Störungen ausgelagert (eigenes Kapitel, zusätzlich das eigene System ICSD) – daher gesucht. Schizophrenie, affektive, Angst- und Persönlichkeitsstörungen bleiben dagegen im Kapitel 06 und sind somit nicht gesucht.",
+      "topic": "Klassifikationssysteme (ICD-11)"
+    },
+    {
+      "question": "Tic-Störungen bzw. das Tourette-Syndrom sind in der ICD-11 am ehesten wie eingeordnet?",
+      "options": [
+        "den affektiven Störungen zugeordnet, mit Querverweis zu den Belastungsstörungen.",
+        "den substanzbezogenen Störungen zugeordnet, mit Querverweis zu den Angststörungen.",
+        "den somatoformen Störungen zugeordnet, mit Querverweis zu den dissoziativen Störungen.",
+        "den neurologischen Erkrankungen zugeordnet, mit Querverweis zum Zwangsspektrum.",
+        "den Persönlichkeitsstörungen zugeordnet, mit Querverweis zu den Impulskontrollstörungen."
+      ],
+      "answer": 3,
+      "explanation": "Tic/Tourette sind in der ICD-11 den neurologischen Krankheiten zugeordnet, mit Querverweis zum Zwangsspektrum (gemeinsame Ätiologie über Basalganglien/fronto-striatalen Regelkreis). Die anderen Zuordnungen (substanzbezogen, Persönlichkeit, affektiv, somatoform) treffen nicht zu.",
+      "topic": "Klassifikationssysteme (ICD-11)",
+      "hard": true
+    },
+    {
+      "question": "Welcher Bereich wurde in der ICD-11 am ehesten NICHT aus dem Kapitel der psychischen Störungen ausgelagert bzw. verschoben?",
+      "options": [
+        "die Tic-Störungen einschließlich Tourette.",
+        "die sexuellen Dysfunktionen.",
+        "die Geschlechtsdysphorie bzw. Genderinkongruenz.",
+        "die schizophrenen und wahnhaften Störungen.",
+        "die Schlaf-Wach-Störungen."
+      ],
+      "answer": 3,
+      "explanation": "Schizophrene/wahnhafte Störungen bleiben Kernbestand des psychischen Störungskapitels – daher gesucht. Geschlechtsdysphorie/Genderinkongruenz, sexuelle Dysfunktionen, Schlaf-Wach-Störungen und Tic/Tourette wurden dagegen ausgelagert bzw. anderen Kapiteln zugeordnet.",
+      "topic": "Klassifikationssysteme (ICD-11)"
+    },
+    {
+      "question": "Welche Störungen gehören am ehesten zu den neurodevelopmentalen Störungen der ICD-11?",
+      "options": [
+        "Depression, bipolare Störung und anhaltende affektive Störungen.",
+        "Autismus-Spektrum, ADHS, Intelligenzminderung und umschriebene Entwicklungsstörungen.",
+        "Schizophrenie, wahnhafte Störung und schizotype Störung im engeren Sinn.",
+        "posttraumatische Belastungsstörung sowie sonstige Anpassungs- und Belastungsstörungen.",
+        "Anorexie, Bulimie und Binge-Eating-Störung als Gruppe der Essstörungen."
+      ],
+      "answer": 1,
+      "explanation": "Neurodevelopmentale Störungen umfassen u. a. Autismus-Spektrum, ADHS, Intelligenzminderung, Sprach- und Lernstörungen sowie motorische/stereotype Störungen. Psychotische, affektive, belastungsbezogene und Essstörungen bilden jeweils eigene Störungsgruppen und zählen nicht zu den neurodevelopmentalen Störungen.",
+      "topic": "Klassifikationssysteme (ICD-11)"
+    },
+    {
+      "question": "Wie werden Persönlichkeitsstörungen in der ICD-11 am ehesten beschrieben?",
+      "options": [
+        "nach Schweregrad und dimensionalen Stilen statt über kategoriale Subtypen.",
+        "ausschließlich über den Nachweis biologischer Marker der Persönlichkeit.",
+        "über feste kategoriale Subtypen wie in der klassischen Cluster-A/B/C-Einteilung.",
+        "gar nicht mehr, da sie in der ICD-11 vollständig gestrichen wurden.",
+        "allein über das Lebensalter beim erstmaligen Auftreten der Auffälligkeiten."
+      ],
+      "answer": 0,
+      "explanation": "Die ICD-11 beschreibt Persönlichkeitsstörungen dimensional nach Schweregrad und Stilmerkmalen (inkl. eines Borderline-Musters) und rückt von kategorialen Subtypen ab. Sie wurden nicht gestrichen, beruhen nicht auf Biomarkern und werden nicht allein über das Ersterkrankungsalter definiert.",
+      "topic": "Klassifikationssysteme (ICD-11)"
+    },
+    {
+      "question": "Das Kriterium der „klinischen Bedeutsamkeit“ (DSM-5) ist am ehesten erfüllt, wenn Symptome …",
+      "options": [
+        "in jedem Fall mit voller Krankheitseinsicht der betroffenen Person einhergehen müssen.",
+        "erst dann zählen, wenn sie über mehrere Jahre ununterbrochen fortbestehen.",
+        "Leiden ODER Beeinträchtigungen in wichtigen sozialen bzw. beruflichen Funktionsbereichen verursachen.",
+        "ausschließlich objektiv messbare Funktionsbeeinträchtigungen ganz ohne subjektives Leiden umfassen.",
+        "Leiden UND zugleich eine nachweisbare organische Ursache der Beschwerden voraussetzen."
+      ],
+      "answer": 2,
+      "explanation": "Klinische Bedeutsamkeit liegt vor, wenn Symptome Leiden ODER Beeinträchtigungen (sozial, beruflich, andere wichtige Bereiche) verursachen – die beiden sind alternativ, nicht kumulativ. Ein „und organische Ursache“ ist gerade nicht gefordert; reine Messbarkeit ohne Leiden, zwingende Krankheitseinsicht (vgl. Manie-Ausnahme) und eine feste Mehrjahresdauer sind ebenfalls keine Bedingung.",
+      "topic": "Allgemeine Kriterien psychischer Störungen",
+      "trap": "„Leiden oder Beeinträchtigung“ ist alternativ – nicht „und“."
+    },
+    {
+      "question": "Ein Patient in einer manischen Episode erlebt keinen Leidensdruck und hält sich für vollkommen gesund. Warum kann dennoch eine klinisch bedeutsame Störung vorliegen?",
+      "options": [
+        "Weil subjektives Leiden stets zwingend vorausgesetzt und hier lediglich unbewusst verdrängt wird.",
+        "Weil die Diagnose allein aus der bloßen Zahl erfüllter Symptome ohne Kontext folgt.",
+        "Weil eine Störung nur bei nachgewiesener organischer Ursache klinisch bedeutsam sein kann.",
+        "Weil eine Manie definitionsgemäß gar keine klinisch bedeutsame Störung darstellen kann.",
+        "Weil bei fehlender Krankheitseinsicht (z. B. Manie) das Leidenskriterium als Ausnahme entfällt."
+      ],
+      "answer": 4,
+      "explanation": "Die klinische Bedeutsamkeit sieht eine Ausnahme vor: Bei fehlender Krankheitseinsicht – typisch für die Manie – ist das Leidenskriterium nicht erforderlich. Leiden ist also nicht immer zwingend (kein „verdrängtes“ Leiden nötig), eine organische Ursache ist nicht Bedingung, die Diagnose folgt nicht aus bloßer Symptomzahl, und eine Manie ist selbstverständlich eine klinisch bedeutsame Störung.",
+      "topic": "Allgemeine Kriterien psychischer Störungen",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Welche Aussage zu den Ausschlusskriterien (ICD-10-„Ausschlussvorbehalt“) trifft am ehesten NICHT zu?",
+      "options": [
+        "Symptome infolge einer Substanzwirkung erhöhen die Sicherheit einer eigenständigen psychischen Diagnose.",
+        "Die Symptome dürfen nicht Folge der physiologischen Wirkung einer psychotropen Substanz sein.",
+        "Die Symptome dürfen nicht auf einen medizinischen Krankheitsfaktor zurückzuführen sein.",
+        "Eine organisch bedingte psychische Störung ist als Ursache differenzialdiagnostisch auszuschließen.",
+        "Der Ausschlussvorbehalt dient der Abgrenzung gegenüber anderen (konkurrierenden) Störungen."
+      ],
+      "answer": 0,
+      "explanation": "Falsch (gesucht): Substanzbedingte Symptome erhöhen nicht die Sicherheit einer eigenständigen Diagnose – im Gegenteil, sie sind ein Ausschlussgrund. Richtig sind: kein Substanz- bzw. Medikamenteneffekt, keine Zurückführung auf einen medizinischen Faktor, Ausschluss organisch bedingter Ursachen und die Abgrenzungsfunktion gegenüber konkurrierenden Störungen.",
+      "topic": "Allgemeine Kriterien psychischer Störungen"
+    },
+    {
+      "question": "Eine Person zeigt psychotische Symptome ausschließlich im Rahmen einer akuten Amphetamin-Intoxikation. Was folgt daraus diagnostisch am ehesten?",
+      "options": [
+        "Die Substanzwirkung ist für die Beurteilung der Psychose vollständig unerheblich.",
+        "Die Symptomatik belegt bereits unmittelbar eine eigenständige schizophrene Störung, unabhängig vom vorausgegangenen Substanzkonsum.",
+        "Es liegt damit automatisch eine organisch bedingte psychische Störung vor.",
+        "Eine eigenständige primäre Psychose ist zurückhaltend zu beurteilen, da ein Ausschlussvorbehalt greift.",
+        "Das Kriterium des Leidens ist damit in jedem Fall vollständig aufgehoben."
+      ],
+      "answer": 3,
+      "explanation": "Treten die Symptome nur unter akuter Substanzwirkung auf, greift der Ausschlussvorbehalt: Eine eigenständige (primäre) Psychose ist zurückhaltend zu beurteilen. Die Symptomatik belegt daher keine schizophrene Störung, die Substanzwirkung ist keineswegs unerheblich, es liegt nicht automatisch eine organische Störung vor, und das Leidenskriterium wird dadurch nicht aufgehoben.",
+      "topic": "Allgemeine Kriterien psychischer Störungen",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Das prozedurale Modell „vom Symptom zur Diagnose“ besagt am ehesten:",
+      "options": [
+        "Eine Diagnose entsteht schrittweise über Symptom und Syndrom, nicht aus einem Einzelsymptom.",
+        "Die Diagnose steht am Anfang und wird durch passende Symptome nachträglich belegt.",
+        "Syndrome und Symptome sind gleichbedeutend und in beliebiger Reihenfolge verwendbar.",
+        "Ein einzelnes charakteristisches Symptom genügt bereits für die endgültige und diagnostisch gesicherte Zuordnung.",
+        "Die Diagnose ergibt sich allein aus dem Schweregrad eines einzelnen Leitsymptoms."
+      ],
+      "answer": 0,
+      "explanation": "Diagnosen entstehen schrittweise: Symptom → Syndrom → Diagnose. Ein Einzelsymptom genügt nicht, die Diagnose steht nicht am Anfang, Symptom und Syndrom sind nicht dasselbe, und der Schweregrad eines Leitsymptoms allein trägt die Diagnose nicht.",
+      "topic": "Vom Symptom zur Diagnose"
+    },
+    {
+      "question": "Dass eine psychiatrische Diagnose „Konstruktcharakter“ hat, bedeutet am ehesten:",
+      "options": [
+        "Sie ist eine per Konvention von Expertengremien auf empirischer Grundlage vereinbarte Kategorie.",
+        "Sie ist eine objektiv in der Natur vorfindbare Entität mit scharfer, eindeutig messbarer biologischer Grenze.",
+        "Sie ist ein Messwert, der die Schwere einer Störung exakt in Zahlen abbildet.",
+        "Sie ist eine willkürliche Erfindung ohne jeden Bezug zu empirischen Befunden.",
+        "Sie ist ein rein juristischer Begriff ohne klinische oder wissenschaftliche Funktion."
+      ],
+      "answer": 0,
+      "explanation": "Konstruktcharakter heißt: Die Diagnose ist eine per Konvention von Gremien (WHO/APA) auf empirischer Basis vereinbarte Kategorie – nicht eine objektive Natur-Entität mit scharfer Grenze. Sie ist auch nicht willkürlich (empirisch fundiert), kein bloß juristischer Begriff und kein exakter Schwere-Messwert.",
+      "topic": "Konstruktcharakter der Diagnose",
+      "hard": true
+    },
+    {
+      "question": "Welche Zuordnung von Institution und Klassifikationssystem trifft NICHT zu?",
+      "options": [
+        "Die APA (American Psychiatric Association) verantwortet das DSM.",
+        "Die APA (American Psychiatric Association) gibt die ICD heraus.",
+        "Beide Systeme werden auf Grundlage empirischer Befunde fortgeschrieben.",
+        "Beide Systeme beruhen auf per Konvention vereinbarten Kriterien.",
+        "Die WHO (Weltgesundheitsorganisation) verantwortet die ICD."
+      ],
+      "answer": 1,
+      "explanation": "Falsch (gesucht): Die ICD wird von der WHO herausgegeben, nicht von der APA. Richtig sind: WHO = ICD, APA = DSM, beide per Konvention vereinbart und beide empirisch fortgeschrieben.",
+      "topic": "Konstruktcharakter der Diagnose"
+    },
+    {
+      "question": "Der beim Umgang mit Diagnosen gemeinte „fundamentale Attributionsfehler“ besteht am ehesten darin, …",
+      "options": [
+        "Verhalten anderer eher dispositional als situativ zu erklären, wie in der Sozialpsychologie.",
+        "die Reliabilität einer Diagnose systematisch mit ihrer Validität zu verwechseln.",
+        "den vereinbarten Namen für die benannte Sache selbst zu halten (Name ist nicht die Realität).",
+        "die Prävalenz einer Störung durchgehend zu über- oder zu unterschätzen.",
+        "einer erkrankten Person die Schuld an ihrer eigenen Störung zuzuschreiben."
+      ],
+      "answer": 2,
+      "explanation": "Hier ist gemeint: den Diagnose-Namen mit der bezeichneten Sache zu verwechseln – der Name ist nicht die Realität selbst. Es geht NICHT um den gleichnamigen sozialpsychologischen Attributionsfehler (Disposition vs. Situation), auch nicht um Reliabilität/Validität, Schuldzuschreibung oder Prävalenzschätzung.",
+      "topic": "Konstruktcharakter der Diagnose",
+      "trap": "Nicht der sozialpsychologische Attributionsfehler – gemeint ist „Name für Sache halten“."
+    },
+    {
+      "question": "Ein Lehrbuch beschreibt Schizophrenie als symptomorientierten Sammelbegriff, weil gleiche Symptome unterschiedlich ausgehen können. Auf wen geht diese Sicht (anstelle von „Dementia praecox“) am ehesten zurück?",
+      "options": [
+        "Wilhelm Griesinger, der eine symptomatologische Einteilung ohne Hirnanatomie vertrat.",
+        "Emil Kraepelin, der den verlaufsorientierten Begriff „Dementia praecox“ prägte.",
+        "Eugen Bleuler, der 1911 den Begriff „Schizophrenie“ (Spaltungsirresein) einführte.",
+        "Karl Jaspers, der Diagnosen als „Idealbilder zur Suchorientierung“ verstand.",
+        "Philippe Pinel, der die formale Klassifikation der Geisteskrankheiten begründete."
+      ],
+      "answer": 2,
+      "explanation": "Der symptomorientierte Sammelbegriff „Schizophrenie“ (Spaltungsirresein) stammt von Eugen Bleuler (1911) und löste Kraepelins verlaufs-/prognoseorientierte „Dementia praecox“ ab. Kraepelin steht gerade für den ersetzten Begriff; Jaspers, Pinel und Griesinger stehen für andere Beiträge (Idealbilder, formale Klassifikation, symptomatologische Einteilung).",
+      "topic": "Konstruktcharakter der Diagnose",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Wie ist „Wahn“ am ehesten definiert?",
+      "options": [
+        "ein aufdrängendes, als fremd erlebtes Gedankenbild bei erhaltener Realitätsprüfung.",
+        "eine beweisunabhängige, unkorrigierbare und inhaltlich unmögliche Überzeugung („Privatwirklichkeit“).",
+        "eine reizunabhängige Sinneswahrnehmung ganz ohne einen entsprechenden äußeren Sinnesreiz in der tatsächlichen Umgebung.",
+        "eine vorübergehende, durch stichhaltige Argumente leicht korrigierbare Fehlannahme.",
+        "die Verkennung eines tatsächlich vorhandenen äußeren Sinnesreizes."
+      ],
+      "answer": 1,
+      "explanation": "Wahn ist eine beweisunabhängige, unkorrigierbare, inhaltlich unmögliche Überzeugung (eine „Privatwirklichkeit“). Die reizunabhängige Wahrnehmung ist die Halluzination, die Verkennung eines realen Reizes die Illusion, das aufdrängende Gedankenbild die Intrusion; korrigierbar ist der Wahn gerade nicht.",
+      "topic": "Allgemeine Psychopathologie"
+    },
+    {
+      "question": "Eine Patientin hört eine Stimme, obwohl niemand spricht und kein Geräusch vorhanden ist. Welches Phänomen liegt am ehesten vor?",
+      "options": [
+        "eine Pseudohalluzination – eine als nicht real erkannte innere Sinnestäuschung.",
+        "eine Intrusion – ein aufdrängendes inneres Bild bei erhaltener Realitätsprüfung.",
+        "eine Illusion – die Verkennung eines tatsächlich vorhandenen äußeren Reizes.",
+        "eine Halluzination – eine reizunabhängige Wahrnehmung mit Realitätsverlust.",
+        "ein Wahn – eine unkorrigierbare, inhaltlich unmögliche Überzeugung."
+      ],
+      "answer": 3,
+      "explanation": "Wahrnehmung ohne jeden äußeren Reiz, als real erlebt, ist eine Halluzination. Eine Illusion setzt einen realen Reiz voraus (fehlt hier), ein Wahn ist eine Überzeugung (keine Wahrnehmung), eine Intrusion bleibt realitätsgeprüft, und eine Pseudohalluzination wird als unwirklich erkannt – hier aber liegt Realitätsverlust vor.",
+      "topic": "Allgemeine Psychopathologie",
+      "transfer": true,
+      "trap": "Reizunabhängig + Realitätsverlust = Halluzination, nicht Illusion."
+    },
+    {
+      "question": "Ein Mann erschrickt in der Dämmerung vor einem Mantel am Haken, den er kurz für eine Person hält. Was liegt am ehesten vor?",
+      "options": [
+        "eine Halluzination – eine Wahrnehmung völlig ohne äußeren Reiz.",
+        "eine Illusion – die Verkennung eines tatsächlich vorhandenen Reizes.",
+        "eine dissoziative Amnesie mit Erinnerungslücke für das Ereignis.",
+        "eine Pseudohalluzination, die sofort als unwirklich erkannt wird.",
+        "ein systematisierter Wahn mit unkorrigierbarer Überzeugung."
+      ],
+      "answer": 1,
+      "explanation": "Ein realer Reiz (der Mantel) wird verkannt – das ist die Illusion. Eine Halluzination bräuchte gar keinen Reiz, ein Wahn wäre eine feste Überzeugung, eine dissoziative Amnesie betrifft das Gedächtnis, und eine Pseudohalluzination wird als unwirklich erkannt – all das passt hier nicht.",
+      "topic": "Allgemeine Psychopathologie",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zu „synton/synthym“ trifft am ehesten NICHT zu?",
+      "options": [
+        "Ich-syntones Erleben ist typisch für Persönlichkeitsstörungen und wird von der Person als stimmig und zugehörig empfunden.",
+        "„Synthym“ beschreibt, dass ein Erleben als zur eigenen Person zugehörig (ich-synton) empfunden wird.",
+        "„Synton“ und „synthym“ sind trotz ihrer Klangähnlichkeit nicht bedeutungsgleich.",
+        "Die Wortsilbe „-thym“ verweist auf die Stimmung (vgl. dysthym, zyklothym, parathym).",
+        "Ein „synthymer Wahn“ ist inhaltlich zur Stimmungslage passend, also stimmungskongruent."
+      ],
+      "answer": 1,
+      "explanation": "Falsch (gesucht): „synthym“ bezieht sich auf die Stimmung (thym = Stimmung), nicht auf „zur Person gehörig“; das Als-zur-Person-passend-Erleben ist ich-synton. Richtig sind: „-thym“ = Stimmung; synthymer Wahn = stimmungskongruent; ich-synton typisch für Persönlichkeitsstörungen; und synton ≠ synthym.",
+      "topic": "Allgemeine Psychopathologie",
+      "hard": true,
+      "trap": "thym = Stimmung; ich-synton = zur Person passend. Beides nicht vermischen."
+    },
+    {
+      "question": "Der „flache Affekt“ bei Schizophrenie ist am ehesten einzuordnen als …",
+      "options": [
+        "Ausdruck einer manischen Affektsteigerung mit gehobener Stimmung.",
+        "typisches Positivsymptom neben Wahn, Halluzinationen und formalen Ich-Störungen.",
+        "Synonym für den akut ängstlich-agitierten Erregungszustand.",
+        "vorübergehende Nebenwirkung ohne jede diagnostische Bedeutung.",
+        "Teil der Negativsymptomatik (verminderte affektive Schwingungsfähigkeit)."
+      ],
+      "answer": 4,
+      "explanation": "Der flache Affekt gehört zur Negativsymptomatik der Schizophrenie (Minderung der affektiven Schwingungsfähigkeit). Er ist kein Positivsymptom (das wären Wahn/Halluzination), keine bedeutungslose Nebenwirkung, kein manisches Zeichen und nicht mit einem Erregungszustand gleichzusetzen.",
+      "topic": "Allgemeine Psychopathologie"
+    },
+    {
+      "question": "Wie lässt sich „Wahnstimmung“ am ehesten von der „Dynamik des Wahns“ abgrenzen?",
+      "options": [
+        "Wahnstimmung meint allein den konkreten Wahninhalt, die Dynamik dagegen dessen logische Widerspruchsfreiheit im gedanklichen Aufbau.",
+        "Wahnstimmung beschreibt die Halluzination, die Dynamik die zugehörige Illusion.",
+        "Beide Begriffe sind bedeutungsgleich und bezeichnen dieselbe Verlaufsphase.",
+        "Wahnstimmung ist ein Positivsymptom, die Dynamik ein rein körperliches Begleitsymptom.",
+        "Wahnstimmung ist die ahnungsvolle Vorstufe; die Dynamik meint die affektive Beteiligung am manifesten Wahn."
+      ],
+      "answer": 4,
+      "explanation": "Wahnstimmung ist die antizipatorische, ahnungsvolle Gestimmtheit als Vorstufe; die „Dynamik des Wahns“ meint die (hohe vs. geringe) affektive Beteiligung am bereits manifesten Wahn. Die übrigen Optionen verwechseln die Begriffe mit Inhalt/Logik, ordnen sie falsch als körperlich ein, setzen sie gleich oder vermengen sie mit Halluzination/Illusion.",
+      "topic": "Allgemeine Psychopathologie",
+      "hard": true
+    }
+  ]
+}
