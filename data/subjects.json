@@ -256,6 +256,13 @@
       "title": "Führung (Kernfolien)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Führung aus dem Kernfoliensatz: Rahmenmodell, Führungsstile (Ohio), transaktionale/transformationale Führung, neuere Konzepte, gesundheitsorientierte Führung und Führungskräfteentwicklung. 30 Fragen mit Fallbeispielen."
+    },
+    {
+      "id": "auo-organisationsentwicklung-kernfolien",
+      "file": "auo-organisationsentwicklung-kernfolien.json",
+      "title": "Organisationsentwicklung (Kernfolien)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Organisationsentwicklung aus dem Kernfoliensatz: Organisation & Struktur, Organisationstheorien (Weber, Hawthorne, Kieser), OE-Merkmale & Lewin-Prozess, Change Management vs. OE und Organisationskultur nach Schein. 30 Fragen mit Fallbeispielen."
     }
   ]
 }
