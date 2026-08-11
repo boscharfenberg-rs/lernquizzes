@@ -249,6 +249,13 @@
       "title": "Validität (Lückentext)",
       "subject": "Psychologische Diagnostik",
       "description": "Lückentext zur Validität: Inhalts-, Kriteriums- und Konstruktvalidität samt Unterarten (Übereinstimmung, Vorhersage, inkrementell, konvergent, diskriminant) (Sitzung 6). Wähle je Lücke den passenden Fachbegriff aus der Wortbank und klicke Prüfen."
+    },
+    {
+      "id": "auo-fuehrung-kernfolien",
+      "file": "auo-fuehrung-kernfolien.json",
+      "title": "Führung (Kernfolien)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Führung aus dem Kernfoliensatz: Rahmenmodell, Führungsstile (Ohio), transaktionale/transformationale Führung, neuere Konzepte, gesundheitsorientierte Führung und Führungskräfteentwicklung. 30 Fragen mit Fallbeispielen."
     }
   ]
 }
