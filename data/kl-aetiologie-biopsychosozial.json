@@ -1,0 +1,417 @@
+{
+  "id": "kl-aetiologie-biopsychosozial",
+  "title": "Ätiologie psychischer Störungen (bio-psycho-sozial)",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Ätiologie psychischer Störungen (KliPs Teil 1, Ätiologie-Block bis „Doppeldiagnose Psychose und Sucht“): Grundbegriffe, Menschenbilder und Schulenstreit, medizinisches vs. bio-psycho-soziales Modell, Vulnerabilität und Risikofaktoren, Vulnerabilitäts-Stress-Modell, Genetik, Gen-Umwelt-Interaktion und Epigenetik. 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Was ist Gegenstand der „Ätiologie“ im Sinne der Vorlesung?",
+      "options": [
+        "die Lehre von den Gesetzmäßigkeiten des Krankheitsverlaufs mit Prodromen und Spätfolgen.",
+        "die standardisierte Dokumentation des aktuellen psychopathologischen Querschnittsbefunds zu einem festgelegten Untersuchungszeitpunkt.",
+        "die Lehre von den ursächlichen, auslösenden und aufrechterhaltenden Bedingungen einer Störung.",
+        "die statistische Verteilung von Neuerkrankungen und Bestandsfällen in der Bevölkerung.",
+        "die deskriptive Zuordnung von Symptomen zu Diagnosekriterien nach ICD und DSM."
+      ],
+      "answer": 2,
+      "explanation": "Ätiologie ist die Wissenschaft von den Ursachen – ursächlichen, auslösenden und aufrechterhaltenden Bedingungen einer Störung. Die Verlaufsgesetzmäßigkeiten sind die Pathogenese; der Querschnittsbefund ist der psychopathologische Befund; Verteilung von Neu-/Bestandsfällen ist Epidemiologie; die Symptom-Kriterien-Zuordnung ist Klassifikation.",
+      "topic": "Grundbegriffe der Ätiologie"
+    },
+    {
+      "question": "Wie grenzt sich die „Pathogenese“ am ehesten von der Ätiologie ab?",
+      "options": [
+        "Pathogenese meint die Gesetzmäßigkeiten des Krankheitsverlaufs (Prodrome, Verlauf, Spätfolgen).",
+        "Pathogenese meint ausschließlich die genetischen Ursachen einer psychischen Störung.",
+        "Pathogenese meint die Häufigkeit einer Störung in einer definierten Bevölkerung.",
+        "Pathogenese meint die Neutralität der modernen Klassifikationssysteme gegenüber jeder ätiologischen Ursachenannahme.",
+        "Pathogenese meint die Erfassung des Befunds zu einem bestimmten Zeitpunkt."
+      ],
+      "answer": 0,
+      "explanation": "Die Pathogenese beschreibt die Gesetzmäßigkeiten des Verlaufs (Prodrome, Erkrankungsdauer, Komplikationen, Spätfolgen), während die Ätiologie nach den Ursachen fragt. Sie ist nicht auf Genetik reduziert, nicht die Häufigkeit (Epidemiologie), nicht die klassifikatorische Neutralität und nicht der Querschnittsbefund.",
+      "topic": "Grundbegriffe der Ätiologie"
+    },
+    {
+      "question": "Welche Aussage zum Kausalitätsproblem in der Ätiologie psychischer Störungen trifft am ehesten zu?",
+      "options": [
+        "Psychische Störungen entstehen nachweislich ausschließlich durch biologische Defekte.",
+        "Für jede psychische Störung ist genau eine einzelne notwendige und zugleich hinreichende Ursache eindeutig belegt.",
+        "Auslösende und aufrechterhaltende Bedingungen spielen für die Ätiologie keine Rolle.",
+        "Die Ursache einer Störung lässt sich aus dem Diagnosecode eindeutig ablesen.",
+        "Ursache-Wirkungs-Beziehungen sind oft unklar und selten auf eine einzelne Ursache rückführbar."
+      ],
+      "answer": 4,
+      "explanation": "Die Kausalität ist bei psychischen Störungen typischerweise unklar und multifaktoriell – nicht auf eine einzelne Ursache reduzierbar. Es gibt gerade keine einzelne notwendige/hinreichende Ursache, keine rein biologische Alleinerklärung, keine Ablesbarkeit aus dem Code, und auslösende/aufrechterhaltende Bedingungen sind sehr wohl relevant.",
+      "topic": "Grundbegriffe der Ätiologie"
+    },
+    {
+      "question": "Welche der folgenden gehört am ehesten NICHT zu den in der Vorlesung genannten ätiologischen Perspektiven/Menschenbildern?",
+      "options": [
+        "die systemische Perspektive.",
+        "die psychometrische Perspektive (Testkonstruktion und Gütekriterien).",
+        "die biologische Perspektive (Genetik, Neurobiologie).",
+        "die psychodynamische Perspektive (Tiefenpsychologie und Psychoanalyse).",
+        "die kognitiv-behaviorale Perspektive (Lerntheorien, kognitive Ansätze)."
+      ],
+      "answer": 1,
+      "explanation": "Die psychometrische Perspektive ist eine testtheoretische, keine ätiologische Perspektive – daher gesucht. Genannt werden dagegen die biologische, kognitiv-behaviorale, psychodynamische, humanistische und systemische Perspektive.",
+      "topic": "Menschenbilder & Schulenstreit"
+    },
+    {
+      "question": "Wie wird der „Schulenstreit“ der ätiologischen Perspektiven in der Vorlesung aufgelöst?",
+      "options": [
+        "durch den Nachweis, dass die biologische Perspektive alle anderen ersetzt.",
+        "durch die Feststellung, dass psychologische Modelle den biologischen grundsätzlich und durchgängig überlegen sind.",
+        "durch den Verzicht auf jegliche Ursachenmodelle zugunsten reiner Beschreibung.",
+        "durch die Einigung, dass ausschließlich systemische Ansätze tragfähig sind.",
+        "durch Integration, da keine Perspektive alles erklärt und keine völlig falsch liegt."
+      ],
+      "answer": 4,
+      "explanation": "Die Erkenntnis, dass keine Perspektive allein alles erklärt und keine komplett falsch liegt, führte zur integrativen bio-psycho-sozialen Perspektive. Es setzt sich also keine Einzelschule durch (weder biologisch noch psychologisch noch systemisch), und die Ursachenmodelle werden nicht aufgegeben.",
+      "topic": "Menschenbilder & Schulenstreit",
+      "hard": true
+    },
+    {
+      "question": "Ein Dozent ordnet eine Depression zugleich einer Monoaminmangel-Hypothese, einer Verstärkerverlust-Hypothese und einem gestörten Familiensystem zu. Was veranschaulicht dieses Beispiel am ehesten?",
+      "options": [
+        "dass nur eine dieser Erklärungen korrekt sein kann und die übrigen widerlegt sind.",
+        "dass dieselbe Störung aus mehreren ätiologischen Perspektiven zugleich erklärbar ist.",
+        "dass es sich um eine rein deskriptive Klassifikationsfrage ohne Ursachenbezug handelt.",
+        "dass die Depression ausschließlich sozial verursacht ist.",
+        "dass ätiologische Modelle für die Depression grundsätzlich ungeeignet sind."
+      ],
+      "answer": 1,
+      "explanation": "Das Nebeneinander von Monoaminmangel, Verstärkerverlust und Familiensystem zeigt die Multiperspektivität: dieselbe Störung ist bio-psycho-sozial mehrfach erklärbar. Es geht nicht um ein Entweder-oder, keine grundsätzliche Ungeeignetheit, keine rein soziale Verursachung und keine reine Klassifikationsfrage.",
+      "topic": "Menschenbilder & Schulenstreit",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zur historischen Entwicklung des ätiologischen Denkens trifft am ehesten NICHT zu?",
+      "options": [
+        "Die Phrenologie Galls suchte Ursachen in Schädel- bzw. Hirnformen.",
+        "Griesinger legte mit der „nervösen Konstitution als Disposition“ einen Grundstein für Vulnerabilitäts-Stress-Modelle.",
+        "Nach Griesinger dominierte zeitweise eine polarisierende Hirnpsychiatrie (somatisch vs. psychisch).",
+        "Griesinger vertrat ein enges, rein hirnanatomisches Ursachenmodell ohne psychische oder soziale Anteile.",
+        "Die Leib-Seele-Debatte stellte dualistische und materialistische Positionen einander gegenüber."
+      ],
+      "answer": 3,
+      "explanation": "Falsch (gesucht): Griesinger vertrat gerade KEIN rein hirnanatomisches Modell – er verstand die nervöse Konstitution als bloße Disposition, zu der weitere Ursachen hinzutreten müssen (Vorläufer der Vulnerabilitäts-Stress-Modelle). Richtig sind: die Leib-Seele-Debatte (Dualismus vs. Materialismus), Griesingers Dispositionsgedanke, die spätere Hirnpsychiatrie-Polarisierung und Galls Phrenologie.",
+      "topic": "Menschenbilder & Schulenstreit",
+      "trap": "Griesinger wird oft auf „Geisteskrankheiten sind Gehirnkrankheiten“ verkürzt – seine Sicht war differenzierter."
+    },
+    {
+      "question": "Was kennzeichnet das rein „medizinische Krankheitsmodell“ im Kontrast zum bio-psycho-sozialen Modell am ehesten?",
+      "options": [
+        "die gleichgewichtige Integration biologischer, psychologischer und sozialer Faktoren.",
+        "die ausschließliche Betonung zwischenmenschlicher und sozialer Bedingungen.",
+        "den Fokus auf eine körperlich-biologische Ursache und Behandlung der Störung.",
+        "den bewussten Verzicht auf jede Ursachenannahme zugunsten reiner Beschreibung.",
+        "die Gleichsetzung von Diagnosename und zugrunde liegender Krankheitsentität."
+      ],
+      "answer": 2,
+      "explanation": "Das medizinische Krankheitsmodell fokussiert auf körperlich-biologische Ursache und Behandlung. Die gleichgewichtige Integration aller Ebenen ist gerade das bio-psycho-soziale Modell; eine rein soziale Betonung, der Verzicht auf Ursachen oder die Name-gleich-Sache-Verwechslung treffen es nicht.",
+      "topic": "Medizinisches vs. bio-psycho-soziales Modell"
+    },
+    {
+      "question": "Das bio-psycho-soziale Modell wird in der Vorlesung u. a. als „(Not-)Lösung“ bezeichnet. Was ist damit am ehesten gemeint?",
+      "options": [
+        "dass keine Einzelperspektive ausreicht und erst die Zusammenschau der Ebenen der Komplexität gerecht wird.",
+        "dass das Modell die Ätiologie durch eine reine Verlaufsbeschreibung ersetzt.",
+        "dass das Modell inzwischen empirisch klar widerlegt ist und heute nur noch aus reiner Verlegenheit weiter gelehrt wird.",
+        "dass ausschließlich die sozialen Faktoren als einzige und alleinige Ursache der Störung anerkannt werden.",
+        "dass biologische Faktoren im Modell keinerlei Rolle mehr spielen."
+      ],
+      "answer": 0,
+      "explanation": "Die „(Not-)Lösung“ meint, dass keine einzelne Ebene genügt und erst die Zusammenschau von biologischer, psychologischer und sozialer Ebene der Komplexität psychischer Vorgänge gerecht wird. Das Modell ist nicht widerlegt, schließt Biologie nicht aus, verabsolutiert nicht das Soziale und ersetzt die Ätiologie nicht durch Verlaufsbeschreibung.",
+      "topic": "Medizinisches vs. bio-psycho-soziales Modell",
+      "hard": true
+    },
+    {
+      "question": "Ein Patient nennt als belastend: eine frühe Traumatisierung, anhaltende Ehekonflikte und den Verlust des Arbeitsplatzes. Welcher Ebene des bio-psycho-sozialen Modells sind diese am ehesten zuzuordnen?",
+      "options": [
+        "der sozialen Ebene (Traumata, negative Lebenserfahrungen, zwischenmenschliche Probleme).",
+        "der pathogenetischen Ebene im Sinne des typischen Krankheitsverlaufs mit Prodromen und Spätfolgen.",
+        "der psychologischen Ebene im Sinne genetischer Vulnerabilität.",
+        "der biologischen Ebene mit Genetik, Neurotransmission, Konnektivität und Hirnstruktur.",
+        "der klassifikatorischen Ebene im Sinne der Diagnosekriterien."
+      ],
+      "answer": 0,
+      "explanation": "Trauma, zwischenmenschliche Probleme und negative Lebensereignisse gehören zur sozialen Ebene. Genetik/Neurotransmission/Hirnstruktur sind die biologische Ebene; genetische Vulnerabilität ist nicht die psychologische Ebene; Verlauf (Pathogenese) und Diagnosekriterien (Klassifikation) sind keine bio-psycho-sozialen Ursachenebenen.",
+      "topic": "Bio-psycho-soziale Ebenen",
+      "transfer": true
+    },
+    {
+      "question": "Welche Zuordnung zu den Ebenen des bio-psycho-sozialen Modells trifft am ehesten NICHT zu?",
+      "options": [
+        "Frühe Traumatisierung zählt zur sozialen bzw. Umwelt-Ebene.",
+        "Zwischenmenschliche Probleme zählen zur sozialen Ebene.",
+        "Neurotransmission und Konnektivität zählen zur biologischen Ebene.",
+        "Genetik und Hirnstruktur zählen zur biologischen Ebene.",
+        "Neurotizismus und Stressintoleranz zählen zur biologischen Ebene."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): Neurotizismus und Stressintoleranz sind psychologische Risikofaktoren, nicht biologische. Richtig sind: Genetik/Hirnstruktur und Neurotransmission/Konnektivität als biologische Ebene sowie Trauma und zwischenmenschliche Probleme als soziale Ebene.",
+      "topic": "Bio-psycho-soziale Ebenen"
+    },
+    {
+      "question": "Wie werden „Vulnerabilität“ und „Risikofaktoren/Auslöser“ in der bio-psycho-sozialen Ätiologie am ehesten unterschieden?",
+      "options": [
+        "Vulnerabilität ist ein Verlaufsmerkmal; Risikofaktoren betreffen nur die Prognose.",
+        "Vulnerabilität ist die Prädisposition; Risikofaktoren wirken meist unspezifisch als Auslöser.",
+        "Vulnerabilität ist eine Diagnose; Risikofaktoren sind Symptome der Störung.",
+        "Vulnerabilität ist stets ein spezifischer Auslöser, während die Risikofaktoren die eigentliche Prädisposition bilden.",
+        "Beide Begriffe sind gleichbedeutend und bezeichnen dieselbe Ursache."
+      ],
+      "answer": 1,
+      "explanation": "Vulnerabilität ist die (Prä-)Disposition, Risikofaktoren wirken überwiegend unspezifisch als Auslöser und erhöhen das allgemeine Störungsrisiko. Die Begriffe sind nicht vertauschbar, nicht gleichbedeutend, kein reines Verlaufs-/Prognosemerkmal und weder Diagnose noch Symptom.",
+      "topic": "Vulnerabilität & Risikofaktoren"
+    },
+    {
+      "question": "Welche Aussage zu Risikofaktoren psychischer Störungen trifft am ehesten zu?",
+      "options": [
+        "Risikofaktoren sind mit der eigentlichen auslösenden Ursache stets vollständig identisch und für sich hinreichend.",
+        "Die meisten Risikofaktoren sind unspezifisch und erhöhen das Risiko störungsübergreifend.",
+        "Jeder Risikofaktor ist spezifisch genau einer einzigen Störung zugeordnet.",
+        "Risikofaktoren wirken ausschließlich auf biologischer Ebene.",
+        "Ein früher Lebensstress senkt regelhaft das Risiko für spätere Störungen."
+      ],
+      "answer": 1,
+      "explanation": "Risikofaktoren wie frühe Traumatisierung sind meist unspezifisch und erhöhen das Risiko für psychische Störungen allgemein. Sie sind nicht je einer Störung fest zugeordnet, nicht rein biologisch, senken das Risiko nicht und sind keine hinreichende Einzelursache.",
+      "topic": "Vulnerabilität & Risikofaktoren",
+      "hard": true
+    },
+    {
+      "question": "In der Vorlesung wird der Zusammenhang von Cannabiskonsum und Schizophrenie als vergleichsweise „spezifisch“ hervorgehoben. Womit wird diese Spezifität am ehesten begründet?",
+      "options": [
+        "damit, dass Cannabis ausschließlich soziale Risikofaktoren verstärkt.",
+        "damit, dass Cannabis die einzige bekannte Ursache der Schizophrenie ist.",
+        "damit, dass Cannabis ausschließlich den Krankheitsverlauf, nicht aber die eigentliche Entstehung der Störung beeinflusst.",
+        "mit vermutlich gemeinsamen biologischen Mechanismen, etwa Effekten auf das Pruning.",
+        "damit, dass Cannabis die genetische Vulnerabilität vollständig ersetzt."
+      ],
+      "answer": 3,
+      "explanation": "Die relative Spezifität wird über vermutlich gemeinsame biologische Mechanismen begründet (z. B. Pruning-Effekte). Cannabis ist nicht die einzige Ursache, verstärkt nicht nur Soziales, betrifft nicht nur den Verlauf und ersetzt die genetische Vulnerabilität nicht.",
+      "topic": "Vulnerabilität & Risikofaktoren",
+      "trap": "Spezifisch heißt nicht „einzige Ursache“ – es geht um einen gemeinsamen biologischen Mechanismus."
+    },
+    {
+      "question": "Welche Aussage zu biologischen Faktoren als Prädisposition trifft am ehesten NICHT zu?",
+      "options": [
+        "Biologische Faktoren erklären in erster Linie störungsspezifische Symptome einzelner Diagnosen.",
+        "Biologische Faktoren können eine gestörte Hirnentwicklung prädisponieren.",
+        "Sie erklären primär störungsübergreifende Funktionen wie Impulskontrolle und Affektregulation über Diagnosen hinweg.",
+        "Sie wirken im Zusammenspiel mit psychologischen und Umweltfaktoren.",
+        "Spezifische biologische Befunde sind eher selten (z. B. C4-Polymorphismus)."
+      ],
+      "answer": 0,
+      "explanation": "Falsch (gesucht): Biologische Faktoren erklären primär störungsÜBERGREIFENDE Funktionen (Impulskontrolle, Affektregulation), nicht vorrangig störungsspezifische Symptome. Richtig sind: Prädisposition gestörter Hirnentwicklung, seltene spezifische Befunde (C4-Polymorphismus), das Zusammenspiel mit anderen Ebenen.",
+      "topic": "Vulnerabilität & Risikofaktoren"
+    },
+    {
+      "question": "Was besagt das Vulnerabilitäts-Stress-(Bewältigungs-)Modell am ehesten?",
+      "options": [
+        "Bewältigungsressourcen spielen für die Entstehung der Störung keine Rolle.",
+        "Eine Störung tritt auf, wenn Vulnerabilität und Belastungen gemeinsam eine Schwelle überschreiten.",
+        "Eine Störung tritt allein durch ausreichende genetische Vulnerabilität zwangsläufig und ohne weitere Faktoren auf.",
+        "Die Schwelle zur Störung ist bei allen Menschen identisch und unveränderlich.",
+        "Eine Störung entsteht ausschließlich durch aktuelle Stressoren ohne jede Disposition."
+      ],
+      "answer": 1,
+      "explanation": "Im Modell führt das Zusammenwirken von Vulnerabilität und Belastungen (Stressoren, ggf. Drogen) zum Überschreiten einer Schwelle und damit zur Störung. Weder Vulnerabilität allein noch Stress allein genügen; Bewältigung ist bedeutsam, und die Schwelle ist interindividuell verschieden.",
+      "topic": "Vulnerabilitäts-Stress-Modell"
+    },
+    {
+      "question": "Im Vulnerabilitäts-Stress-Bewältigungs-Modell (Beispiel Schizophrenie) steht „D“ neben Vulnerabilität und Stressoren am ehesten für welchen Faktor?",
+      "options": [
+        "die Disposition, die identisch mit der Vulnerabilität ist.",
+        "die Dauer der Erkrankung als Verlaufsmerkmal.",
+        "die Diagnose, die das Überschreiten der Schwelle im Modell abschließend definiert und festlegt.",
+        "den Dopaminspiegel als alleinige Ursache der Psychose.",
+        "Drogen als zusätzlichen belastenden Faktor, der zur Schwellenüberschreitung beitragen kann."
+      ],
+      "answer": 4,
+      "explanation": "„D“ steht im Modell für Drogen, die zusätzlich zu Vulnerabilität (V) und Stressoren (S) zur Überschreitung der Schwelle beitragen können. Es meint nicht die Diagnose, nicht die (mit V gleichgesetzte) Disposition, nicht die Dauer und nicht einen Dopaminspiegel als Alleinursache.",
+      "topic": "Vulnerabilitäts-Stress-Modell",
+      "hard": true
+    },
+    {
+      "question": "Eine junge Frau mit familiärer Belastung für Schizophrenie erlebt in kurzer Zeit Prüfungsstress, eine Trennung und beginnt regelmäßig zu kiffen; danach tritt eine erste Episode auf. Wie ist das im Vulnerabilitäts-Stress-Bewältigungs-Modell am ehesten zu deuten?",
+      "options": [
+        "Belastungen sind irrelevant, da die Schwelle zur Störung bei allen Menschen exakt gleich hoch und unveränderlich liegt.",
+        "Die Episode ist ohne jede Disposition rein durch Zufall entstanden.",
+        "Allein die familiäre Belastung hat die Episode zwangsläufig verursacht.",
+        "Vulnerabilität und mehrere Belastungen (inkl. Drogen) überschritten gemeinsam die Schwelle.",
+        "Allein der Cannabiskonsum ist die notwendige und hinreichende Ursache."
+      ],
+      "answer": 3,
+      "explanation": "Die Kombination aus vorbestehender Vulnerabilität und mehreren Belastungen (Stressoren plus Drogen) überschreitet gemeinsam die Schwelle – genau die Modelllogik. Keine der Einzelursachen (nur Familie, nur Cannabis) genügt, Zufall ohne Disposition passt nicht, und die Schwelle ist interindividuell verschieden.",
+      "topic": "Vulnerabilitäts-Stress-Modell",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zur genetischen Ätiologie (Beispiel Schizophrenie) trifft am ehesten zu?",
+      "options": [
+        "Genetische Faktoren spielen für die Entstehung nachweislich keine Rolle.",
+        "Die Störung wird durch ein einzelnes, klar identifiziertes Hauptgen verursacht.",
+        "Die vollständige Erblichkeit lässt sich durch die bereits bekannten Einzelgene lückenlos aufklären und vorhersagen.",
+        "Die Störung ist hoch erblich, das Risiko verteilt sich aber polygen auf viele Gene mit je kleinem Beitrag.",
+        "Der Anteil eines einzelnen Gens an der Gesamtvarianz ist regelhaft sehr groß."
+      ],
+      "answer": 3,
+      "explanation": "Schizophrenie ist hoch erblich, folgt aber einem polygenetischen Modell: viele Gene tragen je einen kleinen Anteil bei. Es gibt kein einzelnes Hauptgen, Genetik ist nicht irrelevant, der Einzelbeitrag ist klein (nicht groß), und die Erblichkeit ist nicht lückenlos aufgeklärt (Stichwort „missing heritability“).",
+      "topic": "Genetik der Ätiologie"
+    },
+    {
+      "question": "Was bezeichnet das Problem der „missing heritability“ am ehesten?",
+      "options": [
+        "dass jedes gefundene Gen die gesamte Varianz einer Störung erklärt.",
+        "dass psychische Störungen entgegen früheren Annahmen tatsächlich gar nicht erblich, sondern rein umweltbedingt sind.",
+        "dass die bekannten Einzelgene die hohe Erblichkeit bislang nicht vollständig erklären.",
+        "dass Umweltfaktoren für die Entstehung keine Bedeutung mehr haben.",
+        "dass die Erblichkeit ausschließlich über ein einziges Gen vermittelt wird."
+      ],
+      "answer": 2,
+      "explanation": "„Missing heritability“ meint, dass die identifizierten Gene die (aus Zwillingsstudien bekannte) hohe Erblichkeit nicht vollständig aufklären. Es besagt nicht, dass Störungen nicht erblich seien, dass ein Gen alles erkläre, dass Umwelt egal sei oder dass nur ein Gen beteiligt sei.",
+      "topic": "Genetik der Ätiologie",
+      "hard": true
+    },
+    {
+      "question": "Bei einer affektiven Störung wird betont, dass „lediglich Vulnerabilität vererbt wird“. Was folgt daraus am ehesten?",
+      "options": [
+        "Die vererbte Anfälligkeit führt erst im Zusammenspiel mit Auslösefaktoren zur Erkrankung.",
+        "Die Störung entsteht ausschließlich sozial, ohne jede biologische Komponente.",
+        "Auslösefaktoren wie Verluste oder körperliche Umstellungen sind für den Ausbruch der Erkrankung völlig bedeutungslos.",
+        "Die Erkrankung selbst wird direkt und unausweichlich weitervererbt.",
+        "Die genetische Belastung ist ätiologisch vollkommen irrelevant."
+      ],
+      "answer": 0,
+      "explanation": "Vererbt wird nur die Vulnerabilität; sie bedingt zusammen mit Auslösern (z. B. Verluste, hormonelle Umstellungen) das Auftreten der Erkrankung. Die Erkrankung selbst wird nicht direkt vererbt, Auslöser sind bedeutsam, die genetische Belastung ist nicht irrelevant und die Entstehung nicht rein sozial.",
+      "topic": "Genetik der Ätiologie",
+      "transfer": true
+    },
+    {
+      "question": "Eine deutlich höhere Konkordanz bei eineiigen als bei zweieiigen Zwillingen (z. B. bei bipolarer Störung) spricht am ehesten für:",
+      "options": [
+        "eine ausschließlich durch das Erziehungsmilieu bedingte Entstehung.",
+        "eine identische Erkrankungswahrscheinlichkeit bei ein- und zweieiigen Zwillingen.",
+        "das völlige Fehlen jeder genetischen Beteiligung an der Störung.",
+        "eine bedeutsame genetische Komponente, ohne dass die Umwelt bedeutungslos wäre.",
+        "eine vollständige und alleinige genetische Determination der Störung."
+      ],
+      "answer": 3,
+      "explanation": "Höhere Konkordanz bei eineiigen als bei zweieiigen Zwillingen zeigt eine bedeutsame genetische Komponente; da die Konkordanz aber nicht 100 % erreicht, bleibt die Umwelt relevant. Es folgt weder vollständige Determination noch fehlende Genetik noch eine rein milieubedingte oder gleiche Wahrscheinlichkeit.",
+      "topic": "Genetik der Ätiologie",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Was ist mit „Anlage-Umwelt-Interaktion“ im Sinne epigenetischer Prozesse am ehesten gemeint?",
+      "options": [
+        "dass allein die Umwelt ohne genetische Beteiligung die Störung bestimmt.",
+        "dass die DNA-Sequenz selbst durch wiederholte Lernerfahrungen in ihrer Basenabfolge dauerhaft umgeschrieben wird.",
+        "dass die Kombination aus Umweltereignis und Genkonstellation die Genexpression verändern kann.",
+        "dass Gene und Umwelt streng getrennt und ohne jede Wechselwirkung wirken.",
+        "dass ausschließlich die Gene ohne jeden Umwelteinfluss den Phänotyp festlegen."
+      ],
+      "answer": 2,
+      "explanation": "Epigenetische Anlage-Umwelt-Interaktion meint, dass Umweltereignisse in Kombination mit der Genkonstellation die Genexpression verändern. Gene und Umwelt sind gerade nicht getrennt; die DNA-Sequenz selbst wird dabei nicht umgeschrieben; und weder Umwelt noch Gene wirken allein.",
+      "topic": "Gen-Umwelt-Interaktion & Epigenetik"
+    },
+    {
+      "question": "Ein Patient hat sowohl ein frühes Kindheitstrauma als auch adoleszenten Cannabiskonsum in der Vorgeschichte; sein Psychoserisiko ist erhöht. Welches Konzept beschreibt diesen Zusammenhang am ehesten?",
+      "options": [
+        "eine komplexe Gen-Umwelt-Interaktion mit epigenetischen Veränderungen (z. B. am COMT-Gen).",
+        "eine rein zufällige Koinzidenz ohne ätiologische Bedeutung.",
+        "eine monokausale genetische Verursachung ohne jeden Umweltanteil.",
+        "ein reines Verlaufsphänomen, das die Entstehung nicht betrifft.",
+        "eine ausschließlich soziale Verursachung ganz ohne jegliche biologische oder genetische Mechanismen."
+      ],
+      "answer": 0,
+      "explanation": "Frühes Trauma plus adoleszenter Cannabiskonsum erhöhen das Psychoserisiko über eine komplexe Gen-Umwelt-Interaktion mit epigenetischen Veränderungen (z. B. COMT). Es ist nicht monokausal genetisch, keine bedeutungslose Koinzidenz, kein reines Verlaufsphänomen und nicht rein sozial ohne biologische Mechanismen.",
+      "topic": "Gen-Umwelt-Interaktion & Epigenetik",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zur Gen-Umwelt-Interaktion (Beispiele aus der Vorlesung) trifft am ehesten NICHT zu?",
+      "options": [
+        "Einzelne Gene leisten meist nur einen geringen Beitrag zur Gesamtvarianz.",
+        "Bestimmte Genvarianten wurden in Interaktion mit Cannabis in mehreren Studien mit deutlich erhöhtem Psychoserisiko assoziiert.",
+        "Umweltfaktoren wie Cannabis oder frühes Trauma wirken unabhängig von jeder genetischen Konstellation.",
+        "Epigenetische Veränderungen können Ausdruck solcher Anlage-Umwelt-Kombinationen sein.",
+        "Frühes Trauma wurde in Interaktion mit bestimmten Genen mit erhöhtem Risiko assoziiert."
+      ],
+      "answer": 2,
+      "explanation": "Falsch (gesucht): Der Kern der Gen-Umwelt-Interaktion ist gerade, dass Umweltfaktoren NICHT unabhängig von der Genkonstellation wirken, sondern mit ihr interagieren. Richtig sind: Genvarianten × Cannabis bzw. × frühes Trauma erhöhen das Risiko, epigenetische Veränderungen als Ausdruck dieser Kombination und der kleine Einzelbeitrag einzelner Gene.",
+      "topic": "Gen-Umwelt-Interaktion & Epigenetik",
+      "hard": true
+    },
+    {
+      "question": "In der Debatte um die „Ursachen von Sucht“ werden gegensätzliche Sichtweisen zitiert. Welche Zuordnung trifft am ehesten zu?",
+      "options": [
+        "Sucht wird ausschließlich als soziales Phänomen ohne jede Lernkomponente verstanden.",
+        "Sucht wird durchgängig als rein genetisch determiniert und unbeeinflussbar beschrieben.",
+        "Sucht wird sowohl als „Hirnerkrankung“ als auch als „Störung von Lernen und Gedächtnis“ diskutiert.",
+        "Sucht wird als ausschließlich durch bewusste Entscheidung steuerbar dargestellt.",
+        "Sucht gilt einhellig und ausschließlich als eine reine Willensschwäche ganz ohne jede biologische Basis."
+      ],
+      "answer": 2,
+      "explanation": "Die zitierten Positionen fassen Sucht einerseits als „brain disease“ (Hirnerkrankung) und andererseits als „disease of learning and memory“ (Störung von Lernen/Gedächtnis) – zwei sich ergänzende ätiologische Sichtweisen. Die übrigen Optionen (reine Willensschwäche, rein sozial, rein genetisch, rein bewusst steuerbar) verkürzen die Debatte unzulässig.",
+      "topic": "Sucht-Ursachen & Grawe"
+    },
+    {
+      "question": "Das Grawe-Zitat „Keine Intervention verändert das Gehirn so spezifisch wie Psychotherapie“ unterstützt am ehesten welche Aussage?",
+      "options": [
+        "Das Gehirn ist für die Entstehung psychischer Störungen letztlich ohne jede Bedeutung.",
+        "Psychotherapie ist völlig wirkungslos, da angeblich nur Medikamente das Gehirn überhaupt verändern können.",
+        "Biologische und psychologische Perspektiven schließen einander vollständig aus.",
+        "Psychotherapie verändert ausschließlich das Verhalten, nie neuronale Prozesse.",
+        "Psychologische Interventionen wirken auf biologischer Ebene und überbrücken so den Schulengegensatz."
+      ],
+      "answer": 4,
+      "explanation": "Das Zitat zeigt, dass Psychotherapie (eine psychologische Intervention) das Gehirn spezifisch verändert – biologische und psychologische Ebene sind also verbunden, was den Schulengegensatz überbrückt. Es besagt nicht, dass Psychotherapie wirkungslos sei, dass sich die Perspektiven ausschließen, dass das Gehirn irrelevant sei oder dass Psychotherapie keine neuronalen Prozesse berühre.",
+      "topic": "Sucht-Ursachen & Grawe",
+      "hard": true
+    },
+    {
+      "question": "Das Beispiel „Doppeldiagnose Psychose und Sucht“ fasst eine bio-psycho-soziale Ätiologie zusammen. Welche Aussage dazu trifft am ehesten NICHT zu?",
+      "options": [
+        "Frühe prodromale Veränderungen im Erleben können dem Vollbild vorausgehen.",
+        "Die Entstehung lässt sich vollständig auf einen einzelnen ätiologischen Faktor zurückführen.",
+        "Genetische Überlappung, frühe Traumatisierung und Cannabiskonsum wirken zusammen.",
+        "Beeinträchtigte Grundbedürfnisse (Sicherheit, Kontrolle, Bindung) spielen eine Rolle.",
+        "Ein Teufelskreis aus Konsum zur kurzfristigen Affektregulation und mittelfristiger Psychoseinduktion wird beschrieben."
+      ],
+      "answer": 1,
+      "explanation": "Falsch (gesucht): Gerade das Doppeldiagnose-Beispiel zeigt eine multifaktorielle Entstehung – NICHT die Rückführbarkeit auf einen einzelnen Faktor. Richtig sind: Zusammenwirken von genetischer Überlappung, Trauma und Cannabis; der Teufelskreis Affektregulation ↔ Psychoseinduktion; frühe prodromale Veränderungen; beeinträchtigte Grundbedürfnisse.",
+      "topic": "Doppeldiagnose & Therapie-Indikation",
+      "trap": "Bio-psycho-sozial heißt multifaktoriell – die „eine Ursache“ ist die Falle."
+    },
+    {
+      "question": "Warum lässt sich sagen, dass die ätiologische Perspektive die Indikation einer Therapieform „erklärt“?",
+      "options": [
+        "weil einzig und allein die Pharmakotherapie als ätiologisch begründbare Behandlung gelten kann.",
+        "weil die Therapieform unabhängig von jeder Ursachenannahme zufällig gewählt wird.",
+        "weil die Wahl der Therapie allein von der Diagnosenummer abhängt.",
+        "weil aus dem angenommenen Ursachenmodell folgt, welche Behandlungsform inhaltlich naheliegt.",
+        "weil die Ätiologie ausschließlich den Verlauf, nie die Behandlung betrifft."
+      ],
+      "answer": 3,
+      "explanation": "Aus dem angenommenen Ursachenmodell folgt eine passende Behandlungslogik (biologische Perspektive → biologische Verfahren; psychologische Perspektiven → psychotherapeutische Verfahren) – eine moderne bio-psycho-soziale Sicht verbindet beides. Die Wahl ist nicht zufällig, nicht auf Pharmakotherapie beschränkt, nicht auf den Verlauf begrenzt und nicht allein von der Diagnosenummer bestimmt.",
+      "topic": "Doppeldiagnose & Therapie-Indikation"
+    },
+    {
+      "question": "Welche Erklärung der Depression gehört am ehesten zur psychologischen Ebene?",
+      "options": [
+        "die Monoaminmangel-Hypothese des neuronalen Botenstoffhaushalts im Gehirn.",
+        "die Manifestation als Symptomträger eines gestörten familiären Systems.",
+        "eine genetisch bedingte biologische Vulnerabilität für affektive Störungen.",
+        "die Cortisol-Hypothese der biologischen Stressachsen-Regulation.",
+        "die erlernte Hilflosigkeit bzw. die Verstärkerverlust-Hypothese."
+      ],
+      "answer": 4,
+      "explanation": "Erlernte Hilflosigkeit und Verstärkerverlust sind lerntheoretisch-psychologische Erklärungsmodelle der Depression. Monoaminmangel und Cortisol-Hypothese sowie eine genetische Vulnerabilität gehören zur biologischen Ebene, das gestörte Familiensystem zur sozialen bzw. systemischen Ebene.",
+      "topic": "Bio-psycho-soziale Ebenen",
+      "transfer": true
+    }
+  ]
+}

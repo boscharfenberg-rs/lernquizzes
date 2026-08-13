@@ -284,6 +284,13 @@
       "title": "Allgemeine Psychopathologie & AMDP-Befund",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Allgemeine Psychopathologie und der psychopathologische Befund nach AMDP: Domänen (Bewusstsein, Orientierung, Aufmerksamkeit/Gedächtnis, formale & inhaltliche Denkstörungen, Sinnestäuschungen, Ich-Störungen, Affektivität, Antrieb/Psychomotorik) und Kernbegriffe mit Abgrenzung. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen. Ohne Ätiologie."
+    },
+    {
+      "id": "kl-aetiologie-biopsychosozial",
+      "file": "kl-aetiologie-biopsychosozial.json",
+      "title": "Ätiologie psychischer Störungen (bio-psycho-sozial)",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Ätiologie psychischer Störungen (KliPs Teil 1, bis „Doppeldiagnose Psychose und Sucht“): Grundbegriffe, Menschenbilder & Schulenstreit, medizinisches vs. bio-psycho-soziales Modell, Vulnerabilität und Risikofaktoren, Vulnerabilitäts-Stress-Modell, Genetik sowie Gen-Umwelt-Interaktion und Epigenetik. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }
