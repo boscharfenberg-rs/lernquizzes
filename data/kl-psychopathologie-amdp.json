@@ -1,0 +1,420 @@
+{
+  "id": "kl-psychopathologie-amdp",
+  "title": "Allgemeine Psychopathologie & AMDP-Befund",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Allgemeine Psychopathologie und der psychopathologische Befund nach AMDP: Domänen (Bewusstsein, Orientierung, Aufmerksamkeit/Gedächtnis, formale und inhaltliche Denkstörungen, Sinnestäuschungen, Ich-Störungen, Affektivität, Antrieb/Psychomotorik) sowie Kernbegriffe und ihre Abgrenzung. 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen. Ätiologie ausgeklammert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Was beschreibt das AMDP-System am ehesten?",
+      "options": [
+        "eine Therapieleitlinie, die konkrete Behandlungsschritte je Störungsbild vorschreibt.",
+        "ein ätiologisches Modell, das psychische Störungen nach ihren Ursachen ordnet und erklärt.",
+        "ein standardisiertes System zur Dokumentation des psychopathologischen (und somatischen) Befunds.",
+        "eine epidemiologische Datenbank zur Erfassung von Prävalenzen psychischer Störungen.",
+        "ein Testverfahren zur Messung der Intelligenz und kognitiven Leistungsfähigkeit."
+      ],
+      "answer": 2,
+      "explanation": "Das AMDP-System dient der standardisierten, einheitlichen Beschreibung und Dokumentation psychopathologischer (und somatischer) Befunde – es erfasst den Ist-Zustand über definierte Merkmale. Es ist kein Ätiologiemodell (macht keine Ursachenaussagen), keine Therapieleitlinie, kein Intelligenztest und keine Prävalenz-Datenbank.",
+      "topic": "AMDP-System & Befund"
+    },
+    {
+      "question": "Welche der folgenden gehört am ehesten NICHT zu den Domänen des psychopathologischen Befunds nach AMDP?",
+      "options": [
+        "Ätiologische Zuordnung der Störung zu bio-psycho-sozialen Ursachen.",
+        "Störungen der Affektivität (z. B. Affektlabilität, Parathymie).",
+        "Ich-Störungen (z. B. Depersonalisation, Gedankenausbreitung).",
+        "Antriebs- und psychomotorische Störungen (z. B. Stupor, Agitiertheit).",
+        "Formale Denkstörungen (z. B. Denktempo und Denkablauf)."
+      ],
+      "answer": 0,
+      "explanation": "Der AMDP-Befund beschreibt Symptome, nicht deren Ursachen – eine ätiologische Zuordnung ist bewusst kein Bestandteil und daher gesucht. Formale Denkstörungen, Störungen der Affektivität, Ich-Störungen sowie Antriebs-/psychomotorische Störungen sind dagegen etablierte AMDP-Domänen.",
+      "topic": "AMDP-System & Befund"
+    },
+    {
+      "question": "Ein psychopathologischer Befund nach AMDP bildet am ehesten ab:",
+      "options": [
+        "die vollständige Lebensgeschichte und Biografie mit allen prägenden Ereignissen.",
+        "die endgültige ICD-Diagnose inklusive Schweregrad und Verlaufstyp.",
+        "den aktuellen Querschnitt der beobachtbaren psychischen Symptome der Person.",
+        "die genetische Vulnerabilität und die neurobiologischen Ursachen der Störung.",
+        "die zu erwartende Prognose und den wahrscheinlichen Krankheitsverlauf."
+      ],
+      "answer": 2,
+      "explanation": "Der Befund ist eine Querschnittsbeschreibung der aktuell beobachtbaren/erfragbaren Symptome. Er ist weder die Biografie noch die fertige Diagnose (diese folgt erst über Symptom→Syndrom→Diagnose), noch eine Prognose oder eine Ursachenaussage.",
+      "topic": "AMDP-System & Befund"
+    },
+    {
+      "question": "Zu welcher AMDP-Domäne gehört das Symptom „Konfabulation“ (Ausfüllen von Gedächtnislücken mit erfundenen Inhalten) am ehesten?",
+      "options": [
+        "zu den inhaltlichen Denkstörungen im Sinne eines Wahns.",
+        "zu den Aufmerksamkeits- und Gedächtnisstörungen.",
+        "zu den Ich-Störungen im Sinne einer Depersonalisation.",
+        "zu den Sinnestäuschungen im Sinne einer Halluzination.",
+        "zu den Störungen der Affektivität im Sinne einer Parathymie."
+      ],
+      "answer": 1,
+      "explanation": "Konfabulationen sind ein mnestisches Phänomen und gehören zu den Aufmerksamkeits-/Gedächtnisstörungen (Lücken werden unbewusst mit erfundenen Inhalten gefüllt). Sie sind kein Wahn (keine unkorrigierbare Überzeugung), keine Halluzination (keine Wahrnehmung), keine Ich-Störung und keine Affektstörung.",
+      "topic": "AMDP-System & Befund",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Welche Aussage zu quantitativen Bewusstseinsstörungen (Vigilanzminderung) trifft am ehesten NICHT zu?",
+      "options": [
+        "Sopor bezeichnet einen schlafähnlichen Zustand, aus dem nur durch starke Reize kurz erweckbar.",
+        "Die Bewusstseinstrübung mit traumhaft-verändertem Erleben ist ein rein quantitatives Merkmal.",
+        "Somnolenz beschreibt eine deutliche Schläfrigkeit bei erhaltener Erweckbarkeit.",
+        "Koma ist die schwerste Form mit fehlender Erweckbarkeit auf äußere Reize.",
+        "Benommenheit bezeichnet eine leichte Verminderung der Wachheit und Reaktionsbereitschaft."
+      ],
+      "answer": 1,
+      "explanation": "Falsch (gesucht): Die Bewusstseinstrübung mit verändertem, traumhaftem Erleben ist eine qualitative Bewusstseinsstörung, nicht quantitativ. Benommenheit, Somnolenz, Sopor und Koma bilden dagegen die quantitative Abstufung der Vigilanz (Wachheit) korrekt ab.",
+      "topic": "Bewusstsein & Orientierung",
+      "hard": true,
+      "trap": "Quantitativ = Vigilanz/Wachheit; qualitativ = Art/Klarheit des Bewusstseins (z. B. Trübung, Einengung)."
+    },
+    {
+      "question": "Eine Patientin weiß nicht, welcher Wochentag oder Monat gerade ist, kennt aber Ort und eigene Person. Welche Störung liegt am ehesten vor?",
+      "options": [
+        "eine Orientierungsstörung zur eigenen Person.",
+        "eine situative Orientierungsstörung.",
+        "eine formale Denkstörung im Sinne der Zerfahrenheit.",
+        "eine zeitliche Orientierungsstörung.",
+        "eine Ich-Störung im Sinne der Derealisation."
+      ],
+      "answer": 3,
+      "explanation": "Fehlt die Einordnung von Datum/Wochentag/Jahreszeit, ist die zeitliche Orientierung gestört. Situativ (Situationsverständnis) und zur Person (eigene Identität) sind hier intakt; Zerfahrenheit (formales Denken) und Derealisation (Ich-Störung) betreffen andere Qualitäten.",
+      "topic": "Bewusstsein & Orientierung"
+    },
+    {
+      "question": "Welche Zuordnung von Orientierungsqualität und Beschreibung trifft am ehesten NICHT zu?",
+      "options": [
+        "Orientierung zur Person meint das Wissen um die eigene Identität und Biografie.",
+        "Zeitliche Orientierung meint das Wissen um Datum, Wochentag und Jahreszeit.",
+        "Orientierungsstörungen können einzelne Qualitäten selektiv betreffen.",
+        "Situative Orientierung meint das Erfassen der aktuellen Situation.",
+        "Örtliche Orientierung meint das Wissen um das aktuelle Datum und die Uhrzeit."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): Die örtliche Orientierung betrifft den Aufenthaltsort, nicht das Datum/die Uhrzeit (das ist die zeitliche Orientierung). Die übrigen Zuordnungen (zeitlich, situativ, zur Person) sowie die selektive Betroffenheit einzelner Qualitäten sind korrekt.",
+      "topic": "Bewusstsein & Orientierung"
+    },
+    {
+      "question": "Wie unterscheiden sich „Merkfähigkeit“ und „Gedächtnis“ (Altgedächtnis) am ehesten?",
+      "options": [
+        "Beide Begriffe sind gleichbedeutend und bezeichnen dieselbe Gedächtnisleistung ohne zeitliche Unterscheidung.",
+        "Merkfähigkeit betrifft ausschließlich Kindheitserinnerungen, Gedächtnis nur aktuelle Reize.",
+        "Merkfähigkeit meint die Wahrnehmung, Gedächtnis die Orientierung zur Zeit.",
+        "Merkfähigkeit ist eine Affektstörung, Gedächtnis eine Antriebsstörung.",
+        "Merkfähigkeit betrifft das kurzfristige Behalten neuer Inhalte, Gedächtnis das längerfristige Speichern."
+      ],
+      "answer": 4,
+      "explanation": "Merkfähigkeit ist das kurzfristige Behalten (Minuten bis ~10 min) neuer Inhalte, das Gedächtnis (Altgedächtnis) das längerfristige Speichern und Abrufen. Die anderen Optionen verwechseln die Begriffe, setzen sie gleich oder ordnen sie fälschlich Affekt/Antrieb/Wahrnehmung/Orientierung zu.",
+      "topic": "Aufmerksamkeit & Gedächtnis"
+    },
+    {
+      "question": "Ein Patient kann einer längeren Erklärung nicht folgen und erfasst ihren Sinn nicht richtig. Welche Störung beschreibt das am ehesten?",
+      "options": [
+        "eine Ich-Störung im Sinne des Gedankenentzugs.",
+        "eine Auffassungsstörung.",
+        "eine Sinnestäuschung im Sinne einer Illusion.",
+        "eine inhaltliche Denkstörung im Sinne eines Wahns.",
+        "eine Orientierungsstörung zur Person."
+      ],
+      "answer": 1,
+      "explanation": "Das Erfassen und Verstehen von Zusammenhängen ist die Auffassung; ist es beeinträchtigt, liegt eine Auffassungsstörung (Bereich Aufmerksamkeit/Gedächtnis) vor. Orientierung, Illusion, Gedankenentzug und Wahn beschreiben andere Phänomene.",
+      "topic": "Aufmerksamkeit & Gedächtnis",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zu Amnesien trifft am ehesten NICHT zu?",
+      "options": [
+        "Amnesien zählen zu den Gedächtnisstörungen im AMDP-Befund.",
+        "Konfabulationen können bestehende Gedächtnislücken unbewusst überdecken und mit erfundenen Inhalten füllen.",
+        "Eine anterograde Amnesie betrifft Erinnerungen aus der Zeit vor dem schädigenden Ereignis.",
+        "Eine retrograde Amnesie betrifft die Zeit vor dem schädigenden Ereignis.",
+        "Eine anterograde Amnesie betrifft die Zeit nach dem schädigenden Ereignis."
+      ],
+      "answer": 2,
+      "explanation": "Falsch (gesucht): Die anterograde Amnesie betrifft die Zeit NACH dem Ereignis (neue Inhalte werden nicht behalten), nicht davor. Richtig sind: retrograd = vor dem Ereignis; anterograd = nach dem Ereignis; Amnesien sind Gedächtnisstörungen; Konfabulationen können Lücken überdecken.",
+      "topic": "Aufmerksamkeit & Gedächtnis",
+      "hard": true,
+      "trap": "anterograd = nach dem Ereignis; retrograd = vor dem Ereignis."
+    },
+    {
+      "question": "Was kennzeichnet „formale Denkstörungen“ am ehesten?",
+      "options": [
+        "reizunabhängige Wahrnehmungen ohne entsprechenden äußeren Reiz.",
+        "das Erleben, eigene Gedanken seien von außen gemacht oder entzogen.",
+        "Störungen des Denkinhalts wie unkorrigierbare Wahnüberzeugungen.",
+        "Störungen des Denkablaufs, des Tempos und der Struktur des Denkens.",
+        "eine verminderte affektive Schwingungsfähigkeit mit flachem Affekt."
+      ],
+      "answer": 3,
+      "explanation": "Formale Denkstörungen betreffen das WIE des Denkens – Ablauf, Tempo, Zusammenhang (z. B. Verlangsamung, Ideenflucht, Zerfahrenheit). Der Denkinhalt (Wahn) sind inhaltliche Denkstörungen; Halluzinationen, Ich-Störungen und Affektverflachung gehören zu anderen Domänen.",
+      "topic": "Formale Denkstörungen"
+    },
+    {
+      "question": "Ein Patient wechselt sprunghaft zwischen vielen Themen; die Gedanken sind assoziativ gelockert, aber der rote Faden ist noch nachvollziehbar. Was liegt am ehesten vor?",
+      "options": [
+        "ein Gedankenabreißen (Sperrung).",
+        "eine Perseveration mit ständigem Haften am selben Inhalt.",
+        "eine Zerfahrenheit mit völlig zusammenhanglosem Denken.",
+        "eine Ideenflucht.",
+        "eine gehemmte, verlangsamte Denkweise."
+      ],
+      "answer": 3,
+      "explanation": "Beschleunigtes, sprunghaftes Denken mit gelockerten, aber noch nachvollziehbaren Assoziationen ist die Ideenflucht. Gedankenabreißen ist ein plötzlicher Abbruch, Denkhemmung das Gegenteil (verlangsamt), Zerfahrenheit ist völlig zusammenhanglos, Perseveration ist das Haften am Gleichen.",
+      "topic": "Formale Denkstörungen",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Welche Zuordnung einer formalen Denkstörung trifft am ehesten NICHT zu?",
+      "options": [
+        "Neologismen sind wahnhafte Überzeugungen ohne realen Anlass.",
+        "Eingeengtes Denken haftet an wenigen Themen mit reduziertem Spielraum.",
+        "Umständliches Denken verliert sich in unwesentlichen Nebensächlichkeiten.",
+        "Perseveration ist das beharrliche Wiederholen desselben Gedankens oder Wortes.",
+        "Gedankenabreißen ist ein plötzlicher Abbruch des Gedankengangs."
+      ],
+      "answer": 0,
+      "explanation": "Falsch (gesucht): Neologismen sind Wortneubildungen (eine formale Denkstörung), keine wahnhaften Überzeugungen. Perseveration, Gedankenabreißen, umständliches und eingeengtes Denken sind dagegen korrekt beschriebene formale Denkstörungen.",
+      "topic": "Formale Denkstörungen"
+    },
+    {
+      "question": "Wie ist „Wahn“ am ehesten definiert?",
+      "options": [
+        "eine affektiv stark besetzte, aber grundsätzlich noch korrigierbare Idee.",
+        "ein sich aufdrängender, als unsinnig erkannter und als eigen erlebter Gedanke.",
+        "eine reizunabhängige Sinneswahrnehmung ganz ohne einen entsprechenden äußeren Reiz.",
+        "das Erleben, die Umgebung sei fremd, unwirklich und verändert.",
+        "eine beweisunabhängige, unkorrigierbare und inhaltlich unmögliche Überzeugung."
+      ],
+      "answer": 4,
+      "explanation": "Wahn ist eine beweisunabhängige, unkorrigierbare, inhaltlich unmögliche Überzeugung. Die reizunabhängige Wahrnehmung ist die Halluzination, der aufdrängend-eigene Gedanke der Zwangsgedanke, die korrigierbare affektbesetzte Idee die überwertige Idee, und das Fremdheitserleben der Umgebung die Derealisation.",
+      "topic": "Wahn (inhaltliche Denkstörungen)"
+    },
+    {
+      "question": "Was gilt für die „Wahnstimmung“ am ehesten?",
+      "options": [
+        "eine reizunabhängige akustische Halluzination in Form von Stimmen.",
+        "eine ahnungsvolle, bedeutungsschwangere Vorstufe, inhaltlich noch nicht ausgestaltet.",
+        "ein bereits vollständig systematisierter Wahn mit fixem Inhalt.",
+        "ein plötzlicher, unvermittelter Abbruch des Gedankengangs mit einer Leere mitten im Satz.",
+        "das Erleben, eigene Gedanken würden von außen entzogen."
+      ],
+      "answer": 1,
+      "explanation": "Die Wahnstimmung ist die frühe, ahnungsvolle Gestimmtheit (etwas liegt bedeutungsvoll in der Luft), die inhaltlich noch nicht festgelegt ist. Sie ist gerade kein fertig systematisierter Wahn, keine Halluzination, kein Gedankenabreißen und kein Gedankenentzug.",
+      "topic": "Wahn (inhaltliche Denkstörungen)",
+      "hard": true
+    },
+    {
+      "question": "Wie unterscheidet sich eine „überwertige Idee“ am ehesten vom Wahn?",
+      "options": [
+        "Die überwertige Idee betrifft ausschließlich die eigene körperliche Gesundheit.",
+        "Die überwertige Idee tritt definitionsgemäß nur bei erhaltener Orientierung auf.",
+        "Die überwertige Idee ist inhaltlich stets unmöglich und niemals korrigierbar.",
+        "Die überwertige Idee ist affektiv stark besetzt, aber prinzipiell noch korrigierbar.",
+        "Die überwertige Idee ist eine reizunabhängige Wahrnehmung mit Realitätsverlust."
+      ],
+      "answer": 3,
+      "explanation": "Die überwertige Idee ist eine emotional hoch besetzte, das Denken dominierende Überzeugung, die aber – anders als der Wahn – grundsätzlich noch korrigierbar bleibt. Sie ist nicht per se unmöglich/unkorrigierbar, keine Wahrnehmung, nicht auf die Gesundheit beschränkt und nicht über die Orientierung definiert.",
+      "topic": "Wahn (inhaltliche Denkstörungen)",
+      "trap": "Kernunterschied ist die (Un-)Korrigierbarkeit, nicht der Inhalt."
+    },
+    {
+      "question": "Ein Patient hält sich für unheilbar verarmt und überzeugt, kein Geld mehr für Essen zu haben, obwohl sein Konto gut gefüllt ist. Welches Wahnthema liegt am ehesten vor?",
+      "options": [
+        "ein Verfolgungswahn.",
+        "ein Schuldwahn.",
+        "ein Größenwahn.",
+        "ein Beziehungswahn.",
+        "ein Verarmungswahn."
+      ],
+      "answer": 4,
+      "explanation": "Die unkorrigierbare Überzeugung, mittellos/verarmt zu sein, ist der Verarmungswahn (typisch u. a. bei wahnhafter Depression). Verfolgungswahn (bedroht/verfolgt), Größenwahn (überhöhte Bedeutung), Beziehungswahn (alles bezieht sich auf einen) und Schuldwahn (übergroße Schuld) haben andere Inhalte.",
+      "topic": "Wahn (inhaltliche Denkstörungen)",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zur Abgrenzung von Halluzination und Illusion trifft am ehesten NICHT zu?",
+      "options": [
+        "Eine Illusion ist eine Wahrnehmung ganz ohne zugrunde liegenden äußeren Reiz.",
+        "Halluzinationen können verschiedene Sinnesmodalitäten betreffen.",
+        "Eine Halluzination ist eine reizunabhängige Wahrnehmung mit Realitätscharakter.",
+        "Bei der Illusion ist ein realer Reiz vorhanden, wird aber fehlgedeutet.",
+        "Eine Illusion ist die Verkennung eines real vorhandenen Sinnesreizes."
+      ],
+      "answer": 0,
+      "explanation": "Falsch (gesucht): Eine Illusion setzt gerade einen realen Reiz voraus, der verkannt wird – nicht das Fehlen eines Reizes (das kennzeichnet die Halluzination). Die übrigen Aussagen (Halluzination reizunabhängig; Illusion = Verkennung eines realen Reizes; verschiedene Modalitäten) sind korrekt.",
+      "topic": "Sinnestäuschungen"
+    },
+    {
+      "question": "Ein Patient berichtet, elektrische, von außen gemachte Missempfindungen im ganzen Körper zu spüren. Welche Sinnestäuschung liegt am ehesten vor?",
+      "options": [
+        "eine akustische Halluzination in Form von Stimmen.",
+        "eine optische Halluzination mit Trugbildern.",
+        "eine Körper-/Leibhalluzination (Zönästhesie).",
+        "eine Illusion durch Verkennung eines realen Reizes.",
+        "eine olfaktorische Halluzination mit Geruchswahrnehmung."
+      ],
+      "answer": 2,
+      "explanation": "Als gemacht erlebte, abnorme Körpermissempfindungen sind Leib-/Körperhalluzinationen (Zönästhesien). Akustische, optische und olfaktorische Halluzinationen betreffen andere Modalitäten; eine Illusion setzt einen realen, verkannten Reiz voraus.",
+      "topic": "Sinnestäuschungen",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Was kennzeichnet eine „Pseudohalluzination“ am ehesten?",
+      "options": [
+        "eine Wahrnehmung mit vollem Realitätscharakter und fehlender Korrigierbarkeit.",
+        "das Erleben, die eigene Person sei fremd und verändert.",
+        "die Verkennung eines tatsächlich real vorhandenen äußeren Sinnesreizes in der unmittelbaren Umgebung.",
+        "eine Sinnestäuschung, die als nicht real erkannt wird (erhaltene Realitätsprüfung).",
+        "eine unkorrigierbare, inhaltlich unmögliche Überzeugung ohne Sinnesbezug."
+      ],
+      "answer": 3,
+      "explanation": "Bei der Pseudohalluzination wird die Sinnestäuschung als nicht wirklich erkannt – die Realitätsprüfung bleibt erhalten. Damit unterscheidet sie sich von der echten Halluzination (voller Realitätscharakter), vom Wahn (Überzeugung), von der Illusion (realer Reiz) und von der Depersonalisation.",
+      "topic": "Sinnestäuschungen"
+    },
+    {
+      "question": "Welches Symptom zählt im AMDP-Befund am ehesten zur Domäne „Befürchtungen und Zwänge“?",
+      "options": [
+        "Wahngedanken, die als unkorrigierbare und inhaltlich unmögliche Überzeugung bestehen.",
+        "Ideenflucht, bei der das Denken sprunghaft und assoziativ gelockert verläuft.",
+        "Zwangsgedanken, die sich als unsinnig erkannt aufdrängen und nicht abweisbar sind.",
+        "Konfabulationen, bei denen Gedächtnislücken mit erfundenen Inhalten gefüllt werden.",
+        "Gedankeneingebung, bei der Gedanken als von außen gemacht erlebt werden."
+      ],
+      "answer": 2,
+      "explanation": "Zwangsgedanken (aufdrängend, als unsinnig erkannt, als eigen erlebt, nicht abweisbar) gehören zur AMDP-Domäne Befürchtungen und Zwänge (ebenso Phobien und hypochondrische Befürchtungen). Wahngedanken sind inhaltliche Denkstörungen, die Gedankeneingebung ist eine Ich-Störung, die Ideenflucht eine formale Denkstörung und Konfabulationen sind Gedächtnisstörungen.",
+      "topic": "Befürchtungen & Zwänge"
+    },
+    {
+      "question": "Zu welcher AMDP-Domäne zählen Depersonalisation und Derealisation am ehesten?",
+      "options": [
+        "zu den Sinnestäuschungen.",
+        "zu den Ich-Störungen.",
+        "zu den Orientierungsstörungen.",
+        "zu den Störungen der Affektivität.",
+        "zu den formalen Denkstörungen."
+      ],
+      "answer": 1,
+      "explanation": "Depersonalisation (das eigene Ich wirkt fremd) und Derealisation (die Umwelt wirkt fremd/unwirklich) werden im AMDP-Befund den Ich-Störungen zugeordnet. Sie sind keine Sinnestäuschungen, formalen Denkstörungen, Affekt- oder Orientierungsstörungen.",
+      "topic": "Ich-Störungen"
+    },
+    {
+      "question": "Ein Patient erlebt, dass sich seine Gedanken unkontrolliert nach außen ausbreiten und andere sie mithören können. Welche Störung liegt am ehesten vor?",
+      "options": [
+        "eine Gedankenausbreitung (Ich-Störung).",
+        "eine akustische Halluzination (Sinnestäuschung).",
+        "ein Gedankenabreißen (formale Denkstörung).",
+        "ein Beziehungswahn (inhaltliche Denkstörung).",
+        "eine Parathymie (Affektstörung)."
+      ],
+      "answer": 0,
+      "explanation": "Das Erleben, eigene Gedanken breiteten sich aus und seien für andere zugänglich, ist die Gedankenausbreitung – eine Ich-Störung (Störung der Meinhaftigkeit/Ich-Grenze). Es ist keine Wahrnehmung (Halluzination), kein Wahninhalt, kein Denkabbruch und keine Affektstörung.",
+      "topic": "Ich-Störungen",
+      "transfer": true
+    },
+    {
+      "question": "Welche Zuordnung im Bereich der Ich-Störungen trifft am ehesten NICHT zu?",
+      "options": [
+        "Derealisation bedeutet, dass die Umgebung fremd und unwirklich erscheint.",
+        "Gedankeneingebung bedeutet, dass Gedanken als von außen gemacht erlebt werden.",
+        "Depersonalisation bedeutet, dass die eigene Person fremd erlebt wird.",
+        "Gedankenentzug bedeutet, dass Gedanken als von außen weggenommen erlebt werden.",
+        "Gedankenentzug bedeutet, dass die Person fremde Gedanken laut hört."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): Gedankenentzug meint das Erleben, dass Gedanken weggenommen werden – nicht das laute Hören fremder Gedanken (das wäre eine Halluzination). Gedankenentzug, Gedankeneingebung, Derealisation und Depersonalisation sind ansonsten korrekt beschrieben.",
+      "topic": "Ich-Störungen",
+      "trap": "Gedankenentzug = Wegnahme; das Hören von Gedanken wäre eine Sinnestäuschung."
+    },
+    {
+      "question": "Was beschreibt eine „Parathymie“ am ehesten?",
+      "options": [
+        "einen Ausdrucksaffekt, der nicht zum berichteten Erleben oder Inhalt passt.",
+        "einen raschen, unkontrollierten Wechsel der Stimmungslage.",
+        "eine Stimmung, deren Inhalt zur affektiven Lage passt (stimmungskongruent).",
+        "das gleichzeitige Nebeneinander gegensätzlicher Gefühle zum selben Objekt.",
+        "eine dauerhaft verminderte affektive Schwingungsfähigkeit (flacher Affekt)."
+      ],
+      "answer": 0,
+      "explanation": "Parathymie ist die Inkongruenz von Affekt und Inhalt (z. B. Lächeln beim Bericht über Trauriges). Der flache Affekt ist eine Verminderung der Schwingungsfähigkeit, der rasche Wechsel die Affektlabilität, das Nebeneinander gegensätzlicher Gefühle die Ambivalenz und die Passung von Inhalt und Stimmung die Synthymie.",
+      "topic": "Störungen der Affektivität",
+      "hard": true
+    },
+    {
+      "question": "Welche Aussage zu „ich-synton“ und „synthym“ trifft am ehesten NICHT zu?",
+      "options": [
+        "Ich-syntones Erleben ist typisch für Persönlichkeitsstörungen und wird als stimmig und zugehörig empfunden.",
+        "Ein „synthymer Wahn“ ist inhaltlich zur Stimmungslage passend (stimmungskongruent).",
+        "Ich-syntones Erleben wird als stimmig und zur eigenen Person gehörig empfunden.",
+        "Die Silbe „-thym“ verweist auf die Stimmung (vgl. dysthym, zyklothym).",
+        "„Synthym“ beschreibt, dass ein Erleben als zur eigenen Person zugehörig empfunden wird."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): „synthym“ bezieht sich auf die Stimmung (thym = Stimmung), nicht auf die Zugehörigkeit zur Person – das Als-zur-Person-passend-Erleben ist ich-synton. Richtig sind: „-thym“ = Stimmung; synthymer Wahn = stimmungskongruent; ich-synton = stimmig/zugehörig; typisch für Persönlichkeitsstörungen.",
+      "topic": "Störungen der Affektivität",
+      "trap": "thym = Stimmung; ich-synton = zur Person passend – nicht vermischen."
+    },
+    {
+      "question": "Ein Patient beschreibt eine quälende innere Leere und das Gefühl, überhaupt nichts mehr fühlen zu können. Welches Merkmal beschreibt das am ehesten?",
+      "options": [
+        "eine euphorische Affektsteigerung.",
+        "das Gefühl der Gefühllosigkeit.",
+        "eine Parathymie mit inkongruentem Ausdruck.",
+        "eine gesteigerte affektive Ansprechbarkeit.",
+        "eine Affektlabilität mit raschem Stimmungswechsel."
+      ],
+      "answer": 1,
+      "explanation": "Das subjektiv erlebte Nicht-mehr-fühlen-Können ist das „Gefühl der Gefühllosigkeit“ (Anhedonie-nahes Merkmal der Affektivität). Euphorie, Affektlabilität, Parathymie und gesteigerte Ansprechbarkeit beschreiben gegensätzliche bzw. andere Affektphänomene.",
+      "topic": "Störungen der Affektivität",
+      "transfer": true
+    },
+    {
+      "question": "Was kennzeichnet einen „Stupor“ am ehesten?",
+      "options": [
+        "ein sprunghaft beschleunigtes, assoziativ gelockertes Denken.",
+        "eine reizunabhängige Wahrnehmung ganz ohne einen zugrunde liegenden äußeren Sinnesreiz.",
+        "eine unkorrigierbare, inhaltlich unmögliche Überzeugung.",
+        "einen Zustand von Regungslosigkeit und fehlender Reaktion bei wachem Bewusstsein.",
+        "eine hochgradige motorische Unruhe mit ungerichtetem Bewegungsdrang."
+      ],
+      "answer": 3,
+      "explanation": "Stupor bezeichnet weitgehende Bewegungs- und Reaktionslosigkeit bei (meist) wachem Bewusstsein – eine psychomotorische Störung. Die motorische Unruhe ist das Gegenteil (Agitiertheit), die übrigen Optionen beschreiben Halluzination, Wahn und Ideenflucht.",
+      "topic": "Antrieb & Psychomotorik"
+    },
+    {
+      "question": "Welche Aussage zu Antriebs- und psychomotorischen Störungen trifft am ehesten NICHT zu?",
+      "options": [
+        "Agitiertheit bezeichnet eine von Unruhe getragene motorische Getriebenheit.",
+        "Mutismus bezeichnet das Nicht-Sprechen bei erhaltener Sprechfähigkeit.",
+        "Mutismus bezeichnet einen ungerichteten, gesteigerten Bewegungsdrang.",
+        "Antriebsarmut bezeichnet einen Mangel an Energie und Initiative.",
+        "Antriebssteigerung geht mit vermehrter Aktivität und Unternehmungsdrang einher."
+      ],
+      "answer": 2,
+      "explanation": "Falsch (gesucht): Mutismus ist das Verstummen/Nicht-Sprechen (bei prinzipiell erhaltener Fähigkeit), kein gesteigerter Bewegungsdrang. Antriebsarmut, Antriebssteigerung, Agitiertheit und die zweite (korrekte) Mutismus-Beschreibung treffen dagegen zu.",
+      "topic": "Antrieb & Psychomotorik"
+    },
+    {
+      "question": "Ein Patient sitzt seit Stunden bewegungslos, spricht nicht und reagiert kaum, ist aber wach und bei erhaltenem Bewusstsein. Welche Kombination beschreibt den Befund am ehesten?",
+      "options": [
+        "Stupor mit Mutismus (psychomotorische Störung).",
+        "Agitiertheit mit Logorrhoe (gesteigerte Psychomotorik).",
+        "Ideenflucht mit Rededrang (formale Denkstörung).",
+        "Somnolenz mit Vigilanzminderung (Bewusstseinsstörung).",
+        "Derealisation mit Depersonalisation (Ich-Störung)."
+      ],
+      "answer": 0,
+      "explanation": "Bewegungslosigkeit plus Verstummen bei wachem Bewusstsein ist Stupor mit Mutismus. Agitiertheit/Logorrhoe wären das Gegenteil, Ideenflucht betrifft das Denken, Somnolenz eine Vigilanzminderung (hier nicht: Patient ist wach) und Derealisation/Depersonalisation das Ich-Erleben.",
+      "topic": "Antrieb & Psychomotorik",
+      "transfer": true,
+      "hard": true
+    }
+  ]
+}

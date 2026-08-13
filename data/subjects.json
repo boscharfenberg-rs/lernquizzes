@@ -277,6 +277,13 @@
       "title": "Klassifikation & Psychopathologie (KliPs Teil 1)",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Grundlagen der psychiatrischen Klassifikation und allgemeine Psychopathologie (KliPs Teil 1): Geschichte, deskriptiv-atheoretischer Ansatz, ICD-10/ICD-11, allgemeine Störungskriterien, Konstruktcharakter und Kernbegriffe (Wahn, Halluzination, synton/synthym). 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "kl-psychopathologie-amdp",
+      "file": "kl-psychopathologie-amdp.json",
+      "title": "Allgemeine Psychopathologie & AMDP-Befund",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Allgemeine Psychopathologie und der psychopathologische Befund nach AMDP: Domänen (Bewusstsein, Orientierung, Aufmerksamkeit/Gedächtnis, formale & inhaltliche Denkstörungen, Sinnestäuschungen, Ich-Störungen, Affektivität, Antrieb/Psychomotorik) und Kernbegriffe mit Abgrenzung. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen. Ohne Ätiologie."
     }
   ]
 }
