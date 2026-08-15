@@ -312,6 +312,13 @@
       "title": "A&O · Kommunikation (Kernfolien)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Interaktion und Kommunikation aus dem Kernfoliensatz: Kommunikationsmodelle (Shannon & Weaver, Schulz von Thun, Grice, Rogers, Watzlawick, Hargie), Kommunikationsformen, Kommunikation in Organisationen (formal/informell, vertikal/horizontal, Gerüchte) sowie Nicht-Kommunikation (Ostrazismus, Knowledge Hiding, Working Out Loud). 30 Fragen mit Anwendungsfällen (A–E)."
+    },
+    {
+      "id": "auo-coaching-kernfolien",
+      "file": "auo-coaching-kernfolien.json",
+      "title": "A&O · Coaching (Kernfolien)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Coaching aus dem Kernfoliensatz: Definition und Abgrenzung (Beratung, Supervision, Mentoring, Therapie, Mediation, Training), Zieltypen (Skills-, Performance-, Developmental-Coaching), theoretische Ansätze (klientenzentriert, systemisch, lösungs-/ressourcenorientiert, kognitiv-behavioral), Formen/Settings, Struktur, Methoden (Fragetypen, aktives Zuhören, Empathie) und Wirksamkeit. 30 Fragen mit Anwendungsfällen (A–E)."
     }
   ]
 }
