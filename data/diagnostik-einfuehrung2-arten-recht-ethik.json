@@ -1,0 +1,417 @@
+{
+  "id": "diagnostik-einfuehrung2-arten-recht-ethik",
+  "title": "Einführung II: Arten, Recht & Ethik (Sitzung 2)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Grundlagen aus VL1 Sitzung 2: Arten psychologischer Diagnostik (Eigenschaft/Verhalten, Status/Veränderung, Selektion/Modifikation), gesellschaftlicher Nutzen sowie gesetzliche Rahmenbedingungen (Normenpyramide, EMRK, Grundgesetz, StGB §203/§138) und ethische Richtlinien. 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Was kennzeichnet die Eigenschaftsdiagnostik am ehesten?",
+      "options": [
+        "Personen werden anhand ihrer Testwerte für bestimmte Positionen ausgewählt.",
+        "Der Ist-Zustand wird wiederholt erfasst, um Veränderungen über die Zeit abzubilden.",
+        "Aus repräsentativen Stichproben des aktuell gezeigten Verhaltens wird auf künftiges Verhalten geschlossen.",
+        "Von zeitlich stabilen, situationsunabhängigen Eigenschaften wird auf zukünftiges Verhalten geschlossen.",
+        "Ausschließlich das direkt beobachtbare Verhalten in der Situation ist von Interesse."
+      ],
+      "answer": 3,
+      "explanation": "Eigenschaftsdiagnostik schließt von weitgehend stabilen, situationsunabhängigen Eigenschaften (traits) auf zukünftiges Verhalten. Das Schließen aus Verhaltensstichproben bzw. der reine Fokus auf Beobachtbares kennzeichnet die Verhaltensdiagnostik; die wiederholte Ist-Erfassung ist Veränderungsdiagnostik; die Auswahl nach Testwerten ist Selektionsdiagnostik.",
+      "topic": "Eigenschafts- vs. Verhaltensdiagnostik"
+    },
+    {
+      "question": "Wie sind „Eigenschaften“ (traits) in der Eigenschaftsdiagnostik am ehesten zu verstehen?",
+      "options": [
+        "als unmittelbar beobachtbare Verhaltensweisen in einer konkreten Situation.",
+        "als ausschließlich physiologische Messgrößen des Körpers ohne jegliche psychische oder kognitive Anteile.",
+        "als situational stark schwankende Reaktionen ohne jede zeitliche Stabilität.",
+        "als nicht direkt beobachtbare, hypothetische Konstrukte bzw. Verhaltensdispositionen.",
+        "Keine dieser Antwortalternativen ist richtig."
+      ],
+      "answer": 3,
+      "explanation": "Eigenschaften sind nicht direkt beobachtbar, sondern hypothetische, gedankliche Konstrukte (Verhaltensdispositionen); Verhaltensweisen sind lediglich Indikatoren dafür. Sie sind daher weder unmittelbar beobachtbar noch instabil-situational noch rein physiologisch – und da die erste Option zutrifft, ist „keine ist richtig“ falsch.",
+      "topic": "Eigenschafts- vs. Verhaltensdiagnostik"
+    },
+    {
+      "question": "Welche Aussage zur Verhaltensdiagnostik trifft am ehesten NICHT zu?",
+      "options": [
+        "Sie steht in der Tradition des Behaviorismus.",
+        "Ihr Interesse gilt dem direkt Beobachtbaren, nicht inneren Konstrukten oder Gefühlen.",
+        "Sie schließt von zeitlich stabilen inneren Eigenschaften auf das zukünftige Verhalten.",
+        "Sie betrachtet Verhalten als situational abhängig und als Funktion früherer Konsequenzen.",
+        "Sie nutzt repräsentative Verhaltensstichproben wie Beobachtung, Rollenspiel oder Arbeitsprobe."
+      ],
+      "answer": 2,
+      "explanation": "Falsch (gesucht): Der Schluss von stabilen inneren Eigenschaften auf Verhalten kennzeichnet gerade die Eigenschaftsdiagnostik, nicht die Verhaltensdiagnostik. Richtig sind: Situationsabhängigkeit, Verhaltensstichproben, Fokus auf Beobachtbares und die behavioristische Tradition.",
+      "topic": "Eigenschafts- vs. Verhaltensdiagnostik",
+      "hard": true
+    },
+    {
+      "question": "Ein Intelligenztest und ein Persönlichkeitsfragebogen sind typische Instrumente welcher Art von Diagnostik?",
+      "options": [
+        "der Eigenschaftsdiagnostik.",
+        "der Bedingungsselektion.",
+        "der Bedingungsmodifikation.",
+        "der Veränderungsdiagnostik.",
+        "der Verhaltensdiagnostik."
+      ],
+      "answer": 0,
+      "explanation": "Intelligenztest und Persönlichkeitsfragebogen erfassen stabile Eigenschaften (traits) und gehören zur Eigenschaftsdiagnostik. Verhaltensdiagnostik nutzt Verhaltensstichproben (Beobachtung, Rollenspiel); Veränderungsdiagnostik erfasst wiederholt; Bedingungsmodifikation und Bedingungsselektion betreffen Umwelt/Bedingungen, nicht die Eigenschaftsmessung.",
+      "topic": "Eigenschafts- vs. Verhaltensdiagnostik",
+      "transfer": true
+    },
+    {
+      "question": "Wie bewertet die Vorlesung das Verhältnis von Eigenschafts- und Verhaltensperspektive?",
+      "options": [
+        "Beide Perspektiven gelten inzwischen als wissenschaftlich widerlegt.",
+        "Keine der beiden ist perfekt; ein „gesundes Mittelmaß“ ist anzustreben.",
+        "Nur innere Konstrukte, nicht die Umwelt, sind diagnostisch bedeutsam.",
+        "Die Verhaltensperspektive ist in jedem Fall vorzuziehen.",
+        "Die Eigenschaftsperspektive ist der Verhaltensperspektive eindeutig überlegen."
+      ],
+      "answer": 1,
+      "explanation": "Die Vorlesung betont, dass weder die eine noch die andere Perspektive perfekt ist und ein „gesundes Mittelmaß“ gilt – neben Eigenschaften sollen auch Ursachen und aufrechterhaltende Umweltbedingungen beachtet werden. Keine der Perspektiven ist überlegen oder widerlegt, und die Umwelt ist gerade nicht bedeutungslos.",
+      "topic": "Eigenschafts- vs. Verhaltensdiagnostik"
+    },
+    {
+      "question": "Was kennzeichnet die Statusdiagnostik am ehesten?",
+      "options": [
+        "die kontinuierliche Anpassung einer laufenden Intervention an neue Messwerte.",
+        "die Auswahl geeigneter Personen für eine bestimmte Position.",
+        "die wiederholte Erfassung des Ist-Zustands zur systematischen Beobachtung von Veränderungen über die Zeit.",
+        "die Evaluation, ob ein angestrebtes Interventionsziel erreicht wurde.",
+        "die einmalige Feststellung des aktuellen Ist-Zustands, häufig als Eingangsdiagnostik."
+      ],
+      "answer": 4,
+      "explanation": "Statusdiagnostik erfasst einmalig den aktuellen Stand, oft als Eingangsdiagnostik (Prüfung, ob eine Intervention nötig ist). Wiederholte Erfassung, kontinuierliche Anpassung und Zielerreichungs-Evaluation gehören zur Veränderungsdiagnostik; die Personenauswahl ist Selektionsdiagnostik.",
+      "topic": "Status- vs. Veränderungsdiagnostik"
+    },
+    {
+      "question": "Welche zwei Funktionen umfasst die Veränderungsdiagnostik?",
+      "options": [
+        "Eingangsdiagnostik und einmalige Feststellung des Ist-Zustands.",
+        "Verhaltensmodifikation und Bedingungsmodifikation.",
+        "Erfolgskontrolle und Verlaufs-/Prozessdiagnostik.",
+        "Objektivität und Reliabilität als Gütekriterien.",
+        "Personenselektion und Bedingungsselektion."
+      ],
+      "answer": 2,
+      "explanation": "Veränderungsdiagnostik dient der Erfolgskontrolle (wurde das Ziel erreicht?) und der Verlaufs-/Prozessdiagnostik (kontinuierliche Erfassung, ggf. Anpassung). Eingangs-/Statusfeststellung ist Statusdiagnostik; Selektions- bzw. Modifikationsformen betreffen die dritte Dichotomie; Objektivität/Reliabilität sind Gütekriterien.",
+      "topic": "Status- vs. Veränderungsdiagnostik"
+    },
+    {
+      "question": "Vor Beginn einer Maßnahme wird erhoben, ob überhaupt eine Intervention erforderlich ist. Welche Diagnostik liegt hier am ehesten vor?",
+      "options": [
+        "Modifikationsdiagnostik zur Verhaltensänderung.",
+        "Selektionsdiagnostik zur Personenauswahl.",
+        "Statusdiagnostik (im Sinne einer Eingangsdiagnostik).",
+        "Veränderungsdiagnostik als Erfolgskontrolle.",
+        "Verlaufs-/Prozessdiagnostik zur laufenden Anpassung der Maßnahme."
+      ],
+      "answer": 2,
+      "explanation": "Die einmalige Prüfung des Ist-Zustands zu Beginn (Ist eine Intervention nötig?) ist eine Eingangs- und damit Statusdiagnostik. Verlaufs- und Erfolgskontroll-Aspekte gehören zur Veränderungsdiagnostik; Modifikation und Selektion betreffen die dritte Dichotomie.",
+      "topic": "Status- vs. Veränderungsdiagnostik",
+      "transfer": true
+    },
+    {
+      "question": "Was ist das Kennzeichen der Verlaufs-/Prozessdiagnostik?",
+      "options": [
+        "die kontinuierliche Erfassung der Zielmerkmale mit ggf. Anpassung der Intervention.",
+        "die abschließende Prüfung, ob ein Ziel am Ende erreicht wurde.",
+        "die Veränderung der Umweltbedingungen wie Arbeitszeit, Arbeitsplatz oder Aufgabenzuschnitt.",
+        "die Auswahl passender Personen für vorhandene Positionen.",
+        "die einmalige Feststellung des aktuellen Standes zu einem Zeitpunkt."
+      ],
+      "answer": 0,
+      "explanation": "Die Verlaufs-/Prozessdiagnostik erfasst die zu verändernden Merkmale kontinuierlich und passt die Intervention bei Bedarf an. Die einmalige Feststellung ist Statusdiagnostik; Personenauswahl ist Selektion; Bedingungsänderung ist Modifikation; die abschließende Zielprüfung ist die Erfolgskontrolle.",
+      "topic": "Status- vs. Veränderungsdiagnostik"
+    },
+    {
+      "question": "Was unterscheidet Selektions- von Modifikationsdiagnostik am grundlegendsten?",
+      "options": [
+        "Selektion ist einmalig, Modifikation stets ohne jede Messung.",
+        "Beide Begriffe bezeichnen dasselbe diagnostische Vorgehen.",
+        "Selektion zielt auf das Auswählen, Modifikation auf das Verändern.",
+        "Selektion erfasst Eigenschaften, Modifikation erfasst Verhalten.",
+        "Selektion zielt auf das Verändern, Modifikation auf das Auswählen."
+      ],
+      "answer": 2,
+      "explanation": "Selektion bedeutet Auswählen (von Personen oder Bedingungen), Modifikation bedeutet Verändern (von Verhalten oder Bedingungen). Die umgekehrte Zuordnung ist falsch; die Eigenschafts-/Verhaltensunterscheidung ist eine andere Dichotomie; und die Begriffe sind nicht bedeutungsgleich.",
+      "topic": "Selektions- vs. Modifikationsdiagnostik"
+    },
+    {
+      "question": "Die Auswahl von Bewerber*innen für eine ausgeschriebene Stelle ist ein Beispiel für ...",
+      "options": [
+        "Bedingungsselektion.",
+        "Verlaufsdiagnostik.",
+        "Bedingungsmodifikation.",
+        "Personenselektion.",
+        "Verhaltensmodifikation."
+      ],
+      "answer": 3,
+      "explanation": "Das Auswählen von Personen (z. B. Bewerber*innen, Auszubildende, Studierende) ist Personenselektion. Bedingungsselektion wählt Wege/Bedingungen (z. B. Berufsberatung); Verhaltens- bzw. Bedingungsmodifikation verändert Verhalten bzw. Umwelt; Verlaufsdiagnostik betrifft die Statushistorie.",
+      "topic": "Selektions- vs. Modifikationsdiagnostik",
+      "transfer": true
+    },
+    {
+      "question": "Eine Berufs- oder Studienberatung, die für eine Person den passenden Weg bzw. die passenden Bedingungen ermittelt, ist ein Beispiel für ...",
+      "options": [
+        "Verhaltensmodifikation.",
+        "Statusdiagnostik.",
+        "Personenselektion.",
+        "Bedingungsselektion.",
+        "Bedingungsmodifikation."
+      ],
+      "answer": 3,
+      "explanation": "Wird nicht die Person, sondern die passende Bedingung/der Weg ausgewählt (Berufs-/Studienberatung), handelt es sich um Bedingungsselektion. Personenselektion wählt Menschen aus; Modifikationsformen verändern; Statusdiagnostik erfasst den Ist-Zustand.",
+      "topic": "Selektions- vs. Modifikationsdiagnostik"
+    },
+    {
+      "question": "Ein Coaching oder ein Trainingsprogramm zur Veränderung des Verhaltens einer Person ist ein Beispiel für ...",
+      "options": [
+        "Bedingungsselektion.",
+        "Personenselektion.",
+        "Bedingungsmodifikation.",
+        "Eigenschaftsdiagnostik.",
+        "Verhaltensmodifikation."
+      ],
+      "answer": 4,
+      "explanation": "Training, Coaching und Aus-/Fortbildung zielen auf die Veränderung des Verhaltens einer Person – das ist Verhaltensmodifikation. Bedingungsmodifikation verändert die Umwelt (Arbeitszeit, Arbeitsplatz, Aufgaben); Selektionsformen wählen aus; Eigenschaftsdiagnostik misst traits.",
+      "topic": "Selektions- vs. Modifikationsdiagnostik",
+      "transfer": true
+    },
+    {
+      "question": "Die Umgestaltung von Arbeitszeit, Arbeitsplatz oder Aufgaben zählt zu welcher Kategorie?",
+      "options": [
+        "zur Veränderungsdiagnostik.",
+        "zur Bedingungsmodifikation.",
+        "zur Bedingungsselektion.",
+        "zur Personenselektion.",
+        "zur Verhaltensmodifikation."
+      ],
+      "answer": 1,
+      "explanation": "Das Verändern von Umwelt-/Rahmenbedingungen (Arbeitszeit, Arbeitsplatz, Aufgaben) ist Bedingungsmodifikation. Verhaltensmodifikation verändert das Verhalten der Person; Selektionsformen wählen aus; Veränderungsdiagnostik ist die Zeit-Dichotomie, nicht die Modifikationsart.",
+      "topic": "Selektions- vs. Modifikationsdiagnostik"
+    },
+    {
+      "question": "Eine Firma wählt die Bewerber*in mit dem höchsten Wert im Persönlichkeitsfragebogen aus. Welche Arten der Diagnostik sind hier am ehesten kombiniert?",
+      "options": [
+        "Eigenschafts-, Verlaufs- und Bedingungsmodifikationsdiagnostik.",
+        "Verhaltens-, Status- und Bedingungsselektionsdiagnostik.",
+        "Keine dieser Antwortalternativen ist richtig.",
+        "Verhaltens-, Veränderungs- und Modifikationsdiagnostik.",
+        "Eigenschafts-, Status- und Selektionsdiagnostik."
+      ],
+      "answer": 4,
+      "explanation": "Der Fragebogen erfasst eine Eigenschaft (Eigenschaftsdiagnostik), einmalig (Statusdiagnostik), und die Person wird ausgewählt (Personen-/Selektionsdiagnostik). Die anderen Kombinationen mischen Veränderungs-/Modifikations- bzw. Verhaltensanteile hinein, die hier nicht zutreffen.",
+      "topic": "Arten kombiniert (Anwendung)",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Eine Schulpsychologin beobachtet einen Lehrer im Unterricht, stellt ihm ein Training zur Selbstwirksamkeit zusammen und beobachtet ihn ein halbes Jahr später erneut. Welche Kombination beschreibt das am ehesten?",
+      "options": [
+        "reine Eigenschaftsdiagnostik zur einmaligen Selektion.",
+        "Verhaltensdiagnostik mit Veränderungs- und Modifikationsanteil.",
+        "ausschließlich reine Bedingungsselektion ganz ohne jeden konkreten Verhaltensbezug.",
+        "Keine dieser Antwortalternativen ist richtig.",
+        "reine Statusdiagnostik ohne jeden Veränderungsanteil."
+      ],
+      "answer": 1,
+      "explanation": "Die Beobachtung ist Verhaltensdiagnostik, die wiederholte Erfassung Veränderungs-/Verlaufsdiagnostik und das Training Verhaltensmodifikation. Es ist weder reine Eigenschafts-/Selektionsdiagnostik noch reine Statusdiagnostik noch bloße Bedingungsselektion – daher ist auch „keine ist richtig“ falsch.",
+      "topic": "Arten kombiniert (Anwendung)",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "question": "Was gilt in der Praxis für die drei Dichotomien der Diagnostikarten?",
+      "options": [
+        "Sie sind praktisch bedeutungslos und nur theoretische Konstrukte.",
+        "Sie gelten ausschließlich in der klinischen, nie in der Arbeitsdiagnostik.",
+        "Sie schließen einander gegenseitig vollständig aus.",
+        "Es darf immer nur genau eine Art zugleich angewendet werden.",
+        "Sie treten meist in Mischung auf, nicht in Reinform."
+      ],
+      "answer": 4,
+      "explanation": "Psychologische Diagnostik ist meistens eine Mischung aus den drei Arten. Sie schließen einander nicht aus, sind nicht auf eine Art beschränkt, keineswegs bedeutungslos und nicht auf einen einzelnen Anwendungsbereich begrenzt.",
+      "topic": "Arten kombiniert (Anwendung)"
+    },
+    {
+      "question": "Was gilt laut Vorlesung für den Nutzen diagnostischer Verfahren (Varianzaufklärung)?",
+      "options": [
+        "Sie ist oft klein, im Vergleich zu Zusammenhängen anderer Disziplinen aber relativ beachtlich.",
+        "Andere wissenschaftliche Disziplinen zeigen durchgehend deutlich stärkere und stabilere Zusammenhänge.",
+        "Diagnostische Verfahren haben nachweislich keinen praktischen Nutzen.",
+        "Sie klärt in der Regel nahezu die gesamte Verhaltensvarianz auf.",
+        "Die Höhe der Varianzaufklärung ist für die Bewertung irrelevant."
+      ],
+      "answer": 0,
+      "explanation": "Die Varianzaufklärung diagnostischer Verfahren ist oft „recht klein“, erscheint aber im Vergleich mit Zusammenhängen aus anderen Disziplinen (die oft geringer ausfallen) durchaus beachtlich. Sie klärt nicht die gesamte Varianz auf, ist nicht nutzlos, andere Disziplinen sind nicht durchweg stärker, und die Höhe ist sehr wohl relevant.",
+      "topic": "Gesellschaftlicher Nutzen",
+      "hard": true
+    },
+    {
+      "question": "Was gilt in der Normenpyramide bei einem Widerspruch zwischen zwei Normen?",
+      "options": [
+        "Rechtsverordnungen gehen dem Grundgesetz vor.",
+        "Das niederrangige Gesetz hat stets Vorrang.",
+        "Beide Normen sind immer gleichrangig zu behandeln.",
+        "Das ranghöhere Gesetz hat Vorrang.",
+        "Einfache Gesetze gehen dem EU-Recht vor."
+      ],
+      "answer": 3,
+      "explanation": "Bei Widerspruch hat die ranghöhere (allgemeinere) Norm Vorrang. Das niederrangige Gesetz setzt sich nicht durch, die Normen sind nicht gleichrangig, Rechtsverordnungen stehen unter dem Grundgesetz und einfache Gesetze unter dem EU-Recht.",
+      "topic": "Normenpyramide"
+    },
+    {
+      "question": "Welche Aussage zur Normenpyramide trifft am ehesten NICHT zu?",
+      "options": [
+        "Je weiter oben eine Norm steht, desto allgemeiner ist sie.",
+        "Rechtsverordnungen stehen in der Normenpyramide über dem Grundgesetz.",
+        "Strafgesetzbuch und Bürgerliches Gesetzbuch sind einfache deutsche Gesetze.",
+        "Bei Widerspruch hat das ranghöhere Gesetz Vorrang.",
+        "Das Recht der Europäischen Gemeinschaft steht ganz oben."
+      ],
+      "answer": 1,
+      "explanation": "Falsch (gesucht): Rechtsverordnungen stehen NICHT über dem Grundgesetz, sondern deutlich darunter. Richtig sind: EU-Recht ganz oben, oben ist allgemeiner, StGB/BGB sind einfache Gesetze, und ranghöheres Recht hat Vorrang.",
+      "topic": "Normenpyramide"
+    },
+    {
+      "question": "Welches Recht schützt Art. 8(1) der Europäischen Menschenrechtskonvention mit besonderer Relevanz für die Diagnostik?",
+      "options": [
+        "die Unantastbarkeit der Menschenwürde.",
+        "das Recht auf körperliche Unversehrtheit und Freiheit.",
+        "die Achtung des Privat- und Familienlebens (Schutz der Privatsphäre).",
+        "das Recht auf freie Entfaltung der Persönlichkeit.",
+        "die berufliche Schweigepflicht über anvertraute fremde Privatgeheimnisse nach dem Strafgesetzbuch."
+      ],
+      "answer": 2,
+      "explanation": "Art. 8(1) EMRK schützt die Achtung des Privat- und Familienlebens (sowie Wohnung und Briefverkehr) – für die Diagnostik im Sinne des Schutzes der Privatsphäre. Menschenwürde und freie Entfaltung stehen im Grundgesetz, die Schweigepflicht im StGB, die Unversehrtheit in Art. 2(2) GG.",
+      "topic": "EMRK & Grundgesetz"
+    },
+    {
+      "question": "Aus dem Recht auf freie Entfaltung der Persönlichkeit (Art. 2(1) GG) folgt für die Diagnostik am ehesten ...",
+      "options": [
+        "Freiwilligkeit der Testteilnahme und Selbstbestimmung über den Zugang zu den Ergebnissen.",
+        "das Recht des Arbeitgebers auf uneingeschränkten Zugang zu allen Testdaten.",
+        "die Pflicht zur Teilnahme an angeordneten Tests ohne Ausnahme.",
+        "die generelle Zulässigkeit von „Schubladendenken“ zur endgültigen Einordnung von Personen in feste Kategorien.",
+        "Keine dieser Antwortalternativen ist richtig."
+      ],
+      "answer": 0,
+      "explanation": "Aus Art. 2(1) GG folgen u. a. Freiwilligkeit der Testteilnahme (Ausnahmen nur gesetzlich geregelt), Selbstbestimmung über den Zugang zu den Ergebnissen und das Verbot von „Schubladendenken“. Eine Teilnahmepflicht, ein uneingeschränkter Arbeitgeberzugang oder erlaubtes Schubladendenken widersprechen dem gerade.",
+      "topic": "EMRK & Grundgesetz"
+    },
+    {
+      "question": "Wie ist Zwangsdiagnostik laut Vorlesung einzuordnen?",
+      "options": [
+        "jederzeit und ohne jede besondere gesetzliche Voraussetzung uneingeschränkt zulässig.",
+        "nur bei gesetzlicher Grundlage und unter Achtung der Menschenwürde zulässig.",
+        "nur bei Kindern und Jugendlichen überhaupt möglich.",
+        "grundsätzlich und ausnahmslos verboten.",
+        "allein durch die Zustimmung des Arbeitgebers gedeckt."
+      ],
+      "answer": 1,
+      "explanation": "Zwangsdiagnostik ist nur bei gesetzlicher Grundlage und unter Achtung der Menschenwürde zulässig (Bezug zu Art. 2(2) GG, körperliche Unversehrtheit/Freiheit). Sie ist weder voraussetzungslos zulässig noch ausnahmslos verboten, nicht durch Arbeitgeber-Zustimmung gedeckt und nicht auf Minderjährige beschränkt.",
+      "topic": "EMRK & Grundgesetz",
+      "transfer": true
+    },
+    {
+      "question": "Woran orientieren sich die ethischen Richtlinien der deutschen Psychologieverbände (DGPs, BDP)?",
+      "options": [
+        "Keine dieser Antwortalternativen ist richtig.",
+        "ausschließlich an der Datenschutzgrundverordnung als einziger maßgeblicher und verbindlicher Rechtsquelle.",
+        "allein am Strafgesetzbuch ohne eigene berufsethische Standards.",
+        "an den Richtlinien der APA, die detaillierter sind und weitergehende Forderungen enthalten.",
+        "ausschließlich an betrieblichen Vorgaben der jeweiligen Arbeitgeber."
+      ],
+      "answer": 3,
+      "explanation": "Die Richtlinien von DGPs und BDP sind an die der APA angelehnt, die detaillierter sind und weitergehende Forderungen enthalten. Sie orientieren sich nicht an Arbeitgebervorgaben, nicht allein am StGB und nicht ausschließlich an der DSGVO – daher ist auch „keine ist richtig“ falsch.",
+      "topic": "Ethische Richtlinien"
+    },
+    {
+      "question": "Was regelt §203 StGB mit Blick auf die psychologische Diagnostik?",
+      "options": [
+        "die Freiwilligkeit der Teilnahme an diagnostischen Tests.",
+        "die Rangordnung der Rechtsnormen in der Normenpyramide.",
+        "die Pflicht, Kenntnis von geplanten Straftaten anzuzeigen.",
+        "das umfassende Zeugnisverweigerungsrecht in sämtlichen zivilrechtlichen Gerichtsverfahren und Prozessen.",
+        "die Schweigepflicht, denn die unbefugte Offenbarung fremder Privatgeheimnisse ist strafbar."
+      ],
+      "answer": 4,
+      "explanation": "§203 StGB (Verletzung von Privatgeheimnissen) begründet die Schweigepflicht u. a. für Berufspsycholog*innen; die unbefugte Offenbarung ist strafbar. Die Anzeigepflicht geplanter Straftaten regelt §138 StGB; Zeugnisverweigerung, Freiwilligkeit und Normenpyramide betreffen andere Regelungen.",
+      "topic": "StGB §203/§138",
+      "hard": true,
+      "trap": "§203 = Schweigepflicht; §138 = Nichtanzeige geplanter Straftaten – nicht verwechseln."
+    },
+    {
+      "question": "Was regelt §138 StGB?",
+      "options": [
+        "die ethischen Anforderungen an die Erstellung psychologischer Gutachten und Untersuchungsberichte.",
+        "die Schweigepflicht über anvertraute Privatgeheimnisse.",
+        "das Recht auf freie Entfaltung der Persönlichkeit.",
+        "den Schutz des Privat- und Familienlebens nach der EMRK.",
+        "die Nichtanzeige geplanter, noch abwendbarer Straftaten (Offenbarungspflicht)."
+      ],
+      "answer": 4,
+      "explanation": "§138 StGB betrifft die Nichtanzeige geplanter Straftaten: Wer von bestimmten geplanten/laufenden Taten erfährt und sie nicht offenbart, kann bestraft werden. Die Schweigepflicht regelt §203; freie Entfaltung steht im GG; Gutachtenethik und EMRK-Schutz sind andere Bereiche.",
+      "topic": "StGB §203/§138",
+      "trap": "Offenbarungspflicht (§138) besteht nur bei noch abwendbaren Taten."
+    },
+    {
+      "question": "Ein Klient berichtet im diagnostischen Gespräch, er habe vor einigen Tagen eine Person getötet. Was gilt am ehesten?",
+      "options": [
+        "Es besteht keine Offenbarungspflicht, da die Tat nicht mehr abwendbar ist; ohne Einwilligung erfolgt keine Meldung.",
+        "Das Geständnis darf frei an beliebige Dritte weitergegeben werden.",
+        "Der Fall muss in jedem Fall sofort und ohne die Einwilligung des Klienten unverzüglich der zuständigen Polizei gemeldet werden.",
+        "Die Schweigepflicht ist mit dem Geständnis vollständig aufgehoben.",
+        "Die Familie des Klienten ist umgehend über das Geständnis zu informieren."
+      ],
+      "answer": 0,
+      "explanation": "Für eine bereits begangene, nicht mehr abwendbare Tat besteht keine Offenbarungspflicht nach §138; eine Meldung ohne Einwilligung ist gerade nicht erlaubt. Erlaubt sind u. a. Gesprächsführung, Prüfung akuter Gefährdung, Motivation zur Selbstanzeige und Einholen einer Einwilligung – nicht aber Meldung, Information Dritter oder freie Weitergabe.",
+      "topic": "StGB §203/§138",
+      "transfer": true,
+      "hard": true,
+      "trap": "„Bereits begangen“ = nicht mehr abwendbar → keine Offenbarungspflicht, Schweigepflicht bleibt."
+    },
+    {
+      "question": "Was bedeutet „Offenbaren“ im Kontext der Schweigepflicht?",
+      "options": [
+        "dass Informationen ausschließlich vollständig anonymisiert und ganz ohne Personenbezug weitergegeben werden.",
+        "dass durch die Weitergabe eine Identifizierung der betroffenen Person möglich wird.",
+        "dass der Klient selbst seine Informationen freiwillig preisgibt.",
+        "dass ein schriftliches Gutachten für den Auftraggeber erstellt wird.",
+        "dass Daten innerhalb des Behandlungsteams dokumentiert werden."
+      ],
+      "answer": 1,
+      "explanation": "„Offenbaren“ meint, dass eine Identifizierung der betroffenen Person möglich wird – erst dann ist die Schweigepflicht berührt. Anonyme Weitergabe, die Selbstauskunft des Klienten, ein Gutachten oder interne Dokumentation erfüllen diesen Begriff so nicht.",
+      "topic": "Schweigepflicht-Details"
+    },
+    {
+      "question": "Welche Aussage zur Schweigepflicht trifft am ehesten NICHT zu?",
+      "options": [
+        "In zivilrechtlichen Prozessen besteht ein Zeugnisverweigerungsrecht.",
+        "Nach Zustimmung (Datenschutzgrundverordnung) ist die Weitergabe persönlicher Informationen zulässig.",
+        "Nach Zustimmung der betroffenen Person ist eine Weitergabe grundsätzlich unzulässig.",
+        "Die Schweigepflicht bezieht sich auf die Ausübung der Berufstätigkeit.",
+        "Auch Kinder werden durch die Schweigepflicht geschützt, dem steht ein Informationsrecht der Eltern gegenüber."
+      ],
+      "answer": 2,
+      "explanation": "Falsch (gesucht): Nach Zustimmung der betroffenen Person (DSGVO) ist die Weitergabe gerade zulässig, nicht unzulässig. Richtig sind: Zulässigkeit nach Zustimmung, Zeugnisverweigerungsrecht im Zivilprozess, Schutz von Kindern bei Informationsrecht der Eltern und der Berufsbezug der Schweigepflicht.",
+      "topic": "Schweigepflicht-Details",
+      "hard": true
+    },
+    {
+      "question": "Welche Anforderung an psychologische Gutachten nennt die Vorlesung?",
+      "options": [
+        "Sorgfaltspflicht, Transparenz für Adressat*innen und keine Gefälligkeitsgutachten.",
+        "Stellungnahmen zu Gutachten von Kolleg*innen sind ausnahmslos untersagt.",
+        "Gefälligkeitsgutachten sind zulässig, wenn der Auftraggeber es ausdrücklich wünscht.",
+        "Adressat*innen dürfen grundsätzlich keine Einsicht in das Gutachten erhalten.",
+        "Die eigene Fachkompetenz ist für die Erstellung unerheblich."
+      ],
+      "answer": 0,
+      "explanation": "Gefordert werden u. a. Sorgfaltspflicht, Transparenz für Adressat*innen, Gewähren von Einsichtnahme und der Verzicht auf Gefälligkeitsgutachten; Stellungnahmen zu Kolleg*innen-Gutachten sind zulässig. Damit sind Gefälligkeitsgutachten, verwehrte Einsicht, ein Stellungnahmeverbot und Kompetenz-Gleichgültigkeit gerade nicht vereinbar.",
+      "topic": "Ethische Richtlinien"
+    }
+  ]
+}
