@@ -305,6 +305,13 @@
       "title": "VL2 · Testplanung (Sitzung 2)",
       "subject": "Psychologische Diagnostik",
       "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 2: Testplanung. Eingrenzen des Konstrukts und nomologisches Netzwerk, Operationalisierung, Indikatoren (T-/Q-/L-Daten), Merkmalsarten (qualitativ/quantitativ, Dimensionalität, Trait/State), Skalenniveaus, Testarten, Anwendungsbereich sowie Geltungsbereich, Zielgruppe, Aufbau, Testlänge und Administration. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "auo-kommunikation-kernfolien",
+      "file": "auo-kommunikation-kernfolien.json",
+      "title": "A&O · Kommunikation (Kernfolien)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Interaktion und Kommunikation aus dem Kernfoliensatz: Kommunikationsmodelle (Shannon & Weaver, Schulz von Thun, Grice, Rogers, Watzlawick, Hargie), Kommunikationsformen, Kommunikation in Organisationen (formal/informell, vertikal/horizontal, Gerüchte) sowie Nicht-Kommunikation (Ostrazismus, Knowledge Hiding, Working Out Loud). 30 Fragen mit Anwendungsfällen (A–E)."
     }
   ]
 }
