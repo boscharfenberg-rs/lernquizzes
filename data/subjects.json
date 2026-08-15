@@ -305,6 +305,13 @@
       "title": "Der diagnostische Prozess (Sitzung 3)",
       "subject": "Psychologische Diagnostik",
       "description": "VL1 Sitzung 3: Der diagnostische Prozess (globale Fragestellung, psychologische Fragen, Instrumentenauswahl, Untersuchung, Integration), Auftragsannahme/-ablehnung, Kriterien der Instrumentenauswahl sowie Einführung in Test, Teststandards und Gütekriterien (Haupt- vs. Nebengütekriterien). 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "diagnostik-vl2-itemkonstruktion-antwortformate",
+      "file": "diagnostik-vl2-itemkonstruktion-antwortformate.json",
+      "title": "VL2 · Item-Konstruktion I: Antwortformate (Sitzung 3)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 3: Aufgabentypen und Antwortformate. Freies, gebundenes (Ordnungs-, Auswahl- und Beurteilungsaufgaben) und atypisches Format, Distraktoren, Disjunktheit/Exhaustivität sowie Ratingskalen-Konstruktion. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }

@@ -1,0 +1,416 @@
+{
+  "id": "diagnostik-vl2-itemkonstruktion-antwortformate",
+  "title": "VL2 · Item-Konstruktion I: Antwortformate (Sitzung 3)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 3: Konstruktion der Items I – Aufgabentypen und Antwortformate. Freies, gebundenes (Ordnungs-, Auswahl- und Beurteilungsaufgaben) und atypisches Antwortformat, Distraktoren, Disjunktheit/Exhaustivität sowie die Konstruktion von Ratingskalen. 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Der Prozess der Entstehung eines neuen Tests beginnt mit der Testplanung. Welcher Schritt folgt unmittelbar darauf?",
+      "options": [
+        "die Erstellung der vorläufigen Testversion noch vor der Itemkonstruktion.",
+        "die Normierung bzw. die Bestimmung eines Cut-Off-Werts.",
+        "die Konstruktion der Items.",
+        "die Revision im Anschluss an die empirische Überprüfung.",
+        "die abschließende empirische Überprüfung der endgültigen Testversion."
+      ],
+      "answer": 2,
+      "explanation": "Nach der Testplanung folgt die Konstruktion der Items, danach die vorläufige Testversion, deren Überprüfung/Revision, die empirische Überprüfung/Revision und ggf. Normierung/Cut-Off. Normierung und empirische Überprüfung stehen am Ende; die vorläufige Testversion setzt bereits konstruierte Items voraus.",
+      "topic": "Testentstehung & Vorgehen"
+    },
+    {
+      "question": "Was gehört laut Vorlesung zum Vorgehen bei der „Konstruktion der Items“?",
+      "options": [
+        "die Wahl des Aufgabentyps, die Generierung konkreter Items und ihre Zusammensetzung zu einem Test.",
+        "die Einordnung des Konstrukts in ein nomologisches Netz vor jeder Planung.",
+        "die Festlegung der Rangordnung rechtlicher Normen für den Testeinsatz.",
+        "die endgültige empirische Prüfung der Reliabilität und Validität des Tests.",
+        "die abschließende Normierung des Tests an einer möglichst großen und repräsentativen Eichstichprobe der Zielpopulation."
+      ],
+      "answer": 0,
+      "explanation": "Die Itemkonstruktion umfasst die Wahl des Aufgaben-/Itemtyps, die Generierung konkreter Items und deren Zusammensetzung zum Test. Normierung und empirische Prüfung sind spätere Schritte; das nomologische Netz gehört zur Testplanung; die Normenrangordnung ist ein rechtliches Thema.",
+      "topic": "Testentstehung & Vorgehen"
+    },
+    {
+      "question": "Was bezeichnet der „Aufgabentyp“ (Itemtyp)?",
+      "options": [
+        "welche Reliabilität der Test am Ende erreicht.",
+        "wie die Beantwortung der Items vorzunehmen ist.",
+        "welche Normstichprobe für den Test herangezogen wird.",
+        "welches Konstrukt inhaltlich gemessen werden soll.",
+        "wie viele Items ein Test insgesamt enthält."
+      ],
+      "answer": 1,
+      "explanation": "Der Aufgabentyp/Itemtyp beschreibt, wie die Beantwortung der Items zu erfolgen hat, und beeinflusst Durchführung, Auswertung und Ökonomie. Das gemessene Konstrukt, die Itemzahl, die Normstichprobe und die Reliabilität sind davon zu unterscheiden.",
+      "topic": "Aufgabentyp-Grundlagen"
+    },
+    {
+      "question": "Welche Zuordnung zu den Elementen einer Aufgabe trifft am ehesten NICHT zu?",
+      "options": [
+        "Der Aufgabenstamm ist das Problem bzw. die Frage/Aufforderung zur Stellungnahme.",
+        "Das Antwortformat betrifft die Problemlösung bzw. die abgegebene Antwort.",
+        "Bei Intelligenz- und Leistungstests ist der Aufgabenstamm typischerweise ein Problem.",
+        "Das Antwortformat bezeichnet den im Item vorgelegten Problem- bzw. Fragestamm.",
+        "Bei Fragebogen ist der Aufgabenstamm eine Aussage bzw. Aufforderung zur Stellungnahme."
+      ],
+      "answer": 3,
+      "explanation": "Falsch (gesucht): Der Problem-/Fragestamm ist der Aufgabenstamm, nicht das Antwortformat. Das Antwortformat betrifft die Problemlösung/Antwort. Die übrigen Zuordnungen (Aufgabenstamm als Problem bzw. Statement, je nach Testart) sind korrekt.",
+      "topic": "Aufgabentyp-Grundlagen"
+    },
+    {
+      "question": "Welches Ziel gehört am ehesten NICHT zu den Anforderungen an angemessene Aufgaben in Tests?",
+      "options": [
+        "eine möglichst kurze Bearbeitungszeit.",
+        "eine möglichst hohe Häufigkeit von Zufallslösungen.",
+        "geringer Material- bzw. Papierverbrauch.",
+        "leichte Verständlichkeit und einfache Durchführbarkeit.",
+        "leichte Auswertbarkeit der Aufgaben."
+      ],
+      "answer": 1,
+      "explanation": "Zufallslösungen sollen gerade selten sein – eine hohe Häufigkeit ist kein Ziel, sondern zu vermeiden (daher gesucht). Verständlichkeit, einfache Durchführung, kurze Bearbeitungszeit, wenig Materialverbrauch und leichte Auswertbarkeit sind dagegen genannte Zielvorgaben.",
+      "topic": "Aufgabentyp-Grundlagen",
+      "hard": true
+    },
+    {
+      "question": "Was kennzeichnet das freie Antwortformat?",
+      "options": [
+        "Es beschränkt die Antwort ausschließlich auf ein einziges Wort.",
+        "Es verlangt stets die Beurteilung des Zustimmungsgrades zu einer Aussage.",
+        "Es werden mehrere vorgefertigte Antwortalternativen zur Auswahl vorgelegt, an die die Antwort gebunden ist.",
+        "Es ist ausschließlich für die Persönlichkeitsmessung geeignet.",
+        "Es gibt keine vorgegebenen Antwortalternativen; die Antwort wird selbst erzeugt."
+      ],
+      "answer": 4,
+      "explanation": "Beim freien Antwortformat gibt es keine vorgegebenen Alternativen; die Antwort wird selbst erzeugt (Reproduktion), die Strukturierung erfolgt über die Instruktion. Vorgegebene Alternativen kennzeichnen das gebundene Format, die Zustimmungsbeurteilung die Beurteilungsaufgabe; es ist nicht auf ein Wort oder die Persönlichkeitsmessung beschränkt.",
+      "topic": "Freies Antwortformat"
+    },
+    {
+      "question": "Welcher Vorteil kennzeichnet das freie Antwortformat?",
+      "options": [
+        "Die Auswertungsobjektivität ist auch bei langen Antworten uneingeschränkt hoch.",
+        "Zufällig richtige Antworten sind bei Wissenstests kaum möglich.",
+        "Es verhindert vollständig den Einfluss von Sprach- und Lesefähigkeit.",
+        "Die Auswertung ist besonders schnell und vollständig ohne Kodierschema möglich.",
+        "Es ist grundsätzlich das ökonomischste aller Antwortformate."
+      ],
+      "answer": 1,
+      "explanation": "Da die Antwort selbst erzeugt wird, sind zufällig richtige Antworten bei Wissenstests kaum möglich. Schnelle Auswertung ohne Kodierschema, uneingeschränkte Objektivität bei langen Antworten, hohe Ökonomie und der Ausschluss von Sprach-/Lesefähigkeit treffen gerade nicht zu (das sind Nachteile bzw. Stärken gebundener Formate).",
+      "topic": "Freies Antwortformat"
+    },
+    {
+      "question": "Welche Aussage über das freie Antwortformat trifft am ehesten NICHT zu?",
+      "options": [
+        "Bearbeitung und Auswertung erfordern vergleichsweise viel Zeit.",
+        "Mehrdeutige Antworten machen ein Kodierschema zur korrekten Kodierung nötig.",
+        "Die Auswertungsobjektivität ist eingeschränkt, je länger und komplexer die Antwort ist.",
+        "Es besteht die Gefahr, statt des Inhalts eher Intelligenz und Sprachfähigkeit zu prüfen.",
+        "Die Auswertung ist besonders ökonomisch und ohne Aufwand durchführbar."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): Das freie Format ist gerade NICHT besonders ökonomisch – Bearbeitung und Auswertung kosten viel Zeit. Richtig sind: hoher Zeitaufwand, eingeschränkte Objektivität bei langen Antworten, Bedarf an Kodierschemata und die Gefahr, Intelligenz/Sprachfähigkeit statt des Inhalts zu erfassen.",
+      "topic": "Freies Antwortformat",
+      "hard": true
+    },
+    {
+      "question": "In einem Test sollen Probanden zu einem Reiz möglichst viele originelle Ideen frei formulieren (Kreativitätsmessung). Welches Antwortformat liegt vor?",
+      "options": [
+        "ein atypisches Antwortformat wie der Zahlenverbindungstest.",
+        "ein gebundenes Antwortformat mit Auswahlaufgaben.",
+        "ein freies Antwortformat.",
+        "eine Beurteilungsaufgabe mit Ratingskala.",
+        "eine dichotome Ja/Nein-Aufgabe."
+      ],
+      "answer": 2,
+      "explanation": "Das freie Erzeugen möglichst vieler eigener Ideen ohne vorgegebene Alternativen ist ein freies Antwortformat (typisch u. a. für Kreativitätsmessung). Auswahl-, Beurteilungs- und dichotome Aufgaben geben Alternativen vor; der Zahlenverbindungstest ist ein atypisches Format ohne freie Ideenproduktion.",
+      "topic": "Freies Antwortformat",
+      "transfer": true
+    },
+    {
+      "question": "Was kennzeichnet das gebundene Antwortformat?",
+      "options": [
+        "Es erlaubt ausschließlich die Beurteilung von Zustimmung auf einer Skala.",
+        "Es lässt sich grundsätzlich nicht objektiv und nicht ökonomisch auswerten und erfordert stets eine nachträgliche Kodierung.",
+        "Es werden mehrere Antwortalternativen vorgegeben, an die die Reaktion gebunden ist.",
+        "Die Antwort wird völlig frei und ohne vorgegebene Alternativen erzeugt.",
+        "Es ist ausschließlich im schulisch-pädagogischen Bereich einsetzbar."
+      ],
+      "answer": 2,
+      "explanation": "Beim gebundenen Format sind mehrere Alternativen vorgefertigt, die Reaktion ist daran „gebunden“. Die freie Erzeugung kennzeichnet das offene Format; die reine Zustimmungsbeurteilung ist nur eine Unterform (Beurteilungsaufgabe); gebundene Formate sind gerade ökonomisch/objektiv auswertbar und breit einsetzbar.",
+      "topic": "Gebundenes Antwortformat"
+    },
+    {
+      "question": "Welcher Vorteil ist typisch für das gebundene Antwortformat?",
+      "options": [
+        "sehr ökonomische Auswertung und meist höhere Auswertungsobjektivität als beim offenen Format.",
+        "die Erfassung selbst erzeugter, frei reproduzierter Wissensinhalte ganz ohne jede vorgegebene Antwortalternative.",
+        "die besonders gute Eignung zur Messung von Kreativität.",
+        "die vollständige Vermeidung jeglicher Zufallslösungen.",
+        "der grundsätzliche Verzicht auf jede Instruktion."
+      ],
+      "answer": 0,
+      "explanation": "Gebundene Formate sind ökonomisch auszuwerten (Schablonen, Scanner, computergestützt, keine nachträgliche Kodierung) und meist objektiver als offene Formate. Selbst erzeugte Reproduktion und Kreativitätsmessung sind Stärken des freien Formats; Zufallslösungen sind nicht völlig ausgeschlossen, und eine Instruktion bleibt nötig.",
+      "topic": "Gebundenes Antwortformat"
+    },
+    {
+      "question": "Ein zentraler Nachteil von Auswahlaufgaben ist, dass sie ...",
+      "options": [
+        "ausschließlich in der Persönlichkeitsmessung anwendbar sind.",
+        "nur eine Wiedererkennungs- statt einer Reproduktionsleistung verlangen.",
+        "grundsätzlich auf rein verbales Aufgabenmaterial beschränkt sind.",
+        "eine besonders zeitaufwändige und kaum objektive Auswertung erfordern.",
+        "die Ratewahrscheinlichkeit unabhängig von der Distraktorenzahl auf null senken."
+      ],
+      "answer": 1,
+      "explanation": "Auswahlaufgaben verlangen nur ein Wiedererkennen der richtigen Alternative statt einer eigenen Reproduktion (umso stärker, je weniger Distraktoren). Ihre Auswertung ist gerade ökonomisch/objektiv, sie sind nicht auf verbales Material beschränkt, die Ratewahrscheinlichkeit hängt von der Distraktorenzahl ab und sie sind breit einsetzbar.",
+      "topic": "Gebundenes Antwortformat",
+      "trap": "Auswahlaufgabe = Wiedererkennung; freies Format = Reproduktion."
+    },
+    {
+      "question": "Welche der folgenden zählt am ehesten NICHT zu den Ordnungs- und Auswahlaufgaben des gebundenen Formats?",
+      "options": [
+        "die Mehrfachwahlaufgabe mit mehreren vorgegebenen Antwortalternativen zur Auswahl.",
+        "die Zuordnungsaufgabe.",
+        "die Umordnungsaufgabe.",
+        "die Beurteilungsaufgabe (Rating des Zustimmungsgrades zu einer Aussage).",
+        "die dichotome Aufgabe."
+      ],
+      "answer": 3,
+      "explanation": "Zuordnungs- und Umordnungsaufgaben (Ordnungsaufgaben) sowie Mehrfachwahl- und dichotome Aufgaben (Auswahlaufgaben) bilden die Ordnungs-/Auswahlaufgaben. Die Beurteilungsaufgabe ist zwar ebenfalls ein gebundenes Format, aber eine eigene Kategorie – daher gesucht.",
+      "topic": "Ordnungs- & Auswahlaufgaben",
+      "hard": true
+    },
+    {
+      "question": "Probanden sollen Fachbegriffe den jeweils passenden Definitionen zuordnen. Welche Aufgabenart liegt vor?",
+      "options": [
+        "ein freies Antwortformat.",
+        "eine Umordnungsaufgabe.",
+        "eine Beurteilungsaufgabe.",
+        "eine Zuordnungsaufgabe.",
+        "eine dichotome Aufgabe."
+      ],
+      "answer": 3,
+      "explanation": "Das Zuordnen von Elementen (Begriffe zu Definitionen) ist eine Zuordnungsaufgabe. Umordnungsaufgaben verlangen das Herstellen einer Reihenfolge, Beurteilungsaufgaben ein Rating, dichotome Aufgaben eine Ja/Nein-Entscheidung, und das freie Format hätte gar keine Vorgaben.",
+      "topic": "Ordnungs- & Auswahlaufgaben",
+      "transfer": true
+    },
+    {
+      "question": "Ein Persönlichkeitsfragebogen bietet zu jeder Aussage nur „ja“ oder „nein“ an. Welche Aufgabenart liegt vor und welcher Nachteil wird genannt?",
+      "options": [
+        "eine dichotome Aufgabe mit dem Risiko erhöhter Akquieszenz.",
+        "eine Mehrfachwahlaufgabe mit dem Risiko zu vieler richtiger Lösungen.",
+        "ein freies Antwortformat mit dem Risiko eingeschränkter Objektivität.",
+        "eine Zuordnungsaufgabe mit dem Risiko abhängiger Antwortalternativen.",
+        "eine Beurteilungsaufgabe mit dem Risiko einer Intervallskalen-Fehlinterpretation."
+      ],
+      "answer": 0,
+      "explanation": "Ein Ja/Nein-Format ist eine dichotome Aufgabe; in der Persönlichkeitsmessung droht erhöhte Akquieszenz (Zustimmungstendenz), und sie eignet sich schlecht für komplexe Inhalte. Mehrfachwahl, Beurteilung, Zuordnung und freies Format beschreiben andere Aufgabenarten mit anderen Problemen.",
+      "topic": "Ordnungs- & Auswahlaufgaben",
+      "transfer": true
+    },
+    {
+      "question": "Wie unterscheiden sich Single-Choice und Multiple-Choice hinsichtlich der richtigen Antworten?",
+      "options": [
+        "Die Anzahl richtiger Alternativen ist bei beiden dem Zufall überlassen.",
+        "Bei beiden sind stets mehrere Alternativen korrekt.",
+        "Bei Single-Choice ist genau eine, bei Multiple-Choice sind mehrere Alternativen korrekt.",
+        "Bei Single-Choice sind mehrere, bei Multiple-Choice ist genau eine einzige Alternative korrekt.",
+        "Bei beiden ist stets genau eine Alternative korrekt."
+      ],
+      "answer": 2,
+      "explanation": "Single-Choice (bzw. Forced-Choice bei Persönlichkeit/Interessen) hat genau eine korrekte Alternative, Multiple-Choice mehrere (dann sind zwei Instruktionsvarianten möglich: Anzahl mitteilen oder „pick any out of n“). Die übrigen Optionen verdrehen oder verwischen diese Unterscheidung.",
+      "topic": "Anzahl richtiger & Raten"
+    },
+    {
+      "question": "Warum sollte die Anzahl der Antwortalternativen nicht zu gering gewählt werden?",
+      "options": [
+        "um die Bearbeitungszeit der Aufgabe gezielt zu verlängern und die Testpersonen stärker zu belasten.",
+        "um die Ratewahrscheinlichkeit für eine zufällig richtige Lösung gering zu halten.",
+        "um den Papier- und Materialverbrauch zu erhöhen.",
+        "um die Auswertung bewusst aufwändiger zu gestalten.",
+        "um die Zustimmungstendenz (Akquieszenz) zu verstärken."
+      ],
+      "answer": 1,
+      "explanation": "Mehr Antwortalternativen (bzw. Distraktoren) senken die Wahrscheinlichkeit, die richtige Lösung zufällig zu treffen. Längere Bearbeitungszeit, aufwändigere Auswertung, mehr Materialverbrauch oder gesteigerte Akquieszenz sind keine Ziele, sondern unerwünscht.",
+      "topic": "Anzahl richtiger & Raten"
+    },
+    {
+      "question": "Was ist ein „Distraktor“?",
+      "options": [
+        "die eindeutig richtige Lösung einer Auswahlaufgabe.",
+        "die Instruktion, die das genaue Vorgehen und die Bearbeitung bei der Aufgabe ausführlich erläutert.",
+        "ein Aufgabenstamm ohne zugehöriges Antwortformat.",
+        "die neutrale Mittelkategorie einer Ratingskala.",
+        "eine falsche Antwortalternative, die inhaltlich falsch ist, aber wie eine richtige aussieht."
+      ],
+      "answer": 4,
+      "explanation": "Ein Distraktor (lat. distrahere = ablenken) ist eine inhaltlich falsche Antwortalternative, die aber wie eine richtige aussieht und die Identifikation der Lösung erschwert. Er ist nicht die richtige Lösung, keine Instruktion, keine Mittelkategorie und kein Aufgabenstamm.",
+      "topic": "Distraktoren"
+    },
+    {
+      "question": "Welchen Effekt haben mehr Distraktoren in einer Auswahlaufgabe?",
+      "options": [
+        "Die Wahrscheinlichkeit, die richtige Lösung zufällig zu wählen, sinkt.",
+        "Die Auswertungsobjektivität sinkt regelhaft und stark.",
+        "Die Auswertung der Aufgabe wird grundsätzlich unmöglich.",
+        "Das Item misst dadurch zwangsläufig allgemeine Intelligenz.",
+        "Die Wahrscheinlichkeit einer zufällig richtigen Lösung steigt deutlich an."
+      ],
+      "answer": 0,
+      "explanation": "Mehr Distraktoren ziehen das Antwortverhalten auseinander und senken die Zufallswahrscheinlichkeit für die richtige Lösung. Die Zufallswahrscheinlichkeit steigt also nicht; Auswertbarkeit und Objektivität bleiben erhalten, und ein Intelligenzeinfluss folgt daraus nicht zwingend.",
+      "topic": "Distraktoren"
+    },
+    {
+      "question": "Was ist bei der Konstruktion geeigneter Distraktoren am wichtigsten?",
+      "options": [
+        "eine möglichst große Länge der falschen Alternativen.",
+        "die völlige inhaltliche Unabhängigkeit vom eigentlichen Thema.",
+        "die rein zufällige Auswahl beliebiger, themenfremder Begriffe.",
+        "Attraktivität (Auswahlwahrscheinlichkeit), Ähnlichkeit mit der richtigen Antwort und Plausibilität.",
+        "eine möglichst offensichtliche inhaltliche Unsinnigkeit und leichte Erkennbarkeit der falschen Alternativen."
+      ],
+      "answer": 3,
+      "explanation": "Gute Distraktoren sind attraktiv, der richtigen Antwort ähnlich und plausibel – nur bei starker Ähnlichkeit haben sie die richtige Schwierigkeit für Personen ohne Kenntnis der Lösung. Offensichtlich unsinnige, überlange, themenfremde oder zufällige Alternativen erfüllen das nicht.",
+      "topic": "Distraktoren",
+      "hard": true
+    },
+    {
+      "question": "Was bedeutet die „Disjunktheit“ von Antwortalternativen?",
+      "options": [
+        "Die Alternativen überschneiden sich inhaltlich weitgehend.",
+        "Die Anzahl der Alternativen ist für alle Items einheitlich festgelegt.",
+        "Alle Alternativen sind gleichzeitig zutreffend und damit richtig.",
+        "Die Alternativen decken sämtliche denkbaren Verhaltensvarianten vollständig und lückenlos ab.",
+        "Die Alternativen schließen sich gegenseitig aus (Schnittmenge null); genau eine ist richtig."
+      ],
+      "answer": 4,
+      "explanation": "Disjunktheit bedeutet, dass sich die Alternativen gegenseitig ausschließen (Schnittmenge null) und genau eine richtig ist. Ein Überschneiden widerspricht dem; die vollständige Abdeckung aller Varianten ist dagegen die Exhaustivität, und eine einheitliche Anzahl ist etwas anderes.",
+      "topic": "Disjunktheit & Exhaustivität",
+      "trap": "Disjunktheit = gegenseitiger Ausschluss; Exhaustivität = Vollständigkeit."
+    },
+    {
+      "question": "Was bedeutet „Exhaustivität“ der Antwortalternativen, und wo ist sie besonders relevant?",
+      "options": [
+        "die Regel, dass es zu einer Aufgabe keine richtige Antwort geben darf.",
+        "die Forderung nach möglichst wenigen Antwortalternativen je Item.",
+        "Vollständigkeit – alle Verhaltensvarianten sollen abgedeckt sein; besonders bei Persönlichkeits- und Einstellungstests.",
+        "besondere Relevanz vor allem bei reinen Leistungs- und Wissenstests.",
+        "der gegenseitige Ausschluss der Antwortalternativen mit einer Schnittmenge von null, sodass sich die Optionen niemals inhaltlich überschneiden."
+      ],
+      "answer": 2,
+      "explanation": "Exhaustivität meint Vollständigkeit: Alle Verhaltensvarianten sollen in den Alternativen vorkommen (sonst finden Personen keine passende Antwort); besonders bei Persönlichkeits-/Einstellungstests. Der gegenseitige Ausschluss ist die Disjunktheit; die übrigen Optionen sind sachlich falsch.",
+      "topic": "Disjunktheit & Exhaustivität",
+      "trap": "Exhaustivität = Vollständigkeit; nicht mit Disjunktheit (Ausschluss) verwechseln.",
+      "hard": true
+    },
+    {
+      "question": "Was kennzeichnet eine Beurteilungsaufgabe?",
+      "options": [
+        "die Einschätzung des Grades der Zustimmung oder Ablehnung zu einer vorgelegten Aussage.",
+        "das Zuordnen von Begriffen zu passenden Kategorien.",
+        "die eindeutige Identifikation der einen richtigen Lösung aus mehreren vorgegebenen Alternativen.",
+        "das Umordnen von Elementen in die korrekte Reihenfolge.",
+        "das freie Formulieren einer selbst erzeugten Antwort ohne Vorgaben."
+      ],
+      "answer": 0,
+      "explanation": "Bei Beurteilungsaufgaben wird der Grad der Zustimmung/Ablehnung zu einer Aussage (Statement) eingeschätzt – v. a. in Persönlichkeitstests. Die Identifikation einer richtigen Lösung, freies Formulieren, Zuordnen und Umordnen sind andere Aufgabenarten.",
+      "topic": "Beurteilungsaufgaben – Grundlagen"
+    },
+    {
+      "question": "Welche Aussage über Beurteilungsaufgaben trifft zu?",
+      "options": [
+        "Die Antwortkategorien wechseln planmäßig von Item zu Item innerhalb desselben Tests und Fragebogens.",
+        "Es gibt stets genau eine objektiv richtige Antwort je Item.",
+        "Sie erfordern grundsätzlich ein freies Antwortformat.",
+        "Es gibt keine richtigen oder falschen Antworten; sie sind v. a. bei Persönlichkeitstests üblich.",
+        "Sie werden vor allem in Leistungstests zur Wissensprüfung eingesetzt."
+      ],
+      "answer": 3,
+      "explanation": "Beurteilungsaufgaben haben keine richtigen/falschen Antworten und dienen v. a. als Indikator für Persönlichkeitsmerkmale. Die Antwortkategorien sind einheitlich für den ganzen Test (nicht itemspezifisch); es gibt keine „richtige“ Lösung, sie sind kein Leistungs- und kein freies Format.",
+      "topic": "Beurteilungsaufgaben – Grundlagen"
+    },
+    {
+      "question": "Welche Aussage zum Skalenniveau von Beurteilungsaufgaben trifft am ehesten NICHT zu?",
+      "options": [
+        "Durch Mittelwertbildung über mehrere Items nähert man sich dem Intervallniveau an.",
+        "Zahlen an den Antwortstufen ändern das Skalenniveau nicht.",
+        "Einzelne Antworten sind zunächst nur ordinalskaliert.",
+        "Fehlinterpretationen des Skalenniveaus können zu ernsthaften messtheoretischen Problemen bei der Auswertung führen.",
+        "Das Beschriften der Antwortstufen mit Zahlen stellt automatisch Intervallskalenniveau her."
+      ],
+      "answer": 4,
+      "explanation": "Falsch (gesucht): Zahlen an den Antwortstufen stellen KEIN Intervallniveau her – einzelne Antworten bleiben ordinalskaliert. Erst die Mittelwertbildung über mehrere Items nähert sich dem Intervallniveau; Fehlinterpretationen führen zu messtheoretischen Problemen.",
+      "topic": "Beurteilungsaufgaben – Grundlagen",
+      "hard": true,
+      "trap": "Zahlen an Stufen ≠ Intervallskala; Einzelitems bleiben ordinal."
+    },
+    {
+      "question": "Ein Item reicht von „trifft überhaupt nicht zu“ über einen mittleren Bereich bis „trifft vollständig zu“. Welche Art von Antwortskala liegt vor?",
+      "options": [
+        "eine bipolare (verbale) Ratingskala.",
+        "eine dichotome Ja/Nein-Skala ohne Abstufungen.",
+        "eine unipolare Skala, die nur in eine Richtung ab einem Nullpunkt ansteigt.",
+        "eine itemspezifische Skala, die von Item zu Item wechselt.",
+        "eine visuelle Analogskala ganz ohne Stufen."
+      ],
+      "answer": 0,
+      "explanation": "Eine Skala von starker Ablehnung über einen Indifferenzbereich bis starker Zustimmung ist bipolar (hier verbal). Eine unipolare Skala steigt nur in eine Richtung; dichotome und Analogskalen sowie itemspezifische Formate sind hier nicht gemeint.",
+      "topic": "Beurteilungsaufgaben – Konstruktion",
+      "transfer": true
+    },
+    {
+      "question": "Ein Item nutzt die Antwortkategorien „nie – selten – manchmal – oft“. Welche Skala liegt am ehesten vor?",
+      "options": [
+        "eine Zuordnungsaufgabe.",
+        "eine numerische, bipolare Ratingskala.",
+        "eine visuelle Analogskala ohne Stufen.",
+        "eine verbale, unipolare Ratingskala.",
+        "eine dichotome Auswahlaufgabe."
+      ],
+      "answer": 3,
+      "explanation": "Wortmarkierte Stufen ergeben eine verbale Ratingskala; da die Häufigkeit nur in eine Richtung ansteigt, ist sie unipolar. Sie ist nicht numerisch/bipolar, keine stufenlose Analogskala und weder dichotom noch eine Zuordnungsaufgabe.",
+      "topic": "Beurteilungsaufgaben – Konstruktion",
+      "transfer": true
+    },
+    {
+      "question": "Welches Problem bringt eine neutrale (Mittel-)Kategorie in Ratingskalen mit sich?",
+      "options": [
+        "Sie stellt automatisch ein Intervallskalenniveau her.",
+        "Sie dient oft als Ausweichoption und kann das Konstrukt mit konstruktfremdem Antwortverhalten konfundieren.",
+        "Sie erhöht regelhaft die Zahl extremer Urteile.",
+        "Sie ist bei allen Persönlichkeitstests grundsätzlich verpflichtend vorgeschrieben und darf in keinem Fall weggelassen werden.",
+        "Sie verhindert vollständig jede Form von Antworttendenz."
+      ],
+      "answer": 1,
+      "explanation": "Die neutrale Mittelkategorie wird häufig als Ausweichoption genutzt (und von motivierten Personen gemieden), was das interessierende Konstrukt mit konstruktfremdem Antwortverhalten vermischt (Validitätsprobleme) – daher eher sparsam einsetzen. Sie stellt kein Intervallniveau her, mehrt nicht extreme Urteile, ist nicht verpflichtend und verhindert keine Tendenzen.",
+      "topic": "Beurteilungsaufgaben – Konstruktion",
+      "hard": true
+    },
+    {
+      "question": "Welcher Vorteil wird für die verbale Ratingskala (Wortmarkierung der Stufen) genannt?",
+      "options": [
+        "Die Beschriftung der einzelnen Stufen mit Zahlen stellt dadurch automatisch ein Intervallskalenniveau der Antworten her.",
+        "Sie vermeidet vollständig jede Varianz in den Antworten der befragten Testpersonen.",
+        "Sie ist ausschließlich für Messinstrumente bei sehr jungen Kindern überhaupt geeignet.",
+        "Sie benötigt keine gleich großen (äquidistanten) Abstände zwischen den Skalenstufen.",
+        "Die Skalenpunkte werden intersubjektiv einheitlicher interpretiert (bessere Durchführungsobjektivität)."
+      ],
+      "answer": 4,
+      "explanation": "Bei der verbalen Ratingskala werden die Skalenpunkte intersubjektiv einheitlicher interpretiert (Durchführungsobjektivität), sie wird positiv beurteilt und erhöht die Varianz der Antworten; wichtig sind äquidistante Abstände und die Verbalisierung aller Stufen (empfohlen für Erwachsene). Eine Zahlbeschriftung stellt kein Intervallniveau her, die Skala ist nicht auf Kinder beschränkt und unterdrückt keine Varianz.",
+      "topic": "Beurteilungsaufgaben – Konstruktion",
+      "hard": true
+    },
+    {
+      "question": "Was kennzeichnet das „atypische“ Antwortformat?",
+      "options": [
+        "ein bloßes Synonym für das freie Antwortformat.",
+        "eine besonders strenge Sonderform der Mehrfachwahlaufgabe.",
+        "eine Restkategorie für Formate außerhalb des freien und gebundenen Systems.",
+        "eine Beurteilungsaufgabe mit besonders vielen Skalenstufen.",
+        "eine spezielle Zuordnungsaufgabe, die ausschließlich mit bildhaftem Material statt mit sprachlichen Inhalten arbeitet."
+      ],
+      "answer": 2,
+      "explanation": "Das atypische Antwortformat ist eine Restkategorie für Formate, die sich nicht ins freie/gebundene System einordnen lassen – z. B. die Aussagen-Vergleichs-Aufgabe (logisches Urteilen; jede Antwort unabhängig) oder der Zahlenverbindungstest. Es ist weder das freie Format noch eine Sonderform von Mehrfachwahl, Beurteilung oder Zuordnung.",
+      "topic": "Atypisches Antwortformat"
+    }
+  ]
+}
