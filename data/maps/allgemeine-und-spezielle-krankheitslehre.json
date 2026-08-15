@@ -1,0 +1,93 @@
+{
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "title": "Roter Faden: Allgemeiner und spezieller Teil",
+  "layout": "grouped",
+  "groups": [
+    {
+      "id": "allg",
+      "label": "Allgemeiner Teil (Werkzeugkasten)"
+    },
+    {
+      "id": "speziell",
+      "label": "Spezieller Teil (Störungsbilder)"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "kl_a1",
+      "label": "Klassifikation & Psychopathologie",
+      "group": "allg",
+      "order": 1,
+      "quizIds": [
+        "kl-klassifikation-psychopathologie"
+      ]
+    },
+    {
+      "id": "kl_a2",
+      "label": "Allgemeine Psychopathologie & AMDP-Befund",
+      "group": "allg",
+      "order": 2,
+      "quizIds": [
+        "kl-psychopathologie-amdp"
+      ]
+    },
+    {
+      "id": "kl_a3",
+      "label": "Ätiologie (bio-psycho-sozial)",
+      "group": "allg",
+      "order": 3,
+      "quizIds": [
+        "kl-aetiologie-biopsychosozial"
+      ]
+    },
+    {
+      "id": "kl_a4",
+      "label": "Therapie-Überblick",
+      "group": "allg",
+      "order": 4,
+      "quizIds": []
+    },
+    {
+      "id": "kl_a5",
+      "label": "Epidemiologie",
+      "group": "allg",
+      "order": 5,
+      "quizIds": []
+    },
+    {
+      "id": "kl_s1",
+      "label": "Schizophrenie/Psychose",
+      "group": "speziell",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "kl_s2",
+      "label": "Affektive Störungen",
+      "group": "speziell",
+      "order": 2,
+      "quizIds": []
+    },
+    {
+      "id": "kl_s3",
+      "label": "Essstörungen",
+      "group": "speziell",
+      "order": 3,
+      "quizIds": []
+    },
+    {
+      "id": "kl_s4",
+      "label": "PTBS/Dissoziation",
+      "group": "speziell",
+      "order": 4,
+      "quizIds": []
+    },
+    {
+      "id": "kl_s5",
+      "label": "Borderline & Persönlichkeitsstörungen",
+      "group": "speziell",
+      "order": 5,
+      "quizIds": []
+    }
+  ]
+}

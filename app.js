@@ -26,6 +26,11 @@ let state = { idx: 0, answers: {}, showResult: false, filterTopic: "Alle" };
 let currentSubject = null;       // aktuell gewähltes Fach (für Zurück-Navigation)
 let faecherList = [];            // deklarierte Fächer aus subjects.json (auch ohne Sets)
 
+// Roter-Faden-Navigation: aktuelle Ansicht + Rücksprung nach einem Quiz.
+let view = "subjects";           // "subjects" | "map" | "list" | "quiz"
+let quizReturn = null;           // Funktion: wohin nach dem Quiz zurück (Map oder Liste)
+const mapCache = {};             // slug -> geladene Map (oder null bei fehlender Datei)
+
 // --- Laden -----------------------------------------------------------------
 
 async function init() {
@@ -56,12 +61,15 @@ async function loadQuiz(file) {
     if (q.type === "lueckentext") {
       if (typeof window.renderCloze !== "function") throw new Error("Lückentext-Render (cloze.js) fehlt.");
       quiz = null;
+      view = "quiz";
       currentSubject = currentSubject || q.subject || null;
-      window.renderCloze(q, { onBack: () => renderSets(currentSubject) });
+      const back = quizReturn || (() => renderSets(currentSubject));
+      window.renderCloze(q, { onBack: back });
       return;
     }
     if (!q.questions || !q.questions.length) throw new Error("Quiz enthält keine Fragen.");
     quiz = q;
+    view = "quiz";
     quiz._file = file;
     topicColors = buildTopicColors(q.questions);
     state = {
@@ -81,6 +89,8 @@ function renderSubjects() {
   homeBtn.hidden = true;
   appTitle.textContent = "Lernquiz";
   quiz = null;
+  view = "subjects";
+  quizReturn = null;
 
   if (!subjects.length) {
     showError("Noch keine Quizze vorhanden. Lege eins in data/ an und trage es in subjects.json ein.");
@@ -110,15 +120,16 @@ function renderSubjects() {
     <div class="subject-grid">${cards}</div>
   `;
   app.querySelectorAll(".subject-card").forEach((btn) => {
-    btn.addEventListener("click", () => renderSets(btn.dataset.subject));
+    btn.addEventListener("click", () => renderMap(btn.dataset.subject));
   });
 }
 
-// Ebene 2: Sets eines Fachs (alle Einträge mit diesem subject). Klick -> Quiz.
+// Ebene 2 (Liste): alle Sets eines Fachs – schlichte Fallback-Ansicht neben der Map.
 function renderSets(subject) {
-  homeBtn.hidden = false;          // Zurück-Button führt zurück zu den Fächern
+  homeBtn.hidden = false;          // Zurück-Button führt zurück zur Map
   appTitle.textContent = "Lernquiz";
   quiz = null;
+  view = "list";
   currentSubject = subject;
 
   const sets = subjects.filter((s) => (s.subject || "Ohne Fach") === subject);
@@ -136,11 +147,186 @@ function renderSets(subject) {
     : `<p class="lead">Für dieses Fach gibt es noch keine Sets.</p>`;
 
   app.innerHTML = `
-    <p class="lead">${escapeHtml(subject)} – wähle ein Set:</p>
+    <div class="rf-toolbar">
+      <p class="lead">${escapeHtml(subject)} – alle Quizze:</p>
+      <button class="ghost-btn" data-tomap="1">Zur Struktur (roter Faden)</button>
+    </div>
     ${body}
   `;
+  const tm = app.querySelector("[data-tomap]");
+  if (tm) tm.onclick = () => renderMap(subject);
   app.querySelectorAll(".subject-card").forEach((btn) => {
-    btn.addEventListener("click", () => loadQuiz(btn.dataset.file));
+    btn.addEventListener("click", () => {
+      quizReturn = () => renderSets(subject);
+      loadQuiz(btn.dataset.file);
+    });
+  });
+}
+
+// --- Roter Faden: fachspezifische Struktur-Grafik --------------------------
+
+function slugify(s) {
+  return String(s || "")
+    .toLowerCase()
+    .replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+// Map laden (mit Cache); fehlende Datei -> null (Fallback greift beim Auflösen).
+async function loadMap(subject) {
+  const slug = slugify(subject);
+  if (slug in mapCache) return mapCache[slug];
+  try {
+    const res = await fetch(`data/maps/${slug}.json`, { cache: "no-store" });
+    mapCache[slug] = res.ok ? await res.json() : null;
+  } catch (_) {
+    mapCache[slug] = null;
+  }
+  return mapCache[slug];
+}
+
+// Map + subjects.json zu gerenderten Knoten zusammenführen. Nichts geht verloren:
+// nicht zugeordnete Quizze landen im Fallback-Knoten "Weitere Quizze".
+function resolveMap(subject, mapData) {
+  const entries = subjects.filter((s) => (s.subject || "Ohne Fach") === subject);
+  const byId = {};
+  entries.forEach((s) => { if (s.id) byId[s.id] = s; });
+  const used = new Set();
+
+  let layout = "linear", title = subject, groups = [], nodes = [];
+  if (mapData) {
+    layout = mapData.layout || "linear";
+    title = mapData.title || subject;
+    groups = Array.isArray(mapData.groups) ? mapData.groups.map((g) => ({ ...g })) : [];
+    nodes = (Array.isArray(mapData.nodes) ? mapData.nodes : []).map((n) => {
+      const quizzes = (n.quizIds || []).map((id) => byId[id]).filter(Boolean);
+      quizzes.forEach((q) => used.add(q.id));
+      return { ...n, quizzes };
+    });
+  }
+  const leftover = entries.filter((s) => !used.has(s.id));
+  if (leftover.length) {
+    nodes.push({ id: "__fallback", label: "Weitere Quizze", group: "__fallback", order: 9999, quizzes: leftover });
+    if (!groups.some((g) => g.id === "__fallback")) groups.push({ id: "__fallback", label: "Weitere Quizze" });
+  }
+  return { subject, title, layout, groups, nodes };
+}
+
+let rfPanelSeq = 0;
+
+function rfNodeHtml(node) {
+  const has = node.quizzes && node.quizzes.length > 0;
+  if (!has) {
+    return `<div class="rf-node empty">
+      <span class="rf-node-label">${escapeHtml(node.label)}</span>
+      <span class="rf-gap">kein Quiz</span>
+    </div>`;
+  }
+  const pid = `rf-panel-${rfPanelSeq++}`;
+  const items = node.quizzes.map((q) => {
+    const isLt = q.type === "lueckentext";
+    const badge = isLt
+      ? `<span class="rf-badge lt">Lückentext</span>`
+      : `<span class="rf-badge mc">MC</span>`;
+    return `<button class="rf-quiz" data-file="${escapeHtml(q.file)}">
+      <span class="rf-quiz-title">${escapeHtml(q.title || q.file)}</span>${badge}
+    </button>`;
+  }).join("");
+  return `<button class="rf-node" aria-expanded="false" aria-controls="${pid}">
+      <span class="rf-node-label">${escapeHtml(node.label)}</span>
+      <span class="rf-count">${node.quizzes.length}</span>
+    </button>
+    <div class="rf-panel" id="${pid}" role="region" hidden>${items}</div>`;
+}
+
+function rfNodesOfGroup(nodes, gid) {
+  return nodes.filter((n) => n.group === gid).sort((a, b) => (a.order || 0) - (b.order || 0));
+}
+
+function rfRenderColumns(m) {
+  const spanGroups = m.groups.filter((g) => g.span);
+  const colGroups = m.groups.filter((g) => !g.span);
+  let html = "";
+  spanGroups.forEach((g) => {
+    html += `<section class="rf-band"><h3 class="rf-group-title">${escapeHtml(g.label)}</h3>
+      <div class="rf-band-nodes">${rfNodesOfGroup(m.nodes, g.id).map(rfNodeHtml).join("")}</div></section>`;
+  });
+  html += `<div class="rf-columns">` + colGroups.map((g) =>
+    `<div class="rf-column"><h3 class="rf-group-title">${escapeHtml(g.label)}</h3>
+      ${rfNodesOfGroup(m.nodes, g.id).map(rfNodeHtml).join("")}</div>`
+  ).join("") + `</div>`;
+  return html;
+}
+
+function rfRenderGrouped(m) {
+  return m.groups.map((g) =>
+    `<section class="rf-group"><h3 class="rf-group-title">${escapeHtml(g.label)}</h3>
+      <div class="rf-group-nodes">${rfNodesOfGroup(m.nodes, g.id).map(rfNodeHtml).join("")}</div></section>`
+  ).join("");
+}
+
+function rfRenderLinear(m) {
+  const chain = m.nodes.filter((n) => !n.group).sort((a, b) => (a.order || 0) - (b.order || 0));
+  let html = `<div class="rf-chain">`;
+  chain.forEach((n, i) => {
+    if (i > 0) html += `<div class="rf-connector" aria-hidden="true"></div>`;
+    html += rfNodeHtml(n);
+  });
+  html += `</div>`;
+  // Nebenstränge / übergreifende Knoten als eigene Abschnitte.
+  m.groups.forEach((g) => {
+    const gn = rfNodesOfGroup(m.nodes, g.id);
+    if (gn.length) {
+      html += `<section class="rf-group"><h3 class="rf-group-title">${escapeHtml(g.label)}</h3>
+        <div class="rf-group-nodes">${gn.map(rfNodeHtml).join("")}</div></section>`;
+    }
+  });
+  return html;
+}
+
+async function renderMap(subject) {
+  homeBtn.hidden = false;
+  appTitle.textContent = "Lernquiz";
+  quiz = null;
+  view = "map";
+  currentSubject = subject;
+  quizReturn = () => renderMap(subject);
+  rfPanelSeq = 0;
+
+  app.innerHTML = `<p class="loading">Lade Struktur …</p>`;
+  const mapData = await loadMap(subject);
+  const m = resolveMap(subject, mapData);
+
+  let graph = "";
+  if (m.layout === "columns") graph = rfRenderColumns(m);
+  else if (m.layout === "grouped") graph = rfRenderGrouped(m);
+  else graph = rfRenderLinear(m);
+
+  app.innerHTML = `
+    <div class="rf-toolbar">
+      <p class="lead">${escapeHtml(m.title)}</p>
+      <button class="ghost-btn" data-tolist="1">Alle Quizze (Liste)</button>
+    </div>
+    <p class="rf-hint">Wähle einen Knoten, um die zugehörigen Quizze zu öffnen. Knoten ohne Quiz zeigen eine Lücke.</p>
+    <div class="rf-map rf-${escapeHtml(m.layout)}">${graph}</div>
+  `;
+
+  const tl = app.querySelector("[data-tolist]");
+  if (tl) tl.onclick = () => renderSets(subject);
+
+  app.querySelectorAll(".rf-node").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const panel = document.getElementById(btn.getAttribute("aria-controls"));
+      const open = btn.getAttribute("aria-expanded") === "true";
+      btn.setAttribute("aria-expanded", open ? "false" : "true");
+      if (panel) panel.hidden = open;
+    });
+  });
+  app.querySelectorAll(".rf-quiz").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      quizReturn = () => renderMap(subject);
+      loadQuiz(btn.dataset.file);
+    });
   });
 }
 
@@ -407,11 +593,12 @@ document.addEventListener("keydown", (e) => {
   if (i >= 0 && i < q.options.length) selectAnswer(i);
 });
 
-// Zurück-Button ist kontextabhängig: aus dem Quiz zu den Sets des Fachs,
-// aus der Set-Liste zu den Fächern.
+// Zurück-Button ist kontextabhängig: aus dem Quiz zurück zur Herkunft (Map oder Liste),
+// aus der Liste zur Map, aus der Map zu den Fächern.
 homeBtn.addEventListener("click", () => {
-  if (quiz) renderSets(currentSubject);
-  else renderSubjects();
+  if (view === "quiz") { (quizReturn || (() => renderMap(currentSubject)))(); return; }
+  if (view === "list") { renderMap(currentSubject); return; }
+  renderSubjects();
 });
 
 init();

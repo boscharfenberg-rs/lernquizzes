@@ -1,0 +1,128 @@
+{
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "title": "Roter Faden: Interventionsebenen (nach Kauffeld)",
+  "layout": "columns",
+  "groups": [
+    {
+      "id": "quer",
+      "label": "Evaluation & Transfer (Methodik)",
+      "span": true
+    },
+    {
+      "id": "arbeit",
+      "label": "Arbeit"
+    },
+    {
+      "id": "individuum",
+      "label": "Individuum"
+    },
+    {
+      "id": "interaktion",
+      "label": "Interaktion"
+    },
+    {
+      "id": "organisation",
+      "label": "Organisation"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "a_quer",
+      "label": "Evaluation & Transfer",
+      "group": "quer",
+      "order": 1,
+      "quizIds": [
+        "auo-evaluation-transfer"
+      ]
+    },
+    {
+      "id": "a_arbeit1",
+      "label": "Arbeitsgestaltung & -analyse",
+      "group": "arbeit",
+      "order": 1,
+      "quizIds": [
+        "auo-arbeitsgestaltung"
+      ]
+    },
+    {
+      "id": "a_ind1",
+      "label": "Personalentwicklung",
+      "group": "individuum",
+      "order": 1,
+      "quizIds": [
+        "auo-personalentwicklung"
+      ]
+    },
+    {
+      "id": "a_ind2",
+      "label": "Arbeit, Gesundheit & BGM",
+      "group": "individuum",
+      "order": 2,
+      "quizIds": [
+        "auo-arbeit-gesundheit",
+        "auo-gesundheitsmanagement"
+      ]
+    },
+    {
+      "id": "a_ind3",
+      "label": "Personalauswahl/-diagnostik",
+      "group": "individuum",
+      "order": 3,
+      "quizIds": []
+    },
+    {
+      "id": "a_ind4",
+      "label": "Coaching",
+      "group": "individuum",
+      "order": 4,
+      "quizIds": [
+        "auo-coaching-kernfolien"
+      ]
+    },
+    {
+      "id": "a_int1",
+      "label": "Team",
+      "group": "interaktion",
+      "order": 1,
+      "quizIds": [
+        "auo-teamentwicklung"
+      ]
+    },
+    {
+      "id": "a_int2",
+      "label": "Führung",
+      "group": "interaktion",
+      "order": 2,
+      "quizIds": [
+        "auo-fuehrung-kernfolien"
+      ]
+    },
+    {
+      "id": "a_int3",
+      "label": "Kommunikation",
+      "group": "interaktion",
+      "order": 3,
+      "quizIds": [
+        "auo-kommunikation-kernfolien"
+      ]
+    },
+    {
+      "id": "a_org1",
+      "label": "Organisationsentwicklung",
+      "group": "organisation",
+      "order": 1,
+      "quizIds": [
+        "auo-organisationsentwicklung-kernfolien"
+      ]
+    },
+    {
+      "id": "a_org2",
+      "label": "Organisationskultur & -klima",
+      "group": "organisation",
+      "order": 2,
+      "quizIds": [
+        "auo-organisationskultur-klima-kernfolien"
+      ]
+    }
+  ]
+}

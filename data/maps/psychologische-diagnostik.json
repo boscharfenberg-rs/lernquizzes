@@ -1,0 +1,186 @@
+{
+  "subject": "Psychologische Diagnostik",
+  "title": "Roter Faden: der diagnostische Prozess",
+  "layout": "linear",
+  "groups": [
+    {
+      "id": "neben",
+      "label": "Nebenstrang: VL2 Testkonstruktion"
+    },
+    {
+      "id": "uebergreifend",
+      "label": "Übergreifend"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "d1",
+      "label": "Einführung, Arten, Recht & Ethik",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "d2",
+      "label": "Diagnostischer Prozess & Gütekriterien",
+      "order": 2,
+      "quizIds": [
+        "diagnostik-prozess-guetekriterien",
+        "diagnostik-lt-prozess-guetekriterien"
+      ]
+    },
+    {
+      "id": "d3",
+      "label": "Reliabilität",
+      "order": 3,
+      "quizIds": [
+        "diagnostik-reliabilitaet",
+        "diagnostik-lt-reliabilitaet"
+      ]
+    },
+    {
+      "id": "d4",
+      "label": "Validität",
+      "order": 4,
+      "quizIds": [
+        "diagnostik-validitaet",
+        "diagnostik-lt-validitaet"
+      ]
+    },
+    {
+      "id": "d5",
+      "label": "Normen",
+      "order": 5,
+      "quizIds": [
+        "diagnostik-normen",
+        "diagnostik-lt-normen"
+      ]
+    },
+    {
+      "id": "d6",
+      "label": "Zusammenspiel der Gütekriterien",
+      "order": 6,
+      "quizIds": [
+        "diagnostik-guetekriterien-zusammenspiel",
+        "diagnostik-lt-guetekriterien-zusammenspiel"
+      ]
+    },
+    {
+      "id": "d7",
+      "label": "Informationsbeschaffung I (Testen & Befragen)",
+      "order": 7,
+      "quizIds": [
+        "diagnostik-informationsbeschaffung",
+        "diagnostik-lt-informationsbeschaffung"
+      ]
+    },
+    {
+      "id": "d8",
+      "label": "Beobachten & weitere Methoden",
+      "order": 8,
+      "quizIds": [
+        "diagnostik-informationsbeschaffung-2",
+        "diagnostik-lt-beobachten"
+      ]
+    },
+    {
+      "id": "d9",
+      "label": "Einzelfalldiagnostik",
+      "order": 9,
+      "quizIds": [
+        "diagnostik-einzelfalldiagnostik",
+        "diagnostik-lt-einzelfalldiagnostik"
+      ]
+    },
+    {
+      "id": "d10",
+      "label": "Profilinterpretation & Urteilsbildung",
+      "order": 10,
+      "quizIds": [
+        "diagnostik-profil-urteilsbildung",
+        "diagnostik-lt-profil-urteilsbildung"
+      ]
+    },
+    {
+      "id": "d11",
+      "label": "Diagnostische Entscheidungen & Modelle",
+      "order": 11,
+      "quizIds": [
+        "diagnostik-entscheidungen-modelle",
+        "diagnostik-lt-entscheidungen"
+      ]
+    },
+    {
+      "id": "d12",
+      "label": "Klassifizieren & Entscheidungsfehler",
+      "order": 12,
+      "quizIds": [
+        "diagnostik-lt-klassifikation"
+      ]
+    },
+    {
+      "id": "dvl2",
+      "label": "VL2: Testplanung & Antwortformate",
+      "group": "neben",
+      "order": 13,
+      "quizIds": [
+        "diagnostik-vl2-testplanung",
+        "diagnostik-vl2-itemkonstruktion-antwortformate"
+      ]
+    },
+    {
+      "id": "dueb",
+      "label": "Übungsfragen (Altklausur)",
+      "group": "uebergreifend",
+      "order": 14,
+      "quizIds": [
+        "diagnostik-uebungsfragen-1"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "d1",
+      "to": "d2"
+    },
+    {
+      "from": "d2",
+      "to": "d3"
+    },
+    {
+      "from": "d3",
+      "to": "d4"
+    },
+    {
+      "from": "d4",
+      "to": "d5"
+    },
+    {
+      "from": "d5",
+      "to": "d6"
+    },
+    {
+      "from": "d6",
+      "to": "d7"
+    },
+    {
+      "from": "d7",
+      "to": "d8"
+    },
+    {
+      "from": "d8",
+      "to": "d9"
+    },
+    {
+      "from": "d9",
+      "to": "d10"
+    },
+    {
+      "from": "d10",
+      "to": "d11"
+    },
+    {
+      "from": "d11",
+      "to": "d12"
+    }
+  ]
+}

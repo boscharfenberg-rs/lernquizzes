@@ -93,3 +93,40 @@ lernquiz/
 - Frage per Klick **oder Taste** beantworten (`1`–`6` bzw. `A`–`F`).
 - Nach der Antwort erscheint Feedback samt Erklärung; mit `Enter` oder „Weiter" geht es weiter.
 - Am Ende: Ergebnis mit „Nochmal" oder „Anderes Thema".
+
+## Roter-Faden-Navigation (Struktur-Grafik je Fach)
+
+Nach der Fach-Auswahl erscheint eine fachspezifische Struktur-Grafik, an deren
+Knoten die Quizze hängen. Die Struktur ist **datengetrieben** und ohne Code
+editierbar: pro Fach eine Datei `data/maps/<slug>.json`. Der `<slug>` wird aus
+dem Fach-Namen abgeleitet (Kleinbuchstaben, Umlaute als ae/oe/ue/ss, alles
+Nicht-Alphanumerische zu `-`), z. B. `Psychologische Diagnostik` →
+`psychologische-diagnostik.json`.
+
+Schema:
+
+```json
+{
+  "subject": "<exakter Fach-String aus faecher>",
+  "title": "Überschrift der Ansicht",
+  "layout": "linear" | "columns" | "grouped",
+  "groups": [ { "id": "g1", "label": "Sichtbarer Titel", "span": true } ],
+  "nodes":  [ { "id": "n1", "label": "Knoten", "group": "g1", "order": 1,
+                "quizIds": ["<id aus subjects.json>", "..."] } ],
+  "edges":  [ { "from": "n1", "to": "n2" } ]
+}
+```
+
+- **layout**: `linear` = vertikale Kette (Knoten ohne `group`, sortiert nach
+  `order`; Knoten mit `group` erscheinen als eigene Abschnitte darunter).
+  `columns` = `groups` als Spalten nebeneinander (`"span": true` = Querklammer
+  über allen Spalten). `grouped` = `groups` als gestapelte Blöcke.
+- **Knoten hinzufügen**: neues Objekt in `nodes` mit eindeutiger `id`, `label`,
+  passender `group` (bei columns/grouped) und `order`.
+- **Quiz zuordnen**: die `id` des Sets (wie in `data/subjects.json`) in `quizIds`
+  des gewünschten Knotens eintragen. Ein Set kann an mehreren Knoten hängen.
+- **Nichts geht verloren**: Sets, die in keinem Knoten stehen, landen automatisch
+  im Knoten „Weitere Quizze". Fehlt die Map-Datei ganz, werden alle Sets des
+  Fachs dort gesammelt.
+- Knoten ohne Quiz bleiben sichtbar und sind als „kein Quiz" (Abdeckungslücke)
+  markiert. MC- und Lückentext-Sets werden am Knoten mit Badge unterschieden.

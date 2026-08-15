@@ -1,0 +1,53 @@
+{
+  "subject": "Psychotherapieverfahren 3",
+  "title": "Roter Faden: Verfahren im Überblick",
+  "layout": "columns",
+  "groups": [
+    {
+      "id": "schema",
+      "label": "Schematherapie"
+    },
+    {
+      "id": "dbt",
+      "label": "DBT"
+    },
+    {
+      "id": "net",
+      "label": "NET"
+    },
+    {
+      "id": "achtsamkeit",
+      "label": "Achtsamkeit"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "p_schema",
+      "label": "Überblick",
+      "group": "schema",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "p_dbt",
+      "label": "Überblick",
+      "group": "dbt",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "p_net",
+      "label": "Überblick",
+      "group": "net",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "p_acht",
+      "label": "Überblick",
+      "group": "achtsamkeit",
+      "order": 1,
+      "quizIds": []
+    }
+  ]
+}

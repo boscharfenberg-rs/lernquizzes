@@ -1,0 +1,101 @@
+{
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "title": "Roter Faden: Grundlagen und Störungen",
+  "layout": "grouped",
+  "groups": [
+    {
+      "id": "grundlagen",
+      "label": "Grundlagen"
+    },
+    {
+      "id": "stoerungen",
+      "label": "Störungen"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n_g1",
+      "label": "Neuroanatomie",
+      "group": "grundlagen",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "n_g2",
+      "label": "Methoden & Bildgebung (fMRT/PET)",
+      "group": "grundlagen",
+      "order": 2,
+      "quizIds": []
+    },
+    {
+      "id": "n_g3",
+      "label": "Large-Scale Brain Networks",
+      "group": "grundlagen",
+      "order": 3,
+      "quizIds": []
+    },
+    {
+      "id": "n_s1",
+      "label": "Angst",
+      "group": "stoerungen",
+      "order": 1,
+      "quizIds": []
+    },
+    {
+      "id": "n_s2",
+      "label": "Stress",
+      "group": "stoerungen",
+      "order": 2,
+      "quizIds": []
+    },
+    {
+      "id": "n_s3",
+      "label": "Depression",
+      "group": "stoerungen",
+      "order": 3,
+      "quizIds": []
+    },
+    {
+      "id": "n_s4",
+      "label": "Substanzkonsum",
+      "group": "stoerungen",
+      "order": 4,
+      "quizIds": []
+    },
+    {
+      "id": "n_s5",
+      "label": "ADHS",
+      "group": "stoerungen",
+      "order": 5,
+      "quizIds": []
+    },
+    {
+      "id": "n_s6",
+      "label": "Schizophrenie",
+      "group": "stoerungen",
+      "order": 6,
+      "quizIds": []
+    },
+    {
+      "id": "n_s7",
+      "label": "Parkinson",
+      "group": "stoerungen",
+      "order": 7,
+      "quizIds": []
+    },
+    {
+      "id": "n_s8",
+      "label": "Demenz",
+      "group": "stoerungen",
+      "order": 8,
+      "quizIds": []
+    },
+    {
+      "id": "n_s9",
+      "label": "Essstörungen",
+      "group": "stoerungen",
+      "order": 9,
+      "quizIds": []
+    }
+  ]
+}
