@@ -293,18 +293,18 @@
       "description": "Ätiologie psychischer Störungen (KliPs Teil 1, bis „Doppeldiagnose Psychose und Sucht“): Grundbegriffe, Menschenbilder & Schulenstreit, medizinisches vs. bio-psycho-soziales Modell, Vulnerabilität und Risikofaktoren, Vulnerabilitäts-Stress-Modell, Genetik sowie Gen-Umwelt-Interaktion und Epigenetik. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     },
     {
-      "id": "diagnostik-einfuehrung2-arten-recht-ethik",
-      "file": "diagnostik-einfuehrung2-arten-recht-ethik.json",
-      "title": "Einführung II: Arten, Recht & Ethik (Sitzung 2)",
-      "subject": "Psychologische Diagnostik",
-      "description": "VL1 Sitzung 2: Arten psychologischer Diagnostik (Eigenschaft/Verhalten, Status/Veränderung, Selektion/Modifikation), gesellschaftlicher Nutzen sowie gesetzliche Rahmenbedingungen (Normenpyramide, EMRK, Grundgesetz, StGB §203/§138) und ethische Richtlinien. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
-    },
-    {
       "id": "diagnostik-vl2-itemkonstruktion-antwortformate",
       "file": "diagnostik-vl2-itemkonstruktion-antwortformate.json",
       "title": "VL2 · Item-Konstruktion I: Antwortformate (Sitzung 3)",
       "subject": "Psychologische Diagnostik",
       "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 3: Aufgabentypen und Antwortformate. Freies, gebundenes (Ordnungs-, Auswahl- und Beurteilungsaufgaben) und atypisches Format, Distraktoren, Disjunktheit/Exhaustivität sowie Ratingskalen-Konstruktion. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "diagnostik-vl2-testplanung",
+      "file": "diagnostik-vl2-testplanung.json",
+      "title": "VL2 · Testplanung (Sitzung 2)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 2: Testplanung. Eingrenzen des Konstrukts und nomologisches Netzwerk, Operationalisierung, Indikatoren (T-/Q-/L-Daten), Merkmalsarten (qualitativ/quantitativ, Dimensionalität, Trait/State), Skalenniveaus, Testarten, Anwendungsbereich sowie Geltungsbereich, Zielgruppe, Aufbau, Testlänge und Administration. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }
