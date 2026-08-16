@@ -32,7 +32,8 @@
       "group": "quer",
       "order": 1,
       "quizIds": [
-        "auo-evaluation-transfer"
+        "auo-evaluation-transfer",
+        "auo-evaluation-transfer-uebungsfragen"
       ]
     },
     {

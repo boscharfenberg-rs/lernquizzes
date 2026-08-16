@@ -319,6 +319,13 @@
       "title": "A&O · Coaching (Kernfolien)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Coaching aus dem Kernfoliensatz: Definition und Abgrenzung (Beratung, Supervision, Mentoring, Therapie, Mediation, Training), Zieltypen (Skills-, Performance-, Developmental-Coaching), theoretische Ansätze (klientenzentriert, systemisch, lösungs-/ressourcenorientiert, kognitiv-behavioral), Formen/Settings, Struktur, Methoden (Fragetypen, aktives Zuhören, Empathie) und Wirksamkeit. 30 Fragen mit Anwendungsfällen (A–E)."
+    },
+    {
+      "id": "auo-evaluation-transfer-uebungsfragen",
+      "file": "auo-evaluation-transfer-uebungsfragen.json",
+      "title": "A&O · Übungsfragen: Evaluation und Transfer (Altklausur)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Übungsfragen aus der Altklausur „Evaluation und Transfer“ (50 Single-Choice-Fragen). Lösungen fachlich erarbeitet; einige Items als unsicher markiert (bitte mit Vorlesungsmaterial abgleichen)."
     }
   ]
 }
