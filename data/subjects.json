@@ -326,6 +326,13 @@
       "title": "A&O · Übungsfragen: Evaluation und Transfer (Altklausur)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Übungsfragen aus der Altklausur „Evaluation und Transfer“ (50 Single-Choice-Fragen). Lösungen fachlich erarbeitet; einige Items als unsicher markiert (bitte mit Vorlesungsmaterial abgleichen)."
+    },
+    {
+      "id": "diagnostik-vl2-itemkonstruktion-strategien",
+      "file": "diagnostik-vl2-itemkonstruktion-strategien.json",
+      "title": "VL2 · Item-Konstruktion II: Strategien & Itemformulierung (Sitzung 4)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Vorlesung 2, Sitzung 4: Konstruktionsstrategien (intuitiv, rational/deduktiv, external, internal, Prototypenansatz) und Gesichtspunkte der Itemformulierung (Itemarten, sprachliche Verständlichkeit, Eindeutigkeit, Itemschwierigkeit). 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }
