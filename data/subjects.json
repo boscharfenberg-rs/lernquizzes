@@ -333,6 +333,13 @@
       "title": "VL2 · Item-Konstruktion II: Strategien & Itemformulierung (Sitzung 4)",
       "subject": "Psychologische Diagnostik",
       "description": "Vorlesung 2, Sitzung 4: Konstruktionsstrategien (intuitiv, rational/deduktiv, external, internal, Prototypenansatz) und Gesichtspunkte der Itemformulierung (Itemarten, sprachliche Verständlichkeit, Eindeutigkeit, Itemschwierigkeit). 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "diagnostik-vl2-fehlerquellen-erprobung",
+      "file": "diagnostik-vl2-fehlerquellen-erprobung.json",
+      "title": "VL2 · Item-Konstruktion III: Fehlerquellen & Erprobung (Sitzung 5)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Vorlesung 2, Sitzung 5: Fehlerquellen bei der Itembeantwortung (kognitive und motivationale Prozesse, Response Bias) sowie Erstellung und Erprobung der vorläufigen Testversion. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     }
   ]
 }

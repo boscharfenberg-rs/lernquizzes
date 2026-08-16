@@ -1,0 +1,415 @@
+{
+  "id": "diagnostik-vl2-fehlerquellen-erprobung",
+  "title": "VL2 · Item-Konstruktion III: Fehlerquellen & Erprobung (Sitzung 5)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Vorlesung 2 (Testtheorie & Testkonstruktion), Sitzung 5: Fehlerquellen bei der Itembeantwortung (kognitive und motivationale Prozesse, Response Bias) sowie Erstellung und Erprobung der vorläufigen Testversion. 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Wie sind Fehlerquellen bei der Itembeantwortung im Sinne der Vorlesung einzuordnen?",
+      "options": [
+        "als systematische Fehler, die konstruktirrelevante Varianz erzeugen und die Validität mindern.",
+        "als Rechenfehler bei der statistischen Auswertung der erhobenen Testwerte.",
+        "als bewusste Falschangaben, die die Reliabilität eines Tests sogar erhöhen.",
+        "als reine Druckfehler im Testheft ohne Einfluss auf die Antworten der Personen.",
+        "als rein zufällig entstehende Fehler ohne jedes systematische Muster im Antwortverhalten der Personen."
+      ],
+      "answer": 0,
+      "explanation": "Fehlerquellen sind systematische (nicht zufällige) Fehler: Die gewählte Kategorie entspricht nicht der Merkmalsausprägung; sie erzeugen konstruktirrelevante Varianz (v. a. in Ratingdaten) und mindern die Validität. Zufallsfehler, bewusste Reliabilitätssteigerung, Auswertungs- oder Druckfehler treffen es nicht.",
+      "topic": "Fehlerquellen – Grundlagen"
+    },
+    {
+      "question": "Wodurch lassen sich Fehlerquellen bei der Itembeantwortung am ehesten verringern?",
+      "options": [
+        "durch eine möglichst große und repräsentative Normierungsstichprobe.",
+        "durch eine möglichst klare Testsituation und klar definierte Anforderungen.",
+        "durch die ausschließliche Verwendung mündlicher statt schriftlicher Befragung.",
+        "durch den Verzicht auf jede Instruktion vor der Testbearbeitung.",
+        "durch eine möglichst hohe Anzahl an Antwortkategorien je Item."
+      ],
+      "answer": 1,
+      "explanation": "Je klarer Testsituation und Anforderungen, desto besser werden Fehlerquellen verstanden und desto eher lassen sie sich vermeiden. Stichprobengröße, Instruktionsverzicht, viele Kategorien oder mündliche Befragung verringern die Fehler nicht (Letzteres erhöht z. B. soziale Erwünschtheit).",
+      "topic": "Fehlerquellen – Grundlagen"
+    },
+    {
+      "question": "Welche Abfolge kognitiver Stadien durchläuft eine Person beim Beantworten eines Items (nach Tourangeau)?",
+      "options": [
+        "Verständnis, Abruf, Urteil, Antwortwahl, Antwortabgabe.",
+        "Antwortwahl, Urteil, Abruf, Verständnis, Antwortabgabe.",
+        "Antwortabgabe, Antwortwahl, Urteil, Abruf, Verständnis.",
+        "Abruf, Verständnis, Antwortabgabe, Urteil, Antwortwahl.",
+        "Verständnis, Urteil, Abruf, Antwortabgabe, Antwortwahl."
+      ],
+      "answer": 0,
+      "explanation": "Die Stadien verlaufen: Verständnis (comprehension), Abruf (retrieval), Urteil (judgement), Antwortwahl (response selection), Antwortabgabe (response reporting). Alle anderen Reihenfolgen verletzen diese Abfolge.",
+      "topic": "Kognitive Prozesse",
+      "hard": true
+    },
+    {
+      "question": "Ein Item ist mehrdeutig formuliert. In welchem kognitiven Stadium entsteht dadurch am ehesten ein Fehler?",
+      "options": [
+        "im Stadium Antwortabgabe (response reporting).",
+        "im Stadium Urteil (judgement).",
+        "im Stadium Abruf (retrieval).",
+        "im Stadium Antwortwahl (response selection).",
+        "im Stadium Verständnis (comprehension)."
+      ],
+      "answer": 4,
+      "explanation": "Itemmehrdeutigkeit/unklare Formulierung wirkt im Verständnis-Stadium. Stimmungseinflüsse betreffen den Abruf, globale statt itemspezifische Antworten das Urteil, die Bevorzugung von Kategorien die Antwortwahl und soziale Erwünschtheit die Antwortabgabe.",
+      "topic": "Kognitive Prozesse",
+      "transfer": true
+    },
+    {
+      "question": "In welchem kognitiven Stadium wirkt die soziale Erwünschtheit am ehesten?",
+      "options": [
+        "im Urteil (judgement).",
+        "im Verständnis (comprehension).",
+        "in der Antwortabgabe (response reporting).",
+        "in der Antwortwahl (response selection), also der Auswahl der Antwortkategorie.",
+        "im Abruf (retrieval)."
+      ],
+      "answer": 2,
+      "explanation": "Soziale Erwünschtheit setzt bei der Antwortabgabe an (die Person passt die geäußerte Antwort an). Verständnis betrifft Itemmehrdeutigkeit, Abruf die Stimmung, Urteil globale Antworten und Antwortwahl die Kategorienbevorzugung.",
+      "topic": "Kognitive Prozesse"
+    },
+    {
+      "question": "Was kennzeichnet „Optimizing\" im Optimizing-Satisficing-Modell (Krosnick)?",
+      "options": [
+        "das nur oberflächliche Durchlaufen der kognitiven Stadien ohne Anstrengung.",
+        "das Verschmelzen von Abruf und Urteil zu einer formal passenden Antwort.",
+        "das rein zufällige Ankreuzen ohne jede Auseinandersetzung mit dem Item.",
+        "die unkritische Zustimmung zu allen vorgelegten Aussagen.",
+        "die angestrebte gründliche Bearbeitung aller kognitiven Stadien."
+      ],
+      "answer": 4,
+      "explanation": "Optimizing ist die angestrebte, gründliche Bearbeitung aller kognitiven Stadien (gefördert durch Selbstbild, Verantwortung, Belohnung). Oberflächliches Durchlaufen ist schwaches, das Verschmelzen von Abruf/Urteil starkes Satisficing; Zufall und Zustimmung sind etwas anderes.",
+      "topic": "Motivationale Prozesse"
+    },
+    {
+      "question": "Unter welcher Bedingung tritt Satisficing eher auf?",
+      "options": [
+        "wenn die Person durch Selbstbild und Verantwortung hoch motiviert ist.",
+        "wenn die Instruktion gezielt Altruismus und Belohnung aktiviert.",
+        "wenn die Items besonders eindeutig und leicht verständlich formuliert sind.",
+        "wenn ausreichend Zeit und ein klarer Auswertungsnutzen vorhanden sind.",
+        "wenn die Teilnahme nur beiläufig oder als bloße Pflichterfüllung erfolgt."
+      ],
+      "answer": 4,
+      "explanation": "Satisficing (satisfying + sufficing) tritt eher auf, wenn die Teilnahme beiläufig/als Pflicht erfolgt und die Person sich nicht anstrengen will. Hohe Motivation, aktivierte Gründe, Zeit/Nutzen und eindeutige Items fördern dagegen das Optimizing.",
+      "topic": "Motivationale Prozesse"
+    },
+    {
+      "question": "Ein Proband durchläuft die kognitiven Stadien nur oberflächlich, ohne sich anzustrengen. Was liegt vor?",
+      "options": [
+        "starkes Satisficing.",
+        "Optimizing.",
+        "Akquieszenz.",
+        "schwaches Satisficing.",
+        "soziale Erwünschtheit."
+      ],
+      "answer": 3,
+      "explanation": "Das oberflächliche Durchlaufen der Stadien ist schwaches Satisficing. Beim starken Satisficing verschmelzen Abruf und Urteil (formal passende Antworten); Optimizing wäre gründlich; Akquieszenz und soziale Erwünschtheit sind Response-Bias-Formen.",
+      "topic": "Motivationale Prozesse",
+      "transfer": true
+    },
+    {
+      "question": "Wie unterscheiden sich Response Set und Response Style?",
+      "options": [
+        "Ein Response Set ist ein Artefakt der Testsituation/Items; ein Response Style ist eine überdauernde Persönlichkeitseigenschaft.",
+        "Ein Response Set betrifft nur Leistungstests, ein Response Style nur Fragebögen.",
+        "Ein Response Set ist eine überdauernde Persönlichkeitseigenschaft; ein Response Style ein Artefakt der Testsituation (also genau umgekehrt).",
+        "Beide bezeichnen dasselbe und sind synonym verwendbar.",
+        "Beide sind rein zufällige Schwankungen ohne systematischen Anteil."
+      ],
+      "answer": 0,
+      "explanation": "Ein Response Set ist situations-/itembedingt (durch Veränderung der Testsituation reduzierbar); ein Response Style ist ein über Items, Methoden und Situationen hinweg konsistentes, persönlichkeitsbedingtes Antwortverhalten. Die übrigen Aussagen vertauschen oder verwischen dies.",
+      "topic": "Response Set vs. Style",
+      "hard": true
+    },
+    {
+      "question": "Wann ist Response Bias besonders wahrscheinlich und stark ausgeprägt?",
+      "options": [
+        "nur bei Leistungstests, niemals bei Persönlichkeitsfragebögen.",
+        "bei viel Satisficing sowie bei vagen, uneindeutigen oder schwierigen Items.",
+        "ausschließlich bei rein zufälligem Antwortverhalten der Personen.",
+        "bei hoher Motivation der Personen und sehr eindeutigen, leicht verständlichen und einfachen Items.",
+        "nur bei sehr großen und repräsentativen Stichproben."
+      ],
+      "answer": 1,
+      "explanation": "Response Bias wird umso wahrscheinlicher/stärker, je mehr Satisficing vorliegt und je vager/schwieriger die Items sind. Hohe Motivation und eindeutige Items verringern ihn; er ist weder rein zufällig noch auf eine Testart oder Stichprobengröße beschränkt.",
+      "topic": "Response Set vs. Style"
+    },
+    {
+      "question": "Welche zwei Aspekte umfasst die soziale Erwünschtheit?",
+      "options": [
+        "die Tendenz zur Mitte und die Tendenz zum extremen Urteil als zwei Aspekte der sozialen Erwünschtheit.",
+        "Selbsttäuschung (Self-deceptive Enhancement) und Fremdtäuschung (Impression Management).",
+        "Akquieszenz und Ablehnungstendenz.",
+        "Ankereffekt und Kontrasteffekt.",
+        "Think aloud und Probing."
+      ],
+      "answer": 1,
+      "explanation": "Soziale Erwünschtheit hat zwei Aspekte: die eher unbewusste Selbsttäuschung und die bewusste Fremdtäuschung (Impression Management). Die übrigen Paare gehören zu Akquieszenz, Antwortkategorien-Tendenzen, Reihenfolgeeffekten bzw. dem kognitiven Vortesten.",
+      "topic": "Soziale Erwünschtheit"
+    },
+    {
+      "question": "Was kennzeichnet die „Selbsttäuschung\" (Self-deceptive Enhancement)?",
+      "options": [
+        "eine eher unbewusste Tendenz zu vorteilhaften, als ehrlich erlebten Selbsteinschätzungen.",
+        "die unkritische Zustimmung zu allen vorgelegten Items unabhängig von deren jeweiligem Inhalt.",
+        "das laute Denken während der Bearbeitung eines Items.",
+        "die Bevorzugung der mittleren Antwortkategorie bei Unsicherheit.",
+        "die bewusste Steuerung des Eindrucks, den man auf andere macht."
+      ],
+      "answer": 0,
+      "explanation": "Selbsttäuschung ist eine eher unbewusste Tendenz zu vorteilhaften, subjektiv ehrlich erlebten Selbsteinschätzungen. Die bewusste Eindruckssteuerung ist die Fremdtäuschung (Impression Management); Zustimmung (Akquieszenz), Mittelkategorie und lautes Denken sind andere Konzepte.",
+      "topic": "Soziale Erwünschtheit",
+      "hard": true,
+      "trap": "Selbsttäuschung ist unbewusst; Impression Management (Fremdtäuschung) ist bewusst."
+    },
+    {
+      "question": "Ein Proband verneint im Fragebogen ein weit verbreitetes, leicht negatives Verhalten („Manchmal komme ich zu spät zur Arbeit\"). Welche Fehlerquelle liegt am ehesten vor?",
+      "options": [
+        "ein Ankereffekt der Itemreihenfolge.",
+        "Tendenz zur Mitte.",
+        "soziale Erwünschtheit.",
+        "starkes Satisficing.",
+        "Akquieszenz (Ja-Sage-Tendenz)."
+      ],
+      "answer": 2,
+      "explanation": "Das Verneinen verbreiteter, leicht negativer Verhaltensweisen ist typisch für soziale Erwünschtheit (Anpassung an Normen). Akquieszenz wäre unkritische Zustimmung, die Mitteltendenz beträfe die Kategorie, ein Ankereffekt die Reihenfolge und Satisficing die Bearbeitungstiefe.",
+      "topic": "Soziale Erwünschtheit",
+      "transfer": true
+    },
+    {
+      "question": "Was bezeichnet die „Akquieszenz\"?",
+      "options": [
+        "die Tendenz, durchgehend extreme Antwortkategorien zu wählen.",
+        "die Tendenz, Items unkritisch und unabhängig vom Inhalt zu bejahen (Ja-Sage-Tendenz).",
+        "die bewusste Steuerung des eigenen Eindrucks auf andere.",
+        "die Bevorzugung der mittleren Antwortkategorie bei Unsicherheit.",
+        "die Ähnlichkeit aufeinanderfolgender Antworten aufgrund ihrer Position im Fragebogen."
+      ],
+      "answer": 1,
+      "explanation": "Akquieszenz ist die Zustimmungs-/Ja-Sage-Tendenz (unkritische Zustimmung unabhängig vom Inhalt). Mittelkategorie (Tendenz zur Mitte), Eindruckssteuerung (soziale Erwünschtheit), Extremurteile und Reihenfolgeähnlichkeit sind andere Phänomene.",
+      "topic": "Akquieszenz"
+    },
+    {
+      "question": "Ein Proband stimmt in einem Ja/Nein-Fragebogen fast allen Aussagen zu, unabhängig vom Inhalt. Welche Antworttendenz liegt vor und welche Gegenmaßnahme bietet sich an?",
+      "options": [
+        "ein Kontrasteffekt; Gegenmaßnahme ist die Randomisierung der Dimensionen.",
+        "Tendenz zum extremen Urteil; Gegenmaßnahme sind extremere Pole.",
+        "soziale Erwünschtheit; Gegenmaßnahme ist die mündliche Befragung.",
+        "Tendenz zur Mitte; Gegenmaßnahme ist eine neutrale Mittelkategorie.",
+        "Akquieszenz; Gegenmaßnahme ist die Invertierung einzelner Items."
+      ],
+      "answer": 4,
+      "explanation": "Unkritische Zustimmung ist Akquieszenz; sie ist bei Ja/Nein-Items besonders stark und wird durch invertierte Items reduziert (Cave: mögliche Methodeneffekte). Die übrigen Zuordnungen von Tendenz und Gegenmaßnahme passen nicht.",
+      "topic": "Akquieszenz",
+      "transfer": true
+    },
+    {
+      "question": "Was kennzeichnet die „Tendenz zur Mitte\" und wie wirkt man ihr entgegen?",
+      "options": [
+        "unkritische Zustimmung zu allen Items; entgegenwirken durch die gezielte Invertierung einzelner Items im gesamten Fragebogen.",
+        "Bevorzugung mittlerer Antwortkategorien; entgegenwirken u. a. durch Verzicht auf eine neutrale Mittelkategorie.",
+        "Wahl extremer Kategorien; entgegenwirken durch weniger extreme Pole.",
+        "bewusste Selbstdarstellung; entgegenwirken durch Zusicherung der Anonymität.",
+        "Ähnlichkeit aufeinanderfolgender Antworten; entgegenwirken durch Pufferaufgaben."
+      ],
+      "answer": 1,
+      "explanation": "Die Tendenz zur Mitte ist die Bevorzugung mittlerer Kategorien (verringert Varianz); Gegenmaßnahmen sind u. a. keine neutrale Mittelkategorie, nicht zu extreme Pole und eine „weiß nicht\"-Option. Die übrigen Optionen beschreiben Akquieszenz, Extremurteile, soziale Erwünschtheit bzw. Reihenfolgeeffekte.",
+      "topic": "Tendenz zur Mitte"
+    },
+    {
+      "question": "Eine Person kreuzt bei Unsicherheit durchgehend die mittlere Kategorie an. Welche Antworttendenz liegt vor?",
+      "options": [
+        "ein Ankereffekt.",
+        "die soziale Erwünschtheit.",
+        "die Akquieszenz.",
+        "die Tendenz zum extremen Urteil.",
+        "die Tendenz zur Mitte."
+      ],
+      "answer": 4,
+      "explanation": "Das durchgehende Ankreuzen der Mittelkategorie ist die Tendenz zur Mitte (Ursache u. a. Unsicherheit). Akquieszenz wäre Zustimmung, das Gegenteil die Extremtendenz; soziale Erwünschtheit und Ankereffekt betreffen anderes.",
+      "topic": "Tendenz zur Mitte",
+      "transfer": true
+    },
+    {
+      "question": "Was ist ein „Ankereffekt\" bei der Itemreihenfolge?",
+      "options": [
+        "wenn aufeinanderfolgende Items unähnlicher beantwortet werden als getrennt gefragte.",
+        "wenn ein vorangehendes Item einen Hinweis oder Rahmen für das aktuelle Item liefert.",
+        "wenn Fragen zu einem gemeinsamen Itemstamm sich gegenseitig beeinflussen.",
+        "wenn Items im Leistungsbereich nach aufsteigender Schwierigkeit angeordnet werden.",
+        "wenn nach spezifischen Fragen eine allgemeinere Frage enger interpretiert wird."
+      ],
+      "answer": 1,
+      "explanation": "Ein Ankereffekt liegt vor, wenn ein vorangehendes Item Hinweise/einen Rahmen (Anker) für das aktuelle liefert. Unähnlichkeit ist der Kontrasteffekt, die engere Interpretation der Subtraktionseffekt, die gegenseitige Beeinflussung am Itemstamm der Testlet-Effekt.",
+      "topic": "Itemreihenfolge-Effekte"
+    },
+    {
+      "question": "Was kennzeichnet Konsistenz-/Assimilationseffekte (im Gegensatz zu Kontrasteffekten)?",
+      "options": [
+        "eine allgemeine Frage wird nach spezifischen Fragen enger ausgelegt.",
+        "Fragen zu einem gemeinsamen Itemstamm beeinflussen sich wechselseitig.",
+        "die mittlere Antwortkategorie wird systematisch bevorzugt.",
+        "aufeinanderfolgende Items werden ähnlicher beantwortet, als wenn sie getrennt gefragt würden.",
+        "aufeinanderfolgende Items werden unähnlicher beantwortet, als wenn sie einzeln und getrennt gefragt würden."
+      ],
+      "answer": 3,
+      "explanation": "Konsistenz-/Assimilationseffekte führen zu ähnlicheren Antworten aufeinanderfolgender Items (kohärentes Bild); der Kontrasteffekt ist das Gegenteil (unähnlicher). Enge Auslegung ist der Subtraktions-, gegenseitige Beeinflussung der Testlet-Effekt; die Mittel-Bevorzugung ist eine andere Tendenz.",
+      "topic": "Itemreihenfolge-Effekte",
+      "hard": true,
+      "trap": "Konsistenz/Assimilation = ähnlicher; Kontrast = unähnlicher."
+    },
+    {
+      "question": "Wie kann man Effekten der Itemreihenfolge am ehesten entgegenwirken?",
+      "options": [
+        "die Items grundsätzlich nach absteigender Schwierigkeit ordnen.",
+        "ausschließlich eine neutrale Mittelkategorie anbieten.",
+        "auf jede Instruktion vor dem Test verzichten.",
+        "Items verschiedener Dimensionen randomisieren oder die Reihenfolge ausbalancieren (Pufferaufgaben).",
+        "alle Items einer Dimension stets direkt hintereinander präsentieren, ganz ohne Randomisierung oder Pufferaufgaben."
+      ],
+      "answer": 3,
+      "explanation": "Gegen Reihenfolgeeffekte helfen Randomisierung der Dimensionen, Ausbalancieren der Reihenfolge und Pufferaufgaben. Items einer Dimension zu bündeln verstärkt Effekte; Mittelkategorie, Schwierigkeitsordnung und Instruktionsverzicht helfen nicht.",
+      "topic": "Itemreihenfolge-Effekte"
+    },
+    {
+      "question": "Wie ordnet man Items im Leistungsbereich üblicherweise an?",
+      "options": [
+        "mit absteigender Schwierigkeit, beginnend mit den schwersten Items.",
+        "nach der Länge der Items, von kurz nach lang.",
+        "mit aufsteigender Schwierigkeit (u. a. mit Eisbrecherfunktion).",
+        "in rein zufälliger Reihenfolge ohne Rücksicht auf die Schwierigkeit.",
+        "streng alphabetisch nach dem Anfangsbuchstaben der Items."
+      ],
+      "answer": 2,
+      "explanation": "Im Leistungsbereich ordnet man üblicherweise nach aufsteigender Schwierigkeit an (leichte Einstiegsitems als „Eisbrecher\"). Absteigende, zufällige, alphabetische oder längenbasierte Anordnung ist unüblich.",
+      "topic": "Erstellung der Testversion"
+    },
+    {
+      "question": "Was gehört am ehesten NICHT zu einer guten Testinstruktion?",
+      "options": [
+        "zu spontanem und wahrheitsgetreuem Antworten auffordern.",
+        "den Antwortmodus erläutern und ein Beispielitem mit zugehöriger Beispielantwort zeigen.",
+        "den Probanden die erwartete bzw. „richtige\" Antwortrichtung mitteilen.",
+        "auf Anonymität und Datenschutz hinweisen (bei Untersuchungen).",
+        "zur Mitarbeit animieren und klare Handlungsanweisungen geben."
+      ],
+      "answer": 2,
+      "explanation": "Eine Instruktion darf keine erwartete/richtige Antwortrichtung nahelegen (das wäre suggestiv) – daher gesucht. Zur Mitarbeit animieren, Antwortmodus/Beispiel erläutern, spontanes/wahres Antworten und Anonymitätshinweise sind dagegen korrekt.",
+      "topic": "Erstellung der Testversion",
+      "hard": true
+    },
+    {
+      "question": "Was gilt für demographische Angaben und das Layout der vorläufigen Testversion?",
+      "options": [
+        "Demographische Angaben auf das Notwendige beschränken; Layout einfach, übersichtlich und zielgruppengerecht.",
+        "auf jede optische Gestaltung verzichten, da sie die Ergebnisse verfälscht.",
+        "das Layout möglichst komplex gestalten, um Sorgfalt zu erzwingen.",
+        "möglichst viele demographische Angaben erheben, ganz unabhängig von ihrer Relevanz für die konkrete Fragestellung.",
+        "demographische Angaben stets in der Mitte des Tests platzieren."
+      ],
+      "answer": 0,
+      "explanation": "Demographische Angaben werden auf notwendige, fragestellungsrelevante Informationen beschränkt (am Anfang oder Ende); das Layout sollte einfach, übersichtlich und an die Zielgruppe angepasst sein. Die übrigen Optionen widersprechen dem.",
+      "topic": "Erstellung der Testversion"
+    },
+    {
+      "question": "Was ist das Ziel der Erprobung der vorläufigen Testversion, und wie groß ist die Stichprobe typischerweise?",
+      "options": [
+        "die endgültigen Normwerte an einer möglichst repräsentativen Stichprobe von mehreren Tausend Personen bestimmen.",
+        "die Faktorenstruktur des Tests konfirmatorisch prüfen.",
+        "die Reliabilität und Validität abschließend statistisch nachweisen.",
+        "problematische Items und technische Probleme identifizieren; kleine Stichprobe (etwa N = 5–10).",
+        "den Cut-Off-Wert des fertigen Tests festlegen."
+      ],
+      "answer": 3,
+      "explanation": "Die Erprobung dient unter realistischen Bedingungen der Identifikation problematischer Items und technischer Probleme; bei sorgfältiger Konstruktion genügt eine kleine Stichprobe (N = 5–10). Normierung, Reliabilitäts-/Validitätsnachweis, Cut-Off und Faktorenprüfung sind spätere Schritte.",
+      "topic": "Erprobung – Grundlagen"
+    },
+    {
+      "question": "Was gilt für Probleme, die in der Erprobung nicht gelöst werden?",
+      "options": [
+        "Sie werden durch die spätere Normierung automatisch behoben.",
+        "Sie betreffen ausschließlich das Layout, nicht die Items.",
+        "Sie sind für die Testqualität ohne jede Bedeutung.",
+        "Sie lassen sich stets durch eine deutlich größere Stichprobe im weiteren Verlauf ausgleichen.",
+        "Sie lassen sich auch mit ausgefeilten statistischen Analysen später nicht mehr beheben."
+      ],
+      "answer": 4,
+      "explanation": "In der Erprobung nicht gelöste Probleme lassen sich auch mit ausgefeilten statistischen Analysetechniken später nicht beheben – daher ist die Erprobung wichtig. Normierung, Stichprobengröße oder Layout heben diese Probleme nicht auf.",
+      "topic": "Erprobung – Grundlagen",
+      "hard": true
+    },
+    {
+      "question": "Was kennzeichnet die „retrospektive Befragung\" als Erprobungsform?",
+      "options": [
+        "die Gedanken werden während der Bearbeitung laut mitgeteilt (lautes Denken).",
+        "eine dritte Person beobachtet und kodiert das gezeigte Verhalten während der Bearbeitung und hält Auffälligkeiten schriftlich fest.",
+        "nach der Bearbeitung werden die Probanden zu problematischen Items befragt; einfach, aber die Erinnerung ist unvollständig.",
+        "die Items werden Item für Item direkt nach der Bearbeitung nacherfragt.",
+        "die Testleitung definiert im Interview die aufgetretenen Probleme."
+      ],
+      "answer": 2,
+      "explanation": "Bei der retrospektiven Befragung werden die Probanden nach der Bearbeitung zu problematischen Items befragt – einfach und effizient, aber die Erinnerung ist unvollständig. Beobachtungskodierung, lautes Denken, das Debriefing und das item-weise Probing sind andere Formen.",
+      "topic": "Erprobungsformen"
+    },
+    {
+      "question": "Was ist ein Nachteil des „Debriefing\" als Erprobungsform?",
+      "options": [
+        "die aufgetretenen „Probleme\" werden von der Testleitung definiert, oft ohne standardisierte Instrumente.",
+        "es kann nur bei reinen Leistungstests eingesetzt werden.",
+        "es erfasst ausschließlich die Gedanken während der Bearbeitung mittels lautem Denken der jeweiligen Testperson.",
+        "es liefert automatisch objektive, standardisierte Kennwerte.",
+        "es benötigt zwingend eine große, repräsentative Stichprobe."
+      ],
+      "answer": 0,
+      "explanation": "Beim Debriefing (Interview nach der Bearbeitung) definiert die Testleitung die Probleme, meist ohne standardisierte Instrumente – das ist ein Nachteil. Lautes Denken ist das kognitive Vortesten; große Stichprobe, Beschränkung auf Leistungstests und automatische Objektivität treffen nicht zu.",
+      "topic": "Erprobungsformen"
+    },
+    {
+      "question": "Was kennzeichnet die „Verhaltenskodierung\" (behavior coding)?",
+      "options": [
+        "die Probanden werden nach der Bearbeitung retrospektiv zu den als problematisch erlebten Items ausführlich befragt.",
+        "die Testleitung erörtert im Nachhinein die von ihr beobachteten Probleme.",
+        "eine dritte Person beobachtet oder zeichnet die Testsituation auf und erfasst instruktionswidriges Verhalten.",
+        "die Items werden nach aufsteigender Schwierigkeit angeordnet.",
+        "die Gedanken werden während der Bearbeitung laut ausgesprochen."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Verhaltenskodierung beobachtet/zeichnet eine dritte Person die Testsituation auf und erfasst, ob/wann sich Testleitung oder Proband nicht instruktionsgemäß verhalten. Retrospektive Befragung, lautes Denken, Debriefing und Schwierigkeitsordnung sind anderes.",
+      "topic": "Erprobungsformen"
+    },
+    {
+      "question": "Wie unterscheiden sich „Think aloud\" und „Probing\" beim kognitiven Vortesten?",
+      "options": [
+        "Think aloud erfolgt nach der Bearbeitung, Probing dagegen währenddessen (also in umgekehrter zeitlicher Abfolge).",
+        "beide erfolgen ausschließlich nach der gesamten Testbearbeitung.",
+        "beide sind Formen der reinen Verhaltensbeobachtung durch Dritte.",
+        "Think aloud erfolgt während der Bearbeitung (lautes Denken), Probing danach (Nachfragen Item für Item).",
+        "beide messen die Reliabilität des fertigen Tests."
+      ],
+      "answer": 3,
+      "explanation": "Beim kognitiven Vortesten erfolgt Think aloud (lautes Denken) während der Bearbeitung, Probing (Nachfragetechnik) danach Item für Item. Die Umkehrung, „beide danach\", reine Fremdbeobachtung oder Reliabilitätsmessung treffen nicht zu.",
+      "topic": "Erprobungsformen",
+      "hard": true,
+      "trap": "Think aloud = während der Bearbeitung; Probing = danach, Item für Item."
+    },
+    {
+      "question": "Eine dritte Person beobachtet und zeichnet auf, wann Probanden nicht instruktionsgemäß reagieren. Welche Erprobungsform liegt vor?",
+      "options": [
+        "die retrospektive Befragung.",
+        "das Debriefing.",
+        "die empirische Normierung.",
+        "die Verhaltenskodierung (behavior coding).",
+        "das kognitive Vortesten mittels Think aloud."
+      ],
+      "answer": 3,
+      "explanation": "Die Beobachtung/Aufzeichnung instruktionswidrigen Verhaltens durch eine dritte Person ist die Verhaltenskodierung. Retrospektive Befragung, Debriefing und Think aloud gehen anders vor; die Normierung ist keine Erprobungsform.",
+      "topic": "Erprobungsformen",
+      "transfer": true
+    }
+  ]
+}
