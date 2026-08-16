@@ -340,6 +340,13 @@
       "title": "VL2 · Item-Konstruktion III: Fehlerquellen & Erprobung (Sitzung 5)",
       "subject": "Psychologische Diagnostik",
       "description": "Vorlesung 2, Sitzung 5: Fehlerquellen bei der Itembeantwortung (kognitive und motivationale Prozesse, Response Bias) sowie Erstellung und Erprobung der vorläufigen Testversion. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+    },
+    {
+      "id": "diagnostik-vl2-itemanalysen-schwierigkeit-varianz",
+      "file": "diagnostik-vl2-itemanalysen-schwierigkeit-varianz.json",
+      "title": "VL2 – Empirische Überprüfung I: Item-Analysen (Schwierigkeit & Varianz) (Sitzung 6)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Empirische Überprüfung inkl. Revision(en): Überblick (Pilot-/Evaluationsstudie), Itemanalysen gemäß KTT – Itemschwierigkeit und Itemvarianz – sowie Exkurs zu Varianz, Kovarianz und Korrelation."
     }
   ]
 }

@@ -119,14 +119,15 @@
     },
     {
       "id": "dvl2",
-      "label": "VL2: Testplanung & Antwortformate",
+      "label": "VL2: Testkonstruktion & Erprobung",
       "group": "neben",
       "order": 13,
       "quizIds": [
         "diagnostik-vl2-testplanung",
         "diagnostik-vl2-itemkonstruktion-antwortformate",
         "diagnostik-vl2-itemkonstruktion-strategien",
-        "diagnostik-vl2-fehlerquellen-erprobung"
+        "diagnostik-vl2-fehlerquellen-erprobung",
+        "diagnostik-vl2-itemanalysen-schwierigkeit-varianz"
       ]
     },
     {
