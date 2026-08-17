@@ -347,6 +347,13 @@
       "title": "VL2 – Empirische Überprüfung I: Item-Analysen (Schwierigkeit & Varianz) (Sitzung 6)",
       "subject": "Psychologische Diagnostik",
       "description": "Empirische Überprüfung inkl. Revision(en): Überblick (Pilot-/Evaluationsstudie), Itemanalysen gemäß KTT – Itemschwierigkeit und Itemvarianz – sowie Exkurs zu Varianz, Kovarianz und Korrelation."
+    },
+    {
+      "id": "diagnostik-vl2-trennschaerfe-skalenanalysen",
+      "file": "diagnostik-vl2-trennschaerfe-skalenanalysen.json",
+      "title": "VL2 – Empirische Überprüfung II: Trennschärfe & Skalenanalysen (Sitzung 7)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Empirische Überprüfung II: Itemanalysen nach KTT (Trennschärfe, Zusammenspiel der Itemkennwerte) und Skalenanalysen (Reliabilität, Testwerteverteilung mit Schiefe/Kurtosis, Validität). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
