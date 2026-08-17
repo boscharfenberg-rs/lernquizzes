@@ -375,6 +375,13 @@
       "title": "Begriffe & Definitionen: Epidemiologie & Krankheitsverlauf",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Reines Begriffs- und Definitionsquiz: Fachbegriffe der Epidemiologie (Prävalenz, Inzidenz, Mediator/Moderator u. a.) sowie des Krankheitsverlaufs, der Symptomstärke und der Prognose (akut/chronisch, latent, Remission/Recovery, Rückfall/Rezidiv u. a.)."
+    },
+    {
+      "id": "diagnostik-vl2-faktorenanalyse",
+      "file": "diagnostik-vl2-faktorenanalyse.json",
+      "title": "VL2 – Empirische Überprüfung III: Faktorenanalyse EFA & CFA (Sitzung 8/9)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Faktorenanalyse zur Prüfung der faktoriellen Validität: Grundbegriffe (Faktorladung, Kommunalität, Eigenwert, Faktorwert), Ablauf der EFA (Korrelationsmatrix, Bartlett/KMO, PCA vs. PFA, Faktorenzahl, Rotation) sowie Grundidee der konfirmatorischen Faktorenanalyse (CFA). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
