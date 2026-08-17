@@ -1,0 +1,412 @@
+{
+  "id": "kl-begriffe-epidemiologie-verlauf",
+  "title": "Begriffe & Definitionen: Epidemiologie & Krankheitsverlauf",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Reines Begriffs- und Definitionsquiz: zentrale Fachbegriffe der Epidemiologie (Prävalenz, Inzidenz, Mediator/Moderator u. a.) sowie des Krankheitsverlaufs, der Symptomstärke und der Prognose (akut/chronisch, latent, Remission/Recovery, Rückfall/Rezidiv u. a.).",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Epidemiologie: Grundbegriffe",
+      "question": "Was bezeichnet der Begriff „Ätiologie“?",
+      "options": [
+        "Die Lehre von der Häufigkeit und Verteilung von Erkrankungen in einer Bevölkerung.",
+        "Die gleichzeitige Diagnose mehrerer Erkrankungen innerhalb eines definierten Zeitraums.",
+        "Die Vorhersage des voraussichtlichen weiteren Ausgangs einer diagnostizierten Erkrankung.",
+        "Die Ursachenforschung, also die Lehre von den Entstehungsursachen einer Erkrankung.",
+        "Die Beschreibung des typischen zeitlichen Verlaufs einer bereits bestehenden Erkrankung."
+      ],
+      "answer": 3,
+      "explanation": "Ätiologie meint die Ursachenforschung (Lehre von den Entstehungsursachen). Die Häufigkeitslehre ist die Epidemiologie, der zeitliche Verlauf die Genese, die Vorhersage die Prognose und das gleichzeitige Auftreten mehrerer Diagnosen die Komorbidität."
+    },
+    {
+      "topic": "Epidemiologie: Grundbegriffe",
+      "question": "Wie ist die „Prävalenz“ definiert?",
+      "options": [
+        "Als Wahrscheinlichkeit, irgendwann im Leben mindestens einmal zu erkranken.",
+        "Als Verlauf einer Erkrankung von den ersten Anzeichen bis zum Ausgang.",
+        "Als Häufigkeit – der Anteil der zu einem Zeitraum an einer Krankheit erkrankten Personen.",
+        "Als Anzahl der Neuerkrankungen, die innerhalb eines bestimmten Zeitraums auftreten.",
+        "Als Lehre von den Ursachen und Entstehungsbedingungen einer Erkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Prävalenz ist die Häufigkeit, d. h. der Anteil erkrankter Personen (zu einem Zeitpunkt oder Zeitraum). Die Zahl der Neuerkrankungen ist die Inzidenz, das lebenslange Risiko die Lebenszeitprävalenz, der Verlauf die Genese und die Ursachenlehre die Ätiologie."
+    },
+    {
+      "topic": "Epidemiologie: Grundbegriffe",
+      "question": "Was bezeichnet die „Inzidenz“?",
+      "options": [
+        "Die Gesamtzahl aller jemals erkrankten Personen unabhängig vom Zeitraum.",
+        "Die Anzahl der Neuerkrankungen innerhalb eines bestimmten Zeitraums.",
+        "Das Verhältnis von tödlichen zu nicht-tödlichen Krankheitsverläufen.",
+        "Den Anteil aller aktuell erkrankten Personen an der Gesamtbevölkerung.",
+        "Die Wahrscheinlichkeit, im Verlauf des Lebens einmal zu erkranken."
+      ],
+      "answer": 1,
+      "explanation": "Inzidenz ist die Zahl der Neuerkrankungen in einem definierten Zeitraum. Der Anteil aller aktuell Erkrankten ist die Prävalenz, das Lebenszeitrisiko die Lebenszeitprävalenz; die übrigen Beschreibungen entsprechen keinem der Standardbegriffe."
+    },
+    {
+      "topic": "Epidemiologie: Prävalenzarten",
+      "question": "Was gibt die „12-Monats-Prävalenz“ an?",
+      "options": [
+        "Den Anteil der Personen, die innerhalb eines Jahres von der Störung betroffen sind.",
+        "Die Zahl der Personen, die genau zu einem einzigen Stichtag betroffen sind.",
+        "Die Zahl der Neuerkrankungen, die in einem Zeitraum von zwölf Monaten auftreten.",
+        "Die Wahrscheinlichkeit, im gesamten weiteren Leben noch einmal zu erkranken.",
+        "Die durchschnittliche Dauer einer Krankheitsepisode über zwölf Monate hinweg."
+      ],
+      "answer": 0,
+      "explanation": "Die 12-Monats-Prävalenz ist der Anteil der innerhalb eines Jahres betroffenen Personen. Ein einziger Stichtag kennzeichnet die Punktprävalenz, das lebenslange Risiko die Lebenszeitprävalenz, die Zahl der Neuerkrankungen die Inzidenz – Prävalenz zählt Betroffene, nicht nur Neuerkrankte.",
+      "hard": true,
+      "trap": "Prävalenz zählt alle Betroffenen im Zeitraum, nicht nur die Neuerkrankungen (das wäre die Inzidenz)."
+    },
+    {
+      "topic": "Epidemiologie: Prävalenzarten",
+      "question": "Was beschreibt die „Lebenszeitprävalenz“?",
+      "options": [
+        "Die Zahl der Neuerkrankungen innerhalb eines fest umrissenen Zeitraums.",
+        "Die durchschnittliche Lebenserwartung von Personen mit der betreffenden Störung.",
+        "Die Wahrscheinlichkeit, irgendwann im Leben mindestens einmal zu erkranken.",
+        "Den Anteil der aktuell zu einem einzelnen Stichtag erkrankten Personen.",
+        "Den Anteil der innerhalb der letzten zwölf Monate betroffenen Personen."
+      ],
+      "answer": 2,
+      "explanation": "Die Lebenszeitprävalenz ist die Wahrscheinlichkeit, im Lauf des Lebens einmal zu erkranken (z. B. ~50 % für das Erleben eines Traumas). Stichtag = Punktprävalenz, Neuerkrankungen = Inzidenz, ein Jahr = 12-Monats-Prävalenz; die Lebenserwartung ist gar kein Prävalenzmaß."
+    },
+    {
+      "topic": "Epidemiologie: Punktprävalenz",
+      "question": "Was kennzeichnet die „Punktprävalenz“?",
+      "options": [
+        "Die Wahrscheinlichkeit, irgendwann im Leben einmal an ihr zu erkranken.",
+        "Den Anteil der zu einem bestimmten Zeitpunkt erkrankten Personen.",
+        "Die Summe aller jemals gestellten Diagnosen über den gesamten Lebenslauf.",
+        "Den Anteil der Personen, die über zwölf Monate hinweg betroffen sind.",
+        "Die Zahl der Neuerkrankungen, die über ein ganzes Jahr hinweg auftreten."
+      ],
+      "answer": 1,
+      "explanation": "Die Punktprävalenz erfasst die Erkrankten zu einem bestimmten Zeitpunkt (Stichtag). Ein Jahr betrifft die 12-Monats-Prävalenz, das Lebensrisiko die Lebenszeitprävalenz, Neuerkrankungen die Inzidenz."
+    },
+    {
+      "topic": "Epidemiologie: Zusammenhang",
+      "question": "Welcher Zusammenhang gilt zwischen Prävalenz, Inzidenz und Krankheitsdauer?",
+      "options": [
+        "Inzidenz = Prävalenz × Krankheitsdauer über den betrachteten Zeitraum.",
+        "Krankheitsdauer = Inzidenz × Prävalenz innerhalb des Beobachtungszeitraums.",
+        "Prävalenz = Inzidenz × Krankheitsdauer.",
+        "Prävalenz und Inzidenz sind grundsätzlich voneinander unabhängige Größen.",
+        "Prävalenz = Inzidenz geteilt durch die durchschnittliche Krankheitsdauer."
+      ],
+      "answer": 2,
+      "explanation": "Es gilt Prävalenz = Inzidenz × Krankheitsdauer (und daraus Dauer = Prävalenz/Inzidenz). Chronische (lang dauernde) Erkrankungen haben daher bei gleicher Inzidenz eine höhere Prävalenz. Die übrigen Umformungen sind falsch; unabhängig sind die Größen gerade nicht.",
+      "hard": true
+    },
+    {
+      "topic": "Epidemiologie: Genese",
+      "question": "Was bezeichnet der Begriff „Genese“ im epidemiologischen Sinne?",
+      "options": [
+        "Das gleichzeitige Auftreten mehrerer Diagnosen bei einer Person.",
+        "Die Lehre von den Ursachen und Entstehungsbedingungen der Erkrankung.",
+        "Den Anteil der aktuell erkrankten Personen in der Bevölkerung.",
+        "Die Zahl der Neuerkrankungen in einem definierten Zeitraum.",
+        "Den Verlauf einer Erkrankung."
+      ],
+      "answer": 4,
+      "explanation": "Genese bezeichnet den Verlauf einer Erkrankung. Neuerkrankungen = Inzidenz, Ursachenlehre = Ätiologie/Pathogenese, Anteil Erkrankter = Prävalenz, gleichzeitige Diagnosen = Komorbidität."
+    },
+    {
+      "topic": "Epidemiologie: Komorbidität",
+      "question": "Wie ist „Komorbidität“ definiert?",
+      "options": [
+        "Als Übergang einer akuten Erkrankung in einen chronischen Verlauf über die Zeit.",
+        "Als Wahrscheinlichkeit, dass aus einer Erkrankung eine zweite ursächlich hervorgeht.",
+        "Als vollständige Heilung mehrerer gleichzeitig bestehender Erkrankungen.",
+        "Als gleichzeitige Diagnose mehrerer Erkrankungen innerhalb eines definierten Zeitraums.",
+        "Als Anzahl der tödlich verlaufenden Fälle innerhalb eines bestimmten Zeitraums."
+      ],
+      "answer": 3,
+      "explanation": "Komorbidität ist die gleichzeitige Diagnose mehrerer Erkrankungen in einem definierten Zeitraum – ohne dass damit eine Ursachenbeziehung behauptet wird. Tödliche Fälle betreffen die Letalität/Mortalität; die übrigen Beschreibungen treffen andere Sachverhalte."
+    },
+    {
+      "topic": "Epidemiologie: Ursprung",
+      "question": "Wer gilt als Begründer der systematischen Epidemiologie (Cholera-Ausbruch, Broad Street)?",
+      "options": [
+        "Sigmund Freud, der Begründer der psychoanalytischen Neurosenlehre.",
+        "John Snow.",
+        "Carl Rogers, der Begründer der klientenzentrierten Gesprächstherapie.",
+        "Philippe Pinel, ein früher Reformer der Klassifikation psychischer Störungen.",
+        "Emil Kraepelin, der Begründer der modernen psychiatrischen Klassifikation."
+      ],
+      "answer": 1,
+      "explanation": "John Snow untersuchte den Londoner Cholera-Ausbruch (Broad Street, 1848/49) und gilt als Begründer der systematischen Epidemiologie. Kraepelin und Pinel stehen für die psychiatrische Klassifikation, Freud für die Psychoanalyse, Rogers für die Gesprächstherapie."
+    },
+    {
+      "topic": "Variablen: Mediator",
+      "question": "Was ist eine „Mediatorvariable“?",
+      "options": [
+        "Eine Variable, die die Stärke oder Richtung des Zusammenhangs zwischen A und B verändert.",
+        "Eine Variable, die zwei Merkmale rein zufällig und ohne inhaltlichen Bezug verknüpft.",
+        "Eine intervenierende Variable, die den Einfluss eines Risikofaktors auf ein Ergebnis vermittelt.",
+        "Eine Variable, die den Zusammenhang zweier Merkmale vollständig aufhebt und neutralisiert.",
+        "Eine Variable, die ausschließlich das Endergebnis, nicht aber den Risikofaktor beeinflusst."
+      ],
+      "answer": 2,
+      "explanation": "Ein Mediator ist eine intervenierende (zwischengeschaltete) Variable, die den Wirkweg eines Risikofaktors auf ein Ergebnis vermittelt (z. B. Depression → schlechtes Coping → koronare Herzkrankheit). Die Veränderung der Stärke/Richtung eines Zusammenhangs kennzeichnet dagegen den Moderator.",
+      "hard": true,
+      "trap": "Der Mediator liegt im Wirkweg (vermittelt), der Moderator verändert nur die Stärke/Richtung des Zusammenhangs."
+    },
+    {
+      "topic": "Variablen: Moderator",
+      "question": "Was kennzeichnet eine „Moderatorvariable“?",
+      "options": [
+        "Sie ist der ursprüngliche Risikofaktor, dessen Wirkung erklärt werden soll.",
+        "Sie beeinflusst den Zusammenhang zwischen zwei Variablen A und B.",
+        "Sie überträgt als Zwischenglied den Effekt eines Risikofaktors auf das Ergebnis.",
+        "Sie verbindet zwei Merkmale rein zufällig ohne jeden inhaltlichen Zusammenhang.",
+        "Sie ist das eigentliche Endergebnis, auf das der Risikofaktor letztlich einwirkt."
+      ],
+      "answer": 1,
+      "explanation": "Ein Moderator beeinflusst den Zusammenhang zwischen A und B (z. B. moderiert das elterliche Bindungsverhalten den Effekt frühen Traumas auf spätere Depression). Das Übertragen eines Effekts im Wirkweg kennzeichnet dagegen den Mediator; Risikofaktor und Ergebnis sind die verbundenen Größen selbst."
+    },
+    {
+      "topic": "Verlauf: akut",
+      "question": "Was bedeutet „akut“ bezogen auf einen Krankheitsverlauf?",
+      "options": [
+        "Überdurchschnittlich lange in die Länge gezogen verlaufend.",
+        "Ohne jede erkennbare äußere Krankheitserscheinung verlaufend.",
+        "Sich langsam entwickelnd und über lange Zeit andauernd.",
+        "In konstanter, gleichbleibender Ausprägung fortbestehend.",
+        "Schnell zum Ausbruch kommend."
+      ],
+      "answer": 4,
+      "explanation": "„Akut“ (lat. acutus, scharf/spitz) meint einen schnell zum Ausbruch kommenden Verlauf. Langsam/lang andauernd ist „chronisch“, überdurchschnittlich lang „prolongiert“, konstant „persistierend“, ohne Erscheinungen „latent/asymptomatisch“."
+    },
+    {
+      "topic": "Verlauf: chronisch",
+      "question": "Wie ist ein „chronischer“ Krankheitsverlauf gekennzeichnet?",
+      "options": [
+        "Ganz ohne erkennbare Symptome und daher klinisch nicht in Erscheinung tretend.",
+        "Schnell und plötzlich zum Ausbruch kommend, mit rascher Symptomentwicklung.",
+        "Nur vorübergehend bestehend und danach vollständig und dauerhaft abklingend.",
+        "In sehr kurzen, jeweils nur wenige Minuten dauernden Phasen wiederkehrend.",
+        "Meist langsam entwickelnd und lang andauernd (über mehr als vier Wochen)."
+      ],
+      "answer": 4,
+      "explanation": "„Chronisch“ (griech. chrónos, Zeit) beschreibt einen meist langsam entstehenden, lang andauernden Verlauf (> 4 Wochen), der akute Schübe enthalten kann. Schnell/plötzlich ist „akut“, vorübergehend „transitorisch“, ohne Symptome „asymptomatisch“, kurze Phasen „intermittierend“."
+    },
+    {
+      "topic": "Verlauf: subakut",
+      "question": "Was bezeichnet der Begriff „subakut“?",
+      "options": [
+        "Einen ausschließlich unterschwelligen, klinisch nicht auffälligen Verlauf.",
+        "Eine über lange Zeit konstant und unverändert bestehende Symptomatik.",
+        "Einen wiederholt in einzelnen Episoden auftretenden Symptomverlauf.",
+        "Eine klinisch weniger heftige Symptomatik, zeitlich zwischen akut und chronisch.",
+        "Einen besonders schweren und zugleich sehr schnell fortschreitenden Verlauf."
+      ],
+      "answer": 3,
+      "explanation": "„Subakut“ steht für eine klinisch weniger heftige Symptomatik, zeitlich zwischen akut und chronisch. Besonders schwer und schnell ist „fulminant“, konstant „persistierend“, episodisch „rezidivierend“, unterschwellig „subklinisch“.",
+      "hard": true
+    },
+    {
+      "topic": "Verlauf: prolongiert",
+      "question": "Was bedeutet „prolongiert“?",
+      "options": [
+        "Ein sehr rasch und schlagartig einsetzender Krankheitsbeginn.",
+        "Ein tödlich endender und daher besonders ungünstiger Verlauf.",
+        "Ein völlig symptomfreier, klinisch nicht bemerkbarer Zustand.",
+        "Eine überdurchschnittlich lange Krankheits- oder Symptomdauer.",
+        "Ein wiederholtes, phasenweises Auftreten der Symptome mit Pausen."
+      ],
+      "answer": 3,
+      "explanation": "„Prolongiert“ bezeichnet eine überdurchschnittlich lange Krankheits-/Symptomdauer. Rascher Beginn = akut, phasenweise = episodisch/rezidivierend, tödlich = letal, symptomfrei = asymptomatisch."
+    },
+    {
+      "topic": "Verlauf: rezidivierend",
+      "question": "Was heißt „rezidivierend“?",
+      "options": [
+        "Wiederholt auftretend (im Sinne eines erneuten Auftretens).",
+        "Sich kontinuierlich und stetig immer weiter verschlimmernd.",
+        "Von Beginn an dauerhaft ohne jede Unterbrechung fortbestehend.",
+        "Ganz ohne fassbare Symptome und daher unbemerkt verlaufend.",
+        "Ausschließlich als einmalige, nicht wiederkehrende Episode auftretend."
+      ],
+      "answer": 0,
+      "explanation": "„Rezidivierend“ bedeutet wiederholt auftretend (siehe Rezidiv). Dauerhaft ohne Unterbrechung ist „persistierend“, stetig sich verschlimmernd „progredient“, einmalig gerade nicht rezidivierend, symptomlos „asymptomatisch“."
+    },
+    {
+      "topic": "Verlauf: schubförmig",
+      "question": "Was kennzeichnet einen „schubförmigen“ Verlauf (z. B. bei Multipler Sklerose)?",
+      "options": [
+        "Einen vollständig symptomfreien, klinisch nicht erkennbaren Verlauf.",
+        "Einen einmaligen, akuten Ausbruch ohne jede weitere Krankheitsphase.",
+        "Episodisches Auftreten, meist mit jeweils dauerhafter Verschlechterung.",
+        "Sehr kurze, nur Sekunden bis Minuten dauernde symptomatische Phasen.",
+        "Eine über die gesamte Zeit völlig gleichbleibende, konstante Ausprägung."
+      ],
+      "answer": 2,
+      "explanation": "„Schubförmig“ ist wie „episodisch“, jedoch meist mit jeweils bleibender Verschlechterung nach jedem Schub (typisch für MS). Einmalig = nicht schubförmig, konstant = persistierend, sehr kurz = intermittierend, symptomfrei = asymptomatisch."
+    },
+    {
+      "topic": "Verlauf: intermittierend",
+      "question": "Was bedeutet „intermittierend“?",
+      "options": [
+        "Sich über die Zeit kontinuierlich und unaufhaltsam weiter verschlimmernd.",
+        "Ausschließlich einmalig auftretend und danach dauerhaft ausbleibend.",
+        "Phasenhaft auftretend, dabei aber eher kurz (z. B. bei Fieber, Herzrhythmusstörung).",
+        "Von Anfang an tödlich und besonders rasch voranschreitend verlaufend.",
+        "Über einen langen Zeitraum ununterbrochen und konstant bestehend."
+      ],
+      "answer": 2,
+      "explanation": "„Intermittierend“ bezeichnet ein phasenhaftes, aber eher kurzes Auftreten (etwa bei Fieber oder Herzrhythmusstörungen). Ununterbrochen = persistierend, sich verschlimmernd = progredient, einmalig = nicht intermittierend, tödlich-rasch = fulminant.",
+      "hard": true
+    },
+    {
+      "topic": "Verlauf: progredient",
+      "question": "Was bedeutet „progredient“ (bzw. „progressiv“)?",
+      "options": [
+        "Ganz ohne erkennbare Krankheitszeichen und daher unbemerkt verlaufend.",
+        "Nur vorübergehend auftretend und danach vollständig abklingend.",
+        "Schlagartig einsetzend und ebenso rasch wieder vollständig verschwindend.",
+        "In gleichbleibender, konstanter Ausprägung ohne Veränderung bestehend.",
+        "Über einen längeren Zeitraum fortschreitend, sich verschlimmernd."
+      ],
+      "answer": 4,
+      "explanation": "„Progredient/progressiv“ meint einen fortschreitenden, sich über die Zeit verschlimmernden Verlauf. Konstant = persistierend, vorübergehend = transitorisch, schlagartig = akut, ohne Zeichen = asymptomatisch."
+    },
+    {
+      "topic": "Symptomstärke: latent",
+      "question": "Was bedeutet „latent“ in Bezug auf eine Erkrankung?",
+      "options": [
+        "Besonders heftig und stark ausgeprägt in der aktuellen Symptomatik.",
+        "„Schlummernd“ – ohne aktuelle Krankheitserscheinungen, aber potenziell aktivierbar.",
+        "Mit deutlich erkennbaren, gut ausgeprägten und offensichtlichen Symptomen.",
+        "Sich über die Zeit kontinuierlich und unaufhaltsam verschlimmernd.",
+        "Tödlich verlaufend und daher mit ungünstigster denkbarer Prognose."
+      ],
+      "answer": 1,
+      "explanation": "„Latent“ bezeichnet einen „schlummernden“ Zustand ohne aktuelle Krankheitserscheinungen, der (z. B. bei geschwächtem Immunstatus) klinisch manifest werden kann. Deutlich erkennbar = klinisch manifest, heftig = florid, tödlich = letal, sich verschlimmernd = progredient."
+    },
+    {
+      "topic": "Symptomstärke: asymptomatisch",
+      "question": "Was bedeutet „asymptomatisch“ (bzw. „inapparent“)?",
+      "options": [
+        "Mit einem durch Übertreibung künstlich verschlimmerten Beschwerdebild.",
+        "Mit besonders heftigen und stark blühenden Krankheitserscheinungen.",
+        "Mit voll ausgeprägten, klinisch gut erkennbaren Krankheitszeichen.",
+        "Mit einem tödlich und rasch fortschreitenden Krankheitsverlauf.",
+        "Ohne Symptome bzw. ohne in Erscheinung tretende Krankheitszeichen."
+      ],
+      "answer": 4,
+      "explanation": "„Asymptomatisch/inapparent“ heißt ohne (erkennbare) Symptome. Voll erkennbar = klinisch manifest, heftig-blühend = florid, tödlich-rasch = fulminant, künstlich verschlimmert = aggraviert."
+    },
+    {
+      "topic": "Symptomstärke: subklinisch",
+      "question": "Was heißt „subklinisch“?",
+      "options": [
+        "Unterschwellig, nicht offensichtlich in Erscheinung tretend.",
+        "Mit tödlichem Ausgang und entsprechend ungünstiger Prognose.",
+        "Besonders schwer und dazu ungewöhnlich schnell fortschreitend.",
+        "Mit vollständig ausgeprägter, klar erkennbarer klinischer Symptomatik.",
+        "In regelmäßigen, klar abgrenzbaren Episoden wiederkehrend."
+      ],
+      "answer": 0,
+      "explanation": "„Subklinisch“ bedeutet unterschwellig, nicht offensichtlich (unterhalb der klinischen Auffälligkeitsschwelle). Voll ausgeprägt = klinisch manifest, schwer-schnell = fulminant, episodisch = rezidivierend, tödlich = letal."
+    },
+    {
+      "topic": "Symptomstärke: aggraviert",
+      "question": "Was bedeutet „aggraviert“?",
+      "options": [
+        "Verschlimmert – oft durch andere Faktoren oder durch Übertreibung (Aggravation).",
+        "In einzelnen, klar voneinander abgegrenzten Episoden wiederkehrend.",
+        "Von Beginn an nur schwach und harmlos ausgeprägt verlaufend.",
+        "Ganz ohne fassbare Symptome und klinisch nicht in Erscheinung tretend.",
+        "Vollständig ausgeheilt und damit am Ende einer Krankheitsepisode angelangt."
+      ],
+      "answer": 0,
+      "explanation": "„Aggraviert“ steht für einen verschlimmerten Zustand, häufig durch zusätzliche Faktoren oder durch Übertreibung (Aggravation). Ausgeheilt = Recovery/Remission, schwach = blande, symptomfrei = asymptomatisch, episodisch = rezidivierend."
+    },
+    {
+      "topic": "Prognose: letal",
+      "question": "Was bedeutet „letal“?",
+      "options": [
+        "Unterschwellig und klinisch nicht deutlich in Erscheinung tretend.",
+        "Tödlich verlaufend.",
+        "Besonders schwer und zugleich außergewöhnlich schnell fortschreitend.",
+        "Heftig, stark ausgeprägt und im Sinne von „blühend“ imponierend.",
+        "Vollständig ausheilend und daher mit sehr günstiger Prognose."
+      ],
+      "answer": 1,
+      "explanation": "„Letal“ bezeichnet einen tödlich verlaufenden Ausgang. Schwer-schnell = fulminant, heftig/blühend = florid, ausheilend = Recovery, unterschwellig = subklinisch."
+    },
+    {
+      "topic": "Prognose: fulminant",
+      "question": "Was kennzeichnet einen „fulminanten“ Verlauf?",
+      "options": [
+        "Einen nur schwach und harmlos ausgeprägten, gutartigen Verlauf.",
+        "Einen tödlich endenden Verlauf mit der denkbar ungünstigsten Prognose.",
+        "Einen über lange Zeit konstant und unverändert bestehenden Verlauf.",
+        "Einen sehr schweren Verlauf, der dazu auch noch besonders schnell voranschreitet.",
+        "Einen völlig symptomfreien, klinisch nicht erkennbaren Verlauf."
+      ],
+      "answer": 3,
+      "explanation": "„Fulminant“ (lat. fulmen, Blitz) meint einen sehr schweren Verlauf, der zusätzlich besonders schnell voranschreitet. Tödlich = letal, harmlos = blande, konstant = persistierend, symptomfrei = asymptomatisch.",
+      "hard": true,
+      "trap": "Fulminant betont schwer UND besonders schnell – nicht dasselbe wie „letal“ (tödlich)."
+    },
+    {
+      "topic": "Prognose: Remission",
+      "question": "Was bezeichnet „Remission“?",
+      "options": [
+        "Den Rückgang der Symptomatik innerhalb einer Krankheitsepisode.",
+        "Das erstmalige Ansprechen auf eine Behandlung im Sinne einer initialen Besserung.",
+        "Das erneute Auftreten der Erkrankung nach vollständiger Genesung.",
+        "Die vollständige Heilung, die zugleich das Ende einer Episode definiert.",
+        "Die Verschlechterung eines bereits chronischen Krankheitsverlaufs."
+      ],
+      "answer": 0,
+      "explanation": "Remission ist der Rückgang der Symptomatik innerhalb einer Episode (noch nicht das Episodenende). Die vollständige Heilung ist Recovery, das Wiederauftreten nach Genesung ein Rezidiv, die initiale Besserung eine Response, die Verschlechterung eine Exazerbation.",
+      "hard": true,
+      "trap": "Remission = Symptomrückgang innerhalb der Episode; die vollständige Heilung (Episodenende) ist Recovery."
+    },
+    {
+      "topic": "Prognose: Recovery",
+      "question": "Was bedeutet „Recovery“ (Genesung) im Unterschied zur Remission?",
+      "options": [
+        "Die Verschlechterung eines langjährig chronischen Krankheitsverlaufs.",
+        "Den bloßen Rückgang der Symptomatik noch innerhalb der laufenden Episode.",
+        "Das erste, initiale Ansprechen der Symptomatik auf eine Behandlung.",
+        "Die vollständige Heilung, die das Ende einer Krankheitsepisode definiert.",
+        "Das erneute Aufflammen der Symptome während einer noch bestehenden Episode."
+      ],
+      "answer": 3,
+      "explanation": "Recovery ist die vollständige Heilung und markiert das Ende einer Episode – im Unterschied zur Remission (Symptomrückgang innerhalb der Episode). Initiales Ansprechen = Response, erneutes Aufflammen = Rückfall, Verschlechterung = Exazerbation."
+    },
+    {
+      "topic": "Prognose: Rückfall vs. Rezidiv",
+      "question": "Wie unterscheiden sich „Rückfall“ (Relapse) und „Rezidiv“?",
+      "options": [
+        "Rückfall tritt nach vollständiger Genesung auf, Rezidiv schon nach bloßer Remission.",
+        "Beide bezeichnen exakt dasselbe und werden ohne Unterschied synonym verwendet.",
+        "Rückfall meint das erste Ansprechen, Rezidiv die dauerhafte vollständige Heilung.",
+        "Rückfall betrifft nur körperliche, Rezidiv ausschließlich psychische Erkrankungen.",
+        "Rückfall tritt nach Remission auf, Rezidiv nach Recovery (vollständiger Genesung)."
+      ],
+      "answer": 4,
+      "explanation": "Der Rückfall (Relapse) erfolgt nach einer Remission (innerhalb bzw. am Rand der Episode), das Rezidiv nach einer Recovery (nach abgeschlossener Genesung). Die zweite Option vertauscht beide; sie sind nicht synonym, betreffen nicht das Ansprechen und sind nicht auf Körper vs. Psyche verteilt.",
+      "hard": true,
+      "trap": "Rückfall = nach Remission, Rezidiv = nach Recovery – die Reihenfolge nicht vertauschen."
+    },
+    {
+      "topic": "Prognose: Exazerbation",
+      "question": "Was bezeichnet der Begriff „Exazerbation“?",
+      "options": [
+        "Die Verschlechterung eines chronischen Krankheitsverlaufs.",
+        "Die vollständige Heilung am Ende einer abgeschlossenen Episode.",
+        "Das völlige Ausbleiben jeglicher fassbarer Krankheitszeichen.",
+        "Den Rückgang der Symptomatik noch innerhalb einer Episode.",
+        "Das erste, initiale Ansprechen der Symptomatik auf eine Therapie."
+      ],
+      "answer": 0,
+      "explanation": "Exazerbation meint die Verschlechterung eines (chronischen) Krankheitsverlaufs (z. B. bei Schizophrenie). Vollständige Heilung = Recovery, initiales Ansprechen = Response, Symptomrückgang = Remission, keine Zeichen = asymptomatisch."
+    }
+  ]
+}

@@ -55,7 +55,9 @@
       "label": "Epidemiologie",
       "group": "allg",
       "order": 5,
-      "quizIds": []
+      "quizIds": [
+        "kl-begriffe-epidemiologie-verlauf"
+      ]
     },
     {
       "id": "kl_s1",

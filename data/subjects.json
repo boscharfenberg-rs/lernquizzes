@@ -368,6 +368,13 @@
       "title": "Therapieverfahren II: Psychotherapeutische Schulen",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Die psychotherapeutischen Perspektiven: humanistisch, systemisch, psychodynamisch (Freud, Adler, Jung), kognitiv-behavioral sowie Grawes integrative Konsistenztheorie."
+    },
+    {
+      "id": "kl-begriffe-epidemiologie-verlauf",
+      "file": "kl-begriffe-epidemiologie-verlauf.json",
+      "title": "Begriffe & Definitionen: Epidemiologie & Krankheitsverlauf",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Reines Begriffs- und Definitionsquiz: Fachbegriffe der Epidemiologie (Prävalenz, Inzidenz, Mediator/Moderator u. a.) sowie des Krankheitsverlaufs, der Symptomstärke und der Prognose (akut/chronisch, latent, Remission/Recovery, Rückfall/Rezidiv u. a.)."
     }
   ]
 }
