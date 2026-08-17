@@ -45,7 +45,10 @@
       "label": "Therapie-Überblick",
       "group": "allg",
       "order": 4,
-      "quizIds": []
+      "quizIds": [
+        "kl-therapie-biologisch-somatisch",
+        "kl-therapie-psychotherapieschulen"
+      ]
     },
     {
       "id": "kl_a5",

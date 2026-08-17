@@ -1,0 +1,416 @@
+{
+  "id": "kl-therapie-biologisch-somatisch",
+  "title": "Therapieverfahren I: Biologisch-somatische Verfahren & Psychopharmaka (Überblick)",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Überblick über biologisch-somatische Therapieverfahren: Elektrokrampftherapie (EKT), Neurochirurgie & Hirnstimulation (Lobotomie, THS/DBS), chronobiologische Verfahren (Licht-, Dunkel-, Wachtherapie) sowie ein allgemeiner Überblick zur Psychopharmakologie.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "EKT: Wirkmechanismus",
+      "question": "Was gilt nach heutigem Stand als das wirksame Element der Elektrokrampftherapie (EKT)?",
+      "options": [
+        "Der Stromfluss lädt die Nervenzellen elektrisch neu auf und stellt ihr Ruhepotenzial wieder her.",
+        "Der elektrische Strom zerstört gezielt überaktive Nervenzellen in den betroffenen Hirnarealen.",
+        "Nicht der Strom selbst, sondern der ausgelöste generalisierte Anfall bedingt die Wirkung.",
+        "Die Hitzeentwicklung im Gewebe führt zu einer dauerhaften Verödung fehlregulierter Synapsen.",
+        "Die kurze Narkose allein bewirkt die antidepressive Wirkung, der Anfall ist dabei unwichtig."
+      ],
+      "answer": 2,
+      "explanation": "Gesichert ist: Nicht der Strom, sondern der ausgelöste Anfall bedingt die Wirkung; diskutiert wird eine neurotrophe Hypothese (Ausschüttung von Nervenwachstumsfaktoren wie BDNF). Der Strom zerstört keine Zellen und verödet nichts, er lädt Zellen nicht „neu auf“, und die Narkose ist nur Begleitmaßnahme, nicht der Wirkfaktor."
+    },
+    {
+      "topic": "EKT: Indikation",
+      "question": "Bei welchem Störungsbild gilt die EKT als Methode der Wahl?",
+      "options": [
+        "Bei einer erstmaligen manischen Episode als primäre und alleinige Behandlung der Wahl.",
+        "Bei therapieresistenter sowie psychotischer Depression.",
+        "Bei einer leichten depressiven Episode, die auf Psychotherapie noch nicht angesprochen hat.",
+        "Bei einer Persönlichkeitsstörung mit im Vordergrund stehender chronischer Impulsivität.",
+        "Bei einer akuten Angststörung mit ausgeprägten körperlichen Paniksymptomen ohne Depression."
+      ],
+      "answer": 1,
+      "explanation": "Die EKT ist Methode der Wahl bei therapieresistenter und bei psychotischer Depression, mit sehr hoher Wirksamkeit bei schwer/chronisch Erkrankten. Bei leichter Depression, isolierten Angststörungen, einer ersten Manie oder Persönlichkeitsstörungen ist sie nicht die primäre Wahl."
+    },
+    {
+      "topic": "EKT: Wirkspektrum",
+      "question": "Welche Wirkung gehört NICHT zum bekannten Wirkspektrum der EKT?",
+      "options": [
+        "Eine antikatatone Wirkung bei ausgeprägten katatonen Symptombildern.",
+        "Eine antipsychotische Wirkung im Rahmen psychotischer Störungsbilder.",
+        "Eine antimanische Wirkung bei ausgeprägten manischen Zustandsbildern.",
+        "Eine anxiolytische (angstlösende) Kernwirkung als eigentliches Behandlungsziel.",
+        "Eine antidepressive Wirkung, insbesondere bei schweren depressiven Episoden."
+      ],
+      "answer": 3,
+      "explanation": "Das dokumentierte Wirkspektrum umfasst u. a. antidepressive, antimanische, antipsychotische, antikonvulsive, antisuizidale, stimmungsstabilisierende und antikatatone Effekte; zusätzlich senkt EKT die Therapieresistenz gegenüber Pharmaka. Eine gezielte anxiolytische Kernwirkung als Behandlungsziel zählt nicht dazu.",
+      "hard": true
+    },
+    {
+      "topic": "EKT: Durchführung",
+      "question": "Wie läuft eine EKT-Behandlung heute standardmäßig ab?",
+      "options": [
+        "Über implantierte Tiefenelektroden wird das Zielgebiet dauerhaft niederfrequent stimuliert.",
+        "Der Patient bleibt wach und ansprechbar, während über mehrere Minuten hinweg Strom fließt.",
+        "Der Patient erhält täglich über Wochen eine ambulante Bestrahlung mit hellem weißem Licht.",
+        "Unter Kurznarkose mit Muskelrelaxans wird ein ca. 60 Sekunden dauernder Anfall ausgelöst.",
+        "Es wird ohne Narkose gearbeitet, damit der Krampfanfall klinisch besser beobachtbar bleibt."
+      ],
+      "answer": 3,
+      "explanation": "Heute erfolgt EKT unter Kurznarkose plus Muskelrelaxans; abhängig von der Stromintensität wird ein ca. 60 Sekunden dauernder generalisierter Anfall ausgelöst, Minuten später erwacht der Patient. Wach ohne Narkose entspricht der historischen (überholten) Form; implantierte Elektroden gehören zur Tiefen Hirnstimulation, Licht zur Lichttherapie."
+    },
+    {
+      "topic": "EKT: Kontraindikationen",
+      "question": "Was ist KEINE Kontraindikation für eine EKT?",
+      "options": [
+        "Ein höheres Lebensalter, eine Schwangerschaft oder ein Herzschrittmacher.",
+        "Ein frischer Hirninfarkt innerhalb der letzten drei Monate vor der Behandlung.",
+        "Ein akuter Glaukomanfall mit schlagartiger Erhöhung des Augeninnendrucks.",
+        "Eine schwerste Funktionseinschränkung von Herz und Lunge.",
+        "Ein deutlich erhöhter Hirndruck oder eine raumfordernde Läsion mit Begleitödem."
+      ],
+      "answer": 0,
+      "explanation": "Höheres Lebensalter (kann die Effizienz sogar fördern), Schwangerschaft und Herzschrittmacher sind ausdrücklich keine Kontraindikationen. Frischer Hirninfarkt, erhöhter Hirndruck/Raumforderung, akuter Glaukomanfall und schwerste kardiopulmonale Einschränkungen zählen dagegen zu den Kontraindikationen (im akuten Notfall gibt es zudem keine absoluten).",
+      "hard": true,
+      "trap": "Alter, Schwangerschaft und Herzschrittmacher werden oft fälschlich für Kontraindikationen gehalten – sie sind keine."
+    },
+    {
+      "topic": "EKT: Nebenwirkungen",
+      "question": "Wie sind die kognitiven Nebenwirkungen der EKT einzuordnen?",
+      "options": [
+        "Eine gezielte, erwünschte Löschung belastender Erinnerungen als eigentlicher Wirkmechanismus.",
+        "Dauerhafte, irreversible Hirnschädigung mit fortschreitendem Abbau der geistigen Leistung.",
+        "Vollständig ausbleibende kognitive Effekte, da der Anfall die Kognition grundsätzlich nicht berührt.",
+        "Meist kurzzeitige, überwiegend reversible Gedächtnisdefizite ohne Hinweis auf Strukturschäden.",
+        "Eine bleibende Persönlichkeitsveränderung mit Verlust von Antrieb und Emotionalität."
+      ],
+      "answer": 3,
+      "explanation": "Typisch sind kurzzeitige kognitive Defizite (v. a. Gedächtnis), die nach Tagen bis Wochen reversibel sind; für strukturelle Schäden gibt es keinen Anhalt. Eine dauerhafte Schädigung oder Persönlichkeitsveränderung (Letzteres eher bei der Lobotomie), eine „erwünschte“ Erinnerungslöschung oder völlig fehlende Effekte treffen nicht zu.",
+      "trap": "EKT verursacht keine strukturelle Hirnschädigung – die kognitiven Effekte sind überwiegend reversibel."
+    },
+    {
+      "topic": "EKT: Geschichte",
+      "question": "Welcher Schritt machte die EKT ab 1951 von einem „mittelalterlichen Spektakel“ zur modernen Therapie?",
+      "options": [
+        "Der Verzicht auf jeglichen Krampfanfall zugunsten einer reinen niederfrequenten Reizung.",
+        "Der Einsatz von Muskelrelaxanzien (später kombiniert mit Kurznarkose).",
+        "Die Umstellung von elektrisch ausgelösten auf rein medikamentös induzierte Krampfanfälle.",
+        "Die Beschränkung der Anwendung ausschließlich auf sehr junge Patienten ohne Vorerkrankung.",
+        "Die Verlagerung der Behandlung aus der Klinik in eine rein ambulante häusliche Versorgung."
+      ],
+      "answer": 1,
+      "explanation": "Der Einsatz von Muskelrelaxanzien (ab 1951), später mit Kurznarkose, reduzierte Nebenwirkungen und Stress erheblich und markiert den Übergang zur modernen EKT. Medikamentös induzierte Anfälle waren die frühere, schlechter steuerbare Form; ambulante Verlagerung, Verzicht auf den Anfall oder eine Altersbeschränkung beschreiben den Schritt nicht."
+    },
+    {
+      "topic": "Hirnstimulation: Lobotomie",
+      "question": "Was kennzeichnete die (historische) frontale Lobotomie?",
+      "options": [
+        "Eine über Kopfhautelektroden ausgelöste, kurz dauernde generalisierte Krampfaktivität.",
+        "Die Bestrahlung des Frontalhirns mit hellem Licht zur Behandlung saisonaler Depressionen.",
+        "Die Gabe von Chlorpromazin zur dauerhaften Ruhigstellung agitierter psychotischer Patienten.",
+        "Eine gezielte, reversible niederfrequente Stimulation einzelner tiefer Kerngebiete des Gehirns.",
+        "Durchtrennung der Bahnen zwischen Thalamus und Frontallappen mit schweren Persönlichkeitsfolgen."
+      ],
+      "answer": 4,
+      "explanation": "Bei der Lobotomie wurden Nervenbahnen zwischen Thalamus und Frontallappen durchtrennt; Folge waren extreme Persönlichkeitsveränderungen mit Antriebs- und Emotionsverlust. Reversible Tiefenstimulation, Medikation, Lichttherapie und EKT sind jeweils andere Verfahren."
+    },
+    {
+      "topic": "Hirnstimulation: Läsion vs. Stimulation",
+      "question": "Worin besteht der zentrale Fortschritt der Tiefen Hirnstimulation (THS) gegenüber der klassischen Läsion?",
+      "options": [
+        "Sie zerstört das Zielgewebe präziser und dauerhafter als jede frühere chirurgische Läsion.",
+        "Sie ersetzt jede Form der Stimulation durch eine einmalige Injektion von Alkohol ins Zielareal.",
+        "Sie wirkt ausschließlich außerhalb des Gehirns über eine Reizung peripherer Nerven am Hals.",
+        "Sie erzeugt eine reversible „funktionelle Läsion“ statt einer dauerhaften strukturellen Zerstörung.",
+        "Sie verzichtet vollständig auf einen operativen Eingriff und wirkt allein über orale Medikamente."
+      ],
+      "answer": 3,
+      "explanation": "Die THS ersetzt die irreversible strukturelle Läsion durch eine reversible, funktionelle Läsion mittels dauerhafter hochfrequenter Stimulation – der Effekt ist steuerbar und rückgängig zu machen. Sie zerstört gerade kein Gewebe, erfordert einen Eingriff (implantierte Elektroden) und arbeitet nicht per Alkoholinjektion oder rein peripher."
+    },
+    {
+      "topic": "Hirnstimulation: Stimulationsfrequenz",
+      "question": "Welche Rolle spielt die Stimulationsfrequenz bei der Tiefen Hirnstimulation?",
+      "options": [
+        "Nur exakt 50 Hz erzeugen überhaupt einen Effekt, alle anderen Frequenzen bleiben wirkungslos.",
+        "Niedrige Frequenzen hemmen die Neurone, hohe Frequenzen reizen die Zielregion umso stärker.",
+        "Niedrige Frequenzen (unter ~50 Hz) reizen die Neurone, hohe Frequenzen hemmen die Region.",
+        "Die Frequenz bestimmt allein die Eindringtiefe, nicht aber die Wirkrichtung der Stimulation.",
+        "Die Frequenz ist unerheblich; allein die Lage der Elektrode bestimmt Reizung oder Hemmung."
+      ],
+      "answer": 2,
+      "explanation": "Unterhalb von etwa 50 Hz werden die Nervenzellen stimuliert, oberhalb davon entsteht ein läsionsähnlicher, hemmender Effekt – daraus ergeben sich sehr spezifische Steuerungsmöglichkeiten. Die anderen Aussagen kehren den Zusammenhang um, leugnen die Frequenzabhängigkeit oder deuten sie falsch.",
+      "hard": true
+    },
+    {
+      "topic": "Hirnstimulation: Verfahren",
+      "question": "Welche Verfahren haben die irreversible Läsion und die Lobotomie zunehmend abgelöst?",
+      "options": [
+        "Die Injektion von Alkohol in die Zielregion zur dauerhaften Verödung des Nervengewebes.",
+        "Die frontale Leukotomie sowie die Thermokoagulation über hochfrequente Ströme im Zielgewebe.",
+        "Die alleinige Gabe hochdosierter First-Generation-Antipsychotika ohne jeden Eingriff.",
+        "Die medikamentöse Auslösung generalisierter Anfälle über antigabaerge Substanzen wie Kampfer.",
+        "Tiefe Hirnstimulation (THS/DBS), transkranielle Magnetstimulation (TMS) und Vagusnervstimulation (VNS)."
+      ],
+      "answer": 4,
+      "explanation": "Stimulationsverfahren – THS/DBS, TMS und VNS – haben die irreversiblen Läsionen und die Lobotomie zunehmend ersetzt. Leukotomie und Thermokoagulation/Alkoholinjektion sind gerade die überholten Läsionsverfahren; medikamentöse Anfallsinduktion und Antipsychotika sind keine neurochirurgischen Stimulationsverfahren."
+    },
+    {
+      "topic": "Hirnstimulation: Wirkweise",
+      "question": "Was hat die neuere Forschung zur Wirkweise der THS gezeigt?",
+      "options": [
+        "Nicht nur die stimulierte Region reagiert, sondern komplexe Netzwerke werden mitreguliert.",
+        "Ausschließlich die direkt stimulierte Zielregion reagiert, Netzwerke bleiben unbeteiligt.",
+        "Der Effekt ist völlig unabhängig von Ort und Intensität der Stimulation immer gleich.",
+        "Die Stimulation wirkt nur auf periphere Nerven und erreicht das Gehirn selbst gar nicht.",
+        "Die Wirkung tritt bei allen Patienten sofort und mit exakt vorhersagbarer Latenz ein."
+      ],
+      "answer": 0,
+      "explanation": "Die THS wirkt über komplexe Netzwerke, nicht nur lokal – man kann an verschiedenen Stellen eines Netzwerks eingreifen, was Effekte allerdings schwer prognostizierbar macht (unterschiedliche Latenzen). Ein rein lokaler Effekt, sofortige vorhersagbare Wirkung, Unabhängigkeit von Ort/Intensität oder rein periphere Wirkung treffen nicht zu."
+    },
+    {
+      "topic": "Hirnstimulation: Indikationen",
+      "question": "Bei welchen Erkrankungen wurde bzw. wird die THS erprobt?",
+      "options": [
+        "Vorrangig bei saisonaler Winterdepression als Alternative zur ambulanten Lichttherapie.",
+        "Ursprünglich bei Bewegungsstörungen (z. B. Parkinson), heute u. a. bei Tourette, Depression und Zwang.",
+        "Ausschließlich bei akuten Belastungsreaktionen unmittelbar nach einem einmaligen Trauma.",
+        "Ausschließlich bei leichten Angststörungen ohne jede vorherige medikamentöse Behandlung.",
+        "Vor allem bei leichten Konzentrationsstörungen im Kindesalter ohne relevanten Leidensdruck."
+      ],
+      "answer": 1,
+      "explanation": "Die THS wurde ursprünglich bei Bewegungsstörungen wie Parkinson eingesetzt; aktuelle Forschung betrifft u. a. Tourette-Syndrom, Depression und therapieresistente Zwangsstörung (z. B. Stimulation im Nucleus accumbens). Leichte Angst, akute Belastungsreaktionen, saisonale Depression oder leichte kindliche Konzentrationsstörungen sind keine typischen THS-Indikationen."
+    },
+    {
+      "topic": "Chronobiologie: Lichttherapie",
+      "question": "Worauf beruht die Lichttherapie bei saisonaler (Winter-)Depression?",
+      "options": [
+        "Der Lichtreiz blockiert dauerhaft die Dopaminrezeptoren und wirkt so wie ein Antipsychotikum.",
+        "Das Licht löst über die Netzhaut einen kurzen generalisierten Krampfanfall im Gehirn aus.",
+        "Helles weißes Licht reguliert den bei Winterdepression gestörten Schlaf-Wach-Rhythmus.",
+        "Die UV-Strahlung des Lichts baut im Blut überschüssige Stresshormone direkt chemisch ab.",
+        "Das Licht erwärmt gezielt das Frontalhirn und verödet dort fehlregulierte Nervenbahnen."
+      ],
+      "answer": 2,
+      "explanation": "Das helle weiße Licht (ca. 2.500–10.000 Lux) wird über das Auge aufgenommen und reguliert den bei Winterdepression gestörten biologischen Schlaf-Wach-Rhythmus. Es verödet keine Bahnen, baut keine Hormone chemisch ab, löst keinen Anfall aus und blockiert keine Dopaminrezeptoren."
+    },
+    {
+      "topic": "Chronobiologie: Grenzen",
+      "question": "Welche Aussage zur Lichttherapie trifft zu?",
+      "options": [
+        "Sie ist gerade bei den schwersten depressiven Episoden das wirksamste Einzelverfahren.",
+        "Bei schweren Depressionen ließ sich mit ihr keine Verbesserung erzielen.",
+        "Sie wirkt nur, wenn der Patient das Licht mehrere Stunden mit geschlossenen Augen aufnimmt.",
+        "Sie wirkt ausschließlich in den Sommermonaten bei ausreichend natürlicher Sonneneinstrahlung.",
+        "Sie ersetzt bei psychotischer Depression zuverlässig sowohl EKT als auch Pharmakotherapie."
+      ],
+      "answer": 1,
+      "explanation": "Die Lichttherapie zielt auf saisonale Depression; bei schweren Depressionen zeigte sich keine Verbesserung. Sie ist dort also nicht das wirksamste Verfahren, ersetzt weder EKT noch Pharmaka, das Licht wird über das offene Auge aufgenommen, und der Einsatz betrifft gerade die lichtarmen Herbst-/Wintermonate.",
+      "trap": "Lichttherapie ist ein Verfahren für saisonale, nicht für schwere Depressionen."
+    },
+    {
+      "topic": "Chronobiologie: Weitere Verfahren",
+      "question": "Welche Zuordnung chronobiologischer Verfahren ist korrekt?",
+      "options": [
+        "Dunkel- und Wachtherapie sind lediglich zwei Bezeichnungen für ein und dasselbe Verfahren.",
+        "Beide Verfahren werden ausschließlich zur Behandlung von Angst- und Zwangsstörungen eingesetzt.",
+        "Dunkeltherapie behandelt Depressionen, Wachtherapie dient der Beruhigung manischer Zustände.",
+        "Dunkeltherapie kann manische Zustände kurzfristig reduzieren; Wachtherapie zielt auf Depression.",
+        "Beide Verfahren sind reine Entspannungsangebote ohne jeden Bezug zum Schlaf-Wach-Rhythmus."
+      ],
+      "answer": 3,
+      "explanation": "Circadiane Effekte sind auch bei Manie bedeutsam: Dunkeltherapie kann manische Zustände zumindest kurzfristig reduzieren, während die Wachtherapie (früher „Schlafentzug“) bei depressiven Stimmungstiefs eingesetzt wird. Die übrigen Optionen vertauschen die Zuordnung, verengen sie falsch auf Angst/Zwang oder setzen die Verfahren gleich."
+    },
+    {
+      "topic": "Psychopharmaka: Störungsbezug",
+      "question": "Welche Wirkstoffgruppe wird typischerweise bei der Manie eingesetzt?",
+      "options": [
+        "Lithium und Antiepileptika (z. B. (Ox-)Carbamazepin).",
+        "Benzodiazepine als langfristige Grundlage der Behandlung über viele Monate hinweg.",
+        "First- und Second-Generation-Antipsychotika als dauerhafte alleinige Basismedikation.",
+        "Selektive Serotonin-Wiederaufnahmehemmer (SSRI) als antidepressive Erstlinientherapie.",
+        "Psychostimulanzien vom Amphetamintyp zur Steigerung von Antrieb und Konzentration."
+      ],
+      "answer": 0,
+      "explanation": "Bei der Manie kommen v. a. Lithium und Antiepileptika (z. B. (Ox-)Carbamazepin) zum Einsatz. SSRI sind antidepressiv (bei Manie eher ungünstig), Antipsychotika/Benzodiazepine sind allenfalls adjuvant/kurzfristig, und Stimulanzien würden eine Manie eher verstärken."
+    },
+    {
+      "topic": "Psychopharmaka: Störungsbezug",
+      "question": "Welches neuropharmakologische Wirkprinzip steht bei der medikamentösen Depressionsbehandlung im Vordergrund?",
+      "options": [
+        "Eine Verstärkung der Wirkung von Serotonin und Noradrenalin (z. B. über SSRI/SNRI).",
+        "Eine möglichst starke Blockade der Dopamin-D2-Rezeptoren wie bei den Antipsychotika.",
+        "Eine reine Stimulation cholinerger Rezeptoren zur Verbesserung der Gedächtnisleistung.",
+        "Eine dauerhafte Dämpfung über GABA-verstärkende Substanzen wie die Benzodiazepine.",
+        "Eine Blockade von Glutamat- und Cannabinoidrezeptoren als eigentlicher Hauptmechanismus."
+      ],
+      "answer": 0,
+      "explanation": "Antidepressiva wirken überwiegend als Agonisten/Verstärker von Serotonin und Noradrenalin (SSRI, SNRI u. a.). Eine D2-Blockade kennzeichnet Antipsychotika, GABA-Verstärkung die Anxiolytika/Hypnotika, und die anderen Mechanismen sind hier nicht leitend."
+    },
+    {
+      "topic": "Psychopharmaka: Antipsychotika",
+      "question": "Was unterscheidet First-Generation- (FGA) von Second-Generation-Antipsychotika (SGA)?",
+      "options": [
+        "FGA sind grundsätzlich nebenwirkungsfrei, während SGA regelhaft schwere Schäden verursachen.",
+        "SGA blockieren ausschließlich Dopaminrezeptoren, FGA wirken dagegen an vielen Rezeptortypen.",
+        "FGA werden nur bei Depression, SGA ausschließlich bei Angststörungen zugelassen und verordnet.",
+        "Zwischen FGA und SGA besteht kein pharmakologischer Unterschied, nur die Namen unterscheiden sich.",
+        "FGA folgen der reinen Dopaminhypothese (D2-Antagonismus), SGA wirken breiter („dirty drugs“)."
+      ],
+      "answer": 4,
+      "explanation": "FGA basieren auf der Dopaminhypothese und wirken vorrangig als D2-Antagonisten; SGA erweitern dieses Profil und wirken an mehreren Rezeptortypen (umgangssprachlich „dirty drugs“). Die anderen Optionen kehren dies um, behaupten Nebenwirkungsfreiheit, verengen die Indikation falsch oder leugnen den Unterschied.",
+      "hard": true
+    },
+    {
+      "topic": "Psychopharmaka: Meilensteine",
+      "question": "Welches Medikament gilt als das erste Antipsychotikum?",
+      "options": [
+        "Imipramin, das kurz darauf als Antidepressivum eingeführt wurde.",
+        "Lithium, das zuvor als wirksames Mittel gegen manische Zustände beschrieben wurde.",
+        "Chlorpromazin (um 1952).",
+        "Chlordiazepoxid, das erste Benzodiazepin aus der Gruppe der Tranquilizer.",
+        "Clozapin, ein später eingeführtes Second-Generation-Antipsychotikum."
+      ],
+      "answer": 2,
+      "explanation": "Chlorpromazin (Laborit/Deray, um 1952) war das erste Antipsychotikum (FGA). Imipramin war das erste Antidepressivum, Chlordiazepoxid das erste Benzodiazepin, Lithium das erste Antimanikum und Clozapin ein deutlich späteres SGA."
+    },
+    {
+      "topic": "Psychopharmaka: Wirkstoffgruppen",
+      "question": "Welche der folgenden zählt zu den Wirkstoffgruppen der Psychopharmaka?",
+      "options": [
+        "Statine zur dauerhaften Senkung erhöhter Cholesterinwerte im Blutplasma.",
+        "Betablocker als Basistherapie des arteriellen Bluthochdrucks im engeren Sinne.",
+        "Antikoagulanzien zur Hemmung der Blutgerinnung bei kardiovaskulären Erkrankungen.",
+        "Bronchodilatatoren zur Erweiterung der Atemwege bei einem akuten Asthmaanfall.",
+        "Phasenprophylaktika (Stimmungsstabilisierer)."
+      ],
+      "answer": 4,
+      "explanation": "Zu den Psychopharmaka-Wirkstoffgruppen zählen u. a. Nootropika/Antidementiva, Anti-Craving-Substanzen, Neuroleptika/Antipsychotika, Tranquilizer/Hypnotika, Antidepressiva, Phasenprophylaktika und Psychostimulanzien. Antikoagulanzien, Betablocker, Statine und Bronchodilatatoren sind somatische Medikamente ohne psychopharmakologische Indikation im engeren Sinn."
+    },
+    {
+      "topic": "Psychopharmaka: Antipsychotika-Kritik",
+      "question": "Was legen neuere Daten zur idealen D2/3-Rezeptorblockade durch Antipsychotika nahe?",
+      "options": [
+        "Eine Blockade von etwa 50–70 % genügt; höhere Dosen bringen kaum mehr Wirkung, aber mehr Nebenwirkungen.",
+        "Eine niedrige Blockade unter 20 % erzielt die stärksten Effekte bei geringsten Nebenwirkungen.",
+        "Erst eine möglichst vollständige Blockade von über 90 % sichert eine ausreichende Wirksamkeit.",
+        "Je höher die Dosis, desto linearer und stärker steigt die klinische Wirkung ohne Nachteile an.",
+        "Die Rezeptorblockade ist für die Wirkung unbedeutend; allein die Einnahmedauer entscheidet."
+      ],
+      "answer": 0,
+      "explanation": "Neuere Daten sprechen für eine ideale D2/3-Blockade um 50–70 % bei relativ niedriger Dosis; höhere Dosen bringen keine Mehrwirkung, aber mehr Nebenwirkungen (kein linearer Dosis-Wirkungs-Zusammenhang). Weder eine „möglichst vollständige“ noch eine sehr niedrige Blockade noch die reine Einnahmedauer treffen dies.",
+      "hard": true
+    },
+    {
+      "topic": "Psychopharmaka: Langzeiteffekte",
+      "question": "Welche Rezeptorveränderung erklärt den Wirksamkeitsverlust von Antipsychotika im Langzeitverlauf?",
+      "options": [
+        "Ein dauerhaftes vollständiges Absterben sämtlicher dopaminerger Nervenzellen im Mittelhirn.",
+        "Eine völlige Unveränderlichkeit der Rezeptorlandschaft trotz jahrelanger Dauermedikation.",
+        "Eine bleibende Zunahme der Serotonin-Wiederaufnahme in den betroffenen Synapsen.",
+        "Eine irreversible Verödung der Rezeptoren durch die elektrische Ladung der Medikamente.",
+        "Eine Up-Regulation und Supersensitivität der Dopamin-D2-Rezeptoren."
+      ],
+      "answer": 4,
+      "explanation": "Unter Dauergabe kommt es zu einer Up-Regulation der D2-Rezeptoren und Dopamin-Supersensitivität; dadurch lässt die Wirkung nach, es drohen „Durchbruchspsychosen“ und nach Absetzen erhöhte Vulnerabilität – reversibel erst durch sehr langsames Ausschleichen. Zelltod, vermehrte Serotonin-Wiederaufnahme, „Verödung“ oder Unveränderlichkeit erklären den Effekt nicht.",
+      "hard": true,
+      "trap": "Der Wirkverlust beruht auf Rezeptor-Adaptation (Up-Regulation/Supersensitivität), nicht auf Zellabsterben."
+    },
+    {
+      "topic": "Psychopharmaka: Behandlungsfehler",
+      "question": "Welches Vorgehen wird in der Langzeit-Antipsychotikatherapie kritisch als Fehler benannt?",
+      "options": [
+        "Eine an der niedrigsten wirksamen Dosis orientierte, zurückhaltende Aufdosierung.",
+        "Der frühzeitige und konsequente Einbezug begleitender Psychotherapie in den Behandlungsplan.",
+        "Ein langsames Ausschleichen der Medikation über viele Monate zur Rezeptornormalisierung.",
+        "Die Anerkennung, dass residuale Restsymptome sich nicht immer vollständig behandeln lassen.",
+        "Überhöhte Dosierungen und Polypharmazie statt eines alternativen Medikamentenversuchs."
+      ],
+      "answer": 4,
+      "explanation": "Kritisiert werden u. a. überhöhte Akutdosierungen, unnötige Dosissteigerungen trotz fehlender Wirkung, „Overshooting“, Polypharmazie als Notlösung und zu wenig Psychotherapie. Begleitende Psychotherapie, das Anerkennen von Restsymptomen, langsames Ausschleichen und zurückhaltende Dosierung sind gerade die empfohlenen, nicht die fehlerhaften Vorgehensweisen."
+    },
+    {
+      "topic": "Psychopharmaka: Wirksamkeit",
+      "question": "Was zeigte die Analyse von fünf Verlaufstypen der Antipsychotika-Wirkung in den ersten sechs Monaten?",
+      "options": [
+        "Nur etwa ein Drittel der Behandelten hatte einen klinisch relevanten Effekt.",
+        "Praktisch alle Behandelten zeigten eine starke und anhaltende Symptomverbesserung.",
+        "Die Wirkung war bei allen Verlaufstypen exakt gleich stark und zeitlich identisch ausgeprägt.",
+        "Die stärkste Verbesserung trat ausschließlich bei anfänglich nur mild Erkrankten auf.",
+        "Kein einziger der Behandelten profitierte in irgendeiner messbaren Weise von der Medikation."
+      ],
+      "answer": 0,
+      "explanation": "Über die fünf Verlaufstypen hinweg hatte nur rund ein Drittel (~32 %) einen klinisch relevanten Effekt – die Wirkung ist also deutlich heterogener und begrenzter als oft angenommen. „Fast alle“, „niemand“, völlig gleiche Verläufe oder eine Beschränkung auf mild Erkrankte geben die Befunde nicht wieder."
+    },
+    {
+      "topic": "Anwendung: EKT",
+      "question": "Eine Patientin mit schwerer, psychotischer Depression ist akut suizidal; mehrere Antidepressiva und Psychotherapie blieben wirkungslos. Welches Verfahren ist am ehesten indiziert?",
+      "options": [
+        "Ein abwartendes Vorgehen ohne weitere Intervention bis zur Spontanremission.",
+        "Elektrokrampftherapie (EKT).",
+        "Eine niederdosierte Benzodiazepin-Dauertherapie als alleinige langfristige Maßnahme.",
+        "Eine ambulante Lichttherapie über täglich mehrere Stunden vor einer hellen Lampe.",
+        "Eine transkranielle Magnetstimulation als erster Schritt noch vor jeder anderen Option."
+      ],
+      "answer": 1,
+      "explanation": "Bei therapieresistenter, psychotischer und akut suizidaler Depression ist die EKT Methode der Wahl (hohe Wirksamkeit, gute Verträglichkeit). Lichttherapie zielt auf saisonale Depression, Benzodiazepine sind keine Dauerlösung, TMS ist hier nicht Erstoption, und Abwarten ist bei akuter Suizidalität nicht vertretbar.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: THS",
+      "question": "Ein Patient leidet an einer extrem schweren, therapieresistenten Zwangsstörung; Medikation und Psychotherapie blieben erfolglos. Welches Verfahren wurde für solche Fälle erprobt?",
+      "options": [
+        "Eine Wachtherapie (Schlafentzug) über mehrere aufeinanderfolgende Nächte.",
+        "Eine mehrwöchige Lichttherapie mit hellem weißem Licht am frühen Morgen.",
+        "Tiefe Hirnstimulation (z. B. im Nucleus accumbens).",
+        "Eine hochdosierte Dauertherapie mit einem First-Generation-Antipsychotikum.",
+        "Eine frontale Lobotomie mit Durchtrennung der Bahnen zwischen Thalamus und Frontallappen."
+      ],
+      "answer": 2,
+      "explanation": "Bei therapieresistenter Zwangsstörung wurde die THS (u. a. im Nucleus accumbens) erprobt. Die Lobotomie ist obsolet, Licht- und Wachtherapie zielen auf affektive Störungen, und hochdosierte FGA sind hier nicht das erprobte Verfahren der Wahl.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Chronobiologie",
+      "question": "Eine Patientin berichtet, ihre Niedergeschlagenheit trete regelmäßig im Spätherbst mit abnehmender Tageslichtdauer auf und bessere sich im Frühjahr. Welches Verfahren passt am ehesten?",
+      "options": [
+        "Dunkeltherapie mit mehrstündigem Aufenthalt in einem abgedunkelten Raum.",
+        "Lichttherapie.",
+        "Tiefe Hirnstimulation im Bereich des Nucleus accumbens beider Hemisphären.",
+        "Eine hochdosierte Behandlung mit einem klassischen First-Generation-Antipsychotikum.",
+        "Elektrokrampftherapie als primäre Behandlung dieser saisonal gebundenen Beschwerden."
+      ],
+      "answer": 1,
+      "explanation": "Das saisonale Muster (Herbst/Winter, Lichtabnahme) spricht für eine saisonale Depression, deren Standardverfahren die Lichttherapie ist. EKT und THS sind hier überdimensioniert, die Dunkeltherapie zielt auf Manie, und ein Antipsychotikum ist nicht indiziert.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Pharmakotherapie",
+      "question": "Ein Patient in akut manischer Episode benötigt eine phasenspezifische medikamentöse Behandlung. Welche Wirkstoffwahl ist am ehesten leitliniennah?",
+      "options": [
+        "Ein Psychostimulans vom Amphetamintyp zur Steigerung von Antrieb und Wachheit.",
+        "Eine reine Bedarfsmedikation mit einem Anti-Craving-Präparat aus der Suchtbehandlung.",
+        "Ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI) zur raschen Stimmungsanhebung.",
+        "Lithium (ggf. plus Antiepileptikum als Stimmungsstabilisierer).",
+        "Ein Nootropikum bzw. Antidementivum zur Verbesserung der kognitiven Leistung."
+      ],
+      "answer": 3,
+      "explanation": "Bei der Manie sind Lithium und Antiepileptika (Phasenprophylaktika) die naheliegende Wahl. SSRI und Stimulanzien können eine Manie verstärken, Nootropika und Anti-Craving-Substanzen haben hier keine Indikation.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Wirkmechanismus",
+      "question": "Ein Kollege argumentiert, EKT dürfe man nicht anwenden, weil ihr Wirkmechanismus unbekannt sei. Wie ist dieses Argument fachlich zu bewerten?",
+      "options": [
+        "Schwach, aber nur, weil die EKT bislang keinerlei nachweisbare klinische Wirkung zeigt.",
+        "Zutreffend, denn im Unterschied zur EKT ist der Mechanismus aller anderen Verfahren exakt bekannt.",
+        "Schwach, denn auch Pharmako- und Psychotherapie wirken über letztlich unbekannte Mechanismen.",
+        "Zutreffend, denn eine Behandlung ohne vollständig geklärten Mechanismus ist grundsätzlich unzulässig.",
+        "Nicht bewertbar, da die EKT ausschließlich aus historischen Gründen noch eingesetzt wird."
+      ],
+      "answer": 2,
+      "explanation": "Der unbekannte Wirkmechanismus ist kein stichhaltiges Gegenargument, da auch Pharmako- und Psychotherapie auf letztlich hypothetische, nicht vollständig geklärte Weise wirken – die EKT ist zudem hochwirksam. Die anderen Aussagen behaupten fälschlich, andere Verfahren seien mechanistisch geklärt, die EKT sei unwirksam oder nur historisch begründet.",
+      "hard": true,
+      "transfer": true
+    }
+  ]
+}

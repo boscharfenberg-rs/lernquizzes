@@ -354,6 +354,20 @@
       "title": "VL2 – Empirische Überprüfung II: Trennschärfe & Skalenanalysen (Sitzung 7)",
       "subject": "Psychologische Diagnostik",
       "description": "Empirische Überprüfung II: Itemanalysen nach KTT (Trennschärfe, Zusammenspiel der Itemkennwerte) und Skalenanalysen (Reliabilität, Testwerteverteilung mit Schiefe/Kurtosis, Validität). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "kl-therapie-biologisch-somatisch",
+      "file": "kl-therapie-biologisch-somatisch.json",
+      "title": "Therapieverfahren I: Biologisch-somatische Verfahren & Psychopharmaka (Überblick)",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "EKT, Neurochirurgie & Hirnstimulation (Lobotomie, THS/DBS), chronobiologische Verfahren (Licht-, Dunkel-, Wachtherapie) und ein allgemeiner Überblick zur Psychopharmakologie."
+    },
+    {
+      "id": "kl-therapie-psychotherapieschulen",
+      "file": "kl-therapie-psychotherapieschulen.json",
+      "title": "Therapieverfahren II: Psychotherapeutische Schulen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Die psychotherapeutischen Perspektiven: humanistisch, systemisch, psychodynamisch (Freud, Adler, Jung), kognitiv-behavioral sowie Grawes integrative Konsistenztheorie."
     }
   ]
 }

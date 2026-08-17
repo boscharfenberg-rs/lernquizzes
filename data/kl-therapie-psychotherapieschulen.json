@@ -1,0 +1,417 @@
+{
+  "id": "kl-therapie-psychotherapieschulen",
+  "title": "Therapieverfahren II: Psychotherapeutische Schulen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Überblick über die psychotherapeutischen Perspektiven: humanistisch (Gesprächs-/Gestalttherapie, Rogers), systemisch (Familientherapie), psychodynamisch (Psychoanalyse/Tiefenpsychologie, Freud, Adler, Jung), kognitiv-behavioral (Konditionierung, VT/KVT) sowie Grawes integrative Konsistenztheorie.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Überblick der Perspektiven",
+      "question": "Welche vier großen Perspektiven werden in der Phase der Ausdifferenzierung der Therapieschulen unterschieden?",
+      "options": [
+        "Kognitive, emotionale, motivationale und volitionale Perspektive des Erlebens und Verhaltens.",
+        "Diagnostische, epidemiologische, ätiologische und rein statistisch-methodische Perspektive.",
+        "Neurologische, internistische, psychiatrische und allgemeinmedizinische Fachperspektive.",
+        "Kognitiv-behaviorale, psychodynamische, systemische und humanistische Perspektive.",
+        "Biologische, chemische, physikalische und rein pflegerisch-sozialpsychiatrische Perspektive."
+      ],
+      "answer": 3,
+      "explanation": "Unterschieden werden die kognitiv-behaviorale, die psychodynamische, die systemische und die humanistische Perspektive. Die anderen Optionen mischen biologische Ebenen, allgemeine psychologische Funktionsbereiche, Forschungszugänge oder medizinische Fachrichtungen – das sind nicht die vier Therapieschulen-Perspektiven."
+    },
+    {
+      "topic": "Humanistisch: Menschenbild",
+      "question": "Welcher Grundsatz kennzeichnet das Menschenbild der humanistischen Therapien (z. B. der Gesprächstherapie nach Rogers)?",
+      "options": [
+        "Der Mensch ist im Kern ein durch Reiz-Reaktions-Lernen vollständig formbares Wesen.",
+        "Der Mensch ist vor allem Symptomträger eines gestörten sozialen Beziehungssystems.",
+        "Der Mensch ist primär durch unbewusste, konflikthafte Triebregungen bestimmt und getrieben.",
+        "„Der Mensch ist gut“ – mit einer grundlegenden Tendenz zu Wachstum und Entfaltung.",
+        "Der Mensch ist eine biologische Maschine, deren Erleben rein neurochemisch determiniert ist."
+      ],
+      "answer": 3,
+      "explanation": "Rogers’ humanistischer Grundsatz lautet „Der Mensch ist gut“; angenommen wird eine Aktualisierungstendenz zu Wachstum und Reife. Die konflikthafte Triebbestimmung gehört zur Psychodynamik, das Reiz-Reaktions-Lernen zum Behaviorismus, der Symptomträger zur systemischen und die neurochemische Determination zur biologischen Sicht."
+    },
+    {
+      "topic": "Humanistisch: Selbstkonzept",
+      "question": "Was ist nach Rogers das zentrale Konstrukt und wie entsteht es?",
+      "options": [
+        "Das „Selbst“, das sich aus Körperwahrnehmungen in der Interaktion mit der Umwelt herausbildet.",
+        "Die Verstärkungsgeschichte, die aus Belohnung und Bestrafung erlernte Reaktionen formt.",
+        "Das soziale System, dessen Regeln das Verhalten aller beteiligten Mitglieder bestimmen.",
+        "Das „Über-Ich“, das durch Verinnerlichung elterlicher Ge- und Verbote im Kind entsteht.",
+        "Der Neurotransmitterhaushalt, der Stimmung und Verhalten des Menschen grundlegend steuert."
+      ],
+      "answer": 0,
+      "explanation": "Zentrales Konstrukt bei Rogers ist das „Selbst“, das sich im Lauf der frühkindlichen Entwicklung aus Körperwahrnehmungen in Interaktion mit der Umwelt herausdifferenziert. Das „Über-Ich“ stammt aus der Psychoanalyse, System und Verstärkungsgeschichte aus anderen Schulen, der Neurotransmitterhaushalt aus der biologischen Perspektive.",
+      "hard": true,
+      "trap": "Rogers’ „Selbst“ nicht mit dem psychoanalytischen „Über-Ich“ verwechseln – das sind verschiedene Schulen."
+    },
+    {
+      "topic": "Humanistisch: Aktualisierungstendenz",
+      "question": "Was beschreibt die von Rogers angenommene Aktualisierungstendenz?",
+      "options": [
+        "Einen Grundzug, der den Menschen zu Wachstum, Reife und Lebensbereicherung bewegt.",
+        "Den Drang, unbewusste Triebkonflikte durch Abwehrmechanismen dauerhaft zu verdrängen.",
+        "Die angeborene Neigung, Reize der Umwelt möglichst vollständig und passiv abzuwehren.",
+        "Die Tendenz, jedes gezeigte Verhalten strikt nach seinen Konsequenzen neu auszurichten.",
+        "Das Bestreben des sozialen Systems, ein Symptom zur eigenen Stabilisierung aufrechtzuerhalten."
+      ],
+      "answer": 0,
+      "explanation": "Die Aktualisierungstendenz bewegt den Menschen auf das zu, was als Wachsen, Reife und Lebensbereicherung erlebt wird – eine konstruktive Grundkraft. Triebkonflikte/Abwehr (Psychodynamik), Konsequenzsteuerung (Behaviorismus) und Symptomerhalt im System (systemisch) beschreiben andere Konzepte."
+    },
+    {
+      "topic": "Humanistisch: Inkongruenz",
+      "question": "Was versteht Rogers unter „Inkongruenz“, und welche Folge hat sie?",
+      "options": [
+        "Einen unbewussten Konflikt zwischen den Instanzen Es und Über-Ich, der Symptome erzeugt.",
+        "Eine Störung des Neurotransmittergleichgewichts, die unmittelbar depressive Symptome auslöst.",
+        "Eine fehlerhafte Kopplung zwischen neutralem und unbedingtem Reiz im Konditionierungsprozess.",
+        "Eine widersprüchliche Kommunikationsregel innerhalb eines gestörten familiären Systems.",
+        "Eine Diskrepanz zwischen dem Erleben des Organismus und dem Selbstkonzept – Grundlage von Angst."
+      ],
+      "answer": 4,
+      "explanation": "Inkongruenz ist die Diskrepanz zwischen organismischem Erleben und Selbstkonzept; drängen beide in unterschiedliche Richtungen, entsteht der Konflikt, der Grundlage der Angst ist. Es/Über-Ich-Konflikt (Psychoanalyse), Reizkopplung (Behaviorismus), Kommunikationsregeln (systemisch) und Neurotransmitter (biologisch) sind andere Erklärungen.",
+      "hard": true
+    },
+    {
+      "topic": "Humanistisch: Grundhaltung",
+      "question": "Welche drei therapeutischen Grundhaltungen sind für die Gesprächstherapie nach Rogers zentral?",
+      "options": [
+        "Verstärkung, systematische Desensibilisierung und gezieltes Kontingenzmanagement.",
+        "Zirkuläres Fragen, Reframing und paradoxe Symptomverschreibung im Familiensetting.",
+        "Deutung, Übertragungsanalyse und konsequente Abstinenz der behandelnden Person.",
+        "Pharmakologische Einstellung, Dosisoptimierung und engmaschiges Nebenwirkungsmonitoring.",
+        "Wertschätzung, Empathie und Echtheit (Kongruenz)."
+      ],
+      "answer": 4,
+      "explanation": "Zentrale Grundhaltungen sind Wertschätzung, Empathie und Echtheit. Deutung/Übertragung/Abstinenz gehören zur Psychoanalyse, Verstärkung/Desensibilisierung zur Verhaltenstherapie, zirkuläres Fragen/Reframing zur systemischen Therapie und die pharmakologischen Aspekte zur somatischen Behandlung."
+    },
+    {
+      "topic": "Humanistisch: Verfahren",
+      "question": "Welche Verfahren zählen zur humanistischen Perspektive?",
+      "options": [
+        "Elektrokrampftherapie, Lichttherapie und die Tiefe Hirnstimulation als Kombination.",
+        "Paar- und Familientherapie, Mehrgenerationenarbeit und systemische Aufstellungsverfahren.",
+        "Psychoanalyse, tiefenpsychologisch fundierte Therapie und analytische Psychologie.",
+        "Gesprächstherapie, Gestalttherapie und Psychodrama.",
+        "Verhaltenstherapie, kognitive Therapie und kognitive Verhaltenstherapie zusammengenommen."
+      ],
+      "answer": 3,
+      "explanation": "Zur humanistischen Perspektive gehören Gesprächstherapie, Gestalttherapie und Psychodrama. Die weiteren Optionen listen psychodynamische, kognitiv-behaviorale, systemische bzw. biologisch-somatische Verfahren auf."
+    },
+    {
+      "topic": "Systemisch: Grundannahme",
+      "question": "Was ist die zentrale Grundannahme der systemischen Perspektive?",
+      "options": [
+        "Nicht die einzelne Person ist „erkrankt“, sondern das soziale System.",
+        "Die Symptome entstehen ausschließlich aus verdrängten frühkindlichen Triebkonflikten.",
+        "Psychische Störungen sind primär Ausdruck eines gestörten Neurotransmitterhaushalts.",
+        "Verhalten wird vollständig durch die individuelle Lerngeschichte des Einzelnen bestimmt.",
+        "Der Mensch verfügt über eine angeborene Tendenz zu Selbstverwirklichung und Wachstum."
+      ],
+      "answer": 0,
+      "explanation": "Systemisch gilt: Nicht die einzelne Person, sondern das soziale System ist gestört; die Person ist Symptomträger. Triebkonflikte (Psychodynamik), individuelle Lerngeschichte (Behaviorismus), Neurotransmitter (biologisch) und Selbstverwirklichung (humanistisch) sind Annahmen anderer Schulen.",
+      "trap": "Im systemischen Modell gilt das System als gestört, nicht die Einzelperson."
+    },
+    {
+      "topic": "Systemisch: Symptomträger",
+      "question": "Welche Funktion hat das Symptom in der systemischen Sichtweise?",
+      "options": [
+        "Es entsteht allein aus einem unbewussten innerseelischen Konflikt der betroffenen Person.",
+        "Es ist ein rein zufälliges Nebenprodukt ohne jede Funktion für das soziale Umfeld.",
+        "Es ist ausschließlich Folge einer fehlerhaften Reiz-Reaktions-Kopplung beim Einzelnen.",
+        "Es dient der Aufrechterhaltung des Systems; die betroffene Person ist Symptomträger.",
+        "Es ist der direkte Ausdruck einer angeborenen Störung des dopaminergen Systems."
+      ],
+      "answer": 3,
+      "explanation": "Das Symptom hat eine Funktion für das System (es stabilisiert dessen Gleichgewicht); der Einzelne trägt es stellvertretend als Symptomträger. Ein funktionsloser Zufall, reine Reizkopplung, ein rein innerseelischer Konflikt oder eine dopaminerge Störung widersprechen dem systemischen Verständnis.",
+      "hard": true
+    },
+    {
+      "topic": "Systemisch: Technik",
+      "question": "Welche Technik ist typisch für die systemische Therapie?",
+      "options": [
+        "Die systematische Desensibilisierung entlang einer abgestuften Angsthierarchie.",
+        "Die freie Assoziation zur Erschließung verdrängter unbewusster Inhalte.",
+        "Die Einstellung und Anpassung einer stimmungsstabilisierenden Medikation.",
+        "Die kognitive Umstrukturierung dysfunktionaler automatischer Gedanken.",
+        "Zirkuläres Fragen."
+      ],
+      "answer": 4,
+      "explanation": "Zirkuläres Fragen ist eine klassische systemische Technik, die Beziehungen und Wechselwirkungen im System sichtbar macht. Freie Assoziation gehört zur Psychoanalyse, Desensibilisierung und kognitive Umstrukturierung zur Verhaltens- bzw. kognitiven Therapie, die Medikation zur somatischen Behandlung."
+    },
+    {
+      "topic": "Systemisch: Genogramm",
+      "question": "Wozu dient ein Genogramm in der systemischen Arbeit?",
+      "options": [
+        "Zur Erfassung automatischer Gedanken in konkreten alltäglichen Belastungssituationen.",
+        "Zur Protokollierung der Auftretenshäufigkeit einzelner Zielverhaltensweisen über die Zeit.",
+        "Zur grafischen Darstellung familiärer Strukturen und Beziehungen über Generationen.",
+        "Zur Messung der Rezeptorbindung verschiedener Psychopharmaka im synaptischen Spalt.",
+        "Zur Kartierung unbewusster Abwehrmechanismen und ihrer frühkindlichen Entstehungsbedingungen."
+      ],
+      "answer": 2,
+      "explanation": "Ein Genogramm stellt familiäre Strukturen und Beziehungen über mehrere Generationen grafisch dar – passend zur systemischen Betonung des Beziehungssystems. Verhaltensprotokolle und Gedankenprotokolle gehören zur Verhaltens-/kognitiven Therapie, Abwehrmechanismen zur Psychodynamik, die Rezeptorbindung zur Pharmakologie."
+    },
+    {
+      "topic": "Systemisch: Verfahren",
+      "question": "In welchem therapeutischen Setting wird die systemische Perspektive typischerweise umgesetzt?",
+      "options": [
+        "In einer streng dyadischen Deutungsarbeit ausschließlich mit der Einzelperson auf der Couch.",
+        "In der Paar- und Familientherapie.",
+        "In einer rein apparativen Behandlung mittels Elektroden und gesteuerter Hirnstimulation.",
+        "In einer ausschließlich medikamentös gesteuerten stationären Akutbehandlung ohne Gespräche.",
+        "In einer standardisierten Expositionsübung, die der Patient allein zu Hause durchführt."
+      ],
+      "answer": 1,
+      "explanation": "Die systemische Perspektive wird typischerweise in der Paar- und Familientherapie umgesetzt, weil dort das Beziehungssystem unmittelbar bearbeitbar ist. Dyadische Deutung (Psychoanalyse), Hirnstimulation, alleinige Exposition und reine Medikation entsprechen anderen Ansätzen."
+    },
+    {
+      "topic": "Psychodynamisch: Zuordnung",
+      "question": "Welche Verfahren werden der psychodynamischen Perspektive zugerechnet?",
+      "options": [
+        "Verhaltenstherapie und kognitive Therapie in ihrer kognitiv-behavioralen Ausrichtung.",
+        "Licht-, Wach- und Elektrokrampftherapie als biologisch-somatische Behandlungsformen.",
+        "Paar- und Familientherapie mit Techniken wie dem zirkulären Fragen im System.",
+        "Psychoanalyse und Tiefenpsychologie (in der Tradition Sigmund Freuds).",
+        "Gesprächstherapie, Gestalttherapie und Psychodrama als humanistische Verfahren."
+      ],
+      "answer": 3,
+      "explanation": "Zur psychodynamischen Perspektive zählen Psychoanalyse und Tiefenpsychologie in der Tradition Freuds. Die übrigen Optionen benennen humanistische, kognitiv-behaviorale, systemische bzw. biologisch-somatische Verfahren."
+    },
+    {
+      "topic": "Psychodynamisch: Freud",
+      "question": "Welche Grundannahme ist für Freuds Psychoanalyse zentral?",
+      "options": [
+        "Die Annahme eines gestörten sozialen Systems als eigentlichem Ort der Erkrankung.",
+        "Die Aktualisierungstendenz als grundlegend konstruktive Kraft im Menschen.",
+        "Die Rückführung psychischer Störungen auf einen reinen Neurotransmittermangel.",
+        "Die vollständige Formbarkeit des Verhaltens allein durch Belohnung und Bestrafung.",
+        "Die Theorie des Unbewussten als treibende Kraft des Erlebens und Verhaltens."
+      ],
+      "answer": 4,
+      "explanation": "Zentral ist bei Freud die Theorie des Unbewussten als treibende Kraft. Reine Konsequenzsteuerung (Behaviorismus), das gestörte System (systemisch), die Aktualisierungstendenz (humanistisch) und der Neurotransmittermangel (biologisch) gehören zu anderen Perspektiven."
+    },
+    {
+      "topic": "Psychodynamisch: Instanzenmodell",
+      "question": "In welche drei Instanzen differenziert Freud die Struktur der Psyche?",
+      "options": [
+        "In Kognition, Emotion und Verhalten als drei getrennte Reaktionsebenen.",
+        "In Es, Ich und Über-Ich.",
+        "In Reiz, Reaktion und Verstärkung als Grundeinheiten des Lernens.",
+        "In System, Symptomträger und Umwelt als Elemente des Beziehungsgefüges.",
+        "In Selbst, Aktualisierungstendenz und Inkongruenz als Erlebensgrößen."
+      ],
+      "answer": 1,
+      "explanation": "Freud differenziert die intrapsychische Struktur in Es, Ich und Über-Ich. Kognition/Emotion/Verhalten ist ein allgemeines Reaktionsmodell, Reiz-Reaktion-Verstärkung stammt aus dem Behaviorismus, System/Symptomträger aus der systemischen und Selbst/Aktualisierungstendenz/Inkongruenz aus der humanistischen Perspektive."
+    },
+    {
+      "topic": "Psychodynamisch: Konzepte",
+      "question": "Welches Konzept gehört zur psychodynamischen Theoriebildung?",
+      "options": [
+        "Das Assoziationsgesetz als Grundlage der klassischen Konditionierung.",
+        "Die Neurosenlehre und die Objektbeziehungstheorie.",
+        "Die Aktualisierungstendenz als konstruktive Wachstumskraft des Organismus.",
+        "Das zirkuläre Fragen als Technik zur Erschließung von Systemregeln.",
+        "Die Dopaminhypothese als Erklärungsmodell psychotischer Positivsymptome."
+      ],
+      "answer": 1,
+      "explanation": "Neurosenlehre und Objektbeziehungstheorie sind psychodynamische Konzepte (neben der interpersonellen Konflikttheorie). Das Assoziationsgesetz gehört zum Behaviorismus, die Aktualisierungstendenz zum Humanismus, zirkuläres Fragen zur systemischen und die Dopaminhypothese zur biologischen Perspektive.",
+      "hard": true
+    },
+    {
+      "topic": "Psychodynamisch: Adler",
+      "question": "Wie heißt die von Alfred Adler begründete Modifikation der Psychoanalyse?",
+      "options": [
+        "Kognitive Verhaltenstherapie mit Umstrukturierung dysfunktionaler Gedanken.",
+        "Systemische Familientherapie mit dem Symptom als Funktion des Systems.",
+        "Individualpsychologie.",
+        "Gesprächspsychotherapie mit den Grundhaltungen Empathie und Echtheit.",
+        "Analytische Psychologie mit Betonung kollektiver, archetypischer Bilder."
+      ],
+      "answer": 2,
+      "explanation": "Adler begründete die Individualpsychologie als Modifikation Freuds. Die analytische Psychologie stammt von C. G. Jung, die Gesprächspsychotherapie von Rogers; systemische und kognitiv-behaviorale Ansätze gehören ohnehin anderen Perspektiven an.",
+      "hard": true,
+      "trap": "Individualpsychologie = Adler, Analytische Psychologie = Jung – leicht zu vertauschen."
+    },
+    {
+      "topic": "Psychodynamisch: Jung",
+      "question": "Welche Richtung geht auf C. G. Jung zurück?",
+      "options": [
+        "Die klassische Verhaltenstherapie auf Basis der Konditionierungsforschung.",
+        "Die analytische Psychologie (u. a. mit dem Konzept archetypischer Bilder).",
+        "Die systemische Perspektive mit der Familie als eigentlichem Behandlungsfokus.",
+        "Die Individualpsychologie mit dem Streben nach Geltung und Kompensation.",
+        "Die klientenzentrierte Gesprächstherapie mit nondirektiver Grundhaltung."
+      ],
+      "answer": 1,
+      "explanation": "C. G. Jung begründete die analytische Psychologie. Die Individualpsychologie stammt von Adler, die Gesprächstherapie von Rogers; Verhaltenstherapie und systemische Perspektive gehören anderen Traditionen an.",
+      "hard": true
+    },
+    {
+      "topic": "Behavioral: Pawlow",
+      "question": "Was zeigte Pawlow mit seinen Experimenten zur Speichelsekretion?",
+      "options": [
+        "Die Aufrechterhaltung eines Symptoms durch die Kommunikationsregeln des Familiensystems.",
+        "Die operante Formung von Verhalten allein über Belohnung und Bestrafung der Konsequenzen.",
+        "Die Verdrängung konflikthafter Triebregungen in das dynamische Unbewusste des Menschen.",
+        "Die Herausbildung des Selbstkonzepts aus Körperwahrnehmungen in Interaktion mit der Umwelt.",
+        "Die klassische Konditionierung: ein neutraler Reiz löst nach Kopplung allein eine Reaktion aus."
+      ],
+      "answer": 4,
+      "explanation": "Pawlow koppelte einen neutralen Reiz (Glocke) an einen unbedingten Reiz (Futter); danach löste die Glocke allein Speichel aus – das Prinzip der klassischen Konditionierung. Operante Konsequenzsteuerung, Verdrängung, Selbstkonzept und Systemregeln stammen aus anderen Ansätzen."
+    },
+    {
+      "topic": "Behavioral: Konditionierter Reiz",
+      "question": "Was ist im Pawlow-Experiment der „konditionierte Reiz“?",
+      "options": [
+        "Die zunächst neutrale Glocke, die nach Kopplung allein die Speichelbildung auslöst.",
+        "Der Speichel, der als körperliche Reaktion auf den dargebotenen Reiz hin auftritt.",
+        "Die Belohnung, die eine zuvor gezeigte Reaktion gezielt verstärken soll.",
+        "Die innere Triebspannung, die den Organismus unbewusst zur Reaktion drängt.",
+        "Das Futter, das von Natur aus und ohne jedes Lernen die Speichelbildung auslöst."
+      ],
+      "answer": 0,
+      "explanation": "Der konditionierte Reiz ist die ursprünglich neutrale Glocke, die nach wiederholter Kopplung selbst die Reaktion auslöst. Das Futter ist der unbedingte Reiz, der Speichel die (unbedingte/bedingte) Reaktion; Triebspannung und Belohnung gehören nicht zur klassischen Konditionierung.",
+      "hard": true,
+      "trap": "Der konditionierte Reiz ist der ursprünglich neutrale (Glocke), nicht der von Natur aus wirksame (Futter)."
+    },
+    {
+      "topic": "Behavioral: Wurzeln",
+      "question": "Auf welchem lernpsychologischen Prinzip beruhen die Wurzeln der Verhaltenstherapie?",
+      "options": [
+        "Auf der gezielten pharmakologischen Beeinflussung des synaptischen Botenstoffhaushalts.",
+        "Auf der bedingungslosen Wertschätzung und Echtheit in der therapeutischen Beziehung.",
+        "Auf dem Assoziationsgesetz (Kopplung von Reizen bzw. Reiz und Reaktion).",
+        "Auf der Annahme, dass allein das soziale System und nicht die Person erkrankt ist.",
+        "Auf der Deutung verdrängter Inhalte über die Methode der freien Assoziation."
+      ],
+      "answer": 2,
+      "explanation": "Die Wurzeln der Verhaltenstherapie liegen im Assoziationsgesetz, das die Kopplung von Reizen bzw. Reiz und Reaktion beschreibt (klassische Konditionierung). Freie Assoziation (Psychoanalyse), Wertschätzung (humanistisch), Systemgedanke und Pharmakologie sind andere Grundlagen."
+    },
+    {
+      "topic": "Behavioral: Verfahren",
+      "question": "Welche Verfahren fasst die kognitiv-behaviorale Perspektive zusammen?",
+      "options": [
+        "Verhaltenstherapie, kognitive Therapie und kognitive Verhaltenstherapie.",
+        "Gesprächstherapie, Gestalttherapie und das handlungsorientierte Psychodrama.",
+        "Licht-, Wach- und Elektrokrampftherapie als biologisch-somatische Verfahren.",
+        "Psychoanalyse, tiefenpsychologisch fundierte Therapie und analytische Psychologie.",
+        "Paar-, Familien- und Mehrgenerationentherapie im systemischen Rahmen."
+      ],
+      "answer": 0,
+      "explanation": "Die kognitiv-behaviorale Perspektive umfasst Verhaltenstherapie, kognitive Therapie und kognitive Verhaltenstherapie (KVT). Die anderen Optionen benennen psychodynamische, humanistische, systemische bzw. biologisch-somatische Verfahren."
+    },
+    {
+      "topic": "Behavioral: Kognitiv vs. behavioral",
+      "question": "Worauf zielt die kognitive Therapie im Unterschied zur klassischen Verhaltenstherapie besonders?",
+      "options": [
+        "Auf die Veränderung dysfunktionaler Denkmuster und Bewertungen.",
+        "Auf die medikamentöse Korrektur eines gestörten Neurotransmittergleichgewichts.",
+        "Auf die Förderung einer angeborenen Aktualisierungstendenz durch bloße Wertschätzung.",
+        "Auf die Aufdeckung verdrängter frühkindlicher Konflikte im dynamischen Unbewussten.",
+        "Auf die Umgestaltung der Kommunikationsregeln im gesamten Familiensystem."
+      ],
+      "answer": 0,
+      "explanation": "Die kognitive Therapie setzt an dysfunktionalen Gedanken und Bewertungen an, während die klassische Verhaltenstherapie am beobachtbaren Verhalten (Lernprinzipien) ansetzt; die KVT verbindet beides. Verdrängte Konflikte, Systemregeln, Medikation und Aktualisierungstendenz gehören zu anderen Schulen.",
+      "hard": true
+    },
+    {
+      "topic": "Integrativ: Grawe",
+      "question": "Wie lässt sich die Konsistenztheorie von Grawe einordnen?",
+      "options": [
+        "Als rein biologisches Modell, das Störungen ausschließlich neurochemisch erklärt.",
+        "Als ausschließlich systemischer Ansatz ohne jeden Bezug zu anderen Therapieschulen.",
+        "Als schulenübergreifender, integrativer Ansatz (mit verhaltenstherapeutischer Wurzel).",
+        "Als streng werktreue Fortführung der klassischen Freud’schen Psychoanalyse.",
+        "Als reine Diagnostikmethode ohne jeden therapeutischen Anwendungsbezug."
+      ],
+      "answer": 2,
+      "explanation": "Grawes Konsistenztheorie ist ein schulenintegrierender Ansatz mit verhaltenstherapeutischer Wurzel, der Erkenntnisse verschiedener Schulen zusammenführt. Sie ist weder eine werktreue Psychoanalyse noch ein rein biologisches, rein systemisches oder rein diagnostisches Modell."
+    },
+    {
+      "topic": "Anwendung: Schule erkennen",
+      "question": "Eine Therapeutin versteht das Symptom eines Jugendlichen als Ausdruck eines gestörten Familiengefüges und arbeitet mit zirkulärem Fragen. Welcher Perspektive folgt sie?",
+      "options": [
+        "Der biologisch-somatischen Perspektive mit Fokus auf Neurotransmittersteuerung.",
+        "Der systemischen Perspektive.",
+        "Der psychodynamischen Perspektive mit Deutung unbewusster innerseelischer Konflikte.",
+        "Der kognitiv-behavioralen Perspektive mit Umstrukturierung dysfunktionaler Gedanken.",
+        "Der humanistischen Perspektive mit Wertschätzung, Empathie und Echtheit als Kern."
+      ],
+      "answer": 1,
+      "explanation": "Der Fokus auf das Familiengefüge und die Technik des zirkulären Fragens sind Kennzeichen der systemischen Perspektive (Person als Symptomträger). Deutung (psychodynamisch), Grundhaltungen (humanistisch), Gedankenumstrukturierung (kognitiv-behavioral) und Neurotransmitter (biologisch) passen nicht zur beschriebenen Arbeitsweise.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Schule erkennen",
+      "question": "Ein Therapeut arbeitet nondirektiv, begegnet dem Klienten mit Wertschätzung, Empathie und Echtheit und vertraut auf dessen Tendenz zu Wachstum. Welche Schule liegt vor?",
+      "options": [
+        "Eine rein somatische Behandlung mittels stimmungsstabilisierender Medikation.",
+        "Eine psychoanalytische Therapie mit Deutung von Übertragung und Widerstand.",
+        "Eine klassische Verhaltenstherapie mit systematischer Desensibilisierung.",
+        "Eine systemische Familientherapie mit Reframing und paradoxer Intervention.",
+        "Eine humanistische Therapie (z. B. Gesprächspsychotherapie)."
+      ],
+      "answer": 4,
+      "explanation": "Nondirektives Vorgehen, die Grundhaltungen Wertschätzung/Empathie/Echtheit und das Vertrauen in die Aktualisierungstendenz kennzeichnen die humanistische Gesprächspsychotherapie. Deutung (Psychoanalyse), Desensibilisierung (Verhaltenstherapie), Reframing (systemisch) und Medikation (somatisch) beschreiben andere Schulen.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Schule erkennen",
+      "question": "In der Behandlung stehen das Deuten unbewusster Konflikte und die Bearbeitung früher Objektbeziehungen im Mittelpunkt. Welcher Perspektive entspricht das?",
+      "options": [
+        "Der kognitiv-behavioralen Perspektive mit Fokus auf Lernprozesse und Kognitionen.",
+        "Der systemischen Perspektive mit dem Symptom als Funktion des Systems.",
+        "Der psychodynamischen Perspektive.",
+        "Der biologisch-somatischen Perspektive mit Fokus auf Rezeptorwirkungen von Medikamenten.",
+        "Der humanistischen Perspektive mit dem Selbst als zentralem Konstrukt."
+      ],
+      "answer": 2,
+      "explanation": "Das Deuten unbewusster Konflikte und die Arbeit an frühen Objektbeziehungen sind Kernmerkmale der psychodynamischen Perspektive (Psychoanalyse/Tiefenpsychologie). Selbst (humanistisch), Systemfunktion (systemisch), Lernprozesse (kognitiv-behavioral) und Rezeptorwirkungen (biologisch) gehören zu anderen Perspektiven.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Schule erkennen",
+      "question": "Eine Therapeutin baut mit einer Patientin schrittweise über Lern- und Konditionierungsprinzipien neues Verhalten auf und verändert dysfunktionale Gedanken. Welcher Perspektive folgt sie?",
+      "options": [
+        "Der systemischen Perspektive mit dem Beziehungssystem als Behandlungsfokus.",
+        "Der kognitiv-behavioralen Perspektive.",
+        "Der biologisch-somatischen Perspektive mit einer primär medikamentösen Steuerung.",
+        "Der psychodynamischen Perspektive mit Fokus auf verdrängte Triebkonflikte.",
+        "Der humanistischen Perspektive mit Vertrauen auf die Aktualisierungstendenz."
+      ],
+      "answer": 1,
+      "explanation": "Der Aufbau von Verhalten über Lern-/Konditionierungsprinzipien zusammen mit der Veränderung dysfunktionaler Gedanken kennzeichnet die kognitiv-behaviorale Perspektive (KVT). Triebkonflikte (psychodynamisch), Aktualisierungstendenz (humanistisch), Systemfokus (systemisch) und Medikation (biologisch) passen nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Menschenbild",
+      "question": "Ein Behandler geht ausdrücklich vom Grundsatz „Der Mensch ist gut“ aus und richtet die Therapie nondirektiv daran aus. Welche Therapierichtung passt am ehesten?",
+      "options": [
+        "Die kognitive Therapie mit Umstrukturierung automatischer Gedanken.",
+        "Die tiefenpsychologisch fundierte Psychotherapie in der Tradition Freuds.",
+        "Die systemische Therapie mit der Familie als eigentlichem Ansatzpunkt.",
+        "Humanistische Therapien, z. B. die Gesprächspsychotherapie.",
+        "Die klassische Verhaltenstherapie auf Grundlage der Konditionierung."
+      ],
+      "answer": 3,
+      "explanation": "Der Grundsatz „Der Mensch ist gut“ und das nondirektive Vorgehen kennzeichnen die humanistischen Therapien (Gesprächspsychotherapie nach Rogers). Tiefenpsychologie, kognitive Therapie, Verhaltenstherapie und systemische Therapie gehen von anderen Menschenbildern und Methoden aus.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Integrativ",
+      "question": "Ein Behandler kombiniert bewusst Elemente mehrerer Schulen und begründet sein Vorgehen mit der Herstellung psychischer Konsistenz. Auf welches Modell bezieht er sich am ehesten?",
+      "options": [
+        "Auf die klientenzentrierte Gesprächstherapie mit ihren drei Grundhaltungen.",
+        "Auf die klassische Psychoanalyse Freuds mit ihrem Instanzenmodell.",
+        "Auf die Konsistenztheorie von Grawe als schulenintegrierenden Ansatz.",
+        "Auf die reine Verhaltenstherapie auf Grundlage der Konditionierungsforschung.",
+        "Auf die systemische Familientherapie mit dem Symptomträgerkonzept."
+      ],
+      "answer": 2,
+      "explanation": "Das bewusste Integrieren mehrerer Schulen mit dem Ziel psychischer Konsistenz verweist auf die Konsistenztheorie von Grawe (schulenübergreifend, VT-Wurzel). Psychoanalyse, Gesprächstherapie, reine Verhaltenstherapie und systemische Therapie sind demgegenüber je eigene, nicht-integrative Schulen.",
+      "transfer": true
+    }
+  ]
+}
