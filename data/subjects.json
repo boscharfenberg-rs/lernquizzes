@@ -389,6 +389,13 @@
       "title": "VL2 – Empirische Überprüfung IV: Multitrait-Multimethod-Analyse (Sitzung 9)",
       "subject": "Psychologische Diagnostik",
       "description": "Überprüfung der Konstruktvalidität mit der Multitrait-Multimethod-Analyse (Campbell & Fiske): Grundgedanken, Aufbau der MTMM-Matrix (Blöcke & Koeffiziententypen), Kriterien konvergenter und diskriminanter Validität, Kritik und Ausblick auf die konfirmatorische MTMM. Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-vl2-testentwicklung-beispiel",
+      "file": "diagnostik-vl2-testentwicklung-beispiel.json",
+      "title": "VL2 – Beispiel einer Testentwicklung & Testanalyse (Sitzung 10)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Durchgängiges Fallbeispiel einer Testkonstruktion (Test zum numerischen Denken): Testplanung (Konstrukt, nomologisches Netz, Merkmalsart, Indikatoren, Testart), Item-Konstruktion, vorläufige Testversion und Erprobung (Think-aloud) sowie empirische Überprüfung (Itemanalysen, Faktorenstruktur, Reliabilität, Validität). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
