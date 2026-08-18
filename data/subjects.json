@@ -382,6 +382,13 @@
       "title": "VL2 – Empirische Überprüfung III: Faktorenanalyse EFA & CFA (Sitzung 8/9)",
       "subject": "Psychologische Diagnostik",
       "description": "Faktorenanalyse zur Prüfung der faktoriellen Validität: Grundbegriffe (Faktorladung, Kommunalität, Eigenwert, Faktorwert), Ablauf der EFA (Korrelationsmatrix, Bartlett/KMO, PCA vs. PFA, Faktorenzahl, Rotation) sowie Grundidee der konfirmatorischen Faktorenanalyse (CFA). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-vl2-mtmm",
+      "file": "diagnostik-vl2-mtmm.json",
+      "title": "VL2 – Empirische Überprüfung IV: Multitrait-Multimethod-Analyse (Sitzung 9)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Überprüfung der Konstruktvalidität mit der Multitrait-Multimethod-Analyse (Campbell & Fiske): Grundgedanken, Aufbau der MTMM-Matrix (Blöcke & Koeffiziententypen), Kriterien konvergenter und diskriminanter Validität, Kritik und Ausblick auf die konfirmatorische MTMM. Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
