@@ -403,6 +403,13 @@
       "title": "VL2 – Normierung & Cut-Off-Bestimmung (Sitzung 11)",
       "subject": "Psychologische Diagnostik",
       "description": "Testwertbildung und -interpretation: normorientierte Interpretation (Testeichung, Normstichprobe, gruppenspezifische Normen & Fairness, Dokumentation) und kriteriumsorientierte Interpretation (Cut-Offs, Vier-Felder-Schema, ROC-Analyse mit Youden-Index & AUC, expertenbasierte Angoff-Methode). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-vl2-irt-grundlagen",
+      "file": "diagnostik-vl2-irt-grundlagen.json",
+      "title": "VL2 – Item-Response-Theorie: Grundlagen (Sitzung 12)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Probabilistische Testtheorie als Ergänzung zur KTT: Grenzen der KTT, manifeste und latente Variablen, Itemhomogenität und lokale stochastische Unabhängigkeit (Multiplikationstheorem), Latent-Trait- vs. Latent-Class-Modelle, itemcharakteristische Funktionen (Guttman-Modell vs. probabilistische IC-Funktionen) sowie 1PL-, 2PL- und 3PL-Modelle. Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }

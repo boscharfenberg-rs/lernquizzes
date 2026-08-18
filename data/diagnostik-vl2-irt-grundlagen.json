@@ -1,0 +1,417 @@
+{
+  "id": "diagnostik-vl2-irt-grundlagen",
+  "title": "VL2 – Item-Response-Theorie: Grundlagen (Sitzung 12)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Probabilistische Testtheorie als Ergänzung zur KTT: Grenzen der KTT, manifeste und latente Variablen, Itemhomogenität und lokale stochastische Unabhängigkeit (Multiplikationstheorem), Latent-Trait- vs. Latent-Class-Modelle, itemcharakteristische Funktionen (Guttman-Modell vs. probabilistische IC-Funktionen) sowie 1PL-, 2PL- und 3PL-Modelle. Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "IRT: Einordnung",
+      "question": "Wie wird die Item-Response-Theorie (IRT) auch bezeichnet und in welchem Verhältnis steht sie zur KTT?",
+      "options": [
+        "Als deterministische Testtheorie; sie ersetzt die Klassische Testtheorie in allen Anwendungsbereichen der psychologischen Diagnostik vollständig.",
+        "Als faktorenanalytische Testtheorie; sie ist ein Spezialfall der explorativen Faktorenanalyse.",
+        "Als klassische Testtheorie im weiteren Sinne; beide Begriffe bezeichnen letztlich dasselbe testtheoretische Modell.",
+        "Als Skalogramm-Theorie; sie geht auf Guttman zurück.",
+        "Als probabilistische Testtheorie; sie ist eine Ergänzung der Klassischen Testtheorie."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Die IRT wird auch probabilistische Testtheorie genannt und versteht sich als Ergänzung der KTT. Sie ersetzt die KTT nicht vollständig und ist auch nicht mit ihr identisch. Eine „faktorenanalytische Testtheorie\" als Spezialfall der EFA gibt es nicht. Und das Skalogramm-Modell (Guttman) ist nur ein einzelnes deterministisches Modell innerhalb der IRT."
+    },
+    {
+      "topic": "IRT: Einordnung",
+      "question": "Welche Leistung der KTT wird in der Vorlesung ausdrücklich positiv hervorgehoben?",
+      "options": [
+        "Sie ermöglicht die Schätzung des wahren Werts und der Messgenauigkeit (Konfidenzintervall).",
+        "Sie schätzt für jedes einzelne Item einen eigenen Diskriminationsparameter und einen Rateparameter.",
+        "Sie weist die Eindimensionalität der Items ohne zusätzliche Analysen zweifelsfrei nach.",
+        "Sie kommt vollständig ohne Annahmen über Messfehler aus.",
+        "Sie erlaubt die empirische Prüfung ihrer eigenen Axiome anhand der beobachteten Antwortmuster der Personen."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Als Stärke der KTT wird genannt, dass sie die wahre Merkmalsausprägung (true score) aus mehreren Items schätzt und die Messgenauigkeit (Konfidenzintervall für den true score) bestimmbar macht. Die Prüfbarkeit der Axiome und der Nachweis der Eindimensionalität sind gerade ihre Grenzen. Diskriminations- und Rateparameter stammen aus den IRT-Modellen. Und Messfehlerannahmen sind das Kernstück der KTT."
+    },
+    {
+      "topic": "IRT: Einordnung",
+      "hard": true,
+      "question": "Welche Grenzen der KTT (im engen Sinne) soll die IRT überwinden?",
+      "options": [
+        "Die KTT benötigt für jede Analyse eine repräsentative Normstichprobe von mindestens tausend Personen.",
+        "Die KTT kann keine Konfidenzintervalle berechnen.",
+        "Es bleibt unklar, ob die Zusammenfassung der Items zu einem Testwert gerechtfertigt ist, und die Axiome sind nicht prüfbar.",
+        "Die KTT kann grundsätzlich keine Itemschwierigkeiten und keine Trennschärfen für die einzelnen Items eines Verfahrens bestimmen.",
+        "Die KTT setzt zwingend ein dichotomes Antwortformat voraus und ist auf Persönlichkeitsfragebögen nicht anwendbar."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Genannte Grenzen sind, dass unklar bleibt, ob die Zusammenfassung der Itemreaktionen zu einem Testwert gerechtfertigt ist (setzt Itemhomogenität voraus), und dass die Axiome nicht prüfbar sind – genau diesen Fragen geht die IRT nach. Schwierigkeit und Trennschärfe bestimmt die KTT sehr wohl. Ein dichotomes Format setzt sie nicht voraus. Eine Mindeststichprobe von 1000 ist keine KTT-Bedingung. Und Konfidenzintervalle sind gerade eine ihrer Stärken."
+    },
+    {
+      "topic": "IRT: Grundannahmen",
+      "question": "Wie verhalten sich manifeste und latente Variablen in der IRT zueinander?",
+      "options": [
+        "Die Antworten auf die Items sind manifest und beobachtbar, die dahinterliegende Merkmalsausprägung ist latent.",
+        "Latente Variablen sind ausschließlich kategorial.",
+        "Beide Ebenen sind gleichermaßen direkt beobachtbar und unterscheiden sich lediglich in ihrem jeweiligen Skalenniveau.",
+        "Manifeste Variablen bezeichnen die Personenparameter, latente Variablen die Itemparameter eines Modells.",
+        "Die Antworten auf die Items sind latent und nicht direkt beobachtbar, während die Merkmalsausprägung unmittelbar messbar vorliegt."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Itemantworten sind manifest und beobachtbar; die dahinterliegende Merkmalsausprägung (`θ`) ist latent und nicht direkt beobachtbar. Die zweite Option vertauscht beide Ebenen. Beobachtbar ist gerade nur die manifeste Seite. Personen- und Itemparameter sind Modellkennwerte, nicht die Definition von manifest/latent. Und latente Variablen können kontinuierlich (Latent-Trait) oder kategorial (Latent-Class) sein."
+    },
+    {
+      "topic": "IRT: Grundannahmen",
+      "hard": true,
+      "trap": "Korrelierende Items sind nur die NOTWENDIGE Bedingung – hinreichend ist erst die Itemhomogenität.",
+      "question": "Welche Bedingung ist für die Annahme einer gemeinsamen latenten Variablen notwendig, welche hinreichend?",
+      "options": [
+        "Notwendig sind mehrere untereinander korrelierende Items, hinreichend ist erst die Itemhomogenität.",
+        "Notwendig ist die Itemhomogenität, hinreichend sind bereits mehrere untereinander korrelierende manifeste Items.",
+        "Notwendig und hinreichend ist allein eine ausreichend hohe interne Konsistenz der betrachteten Gesamtskala.",
+        "Es genügt ein einziges hinreichend trennscharfes Item.",
+        "Beide Bedingungen sind gleichbedeutend, da korrelierende Items definitionsgemäß immer auch homogen sind."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Mehrere untereinander korrelierende manifeste Items sind die notwendige, aber nicht hinreichende Bedingung; hinreichend ist erst das Vorliegen von Itemhomogenität. Die zweite Option vertauscht die beiden Bedingungen. Gleichbedeutend sind sie nicht – Items können auch aus anderen Gründen korrelieren. Eine hohe interne Konsistenz belegt die Homogenität nicht zwingend. Und ein einzelnes Item kann keine gemeinsame latente Variable begründen."
+    },
+    {
+      "topic": "Itemhomogenität",
+      "question": "Was bedeutet Itemhomogenität bezüglich der latenten Variablen?",
+      "options": [
+        "Alle Items des Tests weisen eine annähernd gleich hohe Itemschwierigkeit und damit eine vergleichbare Lösungswahrscheinlichkeit auf.",
+        "Das Antwortverhalten wird systematisch nur von diesem einen Merkmal beeinflusst und von keinem anderen.",
+        "Alle Personen der Stichprobe weisen eine annähernd gleiche Ausprägung in der latenten Variablen auf.",
+        "Sämtliche Items korrelieren auch dann noch untereinander, wenn die latente Variable konstant gehalten wird.",
+        "Alle Items haben dasselbe Antwortformat."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Itemhomogenität heißt, dass das Antwortverhalten systematisch nur von der einen latenten Variablen beeinflusst wird – gleichbedeutend mit Konstruktvalidität. Gleiche Itemschwierigkeiten sind damit nicht gemeint (unterschiedliche Schwierigkeiten sind sogar erwünscht). Gleiche Personenausprägungen betreffen die Stichprobe, nicht die Items. Fortbestehende Korrelationen bei konstanter latenter Variable sprechen gerade GEGEN Homogenität. Und ein einheitliches Antwortformat ist keine inhaltliche Homogenität."
+    },
+    {
+      "topic": "Itemhomogenität",
+      "question": "Womit wird die Itemhomogenität in der IRT überprüft?",
+      "options": [
+        "Über die Bestimmung der Retest-Reliabilität nach einem festgelegten Zeitintervall von mehreren Wochen.",
+        "Über die Höhe des Reproduzierbarkeitskoeffizienten.",
+        "Über den Vergleich der Testwerte mit einem außerhalb der Testsituation erhobenen Kriterium.",
+        "Über die Bestimmung der lokalen stochastischen Unabhängigkeit.",
+        "Über die Berechnung der part-whole-korrigierten Trennschärfe jedes einzelnen Items zur Gesamtskala des Verfahrens."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Die Itemhomogenität wird über die lokale stochastische Unabhängigkeit geprüft. Die Trennschärfe ist der KTT-Zugang, dessen Unzulänglichkeit die IRT gerade überwinden soll. Der Kriteriumsvergleich betrifft die Kriteriumsvalidität, die Testwiederholung die Reliabilität. Und der Reproduzierbarkeitskoeffizient bezieht sich speziell auf Rangplatzvertauschungen im Guttman-Modell."
+    },
+    {
+      "topic": "Lokale stochastische Unabhängigkeit",
+      "hard": true,
+      "question": "Was besagt die Bedingung der lokalen stochastischen Unabhängigkeit?",
+      "options": [
+        "Über die gesamte Stichprobe hinweg dürfen die Items von vornherein überhaupt nicht miteinander korrelieren.",
+        "Die Personenparameter müssen voneinander unabhängig sein.",
+        "Hält man die latente Variable auf einem Wert konstant, sollten die Korrelationen zwischen den Items verschwinden.",
+        "Hält man die latente Variable konstant, sollten die Korrelationen zwischen den Items möglichst hoch bleiben und sich weiter verstärken.",
+        "Die Items müssen in jeder beliebigen Substichprobe exakt dieselbe Lösungswahrscheinlichkeit aufweisen."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wird die latente Variable auf einer „lokalen\" Stufe konstant gehalten (z. B. nur Personen mit hohen Werten), sollten die Item-Korrelationen verschwinden – dann ist Homogenität gegeben und die Items gelten als Indikatoren der latenten Variablen. Fortbestehende oder gar steigende Korrelationen sprechen dagegen. Über die Gesamtstichprobe sollen die Items sehr wohl korrelieren (notwendige Bedingung). Gleiche Lösungswahrscheinlichkeiten in allen Substichproben werden nicht gefordert. Und es geht um Item-, nicht um Personenparameter."
+    },
+    {
+      "topic": "Lokale stochastische Unabhängigkeit",
+      "transfer": true,
+      "question": "Betrachtet man nur die Personen mit hoher Merkmalsausprägung, korrelieren zwei Items weiterhin deutlich miteinander. Wie ist das zu bewerten?",
+      "options": [
+        "Die lokale stochastische Unabhängigkeit ist damit erfüllt, weil die Items erwartungsgemäß miteinander zusammenhängen.",
+        "Die Items messen systematisch noch ein weiteres Merkmal und sind damit nicht eindimensional bzw. homogen.",
+        "Die Items sind besonders trennscharf, da sie auch innerhalb einer eingeschränkten Gruppe noch klar differenzieren.",
+        "Es liegt ein Rechenfehler vor, da Korrelationen in Substichproben grundsätzlich nicht bestimmbar sind.",
+        "Die Reliabilität der Skala ist dadurch nachgewiesen."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Korrelieren Items trotz konstant gehaltener latenter Variable weiter, messen sie systematisch (noch) ein anderes Merkmal – sie sind nicht eindimensional/homogen. Erfüllt wäre die Bedingung gerade beim Verschwinden der Korrelation. Über die Trennschärfe sagt der Befund nichts. Korrelationen in Substichproben sind selbstverständlich berechenbar. Und die Reliabilität wird dadurch nicht belegt."
+    },
+    {
+      "topic": "Multiplikationstheorem",
+      "hard": true,
+      "question": "Wie lautet das Multiplikationstheorem für unabhängige Ereignisse in der IRT?",
+      "options": [
+        "Die Einzelwahrscheinlichkeit eines Items entspricht dem Quotienten aus Verbundwahrscheinlichkeit und Personenzahl der Stichprobe.",
+        "Die Lösungswahrscheinlichkeit entspricht dem Itemschwierigkeitsparameter.",
+        "Die Verbundwahrscheinlichkeit entspricht der Differenz der beiden Einzelwahrscheinlichkeiten der betrachteten Items.",
+        "Die Verbundwahrscheinlichkeit zweier Items entspricht dem Produkt ihrer Einzelwahrscheinlichkeiten: `P((i+, j+)|θ) = P(i+|θ) · P(j+|θ)`.",
+        "Die Verbundwahrscheinlichkeit zweier Items entspricht der Summe ihrer beiden Einzelwahrscheinlichkeiten bei gegebener Merkmalsausprägung."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Bei lokaler stochastischer Unabhängigkeit gilt `P((i+, j+)|θ) = P(i+|θ) · P(j+|θ)` – die Verbundwahrscheinlichkeit ist das Produkt der Einzelwahrscheinlichkeiten. Summe, Quotient und Differenz entsprechen nicht dem Multiplikationstheorem. Und die Gleichsetzung von Lösungswahrscheinlichkeit und Schwierigkeitsparameter beschreibt eine andere Größe."
+    },
+    {
+      "topic": "Multiplikationstheorem",
+      "transfer": true,
+      "question": "In einer Gruppe mit hoher Merkmalsausprägung gilt `P(i+) = .90` und `P(j+) = .70`. Welche Verbundwahrscheinlichkeit ist bei erfüllter lokaler stochastischer Unabhängigkeit zu erwarten?",
+      "options": [
+        "`.80`, da der Mittelwert der beiden Einzelwahrscheinlichkeiten gebildet wird.",
+        "`.90`, da die höhere der beiden Wahrscheinlichkeiten maßgeblich ist.",
+        "`.20`, da die Differenz der beiden Einzelwahrscheinlichkeiten die Verbundwahrscheinlichkeit ergibt.",
+        "`1.60`, da die beiden Einzelwahrscheinlichkeiten der Items dafür schlicht addiert werden müssen.",
+        "`.63`, da `.90 · .70 = .63`."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Nach dem Multiplikationstheorem ergibt sich `.90 · .70 = .63` – genau der Wert aus dem Folienbeispiel für die Gruppe mit hoher Ausprägung. Eine Summe von `1.60` wäre als Wahrscheinlichkeit ohnehin unmöglich. Differenz, Mittelwert und das bloße Übernehmen des höheren Werts entsprechen nicht dem Theorem."
+    },
+    {
+      "topic": "Multiplikationstheorem",
+      "trap": "Über die Gesamtstichprobe stimmt das Multiplikationstheorem oft NICHT – geprüft wird es innerhalb der Ausprägungsgruppen.",
+      "question": "Im Folienbeispiel weicht die beobachtete Verbundwahrscheinlichkeit über die Gesamtstichprobe (`.33`) vom erwarteten Produkt (`.60 · .40 = .24`) ab. Was folgt daraus?",
+      "options": [
+        "Die Stichprobe war für die Analyse zu klein.",
+        "Nichts gegen die Homogenität – geprüft wird erst bei konstant gehaltener latenter Variable, also innerhalb der Ausprägungsgruppen.",
+        "Die Items sind damit als homogen bestätigt, weil die beobachtete Wahrscheinlichkeit über dem erwarteten Produkt liegt.",
+        "Das Multiplikationstheorem ist für psychologische Testdaten grundsätzlich ungeeignet und sollte nicht angewendet werden.",
+        "Die Items sind damit endgültig als heterogen erwiesen, sodass eine weitere Prüfung innerhalb einzelner Subgruppen entbehrlich ist."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Über die Gesamtstichprobe darf das Theorem abweichen; entscheidend ist die Prüfung bei konstant gehaltener latenter Variable – im Beispiel trifft es innerhalb der Gruppen mit geringer (`.03 = .30 · .10`) und hoher Ausprägung (`.63 = .90 · .70`) zu. Ein endgültiger Heterogenitätsnachweis lässt sich daraus nicht ableiten, ebenso wenig eine Bestätigung der Homogenität. Ungeeignet ist das Theorem nicht – es ist gerade das Prüfinstrument. Und die Abweichung ist kein Stichprobengrößen-Problem."
+    },
+    {
+      "topic": "Modellklassen",
+      "question": "Wodurch unterscheiden sich Latent-Trait- und Latent-Class-Modelle?",
+      "options": [
+        "Latent-Trait-Modelle nehmen eine quantitativ-kontinuierliche latente Variable an, Latent-Class-Modelle qualitativ-kategoriale Klassen.",
+        "Latent-Trait-Modelle sind deterministisch, Latent-Class-Modelle grundsätzlich probabilistisch aufgebaut.",
+        "Latent-Trait-Modelle gelten ausschließlich für dichotome Items, Latent-Class-Modelle ausschließlich für mehrstufige Antwortformate.",
+        "Latent-Trait-Modelle nehmen qualitative Klassen an, während Latent-Class-Modelle mit einer kontinuierlich abgestuften latenten Dimension arbeiten.",
+        "Sie unterscheiden sich nur in der Benennung."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Latent-Trait-Modelle unterstellen eine quantitativ-kontinuierliche latente Variable, Latent-Class-Modelle qualitativ-kategoriale Klassen zur Kategorisierung von Personenunterschieden. Die zweite Option vertauscht das. Eine Bindung an dichotome bzw. mehrstufige Formate besteht nicht. Deterministisch/probabilistisch ist eine andere Unterscheidungsebene (Art der IC-Funktion). Und es handelt sich um inhaltlich verschiedene Modellklassen."
+    },
+    {
+      "topic": "Modellklassen",
+      "question": "Welche Modellklasse ist in der psychologischen Diagnostik gegenwärtig am gebräuchlichsten – und warum?",
+      "options": [
+        "Latent-Class-Modelle wegen ihrer einfacheren Berechnung.",
+        "Modelle ohne Itemparameter, weil dadurch der Aufwand der Parameterschätzung deutlich reduziert wird.",
+        "Deterministische Modelle, weil sie die Antworten vollständig und ohne jede Restunsicherheit vorhersagen können.",
+        "Latent-Class-Modelle, weil die Einteilung von Personen in klar abgrenzbare Typen dem diagnostischen Alltag am ehesten entspricht.",
+        "Latent-Trait-Modelle, weil sie der Vorstellung von Traits entsprechen, von denen manifestes Verhalten abhängt."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Latent-Trait-Modelle sind derzeit am gebräuchlichsten, weil sie mit der psychologischen Vorstellung latenter Eigenschaften (Traits) im Einklang stehen, von denen die Wahrscheinlichkeit manifesten Verhaltens abhängt. Latent-Class-Modelle dienen speziell Typenkonzepten (z. B. Erziehungsstile) und sind nicht der Standardfall. Deterministische Modelle gelten für Testdaten als in der Regel untauglich. Und Modelle ohne Itemparameter existieren in diesem Rahmen nicht."
+    },
+    {
+      "topic": "Modellklassen",
+      "transfer": true,
+      "question": "Ein Forschungsteam möchte Erziehungsstile als qualitativ unterscheidbare Typen abbilden, die auf den Dimensionen Regeln und Wärme beruhen. Welche Modellklasse passt dazu?",
+      "options": [
+        "Die klassische Testtheorie.",
+        "Latent-Trait-Modelle, da die zugrunde liegende latente Variable in solchen Fällen kontinuierlich abgestuft modelliert wird.",
+        "Das 3PL-Modell von Birnbaum, da es mit dem Rateparameter über einen zusätzlichen dritten Modellparameter verfügt.",
+        "Latent-Class-Modelle, da die latente Variable hier kategoriale Klassen umfasst.",
+        "Das Guttman-Modell, da es die Personen anhand ihrer Rangplätze eindeutig in verschiedene Typen einteilen kann."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Typenkonzepte wie Erziehungsstile mit kategorialen Klassen sind der genannte Anwendungsbereich der Latent-Class-Modelle. Latent-Trait-Modelle setzen eine kontinuierliche latente Variable voraus. Das Guttman-Modell liefert eine ordinale Rangreihe auf einer Dimension, keine qualitativen Typen. Das 3PL-Modell ist ein Latent-Trait-Modell für dichotome Items. Und die KTT modelliert überhaupt keine latenten Klassen."
+    },
+    {
+      "topic": "Modellparameter",
+      "question": "Was beschreibt der Personenparameter `θ_v` in Latent-Trait-Modellen?",
+      "options": [
+        "Die Steilheit der itemcharakteristischen Funktion und damit das Differenzierungsvermögen des Items.",
+        "Den Anteil richtig gelöster Items in der Stichprobe.",
+        "Die Ausprägung der Person `v` auf dem latenten Trait (Fähigkeits- bzw. Dispositionsparameter).",
+        "Die Wahrscheinlichkeit, mit der eine Aufgabe rein zufällig richtig geraten werden kann.",
+        "Die Anforderungen, die ein bestimmtes Item hinsichtlich des untersuchten Merkmals an die Personen stellt."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Personenparameter `θ_v` (Fähigkeits-, Einstellungs-, Dispositionsparameter) gibt die Ausprägung der Person auf dem latenten Trait an. Die Anforderungen eines Items beschreibt der Itemparameter `σ_i`. Die Steilheit ist der Diskriminationsparameter, die Zufallslösung der Rateparameter. Und der Anteil gelöster Items in der Stichprobe ist die Itemschwierigkeit im Sinne der KTT."
+    },
+    {
+      "topic": "Modellparameter",
+      "question": "Was beschreibt der Itemparameter `σ_i`?",
+      "options": [
+        "Die Streuung der Testwerte in der untersuchten Stichprobe um deren arithmetischen Mittelwert.",
+        "Die Ausprägung einer bestimmten Person auf der latenten Variablen und damit ihre Fähigkeit im untersuchten Merkmalsbereich.",
+        "Die Anforderungen, die ein Item hinsichtlich des Merkmals an die Person stellt (Anforderungsparameter).",
+        "Die Korrelation des Items mit dem Gesamttestwert.",
+        "Den Anteil der Varianz eines Items, der durch die gemeinsame latente Variable aufgeklärt wird."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Itemparameter `σ_i` ist der Schwierigkeits- bzw. Anforderungsparameter – er beschreibt die traitbezogenen Anforderungen eines Items an die Person. Die Ausprägung der Person ist `θ_v`. Die Streuung der Testwerte ist die Standardabweichung. Der aufgeklärte Varianzanteil entspricht der Kommunalität. Und die Korrelation mit dem Gesamtwert ist die Trennschärfe."
+    },
+    {
+      "topic": "IC-Funktion",
+      "question": "Was stellt eine itemcharakteristische Funktion (IC-Funktion) dar?",
+      "options": [
+        "Den Zusammenhang zwischen Itemschwierigkeit und Itemvarianz.",
+        "Die Trefferquote in Abhängigkeit von der Quote falscher Alarme über alle möglichen Schwellenwerte hinweg.",
+        "Die Verteilung der Testwerte einer Normstichprobe in Abhängigkeit von Alter und Geschlecht der Personen.",
+        "Die Lösungs- bzw. Zustimmungswahrscheinlichkeit `P(x_vi = 1)` eines Items in Abhängigkeit von der Ausprägung `θ_v`.",
+        "Den Verlauf der Eigenwerte der extrahierten Faktoren in Abhängigkeit von deren jeweiliger Rangnummer in der Lösung."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Die IC-Funktion bildet die Lösungs-/Zustimmungswahrscheinlichkeit `P(x_vi = 1)` eines durch `σ_i` charakterisierten Items in Abhängigkeit von der individuellen Ausprägung `θ_v` ab. Der Eigenwerteverlauf ist der Scree-Plot, Trefferquote gegen Falschalarmquote die ROC-Kurve. Testwerteverteilungen nach Alter/Geschlecht betreffen die Normierung. Und der Zusammenhang von Schwierigkeit und Varianz ist eine KTT-Beziehung."
+    },
+    {
+      "topic": "IC-Funktion",
+      "question": "Worin unterscheiden sich deterministische und probabilistische IC-Funktionen grundsätzlich?",
+      "options": [
+        "Der Unterschied betrifft allein die Skalierung der x-Achse.",
+        "Deterministisch besteht lediglich eine stochastische Beziehung zwischen Antwortverhalten und Parametern, probabilistisch eine vollständig festgelegte.",
+        "Deterministische Funktionen gelten nur für Persönlichkeitsfragebögen, probabilistische ausschließlich für Leistungstests.",
+        "Deterministisch wird das Antwortverhalten vollständig durch die Parameter bestimmt, probabilistisch besteht eine stochastische Beziehung.",
+        "Deterministische Modelle benötigen mehr Modellparameter als probabilistische Modelle derselben Itemzahl."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Bei deterministischen IC-Funktionen wird das Antwortverhalten vollständig durch Item- und Personenparameter bestimmt, bei probabilistischen besteht eine stochastische (wahrscheinlichkeitsbasierte) Beziehung. Die zweite Option vertauscht beides. Eine Bindung an Fragebogen- bzw. Testarten besteht nicht. Deterministische Modelle brauchen eher weniger Parameter. Und es geht um die Art der Beziehung, nicht um die Achsenskalierung."
+    },
+    {
+      "topic": "Guttman-Modell",
+      "hard": true,
+      "question": "Welche Funktionsform nimmt das Guttman-Modell für die Lösungswahrscheinlichkeit an?",
+      "options": [
+        "Eine waagerechte Linie bei `P = .50`.",
+        "Eine Treppen- bzw. Sprungfunktion: Ab einem bestimmten `θ`-Wert springt `P(x_vi = 1)` von 0 auf 1.",
+        "Eine fallende Gerade, bei der die Lösungswahrscheinlichkeit mit steigender Merkmalsausprägung kontinuierlich abnimmt.",
+        "Eine u-förmige Funktion mit den höchsten Lösungswahrscheinlichkeiten an beiden Rändern der latenten Dimension.",
+        "Eine monoton steigende S-förmige Kurve, bei der alle Abstufungen zwischen 0 und 1 stetig durchlaufen werden."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Das Guttman-Modell nimmt eine Treppenfunktion an – ab einem bestimmten Wert der latenten Variablen springt die Lösungswahrscheinlichkeit von 0 auf 1. Die monoton steigende S-Kurve kennzeichnet probabilistische IC-Funktionen. Eine fallende Gerade widerspräche dem Zusammenhang von Ausprägung und Lösung. U-förmige Verläufe und konstante Wahrscheinlichkeiten sind keine IC-Funktionsformen dieser Modelle."
+    },
+    {
+      "topic": "Guttman-Modell",
+      "question": "Wie ergibt sich im Guttman-Modell der Skalenwert (Testwert) einer Person?",
+      "options": [
+        "Aus dem Vergleich der individuellen Antworten mit den Antworten aller übrigen Personen der untersuchten Stichprobe.",
+        "Aus dem Rangplatz jenes Items, bis zu dem die Person positiv reagiert hat – unabhängig von den anderen.",
+        "Aus dem Produkt von Personenparameter und Itemschwierigkeitsparameter des schwersten gelösten Items.",
+        "Aus dem Prozentrang in der Normstichprobe.",
+        "Aus der Summe der Lösungswahrscheinlichkeiten aller vorgelegten Items des Verfahrens."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Der Skalenwert entspricht dem Rangplatz des Items, bis zu dem die Person positiv reagiert hat – und zwar unabhängig von den anderen Proband*innen. Ein Vergleich mit anderen Personen ist gerade nicht nötig. Eine Summe von Wahrscheinlichkeiten oder ein Produkt der Parameter bildet den Testwert nicht. Und der Prozentrang ist ein normorientierter Kennwert."
+    },
+    {
+      "topic": "Guttman-Modell",
+      "hard": true,
+      "trap": "Das Guttman-Modell liefert nur eine RANGREIHE – Abstände zwischen Items oder Personen sind nicht interpretierbar.",
+      "question": "Welches Skalenniveau bzw. welche Information liefern die Itemschwierigkeiten im Guttman-Modell?",
+      "options": [
+        "Gar keine Information über die Itemschwierigkeiten.",
+        "Intervallskalierte Informationen, sodass sich die Abstände zwischen den Items unmittelbar miteinander vergleichen lassen.",
+        "Nur ordinale Reihungsinformationen; Aussagen über Distanzen zwischen Items oder Personen sind nicht möglich.",
+        "Verhältnisskalierte Informationen mit einem absoluten Nullpunkt der zugrunde liegenden latenten Merkmalsdimension.",
+        "Rein nominale Informationen, da die Items lediglich in inhaltlich verschiedene Kategorien eingeteilt werden."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Das Guttman-Modell liefert ordinale Reihungsinformationen bezüglich der Itemschwierigkeiten `σ_i`; Aussagen über Distanzen zwischen Items oder Personen sind nicht möglich. Intervall- oder Verhältnisskalenniveau wird damit gerade nicht erreicht. Nominal wäre es nicht, da eine klare Rangfolge besteht. Und Information über die Schwierigkeiten liefert das Modell durchaus – eben in Form der Rangreihe."
+    },
+    {
+      "topic": "Guttman-Modell",
+      "transfer": true,
+      "question": "Eine Testperson löst ein schwieriges Item, scheitert aber an einem leichteren. Wie ist das im Guttman-Modell zu bewerten?",
+      "options": [
+        "Als Verletzung der Modellkonformität; das Ausmaß der Rangplatzvertauschungen zeigt der Reproduzierbarkeitskoeffizient.",
+        "Als Bestätigung der lokalen stochastischen Unabhängigkeit.",
+        "Als vollkommen modellkonformes Antwortmuster, da im Guttman-Modell die Reihenfolge der gelösten Items keine Rolle spielt.",
+        "Als Beleg dafür, dass die Person zufällig geraten hat, was durch den Rateparameter des Modells abgebildet wird.",
+        "Als Hinweis auf einen besonders hohen Diskriminationsparameter des betreffenden schwierigeren Items."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Löst jemand ein schwieriges Item, scheitert aber an einem leichteren, verletzt das die Modellkonformität; der Reproduzierbarkeitskoeffizient gibt an, wie viele solcher Rangplatzvertauschungen vorliegen und ob Itemhomogenität noch angenommen werden kann. Modellkonform ist das Muster gerade nicht. Diskriminations- und Rateparameter existieren erst in den 2PL-/3PL-Modellen. Und mit der lokalen stochastischen Unabhängigkeit hat das Muster nichts zu tun."
+    },
+    {
+      "topic": "Guttman-Modell",
+      "question": "Wie wird die praktische Tauglichkeit des Guttman-Modells für Test- und Fragebogendaten beurteilt?",
+      "options": [
+        "Als uneingeschränkt tauglich, weshalb es in der psychologischen Diagnostik gegenwärtig das gebräuchlichste Modell darstellt.",
+        "Als untauglich, weil es im Unterschied zu anderen Modellen keinerlei Itemparameter berücksichtigt.",
+        "Als tauglich ausschließlich für Persönlichkeitsfragebögen, nicht jedoch für Leistungstests jeglicher Art.",
+        "Als tauglich nur bei sehr großen Stichproben.",
+        "Als plausibel, aber in der Regel nicht tauglich – als Alternative dienen probabilistische IC-Funktionen."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Das Modell gilt als plausibel, für Test- und Fragebogendaten aber in der Regel als nicht tauglich; als Alternative werden probabilistische IC-Funktionen genannt. Uneingeschränkt tauglich ist es nicht, und gebräuchlichste Modelle sind die probabilistischen Latent-Trait-Modelle. Eine Beschränkung auf Fragebögen besteht nicht. Itemparameter berücksichtigt es sehr wohl (`σ_i`). Und das Problem liegt an den Rangplatzvertauschungen, nicht an der Stichprobengröße."
+    },
+    {
+      "topic": "Probabilistische IC-Funktionen",
+      "question": "Welche Form nehmen probabilistische IC-Funktionen in der Regel an?",
+      "options": [
+        "Streng lineare Geraden, die vom Nullpunkt aus gleichmäßig bis zum Maximalwert ansteigen.",
+        "Monoton fallende Beziehungen, bei denen die Lösungswahrscheinlichkeit mit steigender Ausprägung sinkt.",
+        "Monoton steigende Beziehungen, bei denen alle Abstufungen zwischen 0 und 1 erlaubt sind.",
+        "Symmetrisch glockenförmige Verläufe.",
+        "Sprunghafte Treppenfunktionen, bei denen ausschließlich die beiden Werte 0 und 1 angenommen werden können."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Probabilistische IC-Funktionen nehmen in der Regel monoton steigende Beziehungen an; anders als beim deterministischen Modell sind alle Abstufungen zwischen 0 und 1 erlaubt. Die Treppenfunktion mit nur 0 und 1 ist das Guttman-Modell. Monoton fallende Verläufe widersprächen dem Zusammenhang von Ausprägung und Lösung. Streng lineare Geraden und Glockenkurven entsprechen nicht der logistischen Form."
+    },
+    {
+      "topic": "Probabilistische IC-Funktionen",
+      "question": "Welche mathematische Grundlage liefert häufig die Basis probabilistischer IC-Funktionen?",
+      "options": [
+        "Lineare Funktionen, wie sie aus der einfachen und der multiplen Regression zur Vorhersage metrischer Kriterien bekannt sind.",
+        "Quadratische Funktionen, mit denen sich u-förmige Zusammenhänge zwischen Merkmal und Antwort abbilden lassen.",
+        "Exponentielles Wachstum ohne obere Begrenzung des Wertebereichs der vorhergesagten Größe.",
+        "Trigonometrische Funktionen.",
+        "Logistische Funktionen, die die Wahrscheinlichkeit eines Ereignisses vorhersagen."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Häufig liefern logistische Funktionen die mathematische Grundlage – sie sagen die Wahrscheinlichkeit eines Ereignisses vorher und sind dadurch auf den Bereich zwischen 0 und 1 begrenzt. Lineare Funktionen sagen metrische Kriterien vorher und wären hier unpassend. Quadratische, unbegrenzt exponentielle und trigonometrische Funktionen entsprechen nicht der Form einer IC-Funktion."
+    },
+    {
+      "topic": "1PL/2PL/3PL-Modelle",
+      "hard": true,
+      "question": "Welche Parameter enthalten das 1PL-, 2PL- und 3PL-Modell?",
+      "options": [
+        "1PL enthält Personen- und Itemparameter, während 2PL und 3PL ausschließlich mit Personenparametern arbeiten.",
+        "1PL nur `σ_i`; 2PL zusätzlich den Diskriminationsparameter; 3PL zusätzlich den Rateparameter.",
+        "1PL nur den Rateparameter; 2PL zusätzlich die Itemschwierigkeit; 3PL zusätzlich den Diskriminationsparameter des jeweiligen Items.",
+        "Alle drei Modelle enthalten dieselben Parameter und unterscheiden sich lediglich im gewählten Schätzverfahren.",
+        "1PL und 2PL sind identisch, nur 3PL ergänzt einen weiteren Parameter."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Das 1PL-Modell (Rasch) nutzt nur den Itemschwierigkeitsparameter `σ_i`, das 2PL-Modell (Birnbaum) zusätzlich den Itemdiskriminationsparameter, das 3PL-Modell zusätzlich den Rateparameter `ρ_i`. Die zweite Option bringt die Reihenfolge durcheinander. Die Modelle unterscheiden sich sehr wohl in der Parameterzahl. Personenparameter enthalten alle drei. Und 1PL und 2PL sind nicht identisch."
+    },
+    {
+      "topic": "1PL/2PL/3PL-Modelle",
+      "hard": true,
+      "question": "Welche Eigenschaft der IC-Funktion bestimmen Schwierigkeits- bzw. Diskriminationsparameter?",
+      "options": [
+        "Der Schwierigkeitsparameter die Lokation auf der x-Achse, der Diskriminationsparameter die Steilheit der Funktion.",
+        "Beide beeinflussen die Form der Funktion nicht.",
+        "Der Schwierigkeitsparameter bestimmt die obere Asymptote, der Diskriminationsparameter den Achsenabschnitt der Funktion.",
+        "Der Schwierigkeitsparameter die Steilheit der Funktion, der Diskriminationsparameter deren Lage entlang der latenten Dimension.",
+        "Beide Parameter bestimmen gemeinsam ausschließlich die Höhe der unteren Asymptote der Funktion."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Der Itemschwierigkeitsparameter bestimmt die Lokation der IC-Funktion auf der x-Achse, der Itemdiskriminationsparameter ihre Steilheit. Die zweite Option vertauscht beides. Die untere Asymptote wird vom Rateparameter bestimmt. Von einer oberen Asymptote bzw. einem Achsenabschnitt ist in diesem Zusammenhang nicht die Rede. Und beide Parameter prägen die Funktionsform sehr wohl."
+    },
+    {
+      "topic": "1PL/2PL/3PL-Modelle",
+      "transfer": true,
+      "trap": "Ein Diskriminationsparameter von 1 macht aus dem 2PL- ein 1PL-Modell; eine Ratewahrscheinlichkeit von 0 aus dem 3PL- ein 2PL-Modell.",
+      "question": "In einer Analyse ergibt sich für alle Items ein Itemdiskriminationsparameter (Steigung) von genau 1. Welchem Modell entspricht die Lösung damit?",
+      "options": [
+        "Dem Guttman-Modell, da bei identischer Steigung aller Items eine deterministische Treppenfunktion entsteht.",
+        "Dem 3PL-Modell von Birnbaum, da die einheitliche Steigung durch einen zusätzlichen Rateparameter ausgeglichen werden muss.",
+        "Einem Latent-Class-Modell, da gleiche Steigungen auf kategorial unterscheidbare Personenklassen hindeuten.",
+        "Keinem der bekannten IRT-Modelle.",
+        "Dem 1PL- bzw. Rasch-Modell."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Ist der Itemdiskriminationsparameter (die Steigung) gleich 1, entspricht das 2PL-Modell dem 1PL- bzw. Rasch-Modell. Das 3PL-Modell würde zusätzlich einen Rateparameter erfordern. Das Guttman-Modell ist deterministisch und entsteht nicht durch eine Steigung von 1. Latent-Class-Modelle betreffen kategoriale latente Variablen. Und die Konstellation ist sehr wohl einem bekannten Modell zuzuordnen."
+    },
+    {
+      "topic": "1PL/2PL/3PL-Modelle",
+      "transfer": true,
+      "question": "In einer Abbildung nähert sich die IC-Funktion bei sehr geringer Merkmalsausprägung nicht der Null, sondern einem deutlich darüber liegenden Wert. Welches Modell liegt vor und warum?",
+      "options": [
+        "Das 2PL-Modell, da sich die Items dort ausschließlich in der Steilheit ihrer Funktionsverläufe unterscheiden.",
+        "Das 1PL- bzw. Rasch-Modell, da dort für alle Items eine einheitliche Steigung der Funktion angenommen wird.",
+        "Das Guttman-Modell, da die Lösungswahrscheinlichkeit dort an einer bestimmten Stelle sprunghaft ansteigt.",
+        "Das 3PL-Modell: Der Rateparameter berücksichtigt zufällig richtige Antworten bei Multiple-Choice-Aufgaben.",
+        "Ein Latent-Class-Modell mit zwei Klassen."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Geht die Lösungswahrscheinlichkeit bei sehr geringer Ausprägung nicht gegen null, sondern gegen die Ratewahrscheinlichkeit, liegt das 3PL-Modell (Rate-Modell von Birnbaum) vor – es berücksichtigt zufällig richtige Antworten bei Multiple-Choice-Aufgaben. Im 1PL- und 2PL-Modell strebt die Funktion gegen null (Ratewahrscheinlichkeit = 0). Das Guttman-Modell zeigt einen Sprung von 0 auf 1. Und Latent-Class-Modelle arbeiten nicht mit IC-Funktionen dieser Form."
+    }
+  ]
+}
