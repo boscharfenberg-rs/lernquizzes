@@ -1,0 +1,417 @@
+{
+  "id": "diagnostik-vl2-normierung-cutoff",
+  "title": "VL2 – Normierung & Cut-Off-Bestimmung (Sitzung 11)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Testwertbildung und -interpretation: normorientierte Interpretation (Testeichung, Normstichprobe, gruppenspezifische Normen & Fairness, Dokumentation) und kriteriumsorientierte Interpretation (Cut-Offs, Vier-Felder-Schema, datenbasierte Bestimmung per ROC-Analyse, Youden-Index & AUC, expertenbasierte Angoff-Methode). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Testwertbildung",
+      "question": "Was bezeichnet der Begriff „Testwert\"?",
+      "options": [
+        "Den in eine Vergleichsskala transformierten Wert, der die Position der Person relativ zu einer Bezugsgruppe angibt.",
+        "Den geschätzten wahren Wert der Person nach Herausrechnung des individuellen Messfehleranteils.",
+        "Den Mittelwert der Normstichprobe.",
+        "Den Schwellenwert, ab dem eine Person einer bestimmten diagnostischen Kategorie zugewiesen wird.",
+        "Den Rohwert bzw. beobachteten (Sub-)Skalenwert – also die Punkte, die eine Person im Test erzielt hat."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Der Testwert ist der Rohwert bzw. beobachtete (Sub-)Skalenwert – die im Test erzielten Punkte; bei mehreren Subtests gibt es mehrere Testwerte. Der transformierte Vergleichswert ist der Normwert. Der Schwellenwert für eine Zuweisung ist der Cut-Off. Der wahre Wert ist ein Konstrukt der KTT. Und der Mittelwert der Normstichprobe ist ein Kennwert der Bezugsgruppe, kein individueller Testwert."
+    },
+    {
+      "topic": "Testwertbildung",
+      "transfer": true,
+      "question": "Bei einem Speedtest soll der Testwert gebildet werden. Wie geschieht das?",
+      "options": [
+        "Über den zugehörigen Prozentrang.",
+        "Über das Verhältnis von Arbeitsmenge und Bearbeitungszeit.",
+        "Über die aufsummierten bzw. gemittelten Punktwerte der einzelnen Itemantworten wie bei Persönlichkeitsfragebögen.",
+        "Über die Anzahl der richtigen Antworten, da bei ausreichender Bearbeitungszeit alle Aufgaben bearbeitet werden können.",
+        "Über den Anteil der Personen, die das jeweilige Item im Sinne des Merkmals gelöst haben."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Beim Speedtest ergibt sich der Testwert aus dem Verhältnis von Arbeitsmenge und Bearbeitungszeit. Die Anzahl richtiger Antworten ist die Bildungsregel des Powertests. Summen-/Mittelwerte der Itemantworten sind bei Persönlichkeitsfragebögen üblich. Der Anteil lösender Personen ist die Itemschwierigkeit. Und der Prozentrang ist bereits ein Normwert, kein Rohwert."
+    },
+    {
+      "topic": "Testwertbildung",
+      "question": "Welche beiden Vergleichsmaßstäbe zur Interpretation eines Testwerts werden unterschieden?",
+      "options": [
+        "Sensitivität und Spezifität, wie sie im Rahmen einer ROC-Analyse gegenübergestellt werden.",
+        "Mittelwert und Standardabweichung.",
+        "Itemschwierigkeit und Trennschärfe als die beiden wichtigsten Kennwerte der klassischen Itemanalyse.",
+        "Normen (normorientiert) und inhaltliche Kriterien (kriteriumsorientiert).",
+        "Reliabilität und Validität als die beiden zentralen Hauptgütekriterien eines jeden psychologischen Testverfahrens."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Unterschieden werden der Vergleich mit einer Bezugsgruppe (Normen → normorientiert) und der Vergleich mit einem inhaltlichen Kriterium (z. B. Kompetenzstufen, Störung ja/nein → kriteriumsorientiert). Reliabilität/Validität sind Gütekriterien, Schwierigkeit/Trennschärfe Itemkennwerte. Sensitivität/Spezifität sind Klassifikationsgüten innerhalb der kriteriumsorientierten Interpretation. Und M/SD sind Verteilungskennwerte, keine Interpretationsmaßstäbe."
+    },
+    {
+      "topic": "Normorientierte Interpretation",
+      "question": "Welcher Bereich gilt bei der klassischen Interpretation von Normwerten als „durchschnittlich\"?",
+      "options": [
+        "Der Bereich `M_Norm ± 0,5 SD_Norm`, in den rund 38 % der Personen einer Vergleichsgruppe fallen.",
+        "Der Bereich `M_Norm ± 1,5 SD_Norm`, der etwa 87 % der Personen der Bezugsgruppe umfasst.",
+        "Der Bereich `M_Norm ± 2 SD_Norm`, in dem rund 95 % aller Personen liegen.",
+        "Der Bereich `M_Norm ± 1 SD_Norm`.",
+        "Ausschließlich exakt der Wert `M_Norm`."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Klassisch gilt `M ± 1 SD` als durchschnittlich (rund 68 % der Personen). Der Bereich `M ± 0,5 SD` mit etwa 38 % kennzeichnet das Marburger Modell. Die Bereiche `±1,5 SD` und `±2 SD` sind keine Definitionen des Durchschnittsbereichs. Und ein einzelner Punktwert wäre als Bereich unbrauchbar."
+    },
+    {
+      "topic": "Normorientierte Interpretation",
+      "trap": "Klassisch = M ± 1 SD; Marburger Modell = M ± 0,5 SD. Der Vorteil liegt im schmaleren Durchschnittsbereich.",
+      "question": "Was kennzeichnet das Marburger Modell der Normwertinterpretation?",
+      "options": [
+        "Der Durchschnittsbereich umfasst `M ± 1 SD` und damit etwa 68 % der Personen der jeweiligen Vergleichsgruppe.",
+        "Auf die Angabe eines Durchschnittsbereichs wird vollständig verzichtet, da nur Prozentränge berichtet werden.",
+        "Es verzichtet ganz auf die Normalverteilungsannahme.",
+        "Der Durchschnittsbereich wird bewusst auf `M ± 2 SD` erweitert, um vorschnelle Auffälligkeitsurteile zu vermeiden.",
+        "Der Durchschnittsbereich umfasst nur `M ± 0,5 SD` und ist damit halb so breit wie üblich."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Im Marburger Modell ist der Durchschnittsbereich mit `M ± 0,5 SD` (ca. 38 %) nur halb so breit – das ist der genannte Vorteil. `M ± 1 SD` ist die klassische Aufteilung. Eine Erweiterung auf `±2 SD` sieht das Modell nicht vor. Prozentränge ersetzen die Bereichseinteilung nicht. Und die Voraussetzungslosigkeit gegenüber der Normalverteilung ist ein Merkmal der Prozentrangnormen."
+    },
+    {
+      "topic": "Testeichung: Design",
+      "question": "Wovon hängt ab, welche Normgruppen (z. B. nach Alter, Geschlecht, Schulart) gebildet werden sollten?",
+      "options": [
+        "Von der Höhe des gewählten Cut-Off-Werts.",
+        "Allein von der Anzahl der Subskalen, da pro Subskala jeweils eine eigene Normgruppe zu bilden ist.",
+        "Von Merkmalsart, Zielpopulation, Geltungs- und Testanwendungsbereich.",
+        "Von der gewählten Rotationsart bei der zuvor durchgeführten Prüfung der faktoriellen Validität.",
+        "Ausschließlich von der Größe der insgesamt verfügbaren Erhebungsstichprobe und den finanziellen Mitteln des Projekts."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Wahl der Normgruppen richtet sich nach Merkmalsart, Zielpopulation, Geltungs- und Testanwendungsbereich sowie danach, welche Faktoren mit dem Untersuchungsmerkmal zusammenhängen. Stichprobengröße und Budget sind Rahmenbedingungen, keine inhaltlichen Kriterien. Die Subskalenzahl bestimmt keine Normgruppen. Rotationsart und Cut-Off betreffen ganz andere Analyseschritte."
+    },
+    {
+      "topic": "Testeichung: Design",
+      "hard": true,
+      "question": "Worin unterscheiden sich geschichtete Stichprobe und Quotenstichprobe bei der Normierung?",
+      "options": [
+        "Die geschichtete Stichprobe verzichtet auf jede Form der Repräsentativität.",
+        "Beide Verfahren sind lediglich unterschiedliche Bezeichnungen für dasselbe Vorgehen bei der Ziehung einer Eichstichprobe.",
+        "Die geschichtete Stichprobe ist gleichmäßig zusammengesetzt, die Quotenstichprobe entsprechend dem Vorkommen in der Population.",
+        "Die geschichtete Stichprobe wird ausschließlich bei Leistungstests, die Quotenstichprobe nur bei Persönlichkeitsfragebögen eingesetzt.",
+        "Die geschichtete Stichprobe bildet die Anteile der Population exakt ab, während die Quotenstichprobe alle Teilgruppen bewusst gleich groß hält."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die geschichtete Stichprobe ist gleichmäßig zusammengesetzt, die Quotenstichprobe bildet die Zusammensetzung entsprechend dem Vorkommen in der Population ab. Die zweite Option vertauscht genau diese beiden Definitionen. Es handelt sich nicht um dasselbe Vorgehen. Eine Bindung an Test- bzw. Fragebogenarten besteht nicht. Und beide Verfahren dienen gerade der Repräsentativität."
+    },
+    {
+      "topic": "Testeichung: Design",
+      "question": "Welche Zusammenhänge gelten für den nötigen Umfang der Normstichprobe?",
+      "options": [
+        "Je feinstufiger die Norm, desto kleiner darf die Stichprobe ausfallen, weil feinere Abstufungen weniger Personen je Stufe erfordern.",
+        "Je homogener die Zielpopulation, desto größer muss die Stichprobe zwingend gewählt werden.",
+        "Der Stichprobenumfang ist unerheblich, solange die Zusammensetzung nur repräsentativ für die Zielpopulation ist.",
+        "Es genügen stets genau 100 Personen je Normtabelle.",
+        "Je feinstufiger die Norm und je heterogener die Zielpopulation, desto größer die Stichprobe."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Feinstufigere Normen verlangen eine höhere Reliabilität und eine größere Stichprobe; heterogenere Zielpopulationen ebenfalls größere Stichproben. Feinere Normen mit kleinerer Stichprobe kehrt das um. Bei homogeneren Populationen genügen kleinere Stichproben. Der Umfang ist keineswegs unerheblich. Und eine feste Zahl von 100 gilt nicht – genannt werden mehrere hundert Personen je Normtabelle."
+    },
+    {
+      "topic": "Testeichung: Datenanalyse",
+      "question": "Was ist bei der Datenanalyse im Rahmen der Testeichung hinsichtlich der Testwerteverteilung zu beachten?",
+      "options": [
+        "Die Prüfung erfolgt erst nach Veröffentlichung des Tests im Rahmen der turnusmäßigen Nachnormierung.",
+        "Die Verteilungseigenschaften müssen für jede Substichprobe geprüft werden, für die eigene Normen erstellt werden sollen.",
+        "Es genügt die einmalige Prüfung der Verteilung über die gesamte Normierungsstichprobe hinweg, da Substichproben identisch verteilt sind.",
+        "Es ist ausschließlich die Schiefe zu berichten.",
+        "Die Verteilung muss nicht geprüft werden, weil bei ausreichend großen Stichproben stets eine Normalverteilung vorliegt."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Verteilungseigenschaften sind für jede Substichprobe zu prüfen, für die Normen erstellt werden sollen (z. B. je Alters- und Geschlechtsgruppe) – denn bei Normalverteilung sind andere Normen möglich als ohne. Eine einmalige Gesamtprüfung genügt daher nicht. Große Stichproben garantieren keine Normalverteilung. Die Prüfung gehört in die Eichung, nicht in die spätere Nachnormierung. Und neben der Schiefe werden weitere Kennwerte dokumentiert."
+    },
+    {
+      "topic": "Testeichung: Datenanalyse",
+      "question": "Warum müssen Substichproben auf signifikante Mittelwertunterschiede untersucht werden?",
+      "options": [
+        "Weil sich gruppenspezifische Normen nur lohnen, wenn zwischen den Gruppen auch tatsächlich Unterschiede bestehen.",
+        "Weil erst dadurch die Zahl der zu extrahierenden Faktoren des Verfahrens bestimmt werden kann.",
+        "Weil signifikante Unterschiede zwischen Substichproben belegen, dass der Test insgesamt keine ausreichende Reliabilität besitzt.",
+        "Weil daraus der optimale Cut-Off-Wert abgeleitet wird.",
+        "Weil nur bei nachgewiesenen Mittelwertunterschieden überhaupt eine Gesamtnorm für die gesamte Zielpopulation gebildet werden darf."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Gruppenspezifische Normen lohnen sich nur, wenn zwischen den Gruppen auch Unterschiede vorliegen – sonst genügt eine Gesamtnorm. Die zweite Option kehrt die Logik um. Mittelwertunterschiede sagen nichts über die Reliabilität aus. Die Faktorenzahl wird faktorenanalytisch bestimmt. Und der Cut-Off wird daten- oder expertenbasiert festgelegt, nicht aus Gruppenunterschieden in der Eichstichprobe."
+    },
+    {
+      "topic": "Fairness & Normen",
+      "hard": true,
+      "trap": "Gruppenspezifische Normen erhöhen die Fairness nur, wenn es den Unterschied im KRITERIUM nicht gibt – spiegelt er sich auch dort, sinkt die Fairness.",
+      "transfer": true,
+      "question": "Ein Test zeigt einen Mittelwertunterschied zwischen zwei Gruppen, der sich im vorherzusagenden Kriterium ebenfalls zeigt. Wie wirken gruppenspezifische Normen hier auf die Fairness?",
+      "options": [
+        "Sie verringern die Fairness, weil ein im Kriterium real vorhandener Unterschied eliminiert wird.",
+        "Sie lassen die Fairness unverändert, da Normen und Kriteriumsbezug voneinander vollständig unabhängige Aspekte darstellen.",
+        "Sie machen eine Fairness-Prüfung überflüssig.",
+        "Sie erhöhen die Fairness, sobald die Gruppen in der Normstichprobe gleich stark vertreten sind.",
+        "Sie erhöhen die Fairness, weil durch die getrennten Normen jede Form von Gruppenunterschied im Testergebnis ausgeglichen wird."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Spiegeln sich die Gruppenunterschiede in Test UND Kriterium wider, verringern gruppenspezifische Normen die Fairness, weil ein real vorhandener Unterschied wegnormiert wird. Erhöht wird die Fairness nur im umgekehrten Fall: Unterschied im Test, aber nicht im Kriterium. Unverändert bleibt die Fairness nicht – sie hängt gerade am Kriterium. Gleiche Gruppengrößen in der Normstichprobe sind kein Fairness-Kriterium. Und eine Fairness-Prüfung bleibt in jedem Fall erforderlich."
+    },
+    {
+      "topic": "Testeichung: Dokumentation",
+      "question": "Welche Angabe gehört laut Vorlesung NICHT zur nötigen Dokumentation der Testeichung im Manual?",
+      "options": [
+        "Erhebungsdesign und Grad der Repräsentativität hinsichtlich der Zielpopulation.",
+        "Stichprobenumfang und -zusammensetzung sowie Deskriptivstatistiken wie `M`, `SD` und Schiefe.",
+        "Die Namen und Qualifikationen der an der Erhebung beteiligten Testleiter*innen.",
+        "Der Geltungsbereich der Normen, also die Definition der Zielpopulation des Verfahrens.",
+        "Das Jahr der Datenerhebung."
+      ],
+      "answer": 2,
+      "explanation": "Richtig (= nicht gefordert): Namen und Qualifikationen der Testleitenden gehören nicht zu den genannten Dokumentationspflichten. Zu dokumentieren sind hingegen der Geltungsbereich der Normen, Erhebungsdesign und Repräsentativitätsgrad, Stichprobenumfang und -zusammensetzung samt Deskriptivstatistiken sowie das Erhebungsjahr (Normen müssen spätestens alle 8 Jahre überprüft werden)."
+    },
+    {
+      "topic": "Normwertberechnung",
+      "transfer": true,
+      "question": "Eine Person erreicht in einer Vergleichsgruppe einen z-Wert von `z = 1,0`. Welcher IQ-Wert ergibt sich daraus?",
+      "options": [
+        "`IQ = 101`, da der z-Wert unverändert zum Mittelwert der Normskala addiert wird.",
+        "Das lässt sich ohne Prozentrang nicht bestimmen.",
+        "`IQ = 110`, da die Standardabweichung der IQ-Skala bei zehn Punkten je z-Einheit liegt.",
+        "`IQ = 115`, da `IQ = 100 + 15 · z` gilt.",
+        "`IQ = 100`, da der Mittelwert der IQ-Skala unabhängig vom individuellen z-Wert stets erhalten bleibt."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Nach `Normwert = M_Norm + SD_Norm · z` und den IQ-Kennwerten (`M = 100`, `SD = 15`) ergibt `z = 1,0` einen IQ von 115. `IQ = 100` entspräche `z = 0`. Eine Standardabweichung von 10 gilt z. B. für T-Werte, nicht für den IQ. Den z-Wert direkt zu addieren ignoriert die Multiplikation mit der SD. Und ein Prozentrang wird für die Umrechnung nicht benötigt."
+    },
+    {
+      "topic": "Kriteriumsorientierte Interpretation",
+      "question": "Was bezeichnet ein Cut-Off-Wert?",
+      "options": [
+        "Den Schwellen- bzw. kritischen Wert, ab dem Personen eine andere diagnostische Zuweisung erhalten.",
+        "Die maximal erreichbare Punktzahl.",
+        "Den Mittelwert der Normstichprobe, an dem sich die Einordnung eines individuellen Testergebnisses orientiert.",
+        "Den Anteil der Personen einer Bezugsgruppe, die einen gleichen oder niedrigeren Messwert erreicht haben.",
+        "Die Streubreite, innerhalb derer der wahre Wert einer Person mit einer bestimmten Wahrscheinlichkeit liegt."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Der Cut-Off (Kriterium, Schwellenwert, kritischer Wert) trennt Personen, die eine andere diagnostische Zuweisung und Behandlung erhalten. Der Mittelwert der Normstichprobe ist ein Verteilungskennwert. Der Anteil mit gleichem oder niedrigerem Wert ist der Prozentrang. Die Streubreite um den wahren Wert ist das Konfidenzintervall. Und die Maximalpunktzahl ist eine Skaleneigenschaft."
+    },
+    {
+      "topic": "Kriteriumsorientierte Interpretation",
+      "hard": true,
+      "question": "Warum ist eine Dichotomisierung bei diagnostischen Entscheidungen nötig – und welchen Preis hat sie?",
+      "options": [
+        "Das Merkmal ist bereits binär nominalskaliert, sodass die Dichotomisierung ohne jeden Informationsverlust vollzogen werden kann.",
+        "Sie ist rein rechnerisch bedingt und hat keinerlei inhaltliche Konsequenzen.",
+        "Sie ist nur bei Persönlichkeitsfragebögen erforderlich, während Leistungstests grundsätzlich kontinuierlich ausgewertet werden.",
+        "Viele Entscheidungen sind binär, das Merkmal aber kontinuierlich; der Preis ist Informationsverlust.",
+        "Sie erhöht die Reliabilität des Verfahrens, weil durch die Zusammenfassung von Werten Messfehler wirksam herausgemittelt werden."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Tatsächliche und diagnostizierte Gruppenzugehörigkeit sind meist kontinuierlich, viele Entscheidungen aber binär – die nötige Dichotomisierung bringt Informationsverlust und Fehleranfälligkeit mit sich, die es zu minimieren gilt. Binär nominalskaliert ist das Merkmal gerade selten. Die Reliabilität steigt dadurch nicht. Die Notwendigkeit gilt nicht nur für Fragebögen. Und die Konsequenzen sind sehr wohl inhaltlich (Fehlklassifikationen)."
+    },
+    {
+      "topic": "Vier-Felder-Schema",
+      "transfer": true,
+      "question": "Eine tatsächlich depressive Person wird vom Screening-Fragebogen als unauffällig eingestuft. Wie heißt dieser Fall im Vier-Felder-Schema?",
+      "options": [
+        "Ein Fall ohne Zuordnung im Schema.",
+        "Falsch negativ (Beta-Fehler), auch „Verpasser\" genannt.",
+        "Falsch positiv (Alpha-Fehler), im Sinne eines sogenannten „falschen Alarms\" bei nicht betroffenen Personen.",
+        "Richtig negativ (korrekte Ablehnung), da das Testergebnis unterhalb des gewählten Schwellenwerts liegt.",
+        "Richtig positiv (Treffer), da das Kriterium in der Realität bei dieser Person tatsächlich vorliegt."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Kriterium liegt vor, Test sagt negativ – das ist falsch negativ (Beta-Fehler, „Verpasser\"). Falsch positiv wäre der umgekehrte Fehler bei nicht betroffenen Personen. Richtig positiv setzt eine positive Testzuordnung voraus. Richtig negativ verlangt, dass das Kriterium auch real nicht vorliegt. Und jeder Fall lässt sich einer der vier Zellen zuordnen."
+    },
+    {
+      "topic": "Cut-Off: Trade-off",
+      "hard": true,
+      "trap": "Sensitivität und Spezifität lassen sich nicht gleichzeitig maximieren – wer den einen Fehler ausschließt, erhöht den anderen.",
+      "question": "Was geschieht, wenn der Schwellenwert so gesetzt wird, dass die Sensitivität perfekt ist (`FN = 0`)?",
+      "options": [
+        "Der Youden-Index erreicht dabei automatisch seinen Maximalwert von 1.",
+        "Die Spezifität wird gleichzeitig maximal, da beide Kennwerte bei optimaler Schwellensetzung miteinander ansteigen.",
+        "Die Zahl der falsch negativen Fälle steigt stark an, während die falsch positiven Fälle vollständig entfallen.",
+        "Die Spezifität bleibt davon unberührt, weil beide Kennwerte voneinander unabhängig berechnet werden.",
+        "Die Spezifität wird sehr gering, weil sehr viele falsch positive Fälle entstehen."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Wird der Schwellenwert so gesetzt, dass kein Fall übersehen wird (`FN = 0`), steigt die Zahl falsch positiver Fälle stark – die Spezifität wird sehr gering. Beide Kennwerte steigen nicht gemeinsam, sondern beeinflussen sich gegenseitig. Unabhängig sind sie deshalb auch nicht. Mehr falsch Negative wäre der umgekehrte Fall (perfekte Spezifität). Und ein Youden-Index von 1 setzt Sensitivität UND Spezifität von 100 % voraus."
+    },
+    {
+      "topic": "Cut-Off: Trade-off",
+      "question": "Welche Kosten sind bei der Festlegung eines Cut-Offs gegeneinander abzuwägen?",
+      "options": [
+        "Bei falsch Positiven eine zu spät begonnene Behandlung, bei falsch Negativen die Kosten einer unnötigen Behandlungsmaßnahme.",
+        "Bei falsch Positiven unnötige Behandlung, bei falsch Negativen eine zu späte Behandlung.",
+        "Ausschließlich die finanziellen Kosten der Testdurchführung im Verhältnis zur benötigten Bearbeitungszeit des Verfahrens.",
+        "Es entstehen bei beiden Fehlerarten identische Kosten.",
+        "Allein die Kosten der Normierung im Vergleich zum Aufwand einer expertenbasierten Cut-Off-Bestimmung."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Falsch Positive bringen psychische Belastung und Kosten unnötiger Behandlung mit sich, falsch Negative die Gefahr einer nicht oder zu spät begonnenen Behandlung. Die zweite Option vertauscht diese Konsequenzen. Testdurchführungs- und Normierungskosten sind keine Fehlerkosten der Klassifikation. Und die Kosten beider Fehlerarten sind gerade nicht identisch – das begründet die Abwägung."
+    },
+    {
+      "topic": "Datenbasierte Bestimmung",
+      "question": "Wie ist die Datenbasis für eine datenbasierte Cut-Off-Bestimmung aufgebaut?",
+      "options": [
+        "Eine Stichprobe ohne Diagnosen, bei der allein die Verteilung der Testwerte ausgewertet wird.",
+        "Eine Zufallsstichprobe von exakt 50 Personen.",
+        "Eine Stichprobe ausschließlich gesunder Personen, aus deren Testwerteverteilung der Schwellenwert rechnerisch abgeleitet wird.",
+        "Eine repräsentative Stichprobe aus zwei Subgruppen mit jeweils eindeutiger Diagnose.",
+        "Eine Gruppe von mindestens fünf Expert*innen, die die Lösungswahrscheinlichkeit der Items unabhängig voneinander einschätzen."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Benötigt wird eine repräsentative Stichprobe aus zwei Subgruppen (z. B. Gesunde und Personen mit Major Depression), bei denen jeweils eine eindeutige Diagnose als Kriterium vorliegt und die den Test bearbeitet haben. Nur Gesunde oder Personen ohne Diagnosen erlauben keinen Gruppenvergleich. Expertenschätzungen kennzeichnen das expertenbasierte Vorgehen. Und die nötige Größe variiert von etwa 50 je Gruppe bis zu mehreren hundert – keine feste Zahl."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "hard": true,
+      "question": "Wie läuft eine ROC-Analyse ab und was wird in der ROC-Kurve gegeneinander abgetragen?",
+      "options": [
+        "Für jeden potentiellen Schwellenwert werden Sensitivität und Spezifität berechnet; abgetragen wird Sensitivität gegen 1 − Spezifität.",
+        "Für jeden potentiellen Schwellenwert werden Sensitivität und Spezifität berechnet; abgetragen wird die Sensitivität gegen die Spezifität selbst.",
+        "Für jedes Item werden Schwierigkeit und Trennschärfe berechnet und anschließend grafisch gegeneinander abgetragen.",
+        "Für jede Substichprobe werden Mittelwert und Streuung bestimmt und in einer gemeinsamen Normwertetabelle gegenübergestellt.",
+        "Für jeden Faktor wird der Eigenwert bestimmt und gegen die Faktornummer abgetragen."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: In der ROC-Analyse werden für jeden potentiellen Schwellenwert Sensitivität und Spezifität berechnet; die Kurve trägt die Sensitivität (Trefferquote) gegen 1 − Spezifität (Quote falscher Alarme) ab. Die Sensitivität gegen die Spezifität selbst abzutragen entspricht nicht der ROC-Konvention. Schwierigkeit/Trennschärfe gehören zur Itemanalyse, M/SD zur Normierung. Und Eigenwerte gegen Faktornummer ergeben den Scree-Plot."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "question": "Wo liegt der ideale Schwellenwert bei der üblichen Zielsetzung?",
+      "options": [
+        "Dort, wo die Sensitivität den Wert 100 % erreicht, unabhängig von der resultierenden Höhe der Spezifität des Verfahrens.",
+        "Dort, wo die ROC-Kurve die Hauptdiagonale schneidet und Treffer- sowie Falschalarmquote einander entsprechen.",
+        "Dort, wo die Summe aus Sensitivität und Spezifität am größten ist.",
+        "Dort, wo die Spezifität perfekt wird und somit keine falsch positiven Fälle mehr auftreten können.",
+        "Immer exakt beim Mittelwert der Testwerteverteilung."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Üblicherweise liegt der ideale Schwellenwert dort, wo die Summe der korrekt klassifizierten Fälle – also Sensitivität plus Spezifität – am größten ist (größter Abstand zur Hauptdiagonalen). Eine Sensitivität von 100 % ohne Rücksicht auf die Spezifität ist nur bei asymmetrischen Kosten sinnvoll. Auf der Hauptdiagonalen trennt der Test gar nicht. Perfekte Spezifität erzeugt sehr viele Verpasser. Und der Verteilungsmittelwert ist kein Optimalitätskriterium."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "hard": true,
+      "question": "Wie ist der Youden-Index definiert?",
+      "options": [
+        "Als Fläche unterhalb der ROC-Kurve, die den Anteil des Flächenquadrates unter der Kurve angibt.",
+        "Als Produkt aus Sensitivität und Spezifität, das bei einem perfekten Testverfahren den Wert 1 annimmt.",
+        "Als Quotient aus Sensitivität und 1 − Spezifität.",
+        "Als Differenz zwischen der Trefferquote und der Basisrate der untersuchten Gesamtstichprobe.",
+        "Als `Sensitivität + Spezifität − 1`, mit einem Wertebereich von 0 bis 1."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Der Youden-Index ist `Sensitivität + Spezifität − 1` mit Wertebereich 0 bis 1; sein Maximum kennzeichnet den idealen Schwellenwert. Die Fläche unter der Kurve ist die AUC. Ein Produkt der beiden Kennwerte, eine Differenz zur Basisrate oder ein Quotient entsprechen nicht der Definition."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "hard": true,
+      "question": "Was besagt die Fläche unter der ROC-Kurve (AUC)?",
+      "options": [
+        "Sie gibt die Basisrate der Störung in der Population an.",
+        "Sie ist ein Maß der Trennfähigkeit; `AUC = .5` (Hauptdiagonale) entspricht Zufall, `AUC = 1` einem perfekten Test.",
+        "Sie gibt den Anteil der Personen an, die im Test einen Wert oberhalb des festgelegten Schwellenwertes erzielt haben.",
+        "Sie entspricht dem Anteil der wahren Varianz an der beobachteten Gesamtvarianz und ist damit ein Reliabilitätsmaß.",
+        "Sie beschreibt die Differenz zwischen Sensitivität und Spezifität am jeweils gewählten optimalen Schwellenwert."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die AUC misst, wie gut ein Test diskriminieren kann – `.5` (Hauptdiagonale) bedeutet Zufall, `1` einen perfekten Test; inhaltlich ist sie die Wahrscheinlichkeit, aus je einer zufällig gezogenen Person beider Gruppen die auffällige korrekt zu identifizieren. Der Anteil oberhalb des Schwellenwerts, ein Reliabilitätsmaß, die Differenz der beiden Kennwerte oder die Basisrate beschreiben jeweils etwas anderes."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "question": "Wie ist eine `AUC = .85` nach der genannten Daumenregel (Fischer et al., 2003) einzuordnen?",
+      "options": [
+        "Als unbrauchbar, weil die AUC nur genau 0 oder 1 annehmen kann.",
+        "Als hohe diagnostische Akkuratheit, da bereits Werte oberhalb von `.8` als hoch akkurat gelten.",
+        "Als geringe diagnostische Akkuratheit, weil der Wert noch deutlich unterhalb der Perfektionsgrenze liegt.",
+        "Als mittlere diagnostische Akkuratheit (Bereich `.7`–`.9`).",
+        "Als Zufallsbefund, da nur Werte oberhalb von `.9` überhaupt eine Trennung der Gruppen anzeigen."
+      ],
+      "answer": 3,
+      "explanation": "Richtig: Nach der Daumenregel gilt `.7`–`.9` als mittlere Akkuratheit, also auch `.85`. Hohe Akkuratheit beginnt erst über `.9`. Geringe Akkuratheit liegt zwischen `.5` und `.7`. Zufall entspricht `.5`, nicht Werten unter `.9`. Und die AUC ist ein kontinuierliches Maß zwischen 0 und 1."
+    },
+    {
+      "topic": "ROC-Analyse",
+      "trap": "Wiegen die Folgen eines Verpassers schwerer, senkt man den Schwellenwert – man nimmt mehr falsche Alarme bewusst in Kauf.",
+      "transfer": true,
+      "question": "Bei einem Depressions-Screening wiegen übersehene Fälle wegen Suizidgefahr schwerer als falsche Alarme, die lediglich weitere Diagnostik nach sich ziehen. Wie ist der Schwellenwert zu wählen?",
+      "options": [
+        "Der Schwellenwert spielt hier keine Rolle.",
+        "Genau am Mittelwert der Testwerteverteilung, da so beide Fehlerarten gleich häufig auftreten.",
+        "Niedriger, um eine sehr hohe Sensitivität zu erreichen und Verpasser zu minimieren.",
+        "Exakt dort, wo die Summe aus Sensitivität und Spezifität ihren Maximalwert erreicht, da dies immer die beste Lösung darstellt.",
+        "Höher, um die Spezifität zu maximieren und die Zahl unnötiger Folgeuntersuchungen möglichst gering zu halten."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wiegen die Folgen falsch negativer Befunde schwerer, wählt man einen niedrigeren Schwellenwert und erkauft eine sehr hohe Sensitivität (im Folienbeispiel 99 %) mit mehr falschen Alarmen. Ein höherer Wert würde die Verpasser vermehren. Das Sensitivität-plus-Spezifität-Maximum gilt nur bei symmetrischen Kosten. Der Verteilungsmittelwert ist kein Kriterium. Und der Schwellenwert bestimmt gerade das Fehlerverhältnis."
+    },
+    {
+      "topic": "Expertenbasierte Bestimmung",
+      "question": "Was ist bei der expertenbasierten Cut-Off-Bestimmung der Cut-Off inhaltlich – und wo wird sie typischerweise eingesetzt?",
+      "options": [
+        "Der Prozentrang 50 der Bezugsgruppe.",
+        "Der Schwellenwert mit dem höchsten Youden-Index, wie er in einer ROC-Analyse rechnerisch ermittelt wird.",
+        "Der Testwert, ab dem die Wahrscheinlichkeit einer klinischen Diagnose 50 % übersteigt; eingesetzt vor allem in der klinischen Screening-Diagnostik.",
+        "Der Mittelwert der Normstichprobe, der in der Individualdiagnostik als Vergleichsmaßstab für die Einordnung dient.",
+        "Die Anzahl der mindestens zu lösenden Aufgaben; eingesetzt bei Kompetenz-/Wissenstests im Schulkontext und in der Eignungsdiagnostik."
+      ],
+      "answer": 4,
+      "explanation": "Richtig: Beim expertenbasierten Vorgehen ist der Cut-Off die Anzahl der Aufgaben, die mindestens gelöst werden müssen, um die Anforderungen zu erfüllen; typische Anwendungsfelder sind Kompetenz- und Wissenstests im Schulkontext sowie die Eignungsdiagnostik. Die klinische Wahrscheinlichkeitsgrenze und der Youden-Index kennzeichnen das datenbasierte Vorgehen. Normmittelwert und Prozentrang 50 sind normorientierte Bezugsgrößen."
+    },
+    {
+      "topic": "Angoff-Methode",
+      "question": "Was ist die „minimally acceptable person\" (MAP) in der Angoff-Methode?",
+      "options": [
+        "Eine hypothetische Person, deren Leistung grenzwertig, aber gerade noch akzeptabel ist.",
+        "Die real existierende Person aus der Eichstichprobe, die im Test von allen Teilnehmenden das schwächste Ergebnis erzielt hat.",
+        "Die durchschnittliche Person der Normstichprobe, deren Testwert exakt dem Mittelwert der Vergleichsgruppe entspricht.",
+        "Eine Person mit der geringstmöglichen Merkmalsausprägung.",
+        "Diejenige Expertin oder derjenige Experte, die oder der die Itemschwierigkeiten am zurückhaltendsten einschätzt."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die MAP ist eine hypothetische Person, deren Leistung grenzwertig, aber noch akzeptabel ist – auf sie beziehen sich die Experteneinschätzungen. Sie ist weder eine reale Person aus der Stichprobe noch die Durchschnittsperson der Normstichprobe. Sie bezeichnet auch keine Expertenrolle. Und die geringstmögliche Ausprägung wäre gerade nicht mehr akzeptabel."
+    },
+    {
+      "topic": "Angoff-Methode",
+      "transfer": true,
+      "question": "Zwölf Expert*innen sollen für jedes Item einer Prüfung eine Einschätzung abgeben. Worin besteht ihre Aufgabe bei der Angoff-Methode?",
+      "options": [
+        "Zu beurteilen, ob das Item inhaltlich zur Definition des zu erfassenden Konstrukts passt und dieses angemessen repräsentiert.",
+        "Die Items nach ihrer empirisch ermittelten Trennschärfe in eine Rangreihe von trennscharf bis unbrauchbar zu bringen.",
+        "Zu schätzen, mit welcher Wahrscheinlichkeit eine MAP das Item löst (bzw. wie viele von 100 MAPs es lösen).",
+        "Für jedes Item festzulegen, welcher Normwert einem bestimmten erzielten Rohwert zugeordnet werden soll.",
+        "Den optimalen Schwellenwert direkt aus der ROC-Kurve abzulesen."
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Expert*innen schätzen die Wahrscheinlichkeit, mit der eine MAP das jeweilige Item korrekt löst (alternativ: wie viele von 100 MAPs es lösen). Die inhaltliche Passung zur Konstruktdefinition betrifft die Inhaltsvalidität. Trennschärfen werden empirisch berechnet, nicht geschätzt. Normwertzuordnungen gehören zur Eichung. Und das Ablesen aus der ROC-Kurve ist das datenbasierte Vorgehen."
+    },
+    {
+      "topic": "Angoff-Methode",
+      "hard": true,
+      "question": "Wie verläuft der iterative Prozess der Angoff-Methode?",
+      "options": [
+        "Individuelle Schätzungen werden je Item zurückgemeldet, diskutiert und erneut beurteilt.",
+        "Es wird genau eine Beurteilungsrunde durchgeführt.",
+        "Die Expert*innen legen den Cut-Off in einer einzigen gemeinsamen Sitzung im Konsens fest, ohne dass individuelle Einzelschätzungen erhoben werden.",
+        "Die Items werden so lange aus dem Verfahren entfernt, bis alle verbliebenen Items von den Beteiligten identisch eingeschätzt werden.",
+        "Die Einschätzungen werden über alle Runden hinweg strikt geheim gehalten, damit sich die Beteiligten gegenseitig nicht beeinflussen können."
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Nach Einführung und individueller Schätzung werden Mittelwerte und Standardabweichungen je Item berechnet und der Gruppe zurückgemeldet; heterogene Urteile werden diskutiert, danach erneut beurteilt – über die Runden wird die Gruppe konsistenter, die Streuung nimmt ab (meist drei Runden). Eine reine Konsenssitzung ohne Einzelschätzungen, vollständige Geheimhaltung (die Rückmeldung ist gerade zentral), das Entfernen von Items oder eine einzige Runde entsprechen dem Ablauf nicht."
+    },
+    {
+      "topic": "Angoff-Methode",
+      "question": "Welcher Punkt zählt zur Kritik (Contra) an der Angoff-Methode?",
+      "options": [
+        "Sie erfordert zwingend eine repräsentative Stichprobe von mehreren hundert Personen je Vergleichsgruppe.",
+        "Sie stellt zu hohe kognitive Anforderungen und Expertenauswahl sowie Trainingsumfang sind nicht klar definiert.",
+        "Sie ist außerordentlich aufwendig umzusetzen.",
+        "Sie liefert Cut-Offs, die über die Zeit hinweg stark schwanken und deshalb regelmäßig neu bestimmt werden müssen.",
+        "Sie ist in der Praxis kaum verbreitet und gilt daher als methodisch unerprobtes und wenig etabliertes Vorgehen."
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Kritisiert wird, dass die Methode zu hohe kognitive Anforderungen stellt (Wie sieht eine MAP aus?) und dass weder die Auswahl der Expert*innen noch der Trainingsumfang klar definiert sind. Als Pro-Argumente gelten dagegen gerade die weite Verbreitung, die einfache Umsetzbarkeit und zeitlich stabile Cut-Offs. Und eine große Vergleichsstichprobe verlangt das datenbasierte, nicht das expertenbasierte Vorgehen."
+    }
+  ]
+}

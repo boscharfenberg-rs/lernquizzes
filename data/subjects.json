@@ -396,6 +396,13 @@
       "title": "VL2 – Beispiel einer Testentwicklung & Testanalyse (Sitzung 10)",
       "subject": "Psychologische Diagnostik",
       "description": "Durchgängiges Fallbeispiel einer Testkonstruktion (Test zum numerischen Denken): Testplanung (Konstrukt, nomologisches Netz, Merkmalsart, Indikatoren, Testart), Item-Konstruktion, vorläufige Testversion und Erprobung (Think-aloud) sowie empirische Überprüfung (Itemanalysen, Faktorenstruktur, Reliabilität, Validität). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-vl2-normierung-cutoff",
+      "file": "diagnostik-vl2-normierung-cutoff.json",
+      "title": "VL2 – Normierung & Cut-Off-Bestimmung (Sitzung 11)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Testwertbildung und -interpretation: normorientierte Interpretation (Testeichung, Normstichprobe, gruppenspezifische Normen & Fairness, Dokumentation) und kriteriumsorientierte Interpretation (Cut-Offs, Vier-Felder-Schema, ROC-Analyse mit Youden-Index & AUC, expertenbasierte Angoff-Methode). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
