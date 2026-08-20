@@ -410,6 +410,13 @@
       "title": "VL2 – Item-Response-Theorie: Grundlagen (Sitzung 12)",
       "subject": "Psychologische Diagnostik",
       "description": "Probabilistische Testtheorie als Ergänzung zur KTT: Grenzen der KTT, manifeste und latente Variablen, Itemhomogenität und lokale stochastische Unabhängigkeit (Multiplikationstheorem), Latent-Trait- vs. Latent-Class-Modelle, itemcharakteristische Funktionen (Guttman-Modell vs. probabilistische IC-Funktionen) sowie 1PL-, 2PL- und 3PL-Modelle. Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "diagnostik-vl2-irt-raschmodell",
+      "file": "diagnostik-vl2-irt-raschmodell.json",
+      "title": "VL2 – Item-Response-Theorie: Rasch-Modell & Anwendungen (Sitzung 13)",
+      "subject": "Psychologische Diagnostik",
+      "description": "1PL-Modell (Rasch-Modell) für dichotome Items: Modellgleichung und Parameter, Maximum-Likelihood-Parameterschätzung, Wertebereich der Parameter, Personenparameter als Testwert und dessen Normierung, IC-Funktionen und Informationsfunktion, Passung zwischen Modell und Daten (Modell-Fit, Item-Fit, Residuen, graphischer Modelltest, DIF), Personenselektion sowie Anwendungen der IRT (spezifische Objektivität, parallele Testformen, Anker-Items, adaptives Testen). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     }
   ]
 }
