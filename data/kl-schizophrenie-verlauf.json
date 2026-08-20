@@ -1,0 +1,416 @@
+{
+  "id": "kl-schizophrenie-verlauf",
+  "title": "Schizophrenie: Verlauf",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Verlauf der Schizophrenie im Altklausur-Stil: 3/3-Regel und Verlaufstypen (Wyatt) mit Residuum, Dauer der unbehandelten Psychose (DUP), Rückfallgefahr in Abhängigkeit von der Behandlung sowie günstige und ungünstige Verlaufsprädiktoren (Beginn, Kognition, Compliance, Cannabis, Expressed Emotions).",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "3/3-Regel",
+      "question": "Was besagt die sogenannte 3/3-Regel zum Verlauf der Schizophrenie?",
+      "options": [
+        "Alle Betroffenen haben ausnahmslos nur eine einzige, voll remittierende Episode.",
+        "Alle Betroffenen haben ausnahmslos einen chronisch-progredienten Verlauf.",
+        "Der Verlauf ist bei allen Betroffenen völlig identisch und gut vorhersagbar.",
+        "Zwei Drittel genesen vollständig, ein Drittel verstirbt an der Erkrankung.",
+        "Je ein Drittel: eine Episode, mehrere Episoden bzw. chronischer Verlauf."
+      ],
+      "answer": 4,
+      "explanation": "Nach der 3/3-Regel hat jeweils etwa ein Drittel eine einzige Episode, mehrere Episoden bzw. einen chronischen Verlauf. Ein durchweg chronischer oder einmaliger Verlauf, ein hoher Sterbeanteil oder ein völlig identischer Verlauf treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "DUP: Definition",
+      "question": "Was bezeichnet die „Dauer der unbehandelten Psychose“ (DUP)?",
+      "options": [
+        "Ein Maß, das ausschließlich die Nebenwirkungen der Medikation erfasst.",
+        "Die Zeit vollständiger Beschwerdefreiheit zwischen zwei Episoden.",
+        "Die Zeitspanne vom Beginn der Psychose bis zum Beginn der Behandlung.",
+        "Die Wirkdauer eines Antipsychotikums nach einer einmaligen Gabe.",
+        "Die Gesamtdauer aller Krankheitsepisoden über das ganze Leben hinweg."
+      ],
+      "answer": 2,
+      "explanation": "Die DUP ist die Zeit vom Beginn der Psychose bis zum Behandlungsbeginn (Dauer der unbehandelten Psychose). Gesamtepisodendauer, Medikamentenwirkdauer, beschwerdefreie Intervalle oder Nebenwirkungen sind etwas anderes."
+    },
+    {
+      "topic": "DUP: Bedeutung",
+      "question": "Welche prognostische Bedeutung hat eine lange DUP?",
+      "options": [
+        "Die DUP hat auf den Verlauf nachweislich keinerlei Einfluss.",
+        "Die DUP ist nur für die Nebenwirkungen, nicht für den Verlauf relevant.",
+        "Eine lange DUP gilt als Prädiktor eines ungünstigen Verlaufs.",
+        "Eine lange DUP schließt eine spätere Behandlung grundsätzlich aus.",
+        "Eine lange DUP verbessert die Prognose deutlich und stabil."
+      ],
+      "answer": 2,
+      "explanation": "Eine lange DUP (spät begonnene Behandlung) ist ein Prädiktor eines ungünstigen Verlaufs. Eine Verbesserung, fehlender Einfluss, ein Behandlungsausschluss oder ein reiner Nebenwirkungsbezug treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Verlaufstypen",
+      "question": "Was zeigen die differenzierteren Verlaufstypen (nach Wyatt) der Schizophrenie?",
+      "options": [
+        "Mehrere Typen mit unterschiedlichem Ausmaß an verbleibendem Residuum.",
+        "Dass der Verlauf bei allen Betroffenen innerhalb eines Jahres tödlich endet.",
+        "Dass kein einziger Betroffener jemals ein verbleibendes Residuum zeigt.",
+        "Nur einen einzigen, für alle Betroffenen identischen Verlaufstyp.",
+        "Dass alle Betroffenen nach jeder Episode vollständig zur Normalität zurückkehren."
+      ],
+      "answer": 0,
+      "explanation": "Nach Wyatt gibt es verschiedene Verlaufstypen mit unterschiedlichem Residuum (z. B. eine Episode ohne Residuum, multiple Episoden mit minimalem Residuum, anwachsendes Residuum). Ein einziger Typ, vollständige Rückkehr, fehlendes Residuum oder ein tödlicher Verlauf treffen nicht zu."
+    },
+    {
+      "topic": "Verlaufstypen: günstigster",
+      "question": "Welcher Verlaufstyp ist prognostisch am günstigsten?",
+      "options": [
+        "Ein anwachsendes Residuum nach jeder Episode ohne Rückkehr zur Normalität.",
+        "Ein Residuum nach der ersten Episode mit weiteren Rückfällen ohne Erholung.",
+        "Eine einzige Episode ohne verbleibendes Residuum.",
+        "Multiple Episoden mit jeweils zunehmender chronischer Verschlechterung.",
+        "Ein chronisch-progredienter Verlauf ohne jede Remissionsphase."
+      ],
+      "answer": 2,
+      "explanation": "Am günstigsten ist eine einzige Episode ohne Residuum. Ein anwachsendes oder persistierendes Residuum, wiederholte Rückfälle ohne Erholung und ein chronisch-progredienter Verlauf sind ungünstiger."
+    },
+    {
+      "topic": "Residuum",
+      "question": "Was beschreibt ein „Residuum“ im Verlauf der Schizophrenie?",
+      "options": [
+        "Eine nach einer Episode verbleibende Restsymptomatik.",
+        "Die akute Verschlechterung einer bislang stabilen Symptomatik.",
+        "Eine kurze, spontan remittierende psychotische Episode im Risikozustand.",
+        "Die vollständige und dauerhafte Heilung ohne jede verbleibende Symptomatik.",
+        "Das erste Ansprechen der Symptomatik auf eine begonnene Behandlung."
+      ],
+      "answer": 0,
+      "explanation": "Ein Residuum ist die nach einer Episode verbleibende Restsymptomatik ohne vollständige Rückkehr zur Normalität. Vollständige Heilung (Recovery), akute Verschlechterung (Exazerbation), initiales Ansprechen (Response) und BLIPS sind etwas anderes."
+    },
+    {
+      "topic": "Rückfallgefahr: Vergleich",
+      "question": "Wie hoch ist die Rückfallgefahr innerhalb eines Jahres je nach Behandlung?",
+      "options": [
+        "Ohne Behandlung ~70 %, mit Medikation ~40 %, mit Psychotherapie ~20 %.",
+        "Die Rückfallgefahr ist in allen drei Bedingungen exakt gleich hoch.",
+        "Die Rückfallgefahr beträgt in jedem Fall 0 %, ein Rückfall kommt nicht vor.",
+        "Die Behandlung hat auf die Rückfallgefahr keinerlei Einfluss.",
+        "Ohne Behandlung ~20 %, mit Medikation ~40 %, mit Psychotherapie ~70 %."
+      ],
+      "answer": 0,
+      "explanation": "Innerhalb eines Jahres liegt die Rückfallgefahr ohne adäquate Weiterbehandlung bei ~70 %, unter Medikation bei ~40 % und mit zusätzlicher Psychotherapie bei ~20 %. Die umgekehrte Reihenfolge, gleiche Werte, 0 % oder ein fehlender Behandlungseinfluss treffen nicht zu.",
+      "hard": true,
+      "trap": "Mehr Behandlung senkt die Rückfallquote (70→40→20 %), nicht umgekehrt."
+    },
+    {
+      "topic": "Rückfallgefahr: ohne Behandlung",
+      "question": "Wie hoch ist die Rückfallgefahr im ersten Jahr ohne adäquate Weiterbehandlung nach der Akutphase?",
+      "options": [
+        "Exakt 100 %, sodass ein Rückfall zwingend eintritt.",
+        "Etwa 70 %.",
+        "Etwa 5 %, vergleichbar mit der Suizidrate.",
+        "Etwa 20 %, also niedriger als unter jeder anderen Bedingung.",
+        "Genau 0 %, da nach der Akutphase kein Rückfall mehr möglich ist."
+      ],
+      "answer": 1,
+      "explanation": "Ohne adäquate Weiterbehandlung liegt die Rückfallgefahr im ersten Jahr bei etwa 70 % (mit Medikation ~40 %, mit zusätzlicher Psychotherapie ~20 %). 20 %, 0 %, 5 % oder 100 % treffen nicht zu."
+    },
+    {
+      "topic": "Prädiktoren: krankheitsbezogen",
+      "question": "Welcher krankheitsbezogene Faktor spricht für einen ungünstigen Verlauf?",
+      "options": [
+        "Ein unterstützendes, wenig kritisches familiäres Umfeld.",
+        "Ein akuter, plötzlicher Krankheitsbeginn mit rascher Behandlung.",
+        "Eine gute Behandlungs-Compliance mit zuverlässiger Medikamenteneinnahme.",
+        "Ausgeprägte frühe Negativsymptomatik und schleichender Beginn.",
+        "Ein hoher Bildungsstand und eine gute soziale Einbindung der Person."
+      ],
+      "answer": 3,
+      "explanation": "Eine ausgeprägte Negativsymptomatik im Frühstadium und ein schleichender Beginn sind ungünstige, krankheitsbezogene Prädiktoren. Akuter Beginn/rasche Behandlung, hoher Bildungsstand, gute Compliance und ein unterstützendes Umfeld sind eher günstig.",
+      "hard": true
+    },
+    {
+      "topic": "Prädiktoren: kognitiv/DUP",
+      "question": "Welche Kombination gilt als ungünstiger Verlaufsprädiktor?",
+      "options": [
+        "Fehlende kognitive Defizite und eine kurze unbehandelte Phase.",
+        "Gute kognitive Leistungsfähigkeit und ein sehr früher Behandlungsbeginn.",
+        "Deutliche kognitive Defizite und eine lange Dauer der unbehandelten Psychose.",
+        "Eine hohe Behandlungs-Compliance ganz ohne kognitive Auffälligkeiten.",
+        "Ein akuter Beginn mit sofortiger vollständiger Remission."
+      ],
+      "answer": 2,
+      "explanation": "Kognitive Defizite und eine lange DUP sind ungünstige Verlaufsprädiktoren. Gute Kognition, früher Behandlungsbeginn, kurze DUP, gute Compliance oder rasche Remission sind dagegen günstig."
+    },
+    {
+      "topic": "Prädiktoren: personal",
+      "question": "Welche personalen Faktoren gelten als ungünstige Verlaufsprädiktoren?",
+      "options": [
+        "Männliches Geschlecht, niedrige Bildung und antisoziale Persönlichkeitsstörung.",
+        "Eine hohe Behandlungs-Compliance und eine realistische Lebensplanung.",
+        "Ein hoher sozioökonomischer Status und eine gute soziale Unterstützung.",
+        "Weibliches Geschlecht, hohes Bildungsniveau und eine stabile Persönlichkeit.",
+        "Ein akuter Krankheitsbeginn und eine kurze unbehandelte Phase."
+      ],
+      "answer": 0,
+      "explanation": "Männliches Geschlecht, niedriges Bildungsniveau und eine antisoziale Persönlichkeitsstörung zählen zu den ungünstigen personalen Prädiktoren. Die übrigen Optionen nennen eher günstige oder krankheitsbezogene Faktoren."
+    },
+    {
+      "topic": "Prädiktoren: verhaltensassoziiert",
+      "question": "Welches verhaltensassoziierte Merkmal verschlechtert den Verlauf?",
+      "options": [
+        "Der konsequente Verzicht auf Cannabis und andere Substanzen.",
+        "Eine realistische Zielsetzung und eine gute Behandlungs-Compliance.",
+        "Eine zuverlässige Medikamenteneinnahme und eine feste Tagesstruktur.",
+        "Ein akuter Krankheitsbeginn mit rascher, vollständiger Remission.",
+        "Medikamente absetzen, Drogenkonsum und Verlust der Alltagsstruktur."
+      ],
+      "answer": 4,
+      "explanation": "Ungünstig wirken das Absetzen der Medikamente, Drogenkonsum (v. a. Cannabis), der Verlust der Alltagsstruktur und unrealistische Ziele. Zuverlässige Einnahme, Substanzverzicht, realistische Ziele und ein akuter Beginn sind dagegen günstig.",
+      "hard": true
+    },
+    {
+      "topic": "Prädiktoren: umweltbezogen",
+      "question": "Welcher umweltbezogene Faktor gilt als ungünstiger Verlaufsprädiktor?",
+      "options": [
+        "Ein unterstützendes, wenig kritisches Familienklima mit guter Einbindung.",
+        "Eine gute soziale Integration mit tragfähigen Beziehungen.",
+        "Eine hohe Behandlungs-Compliance der betroffenen Person.",
+        "Ein akuter Krankheitsbeginn mit früher Behandlung.",
+        "Hohe Expressed Emotions und soziale Isolation."
+      ],
+      "answer": 4,
+      "explanation": "Ein Familienklima mit hohen Expressed Emotions und soziale Isolation zählen zu den ungünstigen umweltbezogenen Prädiktoren. Ein unterstützendes Klima, gute Integration, Compliance und ein akuter Beginn sind dagegen günstig."
+    },
+    {
+      "topic": "Familienkonzepte",
+      "question": "Was trifft auf familienbezogene Verlaufskonzepte am ehesten NICHT zu?",
+      "options": [
+        "Soziale Isolation zählt zu den umweltbezogenen ungünstigen Verlaufsfaktoren.",
+        "Ein unterstützendes, wenig kritisches Familienklima kann den Verlauf günstig beeinflussen.",
+        "Ein Familienklima mit hohen Expressed Emotions gilt als Verlaufsrisiko.",
+        "Die Konzepte „Double Bind“ und „schizogene Mutter“ sind empirisch gut belegt.",
+        "Familiäre Faktoren wirken auf den Verlauf, nicht als alleinige Ursache der Störung."
+      ],
+      "answer": 3,
+      "explanation": "Die Konzepte „Double Bind“ und „schizogene Mutter“ sind empirisch gerade NICHT belegt – diese Aussage ist die gesuchte. Hohe Expressed Emotions und soziale Isolation gelten dagegen als ungünstig, familiäre Faktoren wirken auf den Verlauf, und ein unterstützendes Klima kann günstig wirken.",
+      "hard": true,
+      "trap": "„Double Bind“ und „schizogene Mutter“ sind empirisch nicht belegt – Expressed Emotions dagegen schon."
+    },
+    {
+      "topic": "Prädiktoren: NICHT",
+      "question": "Was zählt NICHT zu den Prädiktoren eines ungünstigen Verlaufs?",
+      "options": [
+        "Der Verlust der Alltagsstruktur und das Absetzen der Medikamente.",
+        "Ein hoher Bildungsstand und ein rascher Behandlungsbeginn.",
+        "Ein fortgesetzter Drogenkonsum, insbesondere von Cannabis.",
+        "Deutliche kognitive Defizite und eine lange Dauer der unbehandelten Psychose.",
+        "Eine ausgeprägte Negativsymptomatik im Frühstadium und ein schleichender Beginn."
+      ],
+      "answer": 1,
+      "explanation": "Ein hoher Bildungsstand und ein rascher Behandlungsbeginn sind gerade keine ungünstigen, sondern eher günstige Faktoren – diese Aussage ist die gesuchte. Negativsymptomatik/schleichender Beginn, kognitive Defizite/lange DUP, Cannabis, Strukturverlust und Absetzen der Medikation sind ungünstige Prädiktoren.",
+      "hard": true
+    },
+    {
+      "topic": "Günstige Faktoren",
+      "question": "Welche Konstellation spricht am ehesten für einen günstigen Verlauf?",
+      "options": [
+        "Ein schleichender Beginn mit ausgeprägter früher Negativsymptomatik.",
+        "Ein akuter Beginn, ein rascher Behandlungsbeginn und eine gute Compliance.",
+        "Ein fortgesetzter Cannabiskonsum bei abgesetzter Medikation.",
+        "Eine lange unbehandelte Psychose mit deutlichen kognitiven Defiziten.",
+        "Ein Familienklima mit hohen Expressed Emotions und sozialer Isolation."
+      ],
+      "answer": 1,
+      "explanation": "Günstig sind u. a. ein akuter Beginn, ein rascher Behandlungsbeginn und eine gute Compliance. Schleichender Beginn, lange DUP/kognitive Defizite, Cannabis/Absetzen und hohe Expressed Emotions sind ungünstig."
+    },
+    {
+      "topic": "Beginn: akut vs. schleichend",
+      "question": "Wie wirkt sich die Art des Krankheitsbeginns auf die Prognose aus?",
+      "options": [
+        "Nur ein schleichender Beginn kommt bei Schizophrenie überhaupt vor.",
+        "Nur ein akuter Beginn kommt bei Schizophrenie überhaupt vor.",
+        "Ein schleichender Beginn ist prognostisch eher günstig, ein akuter eher ungünstig.",
+        "Ein akuter Beginn ist prognostisch eher günstig, ein schleichender eher ungünstig.",
+        "Die Art des Beginns hat auf die Prognose keinerlei Einfluss."
+      ],
+      "answer": 3,
+      "explanation": "Ein akuter Beginn ist eher günstig, ein schleichender Beginn (oft mit früher Negativsymptomatik) eher ungünstig. Die vertauschte Zuordnung, fehlender Einfluss oder ein ausschließliches Vorkommen einer Beginnsform treffen nicht zu.",
+      "trap": "Akuter Beginn = eher günstig, schleichender Beginn = eher ungünstig."
+    },
+    {
+      "topic": "Expressed Emotions",
+      "question": "Was ist mit einem Familienklima hoher „Expressed Emotions“ gemeint?",
+      "options": [
+        "Eine Bezeichnung für die Behandlungs-Compliance der Angehörigen.",
+        "Ein besonders unterstützendes, wertschätzendes und wenig kritisches Klima.",
+        "Ein rein biologisch bedingtes Ungleichgewicht der Neurotransmitter.",
+        "Ein Klima mit viel Kritik, Feindseligkeit oder emotionalem Überengagement.",
+        "Ein Maß für die genetische Belastung der Herkunftsfamilie."
+      ],
+      "answer": 3,
+      "explanation": "Hohe Expressed Emotions bezeichnen ein Familienklima mit viel Kritik, Feindseligkeit oder emotionalem Überengagement – ein ungünstiger Verlaufsfaktor. Ein unterstützendes Klima, ein Neurotransmitter-Ungleichgewicht, ein genetisches Maß oder die Compliance der Angehörigen sind nicht gemeint."
+    },
+    {
+      "topic": "Cannabis im Verlauf",
+      "question": "Welche Rolle spielt fortgesetzter Cannabiskonsum für den Verlauf der Schizophrenie?",
+      "options": [
+        "Er verbessert den Verlauf und wirkt stabilisierend auf die Symptomatik.",
+        "Er senkt zuverlässig die Rückfallgefahr im ersten Jahr.",
+        "Er ist ausschließlich für die Erstentstehung, nie für den Verlauf relevant.",
+        "Er hat auf den Verlauf der Erkrankung nachweislich keinen Einfluss.",
+        "Er zählt zu den verhaltensassoziierten ungünstigen Verlaufsfaktoren."
+      ],
+      "answer": 4,
+      "explanation": "Fortgesetzter Cannabiskonsum ist ein verhaltensassoziierter ungünstiger Verlaufsfaktor. Eine Verbesserung, fehlender Einfluss, eine Beschränkung auf die Entstehung oder eine gesenkte Rückfallgefahr treffen nicht zu."
+    },
+    {
+      "topic": "Medikation im Verlauf",
+      "question": "Wie wirkt sich das eigenmächtige Absetzen der Medikamente nach der Akutphase aus?",
+      "options": [
+        "Es ist ohne Bedeutung, da nach der Akutphase kein Rückfall mehr möglich ist.",
+        "Es erhöht die Rückfallgefahr deutlich (~70 % ohne Weiterbehandlung).",
+        "Es senkt die Rückfallgefahr, da die Medikamente Rückfälle begünstigen.",
+        "Es führt in jedem Fall zu einer vollständigen und dauerhaften Heilung.",
+        "Es hat auf die Rückfallgefahr keinerlei Einfluss."
+      ],
+      "answer": 1,
+      "explanation": "Das Absetzen der Medikamente erhöht die Rückfallgefahr deutlich (ohne Weiterbehandlung ~70 % im ersten Jahr gegenüber ~40 % unter Medikation). Eine Senkung, fehlender Einfluss, eine Heilung oder ein ausgeschlossener Rückfall treffen nicht zu."
+    },
+    {
+      "topic": "Komorbidität im Verlauf",
+      "question": "Wie beeinflusst eine komorbide Suchterkrankung den Verlauf der Psychose?",
+      "options": [
+        "Sie kompliziert den Verlauf und zählt zu den ungünstigen Prädiktoren.",
+        "Sie schließt eine gleichzeitige Schizophrenie definitionsgemäß aus.",
+        "Sie verbessert den Verlauf deutlich und stabilisiert die Symptomatik.",
+        "Sie hat auf den Verlauf der Psychose keinerlei Einfluss.",
+        "Sie senkt zuverlässig die Rückfallgefahr im ersten Jahr."
+      ],
+      "answer": 0,
+      "explanation": "Eine komorbide Sucht kompliziert den Verlauf und ist ein ungünstiger Prädiktor. Eine Verbesserung, fehlender Einfluss, ein Diagnoseausschluss oder eine gesenkte Rückfallgefahr treffen nicht zu."
+    },
+    {
+      "topic": "Remission",
+      "question": "Was bezeichnet die Remission im Verlauf der Schizophrenie?",
+      "options": [
+        "Das erste Ansprechen der Symptomatik auf eine Behandlung.",
+        "Den Rückgang der Symptomatik innerhalb einer Episode.",
+        "Die akute Verschlechterung eines chronischen Krankheitsverlaufs.",
+        "Die durch Übertreibung verstärkt dargestellte Symptomatik.",
+        "Das erneute Auftreten der Erkrankung nach vollständiger Genesung."
+      ],
+      "answer": 1,
+      "explanation": "Remission ist der Rückgang der Symptomatik innerhalb einer Episode. Die akute Verschlechterung ist die Exazerbation, das erste Ansprechen die Response, das Wiederauftreten nach Genesung das Rezidiv, die übertriebene Darstellung die Aggravation."
+    },
+    {
+      "topic": "Exazerbation",
+      "question": "Was bezeichnet die Exazerbation im Verlauf der Schizophrenie?",
+      "options": [
+        "Das erste, initiale Ansprechen auf eine Behandlung.",
+        "Das bewusste Verbergen der Symptomatik durch die Person.",
+        "Die akute Verschlechterung eines chronischen Verlaufs.",
+        "Die vollständige Heilung am Ende einer Episode.",
+        "Den Rückgang der Symptomatik innerhalb einer Episode."
+      ],
+      "answer": 2,
+      "explanation": "Exazerbation ist die akute Verschlechterung eines (chronischen) Verlaufs. Symptomrückgang ist die Remission, vollständige Heilung die Recovery, initiales Ansprechen die Response, das Verbergen die Dissimulation.",
+      "trap": "Exazerbation = Verschlechterung; der Symptomrückgang ist die Remission."
+    },
+    {
+      "topic": "Anwendung: ungünstiger Verlauf",
+      "question": "Ein Patient hatte vor Behandlungsbeginn eine lange unbehandelte Psychose, zeigt ausgeprägte Negativsymptome und kognitive Defizite bei schleichendem Beginn. Wie ist die Prognose einzuschätzen?",
+      "options": [
+        "Sicher günstig, weil Negativsymptome die Prognose grundsätzlich verbessern.",
+        "Eher günstig, da eine lange unbehandelte Psychose die Prognose verbessert.",
+        "Völlig unabhängig von diesen Faktoren, da der Verlauf rein zufällig ist.",
+        "Nicht einschätzbar, da es keinerlei Prädiktoren des Verlaufs gibt.",
+        "Eher ungünstig, da mehrere bekannte Negativprädiktoren zusammenkommen."
+      ],
+      "answer": 4,
+      "explanation": "Lange DUP, ausgeprägte Negativsymptomatik, kognitive Defizite und schleichender Beginn sind bekannte Prädiktoren eines ungünstigen Verlaufs – die Prognose ist daher eher ungünstig. Eine günstige Deutung, fehlende Prädiktoren oder reine Zufälligkeit treffen nicht zu.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Rückfallprophylaxe",
+      "question": "Ein remittierter Patient möchte nach der Akutphase seine Medikation absetzen und auch keine Psychotherapie machen. Wie ist das Rückfallrisiko im nächsten Jahr einzuschätzen?",
+      "options": [
+        "Hoch (~70 %) – ohne Weiterbehandlung das größte Risiko.",
+        "Am niedrigsten von allen Optionen, da Medikation Rückfälle begünstigt.",
+        "Genau 0 %, da nach Remission kein Rückfall mehr möglich ist.",
+        "Sehr niedrig (~5 %), da ohne Behandlung das Risiko am geringsten ist.",
+        "Unverändert, da die Behandlung das Rückfallrisiko nicht beeinflusst."
+      ],
+      "answer": 0,
+      "explanation": "Ohne adäquate Weiterbehandlung liegt die Rückfallgefahr im ersten Jahr bei ~70 % (mit Medikation ~40 %, mit zusätzlicher Psychotherapie ~20 %) – das Risiko ist also hoch. Ein sehr niedriges Risiko, 0 %, fehlender Einfluss oder eine schützende Wirkung des Absetzens treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: akuter Beginn",
+      "question": "Eine Patientin erkrankt akut und plötzlich, kommt rasch in Behandlung und ist gut compliant. Wie ist die Prognose tendenziell einzuschätzen?",
+      "options": [
+        "Sicher ungünstig, weil rascher Behandlungsbeginn die Prognose verschlechtert.",
+        "Tendenziell eher ungünstig, da ein akuter Beginn die Prognose grundsätzlich verschlechtert.",
+        "Nicht einschätzbar, da der Beginn für die Prognose keine Rolle spielt.",
+        "Völlig unabhängig von diesen Faktoren, da der Verlauf rein zufällig ist.",
+        "Eher günstig: akuter Beginn, früher Behandlungsbeginn und gute Compliance."
+      ],
+      "answer": 4,
+      "explanation": "Akuter Beginn, früher Behandlungsbeginn und gute Compliance sind günstige Faktoren – die Prognose ist tendenziell eher günstig. Eine ungünstige Deutung, fehlende Bedeutung des Beginns oder reine Zufälligkeit treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: DUP",
+      "question": "Bei einem Patienten lagen zwischen Symptombeginn und Behandlungsbeginn mehrere Jahre. Welcher Verlaufsfaktor liegt hier vor und wie ist er zu bewerten?",
+      "options": [
+        "Eine kurze DUP – ein besonders günstiger Verlaufsprädiktor.",
+        "Eine Exazerbation, die den weiteren Verlauf grundsätzlich verbessert.",
+        "Ein Residuum, das die Prognose deutlich verbessert.",
+        "Eine lange DUP – ein ungünstiger Verlaufsprädiktor.",
+        "Eine lange Remissionsphase ohne prognostische Bedeutung."
+      ],
+      "answer": 3,
+      "explanation": "Mehrere Jahre bis zum Behandlungsbeginn bedeuten eine lange DUP – ein ungünstiger Verlaufsprädiktor. Eine kurze DUP, eine Remissionsphase, eine Exazerbation oder ein Residuum beschreiben etwas anderes bzw. bewerten falsch.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Expressed Emotions",
+      "question": "Ein Patient lebt in einer Familie mit viel Kritik und emotionalem Überengagement. Wie ist dieses Umfeld für den Verlauf zu bewerten?",
+      "options": [
+        "Als bedeutungslos, da familiäre Faktoren den Verlauf nicht beeinflussen.",
+        "Als sicherer Beweis, dass die Familie die Erkrankung allein verursacht hat.",
+        "Als Beleg für die empirisch gut belegte „schizogene Mutter“.",
+        "Als ungünstig, da hohe Expressed Emotions ein Verlaufsrisiko darstellen.",
+        "Als günstig, da hohe Expressed Emotions den Verlauf stabilisieren."
+      ],
+      "answer": 3,
+      "explanation": "Ein Klima hoher Expressed Emotions (viel Kritik, Überengagement) ist ein ungünstiger Verlaufsfaktor. Eine stabilisierende oder bedeutungslose Wirkung, ein Beleg für die (nicht belegte) „schizogene Mutter“ oder eine alleinige familiäre Verursachung treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Verlaufstypen: ungünstigster",
+      "question": "Welcher Verlaufstyp gehört nach Wyatt zu den prognostisch ungünstigsten und häufigen Formen?",
+      "options": [
+        "Ein Verlauf mit garantierter vollständiger Heilung nach der ersten Episode.",
+        "Ein nach jeder Episode anwachsendes Residuum ohne Rückkehr zur Normalität.",
+        "Eine einzige Episode ganz ohne verbleibendes Residuum.",
+        "Ein vollständig symptomfreier Verlauf ganz ohne jede Episode.",
+        "Multiple Episoden mit keinem oder nur minimalem Residuum."
+      ],
+      "answer": 1,
+      "explanation": "Ein anwachsendes Residuum nach jeder Episode ohne Rückkehr zur Normalität ist ein häufiger (ca. 40 %) und prognostisch ungünstiger Verlaufstyp. Eine einzige Episode ohne Residuum bzw. minimales Residuum sind günstiger; ein episodenfreier oder garantiert heilender Verlauf ist unrealistisch."
+    },
+    {
+      "topic": "Response",
+      "question": "Was bezeichnet die „Response“ im Verlauf bzw. unter Behandlung?",
+      "options": [
+        "Den vollständigen Rückgang der Symptomatik am Ende einer Episode.",
+        "Das Wiederauftreten der Erkrankung nach vollständiger Genesung.",
+        "Das erste, initiale Ansprechen der Symptomatik auf die Behandlung.",
+        "Das bewusste Verbergen der Symptomatik durch die betroffene Person.",
+        "Die akute Verschlechterung eines chronischen Krankheitsverlaufs."
+      ],
+      "answer": 2,
+      "explanation": "Die Response ist das initiale Ansprechen der Symptomatik auf eine Behandlung. Vollständiger Rückgang ist die Remission/Recovery, akute Verschlechterung die Exazerbation, Verbergen die Dissimulation, Wiederauftreten nach Genesung das Rezidiv."
+    }
+  ]
+}

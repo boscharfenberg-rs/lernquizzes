@@ -1,8 +1,8 @@
 {
   "id": "kl-schizophrenie-epidemiologie-komorbiditaet",
-  "title": "Schizophrenie: Epidemiologie, Komorbidität & Verlauf",
+  "title": "Schizophrenie: Epidemiologie & Komorbidität",
   "subject": "Allgemeine und spezielle Krankheitslehre",
-  "description": "Epidemiologie, Komorbidität und Verlauf der Schizophrenie im Altklausur-Stil: Prävalenz, Geschlecht/Ersterkrankungsalter, Suizidalität und Lebenszeit, Vergleich mit affektiven Störungen, Komorbidität (Zwang, Sucht/Doppeldiagnose, PTBS) sowie Verlauf (3/3-Regel, DUP, Residuum, Rückfallgefahr, ungünstige Prädiktoren, Expressed Emotions).",
+  "description": "Epidemiologie und Komorbidität der Schizophrenie im Altklausur-Stil: Prävalenz, Geschlecht und Ersterkrankungsalter, Suizidalität und verkürzte Lebenszeit, Vergleich mit affektiven Störungen sowie Komorbidität mit Zwangsstörung, Sucht (Doppeldiagnose) und PTBS.",
   "showGrade": true,
   "questions": [
     {
@@ -10,12 +10,12 @@
       "question": "Wie hoch ist die Lebenszeitprävalenz der Schizophrenie etwa?",
       "options": [
         "Etwa 15–20 % in der Allgemeinbevölkerung.",
-        "Etwa 8–9 %, vergleichbar mit der PTBS.",
         "Etwa 1–2 % weltweit.",
         "Unter 0,01 %, sodass die Störung praktisch nicht vorkommt.",
-        "Genau 50 %, also bei jedem zweiten Menschen im Lauf des Lebens."
+        "Genau 50 %, also bei jedem zweiten Menschen im Lauf des Lebens.",
+        "Etwa 8–9 %, vergleichbar mit der PTBS."
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Die Lebenszeitprävalenz der Schizophrenie liegt bei etwa 1–2 % weltweit. 15–20 %, unter 0,01 %, 50 % oder 8–9 % (das entspricht eher der PTBS) treffen nicht zu."
     },
     {
@@ -23,25 +23,25 @@
       "question": "Welcher Anteil aller psychischen Störungen ist dem schizophrenen Formenkreis zuzuordnen?",
       "options": [
         "Genau 30 %, entsprechend der komorbiden Zwangsrate.",
-        "Etwa 50 %, also die Hälfte aller psychischen Störungen.",
+        "Etwa 9 %.",
         "Unter 0,1 %, sodass sie epidemiologisch bedeutungslos ist.",
-        "Über 80 %, sodass die Schizophrenie die häufigste Störung wäre.",
-        "Etwa 9 %."
+        "Etwa 50 %, also die Hälfte aller psychischen Störungen.",
+        "Über 80 %, sodass die Schizophrenie die häufigste Störung wäre."
       ],
-      "answer": 4,
+      "answer": 1,
       "explanation": "Etwa 9 % aller psychischen Störungen sind dem schizophrenen Formenkreis zuzuordnen. 50 %, über 80 %, unter 0,1 % oder 30 % treffen nicht zu."
     },
     {
       "topic": "Epidemiologie: Geschlecht",
       "question": "Was gilt für die Geschlechterverteilung und das Ersterkrankungsalter bei Schizophrenie?",
       "options": [
-        "Frauen sind mit etwa 75 % deutlich häufiger betroffen als Männer.",
-        "Männer erkranken erst deutlich später als Frauen, meist erst jenseits des 40. Lebensjahres.",
-        "Die Schizophrenie tritt ausschließlich bei Männern und nie bei Frauen auf.",
         "Etwa gleich betroffen (1:1); Männer erkranken 3–5 Jahre früher.",
-        "Männer und Frauen erkranken exakt im selben Alter, ohne jeden Unterschied."
+        "Männer und Frauen erkranken exakt im selben Alter, ohne jeden Unterschied.",
+        "Männer erkranken erst deutlich später als Frauen, meist jenseits des 40. Lebensjahres.",
+        "Frauen sind mit etwa 75 % deutlich häufiger betroffen als Männer.",
+        "Die Schizophrenie tritt ausschließlich bei Männern und nie bei Frauen auf."
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Männer und Frauen sind etwa gleich betroffen (w:m ≈ 1:1); Männer erkranken jedoch etwa 3–5 Jahre früher (ca. 18–21 vs. 21–24 Jahre). Ein Frauenüberhang, ein späterer Männer-Beginn, ein reines Männer-Vorkommen oder ein exakt gleiches Alter treffen nicht zu.",
       "hard": true
     },
@@ -49,36 +49,36 @@
       "topic": "Epidemiologie: Suizid",
       "question": "Was gilt für die Suizidalität bei Schizophrenie?",
       "options": [
-        "Etwa 5 % versterben durch Suizid, v. a. Männer nach der Erstdiagnose.",
-        "Suizidalität tritt nur im vollremittierten Zustand ohne Symptome auf.",
         "Betroffen sind ausschließlich Frauen im höheren Lebensalter.",
         "Über 50 % versterben durch Suizid, meist noch vor der Erstdiagnose.",
-        "Suizidalität kommt bei Schizophrenie praktisch nicht vor."
+        "Etwa 5 % versterben durch Suizid, v. a. Männer nach der Erstdiagnose.",
+        "Suizidalität kommt bei Schizophrenie praktisch nicht vor.",
+        "Suizidalität tritt nur im vollremittierten Zustand ohne Symptome auf."
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Etwa 5 % versterben durch Suizid, mit besonders hoher Gefahr bei Männern nach der Erstdiagnose. Ein Nicht-Vorkommen, über 50 %, ein reiner Frauen-Bezug oder ein Auftreten nur in Remission treffen nicht zu."
     },
     {
       "topic": "Epidemiologie: Funktion",
       "question": "Was gilt für die soziale/berufliche Situation von Menschen mit Schizophrenie?",
       "options": [
+        "Nahezu alle Betroffenen sind vollschichtig auf dem ersten Arbeitsmarkt beschäftigt.",
         "Alle Betroffenen sind dauerhaft und ausnahmslos vollständig arbeitsunfähig.",
-        "Betroffene haben im Durchschnitt eine deutlich höhere Lebenserwartung als Gesunde.",
-        "Die Erkrankung hat keinerlei Einfluss auf die berufliche Teilhabe.",
         "Nur etwa jeder Fünfte hat einen Job auf dem ersten Arbeitsmarkt.",
-        "Nahezu alle Betroffenen sind vollschichtig auf dem ersten Arbeitsmarkt beschäftigt."
+        "Die Erkrankung hat keinerlei Einfluss auf die berufliche Teilhabe.",
+        "Betroffene haben im Durchschnitt eine deutlich höhere Lebenserwartung als Gesunde."
       ],
-      "answer": 3,
-      "explanation": "Nur etwa jeder Fünfte hat einen Job auf dem ersten Arbeitsmarkt; zudem ist die Schizophrenie eine „life-shortening disease\" (10–20 Jahre kürzere Lebenszeit). Vollbeschäftigung, fehlender Einfluss, höhere Lebenserwartung oder vollständige Arbeitsunfähigkeit aller treffen nicht zu."
+      "answer": 2,
+      "explanation": "Nur etwa jeder Fünfte hat einen Job auf dem ersten Arbeitsmarkt; zudem ist die Schizophrenie eine „life-shortening disease“ (10–20 Jahre kürzere Lebenszeit). Vollbeschäftigung, fehlender Einfluss, höhere Lebenserwartung oder vollständige Arbeitsunfähigkeit aller treffen nicht zu."
     },
     {
       "topic": "Epidemiologie: Lebenszeit",
-      "question": "Was ist mit der Bezeichnung „life-shortening disease\" bei Schizophrenie gemeint?",
+      "question": "Was ist mit der Bezeichnung „life-shortening disease“ bei Schizophrenie gemeint?",
       "options": [
-        "Eine Erkrankung, die stets innerhalb weniger Monate zum Tod führt.",
-        "Eine im Durchschnitt um etwa 10–20 Jahre verkürzte Lebenszeit der Betroffenen.",
         "Eine Erkrankung ganz ohne Einfluss auf die durchschnittliche Lebenszeit.",
+        "Eine im Durchschnitt um etwa 10–20 Jahre verkürzte Lebenszeit der Betroffenen.",
         "Eine im Durchschnitt um 10–20 Jahre verlängerte Lebenszeit der Betroffenen.",
+        "Eine Erkrankung, die stets innerhalb weniger Monate zum Tod führt.",
         "Eine Bezeichnung, die sich ausschließlich auf die Dauer einzelner Episoden bezieht."
       ],
       "answer": 1,
@@ -88,11 +88,11 @@
       "topic": "Ersterkrankungsalter",
       "question": "Wie ordnet sich das Ersterkrankungsalter der Schizophrenie im Vergleich zu affektiven Störungen ein?",
       "options": [
-        "Schizophrenie erst um das 50. Lebensjahr, deutlich später als affektive Störungen.",
         "Alle drei Störungen beginnen exakt im selben Alter, ohne jeden Unterschied.",
-        "Schizophrenie tritt ausschließlich im Kindesalter vor dem 10. Lebensjahr auf.",
+        "Schizophrenie erst um das 50. Lebensjahr, deutlich später als affektive Störungen.",
+        "Die unipolare Depression beginnt am frühesten, die Schizophrenie am spätesten.",
         "Schizophrenie etwa 18–25 Jahre, bipolar um das 20., unipolar um das 30. Lebensjahr.",
-        "Die unipolare Depression beginnt am frühesten, die Schizophrenie am spätesten."
+        "Schizophrenie tritt ausschließlich im Kindesalter vor dem 10. Lebensjahr auf."
       ],
       "answer": 3,
       "explanation": "Die Schizophrenie beginnt meist mit 18–25 Jahren, bipolare Störungen um das 20., unipolare um das 30. Lebensjahr. Ein Beginn um 50, ein identisches Alter, ein frühester unipolarer Beginn oder ein Kindesalter-Beginn treffen nicht zu."
@@ -101,14 +101,27 @@
       "topic": "Vergleich: Geschlechterverhältnis",
       "question": "Wie unterscheidet sich das Geschlechterverhältnis (w:m) zwischen den Störungen?",
       "options": [
-        "Depression etwa 1:1, bipolare Störung etwa 2:1, Schizophrenie etwa 3:1.",
         "Bei allen drei Störungen überwiegen die Männer im Verhältnis 4:1.",
         "Alle drei Störungen betreffen ausschließlich Männer.",
         "Alle drei Störungen betreffen ausschließlich Frauen.",
-        "Depression etwa 2:1, bipolare Störung etwa 1:1, Schizophrenie etwa 1:1."
+        "Depression etwa 2:1, bipolare Störung etwa 1:1, Schizophrenie etwa 1:1.",
+        "Depression etwa 1:1, bipolare Störung etwa 2:1, Schizophrenie etwa 3:1."
       ],
-      "answer": 4,
+      "answer": 3,
       "explanation": "Die unipolare Depression zeigt ein Verhältnis von etwa 2:1 (Frauen), bipolare Störung und Schizophrenie etwa 1:1. Die übrigen Verteilungen treffen nicht zu."
+    },
+    {
+      "topic": "Vergleich: Lebenszeitprävalenz",
+      "question": "Wie ordnet sich die Lebenszeitprävalenz der Schizophrenie im Vergleich zu affektiven Störungen ein?",
+      "options": [
+        "Schizophrenie 1–2 %, bipolar 1–2 %, unipolare Depression 16–26 %.",
+        "Schizophrenie 16–26 %, unipolare Depression 1–2 %, bipolar unter 0,1 %.",
+        "Alle drei Störungen kommen mit unter 0,1 % praktisch nicht vor.",
+        "Alle drei Störungen liegen bei exakt 50 % und sind damit gleich häufig.",
+        "Schizophrenie ist mit über 30 % die häufigste aller drei Störungen."
+      ],
+      "answer": 0,
+      "explanation": "Die unipolare Depression ist mit 16–26 % deutlich häufiger als bipolare Störung (1–2 %) und Schizophrenie (1–2 %). Die übrigen Verteilungen treffen nicht zu."
     },
     {
       "topic": "Nähe bipolar–Schizophrenie",
@@ -116,188 +129,202 @@
       "options": [
         "Dass beide Störungen identisch sind und diagnostisch nicht unterschieden werden.",
         "Eine vollständige und scharfe Trennung beider Störungen ohne jede Überschneidung.",
-        "Dass die bipolare Störung deutlich häufiger ist als jede andere psychische Störung.",
         "Dass zwischen beiden Störungen keinerlei genetische Zusammenhänge bestehen.",
-        "Eine erstaunliche Nähe beider Störungen, die durch genetische Analysen gestützt wird."
+        "Eine erstaunliche Nähe beider Störungen, die durch genetische Analysen gestützt wird.",
+        "Dass die bipolare Störung deutlich häufiger ist als jede andere psychische Störung."
+      ],
+      "answer": 3,
+      "explanation": "Der Vergleich zeigt eine erstaunliche Nähe zwischen bipolarer Störung und Schizophrenie, die durch genetische Analysen gestützt wird. Eine scharfe Trennung, eine besondere Häufigkeit, eine Gleichsetzung oder fehlende genetische Bezüge treffen nicht zu."
+    },
+    {
+      "topic": "Epidemiologie: Cannabis-Region",
+      "question": "Wie ist der berichtete Zusammenhang zwischen regionalem Cannabiskonsum und Schizophrenie-Prävalenz einzuordnen?",
+      "options": [
+        "Es wurden Prävalenzunterschiede in Regionen mit gestiegenem Konsum berichtet, aber nicht repliziert.",
+        "Cannabis ist als alleinige und hinreichende Ursache der Schizophrenie gesichert.",
+        "Ein höherer Cannabiskonsum senkt nachweislich die Schizophrenie-Prävalenz.",
+        "Zwischen Cannabiskonsum und Prävalenz besteht überhaupt kein diskutierter Zusammenhang.",
+        "Der Zusammenhang ist zweifelsfrei belegt und in allen Studien eindeutig repliziert."
+      ],
+      "answer": 0,
+      "explanation": "Berichtet wurden Prävalenzunterschiede bis zu 100 % in Regionen mit gestiegenem Cannabiskonsum – dieser Befund ist jedoch ausdrücklich nicht repliziert. Ein zweifelsfreier Beleg, ein senkender Effekt, ein fehlender Zusammenhang oder eine alleinige Ursächlichkeit treffen nicht zu.",
+      "trap": "Der Cannabis-Prävalenz-Befund ist nicht repliziert – also nicht als gesichert darstellen."
+    },
+    {
+      "topic": "Epidemiologie: NICHT",
+      "question": "Was trifft auf die Epidemiologie der Schizophrenie am ehesten NICHT zu?",
+      "options": [
+        "Etwa 5 % der Betroffenen versterben im Verlauf durch Suizid.",
+        "Die Erkrankung geht mit einer um 10–20 Jahre verkürzten Lebenszeit einher.",
+        "Mit ~15–20 % gehört sie zu den häufigsten psychischen Störungen.",
+        "Männer und Frauen sind etwa gleich häufig von der Erkrankung betroffen.",
+        "Die Lebenszeitprävalenz der Schizophrenie liegt weltweit bei etwa 1–2 %."
+      ],
+      "answer": 2,
+      "explanation": "Die Schizophrenie ist mit ~1–2 % gerade nicht eine der häufigsten Störungen – die erste Aussage (15–20 %) ist falsch. Die übrigen Aussagen (1–2 %, gleiche Geschlechterverteilung, ~5 % Suizid, verkürzte Lebenszeit) treffen zu.",
+      "hard": true
+    },
+    {
+      "topic": "Suizid: Geschlecht",
+      "question": "Für welche Gruppe besteht nach der Erstdiagnose eine besonders hohe Suizidgefahr?",
+      "options": [
+        "Ausschließlich für Frauen im höheren Lebensalter.",
+        "Ausschließlich für Patienten ganz ohne komorbide Störungen.",
+        "Für keine Gruppe, da Suizidalität bei Schizophrenie nicht vorkommt.",
+        "Nur für vollständig remittierte Patienten ohne jede Symptomatik.",
+        "Für Männer nach der Erstdiagnose."
       ],
       "answer": 4,
-      "explanation": "Der Vergleich zeigt eine erstaunliche Nähe zwischen bipolarer Störung und Schizophrenie, die durch genetische Analysen gestützt wird. Eine scharfe Trennung, eine besondere Häufigkeit, eine Gleichsetzung oder fehlende genetische Bezüge treffen nicht zu."
+      "explanation": "Besonders gefährdet sind Männer nach der Erstdiagnose (insgesamt versterben ~5 % durch Suizid). Ältere Frauen, remittierte oder komorbiditätsfreie Patienten oder ein Nicht-Vorkommen treffen nicht zu."
     },
     {
       "topic": "Komorbidität: Zwang",
       "question": "Wie häufig treten Zwangssymptome bei Schizophrenie etwa auf (aktueller Review)?",
       "options": [
+        "Nur bei Betroffenen, die niemals Antipsychotika erhalten haben.",
+        "Bei nahezu 100 % aller Betroffenen.",
         "Bei etwa 30 % der Betroffenen.",
         "Ausschließlich bei Betroffenen über dem 60. Lebensjahr.",
-        "Bei nahezu 100 % aller Betroffenen.",
-        "Bei praktisch keinem der Betroffenen (unter 1 %).",
-        "Nur bei Betroffenen, die niemals Antipsychotika erhalten haben."
+        "Bei praktisch keinem der Betroffenen (unter 1 %)."
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Ein aktueller Review nennt etwa 30 % Zwangssymptome bei Schizophrenie (Angaben insgesamt 8–52 %). Nahezu 0 %, nahezu 100 %, ein reiner Altersbezug oder ein reiner Medikationsbezug treffen nicht zu."
     },
     {
       "topic": "Komorbidität: Zwang als NW",
       "question": "In welchem Zusammenhang können Zwangssymptome bei Schizophrenie zusätzlich auftreten?",
       "options": [
-        "Ausschließlich durch eine begleitende Lichttherapie ausgelöst.",
-        "Nur bei vollständig unbehandelten Betroffenen ohne jede Medikation.",
         "Ausschließlich als Folge einer Elektrokrampftherapie (EKT).",
+        "Als mögliche Nebenwirkung einer Behandlung mit Clozapin (seltener Risperidon).",
         "Grundsätzlich nie im Zusammenhang mit einer medikamentösen Behandlung.",
-        "Als mögliche Nebenwirkung einer Behandlung mit Clozapin (seltener Risperidon)."
+        "Ausschließlich durch eine begleitende Lichttherapie ausgelöst.",
+        "Nur bei vollständig unbehandelten Betroffenen ohne jede Medikation."
       ],
-      "answer": 4,
+      "answer": 1,
       "explanation": "Zwangssymptome können ad hoc als Nebenwirkung einer Behandlung mit Clozapin (seltener Risperidon) auftreten. EKT, ausschließlich Unbehandelte, Lichttherapie oder ein grundsätzlicher Ausschluss der Medikation treffen nicht zu."
     },
     {
       "topic": "Komorbidität: hebephren",
       "question": "Welche Ausprägung geht typischerweise mit stereotypem und zwanghaftem Verhalten einher (DD auch zum Autismusspektrum)?",
       "options": [
-        "Ausschließlich die perniziöse Katatonie mit vegetativer Entgleisung.",
+        "Die katatone Ausprägung mit im Vordergrund stehendem Stupor.",
         "Ausschließlich das Residualstadium nach mehreren Episoden.",
+        "Ausschließlich die perniziöse Katatonie mit vegetativer Entgleisung.",
         "Die rein paranoide Ausprägung mit systematisiertem Wahn.",
-        "Die hebephrene Ausprägung der Schizophrenie.",
-        "Die katatone Ausprägung mit im Vordergrund stehendem Stupor."
+        "Die hebephrene Ausprägung der Schizophrenie."
       ],
-      "answer": 3,
+      "answer": 4,
       "explanation": "Bei hebephrener Ausprägung sind stereotypes und zwanghaftes Verhalten typisch, wodurch die Differenzialdiagnose auch zum Autismusspektrum schwierig wird. Katatone, rein paranoide, perniziös-katatone oder Residual-Formen sind hier nicht gemeint."
+    },
+    {
+      "topic": "Komorbidität: obsessive-compulsive psychosis",
+      "question": "Wie wird die Abgrenzung von Zwang mit wenig Einsicht und Schizophrenie in der Vorlesung problematisiert?",
+      "options": [
+        "Als schwierige Abgrenzung (Stichwort „obsessive compulsive psychosis“).",
+        "Als Beleg dafür, dass Zwang und Schizophrenie exakt dasselbe sind.",
+        "Als völlig unproblematische, stets eindeutige und trennscharfe Unterscheidung.",
+        "Als Thema ganz ohne Bezug zur Komorbidität bei Schizophrenie.",
+        "Als Frage, die ausschließlich das Herz-Kreislauf-System betrifft."
+      ],
+      "answer": 0,
+      "explanation": "Zwang mit wenig Einsicht ist von der Schizophrenie schwer abzugrenzen; diskutiert wird hierfür der Begriff „obsessive compulsive psychosis“. Eine unproblematische Abgrenzung, eine Gleichsetzung, ein reiner Herz-Kreislauf-Bezug oder fehlende Relevanz treffen nicht zu."
     },
     {
       "topic": "Komorbidität: Sucht",
       "question": "Wie hoch ist die Lebenszeitprävalenz von Substanzmissbrauch/-abhängigkeit bei schizophrenen Patienten (NIMH-ECA)?",
       "options": [
-        "Exakt 100 %, sodass alle Betroffenen abhängig sind.",
         "Etwa 47 % (Allgemeinbevölkerung: ~17 %).",
         "Ausschließlich bei Frauen mit Schizophrenie nachweisbar.",
-        "Etwa 5 %, vergleichbar mit der Suizidrate.",
-        "Etwa 1 %, also seltener als in der Allgemeinbevölkerung."
+        "Exakt 100 %, sodass alle Betroffenen abhängig sind.",
+        "Etwa 1 %, also seltener als in der Allgemeinbevölkerung.",
+        "Etwa 5 %, vergleichbar mit der Suizidrate."
       ],
-      "answer": 1,
-      "explanation": "Die Lebenszeitprävalenz von Missbrauch/Abhängigkeit liegt bei schizophrenen Patienten bei etwa 47 % (Alkohol ~33,7 %) gegenüber ~16,7 % in der Allgemeinbevölkerung. 1 %, 100 %, 5 % oder ein reiner Frauenbezug treffen nicht zu.",
+      "answer": 0,
+      "explanation": "Die Lebenszeitprävalenz von Missbrauch/Abhängigkeit liegt bei schizophrenen Patienten bei etwa 47 % gegenüber ~16,7 % in der Allgemeinbevölkerung. 1 %, 100 %, 5 % oder ein reiner Frauenbezug treffen nicht zu.",
+      "hard": true,
+      "trap": "~47 % ist die Rate bei Schizophrenie, ~17 % die der Allgemeinbevölkerung – nicht verwechseln."
+    },
+    {
+      "topic": "Sucht: Substanzen",
+      "question": "Wie verteilt sich der komorbide Substanzmissbrauch bei schizophrenen Patienten (NIMH-ECA)?",
+      "options": [
+        "Ausschließlich illegale Drogen, Alkohol spielt keine Rolle.",
+        "Ausschließlich Alkohol, andere Substanzen spielen keinerlei Rolle.",
+        "Insgesamt unter 1 %, also seltener als in der Allgemeinbevölkerung.",
+        "Alkoholbezogen etwa 34 %, nicht-alkoholbezogen etwa 28 % (gesamt ~47 %).",
+        "Exakt 100 %, sodass alle Betroffenen mehrfach abhängig sind."
+      ],
+      "answer": 3,
+      "explanation": "Von der Gesamtrate (~47 %) entfallen etwa 33,7 % auf Alkohol und etwa 27,5 % auf andere Substanzen. Eine reine Alkohol- oder reine Drogenverteilung, unter 1 % oder 100 % treffen nicht zu.",
       "hard": true
     },
     {
       "topic": "Komorbidität: Doppeldiagnose",
       "question": "Was gilt für die komorbide Suchterkrankung (Doppeldiagnose) bei Schizophrenie?",
       "options": [
-        "Sie schließt eine gleichzeitige schizophrene Erkrankung definitionsgemäß aus.",
         "Sie kompliziert den Verlauf der Psychose und ist in Kliniken häufiger.",
-        "Sie ist ohne jeden Einfluss auf Verlauf und Behandlung der Psychose.",
         "Sie verbessert den Verlauf der Psychose deutlich und stabil.",
+        "Sie schließt eine gleichzeitige schizophrene Erkrankung definitionsgemäß aus.",
+        "Sie ist ohne jeden Einfluss auf Verlauf und Behandlung der Psychose.",
         "Sie kommt ausschließlich in der Allgemeinbevölkerung, nie in Kliniken vor."
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Die komorbide Sucht (Doppeldiagnose) kompliziert den Verlauf der Psychose und ist in psychiatrischen Kliniken/komplexen Einrichtungen häufiger. Eine Verbesserung, ein reines Vorkommen in der Allgemeinbevölkerung, fehlender Einfluss oder ein Ausschluss der Psychose treffen nicht zu."
+    },
+    {
+      "topic": "Komorbidität: Setting",
+      "question": "Wo sind die Komorbiditätsraten bei Schizophrenie besonders hoch?",
+      "options": [
+        "Ausschließlich in der ambulanten Allgemeinbevölkerung ohne Behandlung.",
+        "Komorbidität kommt in klinischen Settings praktisch nicht vor.",
+        "Nur bei Patienten, die niemals Antipsychotika erhalten haben.",
+        "Ausnahmslos bei vollständig remittierten Patienten ohne Symptome.",
+        "In psychiatrischen Kliniken und komplexen Behandlungseinrichtungen."
+      ],
+      "answer": 4,
+      "explanation": "Die Komorbiditätsraten (u. a. mit Sucht) sind in Kliniken und komplexen Einrichtungen höher. Die Allgemeinbevölkerung, remittierte oder unbehandelte Patienten oder ein Nicht-Vorkommen in Kliniken treffen nicht zu."
     },
     {
       "topic": "Komorbidität: PTBS",
       "question": "Wie hoch ist die Lebenszeitprävalenz einer PTBS bei schizophrenen Psychosen etwa?",
       "options": [
-        "Etwa 1 %, also deutlich seltener als in der Allgemeinbevölkerung.",
         "Genau 0 %, da eine PTBS bei Schizophrenie ausgeschlossen ist.",
         "Etwa 47 %, entsprechend der komorbiden Suchtrate.",
         "Etwa 28–29 % (Allgemeinbevölkerung: ~8–9 %).",
+        "Etwa 1 %, also deutlich seltener als in der Allgemeinbevölkerung.",
         "Über 90 %, sodass fast alle Betroffenen eine PTBS haben."
       ],
-      "answer": 3,
-      "explanation": "Die Lebenszeitprävalenz einer PTBS liegt bei schizophrenen Psychosen bei etwa 28–29 % gegenüber ~8–9 % in der Allgemeinbevölkerung (traumatische Erfahrungen bis 50 %). 1 %, 0 %, über 90 % oder 47 % treffen nicht zu."
+      "answer": 2,
+      "explanation": "Die Lebenszeitprävalenz einer PTBS liegt bei schizophrenen Psychosen bei etwa 28–29 % gegenüber ~8–9 % in der Allgemeinbevölkerung (traumatische Erfahrungen bis 50 %). 1 %, 0 %, über 90 % oder 47 % treffen nicht zu.",
+      "hard": true,
+      "trap": "PTBS bei Schizophrenie ~28–29 % (nicht die ~8–9 % der Allgemeinbevölkerung)."
     },
     {
       "topic": "Komorbidität: Trauma",
       "question": "Wie hoch ist der Anteil schizophrener Patienten mit traumatischen Erfahrungen etwa?",
       "options": [
-        "Exakt 100 %, sodass alle Betroffenen traumatisiert sind.",
-        "Ausschließlich bei Männern über dem 60. Lebensjahr.",
-        "Bis zu etwa 50 %.",
         "Genau 0 %, da Traumata bei Schizophrenie ausgeschlossen sind.",
-        "Unter 1 %, sodass Traumata praktisch keine Rolle spielen."
+        "Bis zu etwa 50 %.",
+        "Exakt 100 %, sodass alle Betroffenen traumatisiert sind.",
+        "Unter 1 %, sodass Traumata praktisch keine Rolle spielen.",
+        "Ausschließlich bei Männern über dem 60. Lebensjahr."
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Bei bis zu etwa 50 % der schizophrenen Patienten finden sich traumatische Erfahrungen. Werte unter 1 %, 0 %, ein reiner Altersbezug oder 100 % treffen nicht zu."
     },
     {
-      "topic": "Verlauf: 3/3-Regel",
-      "question": "Was besagt die sogenannte 3/3-Regel zum Verlauf der Schizophrenie?",
+      "topic": "Komorbidität: Überblick NICHT",
+      "question": "Was trifft auf die Komorbidität bei Schizophrenie am ehesten NICHT zu?",
       "options": [
-        "Alle Betroffenen haben ausnahmslos einen chronisch-progredienten Verlauf.",
-        "Der Verlauf ist bei allen Betroffenen völlig identisch und gut vorhersagbar.",
-        "Je ein Drittel: eine Episode, mehrere Episoden bzw. chronischer Verlauf.",
-        "Alle Betroffenen haben ausnahmslos nur eine einzige, voll remittierende Episode.",
-        "Zwei Drittel genesen vollständig, ein Drittel verstirbt an der Erkrankung."
-      ],
-      "answer": 2,
-      "explanation": "Nach der 3/3-Regel hat jeweils etwa ein Drittel eine einzige Episode, mehrere Episoden bzw. einen chronischen Verlauf. Ein durchweg chronischer oder durchweg einmaliger Verlauf, ein hoher Sterbeanteil oder ein völlig identischer Verlauf treffen nicht zu.",
-      "hard": true
-    },
-    {
-      "topic": "Verlauf: DUP",
-      "question": "Was bezeichnet die „Dauer der unbehandelten Psychose\" (DUP), und welche Rolle spielt sie?",
-      "options": [
-        "Die Gesamtdauer aller Krankheitsepisoden; sie sagt nichts über die Prognose aus.",
-        "Die Zeit bis zum Behandlungsbeginn; eine lange DUP ist prognostisch ungünstig.",
-        "Ein Maß, das ausschließlich die Nebenwirkungen der Medikation erfasst.",
-        "Die Dauer der Wirkung eines Antipsychotikums nach einmaliger Gabe.",
-        "Die Zeit vollständiger Beschwerdefreiheit zwischen zwei Episoden."
-      ],
-      "answer": 1,
-      "explanation": "Die DUP ist die Dauer der unbehandelten Psychose (Zeit bis zum Behandlungsbeginn); eine lange DUP gilt als Prädiktor eines ungünstigen Verlaufs. Die anderen Definitionen treffen nicht zu."
-    },
-    {
-      "topic": "Verlauf: ungünstige Prädiktoren",
-      "question": "Was zählt NICHT zu den Prädiktoren eines ungünstigen Verlaufs der Schizophrenie?",
-      "options": [
-        "Ein hoher Bildungsstand und ein rascher Behandlungsbeginn.",
-        "Deutliche kognitive Defizite und eine lange Dauer der unbehandelten Psychose.",
-        "Der Verlust der Alltagsstruktur und das Absetzen der Medikamente.",
-        "Eine ausgeprägte Negativsymptomatik im Frühstadium und ein schleichender Beginn.",
-        "Ein fortgesetzter Drogenkonsum, insbesondere von Cannabis."
-      ],
-      "answer": 0,
-      "explanation": "Ein hoher Bildungsstand und ein rascher Behandlungsbeginn sind gerade keine ungünstigen, sondern eher günstige Faktoren – diese Aussage ist die gesuchte. Negativsymptomatik/schleichender Beginn, kognitive Defizite/lange DUP, Cannabis, Strukturverlust und Absetzen der Medikation sind ungünstige Prädiktoren.",
-      "hard": true
-    },
-    {
-      "topic": "Verlauf: Expressed Emotions",
-      "question": "Was trifft auf familiäre Einflussfaktoren des Verlaufs am ehesten NICHT zu?",
-      "options": [
-        "Die Konzepte „Double Bind\" und „schizogene Mutter\" sind empirisch gut belegt.",
-        "Ein unterstützendes, wenig kritisches Familienklima kann den Verlauf günstig beeinflussen.",
-        "Soziale Isolation zählt zu den umweltbezogenen ungünstigen Verlaufsfaktoren.",
-        "Familiäre Faktoren wirken auf den Verlauf, nicht als alleinige Ursache der Störung.",
-        "Ein ungünstiges Familienklima mit hohen Expressed Emotions gilt als Verlaufsrisiko."
-      ],
-      "answer": 0,
-      "explanation": "Die Konzepte „Double Bind\" und „schizogene Mutter\" sind empirisch gerade NICHT belegt – diese Aussage ist die gesuchte. Hohe Expressed Emotions und soziale Isolation gelten dagegen als ungünstige Verlaufsfaktoren, familiäre Faktoren wirken auf den Verlauf und ein unterstützendes Klima kann günstig wirken.",
-      "hard": true,
-      "trap": "„Double Bind\" und „schizogene Mutter\" sind empirisch nicht belegt – Expressed Emotions dagegen schon."
-    },
-    {
-      "topic": "Verlauf: Rückfallgefahr",
-      "question": "Wie hoch ist die Rückfallgefahr innerhalb eines Jahres in Abhängigkeit von der Behandlung?",
-      "options": [
-        "Ohne Behandlung ~20 %, mit Medikation ~40 %, mit Psychotherapie ~70 %.",
-        "Die Rückfallgefahr ist in allen drei Bedingungen exakt gleich hoch.",
-        "Die Rückfallgefahr beträgt in jedem Fall 0 %, ein Rückfall kommt nicht vor.",
-        "Die Behandlung hat auf die Rückfallgefahr keinerlei Einfluss.",
-        "Ohne Weiterbehandlung ~70 %, mit Medikation ~40 %, mit Psychotherapie ~20 %."
+        "Eine komorbide Suchterkrankung kompliziert den Verlauf der Psychose.",
+        "Zwangssymptome treten bei etwa 30 % der Betroffenen komorbid auf.",
+        "Die PTBS-Lebenszeitprävalenz ist bei Schizophrenie deutlich erhöht.",
+        "Traumatische Erfahrungen finden sich bei bis zu etwa 50 % der Betroffenen.",
+        "Komorbide Störungen sind bei Schizophrenie insgesamt selten und ohne Verlaufsrelevanz."
       ],
       "answer": 4,
-      "explanation": "Innerhalb eines Jahres liegt die Rückfallgefahr ohne adäquate Weiterbehandlung bei ~70 %, unter Medikation bei ~40 % und mit zusätzlicher Psychotherapie bei ~20 %. Die umgekehrte Reihenfolge, gleiche Werte, 0 % oder ein fehlender Behandlungseinfluss treffen nicht zu.",
-      "hard": true,
-      "trap": "Mehr Behandlung senkt die Rückfallquote (70→40→20 %), nicht umgekehrt."
-    },
-    {
-      "topic": "Verlauf: Residuum",
-      "question": "Was beschreibt ein „Residuum\" im Verlauf der Schizophrenie?",
-      "options": [
-        "Das erste Ansprechen der Symptomatik auf eine begonnene Behandlung.",
-        "Eine kurze, spontan remittierende psychotische Episode im Risikozustand.",
-        "Eine nach einer Episode verbleibende Restsymptomatik.",
-        "Die akute Verschlechterung einer bislang stabilen Symptomatik.",
-        "Die vollständige und dauerhafte Heilung ohne jede verbleibende Symptomatik."
-      ],
-      "answer": 2,
-      "explanation": "Ein Residuum ist die nach einer Episode verbleibende Restsymptomatik ohne vollständige Rückkehr zur Normalität (Wyatt: verschiedene Verlaufstypen mit unterschiedlichem Residuum). Vollständige Heilung, akute Verschlechterung, initiales Ansprechen und BLIPS sind etwas anderes."
+      "explanation": "Komorbidität ist bei Schizophrenie gerade nicht selten oder folgenlos – die erste Aussage ist falsch. Die übrigen Aussagen (Sucht kompliziert den Verlauf, ~30 % Zwang, erhöhte PTBS-Prävalenz, bis 50 % Traumata) treffen zu.",
+      "hard": true
     },
     {
       "topic": "Anwendung: Zwang unter Clozapin",
@@ -305,11 +332,11 @@
       "options": [
         "Als sicherer Beweis einer eigenständigen, unabhängigen Zwangsstörung von Geburt an.",
         "Als Folge einer begleitenden Lichttherapie bei saisonaler Depression.",
-        "Als mögliche Nebenwirkung der Clozapin-Behandlung.",
         "Als Zeichen einer beginnenden Elektrokrampftherapie-Wirkung.",
-        "Als Beleg dafür, dass die Psychose vollständig ausgeheilt ist."
+        "Als Beleg dafür, dass die Psychose vollständig ausgeheilt ist.",
+        "Als mögliche Nebenwirkung der Clozapin-Behandlung."
       ],
-      "answer": 2,
+      "answer": 4,
       "explanation": "Zwangssymptome können ad hoc als Nebenwirkung von Clozapin (seltener Risperidon) auftreten. Eine angeborene eigenständige Zwangsstörung, eine EKT- oder Lichttherapie-Wirkung oder eine ausgeheilte Psychose sind hier nicht naheliegend.",
       "transfer": true
     },
@@ -317,98 +344,72 @@
       "topic": "Anwendung: Doppeldiagnose",
       "question": "Ein Patient mit Schizophrenie ist zusätzlich alkoholabhängig. Wie wirkt sich diese Komorbidität am ehesten aus?",
       "options": [
-        "Sie verbessert den Verlauf der Psychose deutlich und stabil.",
-        "Sie kompliziert den Verlauf der Psychose (Doppeldiagnose).",
+        "Sie tritt bei Schizophrenie seltener auf als in der Allgemeinbevölkerung.",
         "Sie schließt die Diagnose einer Schizophrenie definitionsgemäß aus.",
-        "Sie hat auf Verlauf und Behandlung keinerlei Einfluss.",
-        "Sie tritt bei Schizophrenie seltener auf als in der Allgemeinbevölkerung."
+        "Sie kompliziert den Verlauf der Psychose (Doppeldiagnose).",
+        "Sie verbessert den Verlauf der Psychose deutlich und stabil.",
+        "Sie hat auf Verlauf und Behandlung keinerlei Einfluss."
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Eine komorbide Suchterkrankung (Doppeldiagnose) kompliziert den Verlauf der Psychose und ist bei Schizophrenie deutlich häufiger als in der Allgemeinbevölkerung. Eine Verbesserung, ein Diagnoseausschluss, fehlender Einfluss oder geringere Häufigkeit treffen nicht zu.",
       "transfer": true
     },
     {
-      "topic": "Anwendung: ungünstiger Verlauf",
-      "question": "Ein Patient hatte vor Behandlungsbeginn eine lange unbehandelte Psychose, zeigt ausgeprägte Negativsymptome und kognitive Defizite bei schleichendem Beginn. Wie ist die Verlaufsprognose einzuschätzen?",
+      "topic": "Anwendung: PTBS-Komorbidität",
+      "question": "Eine Patientin mit Schizophrenie berichtet zusätzlich über Intrusionen und Übererregung nach schweren früheren Traumatisierungen. Wie ist die PTBS-Komorbidität einzuordnen?",
       "options": [
-        "Nicht einschätzbar, da es keinerlei Prädiktoren des Verlaufs gibt.",
-        "Sicher günstig, weil Negativsymptome die Prognose grundsätzlich verbessern.",
-        "Völlig unabhängig von diesen Faktoren, da der Verlauf rein zufällig ist.",
-        "Eher ungünstig, da mehrere bekannte Negativprädiktoren zusammenkommen.",
-        "Eher günstig, da eine lange unbehandelte Psychose die Prognose verbessert."
+        "Als bei Schizophrenie ausgeschlossen, da beide Störungen sich gegenseitig verhindern.",
+        "Als reiner Zufallsbefund ohne jede epidemiologische Bedeutung.",
+        "Als bei Schizophrenie deutlich seltener als in der Allgemeinbevölkerung.",
+        "Als bei Schizophrenie deutlich erhöht (Lebenszeitprävalenz ~28–29 % vs. ~8–9 %).",
+        "Als sicheres Zeichen dafür, dass keine Schizophrenie vorliegt."
       ],
       "answer": 3,
-      "explanation": "Lange DUP, ausgeprägte Negativsymptomatik, kognitive Defizite und schleichender Beginn sind bekannte Prädiktoren eines ungünstigen Verlaufs – die Prognose ist daher eher ungünstig. Eine günstige Deutung, fehlende Prädiktoren oder reine Zufälligkeit treffen nicht zu.",
+      "explanation": "Die PTBS-Lebenszeitprävalenz ist bei schizophrenen Psychosen deutlich erhöht (~28–29 % vs. ~8–9 %; Traumata bis 50 %). Eine geringere Rate, ein Ausschluss, ein Zufallsbefund oder ein Ausschluss der Schizophrenie treffen nicht zu.",
       "hard": true,
       "transfer": true
     },
     {
-      "topic": "Anwendung: Rückfallprophylaxe",
-      "question": "Ein remittierter Patient möchte nach der Akutphase seine Medikation absetzen und auch keine Psychotherapie machen. Wie ist das Rückfallrisiko im nächsten Jahr einzuschätzen?",
+      "topic": "Anwendung: Suizidrisiko",
+      "question": "Ein junger Mann erhält erstmals die Diagnose einer Schizophrenie. Worauf ist im Hinblick auf die Suizidalität besonders zu achten?",
       "options": [
-        "Hoch (~70 %), da ohne Weiterbehandlung das größte Rückfallrisiko besteht.",
-        "Unverändert, da die Behandlung das Rückfallrisiko nicht beeinflusst.",
-        "Sehr niedrig (~5 %), da ohne Behandlung das Risiko am geringsten ist.",
-        "Am niedrigsten von allen Optionen, da Medikation Rückfälle begünstigt.",
-        "Genau 0 %, da nach Remission kein Rückfall mehr möglich ist."
+        "Auf ein praktisch nicht vorhandenes Suizidrisiko in dieser Phase.",
+        "Auf ein Risiko, das erst nach vollständiger Remission relevant wird.",
+        "Auf ein Risiko, das nur bei zusätzlicher Suchterkrankung überhaupt besteht.",
+        "Auf ein Risiko, das ausschließlich Frauen im höheren Alter betrifft.",
+        "Auf ein erhöhtes Suizidrisiko, das gerade bei Männern nach der Erstdiagnose hoch ist."
       ],
-      "answer": 0,
-      "explanation": "Ohne adäquate Weiterbehandlung liegt die Rückfallgefahr im ersten Jahr bei ~70 % (mit Medikation ~40 %, mit zusätzlicher Psychotherapie ~20 %) – das Risiko ist also hoch. Ein sehr niedriges Risiko, 0 %, fehlender Einfluss oder eine schützende Wirkung des Absetzens treffen nicht zu.",
+      "answer": 4,
+      "explanation": "Gerade Männer nach der Erstdiagnose haben eine besonders hohe Suizidgefahr (~5 % versterben durch Suizid). Ein fehlendes Risiko, ein reiner Frauen- oder Remissionsbezug oder eine Bindung allein an Sucht treffen nicht zu.",
       "transfer": true
     },
     {
-      "topic": "Epidemiologie: Cannabis-Region",
-      "question": "Wie ist der berichtete Zusammenhang zwischen regionalem Cannabiskonsum und Schizophrenie-Prävalenz einzuordnen?",
+      "topic": "Anwendung: Prävalenz",
+      "question": "Ein Kommilitone behauptet, Schizophrenie sei mit rund 20 % etwa so häufig wie eine unipolare Depression. Wie ist das zu bewerten?",
       "options": [
-        "Ein höherer Cannabiskonsum senkt nachweislich die Schizophrenie-Prävalenz.",
-        "Der Zusammenhang ist zweifelsfrei belegt und in allen Studien eindeutig repliziert.",
-        "Es wurden Prävalenzunterschiede in Regionen mit gestiegenem Konsum berichtet, aber nicht repliziert.",
-        "Cannabis ist als alleinige und hinreichende Ursache der Schizophrenie gesichert.",
-        "Zwischen Cannabiskonsum und Prävalenz besteht überhaupt kein diskutierter Zusammenhang."
+        "Nicht bewertbar, da es zu Prävalenzen keinerlei Daten gibt.",
+        "Zutreffend: Beide Störungen haben eine Lebenszeitprävalenz von rund 20 %.",
+        "Unzutreffend, weil die Schizophrenie in Wahrheit deutlich häufiger als die Depression ist.",
+        "Unzutreffend: Die Schizophrenie liegt bei ~1–2 %, die Depression bei 16–26 %.",
+        "Zutreffend, da die Schizophrenie die häufigste aller psychischen Störungen ist."
       ],
-      "answer": 2,
-      "explanation": "Berichtet wurden Prävalenzunterschiede bis zu 100 % in Regionen mit gestiegenem Cannabiskonsum – dieser Befund ist jedoch ausdrücklich nicht repliziert. Ein zweifelsfreier Beleg, ein senkender Effekt, ein fehlender Zusammenhang oder eine alleinige Ursächlichkeit treffen nicht zu.",
-      "trap": "Der Cannabis-Prävalenz-Befund ist nicht repliziert – also nicht als gesichert darstellen."
+      "answer": 3,
+      "explanation": "Die Schizophrenie hat eine Lebenszeitprävalenz von ~1–2 %, die unipolare Depression 16–26 % – sie sind also nicht gleich häufig. Eine Gleichheit bei 20 %, eine besondere Häufigkeit der Schizophrenie, eine Umkehrung oder fehlende Daten treffen nicht zu.",
+      "transfer": true
     },
     {
-      "topic": "Verlauf: Verlaufstypen",
-      "question": "Was zeigen die differenzierteren Verlaufstypen (nach Wyatt) der Schizophrenie?",
+      "topic": "Anwendung: Nähe bipolar",
+      "question": "Genetische Analysen zeigen erhebliche Überschneidungen zwischen bipolarer Störung und Schizophrenie. Wie passt das zu den epidemiologischen Befunden?",
       "options": [
-        "Es gibt nur einen einzigen, für alle Betroffenen identischen Verlaufstyp.",
-        "Alle Betroffenen kehren nach jeder Episode vollständig zur Normalität zurück.",
-        "Kein einziger Betroffener zeigt jemals ein verbleibendes Residuum.",
-        "Der Verlauf endet bei allen Betroffenen innerhalb eines Jahres tödlich.",
-        "Es gibt mehrere Typen mit unterschiedlichem Ausmaß an verbleibendem Residuum."
-      ],
-      "answer": 4,
-      "explanation": "Nach Wyatt gibt es verschiedene Verlaufstypen mit unterschiedlichem Residuum (z. B. eine Episode ohne Residuum, multiple Episoden mit minimalem Residuum, anwachsendes Residuum). Ein einziger Typ, vollständige Rückkehr, fehlendes Residuum oder ein tödlicher Verlauf treffen nicht zu."
-    },
-    {
-      "topic": "Komorbidität: obsessive-compulsive psychosis",
-      "question": "Wie wird die Abgrenzung von Zwang mit wenig Einsicht und Schizophrenie in der Vorlesung problematisiert?",
-      "options": [
-        "Als Thema ohne jeden Bezug zur Komorbidität bei Schizophrenie.",
-        "Als schwierige Abgrenzung (Stichwort „obsessive compulsive psychosis\").",
-        "Als völlig unproblematische, stets eindeutige und trennscharfe Unterscheidung.",
-        "Als Frage, die ausschließlich das Herz-Kreislauf-System betrifft.",
-        "Als Beleg dafür, dass Zwang und Schizophrenie exakt dasselbe sind."
+        "Es beweist, dass die bipolare Störung eine Unterform der Depression ist.",
+        "Es stützt die berichtete Nähe beider Störungen (ähnliche Prävalenz, ähnliches Erkrankungsalter).",
+        "Es belegt, dass beide Störungen vollständig identisch und ununterscheidbar sind.",
+        "Es zeigt, dass zwischen beiden Störungen keinerlei Zusammenhänge bestehen.",
+        "Es widerspricht den epidemiologischen Befunden, die beide Störungen scharf trennen."
       ],
       "answer": 1,
-      "explanation": "Zwang mit wenig Einsicht ist von der Schizophrenie schwer abzugrenzen; diskutiert wird hierfür der Begriff „obsessive compulsive psychosis\". Eine unproblematische Abgrenzung, eine Gleichsetzung, ein reiner Herz-Kreislauf-Bezug oder fehlende Relevanz treffen nicht zu."
-    },
-    {
-      "topic": "Komorbidität: Überblick NICHT",
-      "question": "Was trifft auf die Komorbidität bei Schizophrenie am ehesten NICHT zu?",
-      "options": [
-        "Komorbide Störungen sind bei Schizophrenie insgesamt selten und ohne Verlaufsrelevanz.",
-        "Eine komorbide Suchterkrankung kompliziert den Verlauf der Psychose.",
-        "Traumatische Erfahrungen finden sich bei bis zu etwa 50 % der Betroffenen.",
-        "Zwangssymptome treten bei etwa 30 % der Betroffenen komorbid auf.",
-        "Die PTBS-Lebenszeitprävalenz ist bei Schizophrenie deutlich erhöht."
-      ],
-      "answer": 0,
-      "explanation": "Komorbidität ist bei Schizophrenie gerade nicht selten oder folgenlos – die erste Aussage ist falsch. Die übrigen Aussagen (Sucht kompliziert den Verlauf, ~30 % Zwang, erhöhte PTBS-Prävalenz, bis 50 % Traumata) treffen zu.",
-      "hard": true
+      "explanation": "Die genetische Überschneidung stützt die epidemiologisch berichtete Nähe von bipolarer Störung und Schizophrenie (ähnliche Prävalenz ~1–2 %, ähnliches Erkrankungsalter). Ein Widerspruch, eine vollständige Gleichsetzung, fehlende Zusammenhänge oder eine Zuordnung zur Depression treffen nicht zu.",
+      "transfer": true
     }
   ]
 }

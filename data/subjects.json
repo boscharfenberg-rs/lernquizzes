@@ -463,9 +463,16 @@
     {
       "id": "kl-schizophrenie-epidemiologie-komorbiditaet",
       "file": "kl-schizophrenie-epidemiologie-komorbiditaet.json",
-      "title": "Schizophrenie: Epidemiologie, Komorbidität & Verlauf",
+      "title": "Schizophrenie: Epidemiologie & Komorbidität",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Epidemiologie (Prävalenz, Geschlecht, Suizid), Komorbidität (Zwang, Sucht/Doppeldiagnose, PTBS) und Verlauf (3/3-Regel, DUP, Rückfallgefahr, Expressed Emotions)."
+      "description": "Epidemiologie und Komorbidität der Schizophrenie: Prävalenz, Geschlecht und Ersterkrankungsalter, Suizidalität und verkürzte Lebenszeit, Vergleich mit affektiven Störungen sowie Komorbidität mit Zwangsstörung, Sucht (Doppeldiagnose) und PTBS."
+    },
+    {
+      "id": "kl-schizophrenie-verlauf",
+      "file": "kl-schizophrenie-verlauf.json",
+      "title": "Schizophrenie: Verlauf",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Verlauf der Schizophrenie: 3/3-Regel und Verlaufstypen (Wyatt) mit Residuum, Dauer der unbehandelten Psychose (DUP), Rückfallgefahr je nach Behandlung sowie günstige und ungünstige Verlaufsprädiktoren (Beginn, Kognition, Compliance, Cannabis, Expressed Emotions)."
     }
   ]
 }
