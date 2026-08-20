@@ -445,6 +445,27 @@
       "title": "Schizophrenie: Ich-Störungen",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Ich-Störungen: die fünf Dimensionen nach Scharfetter, Gedanken-Ich-Störungen als Erstrangsymptome, Abgrenzung zur Dissoziation, Depersonalisation/Derealisation."
+    },
+    {
+      "id": "kl-schizophrenie-frueherkennung",
+      "file": "kl-schizophrenie-frueherkennung.json",
+      "title": "Schizophrenie: Früherkennung",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Früherkennung: Frühwarnzeichen, Prodrom vs. Risikozustand (Übergangsraten), psychoseferne Basissymptome und psychosenahe Symptome (attenuiert, BLIPS), familiäre Belastung."
+    },
+    {
+      "id": "kl-schizophrenie-aetiologie",
+      "file": "kl-schizophrenie-aetiologie.json",
+      "title": "Schizophrenie: Ätiologie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Ätiologie: Vulnerabilitäts-Stress-Bewältigungs-Modell (Cannabis), Dopaminhypothese und dopaminerge Bahnen, weitere Transmitter, Genetik (Polygenie, GWAS), C4/Overpruning, Prädiktoren."
+    },
+    {
+      "id": "kl-schizophrenie-epidemiologie-komorbiditaet",
+      "file": "kl-schizophrenie-epidemiologie-komorbiditaet.json",
+      "title": "Schizophrenie: Epidemiologie, Komorbidität & Verlauf",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Epidemiologie (Prävalenz, Geschlecht, Suizid), Komorbidität (Zwang, Sucht/Doppeldiagnose, PTBS) und Verlauf (3/3-Regel, DUP, Rückfallgefahr, Expressed Emotions)."
     }
   ]
 }

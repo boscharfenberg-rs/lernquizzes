@@ -1,0 +1,415 @@
+{
+  "id": "kl-schizophrenie-frueherkennung",
+  "title": "Schizophrenie: Früherkennung",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Früherkennung schizophrener Psychosen im Altklausur-Stil: Problem der Frühphase, unspezifische Frühwarnzeichen, Prodrom vs. Risikozustand (Übergangsraten), psychoseferne Risikosymptome (Basissymptome) und psychosenahe Risikosymptome (attenuierte Symptome, BLIPS) sowie familiäre Belastung und Funktionsniveau.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Frühphase: Problem",
+      "question": "Was ist ein zentrales Problem der Frühphase (Früherkennung) schizophrener Psychosen?",
+      "options": [
+        "Die grundsätzliche Unmöglichkeit, Risikopersonen überhaupt zu identifizieren.",
+        "Die häufig fehlende Einsicht der Betroffenen in die beginnende Erkrankung.",
+        "Die stets vollständig erhaltene Einsicht, die eine frühe Behandlung leicht macht.",
+        "Das ausschließliche Auftreten schwerer Positivsymptome bereits im Vorfeld.",
+        "Das vollständige Fehlen jeglicher Vorzeichen bis zur ersten akuten Episode."
+      ],
+      "answer": 1,
+      "explanation": "Ein Kernproblem der Frühphase ist die fehlende Einsicht (z. B. am FETZ Köln beschrieben). Eine voll erhaltene Einsicht, ausschließlich schwere Positivsymptome, das völlige Fehlen von Vorzeichen oder eine grundsätzliche Nicht-Identifizierbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Frühwarnzeichen",
+      "question": "Was gilt für die Frühwarnzeichen einer beginnenden Schizophrenie?",
+      "options": [
+        "Sie treten definitionsgemäß erst nach der ersten psychotischen Episode auf.",
+        "Sie sind überwiegend unspezifisch (z. B. Konzentration, Schlaf, Rückzug).",
+        "Sie sind hochspezifisch und erlauben schon isoliert eine sichere Diagnosestellung.",
+        "Sie sind bei allen Betroffenen identisch und verlaufen stets gleichförmig.",
+        "Sie bestehen ausschließlich aus voll ausgeprägtem Wahn und Halluzinationen."
+      ],
+      "answer": 1,
+      "explanation": "Frühwarnzeichen sind überwiegend unspezifisch (Konzentrations-/Schlafstörungen, Leistungsabfall, innere Unruhe, Rückzug, Misstrauen u. v. m.). Sie sind gerade nicht hochspezifisch, bestehen nicht aus voll ausgeprägter Positivsymptomatik, treten vor der Episode auf und sind interindividuell verschieden.",
+      "hard": true,
+      "trap": "Frühwarnzeichen sind unspezifisch – aus ihnen allein lässt sich keine Diagnose stellen."
+    },
+    {
+      "topic": "Prodrom vs. Risikozustand",
+      "question": "Warum wird der Begriff des Prodroms zunehmend durch „Risikozustand für eine schizophrene Psychose\" ersetzt?",
+      "options": [
+        "Weil alle als Risiko eingestuften Personen mit Sicherheit später erkranken werden.",
+        "Weil der Begriff Prodrom ausschließlich für rein körperliche Erkrankungen reserviert ist.",
+        "Weil ein Risikozustand im Unterschied zum Prodrom grundsätzlich nicht behandelt werden darf.",
+        "Weil ein Prodrom per Definition immer und ausnahmslos in eine manifeste Psychose übergeht.",
+        "Weil anhand der Prodromalkriterien nur etwa 30 % übergehen und damit rund 70 % falsch positiv bleiben."
+      ],
+      "answer": 4,
+      "explanation": "Da anhand der Prodromalkriterien nur ca. 30 % tatsächlich übergehen (ca. 70 % falsch Positive), ist die rückblickend gedachte Bezeichnung „Prodrom\" irreführend; man spricht daher vom Risikozustand. Ein zwingender Übergang, eine rein somatische Verwendung, ein Behandlungsverbot oder eine sichere Erkrankung treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Übergangsrate",
+      "question": "Wie hoch ist die anhand der Prodromalkriterien identifizierte Übergangsrate in eine Psychose (Zeitraum 1–6 Jahre)?",
+      "options": [
+        "Nahezu 100 %, da die Kriterien einen Übergang sicher vorhersagen.",
+        "Genau 50 %, unabhängig vom betrachteten Zeitraum.",
+        "Etwa 30 % (entsprechend rund 70 % falsch Positiven).",
+        "0 %, da ein Übergang aus dem Risikozustand nie beobachtet wird.",
+        "Etwa 5 %, sodass die Früherkennung praktisch bedeutungslos ist."
+      ],
+      "answer": 2,
+      "explanation": "Durchschnittlich gehen etwa 30 % innerhalb von 1–6 Jahren über, entsprechend rund 70 % falsch Positiven. Werte nahe 100 %, 5 %, 50 % oder 0 % geben die Datenlage nicht wieder.",
+      "trap": "Die Übergangsrate liegt bei ~30 %, nicht nahe 100 % – die Mehrheit erkrankt gerade nicht."
+    },
+    {
+      "topic": "Basissymptome",
+      "question": "Was kennzeichnet die Basissymptome (psychoseferne Risikosymptome nach Klosterkötter)?",
+      "options": [
+        "Frühe, subjektiv störende kognitive Symptome, die dem Betroffenen selbst auffallen.",
+        "Erst nach mehreren Episoden auftretende, chronisch persistierende Residualsymptome.",
+        "Rein affektive Symptome ohne jeden kognitiven oder wahrnehmungsbezogenen Anteil.",
+        "Voll ausgeprägte, für Außenstehende offensichtliche psychotische Positivsymptome.",
+        "Ausschließlich motorische Symptome im Sinne katatoner Bewegungsstörungen."
+      ],
+      "answer": 0,
+      "explanation": "Basissymptome sind frühe, subjektiv störende kognitive Symptome, die die Person selbst bemerkt (z. B. Gedankeninterferenz, Gedankenblockierung). Sie sind nicht voll ausgeprägt psychotisch, nicht rein motorisch, keine Residualsymptome und nicht rein affektiv.",
+      "hard": true
+    },
+    {
+      "topic": "Basissymptome: Substrat",
+      "question": "Was gilt für die Basissymptome im Rahmen der Früherkennung von Schizophrenien?",
+      "options": [
+        "Sie stehen für die Kernsymptomatik im Verlauf, also insbesondere den Realitätsverlust.",
+        "Basissymptome sind das Spektrum, das nach abgelaufenen Episoden dauerhaft persistiert.",
+        "Alle genannten Aussagen zu den Basissymptomen sind gleichermaßen richtig.",
+        "Basissymptomatik meint die individuelle Basis der Entwicklung (individuelles Prodrom).",
+        "Es sind früh auftretende Symptome, die möglicherweise das biologische Substrat spiegeln."
+      ],
+      "answer": 4,
+      "explanation": "Basissymptome sind früh auftretende, subjektiv erlebte Symptome, die vermutlich das biologische Substrat der Psychose spiegeln (formales Denken, Wahrnehmung, Neurokognition). Der Realitätsverlust, das individuelle Prodrom, das Residualspektrum und die Sammeloption treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Basissymptome: Beispiele",
+      "question": "Welches Phänomen ist ein typisches Beispiel für ein psychosefernes Basissymptom?",
+      "options": [
+        "Eine kommentierende akustische Halluzination im Sinne einer Stimme.",
+        "Eine dissoziative Amnesie für einen ganzen Lebensabschnitt.",
+        "Ein voll ausgestalteter, systematisierter Verfolgungswahn mit fester Überzeugung.",
+        "Gedankeninterferenz bzw. Gedankenblockierung, die den Betroffenen selbst stört.",
+        "Ein katatoner Stupor mit wächserner Biegsamkeit und Mutismus."
+      ],
+      "answer": 3,
+      "explanation": "Zu den Basissymptomen zählen u. a. Gedankeninterferenz, Gedankendrängen/-jagen und Gedankenblockierung – subjektiv störende, subtile kognitive Symptome. Ausgestalteter Wahn, Stimmen, Stupor und dissoziative Amnesie sind keine Basissymptome."
+    },
+    {
+      "topic": "Basissymptome: weitere",
+      "question": "Welche der folgenden Auffälligkeiten zählt ebenfalls zu den Basissymptomen?",
+      "options": [
+        "Eine Störung der Diskrimination von Vorstellungen und Wahrnehmungen.",
+        "Ein deutlicher Antriebsverlust im Sinne einer chronischen Negativsymptomatik.",
+        "Ein voll ausgeprägter bizarrer Wahn mit fester, unkorrigierbarer Überzeugung.",
+        "Eine vollständige Depersonalisation mit dauerhaftem Identitätsverlust.",
+        "Eine ausgeprägte katatone Erregung mit Bewegungsstereotypien."
+      ],
+      "answer": 0,
+      "explanation": "Zu den Basissymptomen gehört u. a. die Störung der Diskrimination von Vorstellungen und Wahrnehmungen sowie eine Störung der rezeptiven Sprache. Ausgeprägter Wahn, chronische Negativsymptomatik, katatone Erregung und vollständige Depersonalisation sind keine Basissymptome."
+    },
+    {
+      "topic": "Basissymptome: Eigenbeziehung",
+      "question": "Was bezeichnen die „Eigenbeziehungstendenzen (Subjektzentrismus)\" als psychosefernes Risikosymptom?",
+      "options": [
+        "Einen vollständigen Verlust der Ich-Umwelt-Grenze im Sinne der Ich-Demarkation.",
+        "Eine dauerhafte, chronische Negativsymptomatik mit sozialem Rückzug.",
+        "Ein rein motorisches katatones Phänomen im Sinne von Manierismen.",
+        "Eine noch abgeschwächte Tendenz, Ereignisse verstärkt auf sich selbst zu beziehen.",
+        "Einen bereits voll ausgeprägten, systematisierten Beziehungswahn mit fester Gewissheit."
+      ],
+      "answer": 3,
+      "explanation": "Eigenbeziehungstendenzen (Subjektzentrismus) sind eine noch abgeschwächte, subjektiv wahrgenommene Tendenz, Dinge auf sich zu beziehen – ein psychosefernes Basissymptom, nicht ein voll ausgeprägter Beziehungswahn. Negativsymptomatik, Manierismen und ein vollständiger Grenzverlust treffen nicht zu."
+    },
+    {
+      "topic": "Psychosenahe Symptome",
+      "question": "Was kennzeichnet die psychosenahen Risikosymptome?",
+      "options": [
+        "Voll ausgeprägte, chronisch persistierende psychotische Symptome über Jahre.",
+        "Rein körperliche, vegetative Beschwerden ohne jeden psychischen Anteil.",
+        "Attenuierte psychotische Symptome sowie kurze Episoden (BLIPS).",
+        "Ausschließlich subjektiv störende, rein kognitive Basissymptome ganz ohne Psychosebezug.",
+        "Ausschließlich katatone psychomotorische Symptome wie Stupor und Katalepsie."
+      ],
+      "answer": 2,
+      "explanation": "Psychosenahe Risikosymptome sind attenuierte (abgeschwächte) psychotische Symptome sowie BLIPS (kurze, vorübergehende psychotische Episoden). Basissymptome sind psychosefern; voll ausgeprägte chronische, rein vegetative oder rein katatone Symptome treffen nicht zu."
+    },
+    {
+      "topic": "Attenuierte Symptome",
+      "question": "Welches Phänomen zählt zu den attenuierten (abgeschwächten) psychotischen Symptomen?",
+      "options": [
+        "Eine dauerhafte, ausgeprägte Negativsymptomatik mit vollständigem Rückzug.",
+        "Ein katatoner Stupor mit Fieber und schwerer vegetativer Entgleisung.",
+        "Anhaltende kommentierende und dialogische Stimmen über viele Monate hinweg.",
+        "Ein voll ausgestalteter, systematisierter Wahn mit fester, unkorrigierbarer Gewissheit.",
+        "Beziehungsideen und magisches Denken sowie ungewöhnliche Wahrnehmungserlebnisse."
+      ],
+      "answer": 4,
+      "explanation": "Attenuierte psychotische Symptome sind abgeschwächte Formen: Beziehungsideen, magisches Denken, ungewöhnliche Wahrnehmungserlebnisse, eigenartige Sprech-/Denkweise, paranoide Ideen. Voll ausgestalteter Wahn, anhaltende Stimmen, perniziöse Katatonie und chronische Negativsymptomatik gehören nicht dazu."
+    },
+    {
+      "topic": "BLIPS",
+      "question": "Was kennzeichnet die sogenannten BLIPS (brief limited intermittent psychotic symptoms)?",
+      "options": [
+        "Chronisch persistierende psychotische Symptome ohne jede Rückbildung.",
+        "Ausschließlich katatone Bewegungsstörungen über einen kurzen Zeitraum.",
+        "Vorübergehende psychotische Symptome mit spontaner Remission.",
+        "Eine dauerhafte affektive Verstimmung ohne psychotische Komponente.",
+        "Rein kognitive Basissymptome ganz ohne psychotischen Charakter."
+      ],
+      "answer": 2,
+      "explanation": "BLIPS sind kurze, vorübergehende psychotische Symptome, die spontan wieder remittieren (psychosenahes Risikosymptom). Chronische psychotische Symptome, rein kognitive Basissymptome, rein katatone oder rein affektive Bilder treffen nicht zu."
+    },
+    {
+      "topic": "Familiäre Belastung",
+      "question": "Welcher Faktor zählt (neben den Symptomen) zu den Risikokriterien der Früherkennung?",
+      "options": [
+        "Ein hoher sozioökonomischer Status der Herkunftsfamilie als schützender Faktor.",
+        "Ein vollständiges Fehlen jeglicher psychischer Erkrankungen in der Familie.",
+        "Eine ausschließlich in der Kindheit aufgetretene, folgenlose Angststörung.",
+        "Eine bereits gesicherte Diagnose einer manifesten Schizophrenie beim Betroffenen.",
+        "Eine familiäre Belastung durch einen Verwandten ersten Grades oder eine schizotype Störung."
+      ],
+      "answer": 4,
+      "explanation": "Zu den Risikokriterien zählt die familiäre/biologische Belastung durch einen erstgradig Verwandten mit Psychose oder eine schizotype (Persönlichkeits-)Störung. Ein schützender Status, fehlende Familienbelastung, eine folgenlose Kinderangst oder eine bereits gesicherte Diagnose sind keine Risiko-Kriterien der Früherkennung."
+    },
+    {
+      "topic": "Funktionsniveau",
+      "question": "Welche Größe wird in der Früherkennung neben Symptomen und Risikofaktoren herangezogen?",
+      "options": [
+        "Ausschließlich die Höhe der allgemeinen Intelligenz der betroffenen Person.",
+        "Ausschließlich die genaue Zahl der Dopaminrezeptoren im Gehirn.",
+        "Das Funktionsniveau (z. B. erfasst über die GAF).",
+        "Allein das Körpergewicht und der Body-Mass-Index der Person.",
+        "Nur die Zahl der bereits durchlebten manifesten psychotischen Episoden."
+      ],
+      "answer": 2,
+      "explanation": "Neben Symptomen und Risikofaktoren werden Funktionseinbußen (z. B. über die GAF) berücksichtigt. Intelligenz, Körpergewicht, Episodenzahl (im Risikozustand gibt es noch keine) oder Rezeptorzahlen sind hier nicht die maßgeblichen Größen."
+    },
+    {
+      "topic": "Psychosefern vs. psychosenah",
+      "question": "Was trifft auf die Unterscheidung von psychosefernen und psychosenahen Risikosymptomen am ehesten NICHT zu?",
+      "options": [
+        "Psychoseferne Symptome sind v. a. subjektiv störende kognitive Basissymptome.",
+        "Psychosenahe Symptome umfassen attenuierte psychotische Symptome und BLIPS.",
+        "Beide Gruppen dienen der Einschätzung eines Risikozustands, nicht einer sicheren Diagnose.",
+        "Beide Gruppen bezeichnen dasselbe und werden ohne inhaltlichen Unterschied verwendet.",
+        "Psychosenahe Symptome liegen näher an der manifesten Psychose als die psychosefernen."
+      ],
+      "answer": 3,
+      "explanation": "Psychoseferne (Basissymptome) und psychosenahe Risikosymptome (attenuierte Symptome, BLIPS) sind gerade nicht dasselbe – die erste Aussage ist falsch. Die übrigen Aussagen treffen zu."
+    },
+    {
+      "topic": "Fremdartige Wahrnehmungen",
+      "question": "Ein Frühwarnzeichen ist die Angabe, „manchmal Dinge zu sehen, hören, schmecken oder riechen, die andere nicht bemerken\". Wie ist das einzuordnen?",
+      "options": [
+        "Als rein vegetatives Begleitsymptom ohne jede Wahrnehmungskomponente.",
+        "Als bereits gesicherte, voll ausgeprägte Halluzination mit aufgehobenem Realitätsbezug.",
+        "Als noch nicht voll ausgeprägte, fremdartige Wahrnehmungsveränderung im Risikozustand.",
+        "Als katatones psychomotorisches Symptom im Sinne einer wächsernen Biegsamkeit.",
+        "Als chronisches Residualsymptom nach mehreren durchlebten Episoden."
+      ],
+      "answer": 2,
+      "explanation": "Solche fremdartigen Wahrnehmungsveränderungen sind ein unspezifisches Frühwarnzeichen bzw. attenuiertes Symptom im Risikozustand, noch nicht eine voll ausgeprägte Halluzination. Katatone, Residual- oder rein vegetative Deutungen passen nicht."
+    },
+    {
+      "topic": "Beeinflussungserleben",
+      "question": "Zu den Frühwarnzeichen zählt auch ein beginnendes Beeinflussungserleben. Was ist damit gemeint?",
+      "options": [
+        "Ein voll ausgeprägtes, systematisiertes Wahnsystem mit fester Gewissheit.",
+        "Eine katatone Bewegungsstörung mit stereotypen Körperhaltungen.",
+        "Ein reiner Gedächtnisausfall für einen umgrenzten Lebensabschnitt.",
+        "Eine ausschließlich körperliche Missempfindung ohne psychischen Anteil.",
+        "Das noch abgeschwächte Gefühl, von anderen kontrolliert oder gesteuert zu werden."
+      ],
+      "answer": 4,
+      "explanation": "Das beginnende Beeinflussungserleben (das Gefühl, kontrolliert/gesteuert zu werden) ist ein Frühwarnzeichen bzw. attenuiertes Symptom, noch nicht ein voll ausgebautes Wahnsystem. Katatonie, Amnesie und rein körperliche Missempfindung treffen nicht zu."
+    },
+    {
+      "topic": "Quelle",
+      "question": "Auf welche Autoren geht die in der Vorlesung genutzte Einteilung in psychoseferne und psychosenahe Risikosymptome zurück?",
+      "options": [
+        "Klosterkötter et al. (2014).",
+        "Conrad im Rahmen seiner Arbeit zur beginnenden Schizophrenie.",
+        "Schneider im Rahmen der Erst- und Zweitrangsymptome.",
+        "Scharfetter im Rahmen der Allgemeinen Psychopathologie.",
+        "Kraepelin und Bleuler im Rahmen der historischen Konzeptbildung."
+      ],
+      "answer": 0,
+      "explanation": "Die Einteilung in psychoseferne und psychosenahe Risikosymptome geht auf Klosterkötter et al. (2014) zurück. Kraepelin/Bleuler stehen für die historischen Konzepte, Conrad für Trema/Überstieg, Scharfetter für die Ich-Pathologie, Schneider für die Rangsymptome."
+    },
+    {
+      "topic": "Ziel der Früherkennung",
+      "question": "Was ist das übergeordnete Ziel der Früherkennung schizophrener Psychosen?",
+      "options": [
+        "Alle als Risiko eingestuften Personen unabhängig vom Verlauf dauerhaft zu hospitalisieren.",
+        "Frühwarnzeichen grundsätzlich unbehandelt zu lassen und nur zu beobachten.",
+        "Ausschließlich die genetische Ursache jeder einzelnen Erkrankung sicher aufzuklären.",
+        "Risikopersonen möglichst früh identifizieren, um den Übergang günstig zu beeinflussen.",
+        "Die Diagnose Schizophrenie bereits im Risikozustand endgültig und sicher zu stellen."
+      ],
+      "answer": 3,
+      "explanation": "Ziel ist die frühe Identifikation von Risikopersonen, um Verlauf und Übergang günstig zu beeinflussen. Eine sichere Ursachenaufklärung im Einzelfall, pauschale Hospitalisierung, eine sichere Frühdiagnose oder bewusstes Nicht-Behandeln sind nicht das Ziel."
+    },
+    {
+      "topic": "Anwendung: Basissymptom",
+      "question": "Ein 19-Jähriger berichtet, seine Gedanken würden sich ihm manchmal aufdrängen und dann plötzlich blockieren; das störe ihn stark, Außenstehenden falle nichts auf. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als bereits manifeste Schizophrenie mit voll ausgeprägter Positivsymptomatik.",
+        "Als attenuiertes psychotisches Symptom mit Beziehungsideen und magischem Denken.",
+        "Als psychosefernes Basissymptom (subjektiv störende kognitive Symptomatik).",
+        "Als psychosenahes BLIPS mit kurzer psychotischer Episode und spontaner Remission.",
+        "Als katatones psychomotorisches Symptom im Sinne eines Negativismus."
+      ],
+      "answer": 2,
+      "explanation": "Subjektiv störende, für andere nicht sichtbare kognitive Symptome (Gedankendrängen, -blockierung) sind psychoseferne Basissymptome. Eine manifeste Schizophrenie, BLIPS (kurze psychotische Episode), attenuierte Symptome und Katatonie beschreiben etwas anderes.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: BLIPS",
+      "question": "Eine junge Frau hatte über zwei Tage eindeutig psychotische Symptome, die dann von selbst wieder vollständig verschwanden. Welche Kategorie passt am ehesten?",
+      "options": [
+        "Ein bloßes unspezifisches Frühwarnzeichen ohne psychotischen Charakter.",
+        "BLIPS (brief limited intermittent psychotic symptoms).",
+        "Ein psychosefernes Basissymptom rein kognitiver Art.",
+        "Eine chronisch manifeste Schizophrenie mit Residuum.",
+        "Eine katatone Episode mit Stupor und wächserner Biegsamkeit."
+      ],
+      "answer": 1,
+      "explanation": "Kurze, vorübergehende psychotische Symptome mit spontaner Remission sind BLIPS (psychosenah). Basissymptome sind rein kognitiv-subjektiv, eine chronische Schizophrenie remittiert nicht spontan, ein unspezifisches Frühwarnzeichen wäre nicht eindeutig psychotisch, und Katatonie ist psychomotorisch.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: attenuierte Symptome",
+      "question": "Ein Patient äußert abgeschwächte Beziehungsideen und ein ungewöhnliches magisches Denken, ist aber im Alltag von einem Wahn klar korrigierbar abzugrenzen. Welche Kategorie passt?",
+      "options": [
+        "Attenuierte (psychosenahe) psychotische Symptome.",
+        "Ein kurzes BLIPS mit spontaner vollständiger Remission.",
+        "Ein katatones Symptom mit stereotypen Bewegungen.",
+        "Ein rein kognitives psychosefernes Basissymptom.",
+        "Ein voll ausgestalteter, unkorrigierbarer Beziehungswahn."
+      ],
+      "answer": 0,
+      "explanation": "Abgeschwächte Beziehungsideen und magisches Denken sind attenuierte (psychosenahe) Symptome. Ein voll ausgestalteter Wahn wäre unkorrigierbar, Basissymptome sind rein kognitiv, BLIPS wären kurze echte Episoden, Katatonie ist psychomotorisch.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Risikozustand",
+      "question": "Ein 20-Jähriger mit erstgradig an Schizophrenie erkranktem Bruder zeigt einen deutlichen Funktions- und Leistungsabfall sowie abgeschwächte paranoide Ideen. Wie ist das am ehesten zu bewerten?",
+      "options": [
+        "Als vollständig unauffälliger Normalbefund ohne jedes erhöhte Risiko.",
+        "Als Risikozustand (familiäre Belastung plus Symptome und Funktionsabfall).",
+        "Als katatone Schizophrenie mit im Vordergrund stehender Psychomotorik.",
+        "Als bereits gesicherte, manifeste Schizophrenie mit voll ausgeprägter Positivsymptomatik.",
+        "Als rein affektive Störung ganz ohne Bezug zur Psychose-Früherkennung."
+      ],
+      "answer": 1,
+      "explanation": "Familiäre Belastung (erstgradig Verwandter), Funktionsabfall und attenuierte Symptome ergeben zusammen einen Risikozustand. Eine gesicherte Schizophrenie liegt noch nicht vor, ein Normalbefund oder eine rein affektive bzw. katatone Deutung passen nicht.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Übergangsrate",
+      "question": "Ein Kollege schließt aus dem Risikozustand einer Patientin, sie werde mit Sicherheit an einer Schizophrenie erkranken. Wie ist das zu bewerten?",
+      "options": [
+        "Zutreffend, denn die Prodromalkriterien sagen den Übergang mit fast 100 % voraus.",
+        "Nicht bewertbar, da es zur Übergangsrate keinerlei Daten gibt.",
+        "Unzutreffend, weil aus einem Risikozustand nie eine Psychose entsteht.",
+        "Unzutreffend, denn nur etwa 30 % gehen über – die Mehrheit erkrankt gerade nicht.",
+        "Zutreffend, denn ein Risikozustand geht praktisch immer in eine Psychose über."
+      ],
+      "answer": 3,
+      "explanation": "Nur etwa 30 % gehen (in 1–6 Jahren) über, rund 70 % bleiben falsch positiv – eine sichere Vorhersage ist also nicht möglich. Ein Übergang von fast 100 %, fehlende Daten oder ein grundsätzlich ausgeschlossener Übergang treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Frühwarnzeichen: konkret",
+      "question": "Welche Auffälligkeit wird in der Vorlesung als Frühwarnzeichen genannt?",
+      "options": [
+        "Ein Residualsyndrom mit ausgeprägter Negativsymptomatik nach mehreren Episoden.",
+        "Ein katatoner Stupor mit wächserner Biegsamkeit und Mutismus.",
+        "Ein voll ausgestalteter, systematisierter Wahn mit fester, unkorrigierbarer Gewissheit.",
+        "Anhaltende kommentierende und dialogische Stimmen über viele Monate hinweg.",
+        "Zunehmender sozialer Rückzug und Misstrauen im Alltag."
+      ],
+      "answer": 4,
+      "explanation": "Zu den Frühwarnzeichen zählen u. a. sozialer Rückzug, Misstrauen und die Tendenz, alles auf sich zu beziehen. Ausgestalteter Wahn, anhaltende Stimmen, katatoner Stupor und ein Residualsyndrom sind bereits manifeste bzw. spätere Bilder, keine Frühwarnzeichen."
+    },
+    {
+      "topic": "Basissymptome: Gedankeninterferenz",
+      "question": "Was beschreibt die „Gedankeninterferenz\" als psychosefernes Basissymptom?",
+      "options": [
+        "Die feste, unkorrigierbare Überzeugung, dass fremde Gedanken von außen eingegeben werden.",
+        "Das subjektiv störende Dazwischentreten unzusammenhängender Gedanken in den Gedankengang.",
+        "Ein vollständiger Verlust der Erinnerung an die eigenen Gedankeninhalte.",
+        "Eine akustische Halluzination, bei der Gedanken laut von außen hörbar werden.",
+        "Ein katatoner Sperrungszustand mit völliger Bewegungslosigkeit."
+      ],
+      "answer": 1,
+      "explanation": "Gedankeninterferenz ist das subjektiv störende Dazwischentreten (interferierender) Gedanken – ein subtiles, kognitives Basissymptom. Die wahnhafte Gedankeneingebung, das Gedankenlautwerden, ein katatoner Zustand oder eine Amnesie sind etwas anderes.",
+      "trap": "Gedankeninterferenz ist ein subjektives Basissymptom, nicht die wahnhafte Gedankeneingebung (Ich-Störung)."
+    },
+    {
+      "topic": "Zuordnung",
+      "question": "Wie sind Basissymptome und attenuierte Symptome einander zuzuordnen?",
+      "options": [
+        "Beide bezeichnen bereits manifeste, voll ausgeprägte psychotische Symptome.",
+        "Beide sind gleichermaßen psychosenah und praktisch nicht unterscheidbar.",
+        "Beide sind gleichermaßen psychosefern und liegen weit von der Psychose entfernt.",
+        "Basissymptome sind psychosefern, attenuierte Symptome psychosenah.",
+        "Basissymptome sind psychosenah, attenuierte Symptome psychosefern."
+      ],
+      "answer": 3,
+      "explanation": "Basissymptome sind psychoseferne (kognitive, subjektive) Symptome, attenuierte Symptome sind psychosenahe (abgeschwächt psychotische) Symptome. Die vertauschte Zuordnung, eine Gleichsetzung oder die Deutung als manifest treffen nicht zu.",
+      "trap": "Basissymptome = psychosefern, attenuierte Symptome = psychosenah."
+    },
+    {
+      "topic": "Basissymptome: Wahrnehmung",
+      "question": "Welche Wahrnehmungsauffälligkeit zählt zu den psychosefernen Basissymptomen?",
+      "options": [
+        "Leichte optische und akustische Wahrnehmungsstörungen.",
+        "Voll ausgeprägte szenische optische Halluzinationen mit aufgehobenem Realitätsbezug.",
+        "Anhaltende imperative Stimmen mit Fremd- und Selbstgefährdung.",
+        "Eine dauerhafte Zönästhesie mit starkem Brennen am ganzen Körper.",
+        "Eine vollständige Derealisation mit dauerhaftem Verlust des Umweltbezugs."
+      ],
+      "answer": 0,
+      "explanation": "Zu den Basissymptomen zählen leichte optische und akustische Wahrnehmungsstörungen sowie eine Derealisation, die subjektiv auffallen – noch nicht voll ausgeprägte Halluzinationen. Voll ausgeprägte szenische Halluzinationen, imperative Stimmen und ausgeprägte Zönästhesien sind manifest."
+    },
+    {
+      "topic": "Attenuierte: magisches Denken",
+      "question": "Was ist mit „magischem Denken\" als attenuiertem psychosenahem Symptom gemeint?",
+      "options": [
+        "Eine abgeschwächte, noch nicht wahnhafte Neigung zu magisch-übersinnlichen Erklärungen.",
+        "Ein katatones Symptom mit stereotypen, ritualisierten Bewegungsabläufen.",
+        "Eine dissoziative Amnesie für magisch-religiöse Erlebnisinhalte.",
+        "Eine rein kognitive Gedankenblockierung ohne jeden inhaltlichen Bezug.",
+        "Eine feste, unkorrigierbare wahnhafte Überzeugung mit systematisiertem Wahngebäude."
+      ],
+      "answer": 0,
+      "explanation": "Magisches Denken als attenuiertes Symptom ist eine abgeschwächte, noch nicht wahnhafte Neigung zu magisch-übersinnlichen Deutungen (psychosenah). Ein systematisierter Wahn, eine Gedankenblockierung, ein katatones Symptom oder eine Amnesie treffen nicht zu."
+    },
+    {
+      "topic": "Risikozustand: Bewertung",
+      "question": "Was trifft auf den Risikozustand für eine schizophrene Psychose am ehesten NICHT zu?",
+      "options": [
+        "Er stützt sich auf psychoseferne und psychosenahe Risikosymptome sowie Risikofaktoren.",
+        "Er bedeutet eine bereits gesicherte Diagnose einer manifesten Schizophrenie.",
+        "Nur ein Teil der Betroffenen (etwa 30 %) geht tatsächlich in eine Psychose über.",
+        "Familiäre Belastung und Funktionsabfall können in die Einschätzung eingehen.",
+        "Er dient der frühen Identifikation, nicht der sicheren Diagnosestellung."
+      ],
+      "answer": 1,
+      "explanation": "Ein Risikozustand ist gerade keine gesicherte Diagnose einer manifesten Schizophrenie – die erste Aussage ist falsch. Die übrigen Aussagen (Risikosymptome/-faktoren, ~30 % Übergang, frühe Identifikation statt Diagnose, familiäre Belastung/Funktionsabfall) treffen zu.",
+      "hard": true
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "id": "kl-schizophrenie-aetiologie",
+  "title": "Schizophrenie: Ätiologie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Ätiologie der Schizophrenie im Altklausur-Stil: Vulnerabilitäts-Stress-Bewältigungs-Modell (inkl. Substanzen/Cannabis), Dopaminhypothese und dopaminerge Bahnen, weitere Transmitter, Genetik (Polygenie, GWAS, missing heritability), C4-Gen und Overpruning sowie Prädiktoren und Epigenetik.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Vulnerabilitäts-Stress-Modell",
+      "question": "Welche drei Komponenten fasst das Vulnerabilitäts-Stress-Bewältigungs-Modell der Schizophrenie zusammen?",
+      "options": [
+        "Prodromal-, Akut- und Residualphase als drei Verlaufsabschnitte der Erkrankung.",
+        "Ausschließlich genetische Faktoren ohne jeden Umwelt- oder Bewältigungsanteil.",
+        "Dopamin, Serotonin und Glutamat als die drei allein maßgeblichen Transmitter.",
+        "Individuelle Vulnerabilität, psychosoziale Stressoren und protektive Faktoren.",
+        "Positiv-, Negativ- und Desorganisationssymptomatik als drei Symptomdomänen."
+      ],
+      "answer": 3,
+      "explanation": "Das Modell verbindet individuelle Vulnerabilität, psychosoziale Stressoren und protektive (Bewältigungs-)Faktoren. Rein genetische Faktoren, Symptomdomänen, Verlaufsphasen und Transmitter sind nicht die drei Modellkomponenten."
+    },
+    {
+      "topic": "Vulnerabilität",
+      "question": "Was zählt zur individuellen Vulnerabilität im Vulnerabilitäts-Stress-Modell?",
+      "options": [
+        "Gute Problemlösefähigkeiten und eine hohe Behandlungs-Compliance.",
+        "Der aktuelle Konsum von Cannabis in einer konkreten Belastungsphase.",
+        "Genetische und biochemische Faktoren sowie Geburtstraumata.",
+        "Ein ungünstiges Familienklima mit hoch ausgeprägten Expressed Emotions.",
+        "Eine akute psychosoziale Belastungssituation kurz vor Krankheitsausbruch."
+      ],
+      "answer": 2,
+      "explanation": "Zur Vulnerabilität zählen genetische, biochemische Faktoren und Geburtstraumata. Ein High-Expressed-Emotion-Klima ist ein Stressor, Problemlösefähigkeit/Compliance sind protektiv, akute Belastung ist ein Stressor, und Cannabis wird eher als Stressor (oder Vulnerabilitätsfaktor) diskutiert."
+    },
+    {
+      "topic": "Stressoren",
+      "question": "Welcher Faktor ist ein typischer psychosozialer Stressor im Modell?",
+      "options": [
+        "Eine hohe Behandlungs-Compliance mit zuverlässiger Medikamenteneinnahme.",
+        "Eine genetisch bedingte, angeborene Anfälligkeit für psychotisches Erleben.",
+        "Ein biochemisch bedingtes Ungleichgewicht der Neurotransmitter im Gehirn.",
+        "Gute Problemlösefähigkeiten als schützende Ressource der Person.",
+        "Ein familiäres Klima mit hoch ausgeprägten Expressed Emotions (High EE)."
+      ],
+      "answer": 4,
+      "explanation": "Ein High-Expressed-Emotion-Klima (viel Kritik/Überengagement in der Familie) ist ein psychosozialer Stressor. Angeborene Anfälligkeit und biochemisches Ungleichgewicht sind Vulnerabilität, Problemlösefähigkeit und Compliance sind protektiv."
+    },
+    {
+      "topic": "Protektive Faktoren",
+      "question": "Was zählt im Modell zu den protektiven Faktoren?",
+      "options": [
+        "Problemlösefähigkeiten und eine gute Behandlungs-Compliance.",
+        "Eine ausgeprägte genetische Belastung durch erkrankte Verwandte.",
+        "Ein regelmäßiger, hoch dosierter Cannabiskonsum in der Adoleszenz.",
+        "Ein erlittenes Geburtstrauma mit frühkindlicher Hirnschädigung.",
+        "Ein familiäres Klima mit hohen Expressed Emotions und viel Kritik."
+      ],
+      "answer": 0,
+      "explanation": "Protektiv wirken u. a. Problemlösefähigkeiten und Compliance. Genetische Belastung und Geburtstrauma sind Vulnerabilität, ein High-EE-Klima und Cannabis sind Stressoren/Risikofaktoren."
+    },
+    {
+      "topic": "Substanzkonsum",
+      "question": "Wie wird der Substanzkonsum (insbesondere Cannabis) im erweiterten Modell diskutiert?",
+      "options": [
+        "Als vollständig irrelevant für Entstehung und Verlauf schizophrener Psychosen.",
+        "Ausschließlich als schützender (protektiver) Faktor gegen den Krankheitsausbruch.",
+        "Ausschließlich als Folge, aber nie als möglicher Auslöser der Erkrankung.",
+        "Als Faktor, der sowohl als Vulnerabilitätsfaktor als auch als Stressor wirken kann.",
+        "Als alleinige und hinreichende Ursache jeder schizophrenen Psychose."
+      ],
+      "answer": 3,
+      "explanation": "Substanzkonsum (v. a. Cannabis) wird als Vulnerabilitätsfaktor bzw. Stressor diskutiert und in das Modell integriert. Er ist nicht protektiv, nicht irrelevant, nicht bloße Folge und nicht die alleinige, hinreichende Ursache."
+    },
+    {
+      "topic": "Schwellenmodell",
+      "question": "Wie erklärt das (um Substanzen erweiterte) Vulnerabilitäts-Stress-Modell den Krankheitsausbruch?",
+      "options": [
+        "Ausschließlich akute Stressoren lösen unabhängig von der Vulnerabilität die Psychose aus.",
+        "Überschreiten Vulnerabilität, Stress und Drogen gemeinsam eine Schwelle, tritt eine Psychose auf.",
+        "Nur der Cannabiskonsum allein entscheidet über Ausbruch oder Nicht-Ausbruch.",
+        "Der Ausbruch erfolgt vollständig zufällig und unabhängig von Vulnerabilität und Stress.",
+        "Allein die genetische Vulnerabilität bestimmt vollständig und ausnahmslos den Ausbruch."
+      ],
+      "answer": 1,
+      "explanation": "Im Modell addieren sich Vulnerabilität, Stressoren und Drogen; überschreiten sie gemeinsam eine Schwelle, tritt eine Psychose auf. Weder Genetik noch Stress noch Cannabis allein und auch kein reiner Zufall erklären den Ausbruch."
+    },
+    {
+      "topic": "Vulnerabilitätsmarker",
+      "question": "Was gilt für identifizierte Vulnerabilitätsfaktoren (z. B. kognitive Einbußen, hirnmorphologische Auffälligkeiten)?",
+      "options": [
+        "Sie treten ausschließlich erst nach mehreren durchlebten psychotischen Episoden auf.",
+        "Sie finden sich teils schon vor der Erkrankung und auch bei nicht erkrankten Angehörigen.",
+        "Sie sind bei nicht erkrankten Angehörigen mit Sicherheit niemals nachweisbar.",
+        "Sie erklären den Krankheitsausbruch vollständig, sicher und ohne weitere Faktoren.",
+        "Sie sind für die Ätiologie der Schizophrenie ohne jede Bedeutung."
+      ],
+      "answer": 1,
+      "explanation": "Vulnerabilitätsfaktoren wie kognitive Einbußen und hirnmorphologische Auffälligkeiten finden sich teils bereits im Vorfeld und auch bei nicht erkrankten Angehörigen. Sie treten nicht erst nach Episoden auf, sind bei Angehörigen sehr wohl zu finden, erklären den Ausbruch nicht allein und sind bedeutsam."
+    },
+    {
+      "topic": "Gemeinsame Endstrecke",
+      "question": "Wie lässt sich die hohe Variabilität der schizophrenen Symptomatik ätiologisch erklären?",
+      "options": [
+        "Allein der Cannabiskonsum bestimmt die konkrete Ausprägung der Symptomatik.",
+        "Die Symptomatik ist in Wahrheit bei allen Betroffenen völlig identisch ausgeprägt.",
+        "Es gibt exakt eine einzige, klar identifizierte Ursache für alle Fälle gleichermaßen.",
+        "Verschiedene biologische Faktoren wirken als gemeinsame Endstrecke.",
+        "Die Variabilität beweist, dass es sich um rein zufällige, ursachenlose Phänomene handelt."
+      ],
+      "answer": 3,
+      "explanation": "Unterschiedliche biologische Faktoren könnten in ihrer Entwicklung als gemeinsame Endstrecke psychotische Symptomatik hervorrufen – das erklärt die hohe Variabilität. Eine einzige Ursache, identische Symptomatik, Ursachenlosigkeit oder ein alleiniger Cannabis-Einfluss treffen nicht zu."
+    },
+    {
+      "topic": "Dopaminhypothese: Bewertung",
+      "question": "Wie ist die Dopaminhypothese der Schizophrenie zu bewerten?",
+      "options": [
+        "Sie erklärt die Schizophrenie vollständig und ohne jede Einschränkung.",
+        "Alle genannten Bewertungen der Dopaminhypothese sind gleichermaßen zutreffend.",
+        "Sie besagt, dass ausschließlich ein Dopaminmangel ursächlich ist.",
+        "Sie ist vollständig widerlegt und heute ohne jede Bedeutung.",
+        "Sie ist hilfreich, aber nicht erschöpfend."
+      ],
+      "answer": 4,
+      "explanation": "Die Dopaminhypothese ist hilfreich, aber nicht erschöpfend (z. B. wirkt das potente Clozapin wenig dopaminerg; andere Transmitter sind beteiligt). Sie erklärt nicht alles, ist nicht widerlegt, postuliert keinen reinen Mangel, und die Sammeloption ist unzutreffend."
+    },
+    {
+      "topic": "Dopaminhypothese: Verteilung",
+      "question": "Welche dopaminerge Dysfunktion nimmt die Dopaminhypothese an?",
+      "options": [
+        "Überschuss mesolimbisch (Positivsymptome), Mangel präfrontal (Minussymptome).",
+        "Eine Dopaminfunktion, die für die Symptomatik völlig ohne Bedeutung ist.",
+        "Einen gleichmäßigen Dopaminüberschuss im gesamten Gehirn ohne regionale Unterschiede.",
+        "Einen vollständigen Ausfall der Dopaminproduktion im gesamten Nervensystem.",
+        "Mangel in mesolimbischen Arealen und Überschuss präfrontal mit gehobener Stimmung."
+      ],
+      "answer": 0,
+      "explanation": "Angenommen wird ein Dopaminüberschuss in mesolimbischen Arealen (Positivsymptome) und ein Mangel in präfrontalen Regionen (kognitive/Minussymptome). Die umgekehrte Verteilung, ein gleichmäßiger Überschuss, ein vollständiger Ausfall oder Bedeutungslosigkeit treffen nicht zu.",
+      "hard": true,
+      "trap": "Mesolimbisch Überschuss = Positivsymptome, präfrontal Mangel = Negativ-/kognitive Symptome – nicht vertauschen."
+    },
+    {
+      "topic": "Dopamin: Clozapin",
+      "question": "Warum gilt die Dopaminhypothese als nicht erschöpfend – welches Argument wird genannt?",
+      "options": [
+        "Es existiert überhaupt kein Antipsychotikum, das Dopaminrezeptoren beeinflusst.",
+        "Das sehr potente Antipsychotikum Clozapin wirkt nur gering dopaminerg.",
+        "Die Positivsymptome sprechen grundsätzlich auf kein Antipsychotikum an.",
+        "Dopamin kommt im menschlichen Gehirn nachweislich gar nicht vor.",
+        "Alle wirksamen Antipsychotika wirken ausschließlich und ausnahmslos über Dopamin."
+      ],
+      "answer": 1,
+      "explanation": "Ein Argument gegen die alleinige Dopaminhypothese ist, dass das sehr potente Clozapin nur geringe Affinität zu Dopaminrezeptoren hat (ebenso neuere Atypika wie Ziprasidon/Aripiprazol). Die anderen Aussagen sind sachlich falsch."
+    },
+    {
+      "topic": "Kandidaten-Transmitter",
+      "question": "Welche weiteren Transmittersysteme werden neben Dopamin an der Schizophrenie beteiligt gesehen?",
+      "options": [
+        "Nur das cholinerge System, das die gesamte Symptomatik allein erklärt.",
+        "Glutamaterge und GABAerge Systeme sowie Serotonin.",
+        "Ausschließlich Adrenalin und Noradrenalin ohne Beteiligung anderer Systeme.",
+        "Keinerlei Transmittersysteme, da die Symptomatik rein psychosozial bedingt ist.",
+        "Ausschließlich das Dopaminsystem, alle anderen Transmitter sind ohne Beteiligung."
+      ],
+      "answer": 1,
+      "explanation": "Neben Dopamin werden glutamaterge, GABAerge und serotonerge Systeme beteiligt gesehen (Modellpsychosen mit LSD, Ketamin). Eine Beschränkung auf Dopamin allein, auf cholinerge oder adrenerge Systeme oder ein rein psychosozialer Ansatz treffen nicht zu."
+    },
+    {
+      "topic": "Transmitter: Interaktion",
+      "question": "Warum ist die isolierte Betrachtung einzelner Transmittersysteme bei der Schizophrenie schwierig?",
+      "options": [
+        "Wegen ausgeprägter Interaktionseffekte im Rahmen der Netzwerkstruktur des Gehirns.",
+        "Weil sich die Systeme experimentell grundsätzlich nicht untersuchen lassen.",
+        "Weil Transmitter für die Symptomatik der Schizophrenie ohne jede Bedeutung sind.",
+        "Weil nur ein einziges Transmittersystem überhaupt am Gehirn beteiligt ist.",
+        "Weil die Transmittersysteme im Gehirn vollständig voneinander isoliert arbeiten."
+      ],
+      "answer": 0,
+      "explanation": "Die Systeme interagieren stark (Netzwerkstruktur des Gehirns), weshalb eine differenzielle Einzelbetrachtung schwierig ist. Vollständige Isolation, ein einziges System, Bedeutungslosigkeit oder generelle Unerforschbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Dopaminerge Bahnen",
+      "question": "Welche Zuordnung dopaminerger Bahnen zur Symptomatik ist korrekt?",
+      "options": [
+        "Nur die nigrostriatale Bahn bestimmt die gesamte psychotische Symptomatik allein.",
+        "Mesolimbische Hypoaktivität → Positivsymptome; mesokortikale Hyperaktivität → Negativsymptome.",
+        "Mesolimbische Hyperaktivität → Positivsymptome; mesokortikale Hypoaktivität → Negativsymptome.",
+        "Alle dopaminergen Bahnen wirken exakt gleich und lassen sich nicht unterscheiden.",
+        "Beide Bahnen sind für die Symptomatik der Schizophrenie völlig bedeutungslos."
+      ],
+      "answer": 2,
+      "explanation": "Eine mesolimbische Hyperaktivität wird mit Positivsymptomen, eine mesokortikale Hypoaktivität mit Negativsymptomen verbunden. Die umgekehrte Zuordnung, Bedeutungslosigkeit, eine alleinige nigrostriatale Erklärung oder Ununterscheidbarkeit treffen nicht zu.",
+      "hard": true,
+      "trap": "Mesolimbisch hyperaktiv = Positiv, mesokortikal hypoaktiv = Negativ."
+    },
+    {
+      "topic": "Dopamin: Blockade",
+      "question": "Was ist eine Folge der Blockade dopaminerger Rezeptoren (z. B. in der nigrostriatalen oder hypophysären Bahn)?",
+      "options": [
+        "Regionaler Dopaminmangel mit Nebenwirkungen (extrapyramidal, Prolaktin).",
+        "Keinerlei Wirkung, da Dopaminrezeptoren pharmakologisch nicht beeinflussbar sind.",
+        "Ein regionaler Dopaminüberschuss mit gesteigerter Bewegungsfreude.",
+        "Eine vollständige Heilung der Erkrankung ganz ohne jegliche Nebenwirkungen.",
+        "Eine ausschließliche Wirkung auf das Serotoninsystem ohne Dopaminbezug."
+      ],
+      "answer": 0,
+      "explanation": "Eine Dopamin-Rezeptor-Blockade führt zu regionalem Dopaminmangel und Nebenwirkungen (extrapyramidal-motorisch im nigrostriatalen System; Prolaktinanstieg, da Dopamin die Prolaktinfreisetzung hemmt). Vollständige Nebenwirkungsfreiheit, ein Überschuss, reine Serotoninwirkung oder Unbeeinflussbarkeit treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Genetik: Polygenie",
+      "question": "Was gilt für die genetische Grundlage der Schizophrenie?",
+      "options": [
+        "Die Schizophrenie ist nachweislich rein umweltbedingt und nicht erblich.",
+        "Ein einzelnes Hauptgen erklärt praktisch die gesamte Erblichkeit der Störung.",
+        "Genetische Faktoren spielen bei der Schizophrenie überhaupt keine Rolle.",
+        "Ein polygenetisches Modell: viele Gene, jedes mit geringem Beitrag zur Gesamtvarianz.",
+        "Alle genannten Aussagen zur Genetik der Schizophrenie sind gleichermaßen richtig."
+      ],
+      "answer": 3,
+      "explanation": "Die Schizophrenie folgt einem polygenetischen Modell: viele (vermutlich hunderte) Gene, jedes mit geringem Beitrag (einstelliger Prozentbereich). Ein Hauptgen, reine Umweltbedingtheit, fehlende genetische Rolle oder die Sammeloption treffen nicht zu."
+    },
+    {
+      "topic": "Genetik: missing heritability",
+      "question": "Was beschreibt das Problem der „missing heritability\" bei der Schizophrenie?",
+      "options": [
+        "Die Erblichkeit ist so gering, dass sie in Studien gar nicht messbar ist.",
+        "Bekannte Gene erklären weit weniger Varianz als die hohe Erblichkeit erwarten lässt.",
+        "Die Schizophrenie ist trotz Zwillingsstudien nachweislich überhaupt nicht erblich.",
+        "Umweltfaktoren spielen bei der Entstehung der Schizophrenie keinerlei Rolle.",
+        "Ein einziges Gen erklärt die gesamte Erblichkeit vollständig und lückenlos."
+      ],
+      "answer": 1,
+      "explanation": "„Missing heritability\" meint, dass die identifizierten Gene zusammen deutlich weniger Varianz erklären, als die (hohe) Erblichkeit vermuten lässt. Fehlende Erblichkeit, ein alleinerklärendes Gen, Nicht-Messbarkeit oder ein fehlender Umwelteinfluss treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "C4-Gen",
+      "question": "Welche Funktion hat das mit Schizophrenie assoziierte C4-Gen physiologisch?",
+      "options": [
+        "Es bestimmt allein und vollständig den Ausbruch jeder schizophrenen Psychose.",
+        "Es ist ausschließlich für die Produktion von Serotonin im Gehirn zuständig.",
+        "Es hat mit dem Immunsystem und mit synaptischen Prozessen nichts zu tun.",
+        "Es kodiert direkt den einzigen ursächlichen Dopaminrezeptor der Positivsymptomatik.",
+        "Es steuert eine Immunreaktion und initiiert den Pruning-Prozess in der Adoleszenz."
+      ],
+      "answer": 4,
+      "explanation": "Das C4-Gen ist an der Immunreaktion beteiligt und initiiert das synaptische Pruning in der Adoleszenz. Es kodiert keinen Dopaminrezeptor, nicht Serotonin, ist sehr wohl immun-/synapsenbezogen und bestimmt den Ausbruch nicht allein."
+    },
+    {
+      "topic": "C4: Overpruning",
+      "question": "Was besagt die „Overpruning\"-Hypothese der Schizophrenie (C4)?",
+      "options": [
+        "Das Pruning beginnt erst nach der ersten psychotischen Episode im höheren Alter.",
+        "Alle genannten Aussagen zum Overpruning sind gleichermaßen zutreffend.",
+        "Übermäßiges synaptisches Pruning lässt das Gehirn schon vor der Episode atrophieren.",
+        "Das Overpruning betrifft ausschließlich das Immunsystem, nicht das Gehirn.",
+        "Ein vollständig ausbleibendes Pruning führt zu einem Überschuss an Synapsen."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Overpruning-Hypothese führt ein übermäßiges synaptisches Pruning zu einer Hirnatrophie schon Jahre vor der ersten Episode; der Prozess stoppt nach einigen Jahren, danach entwickeln sich psychotische Symptome. Ausbleibendes oder spätes Pruning, eine rein immunologische Deutung und die Sammeloption treffen nicht zu."
+    },
+    {
+      "topic": "GWAS",
+      "question": "Was zeigen genomweite Assoziationsstudien (GWAS) zur Schizophrenie?",
+      "options": [
+        "Dass es keinerlei genetische Assoziationen mit der Schizophrenie gibt.",
+        "Dass die Schizophrenie allein durch ein einzelnes Umweltgift verursacht wird.",
+        "Ausschließlich Assoziationen mit Genen des Herz-Kreislauf-Systems.",
+        "Genau ein einziges, klar abgrenzbares Schizophreniegen mit vollständiger Erklärungskraft.",
+        "Über 70 Risikogene bzw. mehr als 100 Loci (u. a. DRD2, glutamaterge Gene)."
+      ],
+      "answer": 4,
+      "explanation": "GWAS identifizierten über 70 Risikogene bzw. mehr als 100 Loci (u. a. DRD2, glutamaterge und Immun-/MHC-Gene). Ein Einzelgen, fehlende Assoziationen, rein kardiovaskuläre Gene oder eine Umweltgift-Ursache treffen nicht zu."
+    },
+    {
+      "topic": "Prädiktoren früher Beginn",
+      "question": "Welche Faktoren gelten als wichtigste Prädiktoren eines frühen Erkrankungsbeginns – und wie sind sie zu bewerten?",
+      "options": [
+        "Prädiktoren existieren nicht; der Erkrankungsbeginn ist vollständig zufällig.",
+        "Familiäre Belastung, Cannabis und Childhoodtrauma – jedoch hochgradig unspezifisch.",
+        "Die genannten Prädiktoren sind hochspezifisch und erlauben eine sichere Vorhersage.",
+        "Ausschließlich das männliche Geschlecht als einziger und hochspezifischer Prädiktor.",
+        "Ein hoher sozioökonomischer Status, der den Beginn zuverlässig vorhersagt."
+      ],
+      "answer": 1,
+      "explanation": "Familiäre Belastung, Cannabis und Childhoodtrauma sind die wichtigsten Prädiktoren eines frühen Beginns – zugleich aber hochgradig unspezifisch. Ein hoher Status, ein einzelner Prädiktor, völlige Zufälligkeit oder Hochspezifität treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Epigenetik",
+      "question": "Wie wird das Zusammenspiel von Genen und Umwelt (Epigenetik) am Beispiel der Schizophrenie beschrieben?",
+      "options": [
+        "Allein der Genotyp bestimmt das Risiko, unabhängig von jeder Umwelterfahrung.",
+        "Gene und Umwelt haben nachweislich keinerlei Einfluss auf das Erkrankungsrisiko.",
+        "Genotyp (z. B. COMT), Childhoodtrauma und Cannabis erhöhen zusammen das Risiko.",
+        "Allein die Umwelt bestimmt das Risiko, unabhängig von jeder genetischen Anlage.",
+        "Das Risiko ist vollständig zufällig und durch keine Faktoren beeinflussbar."
+      ],
+      "answer": 2,
+      "explanation": "Epigenetisch wirken Genotyp (z. B. COMT), Childhoodtrauma und späterer Cannabiskonsum zusammen und erhöhen das F2-Risiko um ein Vielfaches. Eine rein genetische, rein umweltbedingte, einflusslose oder rein zufällige Sichtweise trifft nicht zu."
+    },
+    {
+      "topic": "Dopaminagonisten",
+      "question": "Welche Aussage zur Beziehung von Dopamin und Schizophrenie ist richtig?",
+      "options": [
+        "Durch experimentelle Gabe von Dopaminagonisten lassen sich psychotische Symptome erzeugen.",
+        "Es gibt keine Medikamente, die ohne direkte Dopaminaffinität antipsychotisch wirken.",
+        "Alle wirksamen Antipsychotika wirken ausnahmslos über einen Dopamin-Antagonismus.",
+        "Alle genannten Aussagen zur Dopamin-Schizophrenie-Beziehung sind richtig.",
+        "Ein Dopaminüberschuss ist der einzige und hinreichende Prädiktor der Schizophrenie."
+      ],
+      "answer": 0,
+      "explanation": "Dopaminagonisten können experimentell psychotische Symptome erzeugen (stützt die Hypothese). Nicht alle Antipsychotika wirken über D2-Antagonismus (Clozapin), es gibt Wirkstoffe mit geringer Dopaminaffinität, und ein Dopaminüberschuss ist nicht der alleinige Prädiktor.",
+      "hard": true
+    },
+    {
+      "topic": "Anwendung: Schwellenmodell",
+      "question": "Ein genetisch vorbelasteter junger Mann lebt in einem konfliktreichen Familienklima und konsumiert regelmäßig Cannabis; nach einer Belastungsphase bricht eine Psychose aus. Welches Modell erklärt das am besten?",
+      "options": [
+        "Ein reines Zufallsmodell ohne jeden Bezug zu Vulnerabilität oder Stress.",
+        "Ein rein psychosoziales Modell, das jede biologische Vulnerabilität ausschließt.",
+        "Das Vulnerabilitäts-Stress-Bewältigungs-Modell.",
+        "Ein Modell, in dem allein der Cannabiskonsum den Ausbruch vollständig erklärt.",
+        "Ein rein genetisches Modell, in dem allein die Erblichkeit den Ausbruch bestimmt."
+      ],
+      "answer": 2,
+      "explanation": "Das Zusammenwirken von genetischer Vulnerabilität, psychosozialem Stress (High EE) und Drogen, das gemeinsam eine Schwelle überschreitet, ist das Vulnerabilitäts-Stress-Bewältigungs-Modell. Rein genetische, rein psychosoziale, zufällige oder rein cannabisbezogene Erklärungen greifen zu kurz.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Vulnerabilitätsmarker",
+      "question": "Bei einem gesunden Bruder eines an Schizophrenie Erkrankten finden sich leichte kognitive Auffälligkeiten und hirnmorphologische Besonderheiten. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als Beleg dafür, dass Vulnerabilitätsfaktoren erst nach Episoden entstehen.",
+        "Als völlig bedeutungsloser Zufallsbefund ohne jeden Bezug zur Erkrankung.",
+        "Als Beweis, dass der Bruder mit Sicherheit ebenfalls erkranken wird.",
+        "Als Vulnerabilitätsmarker, der auch bei nicht erkrankten Angehörigen auftreten kann.",
+        "Als sicheres Zeichen einer bereits manifesten, nur noch nicht erkannten Schizophrenie."
+      ],
+      "answer": 3,
+      "explanation": "Kognitive Einbußen und hirnmorphologische Auffälligkeiten sind Vulnerabilitätsmarker, die auch bei nicht erkrankten Angehörigen vorkommen. Sie beweisen keine sichere Erkrankung, keine manifeste Schizophrenie, sind nicht bedeutungslos und entstehen nicht erst nach Episoden.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Prolaktin",
+      "question": "Unter einem hochpotenten Antipsychotikum entwickelt eine Patientin einen deutlichen Prolaktinanstieg. Wie ist das pharmakologisch zu erklären?",
+      "options": [
+        "Die Dopaminblockade hebt die Hemmung der Prolaktinfreisetzung auf.",
+        "Durch eine Blockade, die ausschließlich die Positivsymptomatik betrifft.",
+        "Durch eine reine Serotoninwirkung, die mit Dopamin nichts zu tun hat.",
+        "Der Prolaktinanstieg ist pharmakologisch nicht erklärbar und rein zufällig.",
+        "Durch eine Dopaminfreisetzung, die die Prolaktinausschüttung zusätzlich anregt."
+      ],
+      "answer": 0,
+      "explanation": "Dopamin hemmt physiologisch die Prolaktinfreisetzung; wird der Dopaminrezeptor blockiert, entfällt diese Hemmung und Prolaktin steigt. Eine Dopaminfreisetzung, reine Serotoninwirkung, eine reine Positivsymptom-Wirkung oder Unerklärbarkeit treffen nicht zu.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Overpruning",
+      "question": "In einer bildgebenden Studie zeigt sich, dass das Gehirn bereits Jahre vor der ersten Episode zunehmend atrophiert und der Prozess dann stoppt. Welche Hypothese passt am ehesten?",
+      "options": [
+        "Die Annahme einer rein psychosozial verursachten Hirnatrophie.",
+        "Die Annahme, dass die Atrophie erst nach mehreren Episoden beginnt.",
+        "Die reine Dopaminüberschuss-Hypothese ohne strukturellen Bezug.",
+        "Die C4-vermittelte Overpruning-Hypothese der Schizophrenie.",
+        "Die Annahme eines vollständig ausbleibenden synaptischen Prunings."
+      ],
+      "answer": 3,
+      "explanation": "Eine Hirnatrophie schon Jahre vor der Episode, die dann stoppt, passt zur C4-vermittelten Overpruning-Hypothese (übermäßiges synaptisches Pruning). Reiner Dopaminüberschuss, ausbleibendes Pruning, rein psychosoziale Atrophie oder ein späterer Beginn passen nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Vulnerabilitäts-Stress-Modell: NICHT",
+      "question": "Was trifft auf das Vulnerabilitäts-Stress-Bewältigungs-Modell am ehesten NICHT zu?",
+      "options": [
+        "Protektive Faktoren wie Compliance können den Ausbruch mitbeeinflussen.",
+        "Es verbindet Vulnerabilität, psychosoziale Stressoren und protektive Faktoren.",
+        "Substanzkonsum (v. a. Cannabis) lässt sich als zusätzlicher Faktor einbeziehen.",
+        "Ein Ausbruch tritt auf, wenn die Faktoren gemeinsam eine Schwelle überschreiten.",
+        "Es erklärt den Krankheitsausbruch allein durch die genetische Vulnerabilität."
+      ],
+      "answer": 4,
+      "explanation": "Das Modell erklärt den Ausbruch gerade nicht allein durch Genetik, sondern durch das Zusammenwirken von Vulnerabilität, Stress und Bewältigung – die erste Aussage ist falsch. Die übrigen Aussagen treffen zu."
+    },
+    {
+      "topic": "Dopaminhypothese: NICHT",
+      "question": "Was trifft auf die Dopaminhypothese der Schizophrenie am ehesten NICHT zu?",
+      "options": [
+        "Sie nimmt einen Dopaminüberschuss in mesolimbischen Arealen an (Positivsymptome).",
+        "Auch Glutamat, GABA und Serotonin sind an der Symptomatik beteiligt.",
+        "Das potente Clozapin wirkt nur gering dopaminerg und spricht gegen ihre Alleingültigkeit.",
+        "Sie nimmt einen Dopaminmangel in präfrontalen Regionen an (Minus-/kognitive Symptome).",
+        "Sie erklärt die Schizophrenie vollständig und abschließend."
+      ],
+      "answer": 4,
+      "explanation": "Die Dopaminhypothese ist hilfreich, aber nicht erschöpfend – sie erklärt die Schizophrenie gerade nicht vollständig; die erste Aussage ist falsch. Die übrigen Aussagen treffen zu.",
+      "trap": "Die Dopaminhypothese ist hilfreich, aber nicht erschöpfend – nicht die alleinige Erklärung."
+    },
+    {
+      "topic": "Dopaminerge Bahnen: nigrostriatal",
+      "question": "Welche dopaminerge Bahn ist Teil des extrapyramidal-motorischen (EP-)Systems?",
+      "options": [
+        "Die mesolimbische Bahn, die mit Positivsymptomen verbunden wird.",
+        "Alle dopaminergen Bahnen gehören gleichermaßen zum EP-System.",
+        "Die nigrostriatale Bahn.",
+        "Die tuberoinfundibuläre (hypophysäre) Bahn zur Prolaktinsteuerung.",
+        "Die mesokortikale Bahn, die mit Negativsymptomen verbunden wird."
+      ],
+      "answer": 2,
+      "explanation": "Die nigrostriatale Bahn gehört zum extrapyramidal-motorischen System; ihre Blockade erklärt EP-Nebenwirkungen. Mesolimbisch (Positiv), mesokortikal (Negativ) und tuberoinfundibulär (Prolaktin) haben andere Funktionen; die Sammeloption ist unzutreffend."
+    }
+  ]
+}
