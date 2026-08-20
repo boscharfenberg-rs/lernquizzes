@@ -417,6 +417,34 @@
       "title": "VL2 – Item-Response-Theorie: Rasch-Modell & Anwendungen (Sitzung 13)",
       "subject": "Psychologische Diagnostik",
       "description": "1PL-Modell (Rasch-Modell) für dichotome Items: Modellgleichung und Parameter, Maximum-Likelihood-Parameterschätzung, Wertebereich der Parameter, Personenparameter als Testwert und dessen Normierung, IC-Funktionen und Informationsfunktion, Passung zwischen Modell und Daten (Modell-Fit, Item-Fit, Residuen, graphischer Modelltest, DIF), Personenselektion sowie Anwendungen der IRT (spezifische Objektivität, parallele Testformen, Anker-Items, adaptives Testen). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
+    },
+    {
+      "id": "kl-schizophrenie-symptome",
+      "file": "kl-schizophrenie-symptome.json",
+      "title": "Schizophrenie: Symptome im Überblick",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Symptomatik der Schizophrenie: Psychose-Definition, die vier Domänen, historische Konzepte (Kraepelin, Bleulers vier A, Schneider), formale Denk-, Affekt- und katatone Symptome."
+    },
+    {
+      "id": "kl-schizophrenie-wahn",
+      "file": "kl-schizophrenie-wahn.json",
+      "title": "Schizophrenie: Wahn",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Der Wahn: Definition, Überstieg (Conrad), bizarr vs. synthym, Wahndynamik/doppelte Buchführung, Stufen der Wahnentwicklung und Wahnthemen."
+    },
+    {
+      "id": "kl-schizophrenie-halluzinationen",
+      "file": "kl-schizophrenie-halluzinationen.json",
+      "title": "Schizophrenie: Halluzinationen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Halluzinationen: Abgrenzung (Illusion, Pseudohalluzination, Wahn), Modalitäten, akustische Formen (Akoasmen/Phoneme, imperativ/dialogisch/kommentierend), Zönästhesien."
+    },
+    {
+      "id": "kl-schizophrenie-ich-stoerungen",
+      "file": "kl-schizophrenie-ich-stoerungen.json",
+      "title": "Schizophrenie: Ich-Störungen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Ich-Störungen: die fünf Dimensionen nach Scharfetter, Gedanken-Ich-Störungen als Erstrangsymptome, Abgrenzung zur Dissoziation, Depersonalisation/Derealisation."
     }
   ]
 }

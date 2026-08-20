@@ -64,7 +64,12 @@
       "label": "Schizophrenie/Psychose",
       "group": "speziell",
       "order": 1,
-      "quizIds": []
+      "quizIds": [
+        "kl-schizophrenie-symptome",
+        "kl-schizophrenie-wahn",
+        "kl-schizophrenie-halluzinationen",
+        "kl-schizophrenie-ich-stoerungen"
+      ]
     },
     {
       "id": "kl_s2",

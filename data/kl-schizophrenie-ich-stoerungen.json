@@ -1,0 +1,416 @@
+{
+  "id": "kl-schizophrenie-ich-stoerungen",
+  "title": "Schizophrenie: Ich-Störungen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Ich-Störungen (Ich-Pathologie) bei Schizophrenie: Grundlagen und Abgrenzung zur Dissoziation, die fünf Dimensionen nach Scharfetter (Vitalität, Aktivität, Konsistenz, Demarkation, Identität), die Gedanken-Ich-Störungen (Eingebung, Entzug, Ausbreitung) als Erstrangsymptome sowie Depersonalisation und Derealisation.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Grundlagen",
+      "question": "Auf welcher historischen Denkrichtung basiert die Lehre von der Ich-Pathologie?",
+      "options": [
+        "Auf der humanistischen Selbstaktualisierungstheorie nach Rogers.",
+        "Auf der systemischen Theorie des sozialen Beziehungssystems.",
+        "Auf der Assoziationspsychologie (Herbart, 1818).",
+        "Auf der behavioristischen Lerntheorie der klassischen Konditionierung.",
+        "Auf der Dopaminhypothese der schizophrenen Positivsymptomatik."
+      ],
+      "answer": 2,
+      "explanation": "Die Ich-Pathologie basiert auf der Assoziationspsychologie (Herbart 1818), die sowohl das Dissoziationsmodell (Janet) als auch die Kraepelin/Bleuler-Psychiatrie beeinflusste. Konditionierung, Selbstaktualisierung, Systemtheorie und Dopaminhypothese sind andere Denkrichtungen."
+    },
+    {
+      "topic": "Grundlagen",
+      "question": "Wer definierte die Ich-Störungen später als psychotische Symptome?",
+      "options": [
+        "Rogers und Perls im Rahmen der humanistischen Therapie.",
+        "Schneider und Scharfetter.",
+        "Beck und Ellis im Rahmen der kognitiven Therapie.",
+        "Freud und Adler im Rahmen der Tiefenpsychologie.",
+        "Pawlow und Watson im Rahmen der Lerntheorie."
+      ],
+      "answer": 1,
+      "explanation": "Schneider und Scharfetter definierten die Ich-Störungen als psychotische Symptome. Pawlow/Watson (Behaviorismus), Freud/Adler (Tiefenpsychologie), Rogers/Perls (humanistisch) und Beck/Ellis (kognitiv) stehen für andere Schulen."
+    },
+    {
+      "topic": "Zerfallspsychose",
+      "question": "Was meinte das Konzept der Zerfallspsychose (Psychosis of decay)?",
+      "options": [
+        "Eine vorübergehende, vollständig reversible Belastungsreaktion nach Trauma.",
+        "Eine rein affektive Erkrankung mit gehobener und gedrückter Stimmung im Wechsel.",
+        "Eine ausschließlich kognitive Leistungsminderung ohne Erlebensveränderung.",
+        "Eine reine Wahrnehmungsstörung ohne jede Beteiligung des Ich-Erlebens.",
+        "Eine Desintegration und Fragmentierung des innersten Kerns der Persönlichkeit."
+      ],
+      "answer": 4,
+      "explanation": "Die Zerfallspsychose beschreibt eine Desintegration/Fragmentierung (Splittung) des innersten Persönlichkeitskerns im Sinne einer Dissoziation. Eine affektive Erkrankung, reine Kognitionsminderung, reversible Belastungsreaktion oder reine Wahrnehmungsstörung treffen den Begriff nicht."
+    },
+    {
+      "topic": "Dissoziative Phänomene",
+      "question": "Welche Phänomene zählen zu den dissoziativen Phänomenen?",
+      "options": [
+        "Stupor, Katalepsie und wächserne Biegsamkeit als katatone Symptome.",
+        "Amnesie, Depersonalisation, Derealisation und Identitätswechsel.",
+        "Anhedonie, Antriebslosigkeit und affektive Verflachung.",
+        "Wahn, akustische Halluzinationen und formale Denkstörungen.",
+        "Gedankeneingebung, Gedankenentzug und Gedankenausbreitung."
+      ],
+      "answer": 1,
+      "explanation": "Zu den dissoziativen Phänomenen zählen u. a. Amnesie, Depersonalisation, Derealisation, Identitätsunsicherheit/-wechsel und somatoforme Dissoziation. Gedankeneingebung/-entzug/-ausbreitung sind Ich-Störungen, die übrigen Optionen nennen Positiv-, Negativ- bzw. katatone Symptome."
+    },
+    {
+      "topic": "Dissoziation vs. Ich-Störung",
+      "question": "Worin unterschieden sich historisch die ätiologischen Annahmen zu Dissoziation und Ich-Störungen?",
+      "options": [
+        "Beiden wurde ausschließlich eine rein genetische Ursache zugeschrieben.",
+        "Für beide wurde von vornherein dieselbe eindeutige Ursache angenommen.",
+        "Beiden wurde ausschließlich eine rein soziale Ursache zugeschrieben.",
+        "Dissoziation: eine biologische Pathologie; Ich-Störungen: Trauma und hysterischer Charakter.",
+        "Dissoziation: Trauma/hysterischer Charakter; Ich-Störungen: eine biologische Pathologie."
+      ],
+      "answer": 4,
+      "explanation": "Historisch wurde die Dissoziation eher mit Trauma/hysterischem Charakter erklärt, die Ich-Störungen mit einer (nicht eindeutig identifizierten) biologischen Pathologie; diskutiert wird auch ein Kontinuum. Die zweite Option vertauscht die Zuordnung; rein genetische, rein soziale oder von vornherein identische Ursachen treffen nicht zu.",
+      "hard": true,
+      "trap": "Dissoziation wurde eher traumatisch/hysterisch, Ich-Störungen eher biologisch gedeutet – nicht vertauschen."
+    },
+    {
+      "topic": "Fünf Dimensionen",
+      "question": "Welche fünf Dimensionen der Ich-Störungen unterscheidet Scharfetter?",
+      "options": [
+        "Positiv-, Negativ-, Desorganisations-, Kognitions- und Affektdimension.",
+        "Ich-Vitalität, Ich-Aktivität, Ich-Konsistenz, Ich-Demarkation und Ich-Identität.",
+        "Es, Ich, Über-Ich, Ich-Ideal und Realitäts-Ich als psychische Instanzen.",
+        "Amnesie, Depersonalisation, Derealisation, Konversion und Identitätswechsel.",
+        "Wahrnehmung, Denken, Affekt, Antrieb und Gedächtnis als Grundfunktionen."
+      ],
+      "answer": 1,
+      "explanation": "Scharfetter unterscheidet Ich-Vitalität, Ich-Aktivität, Ich-Konsistenz, Ich-Demarkation und Ich-Identität. Die Instanzen Es/Ich/Über-Ich stammen von Freud, die Symptomdomänen und Grundfunktionen sind andere Einteilungen, und die letzte Reihe nennt dissoziative Phänomene.",
+      "hard": true
+    },
+    {
+      "topic": "Ich-Vitalität",
+      "question": "Was kennzeichnet eine Störung der Ich-Vitalität?",
+      "options": [
+        "Angst vor oder Erleben des eigenen Todes bzw. des Entschwindens der Lebendigkeit.",
+        "Das Gefühl, die eigenen Gedanken stünden unter fremder Steuerung von außen.",
+        "Das Gefühl, in einzelne Teile auseinanderzufallen und fragmentiert zu sein.",
+        "Das Verschwimmen der Grenze zwischen dem eigenen Ich und der Umwelt.",
+        "Die Unklarheit über die eigene Identität bis hin zum Erleben von Metamorphosen."
+      ],
+      "answer": 0,
+      "explanation": "Die Ich-Vitalität betrifft das Erleben der eigenen Lebendigkeit/Existenz – Todesangst, Entschwinden der Lebendigkeit, Nicht-mehr-existent-Sein, Weltuntergang. Fremdsteuerung = Ich-Aktivität, Fragmentierung = Ich-Konsistenz, Grenzverlust = Ich-Demarkation, Identitätsunklarheit = Ich-Identität."
+    },
+    {
+      "topic": "Ich-Aktivität",
+      "question": "Was kennzeichnet eine Störung der Ich-Aktivität?",
+      "options": [
+        "Das Verschwimmen der Grenze zwischen dem eigenen Ich und der Umgebung.",
+        "Das Gefühl, in einzelne Teile zu zerfallen und innerlich fragmentiert zu sein.",
+        "Das Gefühl, die eigenen Gedanken und Handlungen stünden unter fremder Agentenschaft.",
+        "Angst vor dem eigenen Tod und dem Entschwinden der eigenen Lebendigkeit.",
+        "Die Unklarheit über die eigene Identität mit erlebter körperlicher Verwandlung."
+      ],
+      "answer": 2,
+      "explanation": "Die Ich-Aktivität betrifft das Gefühl, eigene Gedanken/Gefühle/Handlungen stünden unter fremder Agentenschaft (von außen manipuliert, gesteuert, kontrolliert). Todeserleben = Ich-Vitalität, Fragmentierung = Ich-Konsistenz, Grenzverlust = Ich-Demarkation, Identitätsunklarheit = Ich-Identität.",
+      "hard": true
+    },
+    {
+      "topic": "Ich-Konsistenz",
+      "question": "Was kennzeichnet eine Störung der Ich-Konsistenz?",
+      "options": [
+        "Das Gefühl, in einzelne Teile auseinanderzufallen.",
+        "Das Verschwimmen der Grenze zwischen dem eigenen Ich und der Umwelt.",
+        "Das Gefühl, die eigenen Gedanken stünden unter fremder Steuerung.",
+        "Angst vor dem eigenen Tod und dem Entschwinden der Lebendigkeit.",
+        "Die Unklarheit über die eigene Identität bis hin zu Metamorphosen."
+      ],
+      "answer": 0,
+      "explanation": "Die Ich-Konsistenz betrifft das Gefühl, in Teile auseinanderzufallen (Fragmentierung), paradoxes Erleben, das Stehen zwischen zwei Kräften (gut/böse). Todeserleben = Ich-Vitalität, Fremdsteuerung = Ich-Aktivität, Grenzverlust = Ich-Demarkation, Identitätsunklarheit = Ich-Identität."
+    },
+    {
+      "topic": "Ich-Demarkation",
+      "question": "Was kennzeichnet eine Störung der Ich-Demarkation?",
+      "options": [
+        "Das Gefühl, in einzelne Teile auseinanderzufallen und fragmentiert zu sein.",
+        "Angst vor dem eigenen Tod und dem Entschwinden der Lebendigkeit.",
+        "Die Unklarheit über die eigene Identität bis hin zu Metamorphosen.",
+        "Das Gefühl, die eigenen Gedanken stünden unter fremder Steuerung.",
+        "Das Verschwimmen der Grenze zwischen dem eigenen Ich und der Umwelt."
+      ],
+      "answer": 4,
+      "explanation": "Die Ich-Demarkation betrifft das Verschwimmen der Ich-Umwelt-Grenze: Privatheit wird angegriffen, Gedanken werden gehört/gelesen, die Unterscheidung selbst/andere fällt schwer. Todeserleben = Ich-Vitalität, Fremdsteuerung = Ich-Aktivität, Fragmentierung = Ich-Konsistenz, Identitätsunklarheit = Ich-Identität.",
+      "hard": true
+    },
+    {
+      "topic": "Ich-Identität",
+      "question": "Was kennzeichnet eine Störung der Ich-Identität?",
+      "options": [
+        "Unklarheit über die eigene Identität bis hin zu Metamorphosen.",
+        "Das Gefühl, in einzelne Teile auseinanderzufallen und fragmentiert zu sein.",
+        "Angst vor dem eigenen Tod und dem Entschwinden der Lebendigkeit.",
+        "Das Verschwimmen der Grenze zwischen dem eigenen Ich und der Umwelt.",
+        "Das Gefühl, die eigenen Gedanken stünden unter fremder Steuerung."
+      ],
+      "answer": 0,
+      "explanation": "Die Ich-Identität betrifft die Unklarheit über die eigene Identität – etwa das andere Geschlecht zu haben oder sich zu verwandeln (Metamorphosen, langer Arm/kleiner Kopf). Todeserleben = Ich-Vitalität, Fremdsteuerung = Ich-Aktivität, Fragmentierung = Ich-Konsistenz, Grenzverlust = Ich-Demarkation."
+    },
+    {
+      "topic": "Gedanken-Ich-Störungen",
+      "question": "Was bezeichnet die Gedankeneingebung?",
+      "options": [
+        "Das Erleben, dass die eigenen Gedanken von außen abgezogen werden.",
+        "Das Erleben, dass fremde Gedanken von außen eingegeben werden.",
+        "Das Erleben, dass die eigenen Gedanken sich anderen mitteilen und ausbreiten.",
+        "Das Erleben eines völligen Abreißens des Gedankengangs mitten im Denken.",
+        "Das Erleben, die eigenen Gedanken laut und hörbar zu vernehmen."
+      ],
+      "answer": 1,
+      "explanation": "Die Gedankeneingebung ist das Erleben, dass fremde Gedanken von außen eingegeben werden (Ich-Aktivität, Schneider-Erstrangsymptom). Abziehen = Gedankenentzug, Mitteilen = Gedankenausbreitung, Lautwerden = Gedankenlautwerden, Abreißen = Gedankenabreißen (formale Denkstörung)."
+    },
+    {
+      "topic": "Gedanken-Ich-Störungen",
+      "question": "Was bezeichnet der Gedankenentzug?",
+      "options": [
+        "Das Erleben, dass die eigenen Gedanken weggenommen werden.",
+        "Das Erleben, dass die eigenen Gedanken sich anderen mitteilen.",
+        "Das Erleben, dass fremde Gedanken von außen eingegeben werden.",
+        "Das Erleben, dass sich die Gedanken beschleunigt aufdrängen.",
+        "Das Erleben, die eigenen Gedanken laut und hörbar zu hören."
+      ],
+      "answer": 0,
+      "explanation": "Der Gedankenentzug ist das Erleben, dass eigene Gedanken von außen weggenommen werden. Eingebung fremder Gedanken = Gedankeneingebung, Mitteilen = Gedankenausbreitung, Lautwerden = Gedankenlautwerden, Aufdrängen = Gedankendrängen."
+    },
+    {
+      "topic": "Gedanken-Ich-Störungen",
+      "question": "Was bezeichnet die Gedankenausbreitung?",
+      "options": [
+        "Das Erleben eines plötzlichen Abreißens des Gedankengangs.",
+        "Das Erleben, dass die eigenen Gedanken von außen abgezogen werden.",
+        "Das Erleben, dass fremde Gedanken von außen eingegeben werden.",
+        "Das Erleben, dass sich die eigenen Gedanken anderen mitteilen bzw. ausbreiten.",
+        "Das Erleben, die eigenen Gedanken laut und hörbar zu vernehmen."
+      ],
+      "answer": 3,
+      "explanation": "Die Gedankenausbreitung ist das Erleben, dass sich die eigenen Gedanken anderen mitteilen/ausbreiten. Eingeben = Gedankeneingebung, Abziehen = Gedankenentzug, Lautwerden = Gedankenlautwerden, Abreißen = Gedankenabreißen."
+    },
+    {
+      "topic": "Zuordnung Gedanken zu Dimension",
+      "question": "Zu welcher Ich-Dimension zählen Gedankeneingebung, -entzug und -ausbreitung?",
+      "options": [
+        "Zur Ich-Vitalität (Erleben des eigenen Todes und Weltuntergangs).",
+        "Zur Ich-Konsistenz (Gefühl des Auseinanderfallens).",
+        "Zur Ich-Aktivität (fremde Agentenschaft über das Denken).",
+        "Zur Ich-Demarkation (Verschwimmen der Ich-Umwelt-Grenze).",
+        "Zur Ich-Identität (Unklarheit über die eigene Identität)."
+      ],
+      "answer": 2,
+      "explanation": "Gedankeneingebung, -entzug und -ausbreitung betreffen die Ich-Aktivität, also das Erleben fremder Agentenschaft über das eigene Denken/Handeln. Vitalität, Demarkation, Identität und Konsistenz sind die anderen Dimensionen.",
+      "hard": true,
+      "trap": "Gedanken-Ich-Störungen gehören zur Ich-Aktivität, nicht zur Ich-Demarkation (Grenze) oder Konsistenz (Zerfall)."
+    },
+    {
+      "topic": "Schneider-Erstrangsymptome",
+      "question": "Welche Ich-Störungen zählt Schneider zu den Erstrangsymptomen?",
+      "options": [
+        "Stupor, Katalepsie und Negativismus als katatone Symptome.",
+        "Anhedonie, Antriebslosigkeit und sozialer Rückzug als Negativsymptome.",
+        "Gedankeneingebung, -entzug, -ausbreitung sowie leibliches Beeinflussungserleben.",
+        "Zerfahrenheit, Neologismen und Vorbeireden als formale Denkstörungen.",
+        "Amnesie, Depersonalisation und Derealisation als dissoziative Phänomene."
+      ],
+      "answer": 2,
+      "explanation": "Zu den Erstrangsymptomen zählen die Gedanken-Ich-Störungen (Eingebung, Entzug, Ausbreitung, Lautwerden) und das leibliche Beeinflussungserleben (Fremdsteuerung). Dissoziative Phänomene, Negativsymptome, formale Denkstörungen und katatone Symptome gehören nicht dazu."
+    },
+    {
+      "topic": "Depersonalisation",
+      "question": "Was bezeichnet die Depersonalisation?",
+      "options": [
+        "Die Entfremdung von der eigenen Person und dem eigenen Erleben.",
+        "Das Erleben, dass fremde Gedanken von außen eingegeben werden.",
+        "Die Entfremdung von der Umwelt, die unwirklich erscheint.",
+        "Der vollständige Verlust der Erinnerung an einen Lebensabschnitt.",
+        "Das Gefühl, ständig verfolgt und heimlich beobachtet zu werden."
+      ],
+      "answer": 0,
+      "explanation": "Depersonalisation ist die Entfremdung von der eigenen Person/dem eigenen Erleben. Die Entfremdung der Umwelt ist die Derealisation, Gedankeneingebung eine Ich-Aktivitätsstörung, Verfolgung ein Wahn, Erinnerungsverlust eine Amnesie."
+    },
+    {
+      "topic": "Derealisation",
+      "question": "Was bezeichnet die Derealisation?",
+      "options": [
+        "Die Entfremdung von der eigenen Person und dem eigenen Körper.",
+        "Der vollständige Verlust der Erinnerung an einen Lebensabschnitt.",
+        "Die feste Überzeugung, an einer schweren Krankheit zu leiden.",
+        "Das Erleben, die eigenen Gedanken würden von außen abgezogen.",
+        "Die Entfremdung von der Umwelt, die fremd oder unwirklich erscheint."
+      ],
+      "answer": 4,
+      "explanation": "Derealisation ist die Entfremdung von der Umwelt, die fremd/unwirklich erscheint. Die Entfremdung der eigenen Person ist die Depersonalisation, Gedankenentzug eine Ich-Aktivitätsstörung, Krankheitsüberzeugung ein hypochondrischer Wahn, Erinnerungsverlust eine Amnesie."
+    },
+    {
+      "topic": "Depersonalisation/Derealisation: Zuordnung",
+      "question": "Wie sind Depersonalisation und Derealisation hinsichtlich Dissoziation und Ich-Störungen einzuordnen?",
+      "options": [
+        "Sie sind reine formale Denkstörungen des Gedankenablaufs ohne Erlebensbezug.",
+        "Sie werden sowohl den dissoziativen Phänomenen als auch den Ich-Störungen zugerechnet.",
+        "Sie kommen ausschließlich bei der Schizophrenie und bei keiner anderen Störung vor.",
+        "Sie sind reine Negativsymptome des chronischen Residualzustands.",
+        "Sie zählen ausschließlich zu den katatonen psychomotorischen Symptomen."
+      ],
+      "answer": 1,
+      "explanation": "Depersonalisation und Derealisation werden sowohl bei den dissoziativen Phänomenen als auch bei den Ich-Störungen aufgeführt – sie liegen im Überschneidungsbereich. Sie sind nicht schizophreniespezifisch und weder formale Denk-, katatone noch Negativsymptome."
+    },
+    {
+      "topic": "Ich-Demarkation: Beispiel",
+      "question": "Welches Erleben ist ein Beispiel für eine gestörte Ich-Demarkation?",
+      "options": [
+        "Das Gefühl, innerlich in mehrere Teile zu zerfallen.",
+        "Das Gefühl, andere könnten die eigenen Gedanken hören oder lesen.",
+        "Das Gefühl, die eigenen Handlungen würden von außen gesteuert.",
+        "Das Gefühl, sich in ein Tier mit mehreren Köpfen zu verwandeln.",
+        "Die Angst, nicht mehr zu existieren oder zu sterben."
+      ],
+      "answer": 1,
+      "explanation": "Dass andere die eigenen Gedanken hören/lesen könnten und die Ich-Umwelt-Grenze verschwimmt, ist eine Störung der Ich-Demarkation. Todesangst = Vitalität, Fremdsteuerung = Aktivität, Verwandlung = Identität, Zerfall = Konsistenz."
+    },
+    {
+      "topic": "Anwendung: Ich-Aktivität",
+      "question": "Ein Patient ist überzeugt, seine Bewegungen und Gedanken würden von einer fremden Macht ferngesteuert; er handle nicht mehr aus eigenem Willen. Welche Ich-Dimension ist gestört?",
+      "options": [
+        "Die Ich-Aktivität.",
+        "Die Ich-Konsistenz mit Gefühl des Auseinanderfallens.",
+        "Die Ich-Demarkation mit Verschwimmen der Ich-Grenze.",
+        "Die Ich-Vitalität mit Erleben des eigenen Todes.",
+        "Die Ich-Identität mit Unklarheit über die eigene Person."
+      ],
+      "answer": 0,
+      "explanation": "Das Erleben fremder Agentenschaft über eigenes Denken/Handeln (Fremdsteuerung) betrifft die Ich-Aktivität. Todeserleben (Vitalität), Fragmentierung (Konsistenz), Grenzverlust (Demarkation) und Identitätsunklarheit (Identität) sind die anderen Dimensionen.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Ich-Demarkation",
+      "question": "Eine Patientin erlebt, dass ihre Privatheit angegriffen wird und andere Menschen ihre Gedanken lesen können; die Grenze zwischen ihr und der Umwelt verschwimmt. Welche Dimension ist gestört?",
+      "options": [
+        "Die Ich-Aktivität mit Fremdsteuerung der Gedanken.",
+        "Die Ich-Identität mit erlebter körperlicher Verwandlung.",
+        "Die Ich-Konsistenz mit Gefühl des Zerfallens.",
+        "Die Ich-Demarkation.",
+        "Die Ich-Vitalität mit Erleben des eigenen Todes."
+      ],
+      "answer": 3,
+      "explanation": "Das Verschwimmen der Ich-Umwelt-Grenze mit angegriffener Privatheit und dem Gefühl, Gedanken würden gelesen, betrifft die Ich-Demarkation. Todeserleben, Fremdsteuerung, Zerfall und Verwandlung gehören zu den übrigen Dimensionen.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Ich-Konsistenz",
+      "question": "Ein Patient berichtet, er falle innerlich in einzelne Teile auseinander und stehe zerrissen zwischen zwei Kräften, gut und böse. Welche Dimension ist gestört?",
+      "options": [
+        "Die Ich-Vitalität mit Angst vor dem eigenen Tod.",
+        "Die Ich-Aktivität mit Steuerung von außen.",
+        "Die Ich-Konsistenz.",
+        "Die Ich-Identität mit Unklarheit über die eigene Person.",
+        "Die Ich-Demarkation mit Verschwimmen der Grenze."
+      ],
+      "answer": 2,
+      "explanation": "Das Gefühl, in Teile auseinanderzufallen und paradox zwischen zwei Kräften zu stehen, betrifft die Ich-Konsistenz. Todesangst (Vitalität), Fremdsteuerung (Aktivität), Grenzverlust (Demarkation) und Identitätsunklarheit (Identität) sind andere Dimensionen.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Ich-Identität",
+      "question": "Eine Patientin erlebt, ein anderes Geschlecht zu haben und sich körperlich zu verwandeln, etwa in ein Tier mit mehreren Köpfen. Welche Dimension ist gestört?",
+      "options": [
+        "Die Ich-Demarkation mit Verschwimmen der Ich-Grenze.",
+        "Die Ich-Vitalität mit Erleben des eigenen Todes.",
+        "Die Ich-Aktivität mit Fremdsteuerung der Handlungen.",
+        "Die Ich-Identität.",
+        "Die Ich-Konsistenz mit Gefühl des Auseinanderfallens."
+      ],
+      "answer": 3,
+      "explanation": "Die Unklarheit über die eigene Identität mit erlebten körperlichen Metamorphosen (anderes Geschlecht, Verwandlung) betrifft die Ich-Identität. Die übrigen Optionen benennen Vitalität, Aktivität, Konsistenz und Demarkation.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Ich-Vitalität",
+      "question": "Ein Patient ist von der Gewissheit erfüllt, nicht mehr zu existieren und dass die gesamte Welt bald untergehen werde. Welche Dimension ist gestört?",
+      "options": [
+        "Die Ich-Demarkation mit Verschwimmen der Grenze.",
+        "Die Ich-Aktivität mit Fremdsteuerung der Gedanken.",
+        "Die Ich-Identität mit erlebter körperlicher Verwandlung.",
+        "Die Ich-Vitalität.",
+        "Die Ich-Konsistenz mit Gefühl des Zerfallens."
+      ],
+      "answer": 3,
+      "explanation": "Das Erleben, nicht mehr zu existieren, und das Weltuntergangserleben betreffen die Ich-Vitalität (Bedrohung der eigenen Lebendigkeit/Existenz). Fremdsteuerung, Zerfall, Grenzverlust und Verwandlung gehören zu den anderen Dimensionen.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Gedankenausbreitung",
+      "question": "Eine Patientin ist sicher, dass alle Umstehenden ihre Gedanken unmittelbar mithören, weil diese sich in den Raum ausbreiten. Welche Ich-Störung liegt vor?",
+      "options": [
+        "Gedankenentzug mit Wegnahme der Gedanken.",
+        "Gedankenabreißen mitten im Gedankengang.",
+        "Gedankeneingebung fremder Gedanken von außen.",
+        "Eine akustische Halluzination in dialogischer Form.",
+        "Gedankenausbreitung."
+      ],
+      "answer": 4,
+      "explanation": "Dass sich die eigenen Gedanken ausbreiten und von allen mitgehört werden, ist die Gedankenausbreitung (Ich-Aktivität). Wegnahme = Gedankenentzug, Eingabe fremder Gedanken = Gedankeneingebung, Abreißen = formale Denkstörung, dialogische Stimmen = Halluzination.",
+      "transfer": true
+    },
+    {
+      "topic": "Deperso vs. Dereal",
+      "question": "Wie unterscheiden sich Depersonalisation und Derealisation?",
+      "options": [
+        "Beide bezeichnen einen vollständigen Verlust der Erinnerung an ein Ereignis.",
+        "Beide bezeichnen die feste Überzeugung, verfolgt und bedroht zu werden.",
+        "Depersonalisation betrifft die Umwelt, Derealisation die eigene Person.",
+        "Beide betreffen ausschließlich die Wahrnehmung fremder Gedanken von außen.",
+        "Depersonalisation betrifft die eigene Person, Derealisation die Umwelt."
+      ],
+      "answer": 4,
+      "explanation": "Depersonalisation ist die Entfremdung von der eigenen Person, Derealisation die Entfremdung von der Umwelt. Die zweite Option vertauscht dies; Gedankeneingabe, Amnesie und Verfolgung betreffen andere Phänomene.",
+      "trap": "Deperso = eigene Person, Dereal = Umwelt – die beiden nicht vertauschen."
+    },
+    {
+      "topic": "Kontinuum-Frage",
+      "question": "Welche offene Frage stellt die Vorlesung zum Verhältnis von Dissoziation und Ich-Störungen?",
+      "options": [
+        "Ob beide ausschließlich durch dieselbe genetische Mutation verursacht werden.",
+        "Ob beide identisch mit den katatonen psychomotorischen Symptomen sind.",
+        "Ob es zwei Phänomene auf einem gemeinsamen Kontinuum sind.",
+        "Ob beide sich vollständig auf reine formale Denkstörungen zurückführen lassen.",
+        "Ob beide nur bei körperlichen und nie bei psychischen Erkrankungen vorkommen."
+      ],
+      "answer": 2,
+      "explanation": "Die Vorlesung stellt die Frage, ob Dissoziation und Ich-Störungen zwei qualitativ nicht unterschiedliche Phänomene auf einem Kontinuum sind. Eine identische Mutation, eine Beschränkung auf Körperliches, eine Gleichsetzung mit Katatonie oder formalen Denkstörungen sind nicht gemeint.",
+      "hard": true
+    },
+    {
+      "topic": "Somatoforme Dissoziation",
+      "question": "Was zählt zu den dissoziativen Phänomenen im somatoformen Bereich?",
+      "options": [
+        "Die Wahnwahrnehmung mit abnormer Bedeutungszuschreibung.",
+        "Die Affektverflachung mit reduzierter Gefühlsschwingung.",
+        "Die Katalepsie mit stereotypem Einnehmen von Körperhaltungen.",
+        "Die somatoforme Dissoziation (Konversion).",
+        "Die Gedankenausbreitung mit Mitteilung der eigenen Gedanken."
+      ],
+      "answer": 3,
+      "explanation": "Die somatoforme Dissoziation (Konversion) zählt zu den dissoziativen Phänomenen. Gedankenausbreitung = Ich-Störung, Katalepsie = katatones Symptom, Affektverflachung = Negativsymptom, Wahnwahrnehmung = Wahnphänomen."
+    },
+    {
+      "topic": "Gedankenlautwerden: Zuordnung",
+      "question": "Zu welcher Ich-Dimension wird das Gedankenlautwerden gerechnet?",
+      "options": [
+        "Zur Ich-Demarkation (Verschwimmen der Ich-Umwelt-Grenze).",
+        "Zur Ich-Konsistenz (Gefühl des Auseinanderfallens).",
+        "Zur Ich-Vitalität (Bedrohung der eigenen Lebendigkeit).",
+        "Zur Ich-Aktivität (fremde Beeinflussung des Denkens).",
+        "Zur Ich-Identität (Unklarheit über die eigene Identität)."
+      ],
+      "answer": 3,
+      "explanation": "Das Gedankenlautwerden gehört wie Gedankeneingebung, -entzug und -ausbreitung zur Ich-Aktivität (Schneider-Erstrangsymptome). Vitalität, Konsistenz, Demarkation und Identität sind die anderen Dimensionen.",
+      "hard": true
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": "kl-schizophrenie-symptome",
+  "title": "Schizophrenie: Symptome im Überblick",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Symptomatik der Schizophrenie im Überblick: Psychose-Definition, die vier Domänen (Positiv-, Negativsymptomatik, Desorganisation, Neurokognition), historische Konzepte (Kraepelin, Bleulers vier A, Schneiders Erstrangsymptome), formale Denkstörungen, Affekt- und katatone Symptome sowie Symptomhäufigkeiten.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Psychose: Definition",
+      "question": "Wie lautet die Minimaldefinition einer Psychose?",
+      "options": [
+        "Eine schwere Geisteskrankheit mit Realitätsverlust.",
+        "Eine Persönlichkeitsstörung mit im Vordergrund stehender Impulsivität.",
+        "Eine erworbene kognitive Leistungsminderung ohne Wahrnehmungsveränderungen.",
+        "Eine vorübergehende Verstimmung ohne jede Beeinträchtigung der Realitätsprüfung.",
+        "Eine reine Angststörung mit ausgeprägten körperlichen Begleitsymptomen."
+      ],
+      "answer": 0,
+      "explanation": "Die Minimaldefinition der Psychose ist eine schwere Geisteskrankheit mit Realitätsverlust; Kernsymptome sind Wahn und Halluzinationen. Verstimmung ohne Realitätsverlust, Angststörung, reine kognitive Minderung und Persönlichkeitsstörung erfüllen diese Definition nicht."
+    },
+    {
+      "topic": "Psychose: Differenzierung",
+      "question": "Welche Einteilung der Psychosen wird in der Vorlesung genannt?",
+      "options": [
+        "Ausschließlich organisch bedingte Psychosen bei nachweisbarer Hirnschädigung.",
+        "Affektive, schizophrene, drogeninduzierte und organische Psychosen.",
+        "Nur wahnhafte Störungen und schizotype Persönlichkeitsstörungen.",
+        "Ausschließlich affektive und schizophrene Psychosen ohne weitere Formen.",
+        "Nur substanzinduzierte und rein psychoreaktiv ausgelöste Psychosen."
+      ],
+      "answer": 1,
+      "explanation": "Psychosen werden differenziert in affektive (Bipolar, schwere Depression), schizophrene, drogeninduzierte und organische Psychosen. Die übrigen Optionen lassen jeweils Formen weg oder verengen die Einteilung unzulässig."
+    },
+    {
+      "topic": "Vier Domänen",
+      "question": "Welche vier Symptomdomänen der Schizophrenie werden heute unterschieden?",
+      "options": [
+        "Assoziation, Affekt, Autismus und Ambivalenz als die vier diagnostischen Leitkriterien.",
+        "Prodromal-, Akut-, Residual- und Remissionsphase als die vier Verlaufsabschnitte.",
+        "Wahn, Halluzination, Ich-Störung und Affektverflachung als vier gleichrangige Symptome.",
+        "Manie, Depression, Angst und Zwang als die vier zentralen Störungsbereiche.",
+        "Positivsymptomatik, Negativsymptomatik, Desorganisation und neurokognitive Defizite."
+      ],
+      "answer": 4,
+      "explanation": "Heute werden vier Domänen unterschieden: Positiv-, Negativsymptomatik, Desorganisation und neurokognitive Defizite. Wahn/Halluzination/Ich-Störung sind Positivsymptome (nur eine Domäne); die vier A sind Bleulers Grundsymptome; die Verlaufsphasen sind keine Symptomdomänen."
+    },
+    {
+      "topic": "Positivsymptome",
+      "question": "Wodurch sind Positivsymptome der Schizophrenie gekennzeichnet?",
+      "options": [
+        "Die kognitive Leistungsfähigkeit ist bereits vor der ersten Episode dauerhaft reduziert.",
+        "Die Körperhaltung wird über lange Zeit stereotyp und starr eingenommen.",
+        "Etwas kommt zum normalen Erleben hinzu (z. B. Wahn, Halluzinationen, Ich-Störungen).",
+        "Etwas fällt vom normalen Erleben weg (z. B. Antrieb, affektive Schwingungsfähigkeit).",
+        "Das Denken zerfällt und die Sprache wird unkoordiniert und ziellos."
+      ],
+      "answer": 2,
+      "explanation": "Positivsymptome bedeuten, dass etwas zum Erleben Gesunder hinzukommt (Wahn, Halluzinationen, Ich-Störungen, manche formale Denkstörungen). Das Wegfallen kennzeichnet Negativsymptome, das Zerfallen die Desorganisation, die frühe Leistungsminderung die Kognition und die starre Haltung die Katatonie."
+    },
+    {
+      "topic": "Negativsymptome",
+      "question": "Welche Symptome zählen zur Negativsymptomatik der Schizophrenie?",
+      "options": [
+        "Katatone Symptome wie Stupor, Katalepsie und wächserne Biegsamkeit.",
+        "Beschleunigtes, assoziativ gelockertes Denken mit Gedankendrängen.",
+        "Anhedonie, Antriebslosigkeit und Affektverflachung.",
+        "Wahn, Halluzinationen und Ich-Störungen im akuten Zustandsbild.",
+        "Zerfahrenes, unkoordiniertes Denken mit zielloser Sprache und Handlung."
+      ],
+      "answer": 2,
+      "explanation": "Negativsymptome sind das Wegfallen von Funktionen: Anhedonie, Antriebslosigkeit, Affektverflachung (sowie verlangsamtes/gehemmtes Denken). Wahn/Halluzination/Ich-Störung sind Positivsymptome, zerfahrenes Denken ist Desorganisation, beschleunigtes Denken ein Positivsymptom, Stupor/Katalepsie sind katatone Symptome."
+    },
+    {
+      "topic": "Desorganisation",
+      "question": "Was kennzeichnet die Domäne der Desorganisation?",
+      "options": [
+        "Zerfahrenes, unkoordiniertes Denken, das zielgerichtete Sprache und Handlung verhindert.",
+        "Das Wegfallen von Antrieb, Freude und affektiver Schwingungsfähigkeit.",
+        "Eine bereits vor der ersten Episode bestehende, stabile kognitive Minderleistung.",
+        "Das Hinzutreten von Wahn und Halluzinationen zum normalen Erleben.",
+        "Die überdauernde Angst vor dem Entschwinden der eigenen Lebendigkeit."
+      ],
+      "answer": 0,
+      "explanation": "Desorganisation meint zerfahrenes, unkoordiniertes Denken und Verhalten, das zielgerichtete Sprache/Handlung verhindert. Wahn/Halluzination = Positiv, Antriebsverlust = Negativ, frühe kognitive Minderung = Neurokognition, Vitalitätsangst = Ich-Vitalitätsstörung."
+    },
+    {
+      "topic": "Neurokognitive Defizite",
+      "question": "Was ist für die neurokognitiven Störungen bei Schizophrenie charakteristisch?",
+      "options": [
+        "Sie schwanken eng mit der affektiven Symptomatik wie bei affektiven Störungen.",
+        "Sie sind Ausdruck eines hinzukommenden Erlebens wie bei Wahn und Halluzination.",
+        "Sie treten ausschließlich in der akuten Episode auf und verschwinden danach vollständig.",
+        "Sie sind bereits vor der ersten Episode präsent und episodenunabhängig relativ stabil.",
+        "Sie sind ohne jeden prognostischen Wert für den weiteren Krankheitsverlauf."
+      ],
+      "answer": 3,
+      "explanation": "Neurokognitive Defizite sind schon vor der ersten Episode vorhanden, relativ episodenunabhängig stabil (anders als bei affektiven Störungen) und haben hohen prädiktiven Wert für das soziorehabilitative Outcome. Sie sind weder rein episodisch, noch ein Positivsymptom, noch prognostisch bedeutungslos.",
+      "hard": true
+    },
+    {
+      "topic": "Historie: Kraepelin",
+      "question": "Wofür steht Kraepelins Begriff der Dementia praecox?",
+      "options": [
+        "Für eine Spaltung der psychischen Funktionen im Sinne eines Spaltungsirreseins.",
+        "Für einen frühzeitigen Beginn (praecox) mit fortschreitendem geistigem Verfall (dementia).",
+        "Für eine im Alter beginnende, rasch fortschreitende hirnorganische Demenz.",
+        "Für die akustischen Halluzinationen und Ich-Störungen als Erstrangsymptome.",
+        "Für die vier Grundsymptome Assoziation, Affekt, Autismus und Ambivalenz."
+      ],
+      "answer": 1,
+      "explanation": "Dementia praecox (Kraepelin 1896) meint einen frühzeitigen Beginn (praecox) mit fortschreitendem geistigem Verfall (dementia). Das Spaltungsirresein ist Bleulers Schizophrenie-Begriff, die vier A sind Bleulers Grundsymptome, die Erstrangsymptome stammen von Schneider."
+    },
+    {
+      "topic": "Historie: Bleuler (4 A)",
+      "question": "Welche vier Grundsymptome (die vier A) beschrieb Eugen Bleuler?",
+      "options": [
+        "Angst, Aggression, Apathie und Ambivalenz als affektive Kernsymptome.",
+        "Assoziationslockerung, Affektstörung, Autismus und Ambivalenz.",
+        "Akustische Halluzination, Ambitendenz, Akinese und Aphasie.",
+        "Anhedonie, Antriebsmangel, Affektverflachung und Alogie.",
+        "Amnesie, Aphasie, Apraxie und Agnosie als kognitive Leitsymptome."
+      ],
+      "answer": 1,
+      "explanation": "Bleulers Grundsymptome sind Assoziationslockerung, Affektstörung, Autismus und Ambivalenz (die vier A). Die anderen Reihen mischen Erstrangsymptome, Negativsymptome oder neurologische bzw. affektive Begriffe, die nicht Bleulers vier A sind."
+    },
+    {
+      "topic": "Historie: Bleuler akzessorisch",
+      "question": "Was zählte Bleuler zu den akzessorischen (nicht zu den Grund-)Symptomen?",
+      "options": [
+        "Wahrnehmungsstörungen, inhaltliche Denkstörungen und katatone Störungen.",
+        "Die drei Erstrangsymptome für die Diagnose im Sinne von Kurt Schneider.",
+        "Die vegetativen Begleitsymptome wie Schlaf- und Schweißstörungen.",
+        "Neurokognitive Defizite mit frühem Beginn und stabilem Verlauf.",
+        "Assoziationslockerung, Affektstörung, Autismus und Ambivalenz."
+      ],
+      "answer": 0,
+      "explanation": "Akzessorisch (hinzutretend) sind bei Bleuler Wahrnehmungsstörungen, inhaltliche Denkstörungen und katatone Störungen. Die vier A sind gerade die Grundsymptome; Neurokognition, Schneiders Erstrangsymptome und vegetative Symptome gehören nicht zu Bleulers akzessorischer Gruppe.",
+      "hard": true
+    },
+    {
+      "topic": "Historie: Schneider",
+      "question": "Was zählt Kurt Schneider zu den Erstrangsymptomen der Schizophrenie?",
+      "options": [
+        "Akustische Halluzinationen, Ich-Störungen und Wahnwahrnehmungen.",
+        "Assoziationslockerung, Affektstörung, Autismus und Ambivalenz.",
+        "Anhedonie, Antriebslosigkeit und affektive Verflachung.",
+        "Wahneinfall, Zönästhesien und sonstige (nicht-akustische) Halluzinationen.",
+        "Zerfahrenheit, Neologismen und Vorbeireden im formalen Denken."
+      ],
+      "answer": 0,
+      "explanation": "Schneiders Erstrangsymptome sind akustische Halluzinationen, Ich-Störungen (inkl. leiblicher Beeinflussung) und Wahnwahrnehmungen. Wahneinfall, Zönästhesien und andere Halluzinationen sind Zweitrangsymptome; die vier A sind Bleulers, Anhedonie/Antrieb sind Negativsymptome, Zerfahrenheit ist eine formale Denkstörung.",
+      "hard": true
+    },
+    {
+      "topic": "Formale Denkstörungen",
+      "question": "Welche Störung zählt zu den formalen Denkstörungen?",
+      "options": [
+        "Gedankeneingebung, Gedankenentzug und Gedankenausbreitung als Ich-Störungen.",
+        "Verfolgungswahn, Größenwahn und Beziehungswahn als inhaltliche Störungen.",
+        "Zerfahrenheit, Gedankenabreißen und Neologismen.",
+        "Akustische Halluzinationen in kommentierender oder dialogischer Form.",
+        "Anhedonie, Affektverflachung und sozialer Rückzug als Negativsymptome."
+      ],
+      "answer": 2,
+      "explanation": "Formale Denkstörungen betreffen den Denkablauf: Zerfahrenheit, Gedankenabreißen/Sperrung, Neologismen, Vorbeireden, Gedankendrängen. Wahnthemen sind inhaltliche Denkstörungen, Gedankeneingebung/-entzug sind Ich-Störungen, Stimmen sind Halluzinationen, Anhedonie ist ein Negativsymptom."
+    },
+    {
+      "topic": "Formale Denkstörungen: Zuordnung",
+      "question": "Wie ordnen sich formale Denkstörungen den Positiv-/Negativsymptomen zu?",
+      "options": [
+        "Formale Denkstörungen lassen sich Positiv- und Negativsymptomen gar nicht zuordnen.",
+        "Verlangsamtes Denken gilt als positiv, beschleunigtes Denken als negativ.",
+        "Alle formalen Denkstörungen zählen ausnahmslos zur Negativsymptomatik.",
+        "Beschleunigtes/gelockertes Denken gilt als positiv, verlangsamtes/gehemmtes als negativ.",
+        "Alle formalen Denkstörungen zählen ausnahmslos zur Positivsymptomatik."
+      ],
+      "answer": 3,
+      "explanation": "Manche formale Denkstörungen sind positiv (beschleunigtes, assoziativ gelockertes Denken), andere negativ (verlangsamtes, gehemmtes Denken). Eine pauschale Zuordnung zu nur einer Seite oder die umgekehrte Zuordnung ist falsch.",
+      "hard": true,
+      "trap": "Formale Denkstörungen sind nicht einheitlich: Tempo/Lockerung = positiv, Verlangsamung/Hemmung = negativ."
+    },
+    {
+      "topic": "Affektstörungen",
+      "question": "Wie kann der Affekt bei Schizophrenie gestört sein (im Sinne der AMDP-Begriffe)?",
+      "options": [
+        "Grundsätzlich unauffällig, da der Affekt bei Schizophrenie nie betroffen ist.",
+        "Nur im Sinne einer schweren depressiven Herabgestimmtheit über lange Zeit.",
+        "Ausschließlich euphorisch gehoben mit gesteigertem Antrieb und Ideenflucht.",
+        "Ausschließlich ängstlich-agitiert mit ausgeprägten vegetativen Begleitsymptomen.",
+        "Verflacht, parathym, labil, starr, ambivalent, anhedon oder ratlos."
+      ],
+      "answer": 4,
+      "explanation": "Der Affekt kann u. a. verflacht, parathym, labil, starr, ambivalent, anhedon oder ratlos sein. Eine rein euphorische, rein ängstliche oder rein depressive Ausprägung greift zu kurz, und unauffällig ist falsch, da der Affekt häufig betroffen ist."
+    },
+    {
+      "topic": "Katatonie",
+      "question": "Welche Symptome gehören zur katatonen (psychomotorischen) Symptomatik?",
+      "options": [
+        "Zerfahrenheit, Neologismen und Vorbeireden im formalen Gedankengang.",
+        "Konzentrationsstörungen und Gedächtnisdefizite mit frühem, stabilem Beginn.",
+        "Wahn, akustische Halluzinationen und Gedankenausbreitung im akuten Zustand.",
+        "Anhedonie, Antriebslosigkeit und sozialer Rückzug über lange Zeit.",
+        "Stupor, Katalepsie, wächserne Biegsamkeit, Echolalie und Negativismus."
+      ],
+      "answer": 4,
+      "explanation": "Katatone Symptome sind psychomotorisch: Stupor, Katalepsie, wächserne Biegsamkeit, Bewegungs-/Sprachstereotypien, Echolalie/Echopraxie, Negativismus, Manierismen, Befehlsautomatismen. Wahn/Halluzination = Positiv, Anhedonie = Negativ, Zerfahrenheit = formale Denkstörung, kognitive Defizite = Neurokognition."
+    },
+    {
+      "topic": "Katatonie: Echo-Phänomene",
+      "question": "Was unterscheidet Echolalie von Echopraxie?",
+      "options": [
+        "Echolalie ist ein Wahnsymptom, Echopraxie ein Negativsymptom.",
+        "Echolalie meint stereotype Körperhaltungen, Echopraxie meint Mutismus.",
+        "Echolalie ist das Nachsprechen von Worten, Echopraxie das Nachahmen von Bewegungen.",
+        "Beide bezeichnen dasselbe Phänomen und werden ohne Unterschied verwendet.",
+        "Echolalie ist das Nachahmen von Bewegungen, Echopraxie das Nachsprechen von Worten."
+      ],
+      "answer": 2,
+      "explanation": "Echolalie ist das Nachsprechen der Worte anderer, Echopraxie das Nachahmen ihrer Bewegungen, beides Befehlsautomatismen (Gegenstück zum Negativismus). Die zweite Option vertauscht beide; sie sind nicht identisch und weder Haltungs-, Wahn- noch Negativsymptome.",
+      "hard": true,
+      "trap": "Echo-LALIE = Sprache (nachsprechen), Echo-PRAXIE = Bewegung (nachahmen) – nicht vertauschen."
+    },
+    {
+      "topic": "Katatone Schizophrenie",
+      "question": "Was gilt für die katatone Schizophrenie (F20.2)?",
+      "options": [
+        "Sie macht etwa 6 % der Schizophrenien aus und zeigt zusätzlich psychomotorische Symptome.",
+        "Sie ist die mit Abstand häufigste Form und betrifft die Mehrzahl aller Erkrankten.",
+        "Sie tritt nur im höheren Lebensalter und nur nach organischer Schädigung auf.",
+        "Sie ist ausschließlich durch Negativsymptome ohne jede Psychomotorik definiert.",
+        "Sie wurde erstmals von Kurt Schneider als Erstrangsymptom beschrieben."
+      ],
+      "answer": 0,
+      "explanation": "Die katatone Schizophrenie (F20.2) betrifft ca. 6 % und zeigt neben den klassischen Symptomen psychomotorische Auffälligkeiten (Mutismus, Katalepsie, Stupor u. a.); erstbeschrieben von Kahlbaum (1874). Sie ist nicht die häufigste Form, nicht rein negativ, nicht altersgebunden und kein Schneider-Erstrangsymptom."
+    },
+    {
+      "topic": "Perniziöse Katatonie",
+      "question": "Was kennzeichnet die perniziöse (maligne) Katatonie?",
+      "options": [
+        "Eine leichte, rasch reversible Bewegungsverlangsamung ohne körperliche Gefährdung.",
+        "Stupor mit Fieber und schwerer vegetativer Entgleisung (Tachykardie, Hypertonie).",
+        "Eine ausschließlich durch Antidepressiva ausgelöste Nebenwirkung des Serotonins.",
+        "Eine rein psychische Wahnsymptomatik ganz ohne körperliche Begleiterscheinungen.",
+        "Eine chronische Negativsymptomatik mit sozialem Rückzug über viele Jahre."
+      ],
+      "answer": 1,
+      "explanation": "Die perniziöse/maligne Katatonie ist ein Notfall: Stupor mit Fieber, hypo-/hyperkinetischem Wechsel und schwerer sympathikotoner Entgleisung (Tachykardie, Hypertonie, Dehydrierung, Muskelabbau); Therapie u. a. Benzodiazepine, Antipsychotika und EKT. Die übrigen Beschreibungen verharmlosen oder verfehlen das Bild.",
+      "hard": true
+    },
+    {
+      "topic": "Symptomhäufigkeit",
+      "question": "Welches Symptom ist bei Schizophrenie am häufigsten (nach den genannten Häufigkeiten)?",
+      "options": [
+        "Der Mangel an Krankheitseinsicht (rund 97 %).",
+        "Die vollständige dissoziative Amnesie für die Krankheitsepisode.",
+        "Der optische Halluzinationstyp mit szenischen Trugwahrnehmungen.",
+        "Die perniziöse Katatonie mit vegetativer Entgleisung.",
+        "Der systematisierte Größenwahn mit komplexem Wahngebäude."
+      ],
+      "answer": 0,
+      "explanation": "Am häufigsten ist der Mangel an Krankheitseinsicht (~97 %), gefolgt von akustischen Halluzinationen (~74 %) und sozialem Rückzug (~74 %). Optische Halluzinationen sind bei Schizophrenie selten (eher organisch/Drogen), perniziöse Katatonie ist selten, Größenwahn und dissoziative Amnesie sind nicht die häufigsten Symptome."
+    },
+    {
+      "topic": "Einheits- vs. Zerfallspsychose",
+      "question": "Was meinte das historische Konzept der Zerfallspsychose?",
+      "options": [
+        "Die ausschließlich zyklisch (heute affektiv) verlaufenden Psychoseformen.",
+        "Die rein katatone Form mit im Vordergrund stehender Psychomotorik.",
+        "Die gute Prognose der Psychosen mit vollständiger Heilung ohne Defekt.",
+        "Die Annahme, alle Psychosen seien nur Ausprägungen einer einzigen Grunderkrankung.",
+        "Den Fokus auf Ich-Störungen bis hin zur erlebten vollständigen Ich-Auflösung."
+      ],
+      "answer": 4,
+      "explanation": "Die Zerfallspsychose fokussierte auf Ich-Störungen bis zur erlebten (auch körperlichen) Ich-Auflösung. Die Idee einer einzigen Grunderkrankung ist die Einheitspsychose, die zyklischen Formen sind die zirkulären (affektiven) Psychosen; katatone Form und gute Prognose beschreiben etwas anderes."
+    },
+    {
+      "topic": "Kontroverse",
+      "question": "Wie bewertete Jaspers (1913) Kraepelins Dichotomie von gutartigen Emotionskrankheiten und Dementia praecox?",
+      "options": [
+        "Als reine Erfindung ohne jeden diagnostischen oder heuristischen Nutzen.",
+        "Als zwei klar getrennte, biologisch eindeutig bestätigte Krankheitseinheiten.",
+        "Als vollständig deckungsgleich mit der heutigen ICD-11-Klassifikation.",
+        "Als keine validen Entitäten, sondern als Idealbilder zur Suchorientierung.",
+        "Als Beleg dafür, dass alle Psychosen dieselbe schlechte Prognose haben."
+      ],
+      "answer": 3,
+      "explanation": "Jaspers sah die Dichotomie nicht als valide Entitäten, sondern als Idealbilder zur Suchorientierung. Er behauptete weder zwei bestätigte Entitäten, noch Deckungsgleichheit mit ICD-11, noch Nutzlosigkeit oder eine einheitlich schlechte Prognose."
+    },
+    {
+      "topic": "Zönästhesien",
+      "question": "Was sind Zönästhesien?",
+      "options": [
+        "Optische Trugwahrnehmungen, die typisch für die Schizophrenie sind.",
+        "Leibhalluzinationen wie Brennen oder Elektrisierung des Körpers.",
+        "Akustische Halluzinationen in kommentierender oder dialogischer Form.",
+        "Formale Denkstörungen mit Zerfahrenheit, Neologismen und Gedankenabreißen im Gedankengang.",
+        "Wahnhafte Überzeugungen ohne jede sinnliche Wahrnehmungskomponente."
+      ],
+      "answer": 1,
+      "explanation": "Zönästhesien sind leibbezogene (Körper-)Halluzinationen wie Brennen oder Elektrisierung. Kommentierende/dialogische Stimmen sind akustische Halluzinationen, optische Trugbilder sind bei Schizophrenie untypisch, Wahn hat keine sinnliche Komponente, Zerfahrenheit ist eine formale Denkstörung."
+    },
+    {
+      "topic": "Vegetative Symptome",
+      "question": "Welche Symptome zählen zu den vegetativen Begleitsymptomen der Schizophrenie?",
+      "options": [
+        "Stupor, Katalepsie und wächserne Biegsamkeit als psychomotorische Symptome.",
+        "Wahn, Halluzinationen und Ich-Störungen als hinzukommende Positivsymptome.",
+        "Anhedonie, Antriebslosigkeit und Affektverflachung als Negativsymptome.",
+        "Zerfahrenheit, Neologismen und Vorbeireden als formale Denkstörungen.",
+        "Schlafstörungen, Herzfrequenzänderungen und Störungen der Schweißsekretion."
+      ],
+      "answer": 4,
+      "explanation": "Vegetative Symptome sind u. a. Schlafstörungen, Herzfrequenzänderungen, Gewichtsschwankungen sowie Störungen der Speichel-/Schweißsekretion. Wahn/Halluzination = Positiv, Stupor/Katalepsie = kataton, Zerfahrenheit = formal, Anhedonie = negativ."
+    },
+    {
+      "topic": "Halluzinationen: Modalität",
+      "question": "Wie sind optische Halluzinationen bei einem Patienten mit Verdacht auf Schizophrenie einzuordnen?",
+      "options": [
+        "Sie sind ein rein vegetatives Begleitsymptom ohne diagnostische Bedeutung.",
+        "Untypisch für Schizophrenie – sie sprechen eher für eine organische oder drogeninduzierte Ursache.",
+        "Sie sind das häufigste und typischste Halluzinationsphänomen der Schizophrenie.",
+        "Sie gelten als Schneider-Erstrangsymptom und sichern die Diagnose Schizophrenie.",
+        "Sie sind ein Negativsymptom und weisen auf einen chronischen Residualzustand hin."
+      ],
+      "answer": 1,
+      "explanation": "Bei Schizophrenie dominieren akustische Halluzinationen; optische Halluzinationen sind untypisch und weisen eher auf eine organische Schädigung oder Drogen (z. B. LSD, Meskalin, Psilocybin) hin. Sie sind weder typisch schizophren, noch Erstrangsymptom, noch Negativ- oder rein vegetatives Symptom.",
+      "hard": true,
+      "trap": "Optische Halluzinationen sprechen bei Schizophrenie-Verdacht eher gegen Schizophrenie (organisch/Drogen)."
+    },
+    {
+      "topic": "Affekt: Parathymie",
+      "question": "Was bezeichnet der Begriff der Parathymie?",
+      "options": [
+        "Einen durchgängig verflachten Affekt ohne erkennbare Gefühlsschwingung.",
+        "Einen über lange Zeit erstarrten, unbeweglichen (starren) Affekt.",
+        "Einen Affekt, der nicht zur berichteten oder erlebten Situation passt (inkongruent).",
+        "Das gleichzeitige Nebeneinander gegensätzlicher Gefühle (Ambivalenz).",
+        "Einen rasch zwischen den Gefühlspolen wechselnden, ausgeprägt labilen Affekt."
+      ],
+      "answer": 2,
+      "explanation": "Parathymie bezeichnet einen zur Situation inkongruenten Affekt (z. B. Lächeln beim Bericht über Bedrohliches). Verflacht, labil und starr sind andere Affektqualitäten, und das Nebeneinander gegensätzlicher Gefühle ist die Ambivalenz.",
+      "trap": "Parathym heißt nicht verflacht, sondern zur Situation unpassend (inkongruent)."
+    },
+    {
+      "topic": "Anwendung: Symptomklasse",
+      "question": "Ein Patient zeigt zunehmenden Antriebsverlust, kaum noch Freude an früheren Interessen und einen verflachten Affekt. Welche Symptomdomäne liegt vor?",
+      "options": [
+        "Desorganisation mit zerfahrenem Denken und zielloser Handlung.",
+        "Neurokognitive Defizite mit frühem Beginn und stabilem Verlauf.",
+        "Katatone Symptomatik mit Stupor und wächserner Biegsamkeit.",
+        "Positivsymptomatik mit hinzutretenden Wahn- und Halluzinationsphänomenen.",
+        "Negativsymptomatik."
+      ],
+      "answer": 4,
+      "explanation": "Antriebsverlust, Anhedonie und Affektverflachung sind klassische Negativsymptome (etwas fällt weg). Wahn/Halluzination wären positiv, zerfahrenes Denken desorganisiert, Stupor kataton, und kognitive Defizite betreffen die Neurokognition.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Symptomklasse",
+      "question": "Eine Patientin berichtet, fremde Stimmen zu hören, die ihr Handeln laufend kommentieren. Welche Symptomdomäne liegt vor?",
+      "options": [
+        "Desorganisation mit zerfahrenem, unkoordiniertem Denken.",
+        "Neurokognitive Defizite mit episodenunabhängiger Stabilität.",
+        "Negativsymptomatik mit Anhedonie und Affektverflachung.",
+        "Positivsymptomatik.",
+        "Rein vegetative Symptomatik mit Schlaf- und Schweißstörungen."
+      ],
+      "answer": 3,
+      "explanation": "Kommentierende akustische Halluzinationen sind ein Positivsymptom (etwas kommt hinzu). Anhedonie wäre negativ, zerfahrenes Denken desorganisiert, kognitive Defizite neurokognitiv, Schlafstörungen vegetativ.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Katatonie",
+      "question": "Ein Patient verharrt regungslos in einer ihm passiv gegebenen, unbequemen Körperhaltung über längere Zeit. Welches Symptom liegt am ehesten vor?",
+      "options": [
+        "Eine formale Denkstörung mit Zerfahrenheit und Gedankenabreißen.",
+        "Ein systematisierter Verfolgungswahn mit komplexem Wahngebäude.",
+        "Eine kommentierende akustische Halluzination im Sinne einer Stimme.",
+        "Katalepsie (bzw. wächserne Biegsamkeit) als katatones Symptom.",
+        "Eine dissoziative Amnesie für die betreffende Zeitspanne."
+      ],
+      "answer": 3,
+      "explanation": "Das Beibehalten passiv gegebener Haltungen ist Katalepsie/wächserne Biegsamkeit, ein katatones (psychomotorisches) Symptom. Verfolgungswahn, Stimmen, Zerfahrenheit und dissoziative Amnesie betreffen andere Symptombereiche.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Bleuler",
+      "question": "Bei einer Patientin bestehen gleichzeitig gegensätzliche Gefühle und Handlungsimpulse gegenüber derselben Person, ohne dass sie diese auflösen kann. Welches der vier A beschreibt das?",
+      "options": [
+        "Autismus im Sinne eines Rückzugs in die eigene Innenwelt.",
+        "Assoziationslockerung mit sprunghaftem, gelockertem Gedankengang.",
+        "Ambivalenz.",
+        "Affektstörung im Sinne einer verflachten Gefühlsschwingung.",
+        "Ambitendenz als rein motorisches katatones Phänomen."
+      ],
+      "answer": 2,
+      "explanation": "Das gleichzeitige Nebeneinander gegensätzlicher Gefühle/Impulse ist die Ambivalenz (eines der vier A). Autismus ist der Rückzug in die Innenwelt, Assoziationslockerung betrifft den Gedankengang, Affektstörung die Gefühlsschwingung; Ambitendenz ist nicht eines der vier A.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Domäne mit Prognosewert",
+      "question": "Bei einem Patienten bestehen schon vor der ersten Episode messbare Aufmerksamkeits- und Gedächtnisdefizite, die über die Episoden hinweg stabil bleiben. Welche Domäne ist das?",
+      "options": [
+        "Negativsymptomatik; sie tritt erst nach der ersten Episode auf und ist reversibel.",
+        "Katatonie; sie ist der zuverlässigste Marker für das soziale Outcome.",
+        "Desorganisation; sie schwankt eng mit der jeweiligen affektiven Symptomatik.",
+        "Neurokognitive Defizite; sie sind episodenunabhängig stabil und prognostisch bedeutsam.",
+        "Positivsymptomatik; sie ist das instabilste, aber prognostisch wichtigste Symptom."
+      ],
+      "answer": 3,
+      "explanation": "Vor der Episode vorhandene, episodenunabhängig stabile Aufmerksamkeits-/Gedächtnisdefizite kennzeichnen die neurokognitive Domäne, die als stabilstes Symptom hohen prädiktiven Wert für das soziorehabilitative Outcome hat. Die anderen Domänen sind episodischer bzw. treffen die Beschreibung nicht.",
+      "hard": true,
+      "transfer": true
+    }
+  ]
+}
