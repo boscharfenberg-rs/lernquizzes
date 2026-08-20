@@ -1,0 +1,415 @@
+{
+  "id": "kl-schizophrenie-differenzialdiagnostik",
+  "title": "Schizophrenie: Differenzialdiagnostik",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Differenzialdiagnostik der Schizophrenie im Altklausur-Stil: Abgrenzung gegen organische Störungen (Delir, Demenzen, NMDAR-Enzephalitis), substanzinduzierte Psychosen, andere psychotische Störungen (schizotyp, wahnhaft, akut vorübergehend, schizoaffektiv), affektive Psychosen sowie Angst-, Zwangs-, PTBS/dissoziative, Ess- und Persönlichkeitsstörungen (inkl. überwertige Idee, Pseudohalluzination, ich-dyston/-synton).",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Überblick",
+      "question": "Wogegen muss die Schizophrenie differenzialdiagnostisch am ehesten abgegrenzt werden?",
+      "options": [
+        "Nur gegen substanzinduzierte Psychosen bei Cannabiskonsum.",
+        "Gegen organische, substanzinduzierte, affektive und andere psychotische Störungen.",
+        "Ausschließlich gegen die bipolare affektive Störung und gegen keine andere Störung.",
+        "Ausschließlich gegen organisch bedingte Delir- und Demenzformen.",
+        "Gegen gar keine andere Störung, da die Diagnose stets eindeutig ist."
+      ],
+      "answer": 1,
+      "explanation": "Die Schizophrenie ist gegen organische (F0), substanzinduzierte (F1), andere schizophrene/wahnhafte (F2), affektive (F3) und weitere Störungen abzugrenzen. Eine Beschränkung auf nur eine Gruppe oder die Behauptung völliger Eindeutigkeit trifft nicht zu."
+    },
+    {
+      "topic": "F0: Delir",
+      "question": "Welches Merkmal spricht am ehesten für ein Delir statt für eine Schizophrenie?",
+      "options": [
+        "Ein schleichender Beginn ohne jede körperliche oder organische Ursache.",
+        "Eine Bewusstseinsstörung mit akutem Beginn, fluktuierendem Verlauf und organischer Grundlage.",
+        "Ein vollständig erhaltenes Gedächtnis und eine ungestörte Orientierung.",
+        "Das ausschließliche Auftreten akustischer Halluzinationen ohne Wahn.",
+        "Ein klares Bewusstsein bei durchgehend stabiler Symptomatik über Jahre."
+      ],
+      "answer": 1,
+      "explanation": "Das Delir zeigt eine Bewusstseinsstörung, akuten Beginn, fluktuierenden Verlauf und eine organische Grundlage (Fieber, Infektion, Stoffwechsel, ZNS-Erkrankung); häufig auch Halluzinationen (v. a. visuell), Wahn und Agitation. Schleichender Beginn, klares Bewusstsein/Stabilität, isolierte akustische Halluzinationen oder ungestörte Orientierung sprechen nicht für ein Delir."
+    },
+    {
+      "topic": "F0: Demenzen",
+      "question": "Welche Aussage zu psychotischen Symptomen bei Demenzen trifft zu?",
+      "options": [
+        "Alzheimer ~41 % psychotisch; Lewy-Körperchen: visuelle Halluzinationen.",
+        "Psychotische Symptome bei Demenz sind stets akustischer und nie visueller Natur.",
+        "Psychotische Symptome kommen bei Demenzen grundsätzlich nicht vor.",
+        "Nur bei der Alzheimer-Demenz, nie bei anderen Demenzformen, treten Halluzinationen auf.",
+        "Bei der Lewy-Körperchen-Demenz sind visuelle Halluzinationen ein Ausschlusskriterium."
+      ],
+      "answer": 0,
+      "explanation": "Bei ca. 41 % der Alzheimer-Patienten treten psychotische Symptome auf; bei der Lewy-Körperchen-Demenz sind visuelle Halluzinationen ein wichtiges Diagnosekriterium. Ein Nicht-Vorkommen, ein Ausschlusskriterium, ein reiner Akustik-Bezug oder eine Beschränkung auf Alzheimer treffen nicht zu."
+    },
+    {
+      "topic": "F0: Autoimmun",
+      "question": "Was ist bei der NMDAR-Enzephalitis das wichtigste Differenzialdiagnostikum gegenüber der Schizophrenie?",
+      "options": [
+        "Eine vollständig fehlende Prodromalphase vor den psychotischen Symptomen.",
+        "Ein rein schleichender Beginn ohne jede körperliche Begleitsymptomatik.",
+        "Epileptische Anfälle neben schizophrenieformen Symptomen.",
+        "Das ausschließliche Auftreten von Negativsymptomen ohne Positivsymptome.",
+        "Ein völlig unauffälliger neurologischer Befund über Jahre hinweg."
+      ],
+      "answer": 2,
+      "explanation": "Bei der NMDAR-Enzephalitis folgen auf ein Prodromalstadium schizophrenieforme Symptome UND epileptische Anfälle (wichtigstes Differenzialdiagnostikum) mit rapider Verschlechterung des Allgemeinzustands. Ein unauffälliger Befund, ein rein schleichender Beginn, reine Negativsymptomatik oder fehlendes Prodrom sprechen nicht dafür."
+    },
+    {
+      "topic": "F1: substanzinduziert",
+      "question": "Was gilt für die Abgrenzung einer substanzinduzierten Psychose von der Schizophrenie?",
+      "options": [
+        "Sie unterscheidet sich schon im Querschnitt eindeutig und sofort von der Schizophrenie.",
+        "Sie tritt ausschließlich nach Alkoholkonsum und nie nach anderen Substanzen auf.",
+        "Sie kann noch bei einer Latenz von mehreren Jahren zwischen Konsum und Psychose sicher diagnostiziert werden.",
+        "Im Querschnitt kaum unterscheidbar, bildet sich bei Abstinenz über Wochen zurück.",
+        "Sie bleibt auch bei vollständiger Abstinenz dauerhaft und unverändert bestehen."
+      ],
+      "answer": 3,
+      "explanation": "Die substanzinduzierte Psychose (Cannabis, MDMA, Amphetamine, Kokain, Halluzinogene) ist im Querschnitt kaum von der Schizophrenie zu unterscheiden, geht aber bei Abstinenz über Wochen bis Monate zurück; bei einer Latenz > 6 Monaten zwischen Konsum und Psychose ist die Diagnose nicht mehr zu stellen. Eine sofortige Unterscheidbarkeit, dauerhaftes Bestehen, Jahre-Latenz oder ein reiner Alkoholbezug treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "F1: Behandlung",
+      "question": "Womit wird eine cannabisinduzierte Psychose in der Vorlesung bevorzugt behandelt?",
+      "options": [
+        "Mit einer Lichttherapie über mehrere Stunden täglich.",
+        "Grundsätzlich ohne jede medikamentöse Behandlung.",
+        "Ausschließlich mit einer Elektrokrampftherapie.",
+        "Eher mit Benzodiazepinen als mit Antipsychotika.",
+        "Ausschließlich mit hochdosierten First-Generation-Antipsychotika."
+      ],
+      "answer": 3,
+      "explanation": "Eine cannabisinduzierte Psychose wird laut Vorlesung eher mit Benzodiazepinen als mit Antipsychotika behandelt. Hochdosierte FGA, EKT, Lichttherapie oder ein grundsätzlicher Behandlungsverzicht sind nicht gemeint."
+    },
+    {
+      "topic": "F2: schizotype Störung",
+      "question": "Was kennzeichnet die schizotype Störung in Abgrenzung zur Schizophrenie?",
+      "options": [
+        "Sie ist durch einen dauerhaften psychotischen Realitätsverlust gekennzeichnet.",
+        "Risikofaktor für SCH, ohne klaren Beginn und mit weniger ausgeprägten Symptomen.",
+        "Sie zeigt einen klaren, akuten Beginn mit voll ausgeprägter Positivsymptomatik.",
+        "Sie schließt eine genetische Disposition zur Schizophrenie sicher aus.",
+        "Sie ist ausschließlich durch kognitive Defizite als Kernkriterium definiert."
+      ],
+      "answer": 1,
+      "explanation": "Die schizotype Störung ist ein Risikofaktor für Schizophrenie (genetische Disposition), hat keinen klaren Beginn (Verlauf wie eine Persönlichkeitsstörung) und generell weniger ausgeprägte Symptome (Wahnideen, Misstrauen, Skurrilität, flacher Affekt). Ein akuter Beginn, dauerhafter Realitätsverlust, ein Ausschluss der Disposition oder kognitive Defizite als Kernkriterium treffen nicht zu."
+    },
+    {
+      "topic": "F2: wahnhafte Störung",
+      "question": "Was ist typisch für die (anhaltende) wahnhafte Störung?",
+      "options": [
+        "Ein rasch wechselnder, bizarrer Wahn mit ausgeprägten Halluzinationen und Ich-Störungen.",
+        "Ein Beginn typischerweise in der frühen Adoleszenz, vor allem bei Frauen.",
+        "Ein stabiler, meist nicht bizarrer Einzelwahn bei normalem Funktionsniveau.",
+        "Eine ausgeprägte formale Denkstörung mit Zerfahrenheit als Leitsymptom.",
+        "Ein durchgehend deutlich reduziertes Funktionsniveau in allen Lebensbereichen."
+      ],
+      "answer": 2,
+      "explanation": "Bei der wahnhaften Störung ist der Wahn stabil, meist nicht bizarr und oft das einzige Symptom, bei normalem Funktionsniveau (primär Männer ab der zweiten Lebenshälfte; Themen Verfolgung, Größe, Liebe). Ein bizarrer wechselnder Wahn mit Halluzinationen, ein reduziertes Funktionsniveau, ein früher Frauen-Beginn oder eine formale Denkstörung als Leitsymptom sprechen dagegen."
+    },
+    {
+      "topic": "F2: akute vorübergehende Psychose",
+      "question": "Was kennzeichnet die akute vorübergehende (reaktive) psychotische Störung?",
+      "options": [
+        "Ein dauerhaftes, unveränderliches Wahnsystem als einziges Symptom.",
+        "Ein schleichender, über viele Jahre stabiler und monomorpher Verlauf.",
+        "Eine rein negative Symptomatik ohne jedes akute psychotische Erleben.",
+        "Ein akutes, polymorphes, zeitlich begrenztes Bild (ggf. Übergang in SCH/wahnhafte Störung).",
+        "Eine ausschließlich organisch bedingte, fluktuierende Bewusstseinsstörung."
+      ],
+      "answer": 3,
+      "explanation": "Die akute vorübergehende psychotische Störung ist akut und polymorph (rasch auftretend, wechselhaft) sowie zeitlich begrenzt; bei erfüllten Zeitkriterien geht sie je nach Symptomatik in Schizophrenie oder wahnhafte Störung über. Ein schleichend-stabiler Verlauf, ein dauerhaftes Wahnsystem, ein Delir oder reine Negativsymptomatik treffen nicht zu."
+    },
+    {
+      "topic": "F2: schizoaffektiv",
+      "question": "Was kennzeichnet die schizoaffektive Störung?",
+      "options": [
+        "Sie tritt ausschließlich organisch bedingt bei fluktuierender Bewusstseinslage auf.",
+        "Es sind ausschließlich schizophrene Symptome ohne jeden affektiven Anteil vorhanden.",
+        "Es sind ausschließlich affektive Symptome ohne jeden psychotischen Anteil vorhanden.",
+        "Symptome beider Störungen in einer Episode, ohne dass eine allein die Kriterien erfüllt.",
+        "Die Kriterien sowohl der Schizophrenie als auch der affektiven Störung sind zugleich vollständig erfüllt."
+      ],
+      "answer": 3,
+      "explanation": "Schizoaffektiv bedeutet, dass Symptome beider Störungen innerhalb einer Episode (nur wenige Tage getrennt) vorliegen, ohne dass die Kriterien für Schizophrenie oder affektive Störung je allein erfüllt sind (Marneros & Angst: konkurrierender vs. sequenzieller Typus). Rein schizophrene, rein affektive, beide vollständig erfüllte oder organische Bilder treffen nicht zu."
+    },
+    {
+      "topic": "F3: affektive Psychose",
+      "question": "Was gilt für psychotische Symptome im Rahmen affektiver Störungen?",
+      "options": [
+        "Bei schwerer (ICD-11 auch mittlerer) affektiver Symptomatik, meist synthym.",
+        "Sie schließen die Diagnose einer affektiven Störung definitionsgemäß aus.",
+        "Sie treten ausschließlich bei leichter affektiver Symptomatik auf und sind stets bizarr.",
+        "Sie kommen bei affektiven Störungen überhaupt nicht vor.",
+        "Sie sind grundsätzlich stimmungsinkongruent und nie synthym."
+      ],
+      "answer": 0,
+      "explanation": "Bei schwerer (ICD-11 auch mittlerer) affektiver Symptomatik können psychotische Symptome auftreten, meist (nicht immer) stimmungskongruent (synthym) – z. B. Verarmungs-/Schuldwahn bei Depression, Größen-/Beziehungswahn bei Manie. Ein reines Leicht-Auftreten, durchgehende Inkongruenz, ein Diagnoseausschluss oder ein Nicht-Vorkommen treffen nicht zu."
+    },
+    {
+      "topic": "F3: Wahnthemen",
+      "question": "Welche Wahnthemen sind bei der psychotischen Depression typisch?",
+      "options": [
+        "Größen-, Beziehungs- und Sendungswahn mit gehobener Grundstimmung.",
+        "Ein stabiler, nicht bizarrer Einzelwahn bei normalem Funktionsniveau.",
+        "Vor allem bizarre, stimmungsfremde Wahninhalte ohne Themenbezug.",
+        "Ausschließlich Verfolgungs- und Beeinflussungswahn wie bei der Schizophrenie.",
+        "Verarmungs-, Schuld- und hypochondrischer Wahn, seltener nihilistischer Wahn."
+      ],
+      "answer": 4,
+      "explanation": "Zur (synthymen) Depression passen Verarmungs-, Schuld- und hypochondrischer Wahn (seltener Nihilismus, sehr selten Verkleinerung). Größen-/Beziehungs-/Sendungswahn passen zur Manie, bizarre stimmungsfremde Inhalte und Beeinflussungswahn eher zur Schizophrenie, ein stabiler Einzelwahn zur wahnhaften Störung."
+    },
+    {
+      "topic": "F4: Angststörungen",
+      "question": "Wie grenzt sich eine Angststörung von der Schizophrenie ab?",
+      "options": [
+        "Es fehlen grundsätzlich jegliche Entfremdungs- oder Derealisationserlebnisse.",
+        "Es besteht ein dauerhafter psychotischer Realitätsverlust wie bei der Schizophrenie.",
+        "Entfremdungsgefühle (Derealisation/Depersonalisation), aber kein echtes psychotisches Erleben.",
+        "Es tritt regelhaft ein echtes psychotisches Erleben mit Wahn und Halluzinationen auf.",
+        "Es liegen ausschließlich formale Denkstörungen mit Zerfahrenheit vor."
+      ],
+      "answer": 2,
+      "explanation": "Bei Angststörungen können Entfremdungsgefühle (Derealisation, Depersonalisation) auftreten, jedoch kein echtes psychotisches Erleben. Echtes psychotisches Erleben, ein Realitätsverlust, formale Denkstörungen als Leitsymptom oder ein völliges Fehlen von Entfremdung treffen nicht zu."
+    },
+    {
+      "topic": "F4: Zwangsstörung",
+      "question": "Welcher Zwangsstörungs-Subtyp ist besonders schwer von einer psychotischen Störung abzugrenzen?",
+      "options": [
+        "Der Subtyp mit wenig Einsicht (obsessive compulsive psychosis).",
+        "Der reine Waschzwang mit hoher Krankheitseinsicht.",
+        "Der klassische Kontrollzwang mit voll erhaltener Einsicht.",
+        "Der Zählzwang ohne jede magische oder wahnhafte Komponente.",
+        "Ein Zwang, der ausschließlich im vollremittierten Zustand auftritt."
+      ],
+      "answer": 0,
+      "explanation": "Der Subtyp mit wenig Einsicht bzw. magischen Zwangsgedanken (obsessive compulsive psychosis) ist als besonders schwere Zwangsform schwer von einer psychotischen Störung abzugrenzen. Kontroll-, Wasch- oder Zählzwänge mit erhaltener Einsicht oder ein rein remittierter Zwang sind hier nicht gemeint."
+    },
+    {
+      "topic": "F4: PTBS",
+      "question": "Was gilt für die Abgrenzung Schizophrenie versus PTBS/komplexe PTBS?",
+      "options": [
+        "Bei PTBS treten ausschließlich echte, dauerhafte Halluzinationen mit Realitätsverlust auf.",
+        "Dissoziative Symptome lassen sich stets mühelos von Ich-Störungen abgrenzen.",
+        "Ein Wahn bei PTBS ist immer dauerhaft, bizarr und psychotisch im engeren Sinn.",
+        "Trauma ist ein Risikofaktor allein für die PTBS, nicht aber für die Schizophrenie.",
+        "Bei kPTBS Stimmenhören/Wahn möglich, meist als Pseudohalluzinationen und nicht dauerhaft."
+      ],
+      "answer": 4,
+      "explanation": "Trauma ist ein Risikofaktor für F2 UND PTBS; bei komplexer PTBS können Stimmenhören und Wahn auftreten, meist als Pseudohalluzinationen und nicht dauerhaft. Echte dauerhafte Halluzinationen, ein Trauma nur als PTBS-Risiko, eine mühelose Abgrenzung dissoziativer Symptome oder ein stets dauerhafter Wahn treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "F2 vs. PTBS: Dissoziation",
+      "question": "Wie unterscheidet sich dissoziatives Erleben bei PTBS von einer Ich-Störung bei Schizophrenie?",
+      "options": [
+        "Dissoziation betrifft nur das Gedächtnis, die Ich-Störung nur den Antrieb.",
+        "Dissoziation ist ich-synton mit Realitätsverlust, die Ich-Störung ich-dyston und pseudopsychotisch.",
+        "Beide sind gleichermaßen ich-dyston und ohne jeden Realitätsverlust.",
+        "Dissoziation eher ich-dyston/pseudopsychotisch; Ich-Störung ich-synton mit Realitätsverlust.",
+        "Beide sind gleichermaßen ich-synton und mit echtem Realitätsverlust verbunden."
+      ],
+      "answer": 3,
+      "explanation": "Beim dissoziativen Erleben werden eigene Gedanken/Handlungen eher als fremd erlebt (ich-dyston, pseudopsychotisch), während die Ich-Störung ich-synton mit echtem psychotischem Realitätsverlust einhergeht (z. B. Gedankeneingebung). Die vertauschte, die gleichsetzende oder die auf Gedächtnis/Antrieb reduzierte Darstellung trifft nicht zu.",
+      "hard": true,
+      "trap": "Dissoziation = ich-dyston/pseudopsychotisch; Ich-Störung = ich-synton mit Realitätsverlust."
+    },
+    {
+      "topic": "F5: Anorexia",
+      "question": "Wie ist die Körperschemastörung bei Anorexia nervosa gegenüber einem Wahn einzuordnen?",
+      "options": [
+        "Als überwertige Idee, nicht als Wahn im engeren Sinn.",
+        "Als formale Denkstörung mit Zerfahrenheit des Gedankengangs.",
+        "Als echte optische Halluzination des eigenen Körpers.",
+        "Als bizarrer, unkorrigierbarer Wahn wie bei der Schizophrenie.",
+        "Als dissoziatives Symptom mit vollständigem Realitätsverlust."
+      ],
+      "answer": 0,
+      "explanation": "Die Körperschemastörung (tief verwurzelte Angst vor dem Dicksein) ist eine überwertige Idee, kein Wahn im engeren Sinn; das gedankliche Haften am Thema Essen/Gewicht ist zwanghaft. Ein bizarrer Wahn, eine Halluzination, ein dissoziatives Symptom oder eine formale Denkstörung treffen nicht zu.",
+      "trap": "Körperschemastörung bei Anorexie = überwertige Idee, nicht Wahn."
+    },
+    {
+      "topic": "F6: Persönlichkeitsstörungen",
+      "question": "Was gilt für psychotische Symptome bei Persönlichkeitsstörungen (PKS)?",
+      "options": [
+        "Psychotische Symptome treten ausschließlich bei der histrionischen PKS auf.",
+        "Bei Persönlichkeitsstörungen bestehen stets dauerhafte echte Halluzinationen.",
+        "Psychotische Symptome kommen bei Persönlichkeitsstörungen grundsätzlich nicht vor.",
+        "Persönlichkeitsstörungen schließen eine wahnhafte Störung sicher aus.",
+        "Bei den meisten PKS gelegentlich psychotische Symptome, v. a. bei paranoider/schizoider/BPS."
+      ],
+      "answer": 4,
+      "explanation": "Bei den meisten PKS können gelegentlich psychotische Symptome auftreten, am deutlichsten bei paranoider, schizoider und Borderline-PKS (bei 64 % wahnhafter Patienten gingen PKS voraus). Ein Nicht-Vorkommen, eine Beschränkung auf histrionische PKS, stets dauerhafte Halluzinationen oder ein Ausschluss der wahnhaften Störung treffen nicht zu."
+    },
+    {
+      "topic": "F6: BPS",
+      "question": "Was gilt für psychotische Symptome bei der Borderline-Persönlichkeitsstörung (BPS)?",
+      "options": [
+        "Psychotische Symptome bei BPS treten ausschließlich im vollremittierten Zustand auf.",
+        "Bei nahezu allen BPS-Patienten bestehen dauerhafte echte Halluzinationen mit Realitätsverlust.",
+        "Formale Denkstörungen treten bei BPS unabhängig vom Erregungszustand dauerhaft auf.",
+        "Psychotische Symptome sind bei der BPS definitionsgemäß vollständig ausgeschlossen.",
+        "Bei ~30 % stressüberdauernde psychotische Symptome; sonst eher Pseudohalluzinationen."
+      ],
+      "answer": 4,
+      "explanation": "Bei ca. 30 % der BPS finden sich stressüberdauernde psychotische Symptome (Wahn, Stimmenhören); ansonsten eher Pseudohalluzinationen und innere Anspannung, formale Denkstörungen nur im starken Erregungszustand. Dauerhafte echte Halluzinationen, ein Ausschluss, dauerhafte Denkstörungen oder ein reiner Remissionsbezug treffen nicht zu."
+    },
+    {
+      "topic": "F6: BPS-Modelle",
+      "question": "Welche Erklärungsmodelle für Halluzinationen bei BPS werden genannt?",
+      "options": [
+        "Dissoziatives Erleben (traumatisierte Subgruppe) und „psychotic reactivity to stress“.",
+        "Ausschließlich eine rein genetische Ursache ohne jeden Stressbezug.",
+        "Ausschließlich eine organische Hirnschädigung wie bei der Demenz.",
+        "Ausschließlich eine bewusste Simulation zur Erlangung von Vorteilen.",
+        "Alle genannten Modelle sind gleichermaßen belegt und zutreffend."
+      ],
+      "answer": 0,
+      "explanation": "Genannt werden zwei Modelle: dissoziatives Erleben bei einer traumatisierten Subgruppe und die „psychotic reactivity to stress“ (Hyperaktivität der HPA-Achse und des dopaminergen Systems bei Stress). Eine rein genetische, simulierte oder organische Erklärung sowie die Sammeloption treffen nicht zu."
+    },
+    {
+      "topic": "Pseudohalluzination",
+      "question": "Was unterscheidet eine Pseudohalluzination (z. B. bei kPTBS/BPS) von einer echten Halluzination bei Schizophrenie?",
+      "options": [
+        "Beide beruhen zwingend auf einem realen äußeren Sinnesreiz.",
+        "Beide gehen mit vollständig aufgehobenem Realitätsbezug einher.",
+        "Pseudohalluzination: Realitätsbezug erhalten; echte Halluzination: aufgehoben.",
+        "Bei der Pseudohalluzination ist der Realitätsbezug stärker aufgehoben als bei der echten Halluzination.",
+        "Die Pseudohalluzination betrifft nur das Sehen, die echte nur das Hören."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Pseudohalluzination bleibt der Realitätsbezug erhalten (die Person weiß, dass es nicht real ist), bei der echten Halluzination der Schizophrenie ist er aufgehoben. Ein stärkerer Verlust, ein beidseitig aufgehobener Bezug, ein realer Reiz oder eine Modalitätsbindung treffen nicht zu.",
+      "hard": true,
+      "trap": "Pseudohalluzination = Realitätsbezug erhalten; echte Halluzination = Realitätsbezug aufgehoben."
+    },
+    {
+      "topic": "Anwendung: F1",
+      "question": "Ein 22-Jähriger entwickelt nach intensivem Cannabiskonsum psychotische Symptome, die sich über einige Wochen der Abstinenz vollständig zurückbilden. Welche Diagnose ist am ehesten zutreffend?",
+      "options": [
+        "Eine anhaltende wahnhafte Störung mit stabilem Einzelwahn.",
+        "Ein organisches Delir mit fluktuierender Bewusstseinsstörung.",
+        "Eine substanzinduzierte (cannabisinduzierte) Psychose.",
+        "Eine gesicherte paranoide Schizophrenie mit chronischem Verlauf.",
+        "Eine schizotype Störung mit genetischer Disposition."
+      ],
+      "answer": 2,
+      "explanation": "Psychotische Symptome nach Cannabiskonsum, die sich bei Abstinenz über Wochen zurückbilden, sprechen für eine substanzinduzierte Psychose. Eine chronische Schizophrenie, eine wahnhafte Störung, ein Delir oder eine schizotype Störung passen nicht zum Verlauf.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: F0",
+      "question": "Eine ältere Patientin entwickelt akut über Stunden eine Bewusstseinstrübung mit wechselnder Orientierung, visuellen Halluzinationen und Agitation im Rahmen eines fieberhaften Infekts. Welche Diagnose ist am ehesten zutreffend?",
+      "options": [
+        "Eine erstmanifestierte paranoide Schizophrenie.",
+        "Ein Delir auf organischer Grundlage.",
+        "Eine schizoaffektive Störung mit gemischter Symptomatik.",
+        "Eine anhaltende wahnhafte Störung.",
+        "Eine akute vorübergehende psychotische Störung ohne organische Ursache."
+      ],
+      "answer": 1,
+      "explanation": "Akute Bewusstseinstrübung, fluktuierende Orientierung, visuelle Halluzinationen und Agitation bei fieberhaftem Infekt sprechen für ein Delir (organische Grundlage). Schizophrenie, wahnhafte oder schizoaffektive Störung und die akute vorübergehende Psychose setzen keine organische Bewusstseinsstörung voraus.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: F2",
+      "question": "Ein 60-jähriger Mann ist seit Jahren unerschütterlich überzeugt, sein Nachbar wolle ihn vergiften; ansonsten ist er unauffällig und voll leistungsfähig. Welche Diagnose ist am ehesten zutreffend?",
+      "options": [
+        "Eine schizoaffektive Störung mit affektiver Komponente.",
+        "Eine anhaltende wahnhafte Störung.",
+        "Eine paranoide Schizophrenie mit ausgeprägter Positivsymptomatik.",
+        "Eine substanzinduzierte Psychose bei Cannabiskonsum.",
+        "Ein Delir mit fluktuierender Bewusstseinsstörung."
+      ],
+      "answer": 1,
+      "explanation": "Ein stabiler, nicht bizarrer Einzelwahn (Vergiftung durch den Nachbarn) bei ansonsten normalem Funktionsniveau bei einem älteren Mann spricht für eine anhaltende wahnhafte Störung. Schizophrenie, Delir, substanzinduzierte oder schizoaffektive Störung passen nicht zum Bild.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: F5",
+      "question": "Eine junge Frau ist tief überzeugt, zu dick zu sein, obwohl sie deutlich untergewichtig ist, und denkt ständig an Essen und Gewicht. Wie ist ihre Überzeugung am ehesten einzuordnen?",
+      "options": [
+        "Als dissoziatives Symptom mit vollständigem Realitätsverlust.",
+        "Als formale Denkstörung mit Zerfahrenheit.",
+        "Als bizarrer, unkorrigierbarer Wahn im Rahmen einer Schizophrenie.",
+        "Als optische Halluzination des eigenen Körpers.",
+        "Als überwertige Idee im Rahmen einer Anorexia nervosa."
+      ],
+      "answer": 4,
+      "explanation": "Die tief verwurzelte Überzeugung, zu dick zu sein, ist eine überwertige Idee im Rahmen einer Anorexia nervosa (Körperschemastörung) – kein Wahn im engeren Sinn. Ein Wahn, eine Halluzination, ein dissoziatives Symptom oder eine formale Denkstörung treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: F4",
+      "question": "Eine Patientin mit schwerer Traumatisierung hört zeitweise die Stimme des Täters, erkennt aber, dass diese nicht real ist; das Erleben ist ich-dyston. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als echte akustische Halluzination im Rahmen einer Schizophrenie.",
+        "Als organisch bedingtes Delir mit fluktuierender Bewusstseinslage.",
+        "Als anhaltende wahnhafte Störung mit stabilem Einzelwahn.",
+        "Als ich-syntone Ich-Störung mit psychotischem Realitätsverlust.",
+        "Als Pseudohalluzination im Rahmen einer (komplexen) PTBS."
+      ],
+      "answer": 4,
+      "explanation": "Ein als nicht real erkanntes, ich-dystones Stimmenhören bei schwerer Traumatisierung ist eine Pseudohalluzination im Rahmen einer (komplexen) PTBS. Eine echte Halluzination, eine ich-syntone Ich-Störung, ein Delir oder eine wahnhafte Störung passen nicht.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "F1: NICHT",
+      "question": "Was trifft auf die substanzinduzierte Psychose am ehesten NICHT zu?",
+      "options": [
+        "Eine cannabisinduzierte Psychose wird eher mit Benzodiazepinen als mit Antipsychotika behandelt.",
+        "Sie kann u. a. durch Cannabis, MDMA, Amphetamine, Kokain oder Halluzinogene ausgelöst werden.",
+        "Sie bildet sich bei vollständiger Abstinenz über Wochen bis Monate zurück.",
+        "Bei einer Latenz über sechs Monaten ist die Diagnose noch sicher zu stellen.",
+        "Sie ist im Querschnitt symptomatisch kaum von einer Schizophrenie zu unterscheiden."
+      ],
+      "answer": 3,
+      "explanation": "Bei einer Latenz von mehr als sechs Monaten zwischen Konsum und Psychose kann die Diagnose gerade NICHT mehr gestellt werden – die erste Aussage ist falsch. Die übrigen Aussagen (Querschnitts-Ununterscheidbarkeit, Rückbildung bei Abstinenz, auslösende Substanzen, Benzodiazepin-Behandlung) treffen zu."
+    },
+    {
+      "topic": "F2: wahnhafte Störung NICHT",
+      "question": "Was trifft auf die anhaltende wahnhafte Störung am ehesten NICHT zu?",
+      "options": [
+        "Der Wahn ist typischerweise bizarr, wechselhaft und mit Halluzinationen.",
+        "Betroffen sind primär Männer ab der zweiten Lebenshälfte.",
+        "Der Wahn ist typischerweise stabil und meist nicht bizarr.",
+        "Der Wahn ist häufig das einzige Symptom bei normalem Funktionsniveau.",
+        "Typische Wahnthemen sind Verfolgung, Größe und Liebe (Eifersucht)."
+      ],
+      "answer": 0,
+      "explanation": "Der Wahn der wahnhaften Störung ist gerade nicht bizarr und wechselhaft mit Halluzinationen, sondern stabil und meist nicht bizarr – die erste Aussage ist falsch. Die übrigen Aussagen (einziges Symptom, normales Funktionsniveau, Männer ab zweiter Lebenshälfte, Themen Verfolgung/Größe/Liebe) treffen zu.",
+      "hard": true
+    },
+    {
+      "topic": "F0: NICHT",
+      "question": "Was spricht am ehesten NICHT für ein Delir (statt einer Schizophrenie)?",
+      "options": [
+        "Häufig visuelle Halluzinationen sowie Wahn und Agitation.",
+        "Eine organische Grundlage (z. B. Fieber, Infektion, Stoffwechselentgleisung).",
+        "Klares Bewusstsein bei schleichendem Beginn und jahrelanger Stabilität.",
+        "Eine Bewusstseinsstörung mit fluktuierendem Verlauf über Stunden.",
+        "Ein akuter, plötzlicher Beginn der Symptomatik."
+      ],
+      "answer": 2,
+      "explanation": "Ein klares Bewusstsein mit schleichendem Beginn und jahrelanger Stabilität spricht gegen ein Delir – die erste Aussage ist die gesuchte. Bewusstseinsstörung, akuter Beginn, organische Grundlage und visuelle Halluzinationen/Wahn/Agitation kennzeichnen dagegen das Delir."
+    },
+    {
+      "topic": "F4: PTBS NICHT",
+      "question": "Was trifft auf die Abgrenzung Schizophrenie versus PTBS/Dissoziation am ehesten NICHT zu?",
+      "options": [
+        "Der dissoziative Subtyp der PTBS geht mit Derealisation und Depersonalisation einher.",
+        "Dissoziative Symptome lassen sich stets mühelos und eindeutig von Ich-Störungen abgrenzen.",
+        "Bei komplexer PTBS auftretende Stimmen sind meist Pseudohalluzinationen und nicht dauerhaft.",
+        "Trauma ist ein Risikofaktor sowohl für die Schizophrenie als auch für die PTBS.",
+        "Dissoziatives Erleben ist eher ich-dyston, die Ich-Störung eher ich-synton."
+      ],
+      "answer": 1,
+      "explanation": "Dissoziative Symptome sind gerade NICHT mühelos von Ich-Störungen abzugrenzen (sie sind schwer zu unterscheiden) – die erste Aussage ist falsch. Die übrigen Aussagen (Trauma als gemeinsamer Risikofaktor, Pseudohalluzinationen bei kPTBS, ich-dyston vs. ich-synton, dissoziativer Subtyp) treffen zu.",
+      "hard": true
+    }
+  ]
+}

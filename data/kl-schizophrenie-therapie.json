@@ -1,0 +1,415 @@
+{
+  "id": "kl-schizophrenie-therapie",
+  "title": "Schizophrenie: Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Therapie der Schizophrenie im Altklausur-Stil: Pharmakotherapie (Antipsychotika-Generationen, Cariprazin/Paliperidon, Rezeptorprofile, Behandlungsdauer, ideale D2-Blockade, Overshooting, Prolaktin, Supersensitivität/Durchbruchspsychosen), EKT sowie Psychotherapie (dimensionale Sicht, Mono-PT-Evidenz, KVT, Familieninterventionen, Psychoedukation, ACT).",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Antipsychotika: Generationen",
+      "question": "Wie werden die Antipsychotika grob eingeteilt?",
+      "options": [
+        "In rein pflanzliche und rein synthetische Wirkstoffe ohne weitere Untergliederung.",
+        "In First- und Second-Generation-Antipsychotika (FGA und SGA).",
+        "In circadiane und nicht-circadiane Präparate je nach Einnahmezeitpunkt.",
+        "Ausschließlich nach der Farbe und Form der jeweiligen Tablette.",
+        "In Antidepressiva der ersten und zweiten Generation ohne Bezug zu Dopamin."
+      ],
+      "answer": 1,
+      "explanation": "Antipsychotika werden in FGA (z. B. Chlorpromazin, Haloperidol) und SGA (z. B. Clozapin, Risperidon, Olanzapin) eingeteilt. Antidepressiva, circadiane Einteilungen, Tablettenform oder pflanzlich/synthetisch sind nicht die maßgebliche Klassifikation."
+    },
+    {
+      "topic": "Antipsychotika: Cariprazin",
+      "question": "Wodurch zeichnet sich das neuere Antipsychotikum Cariprazin (Reagila) aus?",
+      "options": [
+        "Als klassisches First-Generation-Antipsychotikum aus den 1950er Jahren.",
+        "Als reiner, vollständiger Antagonist ausschließlich an D2-Rezeptoren.",
+        "Als Wirkstoff ganz ohne jede Affinität zu Dopaminrezeptoren.",
+        "Als reines Antidepressivum ohne antipsychotische Wirkkomponente.",
+        "Als partieller D2-/D3-Agonist (D3-Wirkung gegen Negativsymptomatik)."
+      ],
+      "answer": 4,
+      "explanation": "Cariprazin ist ein partieller Agonist an D2- und neu auch D3-Rezeptoren (D3-Wirkung mit Bezug zur Negativsymptomatik) sowie mit 5-HT1a-Wirkung. Ein reiner D2-Antagonist, fehlende Dopaminaffinität, ein FGA-Status oder ein reines Antidepressivum treffen nicht zu."
+    },
+    {
+      "topic": "Antipsychotika: Paliperidon",
+      "question": "Was ist über Paliperidon (Invega) bekannt?",
+      "options": [
+        "Es ist der aktive Hauptmetabolit von Risperidon.",
+        "Es ist ein klassisches First-Generation-Antipsychotikum aus den 1950er Jahren.",
+        "Es ist ein reines Benzodiazepin zur kurzfristigen Sedierung.",
+        "Es ist ein Wirkstoff ganz ohne Affinität zu Dopamin- oder Serotoninrezeptoren.",
+        "Es ist ein Antidepressivum ohne antipsychotische Wirkung."
+      ],
+      "answer": 0,
+      "explanation": "Paliperidon ist der aktive Hauptmetabolit von Risperidon und wirkt als Dopamin- und Serotonin-Antagonist. Ein FGA, ein Benzodiazepin, ein Antidepressivum oder ein Wirkstoff ohne Rezeptoraffinität sind nicht gemeint."
+    },
+    {
+      "topic": "Antipsychotika: Rezeptorprofil",
+      "question": "Wie unterscheidet sich das Rezeptorprofil von Haloperidol von dem des Clozapins?",
+      "options": [
+        "Beide haben ein identisches Rezeptorprofil ohne jeden Unterschied.",
+        "Beide wirken ausschließlich über Serotoninrezeptoren ohne Dopaminbezug.",
+        "Beide wirken ausschließlich über GABA-Rezeptoren.",
+        "Haloperidol vorrangig über D2, Clozapin an vielen Rezeptortypen.",
+        "Clozapin wirkt ausschließlich über D2, Haloperidol an vielen Rezeptortypen."
+      ],
+      "answer": 3,
+      "explanation": "Haloperidol (FGA) wirkt vorrangig als D2-Antagonist, Clozapin (SGA) an zahlreichen Rezeptortypen (u. a. D1/D2/D4, 5-HT, muscarinerg, adrenerg, H1). Die umgekehrte Zuordnung, reine Serotonin-/GABA-Wirkung oder identische Profile treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Behandlungsdauer",
+      "question": "Was gilt heute für die Dauer der antipsychotischen Behandlung?",
+      "options": [
+        "Die Behandlung wird nach genau einem Jahr in jedem Fall beendet.",
+        "Die Dauer richtet sich ausschließlich nach dem Lebensalter der Person.",
+        "Die Dauer ist nicht mehr festgelegt, sondern richtet sich nach der Rezidivprophylaxe.",
+        "Antipsychotika werden grundsätzlich nur als einmalige Gabe verabreicht.",
+        "Ab der ersten Episode ist grundsätzlich eine lebenslange Therapie vorgeschrieben."
+      ],
+      "answer": 2,
+      "explanation": "Früher galt: 1. Episode = 1 Jahr, 2. Episode = 2–5 Jahre, ab 3. Episode lebenslang. Heute ist die Dauer nicht mehr festgelegt, sondern richtet sich an der Rezidivprophylaxe aus. Eine pauschal lebenslange, exakt einjährige, rein altersabhängige oder einmalige Gabe trifft nicht zu."
+    },
+    {
+      "topic": "Augmentation",
+      "question": "Was gilt für Hochdosisbehandlung und Augmentation (z. B. mit Lithium, Carbamazepin) als Rezidivprophylaxe?",
+      "options": [
+        "Sie werden zur Rezidivprophylaxe nicht mehr empfohlen.",
+        "Sie sind bei Schizophrenie grundsätzlich kontraindiziert und verboten.",
+        "Sie sind ausschließlich bei der Ersterkrankung indiziert.",
+        "Sie sind die heute empfohlene Standard-Rezidivprophylaxe.",
+        "Sie ersetzen bei Schizophrenie regelhaft die Antipsychotika vollständig."
+      ],
+      "answer": 0,
+      "explanation": "Hochdosisbehandlung (über den Zulassungsbereich) und die Augmentation mit Lithium, Carbamazepin, Lamotrigin oder Valproat werden als Rezidivprophylaxe nicht mehr empfohlen. Ein Standard-Status, eine Beschränkung auf Ersterkrankung, ein Ersatz der Antipsychotika oder ein generelles Verbot treffen nicht zu."
+    },
+    {
+      "topic": "D2-Blockade",
+      "question": "Was legen neuere Daten zur idealen D2/3-Rezeptorblockade nahe?",
+      "options": [
+        "Eine Blockade unter 20 % erzielt die stärksten Effekte bei geringsten Nebenwirkungen.",
+        "Eine Blockade von ~50–70 % genügt; höhere Dosen bringen mehr Nebenwirkungen.",
+        "Erst eine möglichst vollständige Blockade über 90 % sichert eine ausreichende Wirkung.",
+        "Je höher die Dosis, desto linearer und stärker steigt die Wirkung ohne Nachteile.",
+        "Die Rezeptorblockade ist für die Wirkung unbedeutend; nur die Einnahmedauer zählt."
+      ],
+      "answer": 1,
+      "explanation": "Neuere Daten sprechen für eine ideale D2/3-Blockade um 50–70 % bei relativ niedrigen Dosen (1–2 mg Haldol-Äquivalenzen); höhere Dosen bringen kaum Mehrwirkung, aber mehr Nebenwirkungen (kein linearer Dosis-Wirkungs-Zusammenhang). Die übrigen Aussagen treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Overshooting",
+      "question": "Welches Vorgehen wird als „Overshooting“ kritisiert?",
+      "options": [
+        "Das Anerkennen der Unvermeidbarkeit residualer Restsymptome.",
+        "Der frühzeitige Einbezug begleitender Psychotherapie.",
+        "Überdosierungen bis zum Dreifachen der empfohlenen Maximaldosis.",
+        "Ein langsames Ausschleichen der Medikation über viele Monate.",
+        "Eine an der niedrigsten wirksamen Dosis orientierte, zurückhaltende Aufdosierung."
+      ],
+      "answer": 2,
+      "explanation": "„Overshooting“ meint Überdosierungen bis zum Dreifachen der empfohlenen Maximaldosis (einige Nebenwirkungen treten erst dann auf) – ohne linearen Dosis-Wirkungs-Zusammenhang. Zurückhaltende Dosierung, Psychotherapie, das Anerkennen von Restsymptomen und langsames Ausschleichen sind gerade die empfohlenen Vorgehensweisen.",
+      "trap": "Höhere Dosis bringt keine lineare Mehrwirkung – „Overshooting“ erhöht v. a. die Nebenwirkungen."
+    },
+    {
+      "topic": "Prolaktin",
+      "question": "Ab welcher D2-Rezeptorblockade tritt typischerweise eine Prolaktinerhöhung auf?",
+      "options": [
+        "Nur bei gleichzeitiger Lichttherapie.",
+        "Ausschließlich bei einer Blockade unter 20 %.",
+        "Erst ab einer vollständigen 100-%-Blockade.",
+        "Bereits ab etwa 72 % Rezeptorblockade.",
+        "Grundsätzlich nie, da Antipsychotika den Prolaktinspiegel nicht beeinflussen."
+      ],
+      "answer": 3,
+      "explanation": "Eine Prolaktinerhöhung tritt bereits ab etwa 72 % Rezeptorblockade auf (Dopamin hemmt die Prolaktinfreisetzung; die Blockade hebt diese Hemmung auf). 100 %, ein Nicht-Auftreten, eine sehr niedrige Blockade oder ein Lichttherapie-Bezug treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Wirksamkeit",
+      "question": "Was zeigte die Analyse der fünf Verlaufstypen der Antipsychotika-Wirkung in den ersten sechs Monaten?",
+      "options": [
+        "Die stärkste Verbesserung trat ausschließlich bei mild Erkrankten auf.",
+        "Kein einziger Behandelter profitierte in messbarer Weise.",
+        "Praktisch alle Behandelten zeigten eine starke, anhaltende Verbesserung.",
+        "Nur etwa ein Drittel (~32 %) hatte einen klinisch relevanten Effekt.",
+        "Die Wirkung war bei allen Verlaufstypen exakt gleich stark."
+      ],
+      "answer": 3,
+      "explanation": "Über die fünf Verlaufstypen hatte nur rund ein Drittel (~32 %) einen klinisch relevanten Effekt. „Fast alle“, „niemand“, gleiche Verläufe oder eine Beschränkung auf mild Erkrankte geben die Befunde nicht wieder."
+    },
+    {
+      "topic": "Wirksamkeitsverlust",
+      "question": "Wodurch wird der Wirksamkeitsverlust von Antipsychotika im Zeitverlauf erklärt (CATIE)?",
+      "options": [
+        "Durch eine irreversible Verödung der Rezeptoren durch den Wirkstoff.",
+        "Durch ein dauerhaftes Absterben aller dopaminergen Nervenzellen.",
+        "Durch Up-Regulation der D2-Rezeptoren und eine Dopamin-Supersensitivität.",
+        "Durch eine völlig unveränderliche Rezeptorlandschaft trotz Dauergabe.",
+        "Durch eine bleibende Zunahme der Serotonin-Wiederaufnahme."
+      ],
+      "answer": 2,
+      "explanation": "Unter Dauergabe kommt es zu einer Up-Regulation der D2-Rezeptoren (nach Jahren um 70–100 %) und einer Dopamin-Supersensitivität (bis 3-fach); daraus resultieren Wirkverlust und „Durchbruchspsychosen“, reversibel erst durch langsames Ausschleichen über Monate. Zelltod, Serotonin-Wiederaufnahme, „Verödung“ oder Unveränderlichkeit erklären das nicht.",
+      "hard": true,
+      "trap": "Der Wirkverlust beruht auf Rezeptor-Adaptation (Up-Regulation/Supersensitivität), nicht auf Zellabsterben."
+    },
+    {
+      "topic": "Durchbruchspsychosen",
+      "question": "Was sind sogenannte „Durchbruchspsychosen“ (Supersensitivitätspsychosen)?",
+      "options": [
+        "Psychotische Symptome, die ausschließlich bei völlig unbehandelten Patienten auftreten.",
+        "Eine vollständige, dauerhafte Heilung nach dem Absetzen der Medikation.",
+        "Ein Zeichen für eine besonders gute Langzeitprognose der Erkrankung.",
+        "Psychotische Symptome, die trotz Medikation infolge der Supersensitivität auftreten.",
+        "Eine reine Nebenwirkung der Lichttherapie bei saisonaler Depression."
+      ],
+      "answer": 3,
+      "explanation": "Durchbruchspsychosen sind psychotische Symptome, die trotz Medikation infolge der Dopamin-Supersensitivität durchbrechen; bei Dosisreduktion drohen zudem Rebound- und Supersensitivitätspsychosen. Ein reines Auftreten bei Unbehandelten, eine Heilung, eine Lichttherapie-Nebenwirkung oder ein Prognosemarker treffen nicht zu."
+    },
+    {
+      "topic": "EKT bei Schizophrenie",
+      "question": "In welcher Situation kommt die EKT bei Schizophrenie in Betracht?",
+      "options": [
+        "Ausschließlich als Ersatz jeder psychotherapeutischen Behandlung.",
+        "Ausschließlich zur Behandlung einer komorbiden saisonalen Depression.",
+        "Als Mittel der ersten Wahl bereits bei jeder leichten Erstmanifestation.",
+        "Grundsätzlich nie, da die EKT bei Schizophrenie kontraindiziert ist.",
+        "Bei katatoner (auch perniziöser) und therapieresistenter Symptomatik."
+      ],
+      "answer": 4,
+      "explanation": "Die EKT kommt bei Schizophrenie u. a. bei katatoner (auch perniziöser) und therapieresistenter Symptomatik in Betracht (allgemein Methode der Wahl bei therapieresistenter/psychotischer Depression). Ein Erstlinieneinsatz bei leichter Erstmanifestation, ein reiner Depressions- oder Psychotherapie-Ersatz oder eine generelle Kontraindikation treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: Paradigmenwechsel",
+      "question": "Welcher Paradigmenwechsel ermöglichte eine auf psychotische Symptome bezogene Psychotherapie?",
+      "options": [
+        "Die dimensionale Kontinuums-Sicht (übersteigerte normalpsychologische Prozesse).",
+        "Die Annahme, psychotisches Erleben sei qualitativ völlig vom gesunden Erleben getrennt.",
+        "Die Auffassung, Psychotherapie sei bei Psychosen grundsätzlich wirkungslos.",
+        "Die Annahme, psychotische Symptome seien stets bewusst vorgetäuscht.",
+        "Die Rückkehr zu einer rein biologischen, ausschließlich medikamentösen Sichtweise."
+      ],
+      "answer": 0,
+      "explanation": "Der Paradigmenwechsel bestand in einer dimensionalen (Kontinuums-)Perspektive: psychotisches Erleben als übersteigerte Ausprägung normalpsychologischer Prozesse, nicht qualitativ vom gesunden Erleben abweichend. Eine qualitative Trennung, generelle Wirkungslosigkeit, rein biologische Sicht oder Simulation treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: Voraussetzung",
+      "question": "Wie ist die lange vorherrschende Annahme zu bewerten, Medikation sei zwingende Voraussetzung für eine Psychotherapie bei Schizophrenie?",
+      "options": [
+        "Sie gilt als überholt; es gibt Hinweise auf Wirksamkeit einer Mono-Psychotherapie.",
+        "Alle genannten Bewertungen dieser Annahme sind gleichermaßen zutreffend.",
+        "Sie ist bestätigt, weil Psychosen grundsätzlich nicht psychotherapierbar sind.",
+        "Sie ist uneingeschränkt bestätigt: Psychotherapie ohne Medikation ist wirkungslos.",
+        "Sie ist bestätigt, weil Psychotherapie die Symptomatik regelhaft verschlechtert."
+      ],
+      "answer": 0,
+      "explanation": "Die Annahme gilt als überholt: Es gibt Hinweise auf Wirksamkeit einer Mono-Psychotherapie (z. B. KVT bei Medikamentenverweigerern). Eine uneingeschränkte Bestätigung, eine Verschlechterung durch Psychotherapie, generelle Nicht-Therapierbarkeit oder die Sammeloption treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: Monotherapie",
+      "question": "Was gilt laut S3-Leitlinie (DGPPN 2019) für die psychotherapeutische Monotherapie bei Schizophrenie?",
+      "options": [
+        "Sie ist der Kombinationsbehandlung in allen Studien deutlich überlegen.",
+        "Sie ist grundsätzlich verboten und ethisch nicht vertretbar.",
+        "Sie ist die klar belegte Standardbehandlung ohne begleitende Medikation.",
+        "Bislang keine belastbare Evidenz; Studien liefen meist mit Medikation.",
+        "Sie ist bei Schizophrenie nachweislich vollständig wirkungslos."
+      ],
+      "answer": 3,
+      "explanation": "Laut S3-Leitlinie gibt es bislang keine belastbare Evidenz für eine psychotherapeutische Monotherapie; Studien liefen regelhaft in Kombination mit Medikation (reine PT wurde als ethisch fragwürdig gewertet). Dennoch gibt es Hinweise auf Wirksamkeit bei Medikamentenverweigerern. Eine belegte Standardbehandlung, ein Verbot, eine Überlegenheit oder völlige Wirkungslosigkeit treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Psychotherapie: KVT",
+      "question": "Was gilt für die Evidenz der kognitiven Verhaltenstherapie (KVT) bei Psychosen?",
+      "options": [
+        "Die KVT ist ausschließlich bei affektiven, nie bei psychotischen Störungen wirksam.",
+        "Es liegt für die KVT bei Psychosen überhaupt keine Evidenz vor.",
+        "Die KVT verschlechtert die psychotische Symptomatik regelhaft.",
+        "Die Evidenz zur Symptomreduktion ist am deutlichsten.",
+        "Die KVT ist bei Psychosen grundsätzlich kontraindiziert."
+      ],
+      "answer": 3,
+      "explanation": "Für die KVT ist die Evidenz zur Symptomreduktion bei Psychosen am deutlichsten (u. a. Reduktion psychotischer Symptomatik bei Medikamentenverweigerern; Halbierung des Übergangsrisikos im Prodromalstadium). Fehlende Evidenz, Verschlechterung, Beschränkung auf affektive Störungen oder Kontraindikation treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: KVT im Prodrom",
+      "question": "Welche Wirkung konnte für die KVT im prodromalen (Risiko-)Stadium gezeigt werden?",
+      "options": [
+        "Eine Verdopplung des Übergangsrisikos in eine psychotische Episode.",
+        "Ein Übergang, der durch die KVT zwingend beschleunigt wird.",
+        "Überhaupt kein messbarer Effekt auf das Übergangsrisiko.",
+        "Ein sicherer, vollständiger Ausschluss jedes späteren psychotischen Übergangs.",
+        "Eine Halbierung des Risikos eines Übergangs in eine psychotische Episode."
+      ],
+      "answer": 4,
+      "explanation": "Im prodromalen Stadium konnte die KVT das Risiko eines Übergangs in eine psychotische Episode halbieren (Zheng et al. 2022). Eine Verdopplung, ein vollständiger Ausschluss, ein fehlender Effekt oder eine Beschleunigung treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: Familieninterventionen",
+      "question": "Wofür sind psychoedukative Familieninterventionen besonders überzeugend?",
+      "options": [
+        "Für die Beschleunigung des Übergangs in eine psychotische Episode.",
+        "Für die alleinige Akutbehandlung ohne jede Medikation.",
+        "Für die Rückfallprophylaxe und weniger Rehospitalisierungen.",
+        "Für die vollständige und dauerhafte Heilung der Schizophrenie.",
+        "Für die Behandlung rein körperlicher Begleiterkrankungen."
+      ],
+      "answer": 2,
+      "explanation": "Psychoedukative Familieninterventionen sind besonders überzeugend, wenn Rückfallprophylaxe und die Reduktion von Rehospitalisierungen das Ziel sind. Eine vollständige Heilung, alleinige Akutbehandlung, Beschleunigung des Übergangs oder Behandlung körperlicher Erkrankungen sind nicht gemeint."
+    },
+    {
+      "topic": "Psychotherapie: Psychoedukation",
+      "question": "Was schränkt die S3-Leitlinie hinsichtlich der Psychoedukation ein?",
+      "options": [
+        "Psychoedukation ist grundsätzlich wirkungslos und wird nicht empfohlen.",
+        "Psychoedukation ersetzt bei Schizophrenie regelhaft jede Medikation.",
+        "Angehörigenintegrierende Ansätze sind deutlich weniger effektiv als rein patientenorientierte.",
+        "Psychoedukation ist bei Schizophrenie kontraindiziert.",
+        "Rein patientenorientierte Ansätze sind weniger effektiv als angehörigenintegrierende."
+      ],
+      "answer": 4,
+      "explanation": "Laut S3-Leitlinie sind rein patientenorientierte Psychoedukationen deutlich weniger effektiv als angehörigenintegrierende Ansätze. Die umgekehrte Aussage, generelle Wirkungslosigkeit, ein Medikationsersatz oder eine Kontraindikation treffen nicht zu.",
+      "trap": "Angehörige einbeziehen wirkt besser – rein patientenorientierte Psychoedukation ist weniger effektiv."
+    },
+    {
+      "topic": "Psychotherapie: ACT",
+      "question": "Wie ist die Akzeptanz- und Commitment-Therapie (ACT) für Psychosen einzuordnen?",
+      "options": [
+        "Ausschließlich bei affektiven, nie bei psychotischen Störungen anwendbar.",
+        "Vielversprechend bei Stimmenhören und Negativsymptomatik; weitere Forschung nötig.",
+        "Bei Schizophrenie grundsätzlich kontraindiziert und verboten.",
+        "Nachweislich vollständig wirkungslos bei allen psychotischen Symptomen.",
+        "Bereits abschließend als wirksamstes aller Verfahren gesichert."
+      ],
+      "answer": 1,
+      "explanation": "Die (für Psychosen spezifizierte) ACT schneidet bei Stimmenhören und Negativsymptomatik vielversprechend ab, für eine finale Bewertung ist jedoch weitere Forschung nötig. Eine abschließende Sicherung, völlige Wirkungslosigkeit, Beschränkung auf affektive Störungen oder Kontraindikation treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie: Evidenzlage NICHT",
+      "question": "Was trifft auf die Evidenz psychotherapeutischer Verfahren bei Psychosen am ehesten NICHT zu?",
+      "options": [
+        "Die ACT ist bei Stimmenhören und Negativsymptomatik vielversprechend.",
+        "Für psychodynamische und humanistische Verfahren reicht die Evidenz für eine Empfehlung.",
+        "Psychoedukative Familieninterventionen sind für die Rückfallprophylaxe überzeugend.",
+        "Angehörigenintegrierende Psychoedukation ist effektiver als rein patientenorientierte.",
+        "Die Evidenz der KVT zur Symptomreduktion ist bislang am deutlichsten."
+      ],
+      "answer": 1,
+      "explanation": "Für psychodynamische und humanistische Verfahren reicht die Evidenz gerade noch NICHT für eine Empfehlung – die erste Aussage ist falsch. Die übrigen Aussagen (KVT beste Evidenz, Familieninterventionen, ACT vielversprechend, angehörigenintegrierende Psychoedukation) treffen zu.",
+      "hard": true
+    },
+    {
+      "topic": "Persistierende Symptome",
+      "question": "Welcher Anteil der Patient*innen leidet trotz Medikation unter persistierenden Positivsymptomen (mit hohem Rezidivrisiko)?",
+      "options": [
+        "Etwa 20 %.",
+        "Nur Patient*innen, die niemals ein Antipsychotikum erhalten haben.",
+        "Ausschließlich Patient*innen ganz ohne komorbide Störungen.",
+        "Nahezu 100 % aller Behandelten.",
+        "Praktisch niemand, da die Medikation die Positivsymptomatik immer vollständig beseitigt."
+      ],
+      "answer": 0,
+      "explanation": "Etwa 20 % der Patient*innen leiden trotz Medikation unter persistierenden Positivsymptomen bei hohem Rezidivrisiko – ein Grund für die Weiterentwicklung psychotherapeutischer Interventionen. Nahezu 0 %, nahezu 100 %, ein reiner Komorbiditäts- oder Medikationsbezug treffen nicht zu."
+    },
+    {
+      "topic": "Anwendung: Monotherapie",
+      "question": "Ein Patient verweigert konsequent jede antipsychotische Medikation, wünscht aber Behandlung. Welches Vorgehen ist am ehesten evidenzbasiert vertretbar?",
+      "options": [
+        "Eine alleinige psychodynamische Therapie mit gesicherter Evidenz.",
+        "Ein vollständiger Behandlungsverzicht, da ohne Medikation keine Therapie möglich ist.",
+        "Ein KVT-Versuch, der bei Verweigerern Positivsymptomatik reduzieren konnte.",
+        "Eine sofortige Zwangsmedikation als einzig mögliche Option.",
+        "Eine ausschließliche Lichttherapie über mehrere Stunden täglich."
+      ],
+      "answer": 2,
+      "explanation": "Bei Medikamentenverweigerung ist ein KVT-Versuch evidenzbasiert vertretbar (Morrison et al.: Reduktion psychotischer Symptomatik). Ein Behandlungsverzicht, eine pauschale Zwangsmedikation, eine Lichttherapie oder eine psychodynamische Therapie mit „gesicherter Evidenz“ treffen nicht zu.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Overshooting",
+      "question": "Bei einem Patienten wird die Antipsychotikadosis rasch weit über die Maximaldosis gesteigert, ohne dass sich die Symptome bessern. Wie ist das zu bewerten?",
+      "options": [
+        "Als Beleg dafür, dass eine möglichst vollständige D2-Blockade nötig ist.",
+        "Als sicheres Vorgehen ganz ohne zusätzliche Nebenwirkungen.",
+        "Als optimales Vorgehen, da die Wirkung linear mit der Dosis ansteigt.",
+        "Als empfohlene Standard-Rezidivprophylaxe bei Schizophrenie.",
+        "Als „Overshooting“: kaum Mehrwirkung, aber mehr Nebenwirkungen."
+      ],
+      "answer": 4,
+      "explanation": "Ein rasches Aufdosieren über die Maximaldosis ist „Overshooting“: Da kein linearer Dosis-Wirkungs-Zusammenhang besteht, bringt es kaum Mehrwirkung, aber mehr Nebenwirkungen (ideale D2/3-Blockade ~50–70 %). Ein lineares Vorgehen, Nebenwirkungsfreiheit, eine nötige Vollblockade oder eine empfohlene Prophylaxe treffen nicht zu.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Familienintervention",
+      "question": "Bei einer Patientin mit häufigen Rehospitalisierungen soll die Rückfallquote gesenkt werden. Welche psychotherapeutische Maßnahme ist besonders überzeugend?",
+      "options": [
+        "Eine psychoedukative Familienintervention mit Angehörigen.",
+        "Ein vollständiger Verzicht auf jede Behandlung bis zum nächsten Rückfall.",
+        "Eine rein patientenorientierte Psychoedukation ohne jede Angehörigenarbeit.",
+        "Eine alleinige Hochdosis-Antipsychotikatherapie ohne Psychotherapie.",
+        "Eine ausschließliche Lichttherapie zur Rückfallprophylaxe."
+      ],
+      "answer": 0,
+      "explanation": "Für Rückfallprophylaxe und Reduktion von Rehospitalisierungen sind psychoedukative Familieninterventionen (mit Angehörigen) besonders überzeugend – wirksamer als rein patientenorientierte Psychoedukation. Hochdosis-Monotherapie, Lichttherapie oder Behandlungsverzicht sind nicht gemeint.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Cariprazin",
+      "question": "Bei einem Patienten stehen ausgeprägte Negativsymptome im Vordergrund. Welches neuere Antipsychotikum wird hier mit seiner Wirkung besonders in Verbindung gebracht?",
+      "options": [
+        "Ein reines Benzodiazepin zur kurzfristigen Sedierung.",
+        "Ein Wirkstoff ganz ohne Affinität zu Dopaminrezeptoren.",
+        "Cariprazin (partielle D3-Agonisten-Wirkung gegen Negativsymptomatik).",
+        "Haloperidol als klassisches First-Generation-Antipsychotikum.",
+        "Ein Antidepressivum ganz ohne antipsychotische Wirkung."
+      ],
+      "answer": 2,
+      "explanation": "Cariprazin wird über seine (neue) partielle D3-Agonisten-Wirkung mit einem Effekt auf die Negativsymptomatik in Verbindung gebracht. Haloperidol (FGA), ein Benzodiazepin, ein Antidepressivum oder ein Wirkstoff ohne Dopaminaffinität passen nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Absetzen",
+      "question": "Nach längerer Antipsychotikatherapie soll die Medikation beendet werden. Welches Vorgehen minimiert das Risiko von Supersensitivitäts-/Reboundpsychosen?",
+      "options": [
+        "Ein Umstieg auf eine ausschließliche Lichttherapie am Absetztag.",
+        "Ein langsames Ausschleichen über viele Monate.",
+        "Eine gleichzeitige Verdopplung der bisherigen Dosis vor dem Absetzen.",
+        "Ein abruptes, sofortiges Absetzen von einem Tag auf den anderen.",
+        "Ein Vorgehen ganz ohne Bedeutung, da ein Rückfall ausgeschlossen ist."
+      ],
+      "answer": 1,
+      "explanation": "Da unter Dauergabe eine D2-Up-Regulation/Supersensitivität entsteht, sollte langsam über viele Monate ausgeschlichen werden, um die Rezeptorlandschaft zu normalisieren und Rebound-/Supersensitivitätspsychosen zu vermeiden. Abruptes Absetzen, Dosisverdopplung, Lichttherapie oder ein ausgeschlossener Rückfall treffen nicht zu.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Pharmakotherapie: Dosis NICHT",
+      "question": "Was trifft auf die Dosierung von Antipsychotika am ehesten NICHT zu?",
+      "options": [
+        "Eine Prolaktinerhöhung kann bereits ab etwa 72 % Blockade auftreten.",
+        "Höhere Dosen steigern die Wirkung linear und ohne zusätzliche Nebenwirkungen.",
+        "Höhere Dosen bringen kaum Mehrwirkung, verursachen aber mehr Nebenwirkungen.",
+        "Eine ideale D2/3-Rezeptorblockade liegt bei etwa 50–70 %.",
+        "Zwischen Dosis und Wirkung besteht kein linearer Zusammenhang."
+      ],
+      "answer": 1,
+      "explanation": "Höhere Dosen steigern die Wirkung gerade NICHT linear und nebenwirkungsfrei – die erste Aussage ist falsch. Die übrigen Aussagen (ideale Blockade ~50–70 %, kaum Mehrwirkung/mehr NW, kein linearer Zusammenhang, Prolaktin ab ~72 %) treffen zu."
+    },
+    {
+      "topic": "Pharmakotherapie: Fazit NICHT",
+      "question": "Was zählt laut der kritischen Langzeit-Bilanz am ehesten NICHT zu den Behandlungsfehlern?",
+      "options": [
+        "Zu wenig begleitende Psychotherapie im Gesamtkonzept.",
+        "Überhöhte Akutdosierungen und zu schnelle Dosissteigerungen.",
+        "Unnötige Dosiserhöhungen trotz fehlender klinischer Effektivität.",
+        "Polypharmazie als fälschliche Notlösung statt Alternativversuch.",
+        "Eine niedrige wirksame Dosis mit begleitender Psychotherapie."
+      ],
+      "answer": 4,
+      "explanation": "Eine niedrige wirksame Dosis mit begleitender Psychotherapie ist gerade kein Fehler, sondern empfohlen – die erste Aussage ist die gesuchte. Überhöhte Akutdosierungen, unnötige Dosiserhöhungen, Polypharmazie und zu wenig Psychotherapie werden dagegen als Fehler benannt."
+    }
+  ]
+}

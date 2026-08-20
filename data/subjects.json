@@ -473,6 +473,20 @@
       "title": "Schizophrenie: Verlauf",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Verlauf der Schizophrenie: 3/3-Regel und Verlaufstypen (Wyatt) mit Residuum, Dauer der unbehandelten Psychose (DUP), Rückfallgefahr je nach Behandlung sowie günstige und ungünstige Verlaufsprädiktoren (Beginn, Kognition, Compliance, Cannabis, Expressed Emotions)."
+    },
+    {
+      "id": "kl-schizophrenie-differenzialdiagnostik",
+      "file": "kl-schizophrenie-differenzialdiagnostik.json",
+      "title": "Schizophrenie: Differenzialdiagnostik",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Differenzialdiagnostik der Schizophrenie: Abgrenzung gegen organische Störungen (Delir, Demenzen, NMDAR-Enzephalitis), substanzinduzierte Psychosen, andere psychotische Störungen (schizotyp, wahnhaft, akut vorübergehend, schizoaffektiv), affektive Psychosen sowie Angst-, Zwangs-, PTBS-, Ess- und Persönlichkeitsstörungen."
+    },
+    {
+      "id": "kl-schizophrenie-therapie",
+      "file": "kl-schizophrenie-therapie.json",
+      "title": "Schizophrenie: Therapie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Therapie der Schizophrenie: Pharmakotherapie (Antipsychotika-Generationen, Cariprazin/Paliperidon, Rezeptorprofile, Behandlungsdauer, D2-Blockade, Overshooting, Supersensitivität), EKT sowie Psychotherapie (dimensionale Sicht, Mono-PT-Evidenz, KVT, Familieninterventionen, Psychoedukation, ACT)."
     }
   ]
 }
