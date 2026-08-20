@@ -2,415 +2,416 @@
   "id": "kl-schizophrenie-wahn",
   "title": "Schizophrenie: Wahn",
   "subject": "Allgemeine und spezielle Krankheitslehre",
-  "description": "Der Wahn bei Schizophrenie: Definition (apriorische Gewissheit), Überstieg/Perspektivwechsel (Conrad), Vorkommen und bizarr vs. synthym, Wahndynamik und doppelte Buchführung, Stufen der Wahnentwicklung (Wahnstimmung, Wahneinfall, Wahnwahrnehmung, Wahnarbeit) sowie Wahnthemen und Einflussfaktoren.",
+  "description": "Der Wahn bei Schizophrenie im Altklausur-Stil: Definition und synthym/bizarr, Conrad (Überstieg, Trema), Stufen der Wahnentwicklung (Wahnstimmung, Wahneinfall, Wahnwahrnehmung, Wahnarbeit, Wahnsystem), Wahndynamik und doppelte Buchführung sowie Wahnthemen (inkl. wahnhafte Depression).",
   "showGrade": true,
   "questions": [
     {
       "topic": "Wahn: Definition",
-      "question": "Wie ist der Wahn im Kern charakterisiert?",
+      "question": "Was trifft auf den Wahn am ehesten NICHT zu?",
       "options": [
-        "Als vorübergehender Irrtum, der sich durch sachliche Argumente rasch aufklären lässt.",
-        "Als Sinnestäuschung ohne reale Reizquelle in einer Wahrnehmungsmodalität.",
-        "Als Gedächtnisstörung mit Ausfüllen von Erinnerungslücken durch erfundene Inhalte.",
-        "Als erfahrungsunabhängige Gewissheit, eine Überzeugung ohne begründende Befunde.",
-        "Als bewusst vorgetäuschte Überzeugung zur Erlangung eines konkreten Vorteils."
-      ],
-      "answer": 3,
-      "explanation": "Der Wahn ist eine erfahrungsunabhängige, apriorische Gewissheit (innerer Beweis) ohne begründende Befunde. Die Sinnestäuschung ist die Halluzination, bewusste Täuschung ist Simulation, ein korrigierbarer Irrtum ist kein Wahn, und das Ausfüllen von Lücken ist die Konfabulation."
-    },
-    {
-      "topic": "Wahn: Korrigierbarkeit",
-      "question": "Was gilt für die Korrigierbarkeit des Wahns in der akuten Phase?",
-      "options": [
-        "Er verschwindet regelhaft, sobald die betroffene Person darauf angesprochen wird.",
-        "Er ist der bewussten Kontrolle der betroffenen Person jederzeit voll zugänglich.",
-        "Er ist durch sachliche Aufklärung meist innerhalb weniger Minuten auflösbar.",
-        "Er lässt sich durch schlichtes Nachfragen als bloße Übertreibung entlarven.",
-        "Er ist nicht korrigierbar und durch Gegenargumente unbeeinflussbar."
-      ],
-      "answer": 4,
-      "explanation": "In der akuten Phase ist der Wahn nicht korrigierbar und durch Argumente unbeeinflussbar; Korrigieren hieße, das Bezugssystem zu wechseln, wozu die betroffene Person nicht in der Lage ist. Die anderen Optionen unterstellen fälschlich leichte Auflösbarkeit oder bewusste Kontrolle."
-    },
-    {
-      "topic": "Wahn: Überstieg",
-      "question": "Wo verläuft nach Conrad die Grenze zwischen bloßem Misstrauen und Wahn?",
-      "options": [
-        "Dort, wo der Mensch den Wechsel des Bezugssystems (Überstieg) nicht mehr vollziehen kann.",
-        "Dort, wo erstmals begleitende akustische Halluzinationen hinzutreten.",
-        "Dort, wo die Überzeugung von der kulturellen Mehrheit nicht mehr geteilt wird.",
-        "Dort, wo eine Überzeugung zum ersten Mal überhaupt gegenüber anderen geäußert wird.",
-        "Dort, wo eine reale Wahrnehmung objektiv falsch benannt oder verkannt wird."
+        "Der Wahn tritt ausschließlich bei der Schizophrenie auf und ist für sie beweisend.",
+        "Nach Scharfetter handelt es sich um eine Privatwirklichkeit mit Spaltung von Innen- und Außenwelt.",
+        "Der Wahn ist eine erfahrungsunabhängige Gewissheit ohne begründende Befunde.",
+        "In der akuten Phase ist der Wahn nicht korrigierbar und durch Argumente unbeeinflussbar.",
+        "Pathologisch relevant wird der Wahn, sobald er die Lebensführung stört."
       ],
       "answer": 0,
-      "explanation": "Nach Conrad liegt die Grenze dort, wo der Überstieg – der Wechsel des Bezugssystems, das Betrachten der Lage mit den Augen des anderen – nicht mehr möglich ist. Solange dieser Perspektivwechsel gelingt, ist jemand allenfalls misstrauisch, aber nicht wahnkrank. Bloßes Äußern, Verkennen, Halluzinationen oder Mehrheitsurteile definieren die Grenze nicht.",
-      "hard": true
+      "explanation": "Der Wahn ist nicht schizophreniespezifisch – er kommt auch bei Depression, Manie und der wahnhaften Störung vor; die Aussage, er trete ausschließlich bei Schizophrenie auf, ist daher falsch. Die übrigen Aussagen (apriorische Gewissheit, fehlende Korrigierbarkeit, Privatwirklichkeit, Störung der Lebensführung) treffen zu."
     },
     {
-      "topic": "Wahn: Vorkommen",
-      "question": "Bei welchen Störungen kann ein Wahn auftreten?",
+      "topic": "Wahn: synthym",
+      "question": "Was ist ein „synthymer Wahn\"?",
       "options": [
-        "Nur bei substanzinduzierten und rein organisch bedingten Zuständen.",
-        "Ausschließlich bei den affektiven Störungen Depression und Manie.",
-        "Bei Schizophrenie, Depression, Manie und wahnhafter Störung.",
-        "Ausschließlich bei der Schizophrenie und bei keiner anderen Störung.",
-        "Nur bei den dissoziativen Störungen und der Konversionsstörung."
+        "Der Wahn ist stimmungskongruent, sein Inhalt passt zur vorherrschenden Affektlage.",
+        "Ein Phänomen, das primär bei Persönlichkeitsstörungen und kaum bei Psychosen auftritt.",
+        "Die Bezeichnung „synthym\" hat mit dem Phänomen des Wahns inhaltlich nichts zu tun.",
+        "Ein Wahn, der von der betroffenen Person als klar zur eigenen Identität passend erlebt wird.",
+        "Ein Wahn, bei dem Betroffene berichten, die Symptomatik sei für sie ganz normal."
       ],
-      "answer": 2,
-      "explanation": "Wahn kommt bei Schizophrenie, Depression, Manie und der wahnhaften Störung vor – er ist nicht schizophreniespezifisch. Eine Beschränkung auf nur eine Störungsgruppe ist daher falsch.",
-      "trap": "Wahn ist kein schizophreniespezifisches Symptom – auch affektive und wahnhafte Störungen gehen mit Wahn einher."
-    },
-    {
-      "topic": "Wahn: bizarr vs. synthym",
-      "question": "Wie unterscheidet sich der Wahn bei Schizophrenie diagnostisch von dem bei affektiven Störungen?",
-      "options": [
-        "Bei Schizophrenie ist der Wahn synthym, bei affektiven Störungen bizarr und stimmungsfremd.",
-        "In beiden Fällen wird ausschließlich ein bizarrer, stimmungsfremder Wahn verlangt.",
-        "In beiden Fällen wird ausschließlich ein streng stimmungskongruenter Wahn verlangt.",
-        "Der Wahninhalt spielt für die Zuordnung zu den Störungen grundsätzlich keine Rolle.",
-        "Bei Schizophrenie ist ein bizarrer Wahn gefordert, bei affektiven Störungen ein synthymer."
-      ],
-      "answer": 4,
-      "explanation": "Bei Schizophrenie wird diagnostisch eher ein bizarrer Wahn gefordert, bei affektiven Störungen ein synthymer (stimmungskongruenter) Wahn. Die zweite Option vertauscht dies; eine einheitliche oder gänzlich belanglose Zuordnung trifft nicht zu.",
+      "answer": 0,
+      "explanation": "Synthym bedeutet stimmungskongruent: Der Wahninhalt passt zur Affektlage (z. B. Schuld-/Verarmungswahn bei Depression). Das Vorkommen bei Persönlichkeitsstörungen, das Normalitätserleben, das reine Identitätspassungserleben und die Behauptung fehlenden Bezugs zum Wahn sind unzutreffend.",
       "hard": true,
-      "trap": "Synthym = stimmungskongruent (affektiv), bizarr/stimmungsfremd = eher Schizophrenie – nicht vertauschen."
+      "trap": "Synthym = stimmungskongruent (nicht „ich-synton\"/zur Person passend)."
     },
     {
-      "topic": "Wahn: Privatwirklichkeit",
-      "question": "Wie beschreibt Scharfetter den Wahn?",
+      "topic": "Conrad: Überstieg",
+      "question": "Was meint Klaus Conrad mit der Störung des sogenannten „Überstiegs\"?",
       "options": [
-        "Als bewusste Lüge zur gezielten Täuschung des sozialen Umfelds.",
-        "Als reine Wahrnehmungsstörung ohne jede inhaltliche Überzeugungskomponente.",
-        "Als Privatwirklichkeit mit einer Spaltung von Innen- und Außenwelt.",
-        "Als Gedächtnislücke, die durch erfundene Inhalte aufgefüllt wird.",
-        "Als vorübergehende, rasch korrigierbare Fehleinschätzung der Realität."
-      ],
-      "answer": 2,
-      "explanation": "Nach Scharfetter ist der Wahn eine Privatwirklichkeit mit Spaltung von Innen- und Außenwelt. Er ist keine bewusste Lüge, keine korrigierbare Fehleinschätzung, keine reine Wahrnehmungsstörung und keine Konfabulation."
-    },
-    {
-      "topic": "Wahn: Pathologiekriterium",
-      "question": "Ab wann gilt ein Wahn als pathologisch relevant?",
-      "options": [
-        "Sobald die Lebensführung der betroffenen Person gestört wird.",
-        "Erst dann, wenn die Umgebung den Inhalt objektiv widerlegen kann.",
-        "Erst dann, wenn zusätzlich akustische Halluzinationen hinzutreten.",
-        "Nur dann, wenn der Inhalt kulturell völlig unüblich ist.",
-        "Bereits mit dem allerersten flüchtigen wahnhaften Gedanken ohne jede Folge."
-      ],
-      "answer": 0,
-      "explanation": "Pathologisch relevant wird der Wahn, sobald er die Lebensführung stört. Weder der erste flüchtige Gedanke, noch das Hinzutreten von Halluzinationen, noch die objektive Widerlegbarkeit oder die kulturelle Unüblichkeit sind das entscheidende Kriterium."
-    },
-    {
-      "topic": "Wahn: Wahndynamik",
-      "question": "Was bezeichnet der Begriff der Wahndynamik?",
-      "options": [
-        "Den plötzlichen, thematisch klaren Einfall zu Beginn des Wahns.",
-        "Die Fähigkeit, den Wahninhalt jederzeit bewusst zu verändern.",
-        "Die kulturelle Prägung, die den konkreten Inhalt des Wahns bestimmt.",
-        "Die emotionale (affektive) Beteiligung am Wahn.",
-        "Das schrittweise Aufbauen eines geordneten, in sich stimmigen Wahnsystems."
-      ],
-      "answer": 3,
-      "explanation": "Wahndynamik meint die emotionale/affektive Beteiligung am Wahn. Das geordnete System ist das Wahnsystem, die kulturelle Prägung betrifft den Inhalt, bewusste Veränderbarkeit besteht gerade nicht, und der plötzliche Einfall ist der Wahneinfall."
-    },
-    {
-      "topic": "Wahn: Doppelte Buchführung",
-      "question": "Was meint Bleulers Begriff der doppelten Buchführung beim Wahn?",
-      "options": [
-        "Der Wahn wechselt regelmäßig zwischen zwei festen inhaltlichen Themen.",
-        "Der Wahn ersetzt die Realität stets vollständig und lückenlos.",
-        "Es bestehen zwei getrennte, einander widersprechende Wahnsysteme gleichzeitig.",
-        "Die betroffene Person führt bewusst Protokoll über ihre wahnhaften Gedanken.",
-        "Wahnwelt und Realität können bei der betroffenen Person nebeneinander bestehen."
+        "Der Überstieg von der Dritten-Person- in die Erste-Person-Perspektive gelingt nicht mehr.",
+        "Der soziale Perspektivwechsel erfolgt unsystematisch und ohne Bezug zur realen Wirklichkeit.",
+        "Betroffene sind bewusst und willentlich in eine selbst gewählte Wahnwirklichkeit hinübergestiegen.",
+        "Alle genannten Aussagen beschreiben den Überstieg gleichermaßen zutreffend.",
+        "Betroffene können aus ihrer Wahnwirklichkeit nicht mehr in die geteilte Wirklichkeit übersteigen."
       ],
       "answer": 4,
-      "explanation": "Doppelte Buchführung (Bleuler 1911) meint, dass Wahnwelt und Realität koexistieren können. Der Wahn ersetzt die Realität also nicht zwangsläufig vollständig; die anderen Deutungen (bewusstes Protokoll, zwei Wahnsysteme, Themenwechsel) treffen den Begriff nicht.",
+      "explanation": "Nach Conrad gelingt der Überstieg – der Wechsel des Bezugssystems, hier aus der eigenen (Erste-Person-)Wahnwirklichkeit in die mitmenschlich geteilte Wirklichkeit – nicht mehr. Der unsystematische Perspektivwechsel, das bewusste Hinübersteigen, die umgekehrte Perspektivrichtung und die Sammeloption treffen nicht zu.",
       "hard": true
     },
     {
-      "topic": "Wahn: Autismus",
-      "question": "Wie hängen fehlender Perspektivwechsel und Bleulers Begriff des Autismus beim Wahn zusammen?",
+      "topic": "Conrad: Trema",
+      "question": "Was ist nach Conrad am ehesten NICHT dem sogenannten Trema und der Wahnstimmung zuzuordnen?",
       "options": [
-        "Der Autismus bezeichnet die affektive Beteiligung am Wahngeschehen.",
-        "Der Autismus steht für die kulturelle Prägung des konkreten Wahninhalts.",
-        "Die Unfähigkeit zum Perspektivwechsel isoliert die Person von der Außenwelt (Autismus).",
-        "Der Autismus bezeichnet hier die vollständige Rückbildung aller Wahnsymptome.",
-        "Der Autismus meint die bewusste, gewollte Abwendung von anderen Menschen."
+        "Die meisten Betroffenen erleben im Trema ein grandioses Größen- und Machterleben mit positiven Gefühlen.",
+        "Im Trema erleben Betroffene die Wahnstimmung, verbunden mit antizipatorischer Erregung.",
+        "Das Trema ist ein ahnungsvoller Zustand mit dem Gefühl, dass etwas auf einen zukommt.",
+        "Conrad bezeichnet den Zustand, in dem die Wahnstimmung auftritt, als Trema.",
+        "Das Trema wird von den meisten Betroffenen als deutlich angsterzeugend und beunruhigend erlebt."
       ],
-      "answer": 2,
-      "explanation": "Weil der Kranke das Bezugssystem nicht mehr wechseln kann, ist er von der Außenwelt isoliert – das ist Bleulers Autismus. Es handelt sich weder um eine Rückbildung, noch um bewusste Abwendung, kulturelle Inhaltsprägung oder affektive Beteiligung (Letzteres wäre die Wahndynamik)."
+      "answer": 0,
+      "explanation": "Das Trema ist nach Conrad ein ahnungsvoll-angstbesetzter Vorzustand („es braut sich etwas zusammen\"), in dem die Wahnstimmung auftritt – nicht ein Zustand unspezifischen Größen-/Machterlebens mit positiven Gefühlen; diese Aussage ist die falsche. Die anderen Beschreibungen treffen auf das Trema zu.",
+      "hard": true,
+      "trap": "Trema ist angstbesetzt-ahnungsvoll, nicht euphorisch-grandios."
     },
     {
       "topic": "Wahnentwicklung: Wahnstimmung",
-      "question": "Was kennzeichnet die Wahnstimmung?",
+      "question": "Was gilt für die Wahnstimmung im Rahmen der psychotischen Entwicklung?",
       "options": [
-        "Ein thematisch noch unbestimmtes Gefühl, dass etwas in der Luft liegt.",
-        "Die abnorme Bedeutungszuschreibung an eine konkrete reale Wahrnehmung.",
-        "Das fertig ausgebaute, in sich geordnete und stimmige Wahnsystem.",
-        "Die gedankliche Arbeit zur nachträglichen Sinnstiftung des Wahns.",
-        "Einen plötzlichen, inhaltlich bereits klar bestimmten wahnhaften Gedanken."
+        "Sie ist inhaltlich noch nicht definiert bzw. thematisch noch nicht ausgestaltet.",
+        "Sie hat ihren Beginn typischerweise im sogenannten „Aha-Erlebnis\".",
+        "Sie definiert zumeist das Ende und den Abschluss der Wahnentwicklung.",
+        "Ihr diagnostisches Kriterium ist das Vorliegen eines bereits bizarren Wahns.",
+        "Sie ist durch intermittierend auftretende Wahnwahrnehmungen und -einfälle charakterisiert."
       ],
       "answer": 0,
-      "explanation": "Die Wahnstimmung ist thematisch unbestimmt (es liegt etwas in der Luft, es braut sich etwas zusammen) und steht am Anfang. Der klar bestimmte Gedanke ist der Wahneinfall, die abnorme Bedeutungszuschreibung die Wahnwahrnehmung, das geordnete System das Wahnsystem, die Sinnstiftung die Wahnarbeit.",
-      "hard": true
+      "explanation": "Die Wahnstimmung steht am Anfang und ist thematisch noch unbestimmt (etwas liegt in der Luft). Ein bizarrer Wahn, das Ende der Entwicklung, ausgestaltete Wahnwahrnehmungen/-einfälle und das „Aha-Erlebnis\" gehören zu späteren, ausgestalteten Stadien, nicht zur Wahnstimmung."
     },
     {
       "topic": "Wahnentwicklung: Wahneinfall",
       "question": "Was ist ein Wahneinfall?",
       "options": [
-        "Der schrittweise Ausbau eines umfassenden, geordneten Wahngebäudes.",
-        "Ein noch thematisch unbestimmtes, diffuses Gefühl bedrohlicher Veränderung.",
-        "Die emotionale Beteiligung, mit der der Wahn erlebt wird.",
-        "Ein plötzlich auftauchender, thematisch bereits geklärter wahnhafter Gedanke.",
-        "Die wahnhafte Umdeutung einer real vorhandenen Sinneswahrnehmung."
+        "Die rein affektive, dynamische Komponente des Wahns in Abgrenzung zu kognitiven Anteilen.",
+        "Die wahnhafte Umdeutung einer real vorhandenen äußeren Sinneswahrnehmung.",
+        "Eine meist plötzlich und unvermittelt auftretende wahnhafte Überzeugung.",
+        "Jeder neue Wahninhalt, der zum Wahnsystem (verstanden als bloße Summe der Wahneinfälle) beiträgt.",
+        "Der Einfall der betroffenen Person, möglicherweise wahnhaft zu sein (im Sinne einer Realitätsprüfung)."
       ],
-      "answer": 3,
-      "explanation": "Der Wahneinfall ist ein plötzlicher, thematisch bereits geklärter Gedanke (z. B. ich bin Napoleon). Das diffuse Vorgefühl ist die Wahnstimmung, die Umdeutung einer Wahrnehmung die Wahnwahrnehmung, die emotionale Beteiligung die Wahndynamik, der Ausbau das Wahnsystem."
+      "answer": 2,
+      "explanation": "Der Wahneinfall ist eine plötzlich und unvermittelt auftauchende wahnhafte Überzeugung, ohne äußeren Wahrnehmungsanlass. Die Realitätsprüfung, die Systemdefinition, die Umdeutung einer Wahrnehmung (Wahnwahrnehmung) und die affektive Dynamik (Wahndynamik) treffen den Begriff nicht."
     },
     {
-      "topic": "Wahnentwicklung: Wahnwahrnehmung",
-      "question": "Was ist charakteristisch für die Wahnwahrnehmung?",
+      "topic": "Wahn: Wahnwahrnehmung",
+      "question": "Was gilt für die Wahnwahrnehmung, und was trifft dabei NICHT zu?",
       "options": [
-        "Die betroffene Person kann die Deutung auf Nachfrage sofort korrigieren.",
-        "Eine reale Wahrnehmung wird abnorm und wahnhaft bedeutungsvoll interpretiert.",
-        "Ein wahnhafter Gedanke taucht ganz ohne äußeren Wahrnehmungsanlass auf.",
-        "Ein zunächst diffuses Bedrohungsgefühl bleibt thematisch völlig unbestimmt.",
-        "Es wird etwas wahrgenommen, obwohl gar keine reale Reizquelle vorhanden ist."
+        "Sie zählt bei Kurt Schneider zu den Erstrangsymptomen der Schizophrenie.",
+        "Sie beruht auf einer Wahrnehmung ohne jede reale Reizquelle und ist damit eine Halluzination.",
+        "Ein Beispiel ist die Deutung einer roten Ampel als Aufforderung, sofort zu kündigen.",
+        "Die Deutung ist für die betroffene Person in der akuten Phase nicht korrigierbar.",
+        "Eine real vorhandene Wahrnehmung wird abnorm und wahnhaft bedeutungsvoll gedeutet."
       ],
       "answer": 1,
-      "explanation": "Bei der Wahnwahrnehmung wird eine reale Wahrnehmung abnorm bedeutungsvoll gedeutet (die Ampel ist rot, also soll ich kündigen); sie zählt zu Schneiders Erstrangsymptomen. Eine Wahrnehmung ohne Reizquelle ist die Halluzination, der reizunabhängige Gedanke der Wahneinfall, das diffuse Gefühl die Wahnstimmung – korrigierbar ist der Wahn gerade nicht.",
+      "explanation": "Die Wahnwahrnehmung deutet eine real vorhandene Wahrnehmung abnorm bedeutungsvoll; sie beruht gerade nicht auf einer fehlenden Reizquelle (das wäre die Halluzination) – diese Aussage ist die falsche. Erstrang-Zuordnung, fehlende Korrigierbarkeit und das Ampel-Beispiel treffen zu.",
       "hard": true,
-      "trap": "Wahnwahrnehmung = reale Wahrnehmung, abnorm gedeutet (nicht Wahrnehmung ohne Reiz = Halluzination)."
+      "trap": "Wahnwahrnehmung = realer Reiz, abnorm gedeutet; ohne Reiz wäre es eine Halluzination."
     },
     {
-      "topic": "Wahnentwicklung: Wahnarbeit",
-      "question": "Wozu dient die sogenannte Wahnarbeit?",
+      "topic": "Wahn: Wahnarbeit",
+      "question": "Wozu dient die sogenannte Wahnarbeit im Verlauf der Wahnentwicklung?",
       "options": [
-        "Zur reinen Beschreibung eines thematisch noch unbestimmten Vorgefühls.",
-        "Zur Etablierung eines Wahnsystems, das den veränderten Wahrnehmungen wieder Sinn gibt.",
-        "Zur objektiven Überprüfung des Wahninhalts an der äußeren Wirklichkeit.",
-        "Zur bewussten und gezielten Rücknahme bereits gefasster wahnhafter Überzeugungen.",
-        "Zur Auslösung akustischer Halluzinationen im weiteren Verlauf."
-      ],
-      "answer": 1,
-      "explanation": "Die Wahnarbeit stiftet nachträglich Sinn und baut ein Wahnsystem auf, das den veränderten Wahrnehmungen wieder Bedeutung verleiht. Sie dient nicht der Rücknahme, nicht der objektiven Prüfung, nicht der bloßen Beschreibung eines Vorgefühls und nicht der Halluzinationsauslösung."
-    },
-    {
-      "topic": "Wahn: Inhalte kulturabhängig",
-      "question": "Was gilt für die Inhalte des Wahns?",
-      "options": [
-        "Sie sind ausschließlich durch akustische Halluzinationen bestimmt.",
-        "Sie sind rein zufällig und stehen in keinerlei Bezug zur Lebensgeschichte.",
-        "Sie werden allein durch die Höhe der Intelligenz festgelegt.",
-        "Sie sind weltweit und zu allen Zeiten inhaltlich völlig identisch.",
-        "Sie sind kulturell geprägt und lebensgeschichtlich oft nachvollziehbar."
+        "Zur bewussten und schrittweisen Rücknahme bereits gefasster wahnhafter Überzeugungen.",
+        "Zur bloßen Beschreibung eines thematisch noch völlig unbestimmten Vorgefühls.",
+        "Zur objektiven Überprüfung der Wahninhalte an der äußeren, geteilten Wirklichkeit.",
+        "Zur Auslösung begleitender akustischer Halluzinationen im weiteren Verlauf.",
+        "Zur Etablierung eines Wahnsystems, das den veränderten Wahrnehmungen wieder Sinn verschafft."
       ],
       "answer": 4,
-      "explanation": "Wahninhalte sind kulturell geprägt (z. B. religiöser Wahn in DDR vs. BRD; heute Geheimdienste, früher Hexen/Teufel) und lebensgeschichtlich oft nachvollziehbar. Sie sind weder überall identisch noch rein zufällig; Intelligenz und Halluzinationen bestimmen den Inhalt nicht."
+      "explanation": "Die Wahnarbeit stiftet nachträglich Sinn und baut ein Wahnsystem auf, das den veränderten Wahrnehmungen wieder Bedeutung verleiht. Sie dient nicht der Rücknahme, nicht der objektiven Prüfung, nicht der Beschreibung des Vorgefühls (Wahnstimmung) und nicht der Halluzinationsauslösung."
     },
     {
-      "topic": "Wahn: Sinnesbeeinträchtigung",
-      "question": "Unter welchen Bedingungen tritt gehäuft ein (oft Verfolgungs-)Wahn als Thematisierung von Unsicherheit auf?",
+      "topic": "Wahn: Wahndynamik",
+      "question": "Was bezeichnet der Begriff der Wahndynamik?",
       "options": [
-        "Bei nachlassender Sinneswahrnehmung, etwa im Alter, bei Blindheit oder Migration.",
-        "Nur in vollständig reizfreier Umgebung ohne jede soziale Unsicherheit.",
-        "Ausschließlich als direkte Nebenwirkung einer antipsychotischen Medikation.",
-        "Nur bei überdurchschnittlich hoher Intelligenz und guter Bildung.",
-        "Ausschließlich bei jungen Menschen mit ungestörter Sinneswahrnehmung."
+        "Den plötzlich und unvermittelt auftretenden Einfall zu Beginn des Wahngeschehens.",
+        "Die emotionale bzw. affektive Beteiligung, mit der der Wahn erlebt wird.",
+        "Die kulturelle Prägung, die den konkreten inhaltlichen Gehalt des Wahns bestimmt.",
+        "Das schrittweise Aufbauen eines geordneten und in sich stimmigen Wahnsystems.",
+        "Die Fähigkeit der betroffenen Person, den Wahninhalt jederzeit bewusst zu verändern."
       ],
-      "answer": 0,
-      "explanation": "Bei nachlassender Sinneswahrnehmung (Alter, Blindheit, Schwerhörigkeit) oder in sprachfremder Umgebung (Migration) ergänzt das Gehirn Unklares wahnhaft, häufig als Verfolgungswahn. Die anderen Optionen kehren die Bedingungen um oder behaupten falsche Ursachen."
+      "answer": 1,
+      "explanation": "Wahndynamik meint die affektive Beteiligung am Wahn. Der geordnete Aufbau ist das Wahnsystem, die kulturelle Prägung betrifft den Inhalt, bewusste Veränderbarkeit besteht gerade nicht, und der plötzliche Einfall ist der Wahneinfall."
+    },
+    {
+      "topic": "Wahn: doppelte Buchführung",
+      "question": "Was meint Bleulers Begriff der doppelten Buchführung, und welche Aussage dazu ist richtig?",
+      "options": [
+        "Der Wahn wechselt in festen Intervallen regelmäßig zwischen genau zwei inhaltlichen Themen.",
+        "Wahnwelt und geteilte Realität können bei der betroffenen Person nebeneinander bestehen.",
+        "Der Wahn ersetzt die Realität stets vollständig und lückenlos in jedem Lebensbereich.",
+        "Es bestehen zwei getrennte, einander widersprechende Wahnsysteme gleichzeitig nebeneinander.",
+        "Die betroffene Person führt bewusst schriftlich Protokoll über ihre wahnhaften Gedanken."
+      ],
+      "answer": 1,
+      "explanation": "Doppelte Buchführung (Bleuler) meint, dass Wahnwelt und Realität koexistieren können – der Wahn ersetzt die Realität also nicht zwangsläufig vollständig. Ein schriftliches Protokoll, zwei Wahnsysteme oder ein rhythmischer Themenwechsel treffen den Begriff nicht."
+    },
+    {
+      "topic": "Wahn: Autismus",
+      "question": "Wie hängen der verlorene Perspektivwechsel und Bleulers Begriff des Autismus beim Wahn zusammen?",
+      "options": [
+        "Der Autismus steht für die kulturelle Prägung des jeweils konkreten Wahninhalts.",
+        "Der Autismus bezeichnet hier die vollständige und dauerhafte Rückbildung aller Wahnsymptome.",
+        "Die Unfähigkeit zum Perspektivwechsel isoliert die Person von der Außenwelt (Autismus).",
+        "Der Autismus bezeichnet die affektive Beteiligung am Wahngeschehen (Wahndynamik).",
+        "Der Autismus meint die bewusste, willentliche Abwendung von anderen Menschen im Alltag."
+      ],
+      "answer": 2,
+      "explanation": "Weil die Person das Bezugssystem nicht mehr wechseln kann, ist sie von der Außenwelt isoliert – das ist Bleulers Autismus. Rückbildung, bewusste Abwendung, kulturelle Inhaltsprägung und affektive Beteiligung (Wahndynamik) treffen nicht zu."
+    },
+    {
+      "topic": "Wahn: Wahninhalte",
+      "question": "Welche Aussage zu den Inhalten des Wahns trifft am ehesten zu?",
+      "options": [
+        "Sie werden ausschließlich durch die Höhe der Intelligenz inhaltlich festgelegt.",
+        "Sie sind vollständig durch begleitende akustische Halluzinationen bestimmt.",
+        "Sie sind weltweit und über alle Epochen hinweg inhaltlich völlig identisch.",
+        "Sie sind rein zufällig und stehen in keinerlei Bezug zur Lebensgeschichte.",
+        "Sie sind kulturell geprägt und lebensgeschichtlich häufig nachvollziehbar."
+      ],
+      "answer": 4,
+      "explanation": "Wahninhalte sind kulturell geprägt (z. B. religiöser Wahn in DDR vs. BRD; heute Geheimdienste, früher Hexen/Teufel) und lebensgeschichtlich oft nachvollziehbar. Ein überall identischer, rein zufälliger, allein intelligenz- oder halluzinationsbestimmter Inhalt trifft nicht zu."
     },
     {
       "topic": "Wahn und Geschlecht",
       "question": "Was gilt für den Zusammenhang von Wahnform und Geschlecht?",
       "options": [
-        "Größenwahn ist häufiger bei Frauen, Liebeswahn fast nur bei Männern.",
-        "Liebeswahn ist häufiger bei Frauen, Größenwahn fast nur bei Männern.",
+        "Wahnformen treten grundsätzlich immer nur bei einem einzigen Geschlecht auf.",
         "Beide Wahnformen sind über die Geschlechter hinweg exakt gleich verteilt.",
-        "Wahnformen treten grundsätzlich nur bei einem einzigen Geschlecht auf.",
-        "Das Geschlecht bestimmt den Schweregrad, aber nie die inhaltliche Wahnform."
+        "Das Geschlecht bestimmt nur den Schweregrad, aber niemals die inhaltliche Wahnform.",
+        "Größenwahn ist häufiger bei Frauen, Liebeswahn kommt fast nur bei Männern vor.",
+        "Liebeswahn ist häufiger bei Frauen, Größenwahn fast nur bei Männern."
       ],
-      "answer": 1,
-      "explanation": "Liebeswahn ist häufiger bei Frauen, Größenwahn fast nur bei Männern. Die zweite Option vertauscht dies; eine völlig gleiche Verteilung, ein Auftreten bei nur einem Geschlecht oder ein reiner Schweregradbezug treffen nicht zu."
+      "answer": 4,
+      "explanation": "Liebeswahn ist häufiger bei Frauen, Größenwahn fast nur bei Männern. Die vertauschte Zuordnung, eine völlig gleiche Verteilung, ein Auftreten bei nur einem Geschlecht oder ein reiner Schweregradbezug treffen nicht zu."
     },
     {
       "topic": "Wahn und Intelligenz",
       "question": "Wie beeinflusst die Intelligenz den Wahn?",
       "options": [
-        "Sie beeinflusst nicht das Auftreten, aber die Ausgestaltung des Wahns.",
-        "Sie führt bei höherer Ausprägung stets zu plumpen, groben Wahnsystemen.",
-        "Sie hat weder auf das Auftreten noch auf die Ausgestaltung Einfluss.",
-        "Sie bestimmt allein, ob überhaupt ein Wahn auftritt oder nicht.",
-        "Sie legt ausschließlich die kulturelle Färbung des Wahninhalts fest."
+        "Sie führt bei höherer Ausprägung stets zu besonders plumpen, groben Wahnsystemen.",
+        "Sie legt ausschließlich die kulturelle Färbung des jeweiligen Wahninhalts fest.",
+        "Sie hat weder auf das Auftreten noch auf die Ausgestaltung des Wahns Einfluss.",
+        "Sie beeinflusst nicht das Auftreten, wohl aber die Ausgestaltung des Wahns.",
+        "Sie bestimmt allein, ob überhaupt jemals ein Wahn auftritt oder nicht."
       ],
-      "answer": 0,
-      "explanation": "Intelligenz beeinflusst nicht das Auftreten, wohl aber die Ausgestaltung: bei höherer Intelligenz komplexere Systeme, bei Minderintelligenten eher plump und wenig reflektiert. Ein Einfluss auf das Auftreten, gar kein Einfluss oder eine rein kulturelle Rolle treffen nicht zu.",
-      "trap": "Intelligenz betrifft die Ausgestaltung des Wahns, nicht ob er überhaupt auftritt."
+      "answer": 3,
+      "explanation": "Intelligenz beeinflusst nicht das Auftreten, wohl aber die Ausgestaltung: höhere Intelligenz führt zu komplexeren Systemen, bei Minderintelligenten wirkt der Wahn eher plump. Ein Einfluss auf das Auftreten, gar kein Einfluss oder eine rein kulturelle Rolle treffen nicht zu."
+    },
+    {
+      "topic": "Wahn: Sinnesbeeinträchtigung",
+      "question": "Unter welchen Bedingungen tritt ein (oft Verfolgungs-)Wahn als Thematisierung von Unsicherheit gehäuft auf?",
+      "options": [
+        "Nur in vollständig reizfreier Umgebung ohne jede soziale Unsicherheit oder Isolation.",
+        "Nur bei überdurchschnittlich hoher Intelligenz und sehr guter formaler Bildung.",
+        "Bei nachlassender Sinneswahrnehmung, etwa im Alter, bei Blindheit oder nach Migration.",
+        "Ausschließlich als unmittelbare Nebenwirkung einer laufenden antipsychotischen Medikation.",
+        "Ausschließlich bei jungen Menschen mit vollständig ungestörter Sinneswahrnehmung."
+      ],
+      "answer": 2,
+      "explanation": "Bei nachlassender Sinneswahrnehmung (Alter, Blindheit, Schwerhörigkeit) oder in sprachfremder Umgebung (Migration) ergänzt das Gehirn Unklares wahnhaft, häufig als Verfolgungswahn. Die übrigen Optionen kehren die Bedingungen um oder behaupten falsche Ursachen."
+    },
+    {
+      "topic": "Wahn: Ersatzwirklichkeit",
+      "question": "Wie lässt sich der Wahn nach Scharfetter lebensgeschichtlich verstehen („Gewinn im Wahn\")?",
+      "options": [
+        "Als vollständig zufälliges Phänomen ganz ohne Bezug zur individuellen Lebensgeschichte.",
+        "Als kurzfristige Verstimmung ohne jede Auswirkung auf die Lebensführung der Person.",
+        "Als reine, unvermeidbare Nebenwirkung einer hochdosierten antipsychotischen Medikation.",
+        "Als Ersatzwirklichkeit für eine unerträgliche Realität, etwa bei chronischer Traumatisierung.",
+        "Als bewusst gewählte Strategie zur gezielten Täuschung des sozialen Umfelds."
+      ],
+      "answer": 3,
+      "explanation": "Der Wahn kann als Ersatzwirklichkeit für eine unerträgliche Realität dienen (z. B. bei chronischer Traumatisierung) und ist so lebensgeschichtlich nachvollziehbar. Bewusste Täuschung, Medikamentennebenwirkung, Zufall oder Folgenlosigkeit treffen nicht zu."
+    },
+    {
+      "topic": "Wahnthemen: wahnhafte Depression",
+      "question": "Welches Wahnthema ist am ehesten untypisch für die wahnhafte (synthyme) Depression?",
+      "options": [
+        "Nihilistischer Wahn mit der Überzeugung, nicht mehr zu existieren.",
+        "Hypochondrischer Wahn mit der Überzeugung schwerer körperlicher Krankheit.",
+        "Verarmungswahn mit der Überzeugung des finanziellen Ruins.",
+        "Abstammungswahn (Überzeugung vornehmer bzw. besonderer Herkunft).",
+        "Schuldwahn mit der Überzeugung, an allem Unglück selbst schuld zu sein."
+      ],
+      "answer": 3,
+      "explanation": "Zur depressiven (synthymen) Stimmung passen Schuld-, Verarmungs-, hypochondrischer und nihilistischer Wahn. Der Abstammungswahn (grandios-gehoben) ist stimmungsinkongruent zur Depression und daher untypisch."
     },
     {
       "topic": "Wahnthemen: Verfolgungswahn",
       "question": "Welche Überzeugung kennzeichnet den Verfolgungswahn?",
       "options": [
-        "Die feste Überzeugung, vom Partner sexuell betrogen zu werden.",
-        "Die feste Überzeugung, über außergewöhnliche Fähigkeiten oder Macht zu verfügen.",
-        "Die feste Überzeugung, an einer schweren körperlichen Krankheit zu leiden.",
-        "Die feste Überzeugung, verfolgt, bedroht oder gezielt geschädigt zu werden.",
-        "Die feste Überzeugung, von einer bestimmten Person geliebt zu werden."
+        "Die feste Überzeugung, vom eigenen Partner fortlaufend sexuell betrogen zu werden.",
+        "Die feste Überzeugung, an einer schweren, unheilbaren körperlichen Krankheit zu leiden.",
+        "Die feste Überzeugung, über außergewöhnliche Fähigkeiten, Macht oder Bedeutung zu verfügen.",
+        "Die feste Überzeugung, von einer bestimmten Person insgeheim geliebt zu werden.",
+        "Die feste Überzeugung, verfolgt, bedroht oder gezielt geschädigt zu werden."
       ],
-      "answer": 3,
-      "explanation": "Der Verfolgungswahn ist die Überzeugung, verfolgt/bedroht/geschädigt zu werden. Außergewöhnliche Macht = Größenwahn, geliebt zu werden = Liebeswahn, Betrug = Eifersuchtswahn, Krankheit = hypochondrischer Wahn."
+      "answer": 4,
+      "explanation": "Der Verfolgungswahn ist die Überzeugung, verfolgt/bedroht/geschädigt zu werden. Macht = Größenwahn, geliebt zu werden = Liebeswahn, Betrug = Eifersuchtswahn, Krankheit = hypochondrischer Wahn."
     },
     {
       "topic": "Wahnthemen: Größenwahn",
       "question": "Welche Überzeugung kennzeichnet den Größenwahn?",
       "options": [
-        "Die Überzeugung, an einer unheilbaren körperlichen Erkrankung zu leiden.",
-        "Die Überzeugung, von einer hochgestellten Person insgeheim geliebt zu werden.",
+        "Die Überzeugung, verarmt zu sein und den finanziellen Ruin nicht mehr abwenden zu können.",
+        "Die Überzeugung, an einer unheilbaren, tödlich verlaufenden Krankheit zu leiden.",
+        "Die Überzeugung, ständig verfolgt, bedroht und heimlich beobachtet zu werden.",
         "Die Überzeugung, über außergewöhnliche Fähigkeiten, Macht oder Bedeutung zu verfügen.",
-        "Die Überzeugung, ständig verfolgt und heimlich beobachtet zu werden.",
-        "Die Überzeugung, verarmt zu sein und den finanziellen Ruin nicht abwenden zu können."
+        "Die Überzeugung, von einer hochgestellten Person insgeheim geliebt zu werden."
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Der Größenwahn ist die Überzeugung besonderer Fähigkeiten, Macht oder Bedeutung. Verfolgung = Verfolgungswahn, geliebt werden = Liebeswahn, Verarmung = Verarmungswahn, Krankheit = hypochondrischer Wahn."
     },
     {
       "topic": "Wahnthemen: Eifersuchtswahn",
-      "question": "Was ist der Eifersuchtswahn und womit wird er in Verbindung gebracht?",
+      "question": "Womit wird der Eifersuchtswahn in der Vorlesung in Verbindung gebracht?",
       "options": [
-        "Der wahnhafte Glaube, an einer schweren körperlichen Krankheit zu leiden.",
-        "Der wahnhafte Glaube, ständig verfolgt und bedroht zu werden.",
-        "Der wahnhafte Glaube, von einer bestimmten Person heimlich geliebt zu werden.",
-        "Der wahnhafte Glaube, über besondere Macht und Bedeutung zu verfügen.",
-        "Der wahnhafte Glaube an die Untreue des eigenen Partners."
+        "Mit sexuellen Versagensängsten der betroffenen Person.",
+        "Mit einem unspezifischen Größen- und Machterleben in der manischen Phase.",
+        "Mit der Überzeugung, von einer prominenten Person geliebt zu werden.",
+        "Mit der Überzeugung, an einer schweren körperlichen Erkrankung zu leiden.",
+        "Mit der Überzeugung, ständig verfolgt und bedroht zu werden."
       ],
-      "answer": 4,
-      "explanation": "Der Eifersuchtswahn ist der wahnhafte Glaube an die Untreue des Partners, in der Vorlesung mit sexuellen Versagensängsten in Verbindung gebracht. Geliebtwerden = Liebeswahn, Macht = Größenwahn, Verfolgung = Verfolgungswahn, Krankheit = hypochondrischer Wahn."
-    },
-    {
-      "topic": "Anwendung: Misstrauen vs. Wahn",
-      "question": "Ein Mann fühlt sich von Kollegen benachteiligt, kann aber, darauf angesprochen, deren Sichtweise nachvollziehen und seine Deutung revidieren. Wie ist das einzuordnen?",
-      "options": [
-        "Als Wahnstimmung mit thematisch bereits klar bestimmtem Inhalt.",
-        "Als nicht wahnhaftes Misstrauen, da der Perspektivwechsel gelingt.",
-        "Als doppelte Buchführung mit koexistierender Wahn- und Realwelt.",
-        "Als gesicherter Verfolgungswahn, da er sich benachteiligt fühlt.",
-        "Als Wahnwahrnehmung mit abnormer Bedeutungszuschreibung."
-      ],
-      "answer": 1,
-      "explanation": "Solange der Überstieg – der Wechsel des Bezugssystems – gelingt und die Deutung revidierbar ist, liegt Misstrauen, nicht Wahn vor (Conrad). Verfolgungswahn, Wahnstimmung, Wahnwahrnehmung und doppelte Buchführung setzen die verlorene Korrigierbarkeit bzw. andere Merkmale voraus.",
-      "hard": true,
-      "transfer": true
-    },
-    {
-      "topic": "Anwendung: Wahnstufe",
-      "question": "Eine Patientin berichtet, seit Tagen liege bedrohlich etwas in der Luft, ohne dass sie sagen könne, was genau. Welche Stufe der Wahnentwicklung liegt vor?",
-      "options": [
-        "Die Wahnarbeit zur nachträglichen Sinnstiftung.",
-        "Die Wahnwahrnehmung mit Deutung einer realen Wahrnehmung.",
-        "Die Wahnstimmung.",
-        "Der Wahneinfall mit thematisch klar bestimmtem Inhalt.",
-        "Das ausgebaute, in sich geordnete Wahnsystem."
-      ],
-      "answer": 2,
-      "explanation": "Das thematisch unbestimmte, bedrohliche Vorgefühl (etwas liegt in der Luft) ist die Wahnstimmung. Der klar bestimmte Gedanke wäre der Wahneinfall, die Deutung einer Wahrnehmung die Wahnwahrnehmung, das geordnete Gebäude das Wahnsystem, die Sinnstiftung die Wahnarbeit.",
-      "transfer": true
-    },
-    {
-      "topic": "Anwendung: Wahnwahrnehmung",
-      "question": "Ein Patient sieht eine rot geschaltete Ampel und ist daraufhin sicher, dies sei das Zeichen, sofort seinen Beruf aufzugeben. Welches Phänomen liegt vor?",
-      "options": [
-        "Eine akustische Halluzination in imperativer Form.",
-        "Eine Wahnstimmung ohne jeden konkreten Bezug.",
-        "Eine Wahnwahrnehmung.",
-        "Ein Wahneinfall ohne äußeren Wahrnehmungsanlass.",
-        "Eine Konfabulation zur Füllung einer Erinnerungslücke."
-      ],
-      "answer": 2,
-      "explanation": "Eine reale Wahrnehmung (rote Ampel) wird abnorm bedeutungsvoll gedeutet – das ist die Wahnwahrnehmung (Schneider-Erstrangsymptom). Eine Stimme wäre eine Halluzination, das unbestimmte Vorgefühl eine Wahnstimmung, der reizunabhängige Gedanke ein Wahneinfall, die erfundene Erinnerung eine Konfabulation.",
-      "transfer": true
-    },
-    {
-      "topic": "Anwendung: Wahnform",
-      "question": "Eine Patientin ist unerschütterlich überzeugt, ein prominenter Moderator sei heimlich in sie verliebt und sende ihr über Sendungen geheime Botschaften. Welche Wahnform liegt vor?",
-      "options": [
-        "Größenwahn mit Überzeugung besonderer eigener Macht.",
-        "Liebeswahn.",
-        "Verfolgungswahn mit Überzeugung, bedroht zu werden.",
-        "Hypochondrischer Wahn mit Überzeugung schwerer Krankheit.",
-        "Eifersuchtswahn mit Überzeugung partnerschaftlicher Untreue."
-      ],
-      "answer": 1,
-      "explanation": "Die Überzeugung, von einer (prominenten) Person geliebt zu werden, ist der Liebeswahn. Besondere eigene Macht = Größenwahn, Bedrohung = Verfolgungswahn, Untreue = Eifersuchtswahn, Krankheit = hypochondrischer Wahn.",
-      "transfer": true
-    },
-    {
-      "topic": "Anwendung: bizarr vs. synthym",
-      "question": "Ein schwer depressiver Patient ist überzeugt, er sei durch eigene Schuld völlig verarmt und habe seine Familie ins Unglück gestürzt. Wie ist dieser Wahn am ehesten einzuordnen?",
-      "options": [
-        "Als bizarrer, stimmungsfremder Wahn, wie er für Schizophrenie gefordert wird.",
-        "Als synthymer (stimmungskongruenter) Wahn, passend zur depressiven Verstimmung.",
-        "Als nicht pathologisch, da der Inhalt lebensgeschichtlich nachvollziehbar ist.",
-        "Als Wahnstimmung ohne jeden thematischen Bezug zur Stimmung.",
-        "Als reine Konfabulation ohne wahnhafte Überzeugungskomponente."
-      ],
-      "answer": 1,
-      "explanation": "Ein Schuld- und Verarmungswahn, der zur depressiven Stimmung passt, ist ein synthymer (stimmungskongruenter) Wahn – typisch für affektive Störungen. Ein bizarrer, stimmungsfremder Wahn spricht eher für Schizophrenie; Wahnstimmung, Nicht-Pathologie und Konfabulation treffen nicht zu.",
-      "hard": true,
-      "transfer": true
-    },
-    {
-      "topic": "Wahnentwicklung: Wahnsystem",
-      "question": "Was ist ein Wahnsystem?",
-      "options": [
-        "Die abnorme Deutung einer einzelnen realen Sinneswahrnehmung.",
-        "Eine einzelne, plötzlich auftauchende und isolierte wahnhafte Idee.",
-        "Ein noch thematisch unbestimmtes, diffuses Gefühl bedrohlicher Veränderung.",
-        "Die emotionale Beteiligung, mit der ein Wahn insgesamt erlebt wird.",
-        "Ein ausgebautes, geordnetes Gebäude verbundener Wahninhalte."
-      ],
-      "answer": 4,
-      "explanation": "Das Wahnsystem ist ein ausgebautes, geordnetes Gebäude verbundener Wahninhalte (Ergebnis der Wahnarbeit). Das diffuse Vorgefühl ist die Wahnstimmung, die isolierte Idee der Wahneinfall, die emotionale Beteiligung die Wahndynamik, die Wahrnehmungsdeutung die Wahnwahrnehmung."
+      "answer": 0,
+      "explanation": "Der Eifersuchtswahn (wahnhafter Glaube an die Untreue des Partners) wird mit sexuellen Versagensängsten in Verbindung gebracht. Größenerleben, Liebeswahn, hypochondrischer Wahn und Verfolgungswahn betreffen andere Themen."
     },
     {
       "topic": "Wahnthemen: Beziehungswahn",
       "question": "Was kennzeichnet den Beziehungswahn (bzw. Beziehungsideen)?",
       "options": [
-        "Die Überzeugung, dass neutrale Ereignisse sich auf einen selbst beziehen.",
-        "Die Überzeugung, von einer prominenten Person insgeheim geliebt zu werden.",
+        "Die Überzeugung, dass neutrale Ereignisse sich gezielt auf die eigene Person beziehen.",
         "Die Überzeugung, an einer schweren, unheilbaren körperlichen Krankheit zu leiden.",
-        "Die Überzeugung, vom Partner sexuell hintergangen und betrogen zu werden.",
-        "Die Überzeugung, über außergewöhnliche Fähigkeiten und Macht zu verfügen."
+        "Die Überzeugung, von einer prominenten Person insgeheim geliebt zu werden.",
+        "Die Überzeugung, selbst über besondere Macht und außergewöhnliche Bedeutung zu verfügen.",
+        "Die Überzeugung, vom eigenen Partner fortlaufend hintergangen und betrogen zu werden."
       ],
       "answer": 0,
-      "explanation": "Beim Beziehungswahn werden neutrale Ereignisse und Bemerkungen auf die eigene Person bezogen (alles bezieht sich auf mich). Macht = Größenwahn, Untreue = Eifersuchtswahn, Krankheit = hypochondrischer Wahn, Geliebtwerden = Liebeswahn."
+      "explanation": "Beim Beziehungswahn werden neutrale Ereignisse/Bemerkungen auf die eigene Person bezogen. Macht = Größenwahn, Untreue = Eifersuchtswahn, Krankheit = hypochondrischer Wahn, Geliebtwerden = Liebeswahn."
     },
     {
-      "topic": "Wahn: Ersatzwirklichkeit",
-      "question": "Wie lässt sich der Wahn nach Scharfetter u. a. lebensgeschichtlich verstehen (Gewinn im Wahn)?",
+      "topic": "Wahn: Vorkommen",
+      "question": "Bei welchen Störungen kann ein Wahn auftreten – welche Aussage ist richtig?",
       "options": [
-        "Als reine Nebenwirkung einer hochdosierten antipsychotischen Medikation.",
-        "Als vollständig zufälliges Phänomen ohne jeden Bezug zur Lebensgeschichte.",
-        "Als kurzfristige Verstimmung ohne Auswirkung auf die Lebensführung.",
-        "Als Ersatzwirklichkeit für eine unerträgliche Realität.",
-        "Als bewusst gewählte Strategie zur gezielten Täuschung des sozialen Umfelds."
+        "Ausschließlich bei den affektiven Störungen Depression und Manie.",
+        "Nur bei substanzinduzierten und rein organisch bedingten psychotischen Zuständen.",
+        "Ausschließlich bei der Schizophrenie und bei keiner anderen psychischen Störung.",
+        "Nur bei den dissoziativen Störungen und der Konversionsstörung.",
+        "Bei Schizophrenie, Depression, Manie und der wahnhaften Störung."
       ],
-      "answer": 3,
-      "explanation": "Der Wahn kann als Ersatzwirklichkeit für eine unerträgliche Realität dienen (z. B. bei chronischer Traumatisierung) und ist so lebensgeschichtlich nachvollziehbar (Gewinn im Wahn). Er ist weder bewusste Täuschung, noch Medikamentennebenwirkung, noch zufällig oder folgenlos."
+      "answer": 4,
+      "explanation": "Wahn kommt bei Schizophrenie, Depression, Manie und der wahnhaften Störung vor. Jede Beschränkung auf nur eine Störungsgruppe ist unzutreffend."
     },
     {
-      "topic": "Wahnthemen: depressive Wahnformen",
-      "question": "Welche Wahnthemen sind typischerweise stimmungskongruent (synthym) bei schwerer Depression?",
+      "topic": "Wahn: bizarr vs. synthym",
+      "question": "Wie unterscheidet sich der Wahn bei Schizophrenie diagnostisch von dem bei affektiven Störungen?",
       "options": [
-        "Eifersuchts-, Dermatozoen- und Vergiftungswahn im Rahmen einer Paranoia.",
-        "Größen-, Liebes- und Sendungswahn mit gehobener Selbsteinschätzung.",
-        "Beziehungs-, Verfolgungs- und Beeinflussungswahn im Sinne von Fremdsteuerung.",
-        "Schuld-, Verarmungs- und hypochondrischer Wahn.",
-        "Ausschließlich bizarre, stimmungsfremde Wahninhalte ohne Themenbezug."
+        "In beiden Fällen wird ausschließlich ein bizarrer, stimmungsfremder Wahn verlangt.",
+        "Bei Schizophrenie wird eher ein bizarrer Wahn gefordert, bei affektiven Störungen ein synthymer.",
+        "Bei Schizophrenie ist der Wahn synthym, bei affektiven Störungen bizarr und stimmungsfremd.",
+        "In beiden Fällen wird ausschließlich ein streng stimmungskongruenter Wahn verlangt.",
+        "Der konkrete Wahninhalt spielt für die Zuordnung zu den Störungen grundsätzlich keine Rolle."
+      ],
+      "answer": 1,
+      "explanation": "Bei Schizophrenie wird eher ein bizarrer, bei affektiven Störungen ein synthymer (stimmungskongruenter) Wahn gefordert. Die vertauschte, die einheitliche und die belanglose Zuordnung treffen nicht zu.",
+      "hard": true,
+      "trap": "Synthym (stimmungskongruent) = affektiv, bizarr/stimmungsfremd = eher Schizophrenie."
+    },
+    {
+      "topic": "Wahn: Pathologiekriterium",
+      "question": "Ab wann gilt ein Wahn als pathologisch relevant?",
+      "options": [
+        "Erst dann, wenn die Umgebung den Wahninhalt objektiv eindeutig widerlegen kann.",
+        "Sobald die Lebensführung der betroffenen Person durch ihn gestört wird.",
+        "Bereits mit dem allerersten flüchtigen wahnhaften Gedanken, auch ohne jede Folge.",
+        "Erst dann, wenn zusätzlich zum Wahn akustische Halluzinationen hinzutreten.",
+        "Nur dann, wenn der konkrete Wahninhalt kulturell völlig unüblich erscheint."
+      ],
+      "answer": 1,
+      "explanation": "Pathologisch relevant wird der Wahn, sobald er die Lebensführung stört. Der erste flüchtige Gedanke, das Hinzutreten von Halluzinationen, die objektive Widerlegbarkeit oder die kulturelle Unüblichkeit sind nicht das entscheidende Kriterium."
+    },
+    {
+      "topic": "Anwendung: Misstrauen vs. Wahn",
+      "question": "Ein Mann fühlt sich von Kollegen benachteiligt, kann aber, darauf angesprochen, deren Sichtweise nachvollziehen und seine Deutung revidieren. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als doppelte Buchführung mit dauerhaft koexistierender Wahn- und Realwelt.",
+        "Als Wahnwahrnehmung, da er eine reale Situation abnorm bedeutungsvoll deutet.",
+        "Als Wahnstimmung, obwohl der Inhalt hier bereits thematisch klar bestimmt ist.",
+        "Als noch nicht wahnhaftes Misstrauen, da der Überstieg (Perspektivwechsel) noch gelingt.",
+        "Als bereits gesicherter Verfolgungswahn, allein weil er sich benachteiligt fühlt."
       ],
       "answer": 3,
-      "explanation": "Zur depressiven (synthymen) Verstimmung passen Schuld-, Verarmungs- und hypochondrischer Wahn. Größen-/Liebeswahn passen eher zur Manie, Verfolgungs-/Beeinflussungswahn eher zur Schizophrenie, und stimmungsfremde bizarre Inhalte sind gerade nicht synthym.",
-      "hard": true
+      "explanation": "Solange der Überstieg gelingt und die Deutung revidierbar ist, liegt Misstrauen, nicht Wahn vor (Conrad). Verfolgungswahn, Wahnstimmung, Wahnwahrnehmung und doppelte Buchführung setzen die verlorene Korrigierbarkeit bzw. andere Merkmale voraus.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Wahnstufe",
+      "question": "Eine Patientin berichtet, seit Tagen liege bedrohlich etwas in der Luft, ohne dass sie sagen könne, was genau; sie fühlt sich ahnungsvoll angespannt. Welche Stufe liegt vor?",
+      "options": [
+        "Der Wahneinfall mit bereits thematisch klar bestimmtem Inhalt.",
+        "Die Wahnarbeit zur nachträglichen Sinnstiftung eines bestehenden Wahns.",
+        "Die Wahnstimmung (im Sinne des Conrad'schen Trema).",
+        "Das ausgebaute, in sich geordnete und stimmige Wahnsystem.",
+        "Die Wahnwahrnehmung mit abnormer Deutung einer realen Wahrnehmung."
+      ],
+      "answer": 2,
+      "explanation": "Das thematisch unbestimmte, bedrohlich-ahnungsvolle Vorgefühl ist die Wahnstimmung (Conrads Trema). Der klar bestimmte Gedanke wäre der Wahneinfall, die Deutung einer Wahrnehmung die Wahnwahrnehmung, das Gebäude das Wahnsystem, die Sinnstiftung die Wahnarbeit.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Wahnform",
+      "question": "Eine Patientin ist unerschütterlich überzeugt, ein prominenter Moderator sei heimlich in sie verliebt und sende ihr über seine Sendungen verschlüsselte Botschaften. Welche Wahnform liegt vor?",
+      "options": [
+        "Größenwahn mit der Überzeugung besonderer eigener Macht und Bedeutung.",
+        "Hypochondrischer Wahn mit der Überzeugung einer schweren Erkrankung.",
+        "Liebeswahn.",
+        "Eifersuchtswahn mit der Überzeugung partnerschaftlicher Untreue.",
+        "Verfolgungswahn mit der Überzeugung, bedroht und geschädigt zu werden."
+      ],
+      "answer": 2,
+      "explanation": "Die Überzeugung, von einer (prominenten) Person geliebt zu werden, ist der Liebeswahn. Macht = Größenwahn, Bedrohung = Verfolgungswahn, Untreue = Eifersuchtswahn, Krankheit = hypochondrischer Wahn.",
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: synthym vs. bizarr",
+      "question": "Ein schwer depressiver Patient ist überzeugt, durch eigene Schuld völlig verarmt zu sein und seine Familie ins Unglück gestürzt zu haben. Wie ist dieser Wahn am ehesten einzuordnen?",
+      "options": [
+        "Als bizarrer, stimmungsfremder Wahn, wie er eher für die Schizophrenie gefordert wird.",
+        "Als Wahnstimmung ganz ohne thematischen Bezug zur aktuellen Stimmungslage.",
+        "Als reine Konfabulation ohne jede wahnhafte Überzeugungskomponente.",
+        "Als synthymer (stimmungskongruenter) Wahn, passend zur depressiven Verstimmung.",
+        "Als nicht pathologisch, da der Inhalt lebensgeschichtlich nachvollziehbar erscheint."
+      ],
+      "answer": 3,
+      "explanation": "Ein Schuld- und Verarmungswahn, der zur depressiven Stimmung passt, ist ein synthymer (stimmungskongruenter) Wahn. Ein bizarrer stimmungsfremder Wahn spricht eher für Schizophrenie; Wahnstimmung, Nicht-Pathologie und Konfabulation treffen nicht zu.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Anwendung: Wahneinfall",
+      "question": "Ein Patient ist von einem Moment auf den anderen und ohne äußeren Anlass zutiefst überzeugt, er sei in Wahrheit Napoleon. Welches Phänomen liegt am ehesten vor?",
+      "options": [
+        "Eine Wahnwahrnehmung, ausgelöst durch die abnorme Deutung eines realen Reizes.",
+        "Eine akustische Halluzination in imperativer, befehlender Form.",
+        "Ein Wahneinfall.",
+        "Eine Wahnstimmung, die thematisch noch völlig unbestimmt geblieben ist.",
+        "Eine doppelte Buchführung mit koexistierender Wahn- und Realwelt."
+      ],
+      "answer": 2,
+      "explanation": "Eine plötzlich und ohne Wahrnehmungsanlass auftretende wahnhafte Überzeugung (ich bin Napoleon) ist der Wahneinfall. Die Wahnwahrnehmung bräuchte einen realen Reiz, die Wahnstimmung wäre unbestimmt, die Halluzination eine Wahrnehmung, die doppelte Buchführung etwas anderes.",
+      "transfer": true
+    },
+    {
+      "topic": "Wahnentwicklung: Wahnsystem",
+      "question": "Was trifft auf das Wahnsystem am ehesten NICHT zu?",
+      "options": [
+        "Es ist ein ausgebautes, in sich geordnetes Gebäude aus verbundenen Wahninhalten.",
+        "Es ist ein noch thematisch unbestimmtes, diffuses Vorgefühl bedrohlicher Veränderung.",
+        "Es entsteht im Verlauf der Wahnarbeit zur nachträglichen Sinnstiftung.",
+        "Es steht am ausgestalteten Ende, nicht am unbestimmten Anfang der Wahnentwicklung.",
+        "Es verleiht den veränderten Wahrnehmungen wieder eine zusammenhängende Bedeutung."
+      ],
+      "answer": 1,
+      "explanation": "Ein thematisch unbestimmtes, diffuses Vorgefühl ist die Wahnstimmung, nicht das Wahnsystem – diese Aussage ist die falsche. Das Wahnsystem ist ein geordnetes, im Zuge der Wahnarbeit entstandenes Gebäude am ausgestalteten Ende der Entwicklung, das den Wahrnehmungen Bedeutung verleiht.",
+      "hard": true,
+      "trap": "Wahnsystem = ausgestaltetes Ende; das unbestimmte Vorgefühl am Anfang ist die Wahnstimmung."
     }
   ]
 }

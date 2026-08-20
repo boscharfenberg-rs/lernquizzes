@@ -2,34 +2,34 @@
   "id": "kl-schizophrenie-halluzinationen",
   "title": "Schizophrenie: Halluzinationen",
   "subject": "Allgemeine und spezielle Krankheitslehre",
-  "description": "Halluzinationen bei Schizophrenie: Definition und Abgrenzung (Illusion, Pseudohalluzination, Wahn), Sinnesmodalitäten, akustische Formen (Akoasmen/Phoneme, imperativ/dialogisch/kommentierend), Zönästhesien, Bedeutung optischer Formen sowie Inhalt, Kultur und Ansprechen auf Medikation.",
+  "description": "Halluzinationen bei Schizophrenie im Altklausur-Stil: Definition und Abgrenzung (Illusion, Pseudohalluzination, Wahn), Modalitäten, akustische Formen (Akoasmen/Phoneme; imperativ/dialogisch/kommentierend), Zönästhesien, Bedeutung optischer und taktiler Formen sowie Inhalt, Kultur und Ansprechen auf Medikation.",
   "showGrade": true,
   "questions": [
     {
       "topic": "Definition",
-      "question": "Wie ist eine Halluzination definiert?",
+      "question": "Welche Aussage zur Halluzination trifft am ehesten zu?",
       "options": [
-        "Als Verkennung eines tatsächlich vorhandenen äußeren Sinnesreizes.",
-        "Als erfahrungsunabhängige Überzeugung ohne begründende Befunde.",
-        "Als bewusst vorgetäuschte Wahrnehmung zur Erlangung eines Vorteils.",
-        "Als Ausfüllen einer Erinnerungslücke mit frei erfundenen Inhalten.",
-        "Als Sinnestäuschung ohne reale Reizquelle."
+        "Sie ist eine erfahrungsunabhängige Überzeugung ohne begründende Befunde.",
+        "Sie ist eine Sinnestäuschung, die ohne jede reale äußere Reizquelle auftritt.",
+        "Sie ist das Ausfüllen einer Erinnerungslücke mit frei erfundenen Inhalten.",
+        "Sie ist eine bewusst vorgetäuschte Wahrnehmung zur Erlangung eines Vorteils.",
+        "Sie ist die Verkennung eines tatsächlich vorhandenen äußeren Sinnesreizes."
       ],
-      "answer": 4,
-      "explanation": "Eine Halluzination ist eine Sinnestäuschung ohne reale Reizquelle. Die Verkennung eines realen Reizes ist die Illusion, die reizunabhängige Überzeugung der Wahn, die bewusste Vortäuschung die Simulation und das Füllen von Erinnerungslücken die Konfabulation."
+      "answer": 1,
+      "explanation": "Die Halluzination ist eine Sinnestäuschung ohne reale Reizquelle. Die Verkennung eines realen Reizes ist die Illusion, die reizunabhängige Überzeugung der Wahn, die bewusste Vortäuschung die Simulation, das Füllen von Lücken die Konfabulation."
     },
     {
       "topic": "DD: Illusion",
-      "question": "Was unterscheidet die Illusion von der Halluzination?",
+      "question": "Was trifft auf die Unterscheidung von Illusion und Halluzination am ehesten NICHT zu?",
       "options": [
-        "Bei der Illusion fehlt der Reiz völlig, bei der Halluzination wird ein realer Reiz verkannt.",
-        "Beide beruhen auf einer erfahrungsunabhängigen Überzeugung ohne Sinnesbezug.",
-        "Beide setzen zwingend das vollständige Fehlen jeder realen Reizquelle voraus.",
-        "Bei der Illusion wird ein real vorhandener Reiz verkannt, bei der Halluzination fehlt der Reiz.",
-        "Die Illusion betrifft nur das Gehör, die Halluzination nur das Sehen."
+        "Beide beruhen nicht auf einer erfahrungsunabhängigen Überzeugung (wie der Wahn).",
+        "Bei der Halluzination fehlt eine reale äußere Reizquelle vollständig.",
+        "Beide Phänomene sind nicht auf eine einzige Sinnesmodalität beschränkt.",
+        "Bei der Illusion fehlt der Reiz, bei der Halluzination wird ein realer Reiz verkannt.",
+        "Bei der Illusion wird ein tatsächlich vorhandener Reiz verkannt bzw. fehlgedeutet."
       ],
       "answer": 3,
-      "explanation": "Bei der Illusion wird ein tatsächlich vorhandener Reiz verkannt (fehlgedeutet), bei der Halluzination fehlt jede reale Reizquelle. Die zweite Option vertauscht dies; beide sind nicht reizfrei, beruhen nicht auf Überzeugungen und sind nicht auf je eine Sinnesmodalität beschränkt.",
+      "explanation": "Die Zuordnung ist umgekehrt: Bei der Illusion wird ein realer Reiz verkannt, bei der Halluzination fehlt der Reiz – die erste Aussage vertauscht dies und ist daher falsch. Die übrigen Aussagen treffen zu.",
       "hard": true,
       "trap": "Illusion = realer Reiz wird verkannt; Halluzination = gar kein Reiz vorhanden."
     },
@@ -37,14 +37,14 @@
       "topic": "DD: Pseudohalluzination",
       "question": "Was kennzeichnet die Pseudohalluzination im Unterschied zur echten Halluzination?",
       "options": [
-        "Sie tritt ausschließlich im optischen Sinnesbereich auf und nie im akustischen.",
-        "Sie beruht anders als die echte Halluzination immer auf einem realen äußeren Reiz.",
-        "Der Realitätsbezug bleibt erhalten – die Person erkennt, dass die Wahrnehmung nicht real ist.",
-        "Sie ist eine bewusst vorgetäuschte Wahrnehmung ohne jedes echte Erleben.",
-        "Der Realitätsbezug geht vollständig verloren, stärker noch als bei der echten Halluzination."
+        "Sie ist eine bewusst vorgetäuschte Wahrnehmung ganz ohne echtes Erleben.",
+        "Sie tritt ausschließlich im optischen Sinnesbereich und nie im akustischen auf.",
+        "Der Realitätsbezug geht noch vollständiger verloren als bei der echten Halluzination.",
+        "Sie beruht, anders als die echte Halluzination, stets auf einem realen äußeren Reiz.",
+        "Der Realitätsbezug bleibt erhalten – die Person erkennt, dass die Wahrnehmung nicht real ist."
       ],
-      "answer": 2,
-      "explanation": "Bei der Pseudohalluzination bleibt der Realitätsbezug erhalten: Die Person weiß, dass die Wahrnehmung nicht real ist. Ein noch stärkerer Realitätsverlust, ein realer Reiz, eine Beschränkung auf eine Modalität oder bewusste Vortäuschung treffen nicht zu.",
+      "answer": 4,
+      "explanation": "Bei der Pseudohalluzination bleibt der Realitätsbezug erhalten: Die Person weiß, dass die Wahrnehmung nicht real ist. Ein stärkerer Realitätsverlust, ein realer Reiz, eine Modalitätsbeschränkung oder bewusste Vortäuschung treffen nicht zu.",
       "hard": true,
       "trap": "Pseudohalluzination = Realitätsbezug bleibt erhalten (die Person weiß, dass es nicht real ist)."
     },
@@ -53,10 +53,10 @@
       "question": "Worin unterscheidet sich die Halluzination grundsätzlich vom Wahn?",
       "options": [
         "Die Halluzination ist eine Wahrnehmungsstörung, der Wahn eine inhaltliche Überzeugungsstörung.",
-        "Beide sind reine Wahrnehmungsstörungen ohne jede inhaltliche Komponente.",
         "Die Halluzination ist eine inhaltliche Überzeugungsstörung, der Wahn eine reine Wahrnehmungsstörung.",
-        "Beide sind reine Überzeugungsstörungen ohne jeden Wahrnehmungsbezug.",
-        "Die Halluzination betrifft nur das Gedächtnis, der Wahn nur den Antrieb."
+        "Die Halluzination betrifft nur das Gedächtnis, der Wahn ausschließlich den Antrieb.",
+        "Beide sind reine Überzeugungsstörungen ganz ohne jeden Wahrnehmungsbezug.",
+        "Beide sind reine Wahrnehmungsstörungen ganz ohne jede inhaltliche Komponente."
       ],
       "answer": 0,
       "explanation": "Die Halluzination betrifft die Wahrnehmung (Sinnestäuschung), der Wahn das Denken/den Inhalt (erfahrungsunabhängige Überzeugung). Die zweite Option vertauscht dies; beide sind nicht auf dieselbe Ebene reduzierbar und betreffen weder Gedächtnis noch Antrieb."
@@ -65,226 +65,241 @@
       "topic": "Typische Formen bei Schizophrenie",
       "question": "Welche Halluzinationsformen sind typisch für die Schizophrenie?",
       "options": [
+        "Ausschließlich taktile Halluzinationen im Sinne eines Hautkribbelns.",
+        "Akustische Halluzinationen (Stimmenhören, Akoasmen) sowie Zönästhesien.",
         "Ausschließlich olfaktorische und gustatorische Trugwahrnehmungen.",
-        "Vor allem lebhafte optische (szenische) Halluzinationen im Vordergrund.",
         "Vor allem Pseudohalluzinationen mit vollständig erhaltenem Realitätsbezug.",
-        "Ausschließlich taktile Halluzinationen im Sinne eines Kribbelns der Haut.",
-        "Akustische Halluzinationen (Stimmenhören, Akoasmen) und Zönästhesien."
+        "Vor allem lebhafte optische, szenische Halluzinationen im Vordergrund."
       ],
-      "answer": 4,
-      "explanation": "Typisch bei Schizophrenie sind akustische Halluzinationen (Stimmenhören, Akoasmen) und Zönästhesien (Leibhalluzinationen). Optische, olfaktorische/gustatorische oder rein taktile Formen sind untypisch (eher organisch/toxisch), und Pseudohalluzinationen sind nicht das Leitbild."
+      "answer": 1,
+      "explanation": "Typisch bei Schizophrenie sind akustische Halluzinationen (Stimmenhören, Akoasmen) und Zönästhesien (Leibhalluzinationen). Optische, olfaktorische/gustatorische oder rein taktile Formen sind untypisch (eher organisch/toxisch), Pseudohalluzinationen sind nicht das Leitbild."
     },
     {
       "topic": "Akoasmen vs. Phoneme",
       "question": "Wodurch unterscheiden sich Akoasmen von Phonemen?",
       "options": [
-        "Akoasmen sind ungeformte Geräusche, Phoneme sind Stimmen (Wortcharakter).",
-        "Beide bezeichnen ausschließlich optische Trugwahrnehmungen.",
-        "Beide bezeichnen leibbezogene Körperhalluzinationen wie Brennen.",
+        "Beide bezeichnen ausschließlich optische, szenische Trugwahrnehmungen.",
+        "Akoasmen betreffen den Geschmack, Phoneme betreffen den Geruch.",
+        "Akoasmen sind ungeformte Geräusche, Phoneme sind Stimmen mit Wortcharakter.",
         "Akoasmen sind Stimmen mit Wortcharakter, Phoneme sind ungeformte Geräusche.",
-        "Akoasmen betreffen den Geschmack, Phoneme den Geruch."
+        "Beide bezeichnen leibbezogene Körperhalluzinationen wie ein Brennen."
       ],
-      "answer": 0,
-      "explanation": "Akoasmen sind ungeformte akustische Trugwahrnehmungen (Geräusche), Phoneme sind Stimmen mit Wortcharakter. Die zweite Option vertauscht dies; beide sind akustisch, nicht optisch, nicht leibbezogen und betreffen weder Geschmack noch Geruch.",
+      "answer": 2,
+      "explanation": "Akoasmen sind ungeformte akustische Trugwahrnehmungen (Geräusche), Phoneme sind Stimmen mit Wortcharakter. Die zweite Option vertauscht beide; sie sind akustisch, nicht optisch/leibbezogen und betreffen weder Geschmack noch Geruch.",
       "hard": true
     },
     {
       "topic": "Optische Halluzinationen",
-      "question": "Wie sind optische Halluzinationen diagnostisch einzuordnen?",
+      "question": "Wie sind optische Halluzinationen diagnostisch einzuordnen – welche Aussage ist richtig?",
       "options": [
-        "Ein reines Negativsymptom im chronischen Residualzustand der Erkrankung.",
-        "Ein Beleg für eine gute Prognose und ein rasches Ansprechen auf Therapie.",
-        "Ein sicheres Schneider-Erstrangsymptom, das die Schizophrenie beweist.",
-        "Untypisch für Schizophrenie – eher organisch oder drogeninduziert (z. B. LSD).",
-        "Das häufigste und typischste Halluzinationsphänomen der Schizophrenie."
+        "Untypisch für Schizophrenie – eher organisch oder drogeninduziert bedingt.",
+        "Sie sind das häufigste und typischste Halluzinationsphänomen der Schizophrenie.",
+        "Sie sind ein Negativsymptom und weisen auf einen chronischen Residualzustand hin.",
+        "Alle genannten Aussagen zu optischen Halluzinationen sind gleichermaßen richtig.",
+        "Sie gelten als sicheres Schneider-Erstrangsymptom und beweisen die Schizophrenie."
       ],
-      "answer": 3,
-      "explanation": "Optische Halluzinationen sind bei Schizophrenie untypisch und weisen eher auf eine organische Schädigung oder Drogen (LSD, Meskalin, Psilocybin) hin. Sie sind weder typisch schizophren, noch Erstrangsymptom, noch Negativsymptom oder Prognosemarker.",
+      "answer": 0,
+      "explanation": "Optische Halluzinationen sind bei Schizophrenie untypisch und weisen eher auf organische Schädigung oder Drogen (LSD, Meskalin, Psilocybin) hin. Sie sind kein typisches, kein Erstrang- und kein Negativsymptom, und die Sammeloption ist unzutreffend.",
       "hard": true,
-      "trap": "Optische Halluzinationen sprechen eher gegen Schizophrenie (organisch/Drogen), nicht dafür."
+      "trap": "Optische Halluzinationen sprechen bei Schizophrenie-Verdacht eher gegen Schizophrenie (organisch/Drogen)."
     },
     {
       "topic": "Modalitäten",
       "question": "Welche Sinnesmodalitäten können Halluzinationen grundsätzlich betreffen?",
       "options": [
+        "Ausschließlich die optische und die akustische Modalität zusammengenommen.",
+        "Nur die leibbezogene (zönästhetische) Modalität bei sämtlichen Störungen.",
+        "Nur Modalitäten, die von außen durch einen realen Reiz ausgelöst werden.",
         "Akustische, optische, olfaktorische, gustatorische, taktile und leibbezogene.",
-        "Nur die leibbezogene (zönästhetische) Modalität bei allen Störungen.",
-        "Nur Modalitäten, die von außen durch reale Reize ausgelöst werden.",
-        "Ausschließlich die optische und die akustische Modalität, keine weiteren Sinnesqualitäten.",
-        "Ausschließlich die akustische Modalität und keine andere Sinnesqualität."
+        "Ausschließlich die akustische Modalität und keine weitere Sinnesqualität."
       ],
-      "answer": 0,
-      "explanation": "Halluzinationen können alle Sinnesmodalitäten betreffen: akustisch, optisch, olfaktorisch (Geruch), gustatorisch (Geschmack), taktil und zönästhetisch (leibbezogen). Eine Beschränkung auf einzelne Modalitäten oder eine Auslösung durch reale Reize trifft nicht zu."
+      "answer": 3,
+      "explanation": "Halluzinationen können alle Modalitäten betreffen: akustisch, optisch, olfaktorisch, gustatorisch, taktil und zönästhetisch. Eine Beschränkung auf einzelne Modalitäten oder eine Auslösung durch reale Reize trifft nicht zu."
     },
     {
       "topic": "Geruchs-/Geschmackshalluzinationen",
       "question": "Wie sind olfaktorische und gustatorische Halluzinationen häufig einzuordnen?",
       "options": [
         "Als reine Negativsymptome im chronischen Verlauf der Erkrankung.",
-        "Als untypisch für Schizophrenie und oft organisch-toxisch bedingt.",
-        "Als grundsätzlich mit erhaltenem Realitätsbezug (Pseudohalluzinationen).",
         "Als sichere Schneider-Erstrangsymptome mit hoher diagnostischer Beweiskraft.",
-        "Als das häufigste und typischste Halluzinationsphänomen der Schizophrenie."
+        "Als grundsätzlich mit erhaltenem Realitätsbezug (Pseudohalluzinationen).",
+        "Als das häufigste und typischste Halluzinationsphänomen der Schizophrenie.",
+        "Als untypisch für Schizophrenie und oft organisch-toxisch bedingt."
       ],
-      "answer": 1,
-      "explanation": "Geruchs- und Geschmackshalluzinationen sind bei Schizophrenie eher untypisch und weisen oft auf organisch-toxische Ursachen hin (wie optische Halluzinationen). Sie sind kein typisch schizophrenes Leitsymptom, kein Erstrangsymptom, kein Negativsymptom und nicht per se pseudohalluzinatorisch."
+      "answer": 4,
+      "explanation": "Geruchs- und Geschmackshalluzinationen sind bei Schizophrenie eher untypisch und deuten oft auf organisch-toxische Ursachen hin. Sie sind kein typisches, kein Erstrang- und kein Negativsymptom und nicht per se pseudohalluzinatorisch."
     },
     {
       "topic": "Zönästhesien",
       "question": "Was sind Zönästhesien?",
       "options": [
         "Verkennungen real vorhandener Körperreize im Sinne einer Illusion.",
-        "Wahnhafte Überzeugungen ohne jede sinnliche Wahrnehmungskomponente.",
+        "Leibbezogene Körperhalluzinationen wie ein Brennen oder Elektrisieren am Körper.",
         "Optische Trugwahrnehmungen mit szenischem, filmartigem Charakter.",
-        "Leibbezogene Körperhalluzinationen wie Brennen oder Elektrisierung.",
-        "Akustische Trugwahrnehmungen in Form kommentierender Stimmen."
+        "Akustische Halluzinationen in Form kommentierender oder dialogischer Stimmen.",
+        "Wahnhafte Überzeugungen ganz ohne sinnliche Wahrnehmungskomponente."
       ],
-      "answer": 3,
-      "explanation": "Zönästhesien sind leibbezogene (Körper-)Halluzinationen wie Brennen, Elektrisierung oder körperdysmorphes Erleben. Kommentierende Stimmen sind akustisch, szenische Trugbilder optisch, Wahn ist eine Überzeugung, und die Verkennung realer Reize wäre eine Illusion."
+      "answer": 1,
+      "explanation": "Zönästhesien sind leibbezogene Körperhalluzinationen (Brennen, Elektrisierung, körperdysmorphes Erleben). Stimmen sind akustisch, szenische Trugbilder optisch, Wahn ist eine Überzeugung, die Verkennung realer Reize wäre eine Illusion."
     },
     {
       "topic": "Stimmen: Varianten",
       "question": "Welche drei Varianten akustischer (verbaler) Halluzinationen werden unterschieden?",
       "options": [
-        "Imperative, dialogische und kommentierende Stimmen.",
-        "Akute, chronische und rezidivierende Stimmen.",
         "Synthyme, parathyme und ambivalente Stimmen.",
-        "Bizarre, synthyme und stimmungskongruente Stimmen.",
-        "Optische, olfaktorische und gustatorische Stimmen."
+        "Optische, olfaktorische und gustatorische Stimmen.",
+        "Bizarre, stimmungskongruente und stimmungsfremde Stimmen.",
+        "Akute, chronische und rezidivierende Stimmen.",
+        "Imperative, dialogische und kommentierende Stimmen."
       ],
-      "answer": 0,
-      "explanation": "Verbale akustische Halluzinationen kommen v. a. als imperative (befehlende), dialogische (im Zwiegespräch) und kommentierende Stimmen vor. Die übrigen Reihen mischen Sinnesmodalitäten, Affektqualitäten oder Verlaufsbegriffe, die keine Stimmenvarianten sind."
-    },
-    {
-      "topic": "Stimmen: imperativ",
-      "question": "Was kennzeichnet eine imperative Stimme?",
-      "options": [
-        "Sie gibt lediglich ungeformte Geräusche ohne Wortcharakter wieder.",
-        "Sie wird von der Person eindeutig als nicht real erkannt.",
-        "Sie erteilt Befehle an die betroffene Person.",
-        "Sie unterhält sich in Form eines Zwiegesprächs über die Person.",
-        "Sie kommentiert das Handeln der Person fortlaufend von außen."
-      ],
-      "answer": 2,
-      "explanation": "Eine imperative Stimme befiehlt und fordert zu Handlungen auf; sie ist wegen möglicher Fremd- und Selbstgefährdung besonders relevant. Kommentieren und Zwiegespräch sind andere Varianten, Geräusche sind Akoasmen, und das Erkennen als nicht real kennzeichnet die Pseudohalluzination."
+      "answer": 4,
+      "explanation": "Verbale akustische Halluzinationen kommen v. a. als imperative (befehlende), dialogische (im Zwiegespräch) und kommentierende Stimmen vor. Die übrigen Reihen mischen Modalitäten, Affektqualitäten oder Verlaufsbegriffe."
     },
     {
       "topic": "Stimmen: Gefährdung",
-      "question": "Warum sind imperative Stimmen klinisch besonders bedeutsam?",
+      "question": "Warum sind imperative Stimmen klinisch besonders bedeutsam – welche Aussage trifft NICHT zu?",
       "options": [
-        "Weil sie immer mit vollständig erhaltenem Realitätsbezug einhergehen.",
-        "Wegen der Gefährdungsaspekte, die Fremd- und Selbstgefährdung betreffen können.",
-        "Weil sie stets harmlos sind und keinerlei Handlungsrelevanz besitzen.",
-        "Weil sie als einzige Halluzinationsform gar nicht auf Medikation ansprechen.",
-        "Weil sie ausschließlich bei organischen, nie bei schizophrenen Psychosen auftreten."
+        "Sie sind stets harmlos und besitzen keinerlei Handlungsrelevanz für die betroffene Person.",
+        "Sie können im Rahmen einer akuten psychotischen Episode auftreten.",
+        "Sie können mit Fremd- und Selbstgefährdung einhergehen, weil sie zu Handlungen auffordern.",
+        "Sie erteilen Befehle, im Unterschied zu bloß kommentierenden Stimmen.",
+        "Sie sprechen wie andere Halluzinationen grundsätzlich auf Medikation an."
       ],
-      "answer": 1,
-      "explanation": "Imperative (befehlende) Stimmen sind wegen der Gefährdungsaspekte (Fremd- und Selbstgefährdung) besonders bedeutsam. Sie sind nicht harmlos, sprechen wie andere Halluzinationen auf Medikation an, sind nicht organspezifisch und nicht per se pseudohalluzinatorisch."
+      "answer": 0,
+      "explanation": "Imperative Stimmen sind gerade nicht harmlos: Wegen der Gefährdungsaspekte (Fremd- und Selbstgefährdung) sind sie besonders relevant – die erste Aussage ist daher falsch. Die übrigen Aussagen treffen zu."
     },
     {
       "topic": "Stimmen: positive Inhalte",
       "question": "Welches Problem beschreibt die Vorlesung bei positiv erlebten Stimmen?",
       "options": [
-        "Sie sprechen als einzige Halluzinationsform überhaupt nicht auf Medikation an.",
-        "Sie gelten als sicheres Zeichen für eine besonders gute Gesamtprognose.",
         "Sie sind stets bedrohlich und werden von Patienten sofort als belastend abgelehnt.",
+        "Sie sprechen als einzige Halluzinationsform überhaupt nicht auf Medikation an.",
+        "Sie werden als hilfreich erlebt und sollen am wenigsten aufgegeben werden.",
         "Sie treten ausschließlich bei organischen Psychosen und nie bei Schizophrenie auf.",
-        "Sie werden als hilfreich erlebt und sollen am wenigsten aufgegeben werden."
+        "Sie gelten als sicheres Zeichen für eine besonders günstige Gesamtprognose."
       ],
-      "answer": 4,
-      "explanation": "Positiv erlebte Stimmen werden als hilfreich empfunden und sind das Symptom, das Patienten am wenigsten loswerden möchten – bei zugleich gutem Ansprechen auf Medikation. Sie sind also nicht sofort belastend, sprechen sehr wohl auf Medikation an und sind weder organspezifisch noch ein Prognosemarker.",
+      "answer": 2,
+      "explanation": "Positiv erlebte Stimmen werden als hilfreich empfunden und sind das Symptom, das Patienten am wenigsten loswerden möchten – bei zugleich gutem Ansprechen auf Medikation. Sie sind nicht sofort belastend, sprechen sehr wohl an und sind kein Prognosemarker.",
       "hard": true
     },
     {
       "topic": "Inhalt und Kultur",
       "question": "Was gilt für den Inhalt akustischer Halluzinationen?",
       "options": [
-        "Rein zufällig und ohne jeden Bezug zu Kultur oder Lebensgeschichte.",
-        "Ausschließlich durch die Höhe der Intelligenz inhaltlich festgelegt.",
-        "Ausschließlich positiv und aufbauend, unabhängig vom kulturellen Kontext.",
-        "Weltweit und über alle Kulturen hinweg inhaltlich völlig identisch.",
-        "Meist negativ, aber kulturell geprägt."
+        "Er ist rein zufällig und ohne jeden Bezug zu Kultur oder Lebensgeschichte.",
+        "Er ist ausschließlich durch die Höhe der Intelligenz inhaltlich festgelegt.",
+        "Er ist meist negativ, aber deutlich kulturell geprägt.",
+        "Er ist weltweit und über alle Kulturen hinweg inhaltlich völlig identisch.",
+        "Er ist ausschließlich positiv und aufbauend, unabhängig vom kulturellen Kontext."
       ],
-      "answer": 4,
-      "explanation": "Der Inhalt ist meist negativ, aber kulturell geprägt: In afrikanischen Kulturen werden häufiger positive Stimmen berichtet, in den USA/Europa eher negative. Ein überall identischer, rein positiver, rein zufälliger oder allein intelligenzabhängiger Inhalt trifft nicht zu."
+      "answer": 2,
+      "explanation": "Der Inhalt ist meist negativ, aber kulturell geprägt: In afrikanischen Kulturen werden häufiger positive, in den USA/Europa eher negative Stimmen berichtet. Ein identischer, rein positiver, zufälliger oder intelligenzabhängiger Inhalt trifft nicht zu."
     },
     {
       "topic": "Ansprechen auf Medikation",
       "question": "Wie sprechen Halluzinationen im Vergleich zum Wahn auf Medikation an?",
       "options": [
         "Beide sprechen grundsätzlich überhaupt nicht auf Medikation an.",
+        "Beide verschwinden regelhaft schon nach einer einzigen Einnahme.",
+        "Nur optische Halluzinationen sprechen an, akustische dagegen nie.",
         "Halluzinationen sprechen vergleichsweise gut auf Medikation an.",
-        "Nur optische Halluzinationen sprechen auf Medikation an, akustische nicht.",
-        "Halluzinationen sprechen deutlich schlechter an als der Wahn.",
-        "Beide verschwinden regelhaft schon nach einer einzigen Einnahme."
+        "Halluzinationen sprechen deutlich schlechter an als der Wahn."
       ],
-      "answer": 1,
-      "explanation": "Halluzinationen sprechen im Vergleich zum Wahn relativ gut auf Medikation an. Sie sprechen also nicht schlechter an, verschwinden nicht nach einer Einnahme, und die Wirkung ist nicht auf optische Formen beschränkt (die bei Schizophrenie ohnehin untypisch sind)."
+      "answer": 3,
+      "explanation": "Halluzinationen sprechen im Vergleich zum Wahn relativ gut auf Medikation an. Sie sprechen nicht schlechter an, verschwinden nicht nach einer Einnahme, und die Wirkung ist nicht auf optische Formen beschränkt."
     },
     {
-      "topic": "Zönästhesien: Beispiele",
-      "question": "Welche Erlebnisse sind typische Beispiele für Zönästhesien?",
+      "topic": "Gedankenlautwerden",
+      "question": "Was bezeichnet das Gedankenlautwerden?",
       "options": [
-        "Der Geruch von Fäulnis oder ein anhaltender metallischer Geschmack.",
-        "Die Überzeugung, verfolgt und heimlich beobachtet zu werden.",
-        "Brennen, Elektrisierung oder körperdysmorphes Erleben am eigenen Körper.",
-        "Szenische, filmartige optische Trugwahrnehmungen im Raum.",
-        "Kommentierende und dialogische Stimmen aus der Umgebung."
+        "Das Erleben, dass die eigenen Gedanken von außen abgezogen werden.",
+        "Das Erleben, dass die eigenen Gedanken sich im Raum ausbreiten.",
+        "Das Erleben ungeformter Geräusche ganz ohne jeden Wortcharakter.",
+        "Das Erleben, dass fremde Gedanken von außen in den Kopf eingegeben werden.",
+        "Das Erleben, die eigenen Gedanken laut und hörbar zu vernehmen."
       ],
-      "answer": 2,
-      "explanation": "Zönästhesien sind leibbezogene Missempfindungen wie Brennen, Elektrisierung oder körperdysmorphes Erleben. Stimmen sind akustisch, szenische Trugbilder optisch, Geruch/Geschmack olfaktorisch/gustatorisch, und die Verfolgungsüberzeugung ist ein Wahn."
+      "answer": 4,
+      "explanation": "Beim Gedankenlautwerden hört die Person die eigenen Gedanken laut mitklingen (Schneider-Erstrangsymptom, im Grenzbereich zu den Ich-Störungen). Eingebung, Entzug und Ausbreitung sind eigene Ich-Störungen, ungeformte Geräusche sind Akoasmen."
+    },
+    {
+      "topic": "Schneider-Erstrangsymptome",
+      "question": "Welche akustischen Phänomene zählt Schneider zu den Erstrangsymptomen?",
+      "options": [
+        "Dialogische und kommentierende Stimmen sowie das Gedankenlautwerden.",
+        "Ausschließlich optische Trugbilder mit szenischem Charakter.",
+        "Ausschließlich ungeformte Akoasmen ohne jeden Wortcharakter.",
+        "Ausschließlich Pseudohalluzinationen mit erhaltenem Realitätsbezug.",
+        "Ausschließlich olfaktorische und gustatorische Trugwahrnehmungen."
+      ],
+      "answer": 0,
+      "explanation": "Zu Schneiders Erstrangsymptomen zählen dialogische und kommentierende Stimmen sowie das Gedankenlautwerden. Ungeformte Akoasmen, optische, olfaktorische/gustatorische Formen und Pseudohalluzinationen gehören nicht dazu.",
+      "hard": true
+    },
+    {
+      "topic": "Taktile Halluzinationen",
+      "question": "Woran ist bei taktilen Halluzinationen (Berührungsempfindungen) vorrangig zu denken?",
+      "options": [
+        "An organisch-toxische Ursachen, etwa bei Substanzkonsum oder im Entzug.",
+        "An ein Zeichen mit stets erhaltenem Realitätsbezug (Pseudohalluzination).",
+        "An ein reines Negativsymptom des chronischen Krankheitsverlaufs.",
+        "An das häufigste und typischste Symptom der Schizophrenie überhaupt.",
+        "An ein sicheres Schneider-Erstrangsymptom mit hoher Beweiskraft."
+      ],
+      "answer": 0,
+      "explanation": "Taktile Halluzinationen weisen wie optische und olfaktorische/gustatorische Formen eher auf organisch-toxische Ursachen (Substanzen, Entzug) hin. Sie sind kein typisches, kein Erstrang- und kein Negativsymptom und nicht per se pseudohalluzinatorisch."
+    },
+    {
+      "topic": "Dreifach-Abgrenzung",
+      "question": "Wie unterscheiden sich normale Wahrnehmung, Illusion und Halluzination hinsichtlich der Reizquelle?",
+      "options": [
+        "Keines der drei Phänomene beruht überhaupt auf einer realen Reizquelle.",
+        "Wahrnehmung: Reiz korrekt gedeutet; Illusion: Reiz verkannt; Halluzination: kein Reiz.",
+        "Illusion und Halluzination beruhen auf einem Reiz, allein die Wahrnehmung nicht.",
+        "Alle drei Phänomene setzen zwingend einen realen äußeren Sinnesreiz voraus.",
+        "Wahrnehmung und Halluzination beruhen auf einem Reiz, allein die Illusion nicht."
+      ],
+      "answer": 1,
+      "explanation": "Die normale Wahrnehmung deutet einen realen Reiz korrekt, die Illusion verkennt einen realen Reiz, die Halluzination hat gar keinen Reiz. Die anderen Optionen verteilen die Reizquelle falsch.",
+      "hard": true
     },
     {
       "topic": "Realitätsbezug",
       "question": "Was gilt für den Realitätsbezug bei einer echten Halluzination?",
       "options": [
-        "Die Person erkennt die Wahrnehmung eindeutig als nicht real.",
-        "Die Wahrnehmung beruht immer auf einem tatsächlich vorhandenen Reiz.",
-        "Die Wahrnehmung wird als real erlebt, der Realitätsbezug ist aufgehoben.",
         "Die Wahrnehmung tritt nur bei erhaltener voller Krankheitseinsicht auf.",
-        "Die Person kann die Wahrnehmung jederzeit bewusst an- und abschalten."
+        "Die Person kann die Wahrnehmung jederzeit bewusst an- und wieder abschalten.",
+        "Die Wahrnehmung beruht immer auf einem tatsächlich vorhandenen äußeren Reiz.",
+        "Die Person erkennt die Wahrnehmung eindeutig und sicher als nicht real.",
+        "Die Wahrnehmung wird als real erlebt, der Realitätsbezug ist aufgehoben."
       ],
-      "answer": 2,
-      "explanation": "Bei der echten Halluzination wird die Wahrnehmung als real erlebt (aufgehobener Realitätsbezug) – im Unterschied zur Pseudohalluzination, bei der die Person weiß, dass es nicht real ist. Ein realer Reiz, bewusste Kontrolle oder erhaltene Einsicht sind nicht gegeben."
-    },
-    {
-      "topic": "Akustische Dominanz",
-      "question": "Welche Halluzinationsmodalität dominiert bei der Schizophrenie?",
-      "options": [
-        "Die akustische Modalität (Stimmenhören).",
-        "Die olfaktorische Modalität mit Geruchswahrnehmungen.",
-        "Die rein taktile Modalität mit Berührungsempfindungen.",
-        "Die gustatorische Modalität mit Geschmackswahrnehmungen.",
-        "Die optische Modalität mit szenischen Trugbildern."
-      ],
-      "answer": 0,
-      "explanation": "Bei der Schizophrenie dominieren akustische Halluzinationen (Stimmenhören, ~74 % akustische Halluzinationen, ~65 % Stimmenhören). Optische, olfaktorische, gustatorische und rein taktile Formen sind untypisch und eher organisch/toxisch."
+      "answer": 4,
+      "explanation": "Bei der echten Halluzination wird die Wahrnehmung als real erlebt (aufgehobener Realitätsbezug) – anders als bei der Pseudohalluzination. Ein realer Reiz, bewusste Kontrolle oder erhaltene Einsicht liegen nicht vor."
     },
     {
       "topic": "Anwendung: Illusion",
       "question": "Ein Patient sieht im Dämmerlicht einen Kleiderständer und ist im Moment sicher, dort stehe ein Einbrecher; bei Licht erkennt er den Ständer. Welches Phänomen liegt vor?",
       "options": [
-        "Eine echte optische Halluzination ohne jede reale Reizquelle.",
-        "Eine Pseudohalluzination bei voll erhaltenem Realitätsbezug.",
-        "Ein Wahneinfall ohne äußeren Wahrnehmungsanlass.",
+        "Eine echte optische Halluzination ganz ohne reale Reizquelle.",
+        "Eine Pseudohalluzination mit voll erhaltenem Realitätsbezug.",
+        "Eine Zönästhesie mit leibbezogener Missempfindung.",
         "Eine Illusion (Verkennung eines realen Reizes).",
-        "Eine Zönästhesie mit leibbezogener Missempfindung."
+        "Ein Wahneinfall ohne äußeren Wahrnehmungsanlass."
       ],
       "answer": 3,
-      "explanation": "Ein real vorhandener Reiz (Kleiderständer) wird verkannt – das ist eine Illusion. Eine echte Halluzination hätte keinen Reiz, die Zönästhesie ist leibbezogen, der Wahneinfall reizunabhängig, und die Pseudohalluzination betrifft das Wissen um die Irrealität.",
+      "explanation": "Ein real vorhandener Reiz (Kleiderständer) wird verkannt – das ist eine Illusion. Eine echte Halluzination hätte keinen Reiz, die Zönästhesie ist leibbezogen, der Wahneinfall reizunabhängig, die Pseudohalluzination betrifft das Wissen um die Irrealität.",
       "transfer": true
     },
     {
       "topic": "Anwendung: Pseudohalluzination",
       "question": "Eine Patientin hört eine leise Stimme, weiß aber sicher, dass diese nicht real ist und nur in ihrem Kopf entsteht. Welches Phänomen liegt vor?",
       "options": [
-        "Eine Illusion durch Verkennung eines realen Außengeräuschs.",
-        "Eine echte akustische Halluzination mit aufgehobenem Realitätsbezug.",
-        "Ein Wahn mit erfahrungsunabhängiger Gewissheit.",
         "Eine Konfabulation zur Füllung einer Erinnerungslücke.",
-        "Eine Pseudohalluzination (erhaltener Realitätsbezug)."
+        "Eine Illusion durch Verkennung eines realen Außengeräuschs.",
+        "Eine Pseudohalluzination (erhaltener Realitätsbezug).",
+        "Eine echte akustische Halluzination mit aufgehobenem Realitätsbezug.",
+        "Ein Wahn mit erfahrungsunabhängiger apriorischer Gewissheit."
       ],
-      "answer": 4,
+      "answer": 2,
       "explanation": "Bleibt der Realitätsbezug erhalten (die Person weiß, dass die Stimme nicht real ist), liegt eine Pseudohalluzination vor. Bei der echten Halluzination wäre der Bezug aufgehoben; Illusion setzt einen realen Reiz voraus, Wahn ist eine Überzeugung, Konfabulation betrifft das Gedächtnis.",
       "hard": true,
       "transfer": true
@@ -293,124 +308,110 @@
       "topic": "Anwendung: imperative Stimme",
       "question": "Ein Patient berichtet, eine Stimme befehle ihm, sich und andere zu verletzen. Welche Stimmenform liegt vor und warum ist sie besonders relevant?",
       "options": [
-        "Eine Pseudohalluzination; er erkennt die Stimme klar als nicht real.",
+        "Eine Pseudohalluzination, da er die Stimme klar als nicht real erkennt.",
+        "Eine dialogische Stimme, die ein harmloses Zwiegespräch über ihn führt.",
         "Eine imperative Stimme; relevant wegen Fremd- und Selbstgefährdung.",
-        "Ein Akoasma; es handelt sich um ein ungeformtes Geräusch ohne Bedeutung.",
-        "Eine kommentierende Stimme; sie beschreibt nur beiläufig sein Verhalten.",
-        "Eine dialogische Stimme; sie führt ein harmloses Zwiegespräch über ihn."
+        "Eine kommentierende Stimme, die sein Verhalten nur beiläufig beschreibt.",
+        "Ein Akoasma, also ein ungeformtes Geräusch ohne jede Bedeutung."
       ],
-      "answer": 1,
-      "explanation": "Eine befehlende (imperative) Stimme ist wegen der Gefährdungsaspekte (Fremd- und Selbstgefährdung) besonders relevant. Kommentierende und dialogische Stimmen tun etwas anderes, ein Akoasma ist ungeformt, und eine Pseudohalluzination würde erhaltenen Realitätsbezug bedeuten.",
+      "answer": 2,
+      "explanation": "Eine befehlende (imperative) Stimme ist wegen der Gefährdungsaspekte (Fremd- und Selbstgefährdung) besonders relevant. Kommentierende und dialogische Stimmen tun anderes, ein Akoasma ist ungeformt, eine Pseudohalluzination bedeutete erhaltenen Realitätsbezug.",
       "transfer": true
     },
     {
       "topic": "Anwendung: kommentierende Stimme",
       "question": "Eine Patientin hört fortlaufend eine Stimme, die jede ihrer Handlungen von außen mitkommentiert. Welche Stimmenform liegt vor?",
       "options": [
-        "Ein Akoasma als ungeformtes Geräusch.",
-        "Eine imperative Stimme mit Befehlscharakter.",
-        "Eine Zönästhesie mit leibbezogener Empfindung.",
-        "Eine kommentierende Stimme.",
-        "Eine dialogische Stimme im Zwiegespräch."
+        "Eine dialogische Stimme im Zwiegespräch mit einer zweiten Stimme.",
+        "Ein Akoasma als ungeformtes Geräusch ohne Wortcharakter.",
+        "Eine Zönästhesie mit leibbezogener Missempfindung.",
+        "Eine kommentierende Stimme (Schneider-Erstrangsymptom).",
+        "Eine imperative Stimme mit direktem Befehlscharakter."
       ],
       "answer": 3,
-      "explanation": "Eine Stimme, die das Handeln fortlaufend begleitet und beschreibt, ist eine kommentierende Stimme (zählt zu Schneiders Erstrangsymptomen). Befehle kennzeichnen die imperative, ein Zwiegespräch die dialogische Stimme; Akoasma und Zönästhesie sind keine Stimmen.",
+      "explanation": "Eine Stimme, die das Handeln fortlaufend begleitet und beschreibt, ist eine kommentierende Stimme. Befehle kennzeichnen die imperative, ein Zwiegespräch die dialogische Stimme; Akoasma und Zönästhesie sind keine Stimmen.",
       "transfer": true
     },
     {
       "topic": "Anwendung: optische Halluzination",
-      "question": "Ein Patient sieht nach Konsum einer Substanz lebhafte, farbige szenische Trugbilder. Woran ist bei dieser Halluzinationsform vorrangig zu denken?",
+      "question": "Ein Patient sieht nach Konsum einer Substanz lebhafte, farbige, szenische Trugbilder. Woran ist bei dieser Halluzinationsform vorrangig zu denken?",
       "options": [
-        "An ein reines Negativsymptom im chronischen Residualzustand.",
-        "An eine drogeninduzierte oder organische Ursache (optische Formen sind untypisch).",
+        "An eine klassische Schizophrenie, da optische Halluzinationen deren Leitsymptom sind.",
+        "An eine drogeninduzierte oder organische Ursache (optische Formen untypisch).",
+        "An ein reines Negativsymptom im chronischen Residualzustand der Erkrankung.",
         "An eine Pseudohalluzination mit sicher erhaltenem Realitätsbezug.",
-        "An ein Schneider-Erstrangsymptom, das die Schizophrenie beweist.",
-        "An eine klassische Schizophrenie, da optische Halluzinationen deren Leitsymptom sind."
+        "An ein Schneider-Erstrangsymptom, das die Schizophrenie eindeutig beweist."
       ],
       "answer": 1,
-      "explanation": "Optische (szenische) Halluzinationen sind bei Schizophrenie untypisch und sprechen für eine drogeninduzierte oder organische Ursache. Sie sind kein schizophrenes Leitsymptom, kein Erstrangsymptom, kein Negativsymptom und nicht per se pseudohalluzinatorisch.",
+      "explanation": "Optische, szenische Halluzinationen sind bei Schizophrenie untypisch und sprechen für eine drogeninduzierte oder organische Ursache. Sie sind kein Leitsymptom, kein Erstrang- und kein Negativsymptom und nicht per se pseudohalluzinatorisch.",
       "transfer": true
     },
     {
       "topic": "Anwendung: dialogische Stimmen",
       "question": "Ein Patient hört zwei Stimmen, die sich in seiner Gegenwart über ihn unterhalten. Welche Stimmenform liegt vor?",
       "options": [
+        "Dialogische Stimmen (Rede und Gegenrede über die Person).",
         "Eine imperative Stimme mit direktem Befehlscharakter.",
-        "Eine leibbezogene Zönästhesie ohne akustischen Anteil.",
-        "Ein Akoasma als ungeformtes Geräusch ohne Wortcharakter.",
-        "Eine rein kommentierende Stimme ohne Gegenstimme.",
-        "Dialogische Stimmen (Rede und Gegenrede über die Person)."
+        "Eine rein kommentierende Stimme ganz ohne Gegenstimme.",
+        "Eine leibbezogene Zönästhesie ganz ohne akustischen Anteil.",
+        "Ein Akoasma als ungeformtes Geräusch ohne Wortcharakter."
       ],
-      "answer": 4,
+      "answer": 0,
       "explanation": "Zwei Stimmen im Zwiegespräch über die Person sind dialogische Stimmen (Schneider-Erstrangsymptom). Ein direkter Befehl kennzeichnet die imperative, ein bloßer Begleitkommentar die kommentierende Stimme; Akoasma und Zönästhesie sind keine Stimmen.",
       "transfer": true
     },
     {
-      "topic": "Gedankenlautwerden",
-      "question": "Was bezeichnet das Gedankenlautwerden?",
+      "topic": "Stimmen: imperativ",
+      "question": "Was kennzeichnet eine imperative Stimme?",
       "options": [
-        "Das Erleben ungeformter Geräusche ohne jeden Wortcharakter.",
-        "Das Erleben, dass die eigenen Gedanken von außen abgezogen werden.",
-        "Das Erleben, dass die eigenen Gedanken sich im Raum ausbreiten.",
-        "Das Erleben, die eigenen Gedanken laut und hörbar zu vernehmen.",
-        "Das Erleben, dass fremde Gedanken von außen in den Kopf eingegeben werden."
-      ],
-      "answer": 3,
-      "explanation": "Beim Gedankenlautwerden hört die Person die eigenen Gedanken laut mitklingen (Schneider-Erstrangsymptom, im Grenzbereich zu den Ich-Störungen). Eingebung, Entzug und Ausbreitung sind eigene Ich-Störungen, ungeformte Geräusche sind Akoasmen."
-    },
-    {
-      "topic": "Schneider-Erstrangsymptome",
-      "question": "Welche akustischen Phänomene zählt Schneider zu den Erstrangsymptomen?",
-      "options": [
-        "Ausschließlich optische Trugbilder mit szenischem Charakter.",
-        "Ausschließlich ungeformte Akoasmen ohne jeden Wortcharakter.",
-        "Dialogische und kommentierende Stimmen sowie das Gedankenlautwerden.",
-        "Ausschließlich olfaktorische und gustatorische Trugwahrnehmungen.",
-        "Ausschließlich Pseudohalluzinationen mit erhaltenem Realitätsbezug."
+        "Sie kommentiert das Handeln der Person fortlaufend beiläufig von außen.",
+        "Sie gibt lediglich ungeformte Geräusche ohne jeden Wortcharakter wieder.",
+        "Sie erteilt der betroffenen Person Befehle und Handlungsaufforderungen.",
+        "Sie unterhält sich mit einer zweiten Stimme in Form eines Zwiegesprächs.",
+        "Sie wird von der betroffenen Person eindeutig als nicht real erkannt."
       ],
       "answer": 2,
-      "explanation": "Zu Schneiders Erstrangsymptomen zählen dialogische und kommentierende Stimmen sowie das Gedankenlautwerden. Ungeformte Akoasmen, optische, olfaktorische/gustatorische Formen und Pseudohalluzinationen gehören nicht dazu.",
-      "hard": true
+      "explanation": "Eine imperative Stimme befiehlt und fordert zu Handlungen auf (klinisch relevant wegen Fremd-/Selbstgefährdung). Kommentieren und Zwiegespräch sind andere Varianten, Geräusche sind Akoasmen, das Erkennen als nicht real kennzeichnet die Pseudohalluzination."
     },
     {
-      "topic": "Taktile Halluzinationen",
-      "question": "Woran ist bei taktilen Halluzinationen (Berührungsempfindungen) vorrangig zu denken?",
+      "topic": "Akustische Dominanz",
+      "question": "Welche Halluzinationsmodalität dominiert bei der Schizophrenie?",
       "options": [
-        "An organisch-toxische Ursachen, etwa bei Substanzkonsum oder Entzug.",
-        "An das häufigste und typischste Symptom der Schizophrenie.",
-        "An ein sicheres Schneider-Erstrangsymptom mit hoher Beweiskraft.",
-        "An ein Zeichen mit stets erhaltenem Realitätsbezug (Pseudohalluzination).",
-        "An ein reines Negativsymptom des chronischen Verlaufs."
+        "Die optische Modalität mit szenischen Trugbildern.",
+        "Die olfaktorische Modalität mit Geruchswahrnehmungen.",
+        "Die gustatorische Modalität mit Geschmackswahrnehmungen.",
+        "Die akustische Modalität (Stimmenhören).",
+        "Die rein taktile Modalität mit Berührungsempfindungen."
       ],
-      "answer": 0,
-      "explanation": "Taktile Halluzinationen weisen wie optische und olfaktorische/gustatorische Formen eher auf organisch-toxische Ursachen (Substanzen, Entzug) hin. Sie sind kein typisch schizophrenes Leitsymptom, kein Erstrangsymptom, kein Negativsymptom und nicht per se pseudohalluzinatorisch."
-    },
-    {
-      "topic": "Dreifach-Abgrenzung",
-      "question": "Wie unterscheiden sich normale Wahrnehmung, Illusion und Halluzination hinsichtlich der Reizquelle?",
-      "options": [
-        "Alle drei setzen zwingend einen tatsächlich vorhandenen äußeren Sinnesreiz voraus.",
-        "Wahrnehmung: Reiz korrekt gedeutet; Illusion: Reiz verkannt; Halluzination: kein Reiz.",
-        "Wahrnehmung und Halluzination beruhen auf einem realen Reiz, allein die Illusion nicht.",
-        "Illusion und Halluzination beruhen auf einem Reiz, die Wahrnehmung nicht.",
-        "Keine der drei Formen beruht überhaupt auf einer realen äußeren Sinnesreizquelle."
-      ],
-      "answer": 1,
-      "explanation": "Die normale Wahrnehmung deutet einen realen Reiz korrekt, die Illusion verkennt einen realen Reiz, die Halluzination hat gar keinen Reiz. Die anderen Optionen verteilen die Reizquelle falsch auf die drei Begriffe.",
-      "hard": true
+      "answer": 3,
+      "explanation": "Bei Schizophrenie dominieren akustische Halluzinationen (~74 % akustische Halluzinationen, ~65 % Stimmenhören). Optische, olfaktorische, gustatorische und rein taktile Formen sind untypisch und eher organisch/toxisch."
     },
     {
       "topic": "Zönästhesien: Einordnung",
-      "question": "Zu welcher übergeordneten Symptomkategorie zählen Zönästhesien?",
+      "question": "Zu welcher übergeordneten Symptomkategorie zählen Zönästhesien – und welche Aussage trifft NICHT zu?",
       "options": [
-        "Zu den formalen Denkstörungen des Gedankenablaufs.",
-        "Zu den Negativsymptomen des chronischen Verlaufs.",
-        "Zu den Halluzinationen (Körperhalluzinationen).",
-        "Zu den Ich-Störungen im Sinne einer Fremdbeeinflussung.",
-        "Zu den inhaltlichen Denkstörungen im Sinne des Wahns."
+        "Sie sind leibbezogene Körperhalluzinationen.",
+        "Sie sind eine formale Denkstörung des Gedankenablaufs.",
+        "Sie sind von akustischen Stimmen und optischen Trugbildern zu unterscheiden.",
+        "Sie zählen damit zur Positivsymptomatik.",
+        "Ein Beispiel ist ein wahnhaft anmutendes Brennen oder Elektrisieren am Körper."
       ],
-      "answer": 2,
-      "explanation": "Zönästhesien sind leibbezogene Körperhalluzinationen und zählen damit zu den Halluzinationen (Positivsymptomatik). Sie sind weder Ich-Störung, noch formale/inhaltliche Denkstörung, noch Negativsymptom."
+      "answer": 1,
+      "explanation": "Zönästhesien sind leibbezogene Körperhalluzinationen (Positivsymptomatik), keine formale Denkstörung – diese Aussage ist die falsche. Die übrigen Aussagen treffen zu.",
+      "trap": "Zönästhesien sind Körperhalluzinationen, nicht formale Denkstörungen."
+    },
+    {
+      "topic": "Stimmenhören: Häufigkeit",
+      "question": "Was gilt für das Stimmenhören bei der Schizophrenie?",
+      "options": [
+        "Es ist ein sehr seltenes und untypisches Phänomen der Schizophrenie.",
+        "Es ist grundsätzlich mit voll erhaltenem Realitätsbezug verbunden.",
+        "Es tritt ausschließlich im chronischen Residualstadium der Erkrankung auf.",
+        "Es kommt bei Schizophrenie seltener vor als optische Halluzinationen.",
+        "Es ist mit rund 65 % eine der häufigsten Halluzinationsformen der Erkrankung."
+      ],
+      "answer": 4,
+      "explanation": "Das Stimmenhören ist mit rund 65 % (akustische Halluzinationen insgesamt ~74 %) eine der häufigsten Halluzinationsformen. Es ist nicht selten, nicht auf das Residuum beschränkt, nicht per se pseudohalluzinatorisch und häufiger als optische Formen."
     }
   ]
 }
