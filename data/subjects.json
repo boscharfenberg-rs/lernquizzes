@@ -508,6 +508,13 @@
       "title": "Therapie der (k)PTBS & Dissoziation",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Behandlungsteil im Altklausur-Stil: Pharmakotherapie bei Dissoziation und PTBS, Leitlinienlage, das Wirkprinzip Konfrontation und Kognitionsveränderung, die fünf erfolgreichen Behandlungsstrategien, Verfahren mit Wirksamkeitsnachweis (KVT, EMDR, DBT-P) sowie Methoden konfrontativer Traumabearbeitung."
+    },
+    {
+      "id": "kl-ps-psychose-neurose-vergleich",
+      "file": "kl-ps-psychose-neurose-vergleich.json",
+      "title": "Persönlichkeitsstörung, Psychose & Neurose im Vergleich",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Die Vergleichsmatrix aus dem PS-Deck im Altklausur-Stil: Beginn, Verlauf, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung, Prävalenz und Geschlechterdifferenzen bei Persönlichkeitsstörung, Psychose und Neurose – samt aller CAVE-Ausnahmen."
     }
   ]
 }

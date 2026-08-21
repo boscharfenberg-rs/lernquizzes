@@ -1,0 +1,419 @@
+{
+  "id": "kl-ps-psychose-neurose-vergleich",
+  "title": "Persönlichkeitsstörung, Psychose & Neurose im Vergleich",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Die Vergleichsmatrix aus dem PS-Deck im Altklausur-Stil: Beginn, Verlauf, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung, Prävalenz und Geschlechterdifferenzen bei Persönlichkeitsstörung, Psychose und Neurose – samt aller CAVE-Ausnahmen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Beginn",
+      "question": "Wann zeigen sich bei einer Persönlichkeitsstörung typischerweise erste Auffälligkeiten?",
+      "options": [
+        "Erst nach dem Auftreten einer ersten psychotischen Episode.",
+        "Erst in der Adoleszenz oder im frühen Erwachsenenalter.",
+        "Erst im mittleren Erwachsenenalter nach längerer Belastung.",
+        "Der Beginn ist grundsätzlich variabel und nicht eingrenzbar.",
+        "Bereits in der Kindheit, also sehr früh im Lebenslauf."
+      ],
+      "answer": 4,
+      "explanation": "Für die Persönlichkeitsstörung sind erste Auffälligkeiten bereits in der Kindheit vermerkt – das ist das früheste Beginnkriterium der drei Gruppen. Adoleszenz und frühes Erwachsenenalter kennzeichnen demgegenüber den typischen Psychosebeginn. Ein Beginn erst im mittleren Erwachsenenalter passt zu keiner der drei Gruppen. Als variabel ist ausdrücklich der Beginn der Neurose beschrieben, nicht der der Persönlichkeitsstörung. Und eine psychotische Episode ist für die Persönlichkeitsstörung keine Voraussetzung."
+    },
+    {
+      "topic": "Beginn",
+      "hard": true,
+      "question": "Welche Aussage zum Erkrankungsbeginn im Vergleich der drei Gruppen trifft NICHT zu?",
+      "options": [
+        "Bei der Neurose ist der Beginn ausdrücklich als variabel beschrieben.",
+        "Auch das frühe Erwachsenenalter ist ein typischer Psychosebeginn.",
+        "Bei der Persönlichkeitsstörung finden sich schon in der Kindheit Auffälligkeiten.",
+        "Ein Beginn in der Kindheit schließt eine Psychose sicher aus.",
+        "Bei der Psychose liegt der Beginn meist in der Adoleszenz."
+      ],
+      "answer": 3,
+      "explanation": "Die Tabelle vermerkt ausdrücklich das CAVE der kindlichen Psychose – ein früher Beginn ist selten, aber möglich und schließt eine Psychose deshalb gerade nicht aus. Der typische Psychosebeginn liegt in der Adoleszenz und im frühen Erwachsenenalter, beides trifft zu. Bei der Persönlichkeitsstörung finden sich erste Auffälligkeiten bereits in der Kindheit. Und für die Neurose ist der Beginn als variabel angegeben."
+    },
+    {
+      "topic": "Beginn",
+      "transfer": true,
+      "question": "Bei einem Erwachsenen finden sich bereits in Kindheitsberichten deutliche Auffälligkeiten im Erleben und Verhalten, die sich seither durchziehen. Was ist am ehesten zu erwägen?",
+      "options": [
+        "Eine Persönlichkeitsstörung, weil der Beginn früh liegt.",
+        "Eine Neurose, weil deren Beginn als variabel beschrieben ist.",
+        "Eine Psychose, weil der Verlauf hier chronisch sein kann.",
+        "Keine der drei Gruppen, da der Beginn nichts darüber aussagt.",
+        "Eine Psychose, weil auch kindliche Formen beschrieben sind."
+      ],
+      "answer": 0,
+      "explanation": "Erste Auffälligkeiten in der Kindheit und ein durchgehendes Fortbestehen bilden genau das Beginn- und Verlaufsmuster der Persönlichkeitsstörung. Kindliche Psychosen sind zwar als CAVE vermerkt, aber die Ausnahme und nicht der naheliegende Erstgedanke. Ein variabler Beginn spricht nicht spezifisch für eine Neurose, sondern schließt lediglich nichts aus. Ein chronischer Verlauf kommt bei Psychose und Neurose vor und ist kein Beginnkriterium. Und der Beginn ist eines der Unterscheidungskriterien der Tabelle, also durchaus aussagekräftig."
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Wie ist der Verlauf einer Persönlichkeitsstörung im Vergleich charakterisiert?",
+      "options": [
+        "Regelhaft in einmaligen, klar abgegrenzten Episoden.",
+        "Relativ stabil über längere Zeiträume hinweg.",
+        "Durchgängig episodisch mit vollständigen Remissionen.",
+        "Rasch wechselnd innerhalb weniger Wochen.",
+        "Grundsätzlich progredient bis zur Chronifizierung."
+      ],
+      "answer": 1,
+      "explanation": "Der Verlauf der Persönlichkeitsstörung ist als relativ stabil über längere Zeiträume beschrieben, wobei er je nach Typus variiert. Durchgängig episodische Verläufe mit vollständigen Remissionen sowie einmalige abgegrenzte Episoden sind demgegenüber Verlaufstypen von Psychose und Neurose. Eine grundsätzliche Progredienz ist nicht angegeben. Und ein rascher Wechsel innerhalb weniger Wochen widerspricht der beschriebenen Stabilität."
+    },
+    {
+      "topic": "Verlauf",
+      "trap": "Die Verlaufsstabilität gilt nur „je nach Typus“ – die Borderline-Störung ist ausdrücklich als wenig stabil vermerkt.",
+      "question": "Welche Persönlichkeitsstörung wird als Ausnahme von der Verlaufsstabilität ausdrücklich genannt?",
+      "options": [
+        "Die Borderline-Persönlichkeitsstörung.",
+        "Die antisoziale Persönlichkeitsstörung.",
+        "Die zwanghafte Persönlichkeitsstörung.",
+        "Die schizotype Persönlichkeitsstörung.",
+        "Die dependente Persönlichkeitsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Die Borderline-Persönlichkeitsstörung ist in der Tabelle ausdrücklich als wenig stabil vermerkt und damit die genannte Ausnahme von der relativen Verlaufsstabilität. Die antisoziale und die dependente Persönlichkeitsstörung werden nur bei den Geschlechterdifferenzen angeführt, nicht beim Verlauf. Und die schizotype sowie die zwanghafte Persönlichkeitsstörung erscheinen in der Vergleichstabelle überhaupt nicht als Ausnahme."
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Welche Aussage zum Verlauf trifft NICHT zu?",
+      "options": [
+        "Episodische Verläufe können einmalig oder wiederholt auftreten.",
+        "Die Verlaufsstabilität der Persönlichkeitsstörung gilt nur je nach Typus.",
+        "Bei der Psychose sind chronische und episodische Verläufe beschrieben.",
+        "Auch bei der Neurose sind chronische und episodische Verläufe möglich.",
+        "Psychose und Neurose unterscheiden sich in den Verlaufstypen deutlich."
+      ],
+      "answer": 4,
+      "explanation": "Für Psychose und Neurose sind in der Tabelle die gleichen Verlaufstypen angegeben – chronisch sowie episodisch, einmalig oder wiederholt. Ein deutlicher Unterschied besteht in diesem Kriterium also gerade nicht, weshalb die erste Aussage die gesuchte falsche ist. Die chronischen und episodischen Verläufe treffen für beide Gruppen zu, und die Unterscheidung einmalig gegen wiederholt ist ausdrücklich vermerkt. Und die Stabilität der Persönlichkeitsstörung steht ausdrücklich unter dem Vorbehalt des Typus."
+    },
+    {
+      "topic": "Verlauf",
+      "transfer": true,
+      "question": "Eine Patientin zeigt seit vielen Jahren durchgehend dieselben Beziehungs- und Selbstbildprobleme, ohne Phasen völliger Beschwerdefreiheit. Was spricht das Verlaufsmuster am ehesten an?",
+      "options": [
+        "Eine Psychose mit einmaliger psychotischer Episode.",
+        "Eine Psychose mit wiederholt episodischem Verlauf.",
+        "Eine Neurose, weil deren Verlauf immer chronisch ist.",
+        "Eine Neurose mit einmaliger, abgegrenzter Episode.",
+        "Eine Persönlichkeitsstörung mit stabilem Verlauf."
+      ],
+      "answer": 4,
+      "explanation": "Ein über Jahre durchgehendes, gleichbleibendes Muster ohne beschwerdefreie Phasen entspricht der relativen Verlaufsstabilität der Persönlichkeitsstörung. Episodische Verläufe – einmalig oder wiederholt – wären durch symptomfreie Intervalle gekennzeichnet, die hier ausdrücklich fehlen. Das gilt für die psychotischen wie für die neurotischen Episoden gleichermaßen. Und der Neuroseverlauf ist keineswegs immer chronisch, sondern ebenso episodisch möglich."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "question": "Was bedeutet ich-synton? Die ich-syntone Symptomatik …",
+      "options": [
+        "… ist ausschließlich bei affektiven Störungen anzutreffen.",
+        "… wird als fremd und dem eigenen Wesen widersprechend erlebt.",
+        "… bezeichnet die Zuordnung eines Merkmals zum Temperament.",
+        "… wird von den Betroffenen als normal und zugehörig erlebt.",
+        "… erklärt den Realitätsverlust bei psychotischen Erkrankungen."
+      ],
+      "answer": 3,
+      "explanation": "Ich-synton heißt, dass die Symptomatik als zur eigenen Person gehörig und als normal erlebt wird – so beschreiben Betroffene mit Persönlichkeitsstörung ihre Eigenarten typischerweise. Als fremd und dem eigenen Wesen widersprechend erlebt wird die ich-dystone Symptomatik, wie sie für die Neurose kennzeichnend ist. Der Realitätsverlust ist ein eigenes Kriterium der Tabelle und wird durch die Ich-Syntonie nicht erklärt. Eine Beschränkung auf affektive Störungen besteht nicht. Und die Zuordnung zum Temperament ist eine andere Fragestellung."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "question": "Welche Zuordnung des Ich-Bezugs trifft am ehesten zu?",
+      "options": [
+        "Der Ich-Bezug ist hier nicht bestimmbar.",
+        "Psychose und Neurose beide ich-dyston.",
+        "Psychose ich-synton, Neurose ich-dyston.",
+        "Psychose ich-dyston, Neurose ich-synton.",
+        "Psychose und Neurose beide ich-synton."
+      ],
+      "answer": 2,
+      "explanation": "Die Tabelle ordnet die Psychose als ich-synton und die Neurose als ich-dyston ein – das ist der zentrale Unterschied in dieser Zeile. Die umgekehrte Zuordnung dreht beide Angaben. Eine durchgängige Ich-Dystonie oder Ich-Syntonie für beide Gruppen verwischt genau diesen Unterschied. Und der Ich-Bezug ist eines der acht Vergleichskriterien und damit sehr wohl bestimmbar."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "question": "Welche Aussage zur Ich-Syntonie bei Persönlichkeitsstörungen trifft NICHT zu?",
+      "options": [
+        "Bei der Neurose ist der Ich-Bezug demgegenüber ich-dyston.",
+        "Sie gilt ausnahmslos für sämtliche Persönlichkeitsstörungen.",
+        "Es sind Ausnahmen von dieser Regel ausdrücklich vermerkt.",
+        "Die Borderline-Störung wird ausdrücklich als Ausnahme genannt.",
+        "Die Symptomatik wird meist als zur eigenen Person gehörig erlebt."
+      ],
+      "answer": 1,
+      "explanation": "Die Ich-Syntonie ist für die Persönlichkeitsstörungen der Regelfall, aber ausdrücklich mit Ausnahmen versehen – eine ausnahmslose Geltung ist deshalb die gesuchte falsche Aussage. Dass die Symptomatik meist als zur eigenen Person gehörig erlebt wird, trifft als Regel zu. Die Borderline-Störung ist als Ausnahme eigens vermerkt. Bei der Neurose ist der Ich-Bezug demgegenüber ich-dyston. Und dass überhaupt Ausnahmen notiert sind, ist gerade der Punkt."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "transfer": true,
+      "question": "Ein Patient beschreibt seine misstrauische, distanzierte Art als „einfach so, wie ich eben bin“ und sieht darin kein Problem. Wie ist das einzuordnen?",
+      "options": [
+        "Als ich-dystones Erleben, wie es für Neurosen typisch ist.",
+        "Als Hinweis auf einen Realitätsverlust wie bei einer Psychose.",
+        "Als ich-syntones Erleben im Sinne einer Persönlichkeitsstörung.",
+        "Als Metasorge, wie sie zu Beginn einer Angststörung auftritt.",
+        "Als überwertige Idee mit deutlich eingeschränkter Krankheitseinsicht."
+      ],
+      "answer": 2,
+      "explanation": "Die Eigenart wird als selbstverständlicher Teil der eigenen Person erlebt und nicht als Störung empfunden – das ist die Ich-Syntonie, die für Persönlichkeitsstörungen kennzeichnend ist. Eine überwertige Idee wäre eine inhaltlich überzogene Überzeugung, nicht eine Selbstbeschreibung des Wesens. Ich-dyston wäre das Erleben nur, wenn er die Eigenart als fremd und störend empfände. Ein Realitätsverlust ist in der Schilderung nirgends angelegt. Und Metasorgen sind Sorgen über das eigene Sorgen und gehören in den Bereich der Angststörungen."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "transfer": true,
+      "question": "Eine Patientin leidet unter Zwangsgedanken, die sie als „völlig gegen alles, was ich bin“ erlebt. Wie ist der Ich-Bezug einzuordnen?",
+      "options": [
+        "Ich-dyston, wie es für die Neurose typisch ist.",
+        "Ich-synton, wie es für die Psychose typisch ist.",
+        "Ich-dyston, wie es für Persönlichkeitsstörungen gilt.",
+        "Ich-synton, wie es für Persönlichkeitsstörungen gilt.",
+        "Der Ich-Bezug ist bei Zwangsgedanken nicht bestimmbar."
+      ],
+      "answer": 0,
+      "explanation": "Inhalte, die dem eigenen Wesen und Wertesystem widersprechen, werden als ich-dyston erlebt – genau so ist der Ich-Bezug der Neurose in der Tabelle beschrieben. Ich-synton wäre das Erleben, wenn sie die Gedanken als zu sich gehörig empfände; das kennzeichnet Psychose und Persönlichkeitsstörung. Für Persönlichkeitsstörungen ist Ich-Dystonie gerade nicht der Regelfall. Und der Ich-Bezug ist bei der Zwangssymptomatik besonders klar bestimmbar."
+    },
+    {
+      "topic": "Ich-Bezug",
+      "hard": true,
+      "trap": "Bei der generalisierten Angststörung werden die Sorgen anfangs als sinnvoll und damit ich-synton erlebt; erst die Metasorgen machen sie ich-dyston.",
+      "question": "Welche Ausnahme von der Ich-Dystonie wird bei den Neurosen genannt?",
+      "options": [
+        "Die Panikstörung mit ausgeprägter Erwartungsangst.",
+        "Die Zwangsstörung mit vollständig erhaltener Einsicht.",
+        "Die generalisierte Angststörung in der Anfangsphase.",
+        "Die posttraumatische Belastungsstörung mit Wiedererleben.",
+        "Die soziale Angststörung mit starkem Vermeidungsverhalten."
+      ],
+      "answer": 2,
+      "explanation": "Als Ausnahme wird die generalisierte Angststörung zu Beginn vermerkt: Dort gelten die Sorgen den Betroffenen zunächst als sinnvoll und werden ich-synton erlebt; erst mit den Metasorgen – dem Sorgen über das Sorgen – entsteht die Ich-Dystonie. Eine Zwangsstörung mit voller Einsicht ist gerade der Prototyp der Ich-Dystonie und damit keine Ausnahme. Soziale Angststörung, posttraumatische Belastungsstörung und Panikstörung werden in dieser Zeile nicht als Ausnahme geführt."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "question": "Welche Aussage zum Realitätsbezug bei Persönlichkeitsstörungen trifft NICHT zu?",
+      "options": [
+        "Die Borderline-Störung kann psychotisch wirkende Phasen zeigen.",
+        "Bei schweren Formen sind Ausnahmen ausdrücklich vermerkt.",
+        "Im Regelfall ist er erhalten und nicht aufgehoben.",
+        "Solche Phasen gelten eher als pseudopsychotisch.",
+        "Bei sämtlichen Formen ist er uneingeschränkt erhalten."
+      ],
+      "answer": 4,
+      "explanation": "Der Realitätsbezug ist bei Persönlichkeitsstörungen im Regelfall erhalten, aber ausdrücklich mit dem CAVE der schweren Formen versehen – eine uneingeschränkte Geltung für sämtliche Formen ist deshalb die gesuchte falsche Aussage. Der Regelfall des erhaltenen Realitätsbezugs trifft ebenso zu wie der Vermerk der Ausnahmen. Für die Borderline-Störung sind teils psychotische Phasen notiert. Und diese werden ausdrücklich eher als pseudopsychotisch eingeordnet."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "hard": true,
+      "trap": "Schwere Persönlichkeitsstörungen – insbesondere die BPS – können psychotisch wirken; der Realitätsbezug ist dabei aber nicht wirklich verloren.",
+      "question": "Wie sind psychotisch anmutende Phasen bei der Borderline-Störung am ehesten zu bewerten?",
+      "options": [
+        "Eher als pseudopsychotisch denn als echter Verlust.",
+        "Als überwertige Ideen im Sinne einer neurotischen Störung.",
+        "Als ich-dystone Symptomatik ohne jeden Realitätsbezug.",
+        "Als voller Realitätsverlust im Sinne einer Psychose.",
+        "Als sicherer Beleg für eine schizophrene Zweitdiagnose."
+      ],
+      "answer": 0,
+      "explanation": "Für schwere Persönlichkeitsstörungen ist vermerkt, dass die Borderline-Störung teils psychotische Phasen zeigt, diese jedoch eher pseudopsychotisch sind – der Realitätsbezug ist also nicht wirklich verloren. Ein voller Realitätsverlust kennzeichnet die Psychose und wäre hier gerade die Fehlzuordnung. Ein sicherer Beleg für eine schizophrene Zweitdiagnose folgt daraus nicht. Überwertige Ideen sind die bei den Neurosen genannte Ausnahme, nicht die bei der Borderline-Störung. Und die Symptomatik als ich-dyston und realitätsfern zu beschreiben, vermischt zwei getrennte Kriterien."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "hard": true,
+      "question": "Was ist mit der „doppelten Buchführung“ bei der Psychose gemeint?",
+      "options": [
+        "Der Realitätsbezug geht in allen Bereichen vollständig verloren.",
+        "Zwei Diagnosen werden gleichzeitig nebeneinander vergeben.",
+        "Die Betroffenen berichten bewusst zwei verschiedene Versionen.",
+        "Das Erleben wechselt regelhaft zwischen zwei Persönlichkeiten.",
+        "Psychotische und reale Welt bestehen parallel nebeneinander."
+      ],
+      "answer": 4,
+      "explanation": "Die doppelte Buchführung bezeichnet den Kompromiss, dass psychotische und reale Welt koexistieren und parallel nebeneinander bestehen – sie ist als CAVE zum sonst beschriebenen Realitätsverlust vermerkt. Ein vollständiger Verlust in allen Bereichen ist gerade das, was durch diesen Kompromiss relativiert wird. Ein bewusstes Berichten zweier Versionen wäre Täuschung und nicht gemeint. Ein Wechsel zwischen Persönlichkeiten beschreibt ein dissoziatives Phänomen. Und die gleichzeitige Vergabe zweier Diagnosen ist eine Frage der Komorbidität."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "transfer": true,
+      "question": "Ein Patient ist überzeugt, verfolgt zu werden, geht aber weiterhin geregelt zur Arbeit und erledigt seinen Alltag unauffällig. Wie ist das am ehesten zu beschreiben?",
+      "options": [
+        "Als vollständig erhaltener Realitätsbezug ohne jede Psychose.",
+        "Als überwertige Idee im Rahmen einer neurotischen Störung.",
+        "Als pseudopsychotisches Erleben bei einer Persönlichkeitsstörung.",
+        "Als doppelte Buchführung mit koexistierenden Welten.",
+        "Als ich-dystones Erleben mit voller Krankheitseinsicht."
+      ],
+      "answer": 3,
+      "explanation": "Die psychotische Überzeugung und die intakte Alltagsbewältigung bestehen nebeneinander – genau das beschreibt die doppelte Buchführung als Kompromiss zum Realitätsverlust. Pseudopsychotisches Erleben ist der Vermerk zur Borderline-Störung und setzt eine Persönlichkeitsstörung voraus, die hier nicht angelegt ist. Ein vollständig erhaltener Realitätsbezug widerspricht der Verfolgungsüberzeugung. Eine überwertige Idee wäre eine überzogene, aber nicht wahnhafte Überzeugung. Und Ich-Dystonie mit voller Einsicht passt nicht zu einer als real erlebten Verfolgung."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "trap": "Auch bei Neurosen kann der Realitätsbezug eingeschränkt sein – bei überwertigen Ideen wie der Anorexie oder dem Zwang mit wenig Einsicht.",
+      "question": "Welche Ausnahme vom erhaltenen Realitätsbezug wird bei den Neurosen genannt?",
+      "options": [
+        "Wahnhafte Überzeugungen im Rahmen einer Panikstörung.",
+        "Dissoziative Zustände bei der generalisierten Angst.",
+        "Depressive Wahnbildung bei einer somatoformen Störung.",
+        "Überwertige Ideen, etwa bei Anorexie oder Zwang.",
+        "Akustische Halluzinationen bei der sozialen Phobie."
+      ],
+      "answer": 3,
+      "explanation": "Als Ausnahme sind überwertige Ideen vermerkt, mit Anorexia nervosa und dem Zwang mit wenig Einsicht als Beispielen – dort ist der Realitätsbezug eingeschränkt, ohne dass eine Psychose vorläge. Wahnhafte Überzeugungen bei einer Panikstörung, Halluzinationen bei der sozialen Phobie, dissoziative Zustände bei der generalisierten Angst und eine depressive Wahnbildung bei somatoformer Störung werden in dieser Zeile nicht als Ausnahme geführt."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "hard": true,
+      "question": "Welche Aussage zum Realitätsbezug im Vergleich der drei Gruppen trifft NICHT zu?",
+      "options": [
+        "In beiden Gruppen sind Ausnahmen ausdrücklich vermerkt.",
+        "Ein eingeschränkter Realitätsbezug beweist stets eine Psychose.",
+        "Bei der Persönlichkeitsstörung ist er im Regelfall erhalten.",
+        "Bei der Psychose ist der Verlust des Realitätsbezugs kennzeichnend.",
+        "Bei der Neurose ist er im Regelfall ebenfalls erhalten."
+      ],
+      "answer": 1,
+      "explanation": "Ein eingeschränkter Realitätsbezug beweist gerade keine Psychose – sowohl bei schweren Persönlichkeitsstörungen (pseudopsychotische Phasen) als auch bei Neurosen (überwertige Ideen) sind Einschränkungen ausdrücklich vermerkt. Für die Psychose ist der Verlust des Realitätsbezugs das Kennzeichen. Bei Persönlichkeitsstörung und Neurose ist er im Regelfall erhalten. Und für beide Gruppen sind die genannten Ausnahmen notiert."
+    },
+    {
+      "topic": "Realitätsbezug",
+      "transfer": true,
+      "question": "Eine Patientin mit Anorexia nervosa hält ihr deutliches Untergewicht für zu hoch und ist davon kaum abzubringen. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als doppelte Buchführung mit parallelen Welten.",
+        "Als Wahn im Sinne einer psychotischen Erkrankung.",
+        "Als überwertige Idee bei erhaltener Grundorientierung.",
+        "Als ich-syntone Symptomatik einer Persönlichkeitsstörung.",
+        "Als pseudopsychotisches Erleben bei schwerer Persönlichkeitsstörung."
+      ],
+      "answer": 2,
+      "explanation": "Die Anorexia nervosa ist ausdrücklich als Beispiel für überwertige Ideen genannt: Der Realitätsbezug ist eingeschränkt, im Übrigen aber erhalten. Ein Wahn im psychotischen Sinne würde einen Verlust des Realitätsbezugs voraussetzen, den die Tabelle hier gerade nicht annimmt. Pseudopsychotisches Erleben ist der Vermerk zur Borderline-Störung. Die doppelte Buchführung ist ein Phänomen der Psychose. Und die Ich-Syntonie betrifft ein anderes Kriterium als den Realitätsbezug."
+    },
+    {
+      "topic": "Symptombreite",
+      "question": "Wie ist die Symptombreite bei der Neurose beschrieben?",
+      "options": [
+        "Als auf körperliche Symptome beschränkter Bereich.",
+        "Als diskreter Ausschnitt des Erlebens und Verhaltens.",
+        "Als vollständige Beeinflussung von Erleben und Verhalten.",
+        "Als Beeinflussung inklusive somatischer Auswirkungen.",
+        "Als schwankende Breite je nach Krankheitsphase."
+      ],
+      "answer": 1,
+      "explanation": "Bei der Neurose ist nur ein diskreter Ausschnitt betroffen; die davon abgesehenen Funktionsbereiche bleiben unbeeinflusst. Eine vollständige Beeinflussung von Erleben und Verhalten kennzeichnet demgegenüber Persönlichkeitsstörung und Psychose. Die zusätzlichen somatischen Auswirkungen sind ausdrücklich der Psychose zugeordnet. Eine Beschränkung auf körperliche Symptome ist nicht angegeben. Und eine phasenabhängig schwankende Breite steht in dieser Zeile nicht."
+    },
+    {
+      "topic": "Symptombreite",
+      "question": "Welche Aussage zur Symptombreite trifft NICHT zu?",
+      "options": [
+        "Bei der Neurose sind alle Funktionsbereiche gleichermaßen betroffen.",
+        "Bei der Psychose kommen somatische Auswirkungen hinzu.",
+        "Bei der Psychose sind Erleben und Verhalten in Gänze betroffen.",
+        "Bei der Neurose bleiben andere Funktionsbereiche unbeeinflusst.",
+        "Bei der Persönlichkeitsstörung sind Erleben und Verhalten in Gänze betroffen."
+      ],
+      "answer": 0,
+      "explanation": "Gerade bei der Neurose ist nur ein diskreter Ausschnitt betroffen, während die übrigen Funktionsbereiche unbeeinflusst bleiben – eine gleichmäßige Betroffenheit aller Bereiche ist deshalb die gesuchte falsche Aussage. Für Persönlichkeitsstörung und Psychose ist die vollständige Beeinflussung von Erleben und Verhalten angegeben. Bei der Psychose kommen somatische Auswirkungen hinzu. Und das Unbeeinflusstbleiben der übrigen Bereiche ist der Kern der Neurosebeschreibung."
+    },
+    {
+      "topic": "Symptombreite",
+      "hard": true,
+      "question": "Welche Aussage zur Symptombreite von Persönlichkeitsstörung und Psychose trifft NICHT zu?",
+      "options": [
+        "Bei beiden sind Erleben und Verhalten in Gänze beeinflusst.",
+        "Somatische Auswirkungen gehören zur Persönlichkeitsstörung.",
+        "Beide unterscheiden sich hierin deutlich von der Neurose.",
+        "Bei der Psychose kommen somatische Auswirkungen hinzu.",
+        "Bewegungsstörungen werden als somatisches Beispiel genannt."
+      ],
+      "answer": 1,
+      "explanation": "Die somatischen Auswirkungen sind ausdrücklich nur bei der Psychose vermerkt und nicht bei der Persönlichkeitsstörung – das ist der einzige Unterschied zwischen beiden in dieser Zeile und damit die gesuchte falsche Zuordnung. Dass bei beiden Erleben und Verhalten in Gänze beeinflusst sind, trifft zu. Bewegungsstörungen werden als Beispiel der somatischen Auswirkungen genannt. Und beide unterscheiden sich damit gemeinsam von der Neurose, bei der nur ein Ausschnitt betroffen ist."
+    },
+    {
+      "topic": "Symptombreite",
+      "transfer": true,
+      "question": "Ein Patient ist außerhalb seiner umschriebenen Prüfungsängste in Beruf, Partnerschaft und Freizeit völlig unbeeinträchtigt. Was spricht die Symptombreite am ehesten an?",
+      "options": [
+        "Eine Psychose in einer symptomarmen Zwischenphase.",
+        "Eine Psychose mit somatischen Begleitauswirkungen.",
+        "Eine schwere Persönlichkeitsstörung mit Realitätsverlust.",
+        "Eine Persönlichkeitsstörung mit umfassender Beeinflussung.",
+        "Eine Neurose mit umschriebenem Symptomausschnitt."
+      ],
+      "answer": 4,
+      "explanation": "Ein umschriebener Symptombereich bei ansonsten unbeeinflussten Funktionsbereichen ist genau die Beschreibung der neurotischen Symptombreite. Bei der Persönlichkeitsstörung wären Erleben und Verhalten in Gänze beeinflusst, was der geschilderten Unauffälligkeit widerspricht. Ein Realitätsverlust ist nicht angelegt. Somatische Begleitauswirkungen sind der Psychose zugeordnet und hier nicht berichtet. Und eine symptomarme Zwischenphase erklärt nicht, warum der Prüfungsbereich isoliert betroffen bleibt."
+    },
+    {
+      "topic": "Verursachung",
+      "question": "Wie ist die Verursachung der Persönlichkeitsstörung beschrieben?",
+      "options": [
+        "Deutliche endogene Komponente mit exogenen Stressoren als Auslöser.",
+        "Praktisch ausschließlich exogene Verursachung.",
+        "Geringere endogene Vulnerabilität bei stärkerer exogener Auslösung.",
+        "Endogene Vulnerabilität zusammen mit exogenen Faktoren.",
+        "Praktisch ausschließlich endogene Verursachung."
+      ],
+      "answer": 3,
+      "explanation": "Für die Persönlichkeitsstörung sind endogene Vulnerabilität und exogene Faktoren nebeneinander angegeben, mit den biosozialen Modellen als Beispiel. Die deutliche endogene Komponente mit exogenen Stressoren als Auslöser beschreibt die Psychose. Die geringere endogene Vulnerabilität bei stärkerer exogener Auslösung beschreibt die Neurose. Und eine ausschließlich endogene oder ausschließlich exogene Verursachung wird für keine der drei Gruppen angenommen."
+    },
+    {
+      "topic": "Verursachung",
+      "hard": true,
+      "question": "Welche Beschreibung der Verursachung passt am ehesten zur Neurose?",
+      "options": [
+        "Geringere endogene Vulnerabilität, stärkere exogene Auslösung.",
+        "Ausschließlich exogene Verursachung ohne innere Beteiligung.",
+        "Ausschließlich endogene Verursachung ohne äußere Beteiligung.",
+        "Deutliche endogene Komponente, exogene Stressoren als Auslöser.",
+        "Endogene Vulnerabilität und exogene Faktoren zu gleichen Teilen."
+      ],
+      "answer": 0,
+      "explanation": "Für die Neurose ist die geringere endogene Vulnerabilität bei stärkerer exogener Auslösung angegeben – der exogene Anteil wiegt hier am schwersten. Die deutliche endogene Komponente mit exogenen Auslösern beschreibt die Psychose, das gleichgewichtige Nebeneinander die Persönlichkeitsstörung. Und rein endogene oder rein exogene Verursachungen kommen in der Tabelle nicht vor: Alle drei Gruppen sind gemischt verursacht und unterscheiden sich nur im Gewicht."
+    },
+    {
+      "topic": "Verursachung",
+      "question": "Welches Erklärungsmodell wird für die Verursachung von Persönlichkeitsstörungen genannt?",
+      "options": [
+        "Ein rein lerntheoretisches Modell der Verstärkung.",
+        "Ein psychodynamisches Modell der Charakterneurose.",
+        "Ein epigenetisches Modell, wie es für Psychosen angeführt wird.",
+        "Ein biosoziales Modell, wie es Linehan vorgelegt hat.",
+        "Ein rein neurobiologisches Modell der Hirnentwicklung."
+      ],
+      "answer": 3,
+      "explanation": "Als Beispiel für die Verursachung der Persönlichkeitsstörung wird ausdrücklich ein biosoziales Modell nach Linehan genannt, das endogene Vulnerabilität und exogene Faktoren verbindet. Ein rein neurobiologisches oder rein lerntheoretisches Modell widerspräche gerade dem Zusammenwirken beider Anteile. Epigenetische Prozesse sind in der Tabelle der Psychose zugeordnet. Und die Charakterneurose ist ein historischer Begriff aus der Entwicklung des Störungsbegriffs, kein Verursachungsmodell dieser Zeile."
+    },
+    {
+      "topic": "Epidemiologie",
+      "hard": true,
+      "question": "Für welche der drei Gruppen wird die Lebenszeitprävalenz über die Störungsbilder hinweg am einheitlichsten angegeben?",
+      "options": [
+        "Für keine der drei Gruppen liegen Angaben vor.",
+        "Für die Neurosen mit über alle Bilder gleichem Wert.",
+        "Für die Psychose mit einer eng begrenzten Spanne.",
+        "Für alle drei Gruppen gleichermaßen einheitlich.",
+        "Für die Persönlichkeitsstörungen mit einheitlichem Wert."
+      ],
+      "answer": 2,
+      "explanation": "Für die Psychose ist eine eng begrenzte Prävalenzspanne angegeben, während die beiden anderen Gruppen breit streuen. Bei den Persönlichkeitsstörungen bestehen ausdrücklich deutliche Unterschiede je nach Störungsbild. Bei den Neurosen ebenfalls, mit einer erheblichen Spanne zwischen den einzelnen Bildern. Eine durchgängige Einheitlichkeit über alle drei Gruppen besteht damit nicht. Und Angaben liegen für alle drei Gruppen vor."
+    },
+    {
+      "topic": "Geschlechterdifferenzen",
+      "trap": "Nur bei der Borderline-Störung ist das Verhältnis ausgeglichen – antisozial eher männlich, dependent eher weiblich.",
+      "question": "Welche Aussage zu Geschlechterdifferenzen bei Persönlichkeitsstörungen trifft am ehesten zu?",
+      "options": [
+        "Bei der Borderline-Störung überwiegen die Männer deutlich.",
+        "Bei der Borderline-Störung ist das Verhältnis ausgeglichen.",
+        "Über alle Persönlichkeitsstörungen hinweg besteht Ausgeglichenheit.",
+        "Die dependente Störung betrifft überwiegend Männer.",
+        "Die antisoziale Störung betrifft überwiegend Frauen."
+      ],
+      "answer": 1,
+      "explanation": "Bei den Persönlichkeitsstörungen bestehen Unterschiede, wobei die Borderline-Störung ausdrücklich als geschlechtsausgeglichen vermerkt ist. Eine Ausgeglichenheit über alle Persönlichkeitsstörungen hinweg trifft deshalb nicht zu – ausgeglichen ist das Verhältnis nur bei der Psychose. Die antisoziale Störung ist eher männlich, die dependente eher weiblich; beide Aussagen sind hier vertauscht. Und ein deutliches Männerübergewicht bei der Borderline-Störung widerspricht der Ausgeglichenheit."
+    },
+    {
+      "topic": "Geschlechterdifferenzen",
+      "question": "Welche Aussage zu Geschlechterdifferenzen im Vergleich der drei Gruppen trifft NICHT zu?",
+      "options": [
+        "Bei den Neurosen bestehen deutliche Unterschiede je nach Störung.",
+        "Bei der Psychose ist das Geschlechterverhältnis ausgeglichen.",
+        "Bei der Psychose bestehen ausgeprägte Geschlechterunterschiede.",
+        "Internalisierende Störungen finden sich eher bei Frauen.",
+        "Externalisierende Störungen finden sich eher bei Männern."
+      ],
+      "answer": 2,
+      "explanation": "Für die Psychose ist das Geschlechterverhältnis ausdrücklich als ausgeglichen angegeben – ausgeprägte Unterschiede sind damit die gesuchte falsche Aussage, und die gegenteilige Angabe trifft zu. Bei den Neurosen bestehen dagegen deutliche Unterschiede je nach Störungsbild. Dabei finden sich externalisierende Störungen eher bei Männern und internalisierende eher bei Frauen."
+    }
+  ]
+}
