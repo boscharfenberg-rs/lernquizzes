@@ -503,13 +503,6 @@
       "description": "PTBS im Altklausur-Stil, Teil 2: Vertiefung der kPTBS-Zusatzkriterien, prä-/peri-/posttraumatische Risikofaktoren, Epidemiologie und Verlauf sowie Komorbidität und Differenzialdiagnostik bei PTBS und komplexer PTBS."
     },
     {
-      "id": "kl-dissoziation-grundlagen-aetiologie",
-      "file": "kl-dissoziation-grundlagen-aetiologie.json",
-      "title": "Dissoziation: Grundlagen, Störungsbilder & Ätiologie",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Exkurs Dissoziation im Altklausur-Stil: Definition und Begriffsbestimmung, nicht pathologische Alltagsphänomene, die dissoziativen Störungsbilder, Erkrankungsbeginn und Verlauf, Vulnerabilitäts-Stress-Ätiologie, Neurobiologie prodissoziativer Substanzen sowie der Traumabezug der Dissoziation."
-    },
-    {
       "id": "kl-ptbs-dissoziation-therapie",
       "file": "kl-ptbs-dissoziation-therapie.json",
       "title": "Therapie der (k)PTBS & Dissoziation",
