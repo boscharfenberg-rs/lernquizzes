@@ -1,0 +1,420 @@
+{
+  "id": "kl-ptbs-trauma-symptomatik",
+  "title": "PTBS: Traumabegriff, Symptomatik & komplexe PTBS",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "PTBS im Altklausur-Stil: Traumadefinition (WHO/ICD-10 vs. ICD-11), primäre/sekundäre/tertiäre Traumatisierung, Traumatypologie (Typ 1/2, akzidentell/interpersonell), Trauma-Folge-Beziehung, PTBS-Symptomatik nach DSM-5 und die drei ICD-11-Symptomgruppen, Zeit- und Funktionskriterium, traumatisches Gedächtnis sowie die komplexe PTBS.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Traumabegriff & Ereigniskriterium",
+      "question": "Was trifft auf die Trauma-Definition der WHO nach ICD-10 am ehesten NICHT zu?",
+      "options": [
+        "Ihre Unschärfe zeigt sich an der offenen Frage, wer mit „nahezu jeder“ gemeint ist.",
+        "Sie benennt trennscharf, ab welchem Schweregrad ein Ereignis als traumatisch gilt.",
+        "Sie stellt das Ereignis selbst und nicht die individuelle Reaktion in den Vordergrund.",
+        "Sie stellt darauf ab, dass das Ereignis bei nahezu jedem Menschen Entsetzen auslöst.",
+        "Sie beschreibt ein Ereignis, das mit einer Bedrohung des Lebens assoziiert ist."
+      ],
+      "answer": 1,
+      "explanation": "Gerade die Trennschärfe fehlt: Die Vorlesung benennt die geringe Schärfe der Definition ausdrücklich als deren Kernproblem – deshalb ist diese Aussage die gesuchte unzutreffende. Die Bedrohung des Lebens und das bei nahezu jedem ausgelöste Entsetzen sind die beiden Definitionsbestandteile selbst. Die offene Frage, wer „nahezu jeder“ ist, ist genau die Illustration dieser Unschärfe. Und dass das Ereignis und nicht die Reaktion im Vordergrund steht, ist der Punkt, den das ICD-11 später umkehrt."
+    },
+    {
+      "topic": "Traumabegriff & Ereigniskriterium",
+      "question": "Welche Aussage zum Traumakriterium im ICD-11 trifft NICHT zu?",
+      "options": [
+        "Es fordert weiterhin ausdrücklich eine Bedrohung des Lebens oder der Unversehrtheit.",
+        "Es spricht von einem extrem bedrohlichen oder schrecklichen Ereignis bzw. einer Folge davon.",
+        "Der Schwerpunkt verschiebt sich vom Ereignis auf die Reaktion der betroffenen Person.",
+        "Das Ereigniskriterium ist gegenüber der Vorgängerfassung insgesamt reduziert definiert.",
+        "Das bei nahezu allen Menschen ausgelöste Entsetzen wird nicht mehr als Bedingung verlangt."
+      ],
+      "answer": 0,
+      "explanation": "Genau der drohende Tod bzw. die körperliche Unversehrtheit wird im ICD-11 nicht mehr gefordert – die Aussage ist also die gesuchte falsche. Die Formulierung vom extrem bedrohlichen oder schrecklichen Ereignis bzw. einer Ereignisfolge ist die neue Wortlautfassung. Der Wegfall des bei nahezu allen ausgelösten Entsetzens und die insgesamt reduzierte Definition sind die beiden Änderungen selbst. Die Verschiebung vom Ereignis auf die Reaktion ist die dahinterstehende Logik."
+    },
+    {
+      "topic": "Traumabegriff & Ereigniskriterium",
+      "hard": true,
+      "question": "Womit wird am ehesten begründet, dass das Ereigniskriterium im ICD-11 schwächer definiert werden konnte?",
+      "options": [
+        "Betroffene können den Hergang des Ereignisses meist nicht mehr zuverlässig genug berichten.",
+        "Das Symptommuster allein reicht aus, um eine PTBS valide und reliabel zu diagnostizieren.",
+        "Der Nachweis eines Ereignisses ist im klinischen Alltag kaum jemals sicher zu führen.",
+        "Ein enges Ereigniskriterium hatte in der Praxis zu einer deutlichen Überdiagnostik geführt.",
+        "Traumatische Ereignisse sind inzwischen so häufig, dass eine enge Definition nicht mehr trennt."
+      ],
+      "answer": 1,
+      "explanation": "Der Forschungsbefund, dass bereits das Symptommuster für eine valide und reliable Diagnose ausreicht, ist die in der Vorlesung genannte Begründung. Die Häufigkeit traumatischer Ereignisse wird als Argument nicht angeführt. Eine mangelnde Berichtsfähigkeit der Betroffenen ist nicht der Grund – es geht um die diagnostische Logik, nicht um die Anamnesequalität. Eine Überdiagnostik durch ein enges Kriterium wäre ein Widerspruch in sich, denn ein enges Kriterium schränkt ein. Und die Nachweisbarkeit im klinischen Alltag spielt für die Kriterienrevision keine Rolle."
+    },
+    {
+      "topic": "Traumabegriff & Ereigniskriterium",
+      "hard": true,
+      "question": "Nach der im ICD-11 zugrunde gelegten Logik gilt ein Ereignis am ehesten dann als Trauma, wenn …",
+      "options": [
+        "… es von einer unabhängigen gutachterlichen Stelle als objektiv lebensbedrohlich eingestuft wird.",
+        "… sich die charakteristische Symptomatik mit dem Leitsymptom Flashbacks entwickelt hat.",
+        "… die betroffene Person es rückblickend als das schlimmste Erlebnis ihres Lebens bezeichnet.",
+        "… es in der gängigen Systematik traumatischer Situationen ausdrücklich aufgeführt ist.",
+        "… mindestens eine weitere Person in derselben Situation ebenfalls erkrankt ist."
+      ],
+      "answer": 1,
+      "explanation": "Weil sich diese Symptomatik ohne Trauma nicht entwickelt, gilt der Rückschluss vom Symptom auf das Trauma als zulässig – entwickeln sich PTBS-Symptome mit Flashbacks als Leitsymptom, kann das Ereignis als Trauma definiert werden. Eine gutachterliche Einstufung der objektiven Lebensbedrohlichkeit ist gerade das, wovon sich das ICD-11 löst. Die subjektive Bewertung als schlimmstes Erlebnis ist kein Kriterium, da sonst jede schwere Kränkung ein Trauma wäre. Die Aufführung in einer Situationssystematik ist nur eine Veranschaulichung, kein Definitionskriterium. Und die Erkrankung weiterer Personen ist irrelevant, weil die individuelle Reaktion entscheidet."
+    },
+    {
+      "topic": "Traumabegriff & Ereigniskriterium",
+      "question": "Ein Patient beschreibt eine Geiselnahme rückblickend so: „Ich wusste nie, wann etwas passiert, und ich konnte gar nichts tun.“ Welche psychologischen Merkmale traumatischer Erfahrungen spricht er am ehesten an?",
+      "options": [
+        "Den Verlust des Sicherheitsgefühls und eine bereits vorbestehende psychische Erkrankung.",
+        "Eine dissoziative Reaktion und einen Verlust der Realitätsprüfung während des Ereignisses.",
+        "Den Verlust an Vorhersehbarkeit und eine Beeinträchtigung des Kurzzeitgedächtnisses.",
+        "Den Verlust an Vorhersehbarkeit und den Verlust an Kontrolle über die Situation.",
+        "Den Verlust an Autonomie und eine überdauernde Veränderung der Persönlichkeitsstruktur."
+      ],
+      "answer": 3,
+      "explanation": "„Ich wusste nie, wann es passiert“ steht für den Verlust von Vorhersehbarkeit und Transparenz, „ich konnte gar nichts tun“ für Kontroll- und Autonomieverlust – beides gehört zu den drei psychologischen Kernmerkmalen neben dem Gefühl von Sicherheit. Das Kurzzeitgedächtnis gehört nicht zu diesen Merkmalen. Eine überdauernde Persönlichkeitsveränderung ist eine mögliche Folge, kein Merkmal der Erfahrung selbst. Eine vorbestehende Erkrankung ist ein Risikofaktor, kein Erlebnismerkmal. Und weder Dissoziation noch ein Verlust der Realitätsprüfung sind in der Schilderung enthalten."
+    },
+    {
+      "topic": "Traumatypologie",
+      "transfer": true,
+      "trap": "Sekundär meint das Miterleben als Beobachter vor Ort; tertiär meint erst das nachträgliche Hören von dem Ereignis.",
+      "question": "Eine Notfallsanitäterin ist bei einem schweren Zugunglück vor Ort und sieht die Verletzten, ohne selbst gefährdet zu sein. Welche Form der Traumatisierung liegt am ehesten vor?",
+      "options": [
+        "Eine tertiäre Traumatisierung, weil ihre Belastung aus der beruflichen Rolle entsteht.",
+        "Eine sekundäre Traumatisierung, weil sie das Geschehen als Beobachterin miterlebt.",
+        "Eine tertiäre Traumatisierung, weil sie das Erlebte anschließend im Team bespricht.",
+        "Gar keine Traumatisierung, weil ausschließlich direkt Betroffene traumatisiert werden.",
+        "Eine primäre Traumatisierung, weil sie sich zum Zeitpunkt des Unglücks am Ort befand."
+      ],
+      "answer": 1,
+      "explanation": "Die Sanitäterin ist Beobachterin eines Traumas und damit Prototyp der sekundären Traumatisierung – die Helferin vor Ort ist genau das in der Vorlesung genannte Beispiel. Primär wäre sie nur als unmittelbar Betroffene, also selbst gefährdet oder verletzt; bloße Anwesenheit genügt dafür nicht. Tertiär meint das nachträgliche Hören von dem Ereignis, etwa bei Angehörigen oder Therapeuten – weder die berufliche Rolle noch eine spätere Teambesprechung machen das Miterleben vor Ort dazu. Und die Aussage, nur direkt Betroffene könnten traumatisiert werden, widerspricht der Subtypisierung insgesamt."
+    },
+    {
+      "topic": "Traumatypologie",
+      "transfer": true,
+      "question": "Eine Patientin erlebt an ihrem Arbeitsplatz einen einmaligen Unfall, bei dem eine schwere Kiste auf sie stürzt und sie beinahe stirbt. Wie ist dieses Trauma am ehesten einzuordnen?",
+      "options": [
+        "Als Typ-2-Trauma und zugleich als akzidentelles Trauma.",
+        "Als Typ-1-Trauma und zugleich als interpersonelles Trauma.",
+        "Als Typ-2-Trauma und zugleich als interpersonelles Trauma.",
+        "Eine Einordnung ist ohne Kenntnis der Symptomatik nicht möglich.",
+        "Als Typ-1-Trauma und zugleich als akzidentelles Trauma."
+      ],
+      "answer": 4,
+      "explanation": "Der Unfall ist einmalig und kurzdauernd, also Typ 1, und er ist nicht von Menschen absichtlich zugefügt, also akzidentell – berufsbedingte Unfälle sind das Standardbeispiel dieses Feldes. Interpersonell wäre das Ereignis nur bei menschengemachter Schädigung wie Gewalt oder Übergriff. Typ 2 setzt eine lang andauernde oder wiederholte Traumatisierung voraus, die hier gerade nicht vorliegt. Und die Einordnung nach Dauer und Verursachung ist unabhängig davon möglich, ob und welche Symptomatik sich entwickelt."
+    },
+    {
+      "topic": "Traumatypologie",
+      "trap": "Typ 1 vs. Typ 2 unterscheidet kurz/einmalig gegen lang/wiederholt; akzidentell vs. interpersonell unterscheidet, ob Menschen das Trauma zufügen.",
+      "question": "Welches Beispiel ist am ehesten ein Typ-2-Trauma mit interpersonellem Charakter?",
+      "options": [
+        "Ein schwerer Verkehrsunfall mit mehreren eingeklemmten Verletzten.",
+        "Ein einmaliger Banküberfall mit Gewaltanwendung gegen Kunden.",
+        "Über Jahre fortgesetzter sexueller Missbrauch in der Kindheit.",
+        "Ein Giftgasunglück in einem Chemiewerk mit anhaltender Gefährdung.",
+        "Ein lang andauerndes Erdbeben mit wiederholten schweren Nachbeben."
+      ],
+      "answer": 2,
+      "explanation": "Längerer sexueller Missbrauch verbindet beide Merkmale: lang andauernd bzw. wiederholt (Typ 2) und von Menschen zugefügt (interpersonell) – neben Kriegserleben, Geiselhaft und Folter das Standardbeispiel dieses Feldes. Der Banküberfall ist zwar interpersonell, aber einmalig und damit Typ 1. Erdbeben mit Nachbeben und das Giftgasunglück sind zwar lang andauernd, aber Naturkatastrophe bzw. technische Katastrophe und damit akzidentell. Der Verkehrsunfall ist sowohl einmalig als auch akzidentell."
+    },
+    {
+      "topic": "Trauma und Störungsfolge",
+      "question": "Was ist hinsichtlich der Beziehung zwischen Trauma und PTBS am ehesten richtig?",
+      "options": [
+        "Nach schwerer Traumatisierung entsteht in den meisten Fällen eine Persönlichkeitsstörung.",
+        "Die individuelle Vulnerabilität spielt für die Ereignisfolge so gut wie keine Rolle.",
+        "Auch nach schwerster Traumatisierung entwickelt die Mehrzahl der Betroffenen keine PTBS.",
+        "Ein eindeutiger kausaler Zusammenhang zwischen Ereignis und Folge gilt als gut belegt.",
+        "Die Folgen einer Traumatisierung beschränken sich in aller Regel auf das Bild der PTBS."
+      ],
+      "answer": 2,
+      "explanation": "Zwischen Ereignis und Ereignisfolge besteht gerade keine einfache Eins-zu-eins-Beziehung: Auch nach schwersten Traumatisierungen bleibt die Mehrzahl ohne PTBS. Genau deshalb ist die eindeutige Kausalität das in der Vorlesung markierte Problem und keineswegs gut belegt. Eine Persönlichkeitsstörung ist eine mögliche, aber nicht die typische Folge. Die Folgen von Traumatisierungen können vielmehr komplex und vielgestaltig sein und gehen über das PTBS-Bild hinaus. Und die individuelle Vulnerabilität ist genau der Grund dafür, dass dieselbe Situation zu unterschiedlichen Folgen führt."
+    },
+    {
+      "topic": "Trauma und Störungsfolge",
+      "question": "Welche Aussage zur Rolle von Traumatisierungen bei psychischen Störungen trifft NICHT zu?",
+      "options": [
+        "Traumata in der Vorgeschichte sind bei sehr unterschiedlichen Störungsbildern gehäuft zu finden.",
+        "Auch bei Suchterkrankungen und bei Psychosen finden sich erhöhte Raten von Traumatisierungen.",
+        "Besonders eng ist die Assoziation mit dissoziativen Störungen und der Borderline-Störung.",
+        "Traumatisierungen in der Vorgeschichte finden sich praktisch nur bei Belastungsstörungen.",
+        "Trauma ist am ehesten als ein mehr oder weniger unspezifischer Faktor in der Genese aufzufassen."
+      ],
+      "answer": 3,
+      "explanation": "Die Beschränkung auf Belastungsstörungen ist die gesuchte falsche Aussage: Traumata finden sich gerade nicht nur bei den Belastungs- und neurotischen Störungen. Sie sind bei sehr verschiedenen Störungsbildern gehäuft, ausdrücklich auch bei Suchterkrankungen und bei neurobiologisch stark fundierten Störungen wie der Schizophrenie. Deshalb ist Trauma am ehesten als unspezifischer bzw. allenfalls teilspezifischer Genesefaktor einzuordnen. Und die besonders enge Assoziation mit dissoziativen Störungen und der Borderline-Störung wird in der Vorlesung eigens hervorgehoben."
+    },
+    {
+      "topic": "Trauma und Störungsfolge",
+      "trap": "Die breite Lesart – jede Störung mit Trauma in der Vorgeschichte – hilft klinisch nicht weiter; die eigentliche Hauptdiagnose darf darüber nicht übersehen werden.",
+      "question": "Wodurch ist der eng gefasste Begriff der Traumafolgestörung am ehesten gekennzeichnet?",
+      "options": [
+        "Er meint Störungen, bei denen eine genetische Veranlagung sicher ausgeschlossen werden konnte.",
+        "Er meint jede psychische Störung, in deren Vorgeschichte sich ein Trauma nachweisen lässt.",
+        "Er meint Störungen, die ohne das jeweilige Trauma sicher nicht aufgetreten wären.",
+        "Er meint Störungen, die unmittelbar im Anschluss an das Ereignis erstmals aufgetreten sind.",
+        "Er meint Störungen, bei denen das Trauma vor Gericht als alleinige Ursache anerkannt wurde."
+      ],
+      "answer": 2,
+      "explanation": "Die enge Definition zielt genau darauf: Störungen, bei denen eine Veranlagung zwar mitspielt, die aber ohne das Trauma sicher nicht aufgetreten wären. Die breite Lesart, jede Störung mit Trauma in der Vorgeschichte, wird ausdrücklich verworfen, weil sie klinisch nicht weiterhilft. Ein Ausschluss genetischer Veranlagung ist nicht gefordert – die Veranlagung darf ausdrücklich eine Rolle spielen. Der unmittelbare zeitliche Anschluss ist kein Definitionsmerkmal, da auch verzögerte Ausprägungen vorkommen. Und eine juristische Anerkennung ist für die klinische Begriffsbildung ohne Bedeutung."
+    },
+    {
+      "topic": "PTBS-Symptomatik (DSM-5)",
+      "question": "Welche zwei Subtypen der PTBS lassen sich nach DSM-5 unterscheiden?",
+      "options": [
+        "Der dissoziative und der intrusive Subtyp.",
+        "Alle genannten Subtypen sind im DSM-5 vorgesehen.",
+        "Der akzidentelle und der interpersonelle Subtyp.",
+        "Der akute und der chronisch verlaufende Subtyp.",
+        "Der syndromale und der subsyndromale Subtyp."
+      ],
+      "answer": 0,
+      "explanation": "Das DSM-5 unterscheidet den dissoziativen vom intrusiven Subtyp der PTBS. Akut und chronisch beschreiben den Verlauf, nicht die im DSM-5 vorgesehene Subtypisierung. Akzidentell und interpersonell sind Merkmale der Traumasituation, nicht der Störung. Syndromal und subsyndromal beziehen sich auf den Ausprägungsgrad der Kriterien bei der komplexen PTBS. Und die Sammelaussage, alle genannten Subtypen seien vorgesehen, ist damit ebenfalls falsch."
+    },
+    {
+      "topic": "PTBS-Symptomatik (DSM-5)",
+      "trap": "Zerfahrenheit gehört zu den formalen Denkstörungen und ist kein PTBS-Kriterium – leicht zu verwechseln mit den fragmentierten traumatischen Erinnerungen.",
+      "question": "Welche Symptomgruppe zählt nach DSM-5 am ehesten NICHT zu den Diagnosekriterien der PTBS?",
+      "options": [
+        "Dysfunktionale Kognitionen und Emotionen als neueres Kriterium.",
+        "Vermeidungsverhalten und emotionale Betäubung (numbing).",
+        "Übererregung im Sinne eines anhaltenden Hyperarousals.",
+        "Formale Denkstörungen mit Zerfahrenheit und Gedankenabreißen.",
+        "Intrusionen und Flashbacks mit Wiedererleben des Ereignisses."
+      ],
+      "answer": 3,
+      "explanation": "Formale Denkstörungen gehören zur Psychopathologie des Denkablaufs und sind kein PTBS-Kriterium – das ist die gesuchte Gruppe. Intrusionen und Flashbacks, Vermeidung und Betäubung sowie das Hyperarousal sind die drei klassischen Kriteriengruppen. Die dysfunktionalen Kognitionen und Emotionen sind die im DSM-5 hinzugekommene vierte Gruppe. Die Verwechslungsgefahr liegt darin, dass fragmentierte traumatische Erinnerungen inhaltlich zerrissen wirken – das betrifft aber die Erinnerungsqualität und nicht den formalen Denkablauf."
+    },
+    {
+      "topic": "PTBS-Symptomatik (DSM-5)",
+      "transfer": true,
+      "question": "Ein siebenjähriger Junge hat einen Wohnungsbrand erlebt. Er hat nachts Angstträume ohne erkennbaren Bezug zum Brand und spielt tagsüber wiederholt eine Feuerwehr-Rettung nach. Wie ist das am ehesten zu bewerten?",
+      "options": [
+        "Als Intrusionen entsprechend dem Subtyp der PTBS bei Kindern.",
+        "Als altersgerechte Verarbeitung ohne diagnostische Bedeutung.",
+        "Als dissoziativer Subtyp, weil das Kind das Erlebte im Spiel abspaltet.",
+        "Als Anpassungsstörung, weil der Traum keinen Traumabezug erkennen lässt.",
+        "Als Vermeidungsverhalten, weil das Kind das Ereignis im Spiel umdeutet."
+      ],
+      "answer": 0,
+      "explanation": "Beim Subtyp der PTBS bei Kindern kann anstelle szenischer Alpträume mit Traumainhalt jeder Angsttraum als Intrusion gewertet werden; die Reinszenierung des Traumas im Spiel gilt ebenfalls als Intrusionsäquivalent. Als bloß altersgerechte Verarbeitung ohne diagnostische Bedeutung sind beide Phänomene daher gerade nicht zu verbuchen. Der dissoziative Subtyp ist über dissoziative Symptome definiert und wird nicht am Spielverhalten festgemacht. Vermeidung wäre das Gegenteil, nämlich das Fernhalten vom Thema statt seiner wiederholten Darstellung. Und der fehlende inhaltliche Traumabezug des Traums spricht bei Kindern gerade nicht gegen eine Intrusion."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "question": "Was gilt im ICD-11 als Kernkriterium der Symptomgruppe „Wiedererleben in lebendiger Form“?",
+      "options": [
+        "Eine ausgeprägte Schreckhaftigkeit gegenüber lauten Geräuschen.",
+        "Anhaltendes Grübeln über die Ungerechtigkeit des Erlebten.",
+        "Eine anhaltende Unfähigkeit, positive Gefühle zu empfinden.",
+        "Ein trauriges, unwillkürliches Sich-Erinnern an das Ereignis.",
+        "Flashbacks und Alpträume mit lebendigem Wiedererleben."
+      ],
+      "answer": 4,
+      "explanation": "Kernkriterium des Wiedererlebens sind Flashbacks und Alpträume, die über Sinnesmodalitäten und mit überwältigenden Emotionen wie Angst oder Entsetzen erlebt werden. Grübeln über die Ungerechtigkeit ist ein gedanklicher Prozess ohne dieses lebendige Erleben. Das traurige, unwillkürliche Sich-Erinnern zählt im ICD-11 ausdrücklich nicht mehr zum Wiedererleben. Die Schreckhaftigkeit ist Kernkriterium der dritten Symptomgruppe, nicht des Wiedererlebens. Und die eingeschränkte Fähigkeit, positive Gefühle zu empfinden, wird im ICD-11 ohnehin nicht mehr mitgezählt."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "hard": true,
+      "transfer": true,
+      "trap": "Wiedererleben verlangt sinnlich-lebendiges Hier-und-Jetzt-Erleben; bloßes intrusives Grübeln über das Ereignis zählt im ICD-11 nicht mehr dazu.",
+      "question": "Bei welcher Schilderung wäre das Kriterium des Wiedererlebens nach ICD-11 am ehesten NICHT erfüllt?",
+      "options": [
+        "Mia grübelt nach jahrelanger familiärer Gewalt ständig darüber, warum ihr das passiert ist.",
+        "Jörg hört beim Fernsehen plötzlich die Geräusche seines Unfalls und fühlt sich wie damals.",
+        "Clara erstarrt beim Körperkontakt und erlebt sich wieder als das kleine Mädchen von damals.",
+        "Ein Patient wacht wiederholt aus Alpträumen auf, in denen er den Überfall erneut durchlebt.",
+        "Eine Patientin sieht in einer Triggersituation im Gegenüber plötzlich den Täter von damals."
+      ],
+      "answer": 0,
+      "explanation": "Das ständige Nachdenken über die Ungerechtigkeit des Erlebten ist ein intrusives Grübeln ohne sinnlich-lebendiges Wiedererleben und zählt im ICD-11 nicht mehr zum Kriterium – es grenzt zu wenig gegen resiliente Traumaüberlebende und gegen depressives Grübeln ab. Das plötzliche Hören der Unfallgeräusche mit dem Gefühl von damals ist ein klassischer Flashback über eine Sinnesmodalität. Das Sehen des Täters im Gegenüber ist ein Flashback mit voller Realitätsnähe. Alpträume, in denen das Ereignis erneut durchlebt wird, sind ausdrücklich Kernkriterium. Und das Erstarren mit dem Erleben, wieder das Kind von damals zu sein, ist Hier-und-Jetzt-Erleben."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "question": "Welche Aussage zum Vermeidungskriterium der PTBS im ICD-11 trifft NICHT zu?",
+      "options": [
+        "Das Meiden innerer wie äußerer Erinnerungsauslöser kann das Kriterium erfüllen.",
+        "Der Ausschluss unspezifischer Zeichen dient der Abgrenzung gegen depressive Folgesymptome.",
+        "Amnesien und Teilamnesien für das Ereignis sind als Vermeidung zu diagnostizieren.",
+        "Ein Gefühl der eingeschränkten Zukunft wird hier nicht mehr mitgezählt.",
+        "Kernkriterium ist die aktive, von der Person selbst reflektierte Vermeidung."
+      ],
+      "answer": 2,
+      "explanation": "Amnesien und Teilamnesien sind unwillkürliches Vermeidungsverhalten und sollen im ICD-11 gerade nicht mehr als Vermeidung diagnostiziert werden – das ist die gesuchte falsche Aussage. Kernkriterium ist stattdessen die aktive, selbst reflektierte Vermeidung, und die kann sich auf innere wie äußere Erinnerungsauslöser richten. Das Gefühl der eingeschränkten Zukunft gehört wie das numbing zu den herausgenommenen Merkmalen. Und die Begründung für diese Streichungen ist ausdrücklich die fehlende Abgrenzung gegenüber depressiven Begleit- und Folgesymptomen."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "hard": true,
+      "transfer": true,
+      "question": "Nachdem Lara von zwei Partnern sexuell missbraucht wurde, kann sie kein Gefühl von Liebe mehr empfinden. Wie ist dieses Erleben nach ICD-11 am ehesten einzuordnen?",
+      "options": [
+        "Es gehört zur anhaltenden Wahrnehmung einer erhöhten gegenwärtigen Bedrohung.",
+        "Es ist als Teilamnesie zu werten und damit ein unwillkürliches Vermeidungskriterium.",
+        "Es ist ein aktives Vermeidungsverhalten, da sie Nähe faktisch nicht mehr zulässt.",
+        "Es zählt als emotionale Taubheit nicht mehr zum Vermeidungskriterium.",
+        "Es ist dem Wiedererleben zuzuordnen, weil das Erlebte affektiv gegenwärtig bleibt."
+      ],
+      "answer": 3,
+      "explanation": "Die emotionale Taubheit ist eine Abflachung der allgemeinen Reagibilität (numbing) und wird im ICD-11 ausdrücklich nicht mehr als Vermeidung diagnostiziert, weil sie sich nicht hinreichend von depressiven Folgesymptomen abgrenzen lässt. Aktive Vermeidung setzt ein selbst reflektiertes Meiden voraus, nicht ein Nicht-mehr-empfinden-Können. Wiedererleben verlangt Flashbacks oder Alpträume mit lebendigem Charakter, die hier nicht geschildert sind. Die erhöhte Bedrohungswahrnehmung zeigt sich in Schreckhaftigkeit und übermäßiger Wachsamkeit, nicht in Gefühlsverlust. Und eine Teilamnesie betrifft das Erinnern an das Ereignis, nicht die Gefühlsfähigkeit."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "question": "Wie wird die früher als Hyperarousal bezeichnete Symptomgruppe im ICD-11 neu gefasst?",
+      "options": [
+        "Als anhaltende Wahrnehmung einer erhöhten gegenwärtigen Bedrohung.",
+        "Als dauerhafte vegetative Übererregung mit Schlaf- und Konzentrationsstörungen.",
+        "Als anhaltende Störung der Affektregulation mit gewalttätigen Durchbrüchen.",
+        "Als überdauernde Veränderung der Persönlichkeit nach Extrembelastung.",
+        "Als generalisierte Angstsymptomatik mit anhaltender Sorgen- und Grübelneigung."
+      ],
+      "answer": 0,
+      "explanation": "Das ICD-11 fasst die dritte Symptomgruppe als anhaltende Wahrnehmung einer erhöhten gegenwärtigen Bedrohung, mit Schreckhaftigkeit und übermäßiger Wachsamkeit als Kernkriterium. Die andauernde Persönlichkeitsänderung nach Extrembelastung ist eine eigenständige Diagnose, keine Symptomgruppe der PTBS. Die Störung der Affektregulation ist ein Zusatzkriterium der komplexen PTBS. Schlaf- und Konzentrationsstörungen wurden wegen ihrer Unspezifität gerade herausgenommen und taugen deshalb nicht als Neudefinition. Und eine generalisierte Angstsymptomatik mit Sorgenneigung beschreibt ein anderes Störungsbild."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "hard": true,
+      "transfer": true,
+      "question": "Bei welcher Schilderung wäre das Kriterium der erhöhten gegenwärtigen Bedrohungswahrnehmung nach ICD-11 am ehesten NICHT erfüllt?",
+      "options": [
+        "Eine Patientin ist deutlich schreckhafter als vor dem traumatischen Ereignis.",
+        "Eine Patientin beruhigt sich erst, als sie mit Blick auf die Tür sitzen kann.",
+        "Ein Patient zuckt bei jedem lauten Geräusch heftig zusammen und erschrickt.",
+        "Eine Patientin muss die Umgebung ständig absuchen und kommt nie zur Ruhe.",
+        "Ein Patient wirkt seit dem Ereignis launisch, reizbar und aggressiv."
+      ],
+      "answer": 4,
+      "explanation": "Erhöhte Reizbarkeit wird im ICD-11 wegen ihrer Unspezifität ausdrücklich nicht mehr diagnostiziert – ebenso wenig wie selbstzerstörerisches Verhalten oder Konzentrations- und Schlafschwierigkeiten. Das ständige Absuchen der Umgebung ist übermäßige Wachsamkeit und damit Kernkriterium. Das heftige Zusammenzucken bei lauten Geräuschen ist Schreckhaftigkeit im engeren Sinne. Das Beruhigen erst mit Blick auf die Tür ist ebenfalls übermäßige Wachsamkeit gegenüber einer wahrgenommenen gegenwärtigen Bedrohung. Und eine gegenüber der Zeit vor dem Trauma deutlich gesteigerte Schreckhaftigkeit ist das Kernkriterium selbst."
+    },
+    {
+      "topic": "ICD-11-Symptomgruppen",
+      "hard": true,
+      "question": "Was gilt für die drei Kernsymptomgruppen der PTBS im ICD-11 am ehesten NICHT?",
+      "options": [
+        "Sie sind schärfer definiert als die entsprechenden Vorgängerkriterien.",
+        "Unspezifische Symptome wurden gezielt aus den Kriterien herausgenommen.",
+        "Die Änderungen ziehen Verschiebungen in den epidemiologischen Kennzahlen nach sich.",
+        "Sie sollen die PTBS differenzialdiagnostisch besser von anderen Störungen abgrenzen.",
+        "Die Prävalenz der PTBS fällt dadurch höher aus als unter der Vorgängerfassung."
+      ],
+      "answer": 4,
+      "explanation": "Weil die Kriterien enger und schärfer gefasst wurden, fällt die Prävalenz unter dem ICD-11 niedriger und nicht höher aus – das ist die gesuchte falsche Aussage. Die Verschärfung gegenüber den Vorgängerkriterien und das Ziel der besseren differenzialdiagnostischen Abgrenzung sind ausdrücklich die Absicht der Revision. Dass sich dadurch die epidemiologischen Kennzahlen verschieben, ist die logische Folge einer Kriterienänderung. Und die gezielte Herausnahme unspezifischer Symptome wie Grübeln, numbing, Reizbarkeit oder Schlafstörungen ist genau das Mittel, mit dem die Schärfung erreicht wurde."
+    },
+    {
+      "topic": "Diagnostische Rahmenkriterien",
+      "question": "Wie ist die PTBS im ICD-11 klassifikatorisch eingeordnet?",
+      "options": [
+        "In dem Kapitel für Persönlichkeits- und Verhaltensstörungen.",
+        "In einem eigenen Kapitel für spezifisch belastungsassoziierte Störungen.",
+        "In dem Kapitel der Angststörungen, gemeinsam mit der Panikstörung.",
+        "In dem breiten Kapitel für neurotische, Belastungs- und somatoforme Störungen.",
+        "In dem Kapitel der dissoziativen Störungen, gemeinsam mit der Konversion."
+      ],
+      "answer": 1,
+      "explanation": "Das ICD-11 stellt die spezifisch belastungsassoziierten Störungen in ein eigenes Kapitel und löst die PTBS damit aus ihrer bisherigen Umgebung heraus. Das breite Kapitel für neurotische, Belastungs- und somatoforme Störungen ist genau die als unspezifisch kritisierte Vorgängerlösung. Die dissoziativen Störungen mit der Konversion bilden eine eigene Gruppe, in der die PTBS nicht steht. Die Angststörungen sind trotz inhaltlicher Nähe eine getrennte Gruppe. Und die Persönlichkeits- und Verhaltensstörungen umfassen die andauernde Persönlichkeitsänderung nach Extrembelastung, nicht die PTBS selbst."
+    },
+    {
+      "topic": "Diagnostische Rahmenkriterien",
+      "question": "Welche Aussage zum Zeitkriterium der PTBS trifft am ehesten zu?",
+      "options": [
+        "Die Symptomatik muss ohne jede Unterbrechung seit dem Ereignis bestanden haben.",
+        "Eine verzögerte Ausprägung nach mehreren Jahren schließt die Diagnose sicher aus.",
+        "Ein zeitlicher Bezug zum Ereignis wird im ICD-11 gar nicht mehr gefordert.",
+        "Die Symptomatik soll innerhalb von etwa drei Monaten nach dem Trauma auftreten.",
+        "Die Diagnose ist bereits unmittelbar nach dem traumatischen Ereignis zu stellen."
+      ],
+      "answer": 3,
+      "explanation": "Das Zeitkriterium verlangt ein Auftreten innerhalb von etwa drei Monaten nach dem Trauma; zugleich ist die Diagnose frühestens nach ungefähr diesem Zeitraum zu stellen. Unmittelbar nach dem Ereignis ist sie deshalb gerade nicht zu vergeben – dort kommt allenfalls eine akute Belastungsreaktion in Betracht. Eine verzögerte Ausprägung ist ausdrücklich möglich, sodass eine PTBS auch noch Jahre nach dem Trauma auftreten kann. Ein durchgehendes Bestehen der Symptomatik wird nicht verlangt. Und ein zeitlicher Bezug zum Ereignis bleibt selbstverständlich gefordert."
+    },
+    {
+      "topic": "Diagnostische Rahmenkriterien",
+      "transfer": true,
+      "question": "Ein Patient hält seinen Beruf nach dem Trauma weiter aus, schafft das aber nur mit erheblichem zusätzlichem Aufwand und völliger Erschöpfung am Abend. Wie ist das Funktionskriterium der PTBS zu bewerten?",
+      "options": [
+        "Es ist nicht beurteilbar, weil das Kriterium erst nach mehreren Jahren geprüft werden darf.",
+        "Es ist nicht erfüllt, weil ein Funktionsverlust in mehreren Lebensbereichen nötig wäre.",
+        "Es ist nicht erfüllt, weil die berufliche Funktionsfähigkeit erhalten geblieben ist.",
+        "Es ist erfüllt, weil bereits der subjektive Leidensdruck das Kriterium hinreichend begründet.",
+        "Es ist erfüllt, da die Funktion nur mit erheblichem Mehraufwand gehalten wird."
+      ],
+      "answer": 4,
+      "explanation": "Das Funktionskriterium ist ausdrücklich auch dann erfüllt, wenn die Funktionsfähigkeit zwar aufrechterhalten wird, aber nur durch erhebliche zusätzliche Anstrengungen – genau das schildert der Fall. Dass der Beruf noch ausgeübt wird, spricht deshalb gerade nicht gegen das Kriterium. Ein Funktionsverlust in mehreren Bereichen wird nicht verlangt; die Formulierung nennt persönliche, familiäre, soziale, schulische oder berufliche Bereiche alternativ. Leidensdruck und Funktionsbeeinträchtigung sind zwei getrennte Kriterien – subjektives Leiden allein begründet die Funktionsbeeinträchtigung nicht. Und eine Prüfung erst nach Jahren ist nicht vorgesehen."
+    },
+    {
+      "topic": "Traumatisches Gedächtnis",
+      "question": "Was wird mit einer fehlerhaft abgespeicherten traumatischen Erinnerung am ehesten NICHT assoziiert?",
+      "options": [
+        "Die Erinnerung ist häufig fragmentiert und nicht biografisch eingebunden.",
+        "Die Emotionen werden auch nach Jahren noch intensiv miterlebt.",
+        "Die zeitlichen Abläufe werden bis ins letzte Detail exakt wiedererinnert.",
+        "Das Erinnern trägt den Charakter eines Hier-und-Jetzt-Erlebens.",
+        "Die Erinnerung ist durch situative äußere Reize leicht triggerbar."
+      ],
+      "answer": 2,
+      "explanation": "Für die traumatische Erinnerung ist gerade ein verzerrtes Raum-Zeit-Gefühl typisch; eine exakte, detailgenaue zeitliche Rekonstruktion spricht für eine normale explizite Erinnerung und ist damit die gesuchte Aussage. Fragmentierung ohne biografische Einbindung, leichte Triggerbarkeit durch äußere Reize, die anhaltend intensive emotionale Beteiligung und der Hier-und-Jetzt-Charakter sind dagegen genau die Merkmale der impliziten, traumatischen Erinnerung."
+    },
+    {
+      "topic": "Traumatisches Gedächtnis",
+      "question": "Welches Merkmal spricht am ehesten für eine explizite, „normale“ Erinnerung und gegen eine implizit-traumatische?",
+      "options": [
+        "Die Erinnerung geht mit einem deutlich verzerrten Raum-Zeit-Gefühl einher.",
+        "Die Erinnerung wird bei entsprechenden Reizen leicht und unwillkürlich getriggert.",
+        "Die Erinnerung verblasst mit der Zeit und ist zeitlich klar definiert.",
+        "Die Erinnerung kehrt in Form von Alpträumen und Intrusionen wieder.",
+        "Die Erinnerung ist in Bruchstücken statt als zusammenhängende Erzählung verfügbar."
+      ],
+      "answer": 2,
+      "explanation": "Die explizite Erinnerung verblasst mit der Zeit, ist zeitlich und räumlich klar definiert, biografisch eingebunden und episodisch-narrativ verfügbar. Leichte Triggerbarkeit mit intrusivem Erleben, ein verzerrtes Raum-Zeit-Gefühl, Hypermnesie mit Alpträumen und Intrusionen sowie die Fragmentierung statt einer zusammenhängenden Erzählung sind demgegenüber allesamt Kennzeichen der impliziten, traumatischen Erinnerung."
+    },
+    {
+      "topic": "Traumatisches Gedächtnis",
+      "hard": true,
+      "question": "Welche Zuordnung im Modell der traumatischen Erinnerungsverarbeitung trifft am ehesten zu?",
+      "options": [
+        "Die Amygdala steht für die emotionale Bedeutung und das emotionale Gedächtnis.",
+        "Der Thalamus steht für die Kontextualisierung und das faktische Gedächtnis.",
+        "Der Hirnstamm steht für die kognitive Integration des autobiografischen Gedächtnisses.",
+        "Der Kortex steht für die endokrinen Effekte der akuten Stressreaktion.",
+        "Der Hippocampus steht für die sensorische Integration eingehender Sinnesreize."
+      ],
+      "answer": 0,
+      "explanation": "Der Amygdala werden im Modell die emotionale Bedeutungszuweisung und das emotionale Gedächtnis zugeordnet. Die sensorische Integration ist Aufgabe des Thalamus, nicht des Hippocampus. Die Kontextualisierung und das faktische Gedächtnis gehören zum Hippocampus, nicht zum Thalamus – die beiden Zuordnungen sind hier gerade vertauscht. Die endokrinen Effekte laufen über die hypothalamische Achse und nicht über den Kortex. Und die kognitive Integration des autobiografischen Gedächtnisses ist Leistung des Kortex, nicht des Hirnstamms."
+    },
+    {
+      "topic": "Komplexe PTBS (ICD-11)",
+      "question": "Welche drei Zusatzkriterien treten bei der komplexen PTBS im ICD-11 zu den klassischen PTBS-Kriterien hinzu?",
+      "options": [
+        "Störung der Impulskontrolle, Identitätsdiffusion und chronische Suizidalität.",
+        "Negative Selbstwahrnehmung, Substanzmissbrauch und selbstverletzendes Verhalten.",
+        "Störung der Affektregulation, dissoziative Amnesie und eine anhaltende Schmerzsymptomatik.",
+        "Affektregulationsstörung, interpersonelle Schwierigkeiten, negative Selbstwahrnehmung.",
+        "Interpersonelle Schwierigkeiten, formale Denkstörung und negative Selbstwahrnehmung."
+      ],
+      "answer": 3,
+      "explanation": "Die drei Zusatzkriterien werden als Störungen der Selbstorganisation zusammengefasst: Störung der Affektregulation, interpersonelle Schwierigkeiten und negative Selbstwahrnehmung. Dissoziative Amnesie und Schmerzsymptomatik gehören nicht dazu, auch wenn beides begleitend vorkommen kann. Die formale Denkstörung ist ein Merkmal des Denkablaufs und kein Kriterium der komplexen PTBS. Substanzmissbrauch und Selbstverletzung sind häufige Komorbiditäten bzw. Verhaltensfolgen, aber keine Kriterien. Und Impulskontrollstörung, Identitätsdiffusion und chronische Suizidalität gehören in den Umkreis der Borderline-Störung."
+    },
+    {
+      "topic": "Komplexe PTBS (ICD-11)",
+      "hard": true,
+      "question": "Welche Aussage zur komplexen PTBS im ICD-11 trifft NICHT zu?",
+      "options": [
+        "Die klassischen PTBS-Kriterien können auch nur subsyndromal ausgeprägt sein.",
+        "Die Zusatzkriterien werden als Störungen der Selbstorganisation zusammengefasst.",
+        "Intrusionen sind nach langer verstrichener Zeit nicht immer noch vorhanden.",
+        "Zu den klassischen Kriterien zählen Intrusionen, Vermeidung und Übererregung.",
+        "Die klassischen PTBS-Kriterien müssen vollständig syndromal erfüllt sein."
+      ],
+      "answer": 4,
+      "explanation": "Gerade das Gegenteil gilt: Die klassischen PTBS-Kriterien dürfen bei der komplexen PTBS syndromal oder subsyndromal vorliegen – deshalb ist die Forderung nach vollständiger syndromaler Ausprägung die gesuchte falsche Aussage. Der Grund für diese Lockerung ist, dass etwa Intrusionen nach langer verstrichener Zeit nicht immer noch vorhanden sind. Die Zusammenfassung der drei Zusatzkriterien als Störungen der Selbstorganisation und die Aufzählung Intrusionen, Vermeidung und Übererregung als klassische Kriterien treffen beide zu."
+    },
+    {
+      "topic": "Komplexe PTBS (ICD-11)",
+      "transfer": true,
+      "question": "Eine Patientin mit jahrelanger häuslicher Gewalt zeigt Schreckhaftigkeit und Alpträume, dazu starke Schuld- und Schamgefühle, die Überzeugung, ein beschädigtes Leben zu führen, und große Mühe, Vertrauen zu fassen. Welche Diagnose ist am ehesten zu erwägen?",
+      "options": [
+        "Eine Anpassungsstörung, da die Belastung über einen langen Zeitraum bestanden hat.",
+        "Eine komplexe PTBS, da Störungen der Selbstorganisation hinzukommen.",
+        "Ein dissoziativer Subtyp der PTBS, da das Selbstbild verändert erlebt wird.",
+        "Eine andauernde Persönlichkeitsänderung, da das Selbstbild dauerhaft betroffen ist.",
+        "Eine klassische PTBS, da die zusätzlichen Merkmale nur Begleitprobleme darstellen."
+      ],
+      "answer": 1,
+      "explanation": "Neben den klassischen Kriterien (Schreckhaftigkeit als Übererregung, Alpträume als Wiedererleben) liegen alle drei Störungen der Selbstorganisation vor: negative Selbstwahrnehmung mit Scham- und Schuldgefühlen und der Überzeugung eines beschädigten Lebens sowie interpersonelle Schwierigkeiten in Form der Unfähigkeit zu vertrauen. Für eine klassische PTBS wären diese Zusatzmerkmale eben nicht als bloße Begleitprobleme abzutun, sondern gerade das Unterscheidungsmerkmal. Eine Anpassungsstörung setzt keine Traumakriterien dieser Art voraus und passt zur Schwere nicht. Der dissoziative Subtyp ist über dissoziative Symptome definiert, nicht über ein negatives Selbstbild. Und die andauernde Persönlichkeitsänderung nach Extrembelastung ist eine eigenständige Diagnose außerhalb des kPTBS-Konzepts."
+    }
+  ]
+}

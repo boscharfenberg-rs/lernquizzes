@@ -487,6 +487,13 @@
       "title": "Schizophrenie: Therapie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Therapie der Schizophrenie: Pharmakotherapie (Antipsychotika-Generationen, Cariprazin/Paliperidon, Rezeptorprofile, Behandlungsdauer, D2-Blockade, Overshooting, Supersensitivität), EKT sowie Psychotherapie (dimensionale Sicht, Mono-PT-Evidenz, KVT, Familieninterventionen, Psychoedukation, ACT)."
+    },
+    {
+      "id": "kl-ptbs-trauma-symptomatik",
+      "file": "kl-ptbs-trauma-symptomatik.json",
+      "title": "PTBS: Traumabegriff, Symptomatik & komplexe PTBS",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "PTBS im Altklausur-Stil: Traumadefinition (WHO/ICD-10 vs. ICD-11), primäre/sekundäre/tertiäre Traumatisierung, Traumatypologie (Typ 1/2, akzidentell/interpersonell), Trauma-Folge-Beziehung, PTBS-Symptomatik nach DSM-5 und die drei ICD-11-Symptomgruppen, Zeit- und Funktionskriterium, traumatisches Gedächtnis sowie die komplexe PTBS."
     }
   ]
 }
