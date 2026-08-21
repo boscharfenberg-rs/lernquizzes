@@ -1,0 +1,420 @@
+{
+  "id": "kl-ptbs-risiko-verlauf-komorbiditaet",
+  "title": "PTBS: Risikofaktoren, Verlauf & Komorbidität",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "PTBS im Altklausur-Stil, Teil 2: Vertiefung der kPTBS-Zusatzkriterien, prä-/peri-/posttraumatische Risikofaktoren, Epidemiologie und Verlauf sowie Komorbidität und Differenzialdiagnostik bei PTBS und komplexer PTBS.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Zusatzkriterien der komplexen PTBS",
+      "transfer": true,
+      "question": "Eine Patientin mit komplexer PTBS berichtet, sie könne Gefühle nur noch in „alles oder nichts“ erleben – entweder spüre sie gar nichts oder sofort Zorn. Welchem Zusatzkriterium ist das am ehesten zuzuordnen?",
+      "options": [
+        "Der Störung der Affektregulation mit eingeschränkter Feinabstufung.",
+        "Der Bedrohungswahrnehmung, weil der Zorn eine Alarmreaktion darstellt.",
+        "Den interpersonellen Schwierigkeiten, weil der Zorn ihre Beziehungen belastet.",
+        "Der negativen Selbstwahrnehmung, weil sie ihre Gefühle als beschädigt erlebt.",
+        "Dem Wiedererleben, weil starke Affekte zum traumatischen Erleben gehören."
+      ],
+      "answer": 0,
+      "explanation": "Die eingeschränkte Feinabstufung von Gefühlsausdrücken zusammen mit häufig auftretender Erregbarkeit, Ärger oder Zorn ist genau die Beschreibung der Affektregulationsstörung. Die negative Selbstwahrnehmung betrifft das Bild von der eigenen Person – Minderwertigkeit, Selbsthass, Scham und Schuld –, nicht die Steuerung der Gefühlsintensität. Die interpersonellen Schwierigkeiten beschreiben das Beziehungsverhalten selbst, nicht die zugrunde liegende Affektsteuerung. Wiedererleben verlangt Flashbacks oder Alpträume, die hier nicht geschildert sind. Und die erhöhte Bedrohungswahrnehmung zeigt sich in Schreckhaftigkeit und Wachsamkeit, nicht in einer Alles-oder-nichts-Gefühlslage."
+    },
+    {
+      "topic": "Zusatzkriterien der komplexen PTBS",
+      "question": "Welches Merkmal zählt am ehesten NICHT zu den interpersonellen Schwierigkeiten bei der komplexen PTBS?",
+      "options": [
+        "Mühe, tragfähige Beziehungen aufzubauen und zu erhalten.",
+        "Deutlich erschwerte partnerschaftliche Interaktionen im Alltag.",
+        "Die Überzeugung, ein grundlegend beschädigtes Leben zu führen.",
+        "Eine Anfälligkeit für überspannte Ansichten gegenüber anderen.",
+        "Eine ausgeprägte Unfähigkeit, anderen Menschen zu vertrauen."
+      ],
+      "answer": 2,
+      "explanation": "Die Überzeugung, ein beschädigtes und nicht mehr reparierbares Leben zu führen, gehört zur negativen Selbstwahrnehmung und nicht zu den interpersonellen Schwierigkeiten – das ist die gesuchte Zuordnung. Die Unfähigkeit zu vertrauen, die Anfälligkeit für überspannte Ansichten und die erschwerte partnerschaftliche Interaktion werden als Merkmale der interpersonellen Schwierigkeiten ausdrücklich genannt. Und die Mühe, Beziehungen aufzubauen und aufrechtzuerhalten, ist deren Oberbeschreibung."
+    },
+    {
+      "topic": "Zusatzkriterien der komplexen PTBS",
+      "hard": true,
+      "trap": "Selbstschädigendes Verhalten wird der Affektregulation zugeordnet – nicht der negativen Selbstwahrnehmung, obwohl es inhaltlich „gegen sich selbst“ gerichtet wirkt.",
+      "question": "Welche Aussage zu den Zusatzkriterien der komplexen PTBS trifft NICHT zu?",
+      "options": [
+        "Die drei Zusatzkriterien werden als Störungen der Selbstorganisation gefasst.",
+        "Häufig auftretende Erregbarkeit, Ärger oder Zorn betreffen die Affektregulation.",
+        "Selbstschädigende Verhaltensweisen werden der Affektregulation zugeordnet.",
+        "Selbstschädigendes Verhalten zählt zur negativen Selbstwahrnehmung.",
+        "Schuld- und Schamgefühle gehören zur negativen Selbstwahrnehmung."
+      ],
+      "answer": 3,
+      "explanation": "Selbstschädigende Verhaltensweisen werden in der Vertiefung ausdrücklich unter der Störung der Affektregulation aufgeführt, nicht unter der negativen Selbstwahrnehmung – die erste Aussage ist deshalb die falsche und die spiegelbildliche Zuordnung zur Affektregulation die richtige. Schuld- und Schamgefühle gehören dagegen tatsächlich zur negativen Selbstwahrnehmung, ebenso wie das Erleben eines beschädigten Lebens. Erregbarkeit, Ärger und Zorn sind Kennzeichen der gestörten Affektregulation. Und die Zusammenfassung der drei Kriterien als Störungen der Selbstorganisation ist die im ICD-11 verwendete Bezeichnung."
+    },
+    {
+      "topic": "Zusatzkriterien der komplexen PTBS",
+      "transfer": true,
+      "question": "Ein Patient sagt über sich: „Ich bin der Gescheiterte, aus meinem Leben wird nie wieder etwas.“ Welchem Zusatzkriterium entspricht diese Aussage am ehesten?",
+      "options": [
+        "Den interpersonellen Schwierigkeiten, weil er sich von anderen abgehängt fühlt.",
+        "Dem Vermeidungskriterium, weil er die Auseinandersetzung damit meidet.",
+        "Der erhöhten Bedrohungswahrnehmung, weil die Zukunft bedrohlich wirkt.",
+        "Der Störung der Affektregulation, weil er seine Zukunft nicht regulieren kann.",
+        "Der negativen Selbstwahrnehmung im Sinne eines beschädigten Lebens."
+      ],
+      "answer": 4,
+      "explanation": "Die Überzeugung, ein beschädigtes Leben zu führen, das nicht mehr repariert werden kann – in der Vertiefung wörtlich als „die Gescheiterte sein“ beschrieben –, ist der Prototyp der negativen Selbstwahrnehmung. Die Affektregulation betrifft die Steuerung von Gefühlsintensität, nicht die Selbstbewertung. Interpersonelle Schwierigkeiten zeigen sich im konkreten Beziehungsverhalten, nicht in einem Urteil über das eigene Leben. Vermeidung setzt ein aktives Meiden von Erinnerungsauslösern voraus. Und die Bedrohungswahrnehmung äußert sich in Schreckhaftigkeit und Wachsamkeit gegenüber der Gegenwart."
+    },
+    {
+      "topic": "Risikofaktoren vor dem Trauma",
+      "hard": true,
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den psychischen bzw. lebensgeschichtlichen Risikofaktoren für eine (k)PTBS?",
+      "options": [
+        "Geringere Ressourcen wie Bildung oder sozialer Status.",
+        "Frühe Trennungserlebnisse in der Kindheitsentwicklung.",
+        "Vorbestehende psychische oder somatische Erkrankungen.",
+        "Ein ausgeprägter Neurotizismus als Persönlichkeitszug.",
+        "Frühere Traumatisierungen in der eigenen Lebensgeschichte."
+      ],
+      "answer": 3,
+      "explanation": "Neurotizismus wird in der Systematik den neurobiologisch-genetischen Faktoren zugeschlagen, nicht den psychischen und lebensgeschichtlichen – deshalb ist das die gesuchte Zuordnung. Frühere Traumatisierungen in der Biografie, frühe Trennungserlebnisse sowie psychische oder somatische Vorerkrankungen sind ausdrücklich als lebensgeschichtliche Faktoren benannt. Und geringere Ressourcen in Gestalt von Intelligenz, Bildung und sozioökonomischem Status gehören ebenfalls in diese Gruppe."
+    },
+    {
+      "topic": "Risikofaktoren vor dem Trauma",
+      "question": "Welchem Bereich der Risikofaktoren werden bestimmte Genvarianten und Gen-Umwelt-Interaktionen zugeordnet?",
+      "options": [
+        "Den peritraumatischen Faktoren während des Traumas.",
+        "Den psychischen und lebensgeschichtlichen Faktoren.",
+        "Den neurobiologisch-genetischen Faktoren.",
+        "Den posttraumatischen Variablen nach dem Ereignis.",
+        "Den traumabezogenen Faktoren des Ereignisses."
+      ],
+      "answer": 2,
+      "explanation": "Bestimmte Genvarianten und Gen-Umwelt-Interaktionen bilden zusammen mit dem Neurotizismus die Gruppe der neurobiologisch-genetischen Faktoren. Die psychischen und lebensgeschichtlichen Faktoren umfassen Biografie, Vorerkrankungen und Ressourcen. Traumabezogene Faktoren betreffen Schwere und Art des Ereignisses selbst. Peritraumatische Faktoren wirken während des Ereignisses, etwa Hilflosigkeitserleben oder Dissoziation. Und posttraumatische Variablen setzen erst nach dem Ereignis ein, etwa fehlende soziale Unterstützung."
+    },
+    {
+      "topic": "Risikofaktoren vor dem Trauma",
+      "question": "Welche Aussage zu den traumabezogenen Risikofaktoren trifft am ehesten zu?",
+      "options": [
+        "Typ-2-Traumen bergen ein höheres Risiko als Typ-1-Traumen.",
+        "Einsatzkräfte sind durch die Schädigung von Kindern kaum belastet.",
+        "Das Risiko hängt allein von der Dauer der Traumatisierung ab.",
+        "Die Schwere des Traumas spielt für das Risiko keine wesentliche Rolle.",
+        "Akzidentelle Traumen bergen ein höheres Risiko als menschengemachte."
+      ],
+      "answer": 0,
+      "explanation": "Unter den traumabezogenen Faktoren gilt ausdrücklich Typ II vor Typ I, das heißt lange oder wiederholte Traumatisierungen sind riskanter als einmalige. Bei der Verursachung gilt die umgekehrte Reihenfolge der genannten Aussage: menschengemachtes Trauma vor akzidentellem. Die Traumaschwere steht an erster Stelle der traumabezogenen Faktoren und ist damit gerade wesentlich. Die Dauer ist nur einer von mehreren Aspekten und wirkt nicht allein. Und die Schädigung von Kindern wird als besonders belastender Einsatzinhalt für Feuerwehrkräfte und Rettungssanitäter eigens hervorgehoben."
+    },
+    {
+      "topic": "Risikofaktoren vor dem Trauma",
+      "transfer": true,
+      "question": "Eine Feuerwehrfrau muss bei einem Einsatz ein schwer verletztes Kind bergen. Welcher traumabezogene Risikofaktor ist damit am ehesten benannt?",
+      "options": [
+        "Die Dissoziation während des Einsatzes als peritraumatischer Faktor.",
+        "Die geringe öffentliche Anerkennung von Einsatzkräften durch die Politik.",
+        "Die vorbestehende somatische Erkrankung als biografischer Faktor.",
+        "Die Schädigung von Kindern als besonders belastender Einsatzinhalt.",
+        "Das jüngere Lebensalter als Merkmal der betroffenen Einsatzkraft."
+      ],
+      "answer": 3,
+      "explanation": "Die Schädigung von Kindern wird unter den traumabezogenen Faktoren ausdrücklich mit dem Beispiel von Feuerwehrkräften und Rettungssanitätern genannt. Ein jüngeres Lebensalter ist zwar ein Risikofaktor, gehört aber zu den lebensgeschichtlich-soziodemografischen und nicht zu den traumabezogenen Merkmalen. Die fehlende öffentliche Anerkennung ist eine posttraumatische Variable und im Fall nicht geschildert. Dissoziation während des Ereignisses wäre peritraumatisch und wird ebenfalls nicht berichtet. Und eine somatische Vorerkrankung ist ein biografischer Faktor vor dem Ereignis."
+    },
+    {
+      "topic": "Risikofaktoren vor dem Trauma",
+      "question": "Welche Aussage zu soziodemografischen Risikofaktoren einer PTBS trifft NICHT zu?",
+      "options": [
+        "Ein höheres Lebensalter geht mit erhöhtem Risiko einher.",
+        "Weibliches Geschlecht gilt als Risikofaktor für eine PTBS.",
+        "Die Zugehörigkeit zu einer ethnischen Minderheit erhöht das Risiko.",
+        "Geringere Bildung zählt zu den Ressourcen-Risikofaktoren.",
+        "Ein jüngeres Lebensalter gilt als eigenständiger Risikofaktor."
+      ],
+      "answer": 0,
+      "explanation": "Als Risikofaktor benannt ist gerade das jüngere, nicht das höhere Lebensalter – die erste Aussage kehrt die Richtung um und ist damit die gesuchte falsche. Weibliches Geschlecht wird zusammen mit dem jüngeren Alter als soziodemografischer Risikofaktor geführt. Die Zugehörigkeit zu einer ethnischen Minderheit ist ebenfalls ausdrücklich aufgeführt. Und geringere Ressourcen in Gestalt von Intelligenz, Bildung und sozioökonomischem Status bilden eine eigene Untergruppe der lebensgeschichtlichen Faktoren."
+    },
+    {
+      "topic": "Peri- und posttraumatische Faktoren",
+      "transfer": true,
+      "trap": "Peritraumatisch heißt während des Ereignisses; posttraumatische Variablen entfalten ihre Wirkung erst danach.",
+      "question": "Ein Patient berichtet, er habe sich während des Überfalls „wie neben sich“ erlebt. Welcher Risikofaktor ist damit am ehesten benannt?",
+      "options": [
+        "Eine vorbestehende dissoziative Erfahrung als Vulnerabilitätsmerkmal.",
+        "Eine dissoziative Störung als eigenständige posttraumatische Folge.",
+        "Ein Vermeidungsverhalten als frühes posttraumatisches Symptom.",
+        "Eine Dissoziation während des Traumas als peritraumatischer Faktor.",
+        "Eine erhöhte Bedrohungswahrnehmung als Kernsymptom der PTBS."
+      ],
+      "answer": 3,
+      "explanation": "Das Erleben, während des Ereignisses „neben sich“ zu stehen, ist eine Dissoziation im Ereignis selbst und damit ein peritraumatischer Risikofaktor. Eine dissoziative Störung als Folge wäre eine spätere Diagnose, keine Beschreibung des Ereigniserlebens. Vermeidungsverhalten setzt nach dem Ereignis ein und ist Symptom, nicht Risikofaktor im Moment des Traumas. Eine vorbestehende dissoziative Erfahrung läge vor dem Ereignis und ist hier nicht berichtet. Und die erhöhte Bedrohungswahrnehmung ist ein PTBS-Kernsymptom der Zeit danach."
+    },
+    {
+      "topic": "Peri- und posttraumatische Faktoren",
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den posttraumatischen Variablen?",
+      "options": [
+        "Der subjektiv erlebte Kontrollverlust während des Ereignisses.",
+        "Negative Reaktionen anderer wie Schuldzuweisung oder Abwertung.",
+        "Negative Folgen wie Arbeitsplatzverlust oder Gerichtsverfahren.",
+        "Geringe soziale und öffentliche Unterstützung nach dem Ereignis.",
+        "Anhaltende Schmerzen und körperliche Funktionseinschränkungen."
+      ],
+      "answer": 0,
+      "explanation": "Subjektiv erlebte Bedrohung, Hilflosigkeit und Kontrollverlust wirken im Ereignis selbst und zählen deshalb zu den peritraumatischen, nicht zu den posttraumatischen Faktoren. Geringe soziale und öffentliche Unterstützung sowie negative Reaktionen anderer in Form von Schuldzuweisung oder Abwertung sind dagegen ausdrücklich posttraumatische Variablen. Ebenso zählen körperliche Funktionseinschränkungen mit anhaltenden Schmerzen sowie negative Folgen wie Arbeitsplatzverlust oder ein Gerichtsverfahren dazu."
+    },
+    {
+      "topic": "Peri- und posttraumatische Faktoren",
+      "transfer": true,
+      "question": "Nach einem Übergriff wird einer Betroffenen im Umfeld wiederholt gesagt, sie habe sich das selbst zuzuschreiben. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als peritraumatischer Faktor, weil er das Ereigniserleben prägt.",
+        "Als posttraumatische Variable, die das Risiko einer PTBS erhöht.",
+        "Als traumabezogener Faktor, weil er zum Ereignis selbst gehört.",
+        "Als schützender Faktor, weil überhaupt darüber gesprochen wird.",
+        "Als lebensgeschichtlicher Risikofaktor der betroffenen Person."
+      ],
+      "answer": 1,
+      "explanation": "Negative Reaktionen anderer in Form von Schuldzuweisung und Abwertung sind ausdrücklich als posttraumatische, risikoerhöhende Variable aufgeführt. Peritraumatisch wären nur Faktoren, die während des Ereignisses wirken. Lebensgeschichtliche Faktoren liegen vor dem Trauma und betreffen die Person, nicht die Reaktion des Umfelds. Traumabezogene Faktoren betreffen Art und Schwere des Ereignisses. Und schützend wirkt gerade die unterstützende Reaktion, nicht die Schuldzuweisung."
+    },
+    {
+      "topic": "Peri- und posttraumatische Faktoren",
+      "hard": true,
+      "question": "Welche Aussage zu den peritraumatischen Risikofaktoren trifft am ehesten zu?",
+      "options": [
+        "Peritraumatische Faktoren wirken erst Monate nach dem Ereignis.",
+        "Nur objektiv messbare Bedrohung zählt, nicht das subjektive Erleben.",
+        "Dissoziation während des Traumas senkt das Risiko einer PTBS deutlich.",
+        "Der subjektiv erlebte Kontrollverlust ist für das Risiko unerheblich.",
+        "Prodissoziativ wirkende Substanzen erhöhen das Risiko einer PTBS."
+      ],
+      "answer": 4,
+      "explanation": "Prodissoziative Substanzen – als Beispiel wird Ketamin genannt – stehen ausdrücklich unter den peritraumatischen Risikofaktoren. Der subjektiv erlebte Kontrollverlust ist im Gegenteil einer der zentralen peritraumatischen Faktoren. Dissoziation während des Traumas erhöht das Risiko, statt es zu senken. Peritraumatisch bedeutet definitionsgemäß im Ereignis und nicht Monate danach. Und gerade das subjektive Erleben von Bedrohung und Hilflosigkeit ist maßgeblich, nicht allein die objektive Gefahrenlage."
+    },
+    {
+      "topic": "Peri- und posttraumatische Faktoren",
+      "question": "Welche Rolle spielt die gesellschaftliche Anerkennung des Erlebten für das PTBS-Risiko?",
+      "options": [
+        "Hohe öffentliche Aufmerksamkeit gilt als eigenständiger Risikofaktor.",
+        "Anerkennung wirkt allein auf die Therapiemotivation, nicht auf das Risiko.",
+        "Geringe öffentliche Anerkennung gilt als risikoerhöhende Variable.",
+        "Nur die private, nicht die öffentliche Unterstützung ist bedeutsam.",
+        "Öffentliche Anerkennung ist für den Verlauf ohne nachweisbare Bedeutung."
+      ],
+      "answer": 2,
+      "explanation": "Geringe soziale und öffentliche Unterstützung beziehungsweise Anerkennung – ausdrücklich mit dem Beispiel der Politik – ist als posttraumatische Variable aufgeführt, die das Risiko erhöht. Bedeutungslos ist die Anerkennung damit gerade nicht. Die Aufzählung nennt soziale und öffentliche Unterstützung nebeneinander und beschränkt sich nicht auf das private Umfeld. Als Risiko gilt die geringe, nicht die hohe öffentliche Aufmerksamkeit. Und die Wirkung betrifft das Erkrankungsrisiko selbst, nicht nur die Bereitschaft zur Behandlung."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Welche Aussage zur Häufigkeit der komplexen PTBS in der Allgemeinbevölkerung trifft am ehesten zu?",
+      "options": [
+        "Sie wird seltener angegeben als die klassische PTBS.",
+        "Sie kommt etwa gleich häufig vor wie die klassische PTBS.",
+        "Verlässliche Angaben zur Häufigkeit liegen bislang nicht vor.",
+        "Sie wird deutlich häufiger angegeben als die klassische PTBS.",
+        "Sie kommt nur bei Personen in psychiatrischer Behandlung vor."
+      ],
+      "answer": 0,
+      "explanation": "Die für die komplexe PTBS berichtete Häufigkeit liegt unter der für die klassische PTBS angegebenen. Häufiger oder etwa gleich häufig ist sie damit gerade nicht. Verlässliche Bevölkerungsangaben liegen sehr wohl vor, sie sind lediglich als Punktprävalenzen zu lesen. Und eine Beschränkung auf psychiatrische Behandlungspopulationen widerspricht schon der Erhebung in der Allgemeinbevölkerung."
+    },
+    {
+      "topic": "Epidemiologie",
+      "hard": true,
+      "trap": "Inzidenz = Neuerkrankungen in einem Zeitraum, Prävalenz = Krankheitsbestand. Eine Punktprävalenz erfasst nur einen Stichtag und unterschätzt die Lebenszeithäufigkeit.",
+      "question": "Warum ist bei den genannten Häufigkeitsangaben zur (k)PTBS ausdrücklich Vorsicht geboten?",
+      "options": [
+        "Es handelt sich um Inzidenzen, die den Bestand an Fällen abbilden.",
+        "Die zugrunde gelegten Diagnosekriterien waren in allen Studien gleich.",
+        "Die Angaben beruhen ausschließlich auf Selbstauskünften Betroffener.",
+        "Es handelt sich um Angaben aus klinischen Stichproben ohne Bezug.",
+        "Es handelt sich um Punktprävalenzen, nicht um Lebenszeitangaben."
+      ],
+      "answer": 4,
+      "explanation": "Der ausdrückliche Warnhinweis lautet, dass es sich um Punktprävalenzen handelt – sie bilden den Bestand zu einem Zeitpunkt ab und liegen deshalb unter der Lebenszeithäufigkeit. Inzidenzen bezeichnen Neuerkrankungen in einem Zeitraum und gerade nicht den Bestand; die Aussage verwechselt beide Begriffe. Die zitierten Werte stammen aus Bevölkerungserhebungen und nicht aus klinischen Stichproben. Die Erhebungsmethode ist nicht der Gegenstand des Warnhinweises. Und uneinheitliche Kriterien wären ein Problem, das der Hinweis gerade nicht meint – überdies waren sie nicht in allen Studien gleich."
+    },
+    {
+      "topic": "Epidemiologie",
+      "hard": true,
+      "question": "Welche Traumatisierung wird als häufigste Ursache einer komplexen PTBS genannt?",
+      "options": [
+        "Ein einmaliger Überfall mit Lebensbedrohung.",
+        "Sexueller Missbrauch in der Kindheit und Jugend.",
+        "Eine kurzdauernde Naturkatastrophe wie ein Brand.",
+        "Das Erleben schwerer Unfälle im Erwachsenenalter.",
+        "Das Miterleben traumatischer Ereignisse als Zeuge."
+      ],
+      "answer": 1,
+      "explanation": "Als häufigste Ursache der komplexen PTBS wird sexueller Missbrauch in der Kindheit mit Fortsetzung in Jugend und Erwachsenenalter genannt – also eine lang andauernde interpersonelle Traumatisierung. Schwere Unfälle und das Zeugesein traumatischer Ereignisse werden ausdrücklich als Kontrast dazu geführt und sind typische Auslöser der klassischen PTBS. Eine kurzdauernde Naturkatastrophe und ein einmaliger Überfall sind Typ-1-Ereignisse und führen daher gerade nicht typisch zum komplexen Bild."
+    },
+    {
+      "topic": "Verlauf und Chronifizierung",
+      "question": "Welche Aussage zum Verlauf der PTBS trifft am ehesten zu?",
+      "options": [
+        "Nahezu alle Betroffenen sind binnen eines Jahres beschwerdefrei.",
+        "Ohne Behandlung bleibt die Symptomatik praktisch immer bestehen.",
+        "Es besteht eine beachtliche Neigung zur Chronifizierung.",
+        "Die Symptomatik klingt bei allen Betroffenen spätestens nach Jahren ab.",
+        "Eine Besserung tritt ausschließlich unter Psychotherapie ein."
+      ],
+      "answer": 2,
+      "explanation": "Das ausdrückliche Fazit zum Verlauf lautet, dass eine beachtliche Chronifizierungsneigung besteht. Dass nahezu alle binnen eines Jahres beschwerdefrei würden, überzeichnet die Spontanremission erheblich. Umgekehrt bessert sich ohne Behandlung durchaus ein relevanter Teil, sodass auch die Gegenaussage nicht zutrifft. Ein vollständiges Abklingen bei allen Betroffenen widerspricht der Beobachtung persistierender Verläufe über viele Jahre. Und Besserungen treten auch ohne Psychotherapie ein, wenngleich seltener."
+    },
+    {
+      "topic": "Verlauf und Chronifizierung",
+      "question": "Was lässt sich zum Verlauf unter Behandlung im Vergleich zum Spontanverlauf sagen?",
+      "options": [
+        "Unter Behandlung werden praktisch alle Betroffenen rasch symptomfrei.",
+        "Auch unter Behandlung wird nur ein Teil rasch symptomfrei.",
+        "Eine Behandlung ist nur bei komplexen Traumatisierungen wirksam.",
+        "Eine Behandlung verändert den Verlauf der PTBS nachweislich nicht.",
+        "Der Spontanverlauf ist günstiger als der Verlauf unter Behandlung."
+      ],
+      "answer": 1,
+      "explanation": "Auch von den Behandelten wird binnen einiger Jahre nur ein Teil symptomfrei – die Behandlung verbessert die Aussichten, garantiert aber keine Remission. Dass praktisch alle rasch symptomfrei würden, überzeichnet den Therapieeffekt deutlich. Wirkungslos ist die Behandlung ebenso wenig, sonst wären die berichteten Remissionsraten nicht unterscheidbar. Ein günstigerer Spontanverlauf widerspricht den Daten. Und eine Beschränkung der Wirksamkeit auf komplexe Traumatisierungen ist nirgends behauptet."
+    },
+    {
+      "topic": "Verlauf und Chronifizierung",
+      "hard": true,
+      "question": "Welcher Faktor spricht am ehesten NICHT für einen ungünstigen Verlauf einer (k)PTBS?",
+      "options": [
+        "Mehrere Traumatisierungen statt eines einzelnen Ereignisses.",
+        "Eine gut ausgeprägte Fähigkeit zur Emotionsregulation.",
+        "Ein junges Lebensalter zum Zeitpunkt der Traumatisierung.",
+        "Eine nur geringe soziale Unterstützung im Umfeld.",
+        "Ein sehr schweres traumatisches Ereignis in der Vorgeschichte."
+      ],
+      "answer": 1,
+      "explanation": "Eine gute Fähigkeit zur Emotionsregulation wirkt schützend; ungünstig ist umgekehrt eine geringe Regulationsfähigkeit – deshalb ist diese Aussage die gesuchte Ausnahme. Ein sehr schweres Trauma, mehrere Traumatisierungen und ein junges Lebensalter sind als aufrechterhaltende Bedingungen ausdrücklich benannt. Und geringe soziale Unterstützung zählt sowohl unter den posttraumatischen Risikofaktoren als auch bei den Verlaufsbedingungen zu den ungünstigen Faktoren."
+    },
+    {
+      "topic": "Verlauf und Chronifizierung",
+      "transfer": true,
+      "question": "Zwei Betroffene: ein Mann nach einem einmaligen Verkehrsunfall, eine Frau nach jahrelanger Misshandlung in der Kindheit. Was ist zur Verlaufsprognose am ehesten zu erwarten?",
+      "options": [
+        "Die Verläufe unterscheiden sich prognostisch nicht wesentlich.",
+        "Der Verlauf nach dem einmaligen Unfall ist der ungünstigere.",
+        "Der Verlauf hängt allein vom Alter bei Erstmanifestation ab.",
+        "Eine Prognose ist ohne Kenntnis der Genvarianten nicht möglich.",
+        "Der Verlauf nach der jahrelangen Misshandlung ist ungünstiger."
+      ],
+      "answer": 4,
+      "explanation": "Das Fazit zum Verlauf lautet: Je komplexer die Traumatisierung, desto ungünstiger der Verlauf – jahrelange Misshandlung in der Kindheit vereint schwere, mehrfache und früh einsetzende Traumatisierung. Der einmalige Unfall ist demgegenüber ein Typ-1-Ereignis mit besserer Prognose. Ein prognostischer Gleichstand widerspricht dem Fazit direkt. Genvarianten sind ein Risikofaktor unter vielen und für eine grobe Verlaufseinschätzung nicht erforderlich. Und das Alter ist einer von mehreren Faktoren, nicht der alleinige."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "question": "Welche Aussage zur Komorbidität bei PTBS trifft NICHT zu?",
+      "options": [
+        "Komorbide Störungen sind bei PTBS eher die Regel als die Ausnahme.",
+        "Auch körperliche Erkrankungen finden sich gehäuft bei PTBS.",
+        "Die Mehrzahl der Betroffenen entwickelt mindestens eine Zusatzdiagnose.",
+        "Eine PTBS schließt weitere psychische Diagnosen weitgehend aus.",
+        "Bei komplexer Traumatisierung ist Komorbidität nahezu durchgängig."
+      ],
+      "answer": 3,
+      "explanation": "Ein Ausschluss weiterer Diagnosen ist das Gegenteil der Befundlage und damit die gesuchte falsche Aussage. Komorbide Störungen sind bei PTBS ausgesprochen häufig und werden bei komplexer Traumatisierung ausdrücklich als die Regel bezeichnet. Neben psychischen finden sich auch körperliche Begleiterkrankungen gehäuft. Und die weit überwiegende Mehrzahl sowohl der Männer als auch der Frauen entwickelt mindestens eine komorbide Störung."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "hard": true,
+      "trap": "Die typischen Komorbiditäten folgen der PTBS meist nach (sekundär) – sie sind in der Regel nicht die vorbestehende Grunderkrankung.",
+      "question": "Was gilt für die häufigsten komorbiden Störungen bei PTBS am ehesten?",
+      "options": [
+        "Sie gehen der PTBS zeitlich in aller Regel deutlich voraus.",
+        "Sie treten meist sekundär, also im Anschluss an die PTBS, auf.",
+        "Sie sind Ausdruck derselben Diagnose und keine eigenen Störungen.",
+        "Sie entwickeln sich nur unter psychopharmakologischer Behandlung.",
+        "Sie treten unabhängig von der PTBS und zufällig gleichzeitig auf."
+      ],
+      "answer": 1,
+      "explanation": "Affektive Störungen, weitere Angststörungen, Substanzmissbrauch, Essstörungen und Somatisierungsstörungen werden übereinstimmend als meist sekundär bezeichnet, entstehen also im Gefolge der PTBS. Ein zeitliches Vorausgehen ist damit gerade nicht der Regelfall. Ein rein zufälliges Zusammentreffen widerspricht der durchgängig hohen Komorbiditätsrate. Es handelt sich um eigenständige Diagnosen und nicht bloß um Facetten derselben Störung. Und die Entstehung ist an keine medikamentöse Behandlung gebunden."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "question": "Welche Störungsgruppe tritt am häufigsten komorbid zur PTBS auf?",
+      "options": [
+        "Somatisierungsstörungen mit wechselnden Beschwerden.",
+        "Persönlichkeitsstörungen des ängstlich-vermeidenden Typs.",
+        "Zwangsstörungen mit ausgeprägten Kontrollhandlungen.",
+        "Affektive Störungen, insbesondere die Depression.",
+        "Schizophrene Störungen des psychotischen Formenkreises."
+      ],
+      "answer": 3,
+      "explanation": "An erster Stelle der komorbiden Störungen stehen die affektiven Störungen, allen voran die Depression – bei ihr wird zusätzlich die chronische Suizidalität hervorgehoben. Störungen aus dem schizophrenen Formenkreis gehören nicht zu den typischen Begleitdiagnosen der klassischen PTBS. Zwangsstörungen und Somatisierungsstörungen kommen vor, rangieren aber hinter den affektiven Störungen. Und unter den Persönlichkeitsstörungen ist die Borderline-Störung die relevante Begleitdiagnose, nicht der ängstlich-vermeidende Typ."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "question": "Welche körperliche Erkrankungsgruppe wird als Komorbidität der PTBS eigens genannt?",
+      "options": [
+        "Endokrine Erkrankungen wie die Schilddrüsenunterfunktion.",
+        "Neurologische Erkrankungen wie Epilepsie und Migräne.",
+        "Herz-Kreislauf- und andere internistische Erkrankungen.",
+        "Dermatologische Erkrankungen wie die Neurodermitis.",
+        "Erkrankungen des Bewegungsapparats und der Gelenke."
+      ],
+      "answer": 2,
+      "explanation": "In der Komorbiditätsübersicht sind neben den psychischen Störungen ausdrücklich Herz-Kreislauf- und andere internistische Erkrankungen aufgeführt. Neurologische Erkrankungen, Erkrankungen des Bewegungsapparats, dermatologische sowie endokrine Erkrankungen werden dort nicht als typische körperliche Begleiterkrankungen der PTBS benannt."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "hard": true,
+      "question": "Welche Aussage zur Komorbidität bei komplexer PTBS trifft NICHT zu?",
+      "options": [
+        "Es finden sich mehr Komorbiditäten als bei klassischer PTBS.",
+        "Komorbide Störungen sind hier seltener als sonst.",
+        "Die Verläufe sind insgesamt pathologischer und multimorbider.",
+        "Auch akute psychotische Dekompensationen sind möglich.",
+        "Schwere Persönlichkeitsstörungen kommen häufig hinzu."
+      ],
+      "answer": 1,
+      "explanation": "Bei der komplexen PTBS ist die Komorbidität gerade ausgeprägter als bei der klassischen Form, sodass die erste Aussage die gesuchte falsche ist. Beschrieben werden mehr Komorbiditäten, pathologischere und multimorbide Verläufe sowie häufig zusätzlich eine schwere Persönlichkeitsstörung, insbesondere die Borderline-Störung. Und im Extremfall werden akute, vorübergehende psychotische Dekompensationen beobachtet."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "question": "Welche Persönlichkeitsstörung findet sich besonders häufig bei komplexer PTBS?",
+      "options": [
+        "Die dissoziale Persönlichkeitsstörung.",
+        "Die schizotype Persönlichkeitsstörung.",
+        "Die zwanghafte Persönlichkeitsstörung.",
+        "Die histrionische Persönlichkeitsstörung.",
+        "Die Borderline-Persönlichkeitsstörung."
+      ],
+      "answer": 4,
+      "explanation": "Als häufige zusätzliche schwere Persönlichkeitsstörung bei komplexer PTBS wird ausdrücklich die Borderline-Persönlichkeitsstörung genannt; sie erscheint auch in der Komorbiditätsübersicht der PTBS. Die zwanghafte, die schizotype, die histrionische und die dissoziale Persönlichkeitsstörung werden in diesem Zusammenhang nicht als typische Begleitdiagnosen aufgeführt."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "transfer": true,
+      "trap": "Kurzdauernde psychotische Zustände kommen bei komplexer Traumatisierung vor und sprechen nicht automatisch für eine schizophrene Erkrankung.",
+      "question": "Eine Patientin mit komplexer PTBS entwickelt in einer Krise über wenige Tage psychotisches Erleben, das anschließend vollständig abklingt. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als akute, vorübergehende psychotische Dekompensation.",
+        "Als Simulation im Rahmen eines Rentenbegehrens.",
+        "Als Ausschlusskriterium gegen die Diagnose einer kPTBS.",
+        "Als sicherer Beleg für eine schizophrene Erkrankung.",
+        "Als Intrusion im Rahmen des Wiedererlebens."
+      ],
+      "answer": 0,
+      "explanation": "Bei komplexer Traumatisierung sind akute und vorübergehende psychotische Dekompensationen ausdrücklich beschrieben – kurzdauernd und rückläufig, wie im Fall geschildert. Ein Ausschlusskriterium gegen die kPTBS ist das gerade nicht, sondern ein bekanntes Begleitphänomen. Ein sicherer Beleg für eine Schizophrenie wäre es nur bei entsprechend anhaltender Symptomatik. Eine Intrusion wäre ein sinnlich-lebendiges Wiedererleben des Traumas, nicht ein eigenständiges psychotisches Zustandsbild. Und eine Simulation zu unterstellen entbehrt jeder Grundlage im geschilderten Verlauf."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "transfer": true,
+      "question": "Ein Patient beginnt zwei Jahre nach dem Trauma, abends regelmäßig Alkohol zur Beruhigung zu trinken. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als eigenständige Diagnose, welche die PTBS ausschließt.",
+        "Als Vermeidungskriterium im Sinne der PTBS-Diagnostik.",
+        "Als sekundäre Suchtproblematik im Gefolge der PTBS.",
+        "Als angemessene Selbstbehandlung ohne Störungswert.",
+        "Als primäre Abhängigkeitserkrankung ohne Traumabezug."
+      ],
+      "answer": 2,
+      "explanation": "Substanzmissbrauch gehört zu den häufigen komorbiden Störungen und tritt meist sekundär auf, also im Anschluss an die PTBS – genau dieses zeitliche Muster beschreibt der Fall. Eine primäre, traumaunabhängige Abhängigkeit widerspricht dem geschilderten Zusammenhang. Vermeidung meint das aktive Meiden von Erinnerungsauslösern und nicht die Substanzeinnahme als solche. Eine zusätzliche Suchtdiagnose schließt die PTBS keineswegs aus, sondern tritt neben sie. Und als unproblematische Selbstbehandlung ist regelmäßiger Alkoholkonsum zur Affektdämpfung nicht zu werten."
+    },
+    {
+      "topic": "Komorbidität und Differenzialdiagnostik",
+      "question": "Welche Aussage zur depressiven Komorbidität bei PTBS trifft am ehesten zu?",
+      "options": [
+        "Sie betrifft ausschließlich Betroffene mit Typ-1-Trauma.",
+        "Sie geht der PTBS zeitlich in aller Regel voraus.",
+        "Sie tritt seltener auf als die übrigen Komorbiditäten.",
+        "Sie schließt die zusätzliche Diagnose einer PTBS aus.",
+        "Sie kann mit chronischer Suizidalität einhergehen."
+      ],
+      "answer": 4,
+      "explanation": "In der Komorbiditätsübersicht wird bei der Depression eigens die chronische Suizidalität hervorgehoben. Ein zeitliches Vorausgehen ist nicht der Regelfall, da die affektiven Störungen überwiegend sekundär entstehen. Eine depressive Störung schließt die PTBS nicht aus, sondern begleitet sie besonders häufig. Sie ist zudem die häufigste und nicht die seltenste Komorbidität. Und eine Beschränkung auf Typ-1-Traumen besteht nicht – bei komplexer Traumatisierung ist Komorbidität sogar die Regel."
+    }
+  ]
+}

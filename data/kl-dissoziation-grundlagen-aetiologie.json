@@ -1,0 +1,420 @@
+{
+  "id": "kl-dissoziation-grundlagen-aetiologie",
+  "title": "Dissoziation: Grundlagen, Störungsbilder & Ätiologie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Exkurs Dissoziation im Altklausur-Stil: Definition und Begriffsbestimmung, nicht pathologische Alltagsphänomene, die dissoziativen Störungsbilder, Erkrankungsbeginn und Verlauf, Vulnerabilitäts-Stress-Ätiologie, Neurobiologie prodissoziativer Substanzen sowie der Traumabezug der Dissoziation.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Definition und Begriffsbestimmung",
+      "question": "Wie wird Dissoziation im engeren Sinne definiert?",
+      "options": [
+        "Als anhaltende Veränderung der Persönlichkeit nach Belastung.",
+        "Als Prozess der Desintegration und Fragmentierung des Erlebens.",
+        "Als vollständiger Verlust der Realitätsprüfung mit Wahnbildung.",
+        "Als organisch bedingte Störung der Bewusstseinshelligkeit.",
+        "Als bewusste Abwehrleistung gegen unangenehme Erinnerungen."
+      ],
+      "answer": 1,
+      "explanation": "Dissoziation wird als komplexer psychophysiologischer Prozess der Desintegration und Fragmentierung definiert, der Bewusstsein, Gedächtnis, Identität sowie die Wahrnehmung von sich selbst und der Umwelt betrifft. Ein Verlust der Realitätsprüfung mit Wahnbildung beschreibt psychotisches Erleben und nicht die Dissoziation. Eine überdauernde Persönlichkeitsänderung nach Extrembelastung ist eine eigenständige Diagnose. Eine bewusste Abwehr trifft es nicht, da der Prozess gerade nicht willentlich gesteuert wird. Und eine organisch bedingte Bewusstseinstrübung wäre eine körperlich begründbare Störung, keine Dissoziation."
+    },
+    {
+      "topic": "Definition und Begriffsbestimmung",
+      "question": "Welcher Bereich zählt am ehesten NICHT zu den von Dissoziation betroffenen Funktionen?",
+      "options": [
+        "Die Identität als Erleben der eigenen Person.",
+        "Das Gedächtnis mit seinen zusammenhängenden Inhalten.",
+        "Die Wahrnehmung von sich selbst und der Umwelt.",
+        "Die Feinmotorik und die Koordination der Bewegungsabläufe.",
+        "Das Bewusstsein als Grundlage des einheitlichen Erlebens."
+      ],
+      "answer": 3,
+      "explanation": "Die Definition nennt ausdrücklich Bewusstsein, Gedächtnis, Identität sowie die Wahrnehmung von sich selbst und der Umwelt – die Feinmotorik gehört nicht zu dieser Aufzählung und ist damit die gesuchte Ausnahme. Bewusstsein und Gedächtnis stehen an erster Stelle der Definition. Die Identität ist der dritte genannte Bereich. Und die Selbst- und Umweltwahrnehmung bildet den vierten Bereich."
+    },
+    {
+      "topic": "Definition und Begriffsbestimmung",
+      "hard": true,
+      "question": "Welche Aussage zum Krankheitswert der Dissoziation trifft am ehesten zu?",
+      "options": [
+        "Sie zeigt sich erst ab dem frühen Erwachsenenalter.",
+        "Sie ist kein grundsätzlich pathologischer Prozess.",
+        "Sie tritt ausschließlich nach schweren Traumatisierungen auf.",
+        "Sie ist beim Menschen ohne Entsprechung im Tierreich.",
+        "Sie ist stets Ausdruck einer behandlungsbedürftigen Störung."
+      ],
+      "answer": 1,
+      "explanation": "Dissoziation gilt ausdrücklich nicht als grundsätzlich pathologischer Prozess, sondern als allgemein menschliche Verarbeitungsmöglichkeit. Behandlungsbedürftig ist sie deshalb nicht in jedem Fall. Sie tritt auch ohne Traumatisierung auf, etwa als Tagträumen oder Gedankenabschweifen im Alltag. Als tierische Entsprechung wird der Totstellreflex genannt, sodass eine Sonderstellung des Menschen nicht besteht. Und die Dissoziationsfähigkeit ist gerade bei Kindern besonders ausgeprägt und nimmt mit dem Alter ab."
+    },
+    {
+      "topic": "Definition und Begriffsbestimmung",
+      "question": "Welche Aussage zur Dissoziationsfähigkeit über die Lebensspanne trifft NICHT zu?",
+      "options": [
+        "Sie ist bei Frauen und Männern ähnlich ausgeprägt.",
+        "Sie ist im Kindesalter besonders stark ausgeprägt.",
+        "Sie nimmt mit zunehmendem Lebensalter deutlich zu.",
+        "Sie lässt mit zunehmendem Alter erkennbar nach.",
+        "Sie gilt als teils anlage-, teils umweltbedingter Trait."
+      ],
+      "answer": 2,
+      "explanation": "Die Dissoziationsfähigkeit ist bei Kindern besonders ausgeprägt und lässt mit zunehmendem Alter nach – eine Zunahme mit dem Alter kehrt diesen Verlauf um und ist damit die gesuchte falsche Aussage. Die ausgeprägte Fähigkeit im Kindesalter und ihr Nachlassen im Verlauf treffen beide zu. Sie wird als teils anlagebedingter (Vulnerabilität) und teils umweltbedingter (Stress) Trait beschrieben. Und grundlegende geschlechtsspezifische Unterschiede sind für die Dissoziationsfähigkeit nicht nachweisbar."
+    },
+    {
+      "topic": "Definition und Begriffsbestimmung",
+      "hard": true,
+      "trap": "Für die Dissoziationsfähigkeit als Trait sind keine wesentlichen Geschlechtsunterschiede belegt – bei den dissoziativen Störungen sind Frauen dagegen deutlich häufiger betroffen.",
+      "question": "Welche Aussage zu Geschlechtsunterschieden im Bereich der Dissoziation trifft am ehesten zu?",
+      "options": [
+        "Für die Dissoziationsfähigkeit ist ein klarer Vorsprung der Männer belegt.",
+        "Für die Dissoziationsfähigkeit sind keine wesentlichen Unterschiede belegt.",
+        "Zu beiden Fragen liegen bislang überhaupt keine Untersuchungen vor.",
+        "Männer sind von dissoziativen Störungen deutlich häufiger betroffen.",
+        "Frauen und Männer sind von dissoziativen Störungen gleich häufig betroffen."
+      ],
+      "answer": 1,
+      "explanation": "Für die Dissoziationsfähigkeit als anlage- und umweltbedingter Trait sind ausdrücklich keine grundlegenden geschlechtsspezifischen Unterschiede nachweisbar. Ein Vorsprung der Männer ist damit ebenso wenig belegt. Bei den dissoziativen Störungen liegt dagegen sehr wohl ein deutliches Übergewicht vor – und zwar bei den Frauen, nicht bei den Männern, sodass sowohl die Gleichverteilung als auch das männliche Übergewicht unzutreffend sind. Und Untersuchungen liegen zu beiden Fragen vor."
+    },
+    {
+      "topic": "Dissoziative Phänomene im Alltag",
+      "transfer": true,
+      "question": "Eine Studentin merkt in einer langweiligen Vorlesung, dass sie zwanzig Minuten lang gedanklich abgeschweift ist und vom Stoff nichts erinnert. Wie ist das am ehesten zu bewerten?",
+      "options": [
+        "Als nicht pathologisches dissoziatives Alltagsphänomen.",
+        "Als Hinweis auf eine dissoziative Identitätsstörung.",
+        "Als dissoziative Amnesie mit umschriebenem Erinnerungsverlust.",
+        "Als beginnender dissoziativer Stupor mit Reaktionsverlust.",
+        "Als Depersonalisation mit verändertem Selbsterleben."
+      ],
+      "answer": 0,
+      "explanation": "Gedankenabschweifen bei Desinteresse und die daraus folgende Erinnerungslücke werden ausdrücklich als nicht pathologische dissoziative Alltagsphänomene aufgeführt – neben dem Tagträumen. Eine dissoziative Amnesie meint einen klinisch bedeutsamen Erinnerungsverlust, typischerweise für belastende Inhalte, und nicht das schlichte Nicht-Enkodieren aus Desinteresse. Ein dissoziativer Stupor geht mit einem Verlust willkürlicher Bewegung und Reaktion einher. Depersonalisation bezeichnet ein verändertes Erleben der eigenen Person. Und eine Identitätsstörung setzt abgespaltene Persönlichkeitsanteile voraus."
+    },
+    {
+      "topic": "Dissoziative Phänomene im Alltag",
+      "question": "Welches Phänomen wird als nicht pathologische dissoziative Erscheinung im Alltag genannt?",
+      "options": [
+        "Das Tagträumen mit vorübergehender Abwendung von der Umwelt.",
+        "Die dissoziative Fugue mit unerwartetem Ortswechsel.",
+        "Der dissoziative Krampfanfall ohne epilepsietypisches Korrelat.",
+        "Der Trance- und Besessenheitszustand im kulturellen Rahmen.",
+        "Die dissoziative Bewegungsstörung mit Lähmungserscheinungen."
+      ],
+      "answer": 0,
+      "explanation": "Als nicht pathologische Alltagsphänomene werden Tagträume, Gedankenabschweifen und die daraus resultierenden Amnesien genannt. Der dissoziative Krampfanfall, die Fugue, Trance- und Besessenheitszustände sowie die dissoziativen Bewegungsstörungen sind demgegenüber eigenständige dissoziative Störungsbilder mit Krankheitswert und keine Alltagserscheinungen."
+    },
+    {
+      "topic": "Dissoziative Phänomene im Alltag",
+      "transfer": true,
+      "question": "Ein Mann fährt eine ihm gut bekannte Strecke mit dem Auto und stellt am Ziel fest, dass er sich an die letzten Kilometer nicht erinnert. Sonst ist er unauffällig. Wie ist das am ehesten zu bewerten?",
+      "options": [
+        "Als organisch bedingte Bewusstseinsstörung am Steuer.",
+        "Als dissoziative Fugue mit ungeplantem Ortswechsel und Amnesie.",
+        "Als beginnende Depersonalisation mit Selbstentfremdung.",
+        "Als alltägliches dissoziatives Phänomen ohne Störungswert.",
+        "Als dissoziative Amnesie mit klinischer Bedeutsamkeit."
+      ],
+      "answer": 3,
+      "explanation": "Gedankenabschweifen bei Routinetätigkeiten und die daraus resultierende Amnesie zählen ausdrücklich zu den nicht pathologischen dissoziativen Alltagsphänomenen – Dissoziation ist kein grundsätzlich krankhafter Prozess. Eine Fugue verlangt einen unerwarteten, ungeplanten Ortswechsel; die Fahrt verlief hier auf der beabsichtigten Strecke. Eine dissoziative Amnesie setzt einen klinisch bedeutsamen Erinnerungsverlust voraus, meist für belastende Inhalte. Depersonalisation wäre ein verändertes Erleben der eigenen Person, das nicht berichtet wird. Und eine organische Bewusstseinsstörung ist ohne weitere Auffälligkeiten nicht anzunehmen."
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "question": "Welches Störungsbild zählt am ehesten NICHT zur Gruppe der dissoziativen Störungen?",
+      "options": [
+        "Die dissoziative Amnesie mit umschriebenem Gedächtnisverlust.",
+        "Der dissoziative Stupor mit aufgehobener Reaktion.",
+        "Die dissoziative Fugue mit ungeplantem Ortswechsel.",
+        "Die Depersonalisations- und Derealisationsstörung.",
+        "Die dissoziative Sensibilitäts- und Empfindungsstörung."
+      ],
+      "answer": 3,
+      "explanation": "Die Depersonalisations- und Derealisationsstörung ist in der Systematik nicht bei den dissoziativen Störungen eingeordnet, sondern bei den sonstigen neurotischen Störungen – trotz ihrer inhaltlichen Nähe. Dissoziative Amnesie, Fugue und Stupor bilden gemeinsam mit Trance- und Besessenheitszuständen den Kern der Gruppe. Und die dissoziativen Sensibilitäts- und Empfindungsstörungen gehören ebenso dazu wie die Bewegungsstörungen und Krampfanfälle."
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "hard": true,
+      "trap": "Derealisation meint die veränderte Wahrnehmung der Umwelt, Depersonalisation die veränderte Wahrnehmung der eigenen Person.",
+      "question": "Eine Patientin schildert, ihre Wohnung wirke seit Wochen „wie eine Kulisse, irgendwie unecht“; sich selbst erlebe sie unverändert. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als wahnhafte Umdeutung der häuslichen Umgebung.",
+        "Als Derealisation mit verändertem Umwelterleben.",
+        "Als optische Halluzination im dissoziativen Kontext.",
+        "Als Depersonalisation mit verändertem Selbsterleben.",
+        "Als dissoziative Amnesie für die häusliche Umgebung."
+      ],
+      "answer": 1,
+      "explanation": "Die Umgebung wird als fremd und unwirklich erlebt, während das Selbsterleben unverändert bleibt – das ist die Derealisation. Depersonalisation wäre die spiegelbildliche Variante, bei der die eigene Person fremd erscheint; sie ist hier ausdrücklich ausgeschlossen. Eine Amnesie betrifft das Erinnern, nicht die aktuelle Wahrnehmungsqualität. Eine wahnhafte Umdeutung läge nur vor, wenn die Patientin die Unechtheit für tatsächlich gegeben hielte statt sie als verändertes Erleben zu beschreiben. Und eine Halluzination wäre eine Wahrnehmung ohne entsprechenden Reiz, nicht eine veränderte Qualität des tatsächlich Wahrgenommenen.",
+      "transfer": true
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "question": "Welche Störung wird der Gruppe der dissoziativen Störungen ausdrücklich mit dem Zusatz „Konversion“ zugeordnet?",
+      "options": [
+        "Die Trance- und Besessenheitszustände im kulturellen Rahmen.",
+        "Die Depersonalisations- und Derealisationsstörung.",
+        "Die dissoziative Identitätsstörung mit Persönlichkeitsanteilen.",
+        "Die dissoziative Amnesie mit Gedächtnisverlust.",
+        "Die dissoziativen Bewegungs- und Empfindungsstörungen."
+      ],
+      "answer": 4,
+      "explanation": "Der Konversionsbegriff wird bei den dissoziativen Störungen den körpernahen Formen zugeordnet, also den Bewegungsstörungen, Krampfanfällen sowie Sensibilitäts- und Empfindungsstörungen. Die Depersonalisations- und Derealisationsstörung steht außerhalb der dissoziativen Gruppe. Die dissoziative Amnesie betrifft das Gedächtnis und nicht die körperliche Funktion. Die Identitätsstörung wird als Restkategorie geführt. Und Trance- und Besessenheitszustände bilden eine eigene Kategorie ohne Konversionszusatz."
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "hard": true,
+      "question": "Warum treten die Restkategorien der dissoziativen Störungen im klinischen Alltag vermutlich häufiger auf als sie diagnostiziert werden?",
+      "options": [
+        "Weil dissoziatives Erleben als unzureichend konzeptualisiert gilt.",
+        "Weil die Restkategorien erst seit Kurzem überhaupt vorgesehen sind.",
+        "Weil dissoziatives Erleben nur mit Bildgebung erfassbar ist.",
+        "Weil Betroffene die entsprechenden Beschwerden fast nie berichten.",
+        "Weil die Restkategorien für die Abrechnung nicht zugelassen sind."
+      ],
+      "answer": 0,
+      "explanation": "Als Grund wird ausdrücklich genannt, dass dissoziatives Erleben insgesamt unzureichend konzeptualisiert ist – die vorhandenen Kategorien bilden das klinische Bild deshalb nur unvollständig ab. Abrechnungsfragen werden nicht als Ursache angeführt. Dass Betroffene entsprechende Beschwerden nie berichteten, widerspricht dem Beispiel des berichteten Stimmenhörens. Die Restkategorien sind seit Langem Teil der Systematik. Und eine apparative Erfassbarkeit wird nirgends zur Bedingung gemacht."
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "transfer": true,
+      "trap": "Stimmenhören bei Borderline- und PTBS-Betroffenen kann ein dissoziatives Phänomen sein – abgespaltene Gedanken, die als Stimmen wahrgenommen werden – und ist dann weder Intrusion noch psychotisches Erleben.",
+      "question": "Eine Patientin mit Borderline-Störung hört zeitweise eine kommentierende Stimme, die weder Traumainhalte wiedergibt noch mit weiteren psychotischen Symptomen einhergeht. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als Ausdruck einer beginnenden dissoziativen Fugue.",
+        "Als dissoziatives Phänomen abgespaltener Gedanken.",
+        "Als sicheres Zeichen einer schizophrenen Erkrankung.",
+        "Als körperlich begründbare Wahrnehmungsstörung.",
+        "Als Intrusion im Sinne des traumatischen Wiedererlebens."
+      ],
+      "answer": 1,
+      "explanation": "Stimmenhören bei Betroffenen mit Borderline-Störung oder PTBS, das weder intrusivem noch psychotischem Erleben entspricht, gilt als häufiges dissoziatives Phänomen: Abgespaltene, also dissoziierte Gedanken werden als Stimmen wahrgenommen. Ein sicheres Schizophreniezeichen ist es gerade deshalb nicht. Eine Intrusion würde Traumainhalte wiedergeben, was hier ausdrücklich nicht der Fall ist. Eine Fugue ist durch unerwarteten Ortswechsel mit Amnesie gekennzeichnet. Und eine körperliche Ursache ist im geschilderten Zusammenhang nicht angezeigt."
+    },
+    {
+      "topic": "Dissoziative Störungsbilder",
+      "question": "Welches Störungsbild wird ausdrücklich als Restkategorie der dissoziativen Störungen geführt?",
+      "options": [
+        "Die dissoziative Fugue mit ungeplantem Ortswechsel.",
+        "Die dissoziative Amnesie mit umschriebenem Gedächtnisverlust.",
+        "Der dissoziative Stupor mit aufgehobener Willkürmotorik.",
+        "Der dissoziative Krampfanfall ohne epileptisches Korrelat.",
+        "Die multiple Persönlichkeit beziehungsweise Identitätsstörung."
+      ],
+      "answer": 4,
+      "explanation": "Die multiple Persönlichkeit, heute als dissoziative Identitätsstörung bezeichnet, ist in der Systematik unter den sonstigen dissoziativen Störungen und damit als Restkategorie geführt. Amnesie, Stupor, Fugue und Krampfanfall sind demgegenüber eigenständig benannte Kategorien der Gruppe."
+    },
+    {
+      "topic": "Erkrankungsbeginn und Verlauf",
+      "question": "In welchem Lebensabschnitt beginnen dissoziative Erkrankungen typischerweise?",
+      "options": [
+        "Zwischen dem späten Jugend- und dem frühen Erwachsenenalter.",
+        "Ohne erkennbare Häufung gleichmäßig über die Lebensspanne.",
+        "Regelmäßig bereits im frühen Kindergartenalter vor der Einschulung.",
+        "Erst im mittleren Erwachsenenalter nach beruflicher Etablierung.",
+        "Überwiegend im höheren Lebensalter nach dem Berufsaustritt."
+      ],
+      "answer": 0,
+      "explanation": "Der Erkrankungsbeginn liegt bei der großen Mehrzahl zwischen dem späten Jugend- und dem frühen Erwachsenenalter. Ein regelhafter Beginn im Kindergartenalter widerspricht dieser Häufung, auch wenn die Dissoziationsfähigkeit bei Kindern ausgeprägt ist. Ein Beginn erst im mittleren oder höheren Erwachsenenalter liegt außerhalb des berichteten Zeitfensters. Und eine Gleichverteilung über die Lebensspanne ist mit der beschriebenen Häufung nicht vereinbar."
+    },
+    {
+      "topic": "Erkrankungsbeginn und Verlauf",
+      "question": "Welche Aussage zum Verlauf dissoziativer Phänomene trifft NICHT zu?",
+      "options": [
+        "Die Diagnose erfolgt meist nach langer psychiatrischer Vorgeschichte.",
+        "Dissoziative Phänomene können auch chronisch persistieren.",
+        "Dissoziation setzt stets schlagartig ein und bildet sich rasch zurück.",
+        "Dissoziative Phänomene können vorübergehend bestehen bleiben.",
+        "Dissoziation kann plötzlich, aber auch schleichend auftreten."
+      ],
+      "answer": 2,
+      "explanation": "Der Beginn kann ausdrücklich sowohl plötzlich als auch schleichend sein, und die Symptomatik kann vorübergehend bleiben oder chronisch persistieren – ein stets schlagartiger Beginn mit rascher Rückbildung ist deshalb die gesuchte falsche Aussage. Die beiden Verlaufsvarianten und die beiden Dauervarianten treffen sämtlich zu. Und dass die Diagnose meist erst nach langer psychiatrischer Vorgeschichte gestellt wird, ist ausdrücklich beschrieben."
+    },
+    {
+      "topic": "Erkrankungsbeginn und Verlauf",
+      "transfer": true,
+      "question": "Eine Patientin hat seit über zehn Jahren wechselnde psychiatrische Diagnosen; erst jetzt wird eine dissoziative Störung erkannt. Wie ist dieser Verlauf einzuordnen?",
+      "options": [
+        "Als Ausdruck einer besonders leichten Ausprägung der Störung.",
+        "Als Hinweis darauf, dass die Diagnose vermutlich unzutreffend ist.",
+        "Als untypisch, da dissoziative Störungen früh erkannt werden.",
+        "Als typisch, da die Diagnose meist spät gestellt wird.",
+        "Als Beleg dafür, dass die Störung erst kürzlich entstanden ist."
+      ],
+      "answer": 3,
+      "explanation": "Dass die Diagnosestellung meist erst nach langer psychiatrischer Vorgeschichte erfolgt, ist ausdrücklich als Regelfall beschrieben – der Verlauf ist also typisch. Eine frühe Erkennung ist gerade nicht die Regel. Die späte Diagnose spricht weder gegen ihre Richtigkeit noch für eine erst kürzliche Entstehung, da der Erkrankungsbeginn typischerweise viel früher liegt. Und ein Rückschluss auf eine leichte Ausprägung ist nicht zulässig, da die verzögerte Erkennung an der unzureichenden Konzeptualisierung liegt."
+    },
+    {
+      "topic": "Ätiologie: Vulnerabilität und Stress",
+      "hard": true,
+      "question": "Welcher Faktor zählt in der Vulnerabilitäts-Stress-Dynamik am ehesten NICHT zu den Traits?",
+      "options": [
+        "Vorbestehende dissoziative Erfahrungen in der Biografie.",
+        "Eine ausgeprägte Suggestibilität und mentale Absorption.",
+        "Defizite im Arbeitsgedächtnis als kognitives Merkmal.",
+        "Eine Alexithymie mit erschwertem Zugang zu eigenen Gefühlen.",
+        "Ein deutlicher Schlafmangel in den Tagen vor der Symptomatik."
+      ],
+      "answer": 4,
+      "explanation": "Schlafmangel gehört zu den akuten Stressoren, also den States, und nicht zur überdauernden Vulnerabilität – neben schlechter Schlafqualität, geringer Trinkmenge und insgesamt schlechtem körperlichem Allgemeinzustand. Suggestibilität, mentale Absorption und starke Fantasieneigung sind dagegen ausdrücklich Trait-Merkmale. Ebenso zählen Alexithymie, Defizite im Arbeitsgedächtnis und vorbestehende dissoziative Erfahrungen zur Vulnerabilitätsseite."
+    },
+    {
+      "topic": "Ätiologie: Vulnerabilität und Stress",
+      "transfer": true,
+      "question": "Ein Patient mit bekannter dissoziativer Neigung berichtet, die Symptome hätten sich nach mehreren durchwachten Nächten und kaum Flüssigkeitsaufnahme akut verstärkt. Wie ist das einzuordnen?",
+      "options": [
+        "Als Ausdruck einer eigenständigen körperlichen Erkrankung.",
+        "Als neurobiologisch-genetische Komponente der Störung.",
+        "Als psychosozialer Faktor im Sinne früher Vernachlässigung.",
+        "Als Trait-Merkmale, die die Vulnerabilität dauerhaft erhöhen.",
+        "Als akute Stressoren, die eine Manifestation begünstigen."
+      ],
+      "answer": 4,
+      "explanation": "Schlafmangel, schlechte Schlafqualität und geringe Trinkmenge werden ausdrücklich als akute Stressoren geführt, bei denen sich dissoziative Symptome häufig akut manifestieren – oft bei insgesamt schlechtem körperlichem Allgemeinzustand. Traits sind demgegenüber überdauernde Merkmale wie Suggestibilität oder Alexithymie. Eine genetische Komponente betrifft die Anlage und nicht die aktuelle Auslösesituation. Psychosoziale Faktoren meinen hier Gewalt, Vernachlässigung und emotionalen Missbrauch. Und eine eigenständige körperliche Erkrankung ist nicht geschildert."
+    },
+    {
+      "topic": "Ätiologie: Vulnerabilität und Stress",
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den psychosozialen Vulnerabilitätsfaktoren der Dissoziation?",
+      "options": [
+        "Sexualisierte Gewalt in der Kindheit und Jugend.",
+        "Frühe Erfahrungen von Gewalt im nahen Umfeld.",
+        "Das Bildungsniveau der Herkunftsfamilie.",
+        "Vernachlässigung durch die primären Bezugspersonen.",
+        "Emotionaler Missbrauch im familiären Umfeld."
+      ],
+      "answer": 2,
+      "explanation": "Als psychosoziale Vulnerabilitätsfaktoren werden ausdrücklich sexualisierte Gewalt, Vernachlässigung und emotionaler Missbrauch genannt; das Bildungsniveau der Herkunftsfamilie gehört nicht dazu und ist damit die gesuchte Ausnahme. Sexualisierte Gewalt steht an erster Stelle dieser Aufzählung. Vernachlässigung durch die Bezugspersonen ist der zweite genannte Faktor. Emotionaler Missbrauch bildet den dritten. Und frühe Gewalterfahrungen im Nahbereich decken sich mit den bei der Identitätsstörung nachgewiesenen körperlichen Misshandlungen."
+    },
+    {
+      "topic": "Ätiologie: Vulnerabilität und Stress",
+      "question": "Wie ist das ätiologische Modell der Dissoziation insgesamt charakterisiert?",
+      "options": [
+        "Als komplexes multifaktorielles Geschehen mit Traits und States.",
+        "Als rein genetisch determiniertes und kaum beeinflussbares Geschehen.",
+        "Als eindeutig monokausale Folge frühkindlicher Traumatisierung.",
+        "Als ausschließlich durch aktuelle Belastungen erklärbares Geschehen.",
+        "Als bislang völlig unerforschtes Gebiet ohne belastbare Modelle."
+      ],
+      "answer": 0,
+      "explanation": "Das Modell wird ausdrücklich als komplexes multifaktorielles Geschehen beschrieben, das überdauernde Vulnerabilitätsmerkmale und akute Stressoren zusammenführt. Eine monokausale Ableitung aus frühkindlicher Traumatisierung greift zu kurz, zumal bei einzelnen Formen der Traumabezug schwach ist. Eine rein genetische Determination widerspricht dem Gewicht psychosozialer und akuter Faktoren. Eine Erklärung allein aus aktuellen Belastungen ließe die Trait-Seite außer Acht. Und belastbare Modelle liegen sehr wohl vor."
+    },
+    {
+      "topic": "Neurobiologie der Dissoziation",
+      "hard": true,
+      "question": "Woraus werden die neurobiologischen Hypothesen zur Dissoziation vor allem abgeleitet?",
+      "options": [
+        "Aus Tiermodellen zum Totstellreflex unter Laborbedingungen.",
+        "Aus bildgebenden Befunden zur Hippocampusgröße bei Betroffenen.",
+        "Aus den Wirkmechanismen prodissoziativer Substanzen.",
+        "Aus Zwillingsstudien zur Erblichkeit dissoziativer Merkmale.",
+        "Aus elektrophysiologischen Messungen während dissoziativer Zustände."
+      ],
+      "answer": 2,
+      "explanation": "Die Hypothesenbildung erfolgt ausdrücklich über die Wirkmechanismen von Substanzen, die dissoziative Zustände auslösen – daraus wird auf die beteiligten Transmittersysteme geschlossen. Bildgebende Befunde zur Hippocampusgröße, Zwillingsstudien, Tiermodelle und elektrophysiologische Messungen werden als Grundlage dieser Ableitung nicht angeführt, auch wenn eine genetische Komponente an anderer Stelle erwähnt wird."
+    },
+    {
+      "topic": "Neurobiologie der Dissoziation",
+      "question": "Welches Transmittersystem ist über Ketamin als prodissoziative Substanz angesprochen?",
+      "options": [
+        "Das serotonerge System über eine Hemmung der Wiederaufnahme.",
+        "Das noradrenerge System über eine Blockade der Alpha-Rezeptoren.",
+        "Das cholinerge System über eine Hemmung der Acetylcholinesterase.",
+        "Das dopaminerge System über eine Blockade des D2-Rezeptors.",
+        "Das glutamaterge System über eine Blockade des NMDA-Rezeptors."
+      ],
+      "answer": 4,
+      "explanation": "Ketamin wirkt als Glutamat- beziehungsweise NMDA-Antagonist und steht damit für die glutamaterge Hypothese der Dissoziation. Eine D2-Blockade kennzeichnet die Antipsychotika und nicht Ketamin. Die Wiederaufnahmehemmung am serotonergen System betrifft die Antidepressiva; serotonerg wirken bei der Dissoziation die Halluzinogene. Cholinerge Wirkmechanismen werden in diesem Zusammenhang nicht genannt. Und eine Alpha-Blockade betrifft ein anderes Wirkprinzip."
+    },
+    {
+      "topic": "Neurobiologie der Dissoziation",
+      "hard": true,
+      "trap": "Naltrexon ist ein Opiat-Antagonist und wirkt antidissoziativ – genau umgekehrt zu den prodissoziativen Substanzen.",
+      "question": "Welche Aussage zu den bei der Dissoziation genannten Substanzen trifft NICHT zu?",
+      "options": [
+        "Cannabinoide werden zu den prodissoziativen Substanzen gerechnet.",
+        "Naltrexon zählt zu den prodissoziativ wirkenden Substanzen.",
+        "Opiate werden im Zusammenhang mit Dissoziation angeführt.",
+        "Serotonerge Halluzinogene wirken prodissoziativ.",
+        "Ketamin wirkt über eine Blockade glutamaterger Rezeptoren."
+      ],
+      "answer": 1,
+      "explanation": "Naltrexon ist ein Opiat-Antagonist und wirkt gerade antidissoziativ – genau daraus wird auf eine Beteiligung des Opiatsystems geschlossen. Die Aussage kehrt die Wirkrichtung um und ist damit die gesuchte falsche. Cannabinoide und serotonerge Halluzinogene werden ausdrücklich als prodissoziativ geführt. Ketamin wirkt als Glutamat- beziehungsweise NMDA-Antagonist. Und Opiate erscheinen in der Aufstellung, allerdings über den antidissoziativen Effekt ihres Gegenspielers."
+    },
+    {
+      "topic": "Neurobiologie der Dissoziation",
+      "question": "Wie ist die Rolle der HPA-Stressachse für die Dissoziation einzuschätzen?",
+      "options": [
+        "Sie ist als Erklärungsansatz inzwischen vollständig verworfen worden.",
+        "Sie gilt als gesichert und wird als zentraler Mechanismus angesehen.",
+        "Sie wird wegen widersprüchlicher Befunde kontrovers diskutiert.",
+        "Sie wurde bislang im Zusammenhang mit Dissoziation nie untersucht.",
+        "Sie erklärt die Dissoziation vollständig über den Kortisolspiegel."
+      ],
+      "answer": 2,
+      "explanation": "Die Rolle der HPA-Stressachse wird ausdrücklich kontrovers diskutiert, weil die Befunde zu Kortisol und Adrenalin einander widersprechen. Als gesicherter zentraler Mechanismus gilt sie deshalb nicht. Vollständig verworfen ist sie ebenso wenig, sonst würde sie nicht weiter diskutiert. Untersuchungen liegen sehr wohl vor – gerade ihre widersprüchlichen Ergebnisse sind der Anlass der Kontroverse. Und eine vollständige Erklärung über den Kortisolspiegel wäre mit dieser Befundlage unvereinbar."
+    },
+    {
+      "topic": "Dissoziation und Trauma",
+      "question": "Welche Aussage zum Traumabezug der dissoziativen Identitätsstörung trifft am ehesten zu?",
+      "options": [
+        "Ein Traumabezug lässt sich bei etwa der Hälfte der Betroffenen nachweisen.",
+        "Der Traumabezug ist bei dieser Störung noch nie untersucht worden.",
+        "Bei nahezu allen Betroffenen lassen sich schwere Kindheitstraumata nachweisen.",
+        "Ein Traumabezug ist bei dieser Störung praktisch nie nachzuweisen.",
+        "Der Traumabezug beschränkt sich auf einmalige Ereignisse im Erwachsenenalter."
+      ],
+      "answer": 2,
+      "explanation": "Bei der dissoziativen Identitätsstörung lassen sich bei der weit überwiegenden Mehrheit lang andauernde schwere frühkindliche Traumatisierungen in Form sexueller, körperlicher und emotionaler Misshandlungen nachweisen. Ein Nachweis bei nur etwa der Hälfte unterschätzt diesen Zusammenhang deutlich, und ein praktisch fehlender Traumabezug widerspricht ihm völlig. Charakteristisch sind gerade lang andauernde frühkindliche und nicht einmalige Ereignisse im Erwachsenenalter. Und entsprechende Untersuchungen liegen vor."
+    },
+    {
+      "topic": "Dissoziation und Trauma",
+      "hard": true,
+      "trap": "Der starke Traumabezug gilt für die dissoziative Identitätsstörung – bei Depersonalisation und Konversion ist er ausdrücklich schwächer.",
+      "question": "Bei welchen dissoziativen Phänomenen spielt eine Traumatisierung ausdrücklich eine eher geringe Rolle?",
+      "options": [
+        "Bei sämtlichen dissoziativen Störungsbildern gleichermaßen.",
+        "Bei der dissoziativen Amnesie und beim Stupor.",
+        "Bei Trance- und Besessenheitszuständen im engeren Sinne.",
+        "Bei der Depersonalisation und bei der Konversion.",
+        "Bei der dissoziativen Identitätsstörung und der Fugue."
+      ],
+      "answer": 3,
+      "explanation": "Der ausdrückliche Warnhinweis lautet, dass Traumatisierung bei Depersonalisation und Konversion eine eher geringe Rolle zu spielen scheint. Für die dissoziative Identitätsstörung gilt gerade das Gegenteil, dort ist der Traumabezug besonders stark. Für Amnesie, Stupor sowie Trance- und Besessenheitszustände wird eine solche Einschränkung nicht formuliert. Und eine pauschale Aussage über sämtliche Störungsbilder verfehlt genau die Differenzierung, auf die der Hinweis abzielt."
+    },
+    {
+      "topic": "Dissoziation und Trauma",
+      "transfer": true,
+      "question": "Eine Patientin mit Konversionssymptomatik berichtet keine Traumatisierung. Wie ist das diagnostisch zu bewerten?",
+      "options": [
+        "Als Hinweis auf eine ausschließlich körperlich begründbare Erkrankung.",
+        "Als Widerspruch, da jede dissoziative Störung ein Trauma voraussetzt.",
+        "Als sicherer Hinweis auf eine verdrängte, noch unbekannte Traumatisierung.",
+        "Als Beleg dafür, dass keine dissoziative Störung vorliegen kann.",
+        "Als vereinbar, da hier der Traumabezug eher gering ist."
+      ],
+      "answer": 4,
+      "explanation": "Gerade bei der Konversion – wie auch bei der Depersonalisation – scheint Traumatisierung eine eher geringe Rolle zu spielen; das Fehlen einer Traumaanamnese ist deshalb gut mit der Diagnose vereinbar. Ein Trauma ist keine allgemeine Voraussetzung dissoziativer Störungen, sodass kein Widerspruch besteht. Der Schluss auf eine verdrängte Traumatisierung wäre eine unbelegte Zusatzannahme. Ein Ausschluss der dissoziativen Störung folgt daraus ebenso wenig. Und eine rein körperliche Erklärung ist ohne entsprechende Befunde nicht gerechtfertigt."
+    },
+    {
+      "topic": "Dissoziation und Trauma",
+      "question": "Welche Aussage zur Einordnung der Dissoziation als Traumafolge trifft NICHT zu?",
+      "options": [
+        "Bei einzelnen Formen ist der Traumabezug ausdrücklich schwächer.",
+        "Bei der Identitätsstörung ist der Traumabezug besonders ausgeprägt.",
+        "Nachweisbar sind vor allem lang andauernde frühkindliche Traumata.",
+        "Der Traumabezug ist bei allen dissoziativen Formen gleich stark.",
+        "Sexuelle, körperliche und emotionale Misshandlung werden genannt."
+      ],
+      "answer": 3,
+      "explanation": "Ein durchgehend gleich starker Traumabezug ist die gesuchte falsche Aussage: Die Bilder unterscheiden sich hierin deutlich. Bei der dissoziativen Identitätsstörung ist der Zusammenhang besonders ausgeprägt und stützt sich auf lang andauernde schwere frühkindliche Traumatisierungen. Genannt werden dabei sexuelle, körperliche und emotionale Misshandlungen. Und für Depersonalisation und Konversion wird der Traumabezug ausdrücklich als eher gering beschrieben."
+    },
+    {
+      "topic": "Dissoziation und Trauma",
+      "transfer": true,
+      "question": "Ein Patient erlebt während einer belastenden Untersuchung, dass er den Ablauf „wie von außen“ beobachtet und sich hinterher kaum erinnert. Er ist ansonsten unauffällig. Wie ist das am ehesten zu bewerten?",
+      "options": [
+        "Als dissoziative Reaktion ohne zwingenden Krankheitswert.",
+        "Als Konversionssymptomatik mit körperlicher Funktionsstörung.",
+        "Als Beleg für eine bislang unerkannte frühkindliche Traumatisierung.",
+        "Als dissoziative Identitätsstörung mit abgespaltenen Anteilen.",
+        "Als psychotisches Erleben mit aufgehobener Realitätsprüfung."
+      ],
+      "answer": 0,
+      "explanation": "Dissoziation ist eine allgemein menschliche Verarbeitungsmöglichkeit unter Belastung und kein grundsätzlich pathologischer Prozess – eine einmalige Reaktion mit Beobachterperspektive und anschließender Erinnerungslücke bleibt ohne weitere Auffälligkeiten unterhalb der Störungsschwelle. Eine Identitätsstörung setzt abgespaltene Persönlichkeitsanteile voraus. Psychotisches Erleben wäre durch eine aufgehobene Realitätsprüfung gekennzeichnet, die hier gerade nicht vorliegt. Eine Konversion betrifft körperliche Funktionen wie Bewegung oder Empfindung. Und der Rückschluss auf eine unerkannte frühkindliche Traumatisierung ist aus einer einzelnen Reaktion nicht zu ziehen."
+    }
+  ]
+}

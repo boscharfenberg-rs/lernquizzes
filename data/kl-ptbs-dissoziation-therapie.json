@@ -1,0 +1,420 @@
+{
+  "id": "kl-ptbs-dissoziation-therapie",
+  "title": "Therapie der (k)PTBS & Dissoziation",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Behandlungsteil im Altklausur-Stil: Pharmakotherapie bei Dissoziation und PTBS, Leitlinienlage, das Wirkprinzip Konfrontation und Kognitionsveränderung, die fünf erfolgreichen Behandlungsstrategien, Verfahren mit Wirksamkeitsnachweis (KVT, EMDR, DBT-P) sowie Methoden konfrontativer Traumabearbeitung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Pharmakotherapie der Dissoziation",
+      "question": "Welcher Substanzgruppe wird Naltrexon in der Pharmakotherapie der Dissoziation zugeordnet?",
+      "options": [
+        "Den Benzodiazepinen mit anxiolytischer Wirkung.",
+        "Den Serotoninagonisten mit stimmungsaufhellender Wirkung.",
+        "Den atypischen Antipsychotika mit sedierender Wirkung.",
+        "Den Opiatantagonisten mit antidissoziativer Wirkung.",
+        "Den Glutamatantagonisten mit antikonvulsiver Wirkung."
+      ],
+      "answer": 3,
+      "explanation": "Naltrexon wird ausdrücklich als Opiatantagonist geführt; aus seiner antidissoziativen Wirkung wird zugleich auf eine Beteiligung des Opiatsystems geschlossen. Als Serotoninagonist wird Fluoxetin genannt, als Glutamatantagonist Lamotrigin. Atypische Antipsychotika spielen in der Pharmakotherapie der Dissoziation keine Rolle, sondern werden bei Intrusionen im Rahmen der PTBS erwähnt. Und Benzodiazepine gehören nicht zu den bei Dissoziation genannten Substanzgruppen."
+    },
+    {
+      "topic": "Pharmakotherapie der Dissoziation",
+      "question": "Welches Medikament wird als Glutamatantagonist in der Behandlung der Dissoziation genannt?",
+      "options": [
+        "Fluoxetin, das als Antidepressivum eingesetzt wird.",
+        "Prazosin, das gegen Bluthochdruck eingesetzt wird.",
+        "Lamotrigin, das antikonvulsiv eingesetzt wird.",
+        "Quetiapin, das als Antipsychotikum eingesetzt wird.",
+        "Naltrexon, das als Opiatantagonist eingesetzt wird."
+      ],
+      "answer": 2,
+      "explanation": "Lamotrigin ist der genannte Glutamatantagonist in der Pharmakotherapie der Dissoziation. Fluoxetin steht dort für die Serotoninagonisten. Naltrexon vertritt die Opiatantagonisten. Prazosin ist ein Blutdruckmittel, das bei der PTBS gegen Alpträume eingesetzt wird und nicht als Glutamatantagonist. Und Quetiapin gehört zu den atypischen Antipsychotika, die bei PTBS-Intrusionen erwähnt werden."
+    },
+    {
+      "topic": "Pharmakotherapie der Dissoziation",
+      "question": "Welche Substanz wird in der Pharmakotherapie der Dissoziation am ehesten NICHT genannt?",
+      "options": [
+        "Ein Benzodiazepin zur raschen Angstlösung.",
+        "Lamotrigin aus der Gruppe der Glutamatantagonisten.",
+        "Ein Antidepressivum mit serotonerger Wirkkomponente.",
+        "Naltrexon aus der Gruppe der Opiatantagonisten.",
+        "Fluoxetin aus der Gruppe der Serotoninagonisten."
+      ],
+      "answer": 0,
+      "explanation": "Benzodiazepine erscheinen nicht in der Aufstellung zur Pharmakotherapie der Dissoziation – sie werden nur bei der PTBS und dort ausgesprochen kritisch erwähnt. Naltrexon als Opiatantagonist, Fluoxetin als Serotoninagonist und Lamotrigin als Glutamatantagonist bilden dagegen genau die drei genannten Ansatzpunkte. Und ein serotonerg wirkendes Antidepressivum entspricht dem Wirkprinzip von Fluoxetin."
+    },
+    {
+      "topic": "Pharmakotherapie der Dissoziation",
+      "transfer": true,
+      "question": "Bei einer Patientin mit Borderline-Störung soll gezielt die dissoziative Symptomatik gedämpft werden. Welcher Wirkstoff kommt dafür – außerhalb der Zulassung – am ehesten in Betracht?",
+      "options": [
+        "Paroxetin aus der Gruppe der Serotonin-Wiederaufnahmehemmer.",
+        "Clozapin aus der Gruppe der atypischen Antipsychotika.",
+        "Ein Benzodiazepin zur kurzfristigen Krisenintervention.",
+        "Naltrexon, ein Opiatantagonist, im Off-label-Gebrauch.",
+        "Prazosin, ein Blutdruckmittel, im Off-label-Gebrauch."
+      ],
+      "answer": 3,
+      "explanation": "Naltrexon wird ausdrücklich als bei Borderline-Patientinnen gegen dissoziative Symptomatik wirksam beschrieben, und zwar im Off-label-Gebrauch. Prazosin wird zwar ebenfalls außerhalb der Zulassung eingesetzt, dient dort aber der Verringerung von Alpträumen. Benzodiazepine sind wegen des Abhängigkeitspotenzials nur zur Krisenintervention empfohlen und zielen auf das Arousal. Paroxetin ist ein SSRI und wirkt auf die PTBS-Kernsymptome und die komorbide Depression. Und Clozapin gehört zu den atypischen Antipsychotika, die bei Intrusionen genannt werden."
+    },
+    {
+      "topic": "Leitlinienlage",
+      "hard": true,
+      "question": "Für welche Störungsbilder existiert im Bereich Trauma und Dissoziation eine Leitlinienempfehlung?",
+      "options": [
+        "Für die Konversionsstörungen und die dissoziative Fugue.",
+        "Ausschließlich für die klassische und die komplexe PTBS.",
+        "Für PTBS, Identitätsstörung und Depersonalisation/Derealisation.",
+        "Für sämtliche dissoziativen Störungsbilder ohne jede Einschränkung.",
+        "Bislang für kein einziges Störungsbild dieses Bereichs."
+      ],
+      "answer": 2,
+      "explanation": "Eine Leitlinienempfehlung existiert ausdrücklich nur für die PTBS, die dissoziative Identitätsstörung sowie für Derealisation und Depersonalisation. Eine flächendeckende Empfehlung für sämtliche dissoziativen Störungsbilder besteht gerade nicht. Eine Beschränkung allein auf die PTBS greift zu kurz, da auch dissoziative Bilder erfasst sind. Konversionsstörungen und Fugue sind von der Empfehlung nicht abgedeckt. Und dass gar keine Empfehlung vorläge, widerspricht der genannten Auswahl."
+    },
+    {
+      "topic": "Leitlinienlage",
+      "question": "Welche Aussage zur Leitlinienlage bei dissoziativen Störungen trifft NICHT zu?",
+      "options": [
+        "Für jedes dissoziative Störungsbild liegt eine Empfehlung vor.",
+        "Die Leitlinienlage ist auf wenige Störungsbilder beschränkt.",
+        "Für die dissoziative Identitätsstörung besteht eine Empfehlung.",
+        "Für Derealisation und Depersonalisation besteht eine Empfehlung.",
+        "Für die PTBS besteht eine leitlinienbasierte Empfehlung."
+      ],
+      "answer": 0,
+      "explanation": "Eine Empfehlung für jedes einzelne dissoziative Störungsbild existiert gerade nicht – das ist die gesuchte falsche Aussage. Die Leitlinienlage ist ausdrücklich auf wenige Bilder beschränkt. Für die dissoziative Identitätsstörung sowie für Derealisation und Depersonalisation liegen Empfehlungen vor. Und die PTBS ist das dritte abgedeckte Störungsbild."
+    },
+    {
+      "topic": "Wirkprinzip der Behandlung",
+      "hard": true,
+      "question": "Welches gemeinsame Wirkprinzip kennzeichnet die wirksame Psychotherapie bei Traumafolgestörungen?",
+      "options": [
+        "Ausschließliche Stabilisierung ohne Traumabearbeitung.",
+        "Konfrontation und/oder Veränderung von Kognitionen.",
+        "Aufdeckung unbewusster Konflikte aus der frühen Kindheit.",
+        "Systemische Arbeit an den Beziehungen im Familienverband.",
+        "Reine Entspannungsverfahren zur Senkung des Arousals."
+      ],
+      "answer": 1,
+      "explanation": "Als wirksam gilt Psychotherapie, die Konfrontation und/oder eine Veränderung von Kognitionen beinhaltet – das ist das ausdrücklich benannte Wirkprinzip. Die Aufdeckung unbewusster Kindheitskonflikte wird als Wirkprinzip nicht angeführt. Eine ausschließliche Stabilisierung ohne anschließende Traumabearbeitung greift zu kurz, auch wenn Stabilisierung bei schweren Verläufen vorgeschaltet wird. Reine Entspannungsverfahren enthalten weder Konfrontation noch Kognitionsarbeit. Und systemische Familienarbeit gehört nicht zu den genannten Wirkprinzipien."
+    },
+    {
+      "topic": "Wirkprinzip der Behandlung",
+      "question": "Welche Aussage zur Wirksamkeit von Behandlungsansätzen bei PTBS trifft NICHT zu?",
+      "options": [
+        "Die Veränderung von Kognitionen gehört zum Wirkprinzip.",
+        "Wirksam sind allein psychotherapeutische Verfahren.",
+        "Konfrontative Elemente gehören zum wirksamen Vorgehen.",
+        "Auch die Pharmakotherapie zählt zu den wirksamen Ansätzen.",
+        "Beide Wirkprinzipien können auch kombiniert werden."
+      ],
+      "answer": 1,
+      "explanation": "Neben der Psychotherapie wird ausdrücklich auch die Pharmakotherapie als wirksam benannt – eine Beschränkung auf psychotherapeutische Verfahren ist deshalb die gesuchte falsche Aussage. Konfrontation und die Veränderung von Kognitionen bilden zusammen das psychotherapeutische Wirkprinzip. Und die Formulierung „und/oder“ zeigt an, dass beide Elemente einzeln wie kombiniert wirksam sein können."
+    },
+    {
+      "topic": "Wirkprinzip der Behandlung",
+      "transfer": true,
+      "question": "Ein Therapeut beschränkt sich bei einer PTBS-Patientin dauerhaft auf Entspannungsübungen und vermeidet jede Auseinandersetzung mit dem Trauma. Wie ist das zu bewerten?",
+      "options": [
+        "Als angemessen, weil Stabilisierung stets ausreichend ist.",
+        "Als unzureichend, weil zusätzlich EMDR verpflichtend wäre.",
+        "Als angemessen, weil Konfrontation grundsätzlich schadet.",
+        "Als unzureichend, da das Wirkprinzip Konfrontation fehlt.",
+        "Als unzureichend, weil nur Pharmakotherapie wirksam ist."
+      ],
+      "answer": 3,
+      "explanation": "Wirksam ist Psychotherapie, die Konfrontation und/oder Kognitionsveränderung enthält; ein dauerhaftes Ausweichen vor beidem lässt genau diese Wirkfaktoren aus. Stabilisierung ist bei schweren Verläufen ein notwendiger erster Schritt, ersetzt aber die spezifische Traumaarbeit nicht. Dass Konfrontation grundsätzlich schade, widerspricht ihrer belegten Wirksamkeit. Die Pharmakotherapie ist ein wirksamer Ansatz unter mehreren und nicht der einzige. Und EMDR ist eines von mehreren wirksamen Verfahren, aber nicht verpflichtend."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "question": "Bei welchen Symptomen sind Serotonin-Wiederaufnahmehemmer bei der PTBS wirksam?",
+      "options": [
+        "Ausschließlich bei intrusivem Wiedererleben des Traumas.",
+        "Bei keinem der Kernsymptome, nur bei Schlafstörungen.",
+        "Ausschließlich bei einer komorbiden depressiven Symptomatik.",
+        "Bei Wiedererleben, Vermeidung und Übererregung.",
+        "Ausschließlich bei den Symptomen der Übererregung."
+      ],
+      "answer": 3,
+      "explanation": "SSRI werden als wirksam bei Symptomen des Wiedererlebens, der Vermeidung und der physiologischen Übererregbarkeit beschrieben – also über die Kernsymptomgruppen hinweg – und zusätzlich bei komorbider Depression sowie autonomer Dysregulation. Eine Beschränkung auf die Übererregung trifft eher auf die Benzodiazepine zu. Die Wirkung nur auf eine komorbide Depression oder nur auf Intrusionen greift jeweils zu kurz. Und dass die Kernsymptome unbeeinflusst blieben, widerspricht der berichteten Wirksamkeit."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "hard": true,
+      "trap": "Benzodiazepine dämpfen zwar das Arousal, erhöhen aber gerade die Wahrscheinlichkeit einer PTBS – naheliegend, aber kein Mittel der Wahl.",
+      "question": "Welche Aussage zu Benzodiazepinen bei der PTBS trifft NICHT zu?",
+      "options": [
+        "Sie erhöhen die Wahrscheinlichkeit, eine PTBS zu entwickeln.",
+        "Sie wirken lediglich auf die Arousal-Symptomatik.",
+        "Sie wirken auf alle drei Kernsymptomgruppen gleichermaßen.",
+        "Sie sind wegen des Abhängigkeitspotenzials kritisch zu sehen.",
+        "Sie werden nur zur Krisenintervention empfohlen."
+      ],
+      "answer": 2,
+      "explanation": "Benzodiazepine wirken ausdrücklich lediglich auf die Arousal-Symptome und gerade nicht auf alle Kernsymptomgruppen – die erste Aussage ist damit die gesuchte falsche. Sie werden wegen des Abhängigkeitspotenzials und der kognitiven Beeinträchtigung kritisch gesehen und nur zur Krisenintervention empfohlen. Und besonders bemerkenswert: Sie erhöhen die Wahrscheinlichkeit, überhaupt eine PTBS zu entwickeln."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Notarzt möchte einer akut Traumatisierten unmittelbar nach dem Ereignis routinemäßig ein Benzodiazepin zur Beruhigung geben. Wie ist das zu bewerten?",
+      "options": [
+        "Kritisch, da Benzodiazepine die PTBS-Wahrscheinlichkeit erhöhen.",
+        "Empfehlenswert, da sie auf alle Kernsymptome der PTBS wirken.",
+        "Unbedenklich, da Benzodiazepine die PTBS-Entwicklung verhindern.",
+        "Unbedenklich, da bei kurzer Anwendung keine Nachteile bestehen.",
+        "Empfehlenswert, da sie als Mittel der ersten Wahl etabliert sind."
+      ],
+      "answer": 0,
+      "explanation": "Benzodiazepine erhöhen die Wahrscheinlichkeit, eine PTBS zu entwickeln – ein routinemäßiger Einsatz unmittelbar nach dem Ereignis ist deshalb gerade kritisch zu sehen. Eine schützende Wirkung besteht nicht, sondern das Gegenteil. Sie wirken zudem nur auf die Arousal-Symptomatik und nicht auf alle Kernsymptome. Als Mittel der ersten Wahl sind sie ausdrücklich nicht empfohlen, sondern lediglich zur Krisenintervention. Und auch die kurze Anwendung ist wegen kognitiver Beeinträchtigung und Abhängigkeitspotenzial nicht folgenlos."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "trap": "Benzodiazepine wirken auf das Arousal, atypische Antipsychotika dagegen auf die Intrusionen – die Zuordnung wird leicht vertauscht.",
+      "question": "Welche Substanzgruppe wird speziell bei Intrusionen als wirksam beschrieben?",
+      "options": [
+        "Die Benzodiazepine wie Lorazepam oder Diazepam.",
+        "Die Stimmungsstabilisatoren wie Lithium.",
+        "Die Opiatantagonisten wie Naltrexon oder Naloxon.",
+        "Die Betablocker wie Propranolol oder Metoprolol.",
+        "Die atypischen Antipsychotika wie Quetiapin."
+      ],
+      "answer": 4,
+      "explanation": "Als bei Intrusionen wirksam werden ausdrücklich die atypischen Antipsychotika Clozapin, Olanzapin und Quetiapin genannt. Benzodiazepine wirken demgegenüber lediglich auf die Arousal-Symptomatik. Betablocker und Stimmungsstabilisatoren erscheinen in der Aufstellung nicht. Und Naltrexon als Opiatantagonist wird gegen dissoziative Symptomatik bei Borderline-Patientinnen eingesetzt, nicht gegen Intrusionen."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "hard": true,
+      "question": "Wofür wird Prazosin bei der PTBS außerhalb seiner eigentlichen Zulassung eingesetzt?",
+      "options": [
+        "Zur Behandlung der komorbiden Depression.",
+        "Zur Verringerung traumabezogener Alpträume.",
+        "Zur Reduktion dissoziativer Symptomatik.",
+        "Zur Stabilisierung vor der Traumaexposition.",
+        "Zur Dämpfung intrusiver Flashbacks am Tag."
+      ],
+      "answer": 1,
+      "explanation": "Prazosin ist eigentlich ein Mittel gegen Bluthochdruck und wird im Off-label-Gebrauch zur Verringerung von Alpträumen eingesetzt. Für Flashbacks am Tag werden stattdessen die atypischen Antipsychotika genannt. Die komorbide Depression ist eine Domäne der SSRI. Gegen dissoziative Symptomatik wird Naltrexon eingesetzt. Und eine Stabilisierung vor der Exposition ist ein psychotherapeutisches und kein pharmakologisches Vorgehen."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "question": "Welche Aussage zur Pharmakotherapie der PTBS trifft NICHT zu?",
+      "options": [
+        "Der Einsatz von Prazosin erfolgt außerhalb der Zulassung.",
+        "Prazosin ist eigentlich ein Mittel gegen Bluthochdruck.",
+        "Atypische Antipsychotika können bei Intrusionen wirken.",
+        "Naltrexon wird bei dissoziativer Symptomatik eingesetzt.",
+        "Prazosin ist ein Antidepressivum aus der SSRI-Gruppe."
+      ],
+      "answer": 4,
+      "explanation": "Prazosin ist kein Antidepressivum, sondern ein Blutdruckmittel – das ist die gesuchte falsche Aussage. Genau als solches wird es beschrieben, und sein Einsatz gegen Alpträume erfolgt im Off-label-Gebrauch. Naltrexon wird bei dissoziativer Symptomatik, insbesondere bei Borderline-Patientinnen, eingesetzt. Und die atypischen Antipsychotika Clozapin, Olanzapin und Quetiapin werden bei Intrusionen als wirksam beschrieben."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "question": "Für welche Serotonin-Wiederaufnahmehemmer werden bei der PTBS Wirksamkeitsnachweise genannt?",
+      "options": [
+        "Für Olanzapin, Quetiapin und Clozapin.",
+        "Für Amitriptylin, Doxepin und Imipramin.",
+        "Für Paroxetin, Fluvoxamin und Fluoxetin.",
+        "Für Lorazepam, Diazepam und Oxazepam.",
+        "Für Lithium, Valproat und Carbamazepin."
+      ],
+      "answer": 2,
+      "explanation": "Als SSRI mit Wirksamkeitsnachweis bei der PTBS werden Paroxetin, Fluvoxamin und Fluoxetin genannt. Amitriptylin, Doxepin und Imipramin sind trizyklische Antidepressiva und gehören nicht zu dieser Gruppe. Olanzapin, Quetiapin und Clozapin sind die bei Intrusionen genannten atypischen Antipsychotika. Lithium, Valproat und Carbamazepin sind Stimmungsstabilisatoren ohne Nennung in diesem Zusammenhang. Und Lorazepam, Diazepam und Oxazepam sind Benzodiazepine, die ausdrücklich kritisch bewertet werden."
+    },
+    {
+      "topic": "Pharmakotherapie der PTBS",
+      "transfer": true,
+      "question": "Eine Patientin mit PTBS leidet zusätzlich unter einer ausgeprägten depressiven Symptomatik und einer autonomen Dysregulation. Welche Substanzgruppe ist am ehesten indiziert?",
+      "options": [
+        "Ein atypisches Antipsychotikum wie Clozapin.",
+        "Ein Benzodiazepin zur Dauerbehandlung.",
+        "Ein Opiatantagonist wie das Naltrexon.",
+        "Ein Blutdruckmittel wie das Prazosin.",
+        "Ein Serotonin-Wiederaufnahmehemmer (SSRI)."
+      ],
+      "answer": 4,
+      "explanation": "SSRI sind ausdrücklich bei komorbider depressiver Symptomatik und bei autonomer Dysregulation wirksam – genau diese beiden Aspekte schildert der Fall. Atypische Antipsychotika werden bei Intrusionen genannt, die hier nicht im Vordergrund stehen. Naltrexon zielt auf dissoziative Symptomatik. Prazosin wird gegen Alpträume eingesetzt. Und eine Benzodiazepin-Dauerbehandlung ist wegen Abhängigkeitspotenzial und kognitiver Beeinträchtigung ausdrücklich nicht empfohlen."
+    },
+    {
+      "topic": "Behandlungsstrategien",
+      "question": "Welche Strategie zählt am ehesten NICHT zu den fünf erfolgreichen Strategien bei Traumafolgestörungen?",
+      "options": [
+        "Die Förderung von Selbstmanagement und innerer Kommunikation.",
+        "Das Bearbeiten emotionaler Reaktionen und dysfunktionaler Kognitionen.",
+        "Das Versprachlichen und Integrieren des Erlebten in die Biografie.",
+        "Das konfrontative Durcharbeiten traumatischer Erinnerungen.",
+        "Die vollständige Vermeidung belastender Erinnerungsinhalte."
+      ],
+      "answer": 4,
+      "explanation": "Vermeidung ist das Gegenteil des ersten Wirkprinzips und zählt nicht zu den erfolgreichen Strategien – gesucht war genau diese Aussage. Das konfrontative Durcharbeiten traumatischer Erinnerungen und Auslösereize steht an erster Stelle. Das Versprachlichen und Integrieren in die Biografie sowie das Bearbeiten emotionaler Reaktionen und dysfunktionaler Kognitionen bilden die nächsten beiden. Und die Förderung von Selbstmanagement und innerer Kommunikation ist die vierte Strategie, ergänzt um die Förderung des Gegenwartsbezugs."
+    },
+    {
+      "topic": "Behandlungsstrategien",
+      "question": "Was gehört zur Förderung des Gegenwartsbezugs als Behandlungsstrategie?",
+      "options": [
+        "Selbstfürsorge, Bedürfniswahrnehmung und Selbstverbalisation.",
+        "Traumaskript, Tonbandaufnahme und Nacherzählen.",
+        "Habituation, Diskrimination und Triggerexposition.",
+        "Achtsamkeit, Selbstbeobachtung und Mentalisierung.",
+        "Expositionsübungen in vivo, in sensu und in virtuo."
+      ],
+      "answer": 3,
+      "explanation": "Zur Förderung des Gegenwartsbezugs zählen Achtsamkeit, Selbstbeobachtung und Mentalisierung sowie die Bindungs- und Beziehungsfähigkeit. Traumaskript, Tonbandaufnahme und Nacherzählen sind Techniken der Konfrontation in sensu. Habituation, Diskrimination und Triggerexposition gehören zum konfrontativen Durcharbeiten. Die Expositionsformen in vivo, in sensu und in virtuo sind ebenfalls Konfrontationsmethoden. Und Selbstfürsorge, Bedürfniswahrnehmung und positive Selbstverbalisation gehören zur Förderung des Selbstmanagements."
+    },
+    {
+      "topic": "Behandlungsstrategien",
+      "trap": "Achtsamkeit und Mentalisierung gehören zum Gegenwartsbezug; Selbstfürsorge und positive Selbstverbalisation zum Selbstmanagement – die beiden Strategien werden leicht verwechselt.",
+      "question": "Positive Selbstverbalisation und das Wahrnehmen eigener Bedürfnisse gehören zu welcher Strategie?",
+      "options": [
+        "Zum Bearbeiten dysfunktionaler Kognitionen und Emotionen.",
+        "Zur Förderung von Selbstmanagement und innerer Kommunikation.",
+        "Zum konfrontativen Durcharbeiten von Erinnerungen und Auslösereizen.",
+        "Zum Versprachlichen und Integrieren in die Biografie.",
+        "Zur Förderung des Gegenwartsbezugs durch Achtsamkeit."
+      ],
+      "answer": 1,
+      "explanation": "Das Wahrnehmen eigener Bedürfnisse, Selbstfürsorge und positive Selbstverbalisation sind ausdrücklich als Inhalte der Förderung von Selbstmanagement und innerer Kommunikation aufgeführt. Das konfrontative Durcharbeiten zielt auf Erinnerungen und Auslösereize. Das Bearbeiten dysfunktionaler Kognitionen betrifft die inhaltliche Umbewertung, nicht die Selbstfürsorge. Der Gegenwartsbezug umfasst Achtsamkeit, Selbstbeobachtung und Mentalisierung. Und das Versprachlichen zielt auf die biografische Einordnung des Erlebten."
+    },
+    {
+      "topic": "Behandlungsstrategien",
+      "transfer": true,
+      "question": "Ein Therapeut arbeitet mit einer Patientin daran, das Erlebte in Worte zu fassen und als Teil ihrer Lebensgeschichte einzuordnen. Welche Strategie wendet er an?",
+      "options": [
+        "Das Versprachlichen und Integrieren in die Biografie.",
+        "Das konfrontative Durcharbeiten von Auslösereizen.",
+        "Das Bearbeiten dysfunktionaler Kognitionen und Emotionen.",
+        "Die Förderung des Gegenwartsbezugs durch Achtsamkeit.",
+        "Die Förderung von Selbstmanagement und Selbstfürsorge."
+      ],
+      "answer": 0,
+      "explanation": "Das Versprachlichen des Erlebten und seine Integration in die Biografie ist als eigene Strategie benannt und beschreibt genau das geschilderte Vorgehen. Das konfrontative Durcharbeiten zielt auf die Reizkonfrontation, nicht auf die narrative Einordnung. Der Gegenwartsbezug arbeitet mit Achtsamkeit und Selbstbeobachtung im Hier und Jetzt. Das Selbstmanagement betrifft Bedürfniswahrnehmung und Selbstfürsorge. Und die Kognitionsarbeit richtet sich auf die inhaltliche Umbewertung dysfunktionaler Überzeugungen."
+    },
+    {
+      "topic": "Behandlungsstrategien",
+      "question": "Was ist mit Mentalisierung im Kontext des Gegenwartsbezugs gemeint?",
+      "options": [
+        "Wahrnehmung und Distanzierung eigener Gedanken und Gefühle.",
+        "Die Wiederherstellung verloren gegangener Erinnerungsinhalte.",
+        "Das gedankliche Nacherleben der traumatischen Situation.",
+        "Die medikamentöse Dämpfung überschießender Emotionen.",
+        "Das gezielte Aufsuchen vermiedener Auslösereize im Alltag."
+      ],
+      "answer": 0,
+      "explanation": "Mentalisierung wird ausdrücklich als Wahrnehmung und Distanzierung eigener Kognitionen und Emotionen erläutert und dient damit dem Gegenwartsbezug. Das gedankliche Nacherleben entspricht der Konfrontation in sensu. Das Aufsuchen vermiedener Reize ist Exposition in vivo beziehungsweise Triggerexposition. Eine medikamentöse Dämpfung gehört nicht zu den psychotherapeutischen Strategien. Und eine Wiederherstellung verlorener Erinnerungen ist kein Ziel des Gegenwartsbezugs."
+    },
+    {
+      "topic": "Verfahren mit Wirksamkeitsnachweis",
+      "question": "Welches Verfahren zählt am ehesten NICHT zu den Behandlungsverfahren mit Wirksamkeitsnachweis bei PTBS?",
+      "options": [
+        "Das Eye Movement Desensitization and Reprocessing (EMDR).",
+        "Die Pharmakotherapie als eigenständiger Behandlungsansatz.",
+        "Die dialektisch-behaviorale Therapie für die PTBS (DBT-P).",
+        "Die kognitive Verhaltenstherapie mit Expositionsverfahren.",
+        "Die klassische Psychoanalyse mit freier Assoziation."
+      ],
+      "answer": 4,
+      "explanation": "Die klassische Psychoanalyse erscheint nicht unter den Verfahren mit Wirksamkeitsnachweis – gesucht war genau dieses Verfahren. Genannt werden die kognitive Verhaltenstherapie mit Expositions- und kognitiven Interventionen, das EMDR sowie die dialektisch-behaviorale Therapie für schwere chronifizierte Verläufe. Und die Pharmakotherapie wird als vierter eigenständiger Ansatz aufgeführt."
+    },
+    {
+      "topic": "Verfahren mit Wirksamkeitsnachweis",
+      "hard": true,
+      "question": "Für welche Patientengruppe wird die dialektisch-behaviorale Therapie für PTBS besonders genannt?",
+      "options": [
+        "Für Betroffene mit rein akzidentellem Trauma.",
+        "Für Betroffene ohne jede komorbide Störung.",
+        "Für leichte Verläufe kurz nach dem Ereignis.",
+        "Für Kinder und Jugendliche mit Typ-1-Trauma.",
+        "Für schwere, chronifizierte PTBS-Verläufe."
+      ],
+      "answer": 4,
+      "explanation": "Die dialektisch-behaviorale Therapie für PTBS ist ausdrücklich für schwere, chronifizierte Verläufe konzipiert und befindet sich dort in Evaluation. Leichte Verläufe kurz nach dem Ereignis sind gerade nicht ihre Zielgruppe. Eine Beschränkung auf Kinder und Jugendliche mit Typ-1-Trauma widerspricht dem Schweregradbezug. Komorbiditätsfreiheit ist keine Voraussetzung – im Gegenteil sind schwere Verläufe typischerweise komorbid. Und eine Eingrenzung auf akzidentelle Traumen besteht nicht."
+    },
+    {
+      "topic": "Verfahren mit Wirksamkeitsnachweis",
+      "hard": true,
+      "trap": "Konfrontation ist wirksam – aber bei schwerer, chronifizierter PTBS erst nach Stabilisierung. Die Reihenfolge ist entscheidend.",
+      "question": "Was gilt bei der dialektisch-behavioralen Therapie für PTBS als besonders wichtig?",
+      "options": [
+        "Stabilisierung vor der spezifischen Traumaarbeit.",
+        "Traumaexposition unmittelbar zu Behandlungsbeginn.",
+        "Vollständiger Verzicht auf Expositionselemente.",
+        "Eine ausschließlich medikamentöse Vorbehandlung.",
+        "Verzicht auf Achtsamkeits- und Emotionsregulationsübungen."
+      ],
+      "answer": 0,
+      "explanation": "Als besonders wichtig wird ausdrücklich hervorgehoben, dass die Stabilisierung der spezifischen Traumaarbeit vorausgehen muss. Eine Exposition unmittelbar zu Beginn kehrt diese Reihenfolge um. Ein vollständiger Verzicht auf Exposition widerspricht dem Konzept, das kognitive und Expositionselemente ausdrücklich enthält. Eine rein medikamentöse Vorbehandlung ist nicht vorgesehen. Und Achtsamkeitsübungen sowie Elemente der Emotionsregulation sind gerade Bestandteil des Vorgehens."
+    },
+    {
+      "topic": "Verfahren mit Wirksamkeitsnachweis",
+      "transfer": true,
+      "question": "Eine Patientin mit schwerer chronifizierter PTBS und häufigen dissoziativen Zuständen soll behandelt werden. Womit beginnt man am ehesten?",
+      "options": [
+        "Mit einer alleinigen medikamentösen Behandlung über Monate.",
+        "Mit einer Triggerexposition zur raschen Habituation.",
+        "Mit Stabilisierung und Emotionsregulation vor Exposition.",
+        "Mit dem vollständigen Verzicht auf konfrontative Elemente.",
+        "Mit sofortiger Konfrontation in sensu über ein Traumaskript."
+      ],
+      "answer": 2,
+      "explanation": "Bei schweren, chronifizierten Verläufen gilt ausdrücklich: Stabilisierung vor spezifischer Traumaarbeit, mit Elementen der Emotionsregulation und Achtsamkeitsübungen. Eine sofortige Konfrontation in sensu oder eine unmittelbare Triggerexposition setzt die Stabilisierung voraus und kommt deshalb nicht am Anfang. Eine alleinige medikamentöse Behandlung lässt die wirksamen psychotherapeutischen Wirkprinzipien aus. Und ein vollständiger Verzicht auf Konfrontation widerspricht dem belegten Wirkprinzip."
+    },
+    {
+      "topic": "Konfrontative Traumabearbeitung",
+      "transfer": true,
+      "trap": "In sensu meint die Vorstellung, in vivo die reale Situation, in virtuo die virtuelle Umgebung – Traumaskript und Tonband gehören zu in sensu.",
+      "question": "Eine Patientin erzählt das traumatische Ereignis nach; daraus wird ein Traumaskript erstellt und auf Tonband aufgenommen. Welche Form der Konfrontation liegt vor?",
+      "options": [
+        "Eine Triggerexposition zum Erlernen von Diskrimination.",
+        "Eine Konfrontation in sensu, also in der Vorstellung.",
+        "Eine Skillsanwendung zur Unterbrechung von Dissoziation.",
+        "Eine Konfrontation in vivo, also in der Realsituation.",
+        "Eine Konfrontation in virtuo mittels virtueller Realität."
+      ],
+      "answer": 1,
+      "explanation": "Nacherzählen, Traumaskript und Tonband sind ausdrücklich die Techniken der Konfrontation in sensu, die in der Vorstellung stattfindet. Eine Konfrontation in vivo führt in die reale auslösende Situation. Die Konfrontation in virtuo nutzt eine virtuelle Umgebung und wird als neuere Entwicklung genannt. Die Triggerexposition arbeitet mit konkreten Auslösereizen und zielt auf Habituation und Diskriminationslernen. Und Skills wie der Stein im Schuh dienen als Sicherheitsmaßnahme gegen Dissoziation, nicht als Konfrontationsform."
+    },
+    {
+      "topic": "Konfrontative Traumabearbeitung",
+      "hard": true,
+      "question": "Was soll mit der Triggerexposition erreicht werden?",
+      "options": [
+        "Vollständige Löschung der traumatischen Erinnerung.",
+        "Vermeidung sämtlicher Auslösereize im Alltag.",
+        "Ersatz der Erinnerung durch eine positive Vorstellung.",
+        "Habituation und Unterscheidung von Trauma und Trigger.",
+        "Erzeugung eines dissoziativen Zustands zur Entlastung."
+      ],
+      "answer": 3,
+      "explanation": "Die Triggerexposition arbeitet mit den Auslösern für Intrusionen und verfolgt zwei Ziele: Habituation und das Erlernen der Diskrimination zwischen dem gefährlichen Trauma und dem ungefährlichen Trigger. Eine vollständige Löschung der Erinnerung ist weder möglich noch Ziel. Vermeidung ist gerade das Gegenteil des Vorgehens. Ein dissoziativer Zustand soll vermieden und notfalls mit Skills unterbrochen werden. Und ein Ersatz der Erinnerung durch positive Vorstellungen gehört nicht zum Konzept."
+    },
+    {
+      "topic": "Konfrontative Traumabearbeitung",
+      "question": "Welche Konfrontationsform wird als neuere Entwicklung genannt?",
+      "options": [
+        "Die Konfrontation in der Vorstellung (in sensu).",
+        "Die reale Konfrontation vor Ort (in vivo).",
+        "Die virtuelle Konfrontation (in virtuo).",
+        "Die Triggerexposition mit Diskriminationslernen.",
+        "Das Nacherzählen mit Tonbandaufnahme."
+      ],
+      "answer": 2,
+      "explanation": "Als neu wird ausdrücklich die Konfrontation in virtuo bezeichnet, also die Arbeit in einer virtuellen Umgebung. Die Konfrontation in vivo und in sensu sind demgegenüber die etablierten Formen. Die Triggerexposition ist eine seit Langem eingesetzte Variante des konfrontativen Vorgehens. Und das Nacherzählen mit Tonbandaufnahme ist eine Technik innerhalb der Konfrontation in sensu."
+    },
+    {
+      "topic": "Konfrontative Traumabearbeitung",
+      "transfer": true,
+      "question": "Eine Therapeutin fragt während der Exposition: „Was wissen Sie heute? Was ist heute anders als damals?“ Welchem Zweck dient das am ehesten?",
+      "options": [
+        "Der Einleitung eines dissoziativen Zustands zur Entlastung.",
+        "Der Rückführung ins Hier und Jetzt als Sicherheitsmaßnahme.",
+        "Der Prüfung des Gedächtnisses auf traumabedingte Lücken.",
+        "Der Vertiefung des Wiedererlebens zur besseren Habituation.",
+        "Der Erhebung dysfunktionaler Kognitionen für die Kognitionsarbeit."
+      ],
+      "answer": 1,
+      "explanation": "Die gelegentliche Rückführung ins Hier und Jetzt mit genau diesen Fragen ist ausdrücklich als Sicherheitsmaßnahme während der konfrontativen Arbeit beschrieben – neben dem Einsatz von Skills wie dem Stein im Schuh gegen Dissoziation. Eine Vertiefung des Wiedererlebens wäre das Gegenteil einer Sicherheitsmaßnahme. Eine Gedächtnisprüfung ist nicht der Zweck der Frage. Die Erhebung dysfunktionaler Kognitionen gehört zur Kognitionsarbeit und nicht zur Absicherung der Exposition. Und ein dissoziativer Zustand soll gerade verhindert werden."
+    }
+  ]
+}

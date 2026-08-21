@@ -494,6 +494,27 @@
       "title": "PTBS: Traumabegriff, Symptomatik & komplexe PTBS",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "PTBS im Altklausur-Stil: Traumadefinition (WHO/ICD-10 vs. ICD-11), primäre/sekundäre/tertiäre Traumatisierung, Traumatypologie (Typ 1/2, akzidentell/interpersonell), Trauma-Folge-Beziehung, PTBS-Symptomatik nach DSM-5 und die drei ICD-11-Symptomgruppen, Zeit- und Funktionskriterium, traumatisches Gedächtnis sowie die komplexe PTBS."
+    },
+    {
+      "id": "kl-ptbs-risiko-verlauf-komorbiditaet",
+      "file": "kl-ptbs-risiko-verlauf-komorbiditaet.json",
+      "title": "PTBS: Risikofaktoren, Verlauf & Komorbidität",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "PTBS im Altklausur-Stil, Teil 2: Vertiefung der kPTBS-Zusatzkriterien, prä-/peri-/posttraumatische Risikofaktoren, Epidemiologie und Verlauf sowie Komorbidität und Differenzialdiagnostik bei PTBS und komplexer PTBS."
+    },
+    {
+      "id": "kl-dissoziation-grundlagen-aetiologie",
+      "file": "kl-dissoziation-grundlagen-aetiologie.json",
+      "title": "Dissoziation: Grundlagen, Störungsbilder & Ätiologie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Exkurs Dissoziation im Altklausur-Stil: Definition und Begriffsbestimmung, nicht pathologische Alltagsphänomene, die dissoziativen Störungsbilder, Erkrankungsbeginn und Verlauf, Vulnerabilitäts-Stress-Ätiologie, Neurobiologie prodissoziativer Substanzen sowie der Traumabezug der Dissoziation."
+    },
+    {
+      "id": "kl-ptbs-dissoziation-therapie",
+      "file": "kl-ptbs-dissoziation-therapie.json",
+      "title": "Therapie der (k)PTBS & Dissoziation",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Behandlungsteil im Altklausur-Stil: Pharmakotherapie bei Dissoziation und PTBS, Leitlinienlage, das Wirkprinzip Konfrontation und Kognitionsveränderung, die fünf erfolgreichen Behandlungsstrategien, Verfahren mit Wirksamkeitsnachweis (KVT, EMDR, DBT-P) sowie Methoden konfrontativer Traumabearbeitung."
     }
   ]
 }
