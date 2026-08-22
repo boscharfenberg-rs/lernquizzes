@@ -1,0 +1,417 @@
+{
+  "id": "kl-bps-aetiologie-differenzial-therapie",
+  "title": "BPS: Ätiologie, Differenzialdiagnostik & Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Borderline-Störung im Altklausur-Stil: genetische Vulnerabilität und Umweltfaktoren, invalidierendes Umfeld und Validierung als Intervention, Differenzialdiagnostik gegenüber Schizophrenie, kPTBS und anderen PS sowie die vier störungsspezifischen Verfahren, Leitlinien und symptomorientierte Pharmakotherapie.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Genetische Vulnerabilität",
+      "question": "Was ergibt der neuere genomweite Befund zur Borderline-Störung?",
+      "options": [
+        "Ein genetisches Overlap ausschließlich mit der bipolaren Störung und deren Spektrum.",
+        "Den Ausschluss jeder genetischen Beteiligung an der Störung.",
+        "Den Nachweis eines einzelnen ursächlichen Borderline-Gens.",
+        "Ein genetisches Overlap mit Schizophrenie, Depression und bipolarer Störung.",
+        "Ein genetisches Overlap ausschließlich mit der Schizophrenie."
+      ],
+      "answer": 3,
+      "explanation": "Der neuere genomweite Befund zeigt ein genetisches Overlap mit Schizophrenie, Depression und bipolarer Störung – also mit allen drei Bereichen gemeinsam. Eine Beschränkung auf die bipolare Störung entspricht der älteren Diskussionslage, eine Beschränkung auf die Schizophrenie greift ebenfalls zu kurz. Eine genetische Beteiligung wird durch den Befund gerade belegt und nicht ausgeschlossen. Und ein einzelnes ursächliches Gen wird nicht behauptet."
+    },
+    {
+      "topic": "Genetische Vulnerabilität",
+      "question": "Wie stellte sich die genetische Befundlage zur BPS vor dem neueren Befund dar?",
+      "options": [
+        "Mit einem eindeutigen Overlap zu den Suchterkrankungen.",
+        "Mit einem klaren genetischen Overlap zu Schizophrenie und Depression.",
+        "Ohne Hinweis auf ein Overlap mit Schizophrenie oder Depression.",
+        "Mit einem nachgewiesenen Overlap zu allen Angststörungen.",
+        "Mit einem vollständigen Ausschluss genetischer Faktoren."
+      ],
+      "answer": 2,
+      "explanation": "Lange Zeit zeigte sich kein Hinweis auf ein genetisches Overlap mit Schizophrenie oder Depression; diskutiert wurde stattdessen eine Verwandtschaft mit der bipolaren Störung. Ein klares Overlap zu Schizophrenie und Depression ist gerade der neuere und nicht der frühere Befund. Ein vollständiger Ausschluss genetischer Faktoren wurde nie vertreten. Und ein Overlap zu Angststörungen oder Suchterkrankungen wird an dieser Stelle nicht angeführt."
+    },
+    {
+      "topic": "Genetische Vulnerabilität",
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den genannten Umweltfaktoren der BPS?",
+      "options": [
+        "Körperlicher Missbrauch in der Vorgeschichte.",
+        "Sexueller Missbrauch in der frühen Vorgeschichte.",
+        "Invalidierung durch das nähere Umfeld.",
+        "Ein niedriger sozioökonomischer Status der Familie.",
+        "Vernachlässigung durch die primäre Bezugsperson."
+      ],
+      "answer": 3,
+      "explanation": "Der sozioökonomische Status wird unter den Umweltfaktoren nicht aufgeführt und ist damit die gesuchte Ausnahme. Genannt werden sexueller und körperlicher Missbrauch, Vernachlässigung durch die primäre Bezugsperson, Invalidierung sowie eine bestehende Aufmerksamkeitsstörung – diese Faktoren gelten zugleich als Auslöser epigenetischer Veränderungen."
+    },
+    {
+      "topic": "Genetische Vulnerabilität",
+      "question": "Wie wird die Rolle einer Aufmerksamkeitsstörung in der Ätiologie beschrieben?",
+      "options": [
+        "Als reine Folge der Borderline-Störung im Kindesalter.",
+        "Als unspezifischer Faktor mit mehreren möglichen Ausgängen.",
+        "Als Faktor, der eine Borderline-Störung sicher ausschließt.",
+        "Als Faktor ohne jede Bedeutung für die Störungsentwicklung.",
+        "Als spezifischer Faktor, der stets zur Borderline-Störung führt."
+      ],
+      "answer": 1,
+      "explanation": "Die Aufmerksamkeitsstörung wird ausdrücklich als Faktor beschrieben, aus dem eine ADHS im Erwachsenenalter, eine Borderline-Störung, eine dissoziale Persönlichkeitsstörung oder auch gar nichts hervorgehen kann – sie ist also unspezifisch und mehrdeutig im Ausgang. Ein stets zur Borderline-Störung führender Verlauf widerspricht dieser Offenheit. Ein sicherer Ausschluss kehrt die Richtung um. Eine reine Folge der Borderline-Störung vertauscht Ursache und Wirkung. Und Bedeutungslosigkeit widerspricht der ausdrücklichen Nennung."
+    },
+    {
+      "topic": "Invalidierung und Validierung",
+      "question": "Was kennzeichnet ein invalidierendes Umfeld?",
+      "options": [
+        "Emotionale Reaktionen bleiben vollständig unbeachtet.",
+        "Emotionale Reaktionen werden nicht als stimmig akzeptiert.",
+        "Emotionale Reaktionen werden ausschließlich belohnt.",
+        "Emotionale Reaktionen werden durchgängig deutlich überbewertet.",
+        "Emotionale Reaktionen werden ausdrücklich eingefordert."
+      ],
+      "answer": 1,
+      "explanation": "Im invalidierenden Umfeld werden Reaktionen und die Mitteilung persönlicher Erfahrungen nicht als stimmige Selbstbeschreibungen akzeptiert – das ist der Kern des Begriffs. Eine durchgängige Überbewertung oder ausschließliche Belohnung beschreibt das Gegenteil. Ein vollständiges Unbeachtetbleiben ist nur eine der genannten Varianten und greift als Gesamtdefinition zu kurz. Und ein ausdrückliches Einfordern emotionaler Reaktionen wird nicht beschrieben."
+    },
+    {
+      "topic": "Invalidierung und Validierung",
+      "question": "Welche Reaktion zählt am ehesten NICHT zu den Merkmalen eines invalidierenden Umfelds?",
+      "options": [
+        "Reaktionen werden trivialisiert oder zurückgewiesen.",
+        "Reaktionen werden als sozial unakzeptabel bezeichnet.",
+        "Reaktionen gelten nicht als adäquate Antwort auf Ereignisse.",
+        "Normale Reaktionen werden als krankhaft eingeordnet.",
+        "Reaktionen werden als nachvollziehbar zurückgemeldet."
+      ],
+      "answer": 4,
+      "explanation": "Reaktionen als nachvollziehbar zurückzumelden ist gerade das Gegenteil von Invalidierung – es beschreibt die Validierung und ist damit die gesuchte Ausnahme. Zu den Merkmalen des invalidierenden Umfelds zählen dagegen das Trivialisieren oder Zurückweisen, das Etikettieren als sozial unakzeptabel, das Pathologisieren normalen Erlebens sowie das Absprechen der Angemessenheit als Reaktion auf Ereignisse."
+    },
+    {
+      "topic": "Invalidierung und Validierung",
+      "hard": true,
+      "trap": "Validierung heißt nicht, jedes Verhalten gutzuheißen – sie erkennt das Gefühl als stimmig an, auch wenn das Verhalten ungünstig bleibt.",
+      "question": "Welche Botschaft vermittelt Validierung als therapeutische Intervention?",
+      "options": [
+        "Sowohl das Gefühl als auch jedes gezeigte Verhalten sind angemessen.",
+        "Das Gefühl ist unangemessen, das Verhalten aber verständlich.",
+        "Gefühle sind für die Therapie ohne besondere Bedeutung.",
+        "Beides ist zu korrigieren, damit die Therapie gelingen kann.",
+        "Das Gefühl ist stimmig, auch wenn das Verhalten ungünstig ist."
+      ],
+      "answer": 4,
+      "explanation": "Validierung vermittelt: Sie fühlen nie falsch – nachvollziehbar ist, wie jemand fühlt und handelt, auch wenn manches Verhalten ungünstig ist und dennoch verständlich bleibt, wie es dazu kam. Eine pauschale Gutheißung jeden Verhaltens geht darüber hinaus und wäre gerade keine Validierung. Das Gefühl als unangemessen zu bezeichnen kehrt die Botschaft um. Eine Korrektur von beidem entspricht der invalidierenden Haltung. Und die Bedeutungslosigkeit von Gefühlen widerspricht dem gesamten Konzept."
+    },
+    {
+      "topic": "Invalidierung und Validierung",
+      "transfer": true,
+      "question": "Eine Mutter sagt zu ihrer weinenden Tochter: „Stell dich nicht so an, das ist doch gar nicht schlimm.“ Wie ist das einzuordnen?",
+      "options": [
+        "Als Spaltung mit Wechsel von Idealisierung und Abwertung.",
+        "Als Ausdruck des Nähe-Distanz-Konflikts der Mutter.",
+        "Als adäquate Grenzsetzung ohne störungsrelevante Bedeutung.",
+        "Als Invalidierung durch Trivialisieren der Reaktion.",
+        "Als Validierung durch Einordnen der Reaktion."
+      ],
+      "answer": 3,
+      "explanation": "Die Reaktion des Kindes wird als übertrieben abgetan und damit trivialisiert – eines der ausdrücklich genannten Merkmale des invalidierenden Umfelds. Validierung würde das Gefühl als nachvollziehbar zurückmelden und damit das Gegenteil tun. Die Spaltung betrifft die Bewertung von Personen in Gut und Böse. Der Nähe-Distanz-Konflikt beschreibt eine Beziehungsdynamik und nicht das Abwerten einer Gefühlsäußerung. Und als bloße Grenzsetzung ohne Bedeutung ist die Äußerung gerade nicht zu verbuchen, da Invalidierung als Umweltfaktor benannt wird."
+    },
+    {
+      "topic": "Differenzialdiagnostik",
+      "hard": true,
+      "trap": "Sinnestäuschungen bei der BPS gehen mit Einsicht in den Trugcharakter einher – bei der Schizophrenie fehlt diese Einsicht typischerweise.",
+      "question": "Wodurch lassen sich Sinnestäuschungen bei der BPS am ehesten von schizophrenen abgrenzen?",
+      "options": [
+        "Durch die stets optische statt akustische Modalität.",
+        "Durch das Fehlen jeder Einsicht in den Trugcharakter.",
+        "Durch die erhaltene Einsicht in den Trugcharakter.",
+        "Durch das Fehlen jeder emotionalen Beteiligung.",
+        "Durch das ausschließliche Auftreten in der Nacht."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Borderline-Störung bestehen Sinnestäuschungen mit Einsicht in den Trugcharakter – die Betroffenen erkennen also, dass die Wahrnehmung nicht real ist. Genau diese Einsicht fehlt bei der Schizophrenie typischerweise, weshalb die zweite Option das Abgrenzungskriterium umkehrt. Eine Bindung an die Nachtzeit, eine feste Wahrnehmungsmodalität oder fehlende emotionale Beteiligung werden als Unterscheidungsmerkmale nicht angeführt."
+    },
+    {
+      "topic": "Differenzialdiagnostik",
+      "question": "Welche Störung zählt am ehesten NICHT zu den genannten Differenzialdiagnosen der BPS?",
+      "options": [
+        "Die Zwangsstörung mit ausgeprägten Kontrollhandlungen.",
+        "Die komplexe posttraumatische Belastungsstörung nach schwerer Traumatisierung.",
+        "Die Aufmerksamkeitsdefizit-Hyperaktivitätsstörung.",
+        "Die narzisstische Persönlichkeitsstörung.",
+        "Die histrionische Persönlichkeitsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Die Zwangsstörung erscheint nicht in der Aufzählung der schwierigen Differenzialdiagnosen und ist damit die gesuchte Ausnahme. Genannt werden die Schizophrenie, die komplexe posttraumatische Belastungsstörung, die Aufmerksamkeitsdefizit-Hyperaktivitätsstörung, Essstörungen, die andauernde Persönlichkeitsänderung sowie die histrionische, dependente, selbstunsichere, narzisstische und dissoziale Persönlichkeitsstörung."
+    },
+    {
+      "topic": "Differenzialdiagnostik",
+      "question": "Wie wird die andauernde Persönlichkeitsänderung als Differenzialdiagnose bewertet?",
+      "options": [
+        "Als schlecht konzeptualisierte Kategorie.",
+        "Als bereits vollständig aus der Systematik entfernt.",
+        "Als Kategorie mit gesicherter empirischer Grundlage.",
+        "Als besonders trennscharf definierte Kategorie.",
+        "Als deckungsgleich mit der Borderline-Störung."
+      ],
+      "answer": 0,
+      "explanation": "Die andauernde Persönlichkeitsänderung wird ausdrücklich als schlecht konzeptualisiert gekennzeichnet – genau deshalb ist die Abgrenzung schwierig. Eine besonders trennscharfe Definition oder eine gesicherte empirische Grundlage widersprechen dieser Einschätzung. Aus der Systematik entfernt ist die Kategorie nicht, sonst käme sie als Differenzialdiagnose nicht in Betracht. Und deckungsgleich mit der Borderline-Störung ist sie ebenso wenig, sonst wäre keine Abgrenzung nötig."
+    },
+    {
+      "topic": "Differenzialdiagnostik",
+      "transfer": true,
+      "question": "Eine Patientin berichtet, sie höre gelegentlich eine Stimme, wisse aber, dass diese nicht wirklich da sei. Wie ist das differenzialdiagnostisch zu bewerten?",
+      "options": [
+        "Beweisend für eine komplexe posttraumatische Belastungsstörung.",
+        "Vereinbar nur mit einer andauernden Persönlichkeitsänderung.",
+        "Vereinbar mit einer BPS, da Einsicht in den Trugcharakter besteht.",
+        "Beweisend für eine Schizophrenie trotz vollständig erhaltener Einsicht.",
+        "Ausschließend für jede Persönlichkeitsstörung überhaupt."
+      ],
+      "answer": 2,
+      "explanation": "Sinnestäuschungen mit Einsicht in den Trugcharakter sind ausdrücklich als Merkmal beschrieben, das die Borderline-Störung von der Schizophrenie abgrenzt – die Schilderung ist also mit einer BPS vereinbar. Beweisend für eine Schizophrenie wäre sie gerade nicht, da dort die Einsicht typischerweise fehlt. Für die komplexe posttraumatische Belastungsstörung ist das Phänomen nicht beweisend. Ein Ausschluss jeder Persönlichkeitsstörung widerspricht der Einordnung. Und die andauernde Persönlichkeitsänderung ist eine von mehreren Differenzialdiagnosen und hier nicht besonders naheliegend."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "question": "Welches Verfahren zählt am ehesten NICHT zu den vier störungsspezifischen Verfahren mit belegter Wirksamkeit bei BPS?",
+      "options": [
+        "Die schemafokussierte Therapie.",
+        "Die dialektisch-behaviorale Therapie.",
+        "Die mentalisierungsbasierte Therapie.",
+        "Die übertragungsfokussierte Psychotherapie.",
+        "Die klärungsorientierte Psychotherapie."
+      ],
+      "answer": 4,
+      "explanation": "Die vier störungsspezifischen Verfahren mit empirisch belegter Wirksamkeit sind die dialektisch-behaviorale Therapie, die mentalisierungsbasierte Therapie, die Schematherapie beziehungsweise schemafokussierte Therapie und die übertragungsfokussierte Psychotherapie. Die klärungsorientierte Psychotherapie wird gesondert und ausdrücklich mit dem Hinweis auf klinische Erfahrung genannt – sie gehört damit nicht zu den vier und ist die gesuchte Ausnahme."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "hard": true,
+      "trap": "Das höchste Evidenzniveau der DBT gilt ausdrücklich nur für die erste Therapiephase – nicht für die gesamte Behandlung.",
+      "question": "Welche Einschränkung gilt für das hohe Evidenzniveau der dialektisch-behavioralen Therapie?",
+      "options": [
+        "Es bezieht sich nur auf Betroffene ohne Komorbidität.",
+        "Es bezieht sich nur auf die erste Therapiephase.",
+        "Es bezieht sich nur auf die Kindes- und Jugendbehandlung.",
+        "Es bezieht sich nur auf stationäre Behandlungen.",
+        "Es bezieht sich nur auf männliche Betroffene."
+      ],
+      "answer": 1,
+      "explanation": "Die dialektisch-behaviorale Therapie hat das höchste Evidenzniveau, dieses gilt jedoch ausdrücklich nur für die Therapiephase 1. Eine Beschränkung auf stationäre Settings wird nicht formuliert – das Verfahren besteht aus Skillstraining und begleitender Einzeltherapie. Eine Einschränkung auf ein Geschlecht, auf Betroffene ohne Komorbidität oder auf das Kindes- und Jugendalter wird ebenfalls nicht genannt."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "question": "Aus welchen Bausteinen besteht die dialektisch-behaviorale Therapie?",
+      "options": [
+        "Aus Skillstraining und begleitender Einzeltherapie.",
+        "Aus Familientherapie und begleitender Ergotherapie.",
+        "Aus Pharmakotherapie und begleitender Beratung.",
+        "Aus reiner Gruppentherapie ohne Einzelkontakte.",
+        "Aus reiner Einzeltherapie ohne Gruppenanteil."
+      ],
+      "answer": 0,
+      "explanation": "Die dialektisch-behaviorale Therapie kombiniert Skillstraining mit begleitender Einzeltherapie. Eine reine Gruppen- oder reine Einzeltherapie greift jeweils nur die Hälfte auf. Pharmakotherapie ist ein eigenständiger Behandlungsansatz und kein Baustein des Verfahrens. Und Familien- oder Ergotherapie werden als Bestandteile nicht genannt."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "hard": true,
+      "question": "Welches Fazit wird aus den Vergleichsstudien der vier Verfahren gezogen?",
+      "options": [
+        "Eine echte Überlegenheit lässt sich für keines feststellen.",
+        "Die dialektisch-behaviorale Therapie ist klar überlegen.",
+        "Die mentalisierungsbasierte Therapie ist klar überlegen.",
+        "Die übertragungsfokussierte Therapie ist den übrigen klar überlegen.",
+        "Alle vier Verfahren sind gegenüber Kontrollen unwirksam."
+      ],
+      "answer": 0,
+      "explanation": "Das ausdrückliche Fazit lautet, dass für keines der Verfahren eine echte Überlegenheit konstatiert werden kann – zugleich liegen für die dialektisch-behaviorale Therapie mehrere kontrollierte Studien mit Überlegenheit gegenüber Kontrollgruppen vor. Eine klare Überlegenheit einzelner Verfahren im direkten Vergleich ist damit gerade nicht belegt, weder für die übertragungsfokussierte noch für die mentalisierungsbasierte oder die dialektisch-behaviorale Therapie. Und unwirksam sind die Verfahren keineswegs, da sie sich gegenüber Kontrollbedingungen bewähren."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "question": "Was fällt in den Vergleichsstudien bei der übertragungsfokussierten Psychotherapie besonders auf?",
+      "options": [
+        "Der Verzicht auf jedes konfrontative Vorgehen.",
+        "Die vergleichsweise niedrigen Abbruchraten.",
+        "Die vergleichsweise hohen Abbruchraten.",
+        "Die deutlich kürzere Behandlungsdauer.",
+        "Das vollständige Ausbleiben jeder Wirkung."
+      ],
+      "answer": 2,
+      "explanation": "In den Vergleichsstudien fallen bei der übertragungsfokussierten Psychotherapie wiederholt die höchsten Abbruchraten auf – vermutlich weil das Vorgehen sehr konfrontativ ist. Niedrige Abbruchraten sind demgegenüber für die Schematherapie berichtet. Ein vollständiges Ausbleiben der Wirkung widerspricht den unterschiedslosen Verbesserungen in den Vergleichsbedingungen. Eine kürzere Behandlungsdauer wird nicht angeführt. Und der Verzicht auf Konfrontation kehrt die genannte Erklärung um."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "question": "Welches Ergebnis liefert die neuere Netzwerk-Metaanalyse zur BPS-Behandlung?",
+      "options": [
+        "Die vergleichsweise niedrigen Abbruchraten über alle Studien hinweg.",
+        "Im direkten Vergleich schneidet die MBT deutlich besser ab.",
+        "Alle untersuchten Verfahren erwiesen sich als unwirksam.",
+        "Im direkten Vergleich schneidet die Schematherapie etwas besser ab.",
+        "Keines der Verfahren übertrifft die Vergleichsgruppen."
+      ],
+      "answer": 3,
+      "explanation": "Die Netzwerk-Metaanalyse findet die dialektisch-behaviorale Therapie, die Schematherapie und die mentalisierungsbasierte Therapie wirksamer als die Vergleichsgruppen; im direkten Vergleich schneidet die Schematherapie etwas besser ab und weist zudem weniger Abbrüche auf. Eine deutliche Überlegenheit der DBT oder der MBT im direkten Vergleich wird nicht berichtet. Dass keines der Verfahren die Vergleichsgruppen übertrifft, widerspricht dem Ergebnis. Und unwirksam waren die Verfahren gerade nicht."
+    },
+    {
+      "topic": "Störungsspezifische Psychotherapie",
+      "hard": true,
+      "trap": "Der Vorsprung der Schematherapie steht unter Vorbehalt: Für sie liegen weniger Studien vor, weshalb die Daten nur begrenzt interpretierbar sind.",
+      "question": "Welcher Vorbehalt wird zum Ergebnis der Netzwerk-Metaanalyse ausdrücklich formuliert?",
+      "options": [
+        "Die Vergleichsgruppen erhielten überhaupt keine Behandlung.",
+        "Für die dialektisch-behaviorale Therapie fehlen Studien.",
+        "Es wurden ausschließlich stationäre Behandlungen einbezogen.",
+        "Für die Schematherapie liegen weniger Studien vor.",
+        "Die Analyse umfasste nur eine sehr kleine Patientenzahl."
+      ],
+      "answer": 3,
+      "explanation": "Als Vorbehalt wird ausdrücklich genannt, dass die Daten begrenzt interpretierbar sind, weil für die Schematherapie weniger Studien vorliegen – gerade für das Verfahren also, das im direkten Vergleich vorn liegt. Ein Studienmangel bei der dialektisch-behavioralen Therapie besteht nicht, für sie liegen mit Abstand die meisten Studien vor. Eine Beschränkung auf stationäre Behandlungen wird nicht formuliert. Die Analyse umfasst eine erhebliche Zahl von Patientinnen. Und die Vergleichsgruppen erhielten Behandlung wie üblich oder eine generische Therapie."
+    },
+    {
+      "topic": "Leitlinienempfehlungen",
+      "question": "Was empfehlen die internationalen Leitlinien zur Behandlung der BPS?",
+      "options": [
+        "Einen Verzicht auf Behandlung wegen fehlender Wirksamkeit.",
+        "Eine ausschließlich pharmakologische Behandlung als erste Wahl.",
+        "Eine störungsspezifische Behandlung ohne Festlegung der Variante.",
+        "Eine störungsspezifische Behandlung mit Festlegung auf ein Verfahren.",
+        "Eine unspezifische supportive Begleitung ohne Verfahrensbindung."
+      ],
+      "answer": 2,
+      "explanation": "Die internationalen Leitlinien empfehlen eine störungsspezifische Behandlung, ohne eine bestimmte Variante vorzugeben. Eine Festlegung auf ein einzelnes Verfahren nehmen sie gerade nicht vor – das tun die deutschen Leitlinien mit ihrer Nennung zweier Verfahren. Eine rein pharmakologische Behandlung als erste Wahl widerspricht dem Vorrang der Psychotherapie. Eine unspezifische supportive Begleitung ist nicht störungsspezifisch. Und ein Behandlungsverzicht widerspricht der belegten Wirksamkeit."
+    },
+    {
+      "topic": "Leitlinienempfehlungen",
+      "question": "Welche Verfahren empfiehlt die deutsche Leitlinie insbesondere bei im Vordergrund stehender Selbstverletzung und Suizidversuchen?",
+      "options": [
+        "Die klärungsorientierte Psychotherapie als alleiniges Verfahren.",
+        "Die dialektisch-behaviorale oder die mentalisierungsbasierte Therapie.",
+        "Ein beliebiges Verfahren, da keine Empfehlung ausgesprochen wird.",
+        "Die alleinige Pharmakotherapie ohne psychotherapeutischen Anteil.",
+        "Eine störungsspezifische Behandlung mit Festlegung auf ein bestimmtes Verfahren."
+      ],
+      "answer": 1,
+      "explanation": "Die deutsche Leitlinie empfiehlt die dialektisch-behaviorale oder die mentalisierungsbasierte Therapie, insbesondere wenn Selbstverletzung und Suizidversuche im Vordergrund stehen. Die schemafokussierte und die übertragungsfokussierte Therapie gehören zwar zu den vier störungsspezifischen Verfahren, werden hier aber nicht hervorgehoben. Die klärungsorientierte Psychotherapie wird gesondert und auf Basis klinischer Erfahrung genannt. Eine alleinige Pharmakotherapie ist nicht empfohlen. Und eine Empfehlung wird sehr wohl ausgesprochen."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Welche Substanzgruppe wird bei psychosenahem Erleben im Rahmen der BPS genannt?",
+      "options": [
+        "Opiatantagonisten wie Naltrexon.",
+        "Serotonin-Wiederaufnahmehemmer.",
+        "Niederpotente atypische Neuroleptika.",
+        "Stimmungsstabilisatoren wie Valproat.",
+        "Stimulanzien wie Methylphenidat."
+      ],
+      "answer": 2,
+      "explanation": "Für psychosenahes Erleben werden niederpotente atypische Neuroleptika genannt. Stimmungsstabilisatoren wie Valproat kommen bei emotionaler Dysregulation zum Einsatz. Serotonin-Wiederaufnahmehemmer werden gerade kritisch bewertet. Naltrexon zielt auf dissoziative Symptomatik. Und Methylphenidat kommt bei komorbider Aufmerksamkeitsstörung in Betracht."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "transfer": true,
+      "question": "Bei einer Patientin mit BPS stehen ausgeprägte Impulsivität und Aggressivität im Vordergrund. Welche Substanzgruppe kommt am ehesten in Betracht?",
+      "options": [
+        "Stimmungsstabilisatoren wie Topiramat oder Lamotrigin.",
+        "Opiatantagonisten zur Reduktion der Aggressivität.",
+        "Stimulanzien zur Steigerung der Selbststeuerung.",
+        "Serotonin-Wiederaufnahmehemmer zur Impulskontrolle.",
+        "Sie bessern vor allem die Stimmungslage der Betroffenen deutlich."
+      ],
+      "answer": 0,
+      "explanation": "Für Impulsivität und Aggressivität werden ausdrücklich Stimmungsstabilisatoren wie Topiramat und Lamotrigin genannt. Niederpotente atypische Neuroleptika sind für psychosenahes Erleben vorgesehen. Serotonin-Wiederaufnahmehemmer verbessern die Impulskontrolle ausdrücklich nicht. Opiatantagonisten zielen auf die dissoziative Symptomatik. Und Stimulanzien kommen nur bei komorbider Aufmerksamkeitsstörung in Betracht."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "trap": "SSRI wirken bei der BPS ausdrücklich weder stimmungsaufhellend noch auf die Impulskontrolle – anders als naheliegend erscheint.",
+      "question": "Welche Aussage zu Serotonin-Wiederaufnahmehemmern bei der BPS trifft zu?",
+      "options": [
+        "Sie bessern vor allem die Impulskontrolle deutlich.",
+        "Sie bessern vor allem die Stimmungslage deutlich.",
+        "Sie sind das Mittel der ersten Wahl bei dieser Störung.",
+        "Sie bessern Stimmung und Impulskontrolle gleichermaßen.",
+        "Sie bessern weder Stimmung noch Impulskontrolle."
+      ],
+      "answer": 4,
+      "explanation": "Ausdrücklich festgehalten wird, dass Serotonin-Wiederaufnahmehemmer bei der Borderline-Störung weder eine Stimmungsaufhellung noch eine Verbesserung der Impulskontrolle bewirken – gerade die naheliegenden Wirkerwartungen treffen also nicht zu. Eine Besserung der Stimmung, der Impulskontrolle oder beider Bereiche widerspricht dieser Feststellung. Und als Mittel der ersten Wahl sind sie damit erst recht nicht anzusehen."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "question": "Welcher Warnhinweis wird zum Einsatz von Naltrexon bei dissoziativer Symptomatik gegeben?",
+      "options": [
+        "Suizidalität nach Verlust des dissoziativen Schutzes.",
+        "Ein sicherer Verlust der Wirkung nach wenigen Tagen.",
+        "Eine ausgeprägte Gewichtszunahme unter der Behandlung.",
+        "Ein hohes Abhängigkeitspotenzial der Substanz selbst.",
+        "Eine regelhafte Verstärkung der Anspannungszustände."
+      ],
+      "answer": 0,
+      "explanation": "Gewarnt wird ausdrücklich vor Suizidalität nach dem Verlust des dissoziativen Schutzes: Die Dissoziation wirkt abschirmend, und ihr Wegfall kann das darunterliegende Erleben freilegen. Ein Abhängigkeitspotenzial wird für Naltrexon nicht angeführt – kritisch beurteilt werden in diesem Zusammenhang die Benzodiazepine. Eine regelhafte Verstärkung der Anspannung, eine Gewichtszunahme oder ein rascher Wirkverlust werden nicht als Warnhinweis genannt."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Wie wird der Einsatz von Naltrexon bei dissoziativer Symptomatik im Rahmen der BPS eingeordnet?",
+      "options": [
+        "Als Off-label-Gebrauch allein für die dissoziative Störung.",
+        "Als doppelter Off-label-Gebrauch der Substanz.",
+        "Als Off-label-Gebrauch allein für die Borderline-Störung.",
+        "Als nicht empfohlene und nirgends erprobte Anwendung.",
+        "Als regulär zugelassene Indikation der Substanz."
+      ],
+      "answer": 1,
+      "explanation": "Es handelt sich um einen doppelten Off-label-Gebrauch, weil die Substanz weder für die Borderline-Störung noch für dissoziative Störungen zugelassen ist. Eine reguläre Zulassung besteht damit gerade nicht. Ein einfacher Off-label-Gebrauch für nur eines der beiden Anwendungsfelder greift zu kurz. Und die Anwendung ist zwar zulassungsüberschreitend, aber ausdrücklich beschrieben und nicht unerprobt."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "question": "Welche Hypothese wird zur Schmerzfreiheit im Anspannungszustand angeführt?",
+      "options": [
+        "Ein Zusammenhang von Anspannung und dopaminerger Aktivierung.",
+        "Ein Zusammenhang von Anspannung und serotonerger Hemmung.",
+        "Ein Zusammenhang von Anspannung und muskulärer Verkrampfung.",
+        "Ein Zusammenhang von Anspannung und peripherer Nervenschädigung.",
+        "Ein Zusammenhang von Anspannung, Dissoziation und Opiatsystem."
+      ],
+      "answer": 4,
+      "explanation": "Weil die Anspannung mit Dissoziation korreliert und Naltrexon als Opiatantagonist antidissoziativ wirkt, wird hypothetisch ein Zusammenhang mit dem Opiatsystem angenommen – daraus wird die Schmerzfreiheit im Anspannungszustand hergeleitet. Eine dopaminerge Aktivierung, eine serotonerge Hemmung, eine muskuläre Verkrampfung oder eine periphere Nervenschädigung werden als Erklärung nicht herangezogen."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "transfer": true,
+      "question": "Ein Patient mit BPS hat zusätzlich eine gesicherte Aufmerksamkeitsdefizit-Hyperaktivitätsstörung. Was ist zur medikamentösen Behandlung anzumerken?",
+      "options": [
+        "Methylphenidat verschlechtert die BPS-Symptomatik regelhaft.",
+        "Methylphenidat wirkt zusätzlich günstig auf die BPS-Symptomatik.",
+        "Ein Stimmungsstabilisator ersetzt hier die Stimulanzienbehandlung.",
+        "Methylphenidat ist bei bestehender BPS grundsätzlich verboten.",
+        "Eine Behandlung ist erst nach Remission der BPS möglich."
+      ],
+      "answer": 1,
+      "explanation": "Bei komorbider Aufmerksamkeitsstörung wird Methylphenidat genannt, und zwar mit dem ausdrücklichen Hinweis auf zusätzliche positive Effekte auf die Borderline-Symptomatik. Ein grundsätzliches Verbot oder eine regelhafte Verschlechterung widersprechen dieser Angabe. Ein Stimmungsstabilisator zielt auf emotionale Dysregulation und Impulsivität, ersetzt aber nicht die Behandlung der Aufmerksamkeitsstörung. Und eine Bindung an die vorherige Remission der Borderline-Störung wird nicht gefordert."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Welche Aussage zur Pharmakotherapie der BPS trifft NICHT zu?",
+      "options": [
+        "Sie bewegt sich vielfach im Off-label-Bereich.",
+        "Für psychosenahes Erleben werden atypische Neuroleptika genannt.",
+        "Sie erfolgt symptomorientiert statt störungsbezogen.",
+        "Für emotionale Dysregulation werden Stimmungsstabilisatoren genannt.",
+        "Sie folgt einer zugelassenen störungsbezogenen Standardindikation."
+      ],
+      "answer": 4,
+      "explanation": "Die Pharmakotherapie der Borderline-Störung ist ausdrücklich symptomorientiert und bewegt sich im Off-label-Bereich – eine zugelassene störungsbezogene Standardindikation gibt es gerade nicht, weshalb die erste Aussage die gesuchte falsche ist. Die symptomorientierte Ausrichtung und der Off-label-Charakter treffen zu. Für emotionale Dysregulation werden Stimmungsstabilisatoren, für psychosenahes Erleben niederpotente atypische Neuroleptika genannt."
+    },
+    {
+      "topic": "Differenzialdiagnostik",
+      "transfer": true,
+      "question": "Bei einer Patientin bestehen Impulsivität, Affektregulationsprobleme und Konzentrationsstörungen seit der Kindheit. Welche Differenzialdiagnose ist neben der BPS besonders zu bedenken?",
+      "options": [
+        "Eine paranoide Persönlichkeitsstörung mit Misstrauen.",
+        "Eine schizophrene Erkrankung des psychotischen Formenkreises.",
+        "Eine zwanghafte Persönlichkeitsstörung mit Perfektionismus.",
+        "Eine Aufmerksamkeitsdefizit-Hyperaktivitätsstörung.",
+        "Eine schizoide Persönlichkeitsstörung mit sozialem Rückzug."
+      ],
+      "answer": 3,
+      "explanation": "Die Aufmerksamkeitsdefizit-Hyperaktivitätsstörung ist ausdrücklich als schwierige Differenzialdiagnose der Borderline-Störung genannt, und die Überschneidung betrifft genau Impulsivität, Affektregulation und Konzentration – überdies wird der ADHS-Typus als klinische Variante beschrieben. Eine schizophrene Erkrankung würde einen Verlust des Realitätsbezugs voraussetzen. Perfektionismus, sozialer Rückzug und Misstrauen als Leitmerkmale der zwanghaften, schizoiden und paranoiden Form passen nicht zum geschilderten Bild."
+    }
+  ]
+}

@@ -515,6 +515,34 @@
       "title": "Persönlichkeitsstörung, Psychose & Neurose im Vergleich",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Die Vergleichsmatrix aus dem PS-Deck im Altklausur-Stil: Beginn, Verlauf, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung, Prävalenz und Geschlechterdifferenzen bei Persönlichkeitsstörung, Psychose und Neurose – samt aller CAVE-Ausnahmen."
+    },
+    {
+      "id": "kl-ps-diagnostik-modelle",
+      "file": "kl-ps-diagnostik-modelle.json",
+      "title": "PS: Diagnostik, Cluster & Persönlichkeitsmodelle",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Persönlichkeitsstörungen im Altklausur-Stil: dimensionale, kategoriale und störungsspezifische Zugänge, Cluster A/B/C und Subtypen, die allgemeinen Kriterien einer PS, das DSM-5-Alternativmodell mit Funktionsniveau und Traits sowie die fünf ICD-11-Domänen."
+    },
+    {
+      "id": "kl-bps-affekt-impuls-identitaet",
+      "file": "kl-bps-affekt-impuls-identitaet.json",
+      "title": "BPS: Affektregulation, Impulsivität & Identität",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Borderline-Psychopathologie im Altklausur-Stil: die vier Kernbereiche und Leitsymptome, Borderline als historische Restkategorie und klinische Typen, dysfunktionale Affektregulation und Anspannungskurve, neurobiologische Befunde, Motive der Selbstverletzung sowie die Identitätsstörung im Modell der strukturellen Dissoziation."
+    },
+    {
+      "id": "kl-bps-interaktion-epidemiologie-verlauf",
+      "file": "kl-bps-interaktion-epidemiologie-verlauf.json",
+      "title": "BPS: Soziale Interaktion, Epidemiologie & Verlauf",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Borderline-Störung im Altklausur-Stil: Nähe-Distanz-Konflikt und Spaltung, das Ballspiel-Experiment zum sozialen Ausschluss und Ostrazismus, das zentrale Einsamkeitsgefühl sowie Epidemiologie, Suizidalität, Langzeitverlauf und Komorbidität."
+    },
+    {
+      "id": "kl-bps-aetiologie-differenzial-therapie",
+      "file": "kl-bps-aetiologie-differenzial-therapie.json",
+      "title": "BPS: Ätiologie, Differenzialdiagnostik & Therapie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Borderline-Störung im Altklausur-Stil: genetische Vulnerabilität und Umweltfaktoren, invalidierendes Umfeld und Validierung als Intervention, Differenzialdiagnostik gegenüber Schizophrenie, kPTBS und anderen PS sowie die vier störungsspezifischen Verfahren, Leitlinien und symptomorientierte Pharmakotherapie."
     }
   ]
 }

@@ -1,0 +1,418 @@
+{
+  "id": "kl-bps-interaktion-epidemiologie-verlauf",
+  "title": "BPS: Soziale Interaktion, Epidemiologie & Verlauf",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Borderline-Störung im Altklausur-Stil: Nähe-Distanz-Konflikt und Spaltung, das Ballspiel-Experiment zum sozialen Ausschluss und Ostrazismus, das zentrale Einsamkeitsgefühl sowie Epidemiologie, Suizidalität, Langzeitverlauf und Komorbidität.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Nähe-Distanz-Konflikt",
+      "question": "Welches biografische Rational wird für den Nähe-Distanz-Konflikt angeführt?",
+      "options": [
+        "Ein einmaliges Trauma durch eine fremde, unbekannte Person.",
+        "Eine genetisch bedingte Bindungsunfähigkeit von Geburt an.",
+        "Eine überbehütende Erziehung ohne jede Grenzsetzung.",
+        "Ein früher Verlust beider Elternteile durch Unfalltod.",
+        "Gewalt oder Vernachlässigung durch eine nahe Bezugsperson."
+      ],
+      "answer": 4,
+      "explanation": "Als biografisches Rational wird Gewalt oder Vernachlässigung durch eine nahe Bezugsperson angeführt – gerade weil es eine nahe Person ist, sind Liebe und Hass in derselben Person repräsentiert. Ein Trauma durch eine fremde Person würde diese Verknüpfung nicht erzeugen. Eine überbehütende Erziehung ohne Grenzsetzung wird nicht genannt. Ein früher Elternverlust ist ebenfalls nicht das angeführte Rational. Und eine angeborene Bindungsunfähigkeit widerspricht dem beschriebenen Bindungsbedürfnis, das ja gerade vorhanden ist."
+    },
+    {
+      "topic": "Nähe-Distanz-Konflikt",
+      "transfer": true,
+      "question": "Ein Patient sagt über seine Mutter: „Sie war die Einzige, die für mich da war – und die, vor der ich am meisten Angst hatte.“ Welches Konzept beschreibt das am ehesten?",
+      "options": [
+        "Dichotomes Denken zur Reduktion von Komplexität.",
+        "Liebe und Gefahr in derselben Person repräsentiert.",
+        "Spaltung mit Wechsel zwischen Idealisierung und Abwertung.",
+        "Strukturelle Dissoziation mit abgespaltenen Selbstanteilen.",
+        "Ostrazismus als evolutionär tödliche Bedrohung."
+      ],
+      "answer": 1,
+      "explanation": "Wenn Gewalt oder Vernachlässigung von einer nahen Bezugsperson ausgehen, sind Liebe und Hass in einer Person repräsentiert und Nähe impliziert zugleich Gefahr – genau das beschreibt die Aussage. Die Spaltung meint den zeitlichen Wechsel zwischen Idealisierung und Abwertung, nicht das gleichzeitige Nebeneinander. Die strukturelle Dissoziation betrifft die Integration der Selbstanteile. Dichotomes Denken vereinfacht die Welt in Gut und Böse, während hier beides gleichzeitig gilt. Und Ostrazismus bezeichnet die Erfahrung des sozialen Ausschlusses."
+    },
+    {
+      "topic": "Nähe-Distanz-Konflikt",
+      "transfer": true,
+      "question": "Eine Patientin sucht intensiv Nähe zu ihrer Bezugstherapeutin und bricht den Kontakt kurz darauf abrupt ab. Was beschreibt das am ehesten?",
+      "options": [
+        "Die oszillierende Beziehungsdynamik im Nähe-Distanz-Konflikt.",
+        "Eine bewusste Strategie zur Steuerung der Behandlungsdauer.",
+        "Ein Zeichen fehlenden Bindungsbedürfnisses der Patientin.",
+        "Die Spaltung mit Wechsel zwischen Idealisierung und Abwertung.",
+        "Eine dissoziative Amnesie für den vorangegangenen Kontakt."
+      ],
+      "answer": 0,
+      "explanation": "Die Abfolge Bedürfnis nach Nähe, bindungssuchendes Verhalten, assoziierte Gefahr, distanzsicherndes Verhalten beschreibt genau die oszillierende Beziehungsdynamik. Die Spaltung betrifft die Bewertung der Person als gut oder böse, nicht das Annähern und Abbrechen als solches. Eine Amnesie würde eine Erinnerungslücke voraussetzen. Eine bewusste Steuerung der Behandlungsdauer wäre ein sekundäres Motiv und ist hier nicht angelegt. Und das Bindungsbedürfnis ist gerade vorhanden – es steht nur im Konflikt zum Schutzbedürfnis."
+    },
+    {
+      "topic": "Nähe-Distanz-Konflikt",
+      "question": "Welche Aussage zum Nähe-Distanz-Konflikt trifft NICHT zu?",
+      "options": [
+        "Bindungssuchendes Verhalten folgt auf das Bedürfnis nach Nähe.",
+        "Es gibt ein optimales Maß an Nähe, das Betroffene entlastet.",
+        "Die Dynamik verläuft oszillierend und nicht geradlinig.",
+        "Auf die assoziierte Gefahr folgt distanzsicherndes Verhalten.",
+        "Der Konflikt betrifft Bindung gegen Schutz und Kontrolle."
+      ],
+      "answer": 1,
+      "explanation": "Ausdrücklich festgehalten wird, dass es keine ideale soziale Nähe gibt – wie es ist, ist es falsch. Ein entlastendes Optimum ist deshalb die gesuchte falsche Aussage. Auf das Bedürfnis nach Nähe folgt bindungssuchendes Verhalten, auf die damit assoziierte Gefahr distanzsicherndes Verhalten. Der zugrunde liegende Konflikt besteht zwischen Bindungsbedürfnis und dem Bedürfnis nach Schutz und Kontrolle. Und die Dynamik verläuft eben deshalb oszillierend."
+    },
+    {
+      "topic": "Spaltung und dichotomes Denken",
+      "question": "Welche Funktion hat das dichotome Denken im Sinne der Spaltung?",
+      "options": [
+        "Es vereinfacht die Welt und reduziert Komplexität.",
+        "Es entsteht ausschließlich unter starker Anspannung.",
+        "Es tritt nur im stationären Behandlungssetting auf.",
+        "Es erhöht die Differenzierungsfähigkeit im Urteil.",
+        "Es dient der bewussten Täuschung des Behandlungsteams."
+      ],
+      "answer": 0,
+      "explanation": "Das dichotome Denken vereinfacht die Welt und reduziert Komplexität – darin liegt seine Funktion. Eine erhöhte Differenzierungsfähigkeit wäre das Gegenteil der Zweiteilung in Gut und Böse. Eine bewusste Täuschung unterstellt Absicht, während es sich um ein Denkmuster handelt. Eine Bindung ausschließlich an Anspannungszustände wird nicht behauptet. Und das Stationsbeispiel ist eine Illustration, nicht eine Begrenzung auf dieses Setting."
+    },
+    {
+      "topic": "Spaltung und dichotomes Denken",
+      "transfer": true,
+      "question": "Eine Patientin beschreibt eine Pflegekraft zunächst als einzige Person, die sie versteht, und wenige Tage später als zutiefst böse. Was liegt am ehesten vor?",
+      "options": [
+        "Eine bewusste Manipulation des Behandlungsteams.",
+        "Eine wahnhafte Verkennung der betreffenden Person.",
+        "Ein Wechsel zwischen Idealisierung und Abwertung.",
+        "Ein Wechsel zwischen zwei abgespaltenen Persönlichkeitsanteilen.",
+        "Eine realitätsgerechte Korrektur der ersten Einschätzung."
+      ],
+      "answer": 2,
+      "explanation": "Der abrupte Umschlag von der idealisierten zur abgewerteten Bewertung ist das Kernmerkmal der Spaltung – und er vollzieht sich ausdrücklich auch innerhalb ein und derselben Person, nicht nur zwischen verschiedenen Teammitgliedern. Abgespaltene Persönlichkeitsanteile gehören zur dissoziativen Identitätsstörung. Eine realitätsgerechte Korrektur würde eine differenzierte Zwischenposition erzeugen statt eines Umschlags ins Gegenteil. Eine wahnhafte Verkennung setzte einen Verlust des Realitätsbezugs voraus. Und eine bewusste Manipulation unterstellt Absicht, wo ein Denkmuster wirkt."
+    },
+    {
+      "topic": "Spaltung und dichotomes Denken",
+      "question": "Welche Aussage zur Spaltung trifft NICHT zu?",
+      "options": [
+        "Der Wechsel kann auch innerhalb einer Person stattfinden.",
+        "Der Wechsel von Idealisierung zu Abwertung erfolgt abrupt.",
+        "Betroffene können sich Gutes und Böses in einer Person vorstellen.",
+        "Personen werden rasch in Gute und Böse eingeteilt.",
+        "Häufig besteht die Vorstellung einer idealen, kompromisslosen Liebe."
+      ],
+      "answer": 2,
+      "explanation": "Gerade das ist nicht vorstellbar: Dass jemand Gutes auch böse handeln kann, lässt sich im dichotomen Denken nicht denken – die erste Aussage ist deshalb die gesuchte falsche. Die rasche Einteilung in Gute und Böse und der abrupte Umschlag von Idealisierung zu Abwertung sind die Kernmerkmale. Der Wechsel findet auch innerhalb einer Person statt. Und die Vorstellung einer absoluten, kompromisslosen idealen Liebe wird ausdrücklich als häufig beschrieben."
+    },
+    {
+      "topic": "Sozialer Ausschluss",
+      "question": "Wie reagieren gesunde Versuchspersonen in der Ausschlussbedingung des Ballspiel-Experiments?",
+      "options": [
+        "Mit Gleichgültigkeit gegenüber dem Ausschluss.",
+        "Mit einer realistischen Einschätzung ohne Emotion.",
+        "Mit einer Unterschätzung der eigenen Ballkontakte.",
+        "Mit einer emotional positiven Bewertung der Lage.",
+        "Mit Wut sowie mit Angst auf den Ausschluss."
+      ],
+      "answer": 4,
+      "explanation": "Gesunde reagieren auf den tatsächlichen Ausschluss mit Wut, die zu destruktivem Verhalten führt, und mit Angst, die zu submissivem Verhalten führt. Gleichgültigkeit wäre keine Reaktion auf eine als bedrohlich erlebte Ausgrenzung. Die Unterschätzung der eigenen Ballkontakte ist der Befund bei Betroffenen mit Borderline-Störung, und zwar bereits in der Einschlussbedingung. Eine emotional positive Bewertung kennzeichnet bei Gesunden die Einschlussbedingung. Und eine realistische Einschätzung betrifft ebenfalls die Einschlussbedingung."
+    },
+    {
+      "topic": "Sozialer Ausschluss",
+      "hard": true,
+      "trap": "Der entscheidende Befund liegt schon in der EINSCHLUSS-Bedingung – das Misstrauen ist also grundlos und nicht durch tatsächlichen Ausschluss ausgelöst.",
+      "question": "Was ist der zentrale Befund bei Betroffenen mit BPS in der Einschlussbedingung des Ballspiel-Experiments?",
+      "options": [
+        "Sie zeigen keinerlei emotionale Reaktion auf die Situation.",
+        "Sie unterschätzen die Zahl der eigenen Ballkontakte deutlich.",
+        "Sie schätzen die Zahl der eigenen Ballkontakte realistisch ein.",
+        "Sie bewerten die Situation emotional durchgehend positiv.",
+        "Sie überschätzen die Zahl der eigenen Ballkontakte deutlich."
+      ],
+      "answer": 1,
+      "explanation": "Obwohl der Ball gleichmäßig verteilt wird, schätzen Betroffene ihren eigenen Anteil deutlich zu niedrig ein und reagieren mit Wut und Angst – der Ausschluss wird also erlebt, ohne dass er stattfindet. Eine realistische Einschätzung kennzeichnet die gesunden Vergleichspersonen. Eine Überschätzung kehrt den Befund um. Eine durchgehend positive Bewertung entspricht ebenfalls der Reaktion Gesunder. Und das Ausbleiben jeder emotionalen Reaktion widerspricht den berichteten Wut- und Angstreaktionen."
+    },
+    {
+      "topic": "Sozialer Ausschluss",
+      "question": "Welches Fazit wird aus dem Ballspiel-Experiment für die BPS gezogen?",
+      "options": [
+        "Soziale Situationen werden durchgehend realistisch bewertet.",
+        "Emotionale Reaktionen bleiben bei Betroffenen weitgehend aus.",
+        "Berechtigtes Misstrauen schützt vor sozialer Zurückweisung.",
+        "Vertrauensvolle Beziehungen gelingen besonders leicht.",
+        "Grundloses Misstrauen aktiviert Wut- und Angst-Schemata."
+      ],
+      "answer": 4,
+      "explanation": "Das Fazit lautet, dass grundloses Misstrauen in sozialen Situationen Wut- und Angst-Schemata aktiviert, woraus ein Problem im Aufbau vertrauensvoller Beziehungen folgt. Von berechtigtem Misstrauen kann keine Rede sein, da der Ausschluss objektiv nicht stattfand. Eine durchgehend realistische Bewertung widerspricht der Unterschätzung der eigenen Ballkontakte. Ausbleibende emotionale Reaktionen widersprechen den berichteten Wut- und Angstreaktionen. Und der Aufbau vertrauensvoller Beziehungen ist gerade erschwert."
+    },
+    {
+      "topic": "Sozialer Ausschluss",
+      "question": "Wie wird der Ostrazismus evolutionär eingeordnet?",
+      "options": [
+        "Als eine ausschließlich beim Menschen bekannte Reaktion.",
+        "Als eine erst kulturell erworbene Empfindlichkeit.",
+        "Als eine evolutionär potenziell tödliche Bedrohung.",
+        "Als eine förderliche Bedingung für Autonomie.",
+        "Als eine unbedeutende soziale Alltagserfahrung."
+      ],
+      "answer": 2,
+      "explanation": "Ostrazismus, also der soziale Ausschluss aus der Gruppe, wird als evolutionär tödliche Bedrohung eingeordnet – daraus erklärt sich die Hypersensitivität gegenüber sozialer Zurückweisung. Eine unbedeutende Alltagserfahrung wäre mit dieser Einordnung unvereinbar. Als förderliche Bedingung für Autonomie wird er nicht beschrieben. Eine erst kulturell erworbene Empfindlichkeit widerspricht der evolutionären Begründung. Und eine Beschränkung auf den Menschen wird nicht behauptet."
+    },
+    {
+      "topic": "Sozialer Ausschluss",
+      "transfer": true,
+      "question": "Ein Patient reagiert auf eine kaum wahrnehmbare Zurückweisung mit Selbstabwertung und sucht gleichzeitig verstärkt Bindung. Welches Konzept beschreibt das am ehesten?",
+      "options": [
+        "Die Spaltung mit dichotomem Denken.",
+        "Die dysfunktionale Affektregulation.",
+        "Die strukturelle Dissoziation der Identität.",
+        "Die Ich-Syntonie der Persönlichkeitsstörung.",
+        "Die Verhaltensmuster bei Ostrazismus."
+      ],
+      "answer": 4,
+      "explanation": "Als Verhalten bei Ostrazismus werden Unterwerfung und Selbstabwertung, Aggression sowie die Suche nach Bindung genannt – zwei davon zeigt der Patient, ausgelöst durch eine minimale Zurückweisung, also bei ausgeprägter Hypersensitivität. Die Spaltung betrifft die Bewertung anderer in Gut und Böse. Die dysfunktionale Affektregulation beschreibt die Anspannungszustände. Die strukturelle Dissoziation betrifft die Integration der Selbstanteile. Und die Ich-Syntonie beschreibt das Erleben der Symptomatik als zur eigenen Person gehörig."
+    },
+    {
+      "topic": "Einsamkeit",
+      "question": "Was gilt als zentrales Gefühl bei der Borderline-Störung?",
+      "options": [
+        "Ein anhaltendes Gefühl von Überlegenheit.",
+        "Ein anhaltendes Gefühl von Fremdbestimmtheit.",
+        "Ein durchgehendes Gefühl von Gleichgültigkeit.",
+        "Ein tiefgreifendes Gefühl von Einsamkeit.",
+        "Ein situationsabhängiges Gefühl der Erleichterung."
+      ],
+      "answer": 3,
+      "explanation": "Als zentral wird ein tiefgreifendes Gefühl von Einsamkeit beschrieben. Ein Gefühl von Überlegenheit gehört eher in den Umkreis narzisstischer Grandiosität. Fremdbestimmtheit und Gleichgültigkeit werden in diesem Zusammenhang nicht als zentrale Gefühle genannt. Und ein situationsabhängiges Gefühl der Erleichterung beschreibt allenfalls die kurzfristige Wirkung von Selbstverletzung."
+    },
+    {
+      "topic": "Einsamkeit",
+      "hard": true,
+      "question": "Welche Aussage zum Einsamkeitsgefühl bei der BPS trifft NICHT zu?",
+      "options": [
+        "Als hilfreich gilt die Übernahme von Verantwortung.",
+        "Das Gefühl besteht unabhängig von realen äußeren Bedingungen.",
+        "Als hilfreich gilt das Gefühl, gebraucht zu werden.",
+        "Es wird als zentrales Gefühl der Störung beschrieben.",
+        "Gängige Manuale enthalten gezielte Interventionen dagegen."
+      ],
+      "answer": 4,
+      "explanation": "Ausdrücklich festgehalten wird, dass therapeutische Interventionen gegen dieses irrationale Einsamkeitsgefühl in keinem der geläufigen Manuale zu finden sind – die erste Aussage ist deshalb die gesuchte falsche. Das Gefühl besteht unabhängig von den realen äußeren Bedingungen, weshalb bloße Kontaktangebote nicht greifen. Als hilfreich werden die Übernahme von Verantwortung und das Gefühl, gebraucht zu werden, genannt. Und es gilt als zentrales Gefühl der Störung."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Welche Aussage zur Prävalenz von Persönlichkeitsstörungen trifft am ehesten zu?",
+      "options": [
+        "Unter psychiatrischen Patienten liegt sie deutlich niedriger.",
+        "Sie ist bei Jugendlichen niedriger als bei Erwachsenen.",
+        "Sie unterscheidet sich zwischen den Subtypen kaum.",
+        "Unter psychiatrischen Patienten liegt sie deutlich höher.",
+        "Sie ist in allen untersuchten Ländern praktisch identisch."
+      ],
+      "answer": 3,
+      "explanation": "Innerhalb psychiatrischer Patientengruppen liegt die Prävalenz weit über der in der Allgemeinbevölkerung, mit zusätzlich deutlichen Unterschieden zwischen den Subtypen. Eine niedrigere Rate in klinischen Gruppen kehrt diesen Befund um. Die Länderergebnisse streuen erheblich und sind gerade nicht identisch. Bei Jugendlichen erfüllt ein beachtlicher Anteil die Kriterien, sodass auch dort keine niedrigere Rate vorliegt. Und die Subtypen unterscheiden sich in der Häufigkeit ausdrücklich deutlich."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Wie entwickelt sich die PS-Symptomatik bei Jugendlichen im Zeitverlauf?",
+      "options": [
+        "Viele erfüllen die Kriterien, die Symptomatik lässt nach.",
+        "Die Symptomatik bleibt über die Jahre unverändert stabil.",
+        "Viele erfüllen die Kriterien, die Symptomatik nimmt zu.",
+        "Nur sehr wenige erfüllen die Kriterien in diesem Alter.",
+        "Die Kriterien sind in diesem Alter gar nicht anwendbar."
+      ],
+      "answer": 0,
+      "explanation": "Ein beachtlicher Anteil der Elf- bis Fünfzehnjährigen erfüllt die Kriterien einer Persönlichkeitsstörung, wobei die Symptomatik im Zeitverlauf nachlässt – ein hoher Anteil im Jugendalter bedeutet also nicht, dass sich bei allen eine überdauernde Störung entwickelt. Eine niedrige Rate in diesem Alter widerspricht dem Befund. Eine Zunahme der Symptomatik kehrt die Verlaufsrichtung um. Die Kriterien sind sehr wohl angewendet worden. Und eine unveränderte Stabilität widerspricht dem berichteten Nachlassen."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Welches Fazit wird zur Lebenszeitprävalenz der Borderline-Störung gezogen?",
+      "options": [
+        "Die BPS tritt erst nach dem mittleren Lebensalter auf.",
+        "Die BPS ist über alle Altersgruppen gleich häufig.",
+        "Die BPS ist eine seltene Störung des höheren Alters.",
+        "Die BPS ist eine häufige Störung der Adoleszenz.",
+        "Die BPS ist seltener als die bisherige Lehrmeinung annahm."
+      ],
+      "answer": 3,
+      "explanation": "Das ausdrückliche Fazit lautet, dass die Borderline-Störung eine häufige Störung der Adoleszenz ist: Bei Jugendlichen und jungen Erwachsenen liegt die Rate deutlich höher als im mittleren Lebensalter. Eine seltene Störung des höheren Alters kehrt diesen Altersgradienten um. Eine über alle Altersgruppen gleiche Häufigkeit widerspricht dem Gradienten ebenso. Ein Beginn erst nach dem mittleren Lebensalter passt nicht zum frühen Beginn. Und die neueren Zahlen liegen über und nicht unter der bisherigen Lehrmeinung."
+    },
+    {
+      "topic": "Epidemiologie",
+      "hard": true,
+      "trap": "Das klinische Frauenübergewicht bildet nicht die tatsächliche Verteilung ab – in der Allgemeinbevölkerung ist das Verhältnis ausgeglichen.",
+      "question": "Wie unterscheidet sich das Geschlechterverhältnis der BPS zwischen klinischem Setting und Allgemeinbevölkerung?",
+      "options": [
+        "In beiden Kontexten überwiegen die Frauen gleichermaßen.",
+        "Klinisch überwiegen Männer, in der Bevölkerung ausgeglichen.",
+        "Klinisch überwiegen Frauen, in der Bevölkerung ausgeglichen.",
+        "In beiden Kontexten ist das Verhältnis ausgeglichen.",
+        "Klinisch ausgeglichen, in der Bevölkerung überwiegen Frauen."
+      ],
+      "answer": 2,
+      "explanation": "Im klinischen Setting überwiegen die Frauen deutlich, während das Verhältnis in der Allgemeinbevölkerung ausgeglichen ist – der klinische Eindruck bildet die tatsächliche Verteilung also nicht ab. Ein klinisches Männerübergewicht kehrt den Befund um. Ein durchgängiges Frauenübergewicht in beiden Kontexten übersieht den Unterschied ebenso wie ein durchgängig ausgeglichenes Verhältnis. Und die letzte Variante vertauscht beide Kontexte."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Welche Aussage zu Geschlechtsunterschieden bei der BPS trifft NICHT zu?",
+      "options": [
+        "Männer unternehmen häufiger Suizidversuche als Frauen.",
+        "Frauen zeigen mehr Depressionen sowie mehr PTBS.",
+        "Männer wirken antisozialer sowie narzisstischer.",
+        "Frauen zeigen mehr Substanzkonsum und Therapieabbrüche.",
+        "Männer zeigen eine stärkere Symptomausprägung."
+      ],
+      "answer": 3,
+      "explanation": "Mehr Substanzkonsum und mehr Therapieabbrüche werden ausdrücklich den Männern zugeschrieben – die Zuordnung zu den Frauen ist deshalb die gesuchte falsche Aussage. Männer zeigen zudem eine stärkere Symptomausprägung, wirken antisozialer und narzisstischer und unternehmen mehr Suizidversuche. Bei Frauen finden sich demgegenüber mehr Depressionen und mehr posttraumatische Belastungsstörungen."
+    },
+    {
+      "topic": "Suizidalität und Mortalität",
+      "hard": true,
+      "trap": "Naheliegend wäre die Borderline-Störung – angegeben wird jedoch die narzisstische PS mit dem höchsten Suizidrisiko, vor Borderline und dissozialer PS.",
+      "question": "Bei welcher Persönlichkeitsstörung wird das höchste Suizidrisiko angegeben?",
+      "options": [
+        "Bei der selbstunsicheren Persönlichkeitsstörung.",
+        "Bei der Borderline-Persönlichkeitsstörung.",
+        "Bei der zwanghaften Persönlichkeitsstörung.",
+        "Bei der narzisstischen Persönlichkeitsstörung.",
+        "Bei der dissozialen Persönlichkeitsstörung."
+      ],
+      "answer": 3,
+      "explanation": "Das höchste Suizidrisiko wird der narzisstischen Persönlichkeitsstörung zugeschrieben, gefolgt von der Borderline-Störung und der dissozialen Persönlichkeitsstörung. Die Borderline-Störung ist damit die naheliegende, aber zweitplatzierte Antwort. Die selbstunsichere und die zwanghafte Persönlichkeitsstörung werden in dieser Rangfolge überhaupt nicht genannt."
+    },
+    {
+      "topic": "Suizidalität und Mortalität",
+      "question": "Welcher Faktor verdreifacht das Suizidrisiko bei Persönlichkeitsstörungen?",
+      "options": [
+        "Eine komorbide affektive oder Suchtstörung.",
+        "Eine langjährige ambulante Psychotherapie.",
+        "Eine komorbide Zwangsstörung im Verlauf.",
+        "Eine komorbide somatoforme Störung.",
+        "Ein höheres Lebensalter der Betroffenen."
+      ],
+      "answer": 0,
+      "explanation": "Genannt wird eine Verdreifachung des Suizidrisikos bei komorbider affektiver Störung oder Suchtstörung. Eine somatoforme Störung und eine Zwangsstörung werden in diesem Zusammenhang nicht als Risikoverstärker angeführt. Ein höheres Lebensalter zählt ebenfalls nicht zu den genannten Risikofaktoren. Und eine langjährige Psychotherapie ist keine Risiko-, sondern eine Behandlungsvariable."
+    },
+    {
+      "topic": "Suizidalität und Mortalität",
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den genannten Suizid-Risikofaktoren?",
+      "options": [
+        "Suizidales Verhalten in der Vorgeschichte.",
+        "Ein hohes Maß an sozialer Unterstützung im Umfeld.",
+        "Das männliche Geschlecht der betroffenen Person.",
+        "Eine ausgeprägte Impulsivität der betroffenen Person.",
+        "Selbstverletzendes Verhalten in der Vorgeschichte."
+      ],
+      "answer": 1,
+      "explanation": "Soziale Unterstützung ist kein Risikofaktor, sondern wirkt eher schützend – sie ist deshalb die gesuchte Ausnahme. Als weitere Risikofaktoren genannt werden ausdrücklich Impulsivität, männliches Geschlecht, suizidales Verhalten in der Vorgeschichte und Selbstverletzung."
+    },
+    {
+      "topic": "Suizidalität und Mortalität",
+      "transfer": true,
+      "question": "Bei einem männlichen Patienten mit BPS bestehen eine Alkoholabhängigkeit, ausgeprägte Impulsivität und ein Suizidversuch in der Vorgeschichte. Wie ist das Suizidrisiko einzuschätzen?",
+      "options": [
+        "Als gering, da Suizidversuche in der Regel einmalig bleiben.",
+        "Als unverändert, da das Geschlecht keine Rolle spielt.",
+        "Als nicht beurteilbar, da keine Risikofaktoren benannt sind.",
+        "Als gering, da die Suchtstörung eher schützend wirkt.",
+        "Als deutlich erhöht wegen mehrerer Risikofaktoren."
+      ],
+      "answer": 4,
+      "explanation": "Der Fall vereint vier der genannten Risikomerkmale: die Suchtstörung als Komorbidität mit Verdreifachung des Risikos, die Impulsivität, das männliche Geschlecht und den Suizidversuch in der Vorgeschichte. Eine schützende Wirkung der Suchtstörung kehrt den Befund um. Ein früherer Suizidversuch gilt gerade als Risikofaktor und nicht als Entwarnung. Das männliche Geschlecht ist ausdrücklich als Risikofaktor benannt. Und die Risikofaktoren sind im Fall klar erkennbar."
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Wie ist der Verlauf der Borderline-Störung nach neueren Katamnesen einzuschätzen?",
+      "options": [
+        "Regelhaft chronisch ohne jede Besserung.",
+        "Unverändert gegenüber früheren Annahmen.",
+        "Nur unter stationärer Behandlung günstig.",
+        "Deutlich positiver als bisher angenommen.",
+        "Deutlich ungünstiger als bisher angenommen."
+      ],
+      "answer": 3,
+      "explanation": "Die Katamnesen zeigen einen weitaus positiveren Verlauf als bisher gedacht: Ein wachsender Anteil erfüllt die diagnostische Schwelle über die Jahre nicht mehr, und bei einem Teil bleibt die Remission über einen langen Beobachtungszeitraum stabil. Ein ungünstigerer oder unveränderter Verlauf widerspricht diesen Ergebnissen. Ein regelhaft chronischer Verlauf ohne Besserung ist ebenso wenig haltbar. Und eine Bindung der Besserung an stationäre Behandlung wird nicht behauptet."
+    },
+    {
+      "topic": "Verlauf",
+      "hard": true,
+      "trap": "Verhaltensnahe Züge (Impulsivität, Selbstverletzung, pseudopsychotische Symptome) bessern sich; temperamentsnahe Züge (affektive Instabilität, Ängstlichkeit) bleiben stabil.",
+      "question": "Welche Symptombereiche bessern sich im Langzeitverlauf der BPS am ehesten?",
+      "options": [
+        "Die affektive Instabilität und die Ängstlichkeit.",
+        "Die verhaltensnahen Persönlichkeitszüge.",
+        "Die grundlegende Identitätsproblematik.",
+        "Die Lebensqualität und die berufliche Integration.",
+        "Die temperamentsnahen Persönlichkeitszüge."
+      ],
+      "answer": 1,
+      "explanation": "Verbessert zeigen sich die verhaltensnahen Persönlichkeitszüge, also Impulsivität, Selbstverletzung und Suizidversuche sowie pseudopsychotische Symptome. Die temperamentsnahen Züge bleiben demgegenüber stabil – dazu zählen ausdrücklich die affektive Instabilität und die Ängstlichkeit, weshalb auch die dritte Option die falsche Seite benennt. Lebensqualität und berufliche Integration bleiben trotz Symptombesserung ausdrücklich problematisch. Und die Identitätsproblematik wird nicht unter den verbesserten Bereichen geführt."
+    },
+    {
+      "topic": "Verlauf",
+      "hard": true,
+      "transfer": true,
+      "question": "Bei einer Patientin sind zehn Jahre nach Erstdiagnose Selbstverletzungen und Suizidversuche verschwunden; die raschen Stimmungsumschwünge und die Ängstlichkeit bestehen unverändert. Wie ist das einzuordnen?",
+      "options": [
+        "Als vollständige Remission der Borderline-Störung.",
+        "Als typischer Verlauf mit stabilen temperamentsnahen Zügen.",
+        "Als Hinweis darauf, dass die Erstdiagnose falsch gestellt war.",
+        "Als Verschlechterung gegenüber dem Ausgangsbefund.",
+        "Als untypischer Verlauf, da beides gemeinsam abklingen sollte."
+      ],
+      "answer": 1,
+      "explanation": "Genau dieses Muster ist typisch: Die verhaltensnahen Züge – Selbstverletzung und Suizidversuche – bessern sich, während die temperamentsnahen Züge affektive Instabilität und Ängstlichkeit stabil bleiben. Ein gemeinsames Abklingen beider Bereiche entspricht gerade nicht den Katamnesen. Aus dem Muster folgt kein Rückschluss auf eine Fehldiagnose. Eine vollständige Remission läge nur bei Rückbildung aller Bereiche vor. Und eine Verschlechterung widerspricht dem Wegfall des selbstschädigenden Verhaltens."
+    },
+    {
+      "topic": "Verlauf",
+      "hard": true,
+      "question": "Welche Aussage zum Langzeitverlauf der BPS trifft NICHT zu?",
+      "options": [
+        "Mit der Symptombesserung steigt regelhaft die Lebensqualität.",
+        "Die wenigsten kommen auf dem ersten Arbeitsmarkt an.",
+        "Ein zunehmender Anteil erfüllt die diagnostische Schwelle nicht mehr.",
+        "Die soziale und berufliche Integration bleibt häufig mangelhaft.",
+        "Eine Rückkehr der vollen Symptomatik ist eher selten."
+      ],
+      "answer": 0,
+      "explanation": "Trotz der Verbesserung der Symptomatik empfinden ehemalige Betroffene ausdrücklich eine geringe Lebensqualität – ein regelhafter Anstieg ist deshalb die gesuchte falsche Aussage. Dass ein wachsender Anteil die diagnostische Schwelle nicht mehr erfüllt, trifft ebenso zu wie die häufig mangelhafte soziale und berufliche Integration. Die wenigsten kommen trotz teils guter Ausbildung auf dem ersten Arbeitsmarkt an. Und die berichtete Rückfallrate ist niedrig."
+    },
+    {
+      "topic": "Komorbidität",
+      "question": "Welche Persönlichkeitsstörungen treten am häufigsten komorbid zur BPS auf?",
+      "options": [
+        "Die selbstunsichere, die dependente und die narzisstische.",
+        "Die paranoide, die schizoide und die schizotype Form.",
+        "Komorbide Persönlichkeitsstörungen kommen praktisch nicht vor.",
+        "Die histrionische, die zwanghafte und die dissoziale Form.",
+        "Die dissoziale, die schizotype und die zwanghafte Form."
+      ],
+      "answer": 0,
+      "explanation": "Als häufigste komorbide Persönlichkeitsstörungen bei bestehender Borderline-Störung werden die selbstunsichere, die dependente und die narzisstische Form genannt. Die Cluster-A-Formen paranoid, schizoid und schizotyp gehören nicht dazu, ebenso wenig die genannten Kombinationen mit histrionischer, zwanghafter oder dissozialer Form. Und komorbide Persönlichkeitsstörungen sind gerade häufig und nicht die Ausnahme."
+    },
+    {
+      "topic": "Komorbidität",
+      "question": "Wie häufig treten weitere Persönlichkeitsstörungen bei bestehender PS auf?",
+      "options": [
+        "Eine zweite PS-Diagnose wird grundsätzlich nicht vergeben.",
+        "Nur bei der Borderline-Störung kommen weitere PS vor.",
+        "Ein erheblicher Teil hat mindestens eine weitere PS.",
+        "Mehr als drei weitere PS sind der übliche Regelfall.",
+        "Weitere Persönlichkeitsstörungen sind praktisch ausgeschlossen."
+      ],
+      "answer": 2,
+      "explanation": "Ein erheblicher Teil der Betroffenen mit einer Persönlichkeitsstörung erfüllt zugleich die Kriterien mindestens einer weiteren – Mehrfachdiagnosen sind also verbreitet, wenn auch der größte Anteil bei einer einzelnen Störung bleibt. Ein Ausschluss weiterer Diagnosen oder ein grundsätzliches Verbot der Zweitdiagnose widerspricht dem. Eine Beschränkung auf die Borderline-Störung besteht nicht. Und mehr als drei zusätzliche Persönlichkeitsstörungen betreffen nur einen kleinen Anteil und sind gerade nicht der Regelfall."
+    },
+    {
+      "topic": "Komorbidität",
+      "hard": true,
+      "trap": "Klinische Stichproben sind selektiv: Wer mehrere Störungen hat, sucht eher Behandlung – die dortigen Raten bilden die Allgemeinbevölkerung nicht ab.",
+      "question": "Warum fallen die Komorbiditätsraten bei BPS in klinischen Einrichtungen so viel höher aus als in der Allgemeinbevölkerung?",
+      "options": [
+        "Die Diagnosekriterien unterscheiden sich in beiden Kontexten.",
+        "In der Allgemeinbevölkerung wird gar nicht erst untersucht.",
+        "Komorbidität begünstigt das Aufsuchen von Behandlung.",
+        "Die Behandlung selbst erzeugt die zusätzlichen Störungen.",
+        "In klinischen Stichproben wird großzügiger diagnostiziert."
+      ],
+      "answer": 2,
+      "explanation": "Die komorbiden Störungen werden ausdrücklich als Faktoren für Chronifizierung und für das Aufsuchen von Behandlung markiert – wer zusätzlich belastet ist, gelangt eher in klinische Stichproben, weshalb dort die Raten höher liegen. Eine großzügigere Diagnosestellung ist nicht der genannte Grund. Untersuchungen in der Allgemeinbevölkerung liegen sehr wohl vor und liefern gerade die Vergleichszahlen. Dass die Behandlung die Störungen erzeugt, kehrt die Kausalität um. Und unterschiedliche Diagnosekriterien werden nicht behauptet."
+    }
+  ]
+}

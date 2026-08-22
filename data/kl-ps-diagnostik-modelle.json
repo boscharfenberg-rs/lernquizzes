@@ -1,0 +1,420 @@
+{
+  "id": "kl-ps-diagnostik-modelle",
+  "title": "PS: Diagnostik, Cluster & Persönlichkeitsmodelle",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Persönlichkeitsstörungen im Altklausur-Stil: dimensionale, kategoriale und störungsspezifische Zugänge, Cluster A/B/C und Subtypen, die allgemeinen Kriterien einer PS, das DSM-5-Alternativmodell mit Funktionsniveau und Traits sowie die fünf ICD-11-Domänen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Diagnostische Zugänge",
+      "question": "Welche Aussage zu den diagnostischen Zugängen bei Persönlichkeit und Persönlichkeitsstörung trifft am ehesten zu?",
+      "options": [
+        "Störungsspezifische Verfahren erfassen die Gesamtpersönlichkeit.",
+        "Kategoriale Ansätze erfassen Merkmalsausprägungen auf Skalen.",
+        "Dimensionale Ansätze vergeben ausschließlich Ja-Nein-Diagnosen.",
+        "Dimensionale Ansätze erfassen Merkmalsausprägungen auf Skalen.",
+        "Beide Zugänge werden in keinem Klassifikationssystem kombiniert."
+      ],
+      "answer": 3,
+      "explanation": "Dimensionale Ansätze bilden Merkmale als Ausprägungsgrade auf Skalen ab – so arbeiten die Persönlichkeitsfragebögen im Deck. Kategoriale Ansätze vergeben demgegenüber Diagnosen nach dem Alles-oder-nichts-Prinzip, sodass die zweite Aussage die beiden Zugänge vertauscht. Ja-Nein-Diagnosen sind gerade das Kennzeichen des kategorialen und nicht des dimensionalen Zugangs. Störungsspezifische Verfahren zielen auf ein einzelnes Störungsbild und nicht auf die Gesamtpersönlichkeit. Und das DSM-5 sieht ausdrücklich die Möglichkeit vor, neben der kategorialen Diagnostik ein dimensionales Konzept zu erstellen."
+    },
+    {
+      "topic": "Diagnostische Zugänge",
+      "question": "Für welchen Bereich ist das PCL-R als störungsspezifisches Verfahren vorgesehen?",
+      "options": [
+        "Für die Erfassung der Borderline-Störung.",
+        "Für die Erfassung der Gesamtpersönlichkeit.",
+        "Für die kategoriale Diagnostik aller PS.",
+        "Für die Erfassung der Psychopathie.",
+        "Für die Erfassung des Funktionsniveaus."
+      ],
+      "answer": 3,
+      "explanation": "Das PCL-R ist im Deck ausdrücklich als störungsspezifisches Verfahren für die Psychopathie aufgeführt. Für die Borderline-Störung sind eigene störungsspezifische Verfahren vorgesehen. Die Gesamtpersönlichkeit erfassen die dimensionalen Persönlichkeitsfragebögen. Die kategoriale Diagnostik aller Persönlichkeitsstörungen leistet ein strukturiertes Interview nach DSM. Und das Funktionsniveau gehört zum Alternativmodell und nicht zu einem störungsspezifischen Verfahren."
+    },
+    {
+      "topic": "Diagnostische Zugänge",
+      "question": "Welchem Zugang ist ein strukturiertes Interview zur PS-Diagnostik nach DSM zuzuordnen?",
+      "options": [
+        "Dem störungsspezifischen Ansatz für BPS.",
+        "Dem kategorialen Ansatz der PS-Diagnostik.",
+        "Dem störungsspezifischen Psychopathie-Ansatz.",
+        "Dem Funktionsniveau-Modell der Sektion III.",
+        "Dem dimensionalen Ansatz der Persönlichkeit."
+      ],
+      "answer": 1,
+      "explanation": "Ein strukturiertes Interview zur PS-Diagnostik nach DSM steht für den kategorialen Zugang: Es prüft, ob die Kriterien einer definierten Störungskategorie erfüllt sind. Der dimensionale Ansatz arbeitet demgegenüber mit Persönlichkeitsfragebögen und Skalenwerten. Störungsspezifische Verfahren zielen auf ein einzelnes Bild wie die Borderline-Störung oder die Psychopathie. Und das Funktionsniveau-Modell gehört zum alternativen Modell im gesonderten Kapitel des DSM-5."
+    },
+    {
+      "topic": "Diagnostische Zugänge",
+      "transfer": true,
+      "question": "Ein Diagnostiker erhebt bei einem Klienten Ausprägungen auf fünf Persönlichkeitsdimensionen, ohne eine Diagnose zu vergeben. Welcher Zugang liegt vor?",
+      "options": [
+        "Ein kategorialer Ansatz zur PS-Diagnostik.",
+        "Ein Verfahren zur Bestimmung des Funktionsniveaus.",
+        "Ein störungsspezifischer Ansatz zur Psychopathie.",
+        "Ein dimensionaler Ansatz zur Persönlichkeit.",
+        "Ein störungsspezifischer Ansatz für die BPS."
+      ],
+      "answer": 3,
+      "explanation": "Ausprägungsgrade auf mehreren Persönlichkeitsdimensionen ohne Diagnosevergabe kennzeichnen den dimensionalen Zugang zur Persönlichkeit. Ein kategorialer Ansatz würde am Ende eine Diagnose vergeben oder verwerfen. Störungsspezifische Verfahren wären auf ein einzelnes Störungsbild zugeschnitten und nicht auf ein allgemeines Dimensionsprofil. Und das Funktionsniveau umfasst die Bereiche Selbst und Beziehung, nicht fünf Persönlichkeitsdimensionen."
+    },
+    {
+      "topic": "Cluster und Subtypen",
+      "question": "Welche Persönlichkeitsstörung zählt am ehesten NICHT zu Cluster B?",
+      "options": [
+        "Die schizotype Persönlichkeitsstörung.",
+        "Die Borderline-Persönlichkeitsstörung.",
+        "Die histrionische Persönlichkeitsstörung.",
+        "Die dissoziale Persönlichkeitsstörung.",
+        "Die narzisstische Persönlichkeitsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Die schizotype Form steht in Cluster A und damit nicht in Cluster B – sie ist die gesuchte Ausnahme. Die histrionische, die narzisstische und die dissoziale beziehungsweise antisoziale Persönlichkeitsstörung gehören ebenso zu Cluster B wie die Borderline-Persönlichkeitsstörung, die dort als Typus der emotional instabilen Störung geführt wird."
+    },
+    {
+      "topic": "Cluster und Subtypen",
+      "question": "Welche Persönlichkeitsstörung zählt am ehesten NICHT zu Cluster C?",
+      "options": [
+        "Die selbstunsichere Persönlichkeitsstörung.",
+        "Die dependente Persönlichkeitsstörung.",
+        "Die narzisstische Persönlichkeitsstörung.",
+        "Die zwanghafte Persönlichkeitsstörung.",
+        "Die ängstlich-vermeidende Persönlichkeitsstörung."
+      ],
+      "answer": 2,
+      "explanation": "Die narzisstische Persönlichkeitsstörung gehört zu Cluster B und ist damit die gesuchte Ausnahme. Cluster C umfasst die ängstlich-vermeidende beziehungsweise selbstunsichere Form, die abhängige beziehungsweise dependente Form sowie die anankastische beziehungsweise zwanghafte Form."
+    },
+    {
+      "topic": "Cluster und Subtypen",
+      "question": "Welches Cluster umfasst die paranoide, die schizoide und die schizotype Form?",
+      "options": [
+        "Cluster A der Persönlichkeitsstörungen.",
+        "Cluster B der Persönlichkeitsstörungen.",
+        "Cluster C der Persönlichkeitsstörungen.",
+        "Keines der drei Cluster, sondern eine eigene Gruppe.",
+        "Alle drei Cluster gleichermaßen, je nach Ausprägung."
+      ],
+      "answer": 0,
+      "explanation": "Die paranoide, die schizoide und die schizotype Form bilden gemeinsam Cluster A. Cluster B umfasst die dissoziale beziehungsweise antisoziale, die emotional instabile mit dem Borderline-Typus, die histrionische und die narzisstische Form. Cluster C umfasst die ängstlich-vermeidende, die abhängige und die anankastische Form. Eine eigene Gruppe außerhalb der Cluster bilden die drei Störungen nicht, und eine gleichzeitige Zugehörigkeit zu allen Clustern ist ausgeschlossen."
+    },
+    {
+      "topic": "Cluster und Subtypen",
+      "transfer": true,
+      "question": "Ein Patient zeigt durchgängiges Misstrauen, deutet neutrale Handlungen als feindselig und ist stark kränkbar. Welchem Cluster ist das Bild am ehesten zuzuordnen?",
+      "options": [
+        "Cluster B, dem die dissoziale Form zugeordnet ist.",
+        "Cluster A, dem die paranoide Form zugeordnet ist.",
+        "Keinem Cluster, da Misstrauen kein PS-Merkmal ist.",
+        "Allen Clustern, da Misstrauen unspezifisch auftritt.",
+        "Cluster C, dem die abhängige Form zugeordnet ist."
+      ],
+      "answer": 1,
+      "explanation": "Durchgängiges Misstrauen mit feindseliger Deutung neutraler Handlungen beschreibt die paranoide Form, die in Cluster A steht. Cluster B mit der dissozialen Form ist durch Missachtung der Rechte anderer gekennzeichnet, nicht durch Misstrauen als Leitmerkmal. Cluster C mit der abhängigen Form ist durch Anklammerung und Unselbstständigkeit geprägt. Misstrauen ist sehr wohl ein Merkmal einer Persönlichkeitsstörung, und die Zuordnung zu einem Cluster ist hier eindeutig möglich."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "question": "In wie vielen der genannten Bereiche muss bei einer Persönlichkeitsstörung mindestens eine Abweichung vorliegen?",
+      "options": [
+        "In sämtlichen genannten Bereichen zugleich.",
+        "In mindestens vier der genannten Bereiche.",
+        "In genau einem der genannten Bereiche.",
+        "In mehr als einem der genannten Bereiche.",
+        "Die Anzahl der Bereiche spielt keine Rolle."
+      ],
+      "answer": 3,
+      "explanation": "Die allgemeinen Kriterien verlangen eine Abweichung in mehr als einem der Bereiche Kognition, Affektivität, Impulskontrolle, Bedürfnisbefriedigung und Beziehungen. Ein einzelner betroffener Bereich genügt deshalb nicht. Sämtliche Bereiche müssen umgekehrt auch nicht betroffen sein. Eine feste Mindestzahl von vier Bereichen wird nicht gefordert. Und die Anzahl ist gerade nicht beliebig, sondern ausdrücklich auf mehr als einen Bereich festgelegt."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "question": "Welcher Bereich zählt am ehesten NICHT zu den in den allgemeinen PS-Kriterien genannten Abweichungsbereichen?",
+      "options": [
+        "Die Intelligenz und das allgemeine Leistungsvermögen.",
+        "Die Kognition als Bereich des Wahrnehmens und Denkens.",
+        "Die Affektivität als Bereich des Gefühlserlebens.",
+        "Die Gestaltung zwischenmenschlicher Beziehungen.",
+        "Die Impulskontrolle und die Bedürfnisbefriedigung."
+      ],
+      "answer": 0,
+      "explanation": "Intelligenz und Leistungsvermögen sind in der Aufzählung der Abweichungsbereiche nicht enthalten und damit die gesuchte Ausnahme. Genannt werden Kognition, Affektivität, Impulskontrolle, Bedürfnisbefriedigung und Beziehungen – die übrigen vier Optionen decken genau diese Bereiche ab."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "hard": true,
+      "question": "Welches Kriterium gehört zu den allgemeinen Kriterien einer Persönlichkeitsstörung?",
+      "options": [
+        "Der Beginn im späten Kindesalter oder der Adoleszenz.",
+        "Ein durchgehend episodischer Verlauf mit Remissionen.",
+        "Das Vorliegen einer weiteren psychiatrischen Störung.",
+        "Der Beginn nach einem klar benennbaren Lebensereignis.",
+        "Der Nachweis einer organischen Hirnfunktionsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Zu den allgemeinen Kriterien gehört der Nachweis, dass die Abweichung stabil und von langer Dauer ist und im späten Kindesalter oder in der Adoleszenz begonnen hat. Ein auslösendes Lebensereignis wird nicht gefordert. Eine organische Hirnfunktionsstörung muss im Gegenteil ausgeschlossen sein. Eine weitere psychiatrische Störung ist ebenfalls kein Kriterium, sondern die Abweichung darf gerade nicht durch eine solche erklärbar sein. Und ein episodischer Verlauf widerspricht der geforderten Stabilität."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "hard": true,
+      "trap": "Die organische Ursache ist ein Ausschluss-, kein Nachweiskriterium – und die Abweichung darf auch nicht Folge einer anderen psychiatrischen Störung sein.",
+      "question": "Welche Aussage zu den Ausschlusskriterien einer Persönlichkeitsstörung trifft zu?",
+      "options": [
+        "Ein auffälliger Testbefund muss dokumentiert sein.",
+        "Eine weitere psychiatrische Störung muss vorliegen.",
+        "Eine organische Hirnerkrankung muss nachgewiesen sein.",
+        "Ein akutes Lebensereignis muss vorausgegangen sein.",
+        "Eine organische Hirnerkrankung ist auszuschließen."
+      ],
+      "answer": 4,
+      "explanation": "Gefordert ist der Ausschluss einer organischen Erkrankung, Verletzung oder deutlichen Funktionsstörung des Gehirns – die organische Ursache ist also ein Ausschluss- und kein Nachweiskriterium. Ein Nachweis wäre die Umkehrung dieser Logik. Eine weitere psychiatrische Störung darf ebenfalls nicht die Erklärung für die Abweichung liefern, muss also gerade nicht vorliegen. Ein akutes Lebensereignis ist kein Kriterium. Und ein bestimmter Testbefund wird nicht verlangt."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "trap": "Persönlicher Leidensdruck und nachteiliger Einfluss auf die soziale Umwelt stehen alternativ nebeneinander – eines von beiden genügt.",
+      "question": "Was verlangt das Leidensdruck-Kriterium der allgemeinen PS-Kriterien?",
+      "options": [
+        "Leidensdruck und sozialen Nachteil stets gemeinsam.",
+        "Leidensdruck, sozialen Nachteil für andere oder beides.",
+        "Ausschließlich einen nachteiligen Einfluss auf die soziale Umwelt.",
+        "Ausschließlich persönlichen Leidensdruck der betroffenen Person.",
+        "Weder Leidensdruck noch sozialen Nachteil, nur Normabweichung."
+      ],
+      "answer": 1,
+      "explanation": "Das Kriterium lautet ausdrücklich: persönlicher Leidensdruck, nachteiliger Einfluss auf die soziale Umwelt oder beides. Eine Beschränkung allein auf den persönlichen Leidensdruck greift damit zu kurz, ebenso wie eine Beschränkung allein auf die Belastung des Umfelds. Die bloße Normabweichung genügt nicht, sie ist ein eigenes, zusätzliches Kriterium. Und ein gemeinsames Vorliegen beider Bedingungen wird gerade nicht verlangt."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "transfer": true,
+      "question": "Ein Mann fällt durch stark unflexibles, unangepasstes Verhalten auf, leidet selbst aber nicht darunter; sein Umfeld ist erheblich belastet. Ist das Leidensdruck-Kriterium erfüllt?",
+      "options": [
+        "Nein, weil beide Bedingungen gemeinsam vorliegen müssen.",
+        "Nicht beurteilbar, weil das Kriterium hier keine Rolle spielt.",
+        "Ja, weil bereits die Normabweichung allein ausreicht.",
+        "Nein, weil persönlicher Leidensdruck zwingend erforderlich ist.",
+        "Ja, weil auch der nachteilige Einfluss auf andere genügt."
+      ],
+      "answer": 4,
+      "explanation": "Das Kriterium ist alternativ formuliert: persönlicher Leidensdruck, nachteiliger Einfluss auf die soziale Umwelt oder beides. Die erhebliche Belastung des Umfelds erfüllt es also auch ohne eigenen Leidensdruck. Ein zwingender persönlicher Leidensdruck wird deshalb nicht verlangt, und ein gemeinsames Vorliegen beider Bedingungen erst recht nicht. Das Kriterium ist hier sehr wohl einschlägig und beurteilbar. Und die bloße Normabweichung allein genügt nicht, da sie ein separates Kriterium darstellt."
+    },
+    {
+      "topic": "Allgemeine PS-Kriterien",
+      "hard": true,
+      "question": "Wann darf der Subtyp einer Persönlichkeitsstörung näher bestimmt werden?",
+      "options": [
+        "Unabhängig von den allgemeinen Kriterien jederzeit.",
+        "Erst wenn alle allgemeinen Kriterien erfüllt sind.",
+        "Sobald mindestens die Hälfte der Kriterien erfüllt ist.",
+        "Sobald ein einzelnes charakteristisches Merkmal vorliegt.",
+        "Erst nach Ablauf einer Beobachtungszeit von zwei Jahren."
+      ],
+      "answer": 1,
+      "explanation": "Die Subtypisierung ist ausdrücklich erst zulässig, wenn sämtliche allgemeinen Kriterien erfüllt sind – die allgemeinen Kriterien bilden also die Eingangsschwelle. Eine Teilerfüllung genügt deshalb nicht, ebenso wenig ein einzelnes charakteristisches Merkmal. Eine von den allgemeinen Kriterien unabhängige Subtypisierung kehrt die vorgesehene Reihenfolge um. Und eine feste Beobachtungszeit von zwei Jahren wird nicht gefordert."
+    },
+    {
+      "topic": "DSM-5-Alternativmodell",
+      "question": "Welche Aussage zu den Neuerungen im DSM-5 bei Persönlichkeitsstörungen trifft NICHT zu?",
+      "options": [
+        "Die Unterscheidung von Achse 1 und Achse 2 entfällt.",
+        "Ein alternatives Modell steht in einem eigenen Kapitel.",
+        "Das Kapitel trägt den Titel der in Entwicklung befindlichen Modelle.",
+        "Die Einteilung in Cluster A, B und C wurde beibehalten.",
+        "An deren Stelle tritt ein monoaxiales diagnostisches System."
+      ],
+      "answer": 3,
+      "explanation": "Zu den Neuerungen gehört ausdrücklich, dass es keine Cluster A, B und C mehr gibt – die Beibehaltung ist deshalb die gesuchte falsche Aussage. Die Unterscheidung von Achse 1 und Achse 2 entfällt zugunsten eines monoaxialen Systems. Das alternative Modell für Persönlichkeitsstörungen ist in einem eigenen Kapitel untergebracht, das die in Entwicklung befindlichen Instrumente und Modelle versammelt."
+    },
+    {
+      "topic": "DSM-5-Alternativmodell",
+      "question": "Welche Aussage zum Funktionsniveau im Alternativmodell trifft NICHT zu?",
+      "options": [
+        "Es umfasst die Bereiche SELBST und BEZIEHUNG.",
+        "Zur BEZIEHUNG gehören Empathie und Intimität.",
+        "Es beschreibt gesundes und angepasstes Funktionieren.",
+        "Zum SELBST gehören Identität und Selbstlenkung.",
+        "Es umfasst die Bereiche Kognition und Affektivität."
+      ],
+      "answer": 4,
+      "explanation": "Kognition und Affektivität sind Bereiche der allgemeinen PS-Kriterien, nicht des Funktionsniveaus – das ist die gesuchte falsche Zuordnung. Das Funktionsniveau gliedert sich in SELBST mit den Dimensionen Identität und Selbstlenkung sowie BEZIEHUNG mit den Dimensionen Empathie und Intimität. Und es dient der Differenzierung von Merkmalsbereichen gesunden und gut angepassten Funktionierens."
+    },
+    {
+      "topic": "DSM-5-Alternativmodell",
+      "question": "Welche beiden Dimensionen gehören zum Bereich SELBST des Funktionsniveaus?",
+      "options": [
+        "Die Selbstlenkung und die Intimität.",
+        "Die Empathie und die Intimität.",
+        "Die Identität und die Selbstlenkung.",
+        "Die Identität und die Empathie.",
+        "Die Impulskontrolle und die Affektivität."
+      ],
+      "answer": 2,
+      "explanation": "Der Bereich SELBST umfasst die Identität – Bewusstheit über ein einzigartiges Selbst, Ich-Umwelt-Grenze, Selbstwert und Emotionsregulation – sowie die Selbstlenkung mit der Kongruenz von Lebenszielen und Kompetenzen. Impulskontrolle und Affektivität gehören zu den allgemeinen PS-Kriterien. Empathie und Intimität bilden zusammen den Bereich BEZIEHUNG, sodass alle Kombinationen mit diesen beiden Dimensionen die Bereichsgrenze überschreiten."
+    },
+    {
+      "topic": "DSM-5-Alternativmodell",
+      "question": "Eine Therapeutin beschreibt bei einer Klientin, dass sie Motive und Perspektiven anderer kaum nachvollziehen kann. Welcher Dimension des Funktionsniveaus entspricht das?",
+      "options": [
+        "Der Selbstlenkung im Bereich SELBST.",
+        "Keiner Dimension des Funktionsniveaus.",
+        "Der Empathie im Bereich BEZIEHUNG.",
+        "Der Intimität im Bereich BEZIEHUNG.",
+        "Der Identität im Bereich SELBST."
+      ],
+      "answer": 2,
+      "explanation": "Erfahrungen und Motive anderer zu verstehen, fremde Perspektiven zu akzeptieren und mentalisieren zu können, ist genau die Beschreibung der Empathie im Bereich BEZIEHUNG. Die Intimität meint befriedigende und stabile Beziehungen, also das Ergebnis und nicht die Verstehensleistung. Die Selbstlenkung betrifft Lebensziele und Selbstreflexion. Die Identität betrifft Selbstbewusstheit, Selbstwert und Emotionsregulation. Und das Funktionsniveau deckt diesen Aspekt sehr wohl ab."
+    },
+    {
+      "topic": "DSM-5-Alternativmodell",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Klient fällt durch Manipulationsneigung, Unehrlichkeit und Grandiosität auf. Welcher pathologischen Persönlichkeitseigenschaft entspricht das am ehesten?",
+      "options": [
+        "Dem Antagonismus beziehungsweise der Feindseligkeit.",
+        "Der Enthemmtheit mit Impulsivität und Ablenkbarkeit.",
+        "Der Verschlossenheit mit Rückzug und Affektarmut.",
+        "Dem Psychotizismus mit Exzentrizität und Wahrnehmungsstörungen.",
+        "Der negativen Emotionalität mit Labilität und Ängstlichkeit."
+      ],
+      "answer": 0,
+      "explanation": "Neigung zur Manipulation, Unehrlichkeit, Grandiosität und Suche nach Aufmerksamkeit sind die im Alternativmodell genannten Beispiele für Antagonismus beziehungsweise Feindseligkeit. Negative Emotionalität zeigt sich in emotionaler Labilität, Ängstlichkeit, Trennungsangst und Feindseligkeit im Affekt. Verschlossenheit umfasst sozialen Rückzug, Vermeidung von Nähe, Anhedonie und Affektarmut. Enthemmtheit steht für Verantwortungslosigkeit, Impulsivität und Ablenkbarkeit. Und Psychotizismus umfasst ungewöhnliche Überzeugungen, Exzentrizität und Wahrnehmungsstörungen."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "transfer": true,
+      "question": "Ein Patient zeigt eine geringe Frustrationstoleranz, schreibt kleinen Ereignissen große emotionale Bedeutung zu und erwartet von Veränderungen nur Schlechtes. Welche Domäne beschreibt das am ehesten?",
+      "options": [
+        "Zwanghaftigkeit mit Rigidität und Perfektionismus.",
+        "Negative Affektivität mit erhöhter Reagibilität.",
+        "Dissozialität mit Missachtung anderer Rechte.",
+        "Distanziertheit mit Rückzug aus Kontakten.",
+        "Enthemmung mit vorschnellem Reagieren."
+      ],
+      "answer": 1,
+      "explanation": "Geringe Frustrationstoleranz, die Tendenz, kleinen Ereignissen große emotionale Bedeutung zuzuschreiben, und negativistische Erwartungen gegenüber Veränderungen sind ausdrücklich der negativen Affektivität zugeordnet. Distanziertheit meint interpersonelle und emotionale Distanz mit Kontaktvermeidung. Dissozialität betrifft die Missachtung der Rechte und Gefühle anderer. Zwanghaftigkeit steht für Rigidität und Perfektionismus. Und Enthemmung meint vorschnelles Reagieren ohne Rücksicht auf Konsequenzen."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "transfer": true,
+      "question": "Eine Patientin meidet soziale Interaktionen, hat kaum Freundschaften, wirkt emotional reserviert und kann eigene Gefühle nur schwer benennen. Welche Domäne beschreibt das am ehesten?",
+      "options": [
+        "Dissozialität mit Selbstbezogenheit und geringer Empathie.",
+        "Enthemmung mit Impulsivität und Ablenkbarkeit.",
+        "Zwanghaftigkeit mit Rigidität und Regelfixierung.",
+        "Distanziertheit mit emotionaler und sozialer Distanz.",
+        "Negative Affektivität mit Angst und Niedergeschlagenheit."
+      ],
+      "answer": 3,
+      "explanation": "Vermeidung sozialer Interaktionen, seltene Freundschaften, kaum Intimität, emotionale Zurückhaltung und die Schwierigkeit, eigene Emotionen zu erkennen und zu benennen, sind die Merkmale der Distanziertheit. Negative Affektivität ist durch eine erhöhte Bandbreite und Intensität negativer Gefühle gekennzeichnet. Dissozialität betrifft die Selbstbezogenheit und den Empathiemangel gegenüber anderen. Zwanghaftigkeit steht für Rigidität und Regelfixierung. Und Enthemmung meint vorschnelles, impulsives Handeln."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "hard": true,
+      "trap": "Der Empathiemangel bei Dissozialität ist meist keine kognitive Unfähigkeit, andere zu verstehen, sondern Gleichgültigkeit gegenüber ihren Bedürfnissen.",
+      "question": "Wie wird die Selbstbezogenheit bei der Domäne Dissozialität differenziert?",
+      "options": [
+        "In eine impulsive und eine geplante Form der Aggression.",
+        "In eine aktiv-intentionale und eine passive Form.",
+        "In eine primäre und eine sekundäre Psychopathie.",
+        "In eine kindliche und eine erwachsene Ausprägungsform.",
+        "In eine affektive und eine kognitive Empathiestörung."
+      ],
+      "answer": 1,
+      "explanation": "Die Selbstbezogenheit wird als aktiv beziehungsweise intentional und als passiv beziehungsweise unbeabsichtigt beschrieben: Intentional äußert sie sich in der Annahme, aufgrund eigener Großartigkeit Aufmerksamkeit zu verdienen, unbeabsichtigt darin, die Bedürfnisse anderer schlicht zu vergessen. Eine Aufteilung in affektive und kognitive Empathiestörung wird nicht vorgenommen. Impulsive gegen geplante Aggression ist eine andere Unterscheidung. Primäre und sekundäre Psychopathie gehören zu einem anderen Konzept. Und eine Differenzierung nach Lebensalter wird nicht getroffen."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "hard": true,
+      "question": "Was kennzeichnet den Empathiemangel bei der Domäne Dissozialität am ehesten?",
+      "options": [
+        "Eine erst im höheren Lebensalter erworbene Eigenschaft.",
+        "Eine bewusste Entscheidung gegen jede Rücksichtnahme.",
+        "Gleichgültigkeit gegenüber den Bedürfnissen anderer.",
+        "Eine kognitive Unfähigkeit, andere überhaupt zu verstehen.",
+        "Eine vorübergehende Einschränkung in Belastungssituationen."
+      ],
+      "answer": 2,
+      "explanation": "Der Empathiemangel wird ausdrücklich als Gleichgültigkeit gegenüber den Emotionen und Bedürfnissen anderer beschrieben – und eben oft nicht als kognitive Unfähigkeit, andere zu verstehen. Genau diese Unfähigkeit ist deshalb die naheliegende, aber falsche Erklärung. Eine bloß vorübergehende, belastungsabhängige Einschränkung widerspricht dem überdauernden Charakter der Domäne. Eine bewusste Entscheidung wäre ein willentlicher Akt, während hier eine Grundhaltung beschrieben wird. Und ein Erwerb erst im höheren Lebensalter passt nicht zum frühen Beginn von Persönlichkeitsstörungen."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "transfer": true,
+      "question": "Ein Klient versäumt regelmäßig Fristen, überschätzt seine Fähigkeiten und handelt ohne Rücksicht auf Konsequenzen. Welche Domäne beschreibt das am ehesten?",
+      "options": [
+        "Die negative Affektivität mit heftigen Reaktionen.",
+        "Die Dissozialität mit Missachtung anderer Rechte.",
+        "Die Distanziertheit mit Vermeidung von Nähe.",
+        "Die Zwanghaftigkeit mit Fixierung auf Regeln.",
+        "Die Enthemmung mit Impulsivität und Leichtsinn."
+      ],
+      "answer": 4,
+      "explanation": "Missachtung von Fristen und Terminen, Leichtsinnigkeit aufgrund der Überschätzung eigener Fähigkeiten und vorschnelles Reagieren ohne Rücksicht auf negative Konsequenzen sind ausdrücklich Merkmale der Enthemmung. Negative Affektivität betrifft die Intensität negativer Gefühle. Dissozialität zielt auf die Missachtung der Rechte und Gefühle anderer, also auf den interpersonellen Schaden. Zwanghaftigkeit wäre mit Regelfixierung und Perfektionismus das Gegenteil des geschilderten Verhaltens. Und Distanziertheit betrifft den Rückzug aus Kontakten."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "question": "Welches Merkmal zählt am ehesten NICHT zur Domäne Zwanghaftigkeit?",
+      "options": [
+        "Starre Routinen und Planungsstrukturen.",
+        "Starke Beschäftigung mit Regeln und Normen.",
+        "Eine ausgeprägte Ablenkbarkeit im Alltag.",
+        "Rigidität in Denken und Verhalten.",
+        "Perfektionismus mit exzessiver Detailfixierung."
+      ],
+      "answer": 2,
+      "explanation": "Ablenkbarkeit gehört zur Enthemmung und nicht zur Zwanghaftigkeit – sie ist die gesuchte Ausnahme. Die starke Beschäftigung mit Regeln und Normen, der Perfektionismus mit exzessiver Beschäftigung mit Details, starre Routinen und Planungsstrukturen sowie die Rigidität in Denken und Verhalten bilden gemeinsam das Bild der Zwanghaftigkeit."
+    },
+    {
+      "topic": "ICD-11-Domänen",
+      "question": "Welche Aussage zur Domäne Zwanghaftigkeit trifft NICHT zu?",
+      "options": [
+        "Risiken werden konsequent vermieden statt eingegangen.",
+        "Emotionale Regungen anderer werden verurteilt.",
+        "Die hohen Standards erfüllen die meisten Menschen nicht.",
+        "Beziehungen können selten aufrechterhalten werden.",
+        "Emotionen und Verhalten sind kaum kontrolliert."
+      ],
+      "answer": 4,
+      "explanation": "Emotionen und Verhalten sind bei der Zwanghaftigkeit gerade stark kontrolliert und unflexibel – eine kaum vorhandene Kontrolle ist deshalb die gesuchte falsche Aussage. Interpersonelle Beziehungen können selten aufrechterhalten werden, weil die meisten Menschen den hohen Standards nicht genügen. Risiken werden vermieden. Und emotionale Regungen anderer werden verurteilt."
+    },
+    {
+      "topic": "Ich-Syntonie und klinische Folgen",
+      "trap": "Ich-Syntonie ist bei Persönlichkeitsstörungen der Regelfall – Borderline und die selbstunsichere PS sind die ausdrücklich genannten Ausnahmen.",
+      "question": "Welche beiden Persönlichkeitsstörungen werden als Ausnahmen von der Ich-Syntonie ausdrücklich genannt?",
+      "options": [
+        "Die Borderline-PS und die selbstunsichere PS.",
+        "Die paranoide PS und die schizotype PS.",
+        "Die dissoziale PS und die narzisstische PS.",
+        "Die histrionische PS und die narzisstische PS.",
+        "Die schizoide PS und die abhängige PS."
+      ],
+      "answer": 0,
+      "explanation": "Als Ausnahmen von der sonst geltenden Ich-Syntonie sind ausdrücklich die Borderline-Persönlichkeitsstörung und die selbstunsichere Persönlichkeitsstörung vermerkt – bei ihnen wird die Symptomatik als fremd und störend erlebt. Die histrionische, narzisstische, dissoziale, paranoide, schizotype, schizoide und abhängige Form werden in diesem Zusammenhang nicht als Ausnahme geführt."
+    },
+    {
+      "topic": "Ich-Syntonie und klinische Folgen",
+      "hard": true,
+      "question": "Welche klinische Konsequenz hat die Ich-Syntonie bei Persönlichkeitsstörungen?",
+      "options": [
+        "Eine erschwerte Abgrenzung gegenüber der Psychose.",
+        "Eine zwingende Indikation zur stationären Aufnahme.",
+        "Einen regelhaft günstigen Verlauf ohne Behandlung.",
+        "Eine besonders ausgeprägte Therapiemotivation der Betroffenen.",
+        "Eine problematische Therapiemotivation der Betroffenen."
+      ],
+      "answer": 4,
+      "explanation": "Weil die Symptomatik als zur eigenen Person gehörig und normal erlebt wird, ergibt sich daraus eine problematische Therapiemotivation – wer kein Problem sieht, sucht keine Behandlung. Eine besonders hohe Motivation wäre die Umkehrung dieser Logik. Ein günstiger Spontanverlauf folgt daraus nicht. Die Abgrenzung zur Psychose läuft über den Realitätsbezug und nicht über den Ich-Bezug, da beide Gruppen ich-synton sind. Und eine stationäre Aufnahme ergibt sich aus der Ich-Syntonie ebenso wenig zwingend."
+    },
+    {
+      "topic": "Ich-Syntonie und klinische Folgen",
+      "hard": true,
+      "transfer": true,
+      "trap": "Zwanghafte PS und Zwangsstörung ähneln sich inhaltlich stark – die Abgrenzung läuft über den Ich-Bezug, nicht über die Symptomatik.",
+      "question": "Ein Patient hält seine ausgeprägte Ordnungsliebe und Regelstrenge für richtig und wünscht sich, andere wären ebenso. Wie grenzt sich das von einer Zwangsstörung ab?",
+      "options": [
+        "Eine Abgrenzung ist zwischen beiden nicht möglich.",
+        "Über die Symptombreite: umschrieben gegenüber umfassend.",
+        "Über den Ich-Bezug: ich-synton gegenüber ich-dyston.",
+        "Über den Realitätsbezug: erhalten gegenüber aufgehoben.",
+        "Über den Beginn: Erwachsenenalter gegenüber Kindheit."
+      ],
+      "answer": 2,
+      "explanation": "Der Patient erlebt seine Regelstrenge als richtig und zu sich gehörig – das ist Ich-Syntonie und spricht für die zwanghafte Persönlichkeitsstörung. Bei der Zwangsstörung werden die Symptome demgegenüber als fremd und dem eigenen Wesen widersprechend, also ich-dyston, erlebt. Der Realitätsbezug ist bei beiden erhalten und trennt deshalb nicht. Die Symptombreite ist zwar bei der Persönlichkeitsstörung umfassender, doch die Richtung ist in der genannten Option vertauscht. Ein Beginn im Erwachsenenalter widerspricht dem frühen Beginn der Persönlichkeitsstörung. Und die Abgrenzung ist über den Ich-Bezug sehr wohl möglich."
+    }
+  ]
+}

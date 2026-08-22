@@ -1,0 +1,417 @@
+{
+  "id": "kl-bps-affekt-impuls-identitaet",
+  "title": "BPS: Affektregulation, Impulsivität & Identität",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Borderline-Psychopathologie im Altklausur-Stil: die vier Kernbereiche und Leitsymptome, Borderline als historische Restkategorie und klinische Typen, dysfunktionale Affektregulation und Anspannungskurve, neurobiologische Befunde, Motive der Selbstverletzung sowie die Identitätsstörung im Modell der strukturellen Dissoziation.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Kernbereiche und Leitsymptome",
+      "question": "Welcher Bereich zählt am ehesten NICHT zu den vier Kernbereichen der Borderline-Störung?",
+      "options": [
+        "Die Störung der Affektregulation und Anspannung.",
+        "Die Störung der sozialen Interaktion im Kontakt.",
+        "Die Störung des formalen Gedankengangs.",
+        "Die Störung der Identität und des Selbstbildes.",
+        "Die Störung der Impulskontrolle im Verhalten."
+      ],
+      "answer": 2,
+      "explanation": "Die Borderline-Störung wird im Kern als Störung der Affektregulation, der sozialen Interaktion, der Impulskontrolle und der Identität beschrieben – eine formale Denkstörung gehört nicht dazu und ist die gesuchte Ausnahme. Sie wäre ein Merkmal des Denkablaufs, wie es bei psychotischen Erkrankungen im Vordergrund steht. Die übrigen vier Optionen benennen genau die vier Kernbereiche."
+    },
+    {
+      "topic": "Kernbereiche und Leitsymptome",
+      "question": "Welches Merkmal wird als klinisches Leitsymptom der Borderline-Störung genannt?",
+      "options": [
+        "Die Schwierigkeit, Gesichter anderer zu erkennen.",
+        "Die Schwierigkeit, Termine zuverlässig einzuhalten.",
+        "Die Schwierigkeit, sich sprachlich auszudrücken.",
+        "Die Schwierigkeit, alleine sein zu können.",
+        "Die Schwierigkeit, Bewegungen flüssig auszuführen."
+      ],
+      "answer": 3,
+      "explanation": "Als Leitsymptome werden die Anspannung, das Alleinseinkönnen und die Fähigkeit, sich im Spiegel zu betrachten, genannt – die Schwierigkeit, alleine zu sein, gehört also unmittelbar dazu. Eine Störung der Gesichtererkennung oder des sprachlichen Ausdrucks wird nicht angeführt. Unzuverlässigkeit bei Terminen gehört zur Enthemmung als Persönlichkeitsdomäne, nicht zu den Borderline-Leitsymptomen. Und Bewegungsstörungen sind als somatische Auswirkung eher der Psychose zugeordnet."
+    },
+    {
+      "topic": "Kernbereiche und Leitsymptome",
+      "transfer": true,
+      "question": "Eine Patientin berichtet, sie könne den eigenen Anblick im Spiegel kaum aushalten und weiche ihm systematisch aus. Wie ist das einzuordnen?",
+      "options": [
+        "Als körperdysmorphe Störung mit Entstellungsangst.",
+        "Als überwertige Idee im Sinne einer Anorexie.",
+        "Als dissoziative Amnesie für das eigene Aussehen.",
+        "Als Depersonalisation mit fremdem Körpererleben.",
+        "Als eines der genannten Leitsymptome der BPS."
+      ],
+      "answer": 4,
+      "explanation": "Das Sich-im-Spiegel-betrachten-Können wird ausdrücklich als eines der drei klinischen Leitsymptome der Borderline-Störung geführt, neben Anspannung und Alleinseinkönnen. Eine körperdysmorphe Störung wäre durch die Überzeugung einer konkreten Entstellung gekennzeichnet, die hier nicht berichtet wird. Eine Amnesie betrifft das Erinnern und nicht die aktuelle Wahrnehmung. Eine überwertige Idee im Sinne der Anorexie bezöge sich auf Gewicht und Figur. Und Depersonalisation meint ein durchgängig verändertes Selbsterleben, nicht das gezielte Meiden des Spiegels."
+    },
+    {
+      "topic": "Historie und Borderline-Typen",
+      "hard": true,
+      "question": "Worauf geht die Bezeichnung „Borderline“ historisch zurück?",
+      "options": [
+        "Auf eine Restkategorie an der Grenze zwischen Psychose und Neurose.",
+        "Auf die Grenze zwischen Persönlichkeitsstörung und Trauma.",
+        "Auf die Grenzlinie zwischen Affektstörung und Angststörung.",
+        "Auf eine Grenzziehung zwischen Kindes- und Erwachsenenalter.",
+        "Auf die Grenze zwischen gesunder und gestörter Persönlichkeitsstruktur."
+      ],
+      "answer": 0,
+      "explanation": "Borderline war historisch ein Konzept für eine Restkategorie: Fälle, die weder den Psychosen noch den Neurosen klar zugeordnet werden konnten – daher die Grenzlinie zwischen diesen beiden Gruppen. Die Grenze zwischen gesunder und gestörter Persönlichkeit betrifft die allgemeine PS-Definition. Eine Grenzziehung zwischen Affekt- und Angststörung oder zwischen Persönlichkeitsstörung und Trauma steckt nicht hinter dem Begriff. Und ein Altersbezug spielt für die Begriffsherkunft keine Rolle."
+    },
+    {
+      "topic": "Historie und Borderline-Typen",
+      "trap": "Der Borderline-Typus betont die Identitätsproblematik, der impulsive Typus die Impulskontrollstörung – die beiden Typen der emotional instabilen PS werden leicht verwechselt.",
+      "question": "Worin unterscheiden sich der Borderline-Typus und der impulsive Typus der emotional instabilen Persönlichkeitsstörung?",
+      "options": [
+        "Beide Typen unterscheiden sich inhaltlich überhaupt nicht.",
+        "Der impulsive Typus betont stärker die Identitätsproblematik.",
+        "Der Borderline-Typus betont stärker die Impulskontrollstörung.",
+        "Der Borderline-Typus betont stärker die Identitätsproblematik.",
+        "Der impulsive Typus betont stärker die dissoziative Symptomatik."
+      ],
+      "answer": 3,
+      "explanation": "Beim Borderline-Typus liegt der Fokus stärker auf der Identitätsproblematik, beim impulsiven Typus stärker auf der Impulskontrollstörung. Die zweite und dritte Option vertauschen genau diese Zuordnung. Die dissoziative Symptomatik ist kein Unterscheidungsmerkmal der beiden Typen, sondern kennzeichnet den klinisch beschriebenen Trauma-Typus. Und ein inhaltlicher Unterschied besteht sehr wohl."
+    },
+    {
+      "topic": "Historie und Borderline-Typen",
+      "hard": true,
+      "question": "Welche Aussage zu den klinisch beschriebenen Borderline-Typen trifft NICHT zu?",
+      "options": [
+        "Der ADHS-Typus zeigt weniger Dissoziation als der Trauma-Typus.",
+        "Der psychosenahe Typus zeigt paranoide Anmutungen.",
+        "Der ADHS-Typus zeigt deutliche Impulsivität und Desorganisation.",
+        "Der Trauma-Typus zeigt starke Selbstzweifel und Dissoziationen.",
+        "Ihre Differenzierung ist empirisch gut validiert."
+      ],
+      "answer": 4,
+      "explanation": "Die Typendifferenzierung stammt aus der klinischen Erfahrung und wird ausdrücklich als empirisch nicht validiert gekennzeichnet – die behauptete gute Validierung ist deshalb die gesuchte falsche Aussage. Der Trauma-Typus ist durch starke Selbstzweifel und Dissoziationen charakterisiert. Der ADHS-Typus durch deutliche Impulsivität, Affektregulationsstörung und desorganisiertes Verhalten bei weniger Dissoziation. Und der psychosenahe Typus durch paranoide Anmutungen und intermittierende heftige Erregungszustände."
+    },
+    {
+      "topic": "Historie und Borderline-Typen",
+      "transfer": true,
+      "question": "Eine Patientin zeigt ausgeprägte Impulsivität, Affektregulationsprobleme und stark desorganisiertes Verhalten, dissoziiert aber kaum. Welchem klinischen Typus entspricht das am ehesten?",
+      "options": [
+        "Dem impulsiven Typus im engeren klassifikatorischen Sinn.",
+        "Dem ADHS-Typus der Borderline-Störung.",
+        "Dem psychosenahen Typus der Borderline-Störung.",
+        "Keinem der beschriebenen Typen der Borderline-Störung.",
+        "Dem Trauma-Typus der Borderline-Störung."
+      ],
+      "answer": 1,
+      "explanation": "Deutliche Impulsivität, Affektregulationsstörung und desorganisiertes Verhalten bei zugleich geringerer Dissoziation ist die Beschreibung des ADHS-Typus, der auf die häufige Komorbidität mit ADHS zurückgeht. Der Trauma-Typus wäre gerade durch starke Dissoziationen und Selbstzweifel gekennzeichnet, die hier fehlen. Der psychosenahe Typus zeigt paranoide Anmutungen und Erregungszustände. Der impulsive Typus ist eine klassifikatorische Kategorie und keine der klinisch beschriebenen Komorbiditätstypen. Und die Zuordnung ist eindeutig möglich."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "hard": true,
+      "question": "Wie werden die Anspannungszustände bei der Borderline-Störung beschrieben?",
+      "options": [
+        "Als Wutzustände mit eindeutig gerichtetem Handlungsimpuls.",
+        "Als depressive Verstimmungen mit Antriebsminderung.",
+        "Als klar abgrenzbare Angstzustände mit Vermeidungsimpuls.",
+        "Als Zustände ohne Zuordnung zu einer eindeutigen Emotion.",
+        "Als körperliche Erschöpfungszustände ohne emotionale Beteiligung."
+      ],
+      "answer": 3,
+      "explanation": "Die Anspannungszustände schießen schnell ein oder kumulieren, lassen sich keiner eindeutigen Emotion zuordnen und leiten deshalb auch keine Handlung an – genau darin liegt ihre Dysfunktionalität. Klar abgrenzbare Angst- oder Wutzustände würden demgegenüber einen gerichteten Handlungsimpuls erzeugen und wären damit handlungsleitend. Eine depressive Verstimmung mit Antriebsminderung beschreibt ein anderes Zustandsbild. Und eine rein körperliche Erschöpfung ohne emotionale Beteiligung trifft die Beschreibung ebenfalls nicht."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "hard": true,
+      "trap": "Die Selbstverletzung erscheint als das Mittel, das den Anspannungszustand beendet – nicht als Ausdruck eines Sterbewunsches.",
+      "question": "Wodurch können die beschriebenen Anspannungszustände nach Angaben der Betroffenen beendet werden?",
+      "options": [
+        "Durch Selbstverletzung als einziges wirksames Mittel.",
+        "Durch das Abklingen von selbst nach kurzer Zeit.",
+        "Durch gezielte Entspannungsübungen im Akutzustand.",
+        "Durch eine medikamentöse Behandlung mit Antidepressiva.",
+        "Durch Zuwendung einer vertrauten Bezugsperson."
+      ],
+      "answer": 0,
+      "explanation": "In der Beschreibung der dysfunktionalen Affektregulation heißt es ausdrücklich, dass die Anspannungszustände von den Patientinnen nur durch Selbstverletzung beendet werden können – darin liegt die Funktionalität des Verhaltens. Zuwendung, spontanes Abklingen, Entspannungsübungen und Antidepressiva werden an dieser Stelle gerade nicht als das wirksame Mittel benannt."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "hard": true,
+      "question": "Was kennzeichnet in der Anspannungskurve den Bereich oberhalb der beschriebenen Schwelle?",
+      "options": [
+        "Eine rasche Rückkehr zum emotionalen Ausgangsniveau.",
+        "Einen beginnenden Kontrollverlust über Denken und Handeln.",
+        "Das Einsetzen einer vollständigen Schmerzempfindlichkeit im Erleben.",
+        "Den Beginn einer psychotischen Episode mit Wahnbildung.",
+        "Ein vollständiges Erlöschen der emotionalen Reaktion."
+      ],
+      "answer": 1,
+      "explanation": "Oberhalb der Schwelle beginnt der Kontrollverlust über Gedanken, Gefühle, Wahrnehmungen und Handlungsimpulse – deshalb wird dieser Bereich als kritisch markiert. Ein Erlöschen der emotionalen Reaktion beschreibt das Gegenteil einer Anspannungsspitze. Eine psychotische Episode mit Wahnbildung ist nicht gemeint. Die Rückkehr zum Ausgangsniveau erfolgt gerade erst danach und bei Betroffenen verlangsamt. Und im Anspannungszustand besteht typischerweise ein analgetischer Zustand, also verminderte statt vollständiger Schmerzempfindlichkeit."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "question": "Welche Aussage zum Fazit der Affektregulation bei BPS trifft NICHT zu?",
+      "options": [
+        "Die Rückkehr zum Ausgangsniveau erfolgt besonders rasch.",
+        "Die Rückkehr zum Ausgangsniveau verläuft verlangsamt.",
+        "Starke Erregungszustände beeinflussen kognitive Prozesse.",
+        "Die Reaktivität ist erhöht, die Reaktionen fallen extrem aus.",
+        "Die Sensitivität ist erhöht, die Reizschwelle also niedriger."
+      ],
+      "answer": 0,
+      "explanation": "Charakteristisch ist gerade eine langsamere Rückkehr zum Ausgangsniveau mit lang anhaltenden Reaktionen – eine besonders rasche Rückkehr ist deshalb die gesuchte falsche Aussage und steht zugleich im Widerspruch zur letzten Option. Die erhöhte Sensitivität mit niedriger Reizschwelle, die erhöhte Reaktivität mit extremen Reaktionen und die Beeinflussung kognitiver Prozesse durch starke Erregung bilden gemeinsam das Fazit. Die verlangsamte Rückkehr führt überdies zu erhöhter Sensitivität für nachfolgende emotionale Reize."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "transfer": true,
+      "question": "Eine Patientin reagiert schon auf eine beiläufige Bemerkung mit heftiger Erregung und ist noch Stunden später nicht wieder beim Ausgangsniveau. Welche Merkmale beschreibt das?",
+      "options": [
+        "Erhöhte Sensitivität bei rascher Rückkehr zum Ausgangsniveau.",
+        "Verminderte Sensitivität bei zugleich deutlich erhöhter Reaktivität.",
+        "Erhöhte Sensitivität, erhöhte Reaktivität, verlangsamte Rückkehr.",
+        "Verminderte Reaktivität bei verlangsamter Rückkehr zur Ruhe.",
+        "Unauffällige Affektregulation mit situativ starker Reaktion."
+      ],
+      "answer": 2,
+      "explanation": "Die Reaktion auf einen geringen Anlass zeigt die niedrige Reizschwelle (erhöhte Sensitivität), die Heftigkeit zeigt die erhöhte Reaktivität, und das stundenlange Nachwirken zeigt die verlangsamte Rückkehr zum Ausgangsniveau – alle drei Merkmale des Fazits sind erfüllt. Eine verminderte Sensitivität widerspricht der Reaktion auf einen minimalen Auslöser. Eine rasche Rückkehr widerspricht dem stundenlangen Nachwirken. Eine verminderte Reaktivität widerspricht der Heftigkeit. Und eine unauffällige Affektregulation ist mit allen drei Beobachtungen unvereinbar."
+    },
+    {
+      "topic": "Neurobiologie der BPS",
+      "question": "Welche Aussage zu den neurobiologischen Befunden bei der BPS trifft NICHT zu?",
+      "options": [
+        "Für die Amygdala wird eine Hyperreaktivität berichtet.",
+        "Ein Zusammenhang zu früher Traumatisierung wird erwogen.",
+        "Der frontolimbische Regelkreis gilt als gestört.",
+        "Die Amygdala reagiert auf emotionale Reize vermindert.",
+        "Die Stress-Hormon-Achse gilt als sensitisiert."
+      ],
+      "answer": 3,
+      "explanation": "Berichtet wird eine Hyperreaktivität und gerade keine verminderte Reaktion der Amygdala – die erste Aussage kehrt den Befund um und ist damit die gesuchte falsche. Der gestörte frontolimbische Regelkreis und die sensitisierte Stress-Hormon-Achse sind die beiden weiteren genannten Befunde. Und ob diese Veränderungen Folge frühkindlicher Traumatisierung sind, wird ausdrücklich als offene Frage formuliert und dem Trauma-Typus zugeordnet."
+    },
+    {
+      "topic": "Neurobiologie der BPS",
+      "question": "Wie wird der Zusammenhang der neurobiologischen Befunde zur Traumatisierung dargestellt?",
+      "options": [
+        "Als gesicherte Folge ausschließlich frühkindlicher Traumatisierung.",
+        "Als offene Frage, ob sie Folge frühkindlicher Traumatisierung sind.",
+        "Als ausschließlich genetisch determinierte Hirnveränderung.",
+        "Als vollständig unabhängig von jeder Traumavorgeschichte.",
+        "Als Folge der medikamentösen Langzeitbehandlung der Störung."
+      ],
+      "answer": 1,
+      "explanation": "Die Befunde werden mit einem Fragezeichen versehen: Ob sie Folge frühkindlicher Traumatisierung sind, wird als offene Frage formuliert und dem Trauma-Typus zugeordnet. Als gesicherte und ausschließliche Traumafolge werden sie deshalb gerade nicht dargestellt. Eine völlige Unabhängigkeit von der Traumavorgeschichte widerspricht der ausdrücklich gestellten Frage. Eine rein genetische Determination wird ebenso wenig behauptet. Und eine Verursachung durch die Behandlung steht nirgends."
+    },
+    {
+      "topic": "Neurobiologie der BPS",
+      "transfer": true,
+      "question": "Bei einer Patientin fällt auf, dass emotionale Reize kaum durch übergeordnete Steuerung gedämpft werden. Welcher Befund beschreibt das am ehesten?",
+      "options": [
+        "Eine isolierte Schädigung des Hippocampus.",
+        "Eine Störung der sensorischen Thalamusfunktion.",
+        "Eine Unterfunktion der Stress-Hormon-Achse.",
+        "Eine Erkrankung des Hirnstamms mit Vigilanzstörung.",
+        "Ein gestörter frontolimbischer Regelkreis."
+      ],
+      "answer": 4,
+      "explanation": "Die fehlende Dämpfung emotionaler Reize durch übergeordnete Steuerung entspricht dem gestörten frontolimbischen Regelkreis zwischen präfrontalem Kortex und Amygdala. Eine isolierte Hippocampusschädigung würde vor allem Gedächtnis und Kontextualisierung betreffen. Eine thalamische Störung beträfe die sensorische Integration. Die Stress-Hormon-Achse ist bei der Borderline-Störung sensitisiert und nicht unterfunktionell. Und eine Hirnstammerkrankung mit Vigilanzstörung beschreibt ein ganz anderes Bild."
+    },
+    {
+      "topic": "Selbstverletzendes Verhalten",
+      "hard": true,
+      "trap": "Primäre Motive wirken unmittelbar auf den inneren Zustand (Anspannung, Schuld); sekundäre Motive wirken über die soziale Umwelt.",
+      "question": "Welches Motiv für Selbstverletzung ist am ehesten den primären Motiven zuzuordnen?",
+      "options": [
+        "Die Reduktion von Anspannung und Schuldgefühl.",
+        "Die Verlängerung eines stationären Aufenthalts.",
+        "Das Sichern von Nähe zu wichtigen Bezugspersonen.",
+        "Das Umgehen eines anstehenden Praktikumsbeginns.",
+        "Die Vermeidung einer sozialen Herausforderung."
+      ],
+      "answer": 0,
+      "explanation": "Die Reduktion von Anspannung und Schuldgefühl wirkt unmittelbar auf den inneren Zustand und gehört damit zu den primären Motiven. Das Sichern von Nähe, das Verlängern eines stationären Aufenthalts, das Vermeiden von Scham und sozialen Herausforderungen sowie das Umgehen eines Praktikumsbeginns wirken demgegenüber über die soziale Umwelt und zählen zu den sekundären Motiven."
+    },
+    {
+      "topic": "Selbstverletzendes Verhalten",
+      "question": "Welche Aussage zur multifaktoriellen Bedingtheit der Selbstverletzung trifft am ehesten zu?",
+      "options": [
+        "Selbstverletzung folgt ausschließlich sozialen Motiven.",
+        "Dasselbe Verhalten kann mehrere Funktionen zugleich erfüllen.",
+        "Selbstverletzung ist stets Ausdruck eines Sterbewunsches.",
+        "Selbstverletzung folgt ausschließlich inneren Anspannungen.",
+        "Jede Selbstverletzung erfüllt genau eine eindeutige Funktion."
+      ],
+      "answer": 1,
+      "explanation": "Die Darstellung führt primäre und sekundäre Motive nebeneinander auf und zeigt damit, dass ein und dasselbe Verhalten mehrere Funktionen zugleich erfüllen kann – von der Anspannungsreduktion bis zur Vermeidung sozialer Anforderungen. Eine einzige eindeutige Funktion widerspricht genau dieser Multifaktorialität. Ein Sterbewunsch ist gerade nicht das kennzeichnende Motiv. Und eine Beschränkung auf ausschließlich soziale oder ausschließlich innere Motive greift jeweils nur die Hälfte des Modells auf."
+    },
+    {
+      "topic": "Selbstverletzendes Verhalten",
+      "transfer": true,
+      "question": "Eine Patientin verletzt sich am Abend vor Beginn eines Praktikums; die Verletzung führt zur Verlängerung ihres stationären Aufenthalts. Wie ist das Motiv am ehesten einzuordnen?",
+      "options": [
+        "Als sekundäres Motiv über die Wirkung auf die Umwelt.",
+        "Als primäres Motiv über die Reduktion von Anspannung.",
+        "Als unabhängig von jeder erkennbaren Funktionalität.",
+        "Als primäres Motiv über die Reduktion von Schuldgefühl.",
+        "Als eindeutiger Ausdruck eines konkreten Suizidwunsches."
+      ],
+      "answer": 0,
+      "explanation": "Die Verlängerung des stationären Aufenthalts und die Vermeidung des Praktikums sind ausdrücklich als sekundäre Motive aufgeführt: Sie wirken über die soziale Umwelt und nicht unmittelbar auf den inneren Zustand. Die Reduktion von Anspannung und Schuldgefühl wären demgegenüber primäre Motive, die hier nicht im Vordergrund stehen. Ein Suizidwunsch ist nicht geschildert. Und gerade die Multifaktorialität zeigt, dass das Verhalten sehr wohl funktional zu verstehen ist."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "question": "Wie wird die Identitätsstörung bei der Borderline-Störung definiert?",
+      "options": [
+        "Als bewusster Wechsel zwischen sozialen Rollen.",
+        "Als anhaltende Unsicherheit über die eigene Herkunft.",
+        "Als vollständiger Verlust der eigenen Lebensgeschichte.",
+        "Als andauernde Instabilität des Selbstbildes.",
+        "Als vorübergehende Verwirrtheit über den eigenen Namen."
+      ],
+      "answer": 3,
+      "explanation": "Die Identitätsstörung ist als ausgeprägte und andauernde Instabilität des Selbstbildes beziehungsweise des Gefühls für sich selbst definiert. Ein vollständiger Verlust der Lebensgeschichte widerspricht dem bei der Borderline-Störung erhaltenen einheitlichen autobiografischen Gedächtnis. Ein bewusster Rollenwechsel wäre eine normale soziale Fähigkeit. Unsicherheit über die Herkunft und Verwirrtheit über den eigenen Namen beschreiben andere Phänomene."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "hard": true,
+      "trap": "Bei der BPS ist das autobiografische Gedächtnis einheitlich erhalten – bei der dissoziativen Identitätsstörung ist es desintegriert, mit Amnesien.",
+      "question": "Worin unterscheidet sich die Borderline-Störung im Modell der strukturellen Dissoziation am ehesten von der dissoziativen Identitätsstörung?",
+      "options": [
+        "Es liegen ausgeprägte situative Amnesien vor.",
+        "Das autobiografische Gedächtnis bleibt einheitlich.",
+        "Das Ich-Erleben ist durchgängig stabil und planbar.",
+        "Die Selbstanteile stehen unter bewusster Kontrolle.",
+        "Die Selbstanteile sind vollständig integriert."
+      ],
+      "answer": 1,
+      "explanation": "Bei der Borderline-Störung sind die Selbstanteile zwar wenig integriert und die Selbstkontrolle fehlt, das autobiografische Gedächtnis bleibt aber einheitlich – genau darin liegt der Unterschied zur dissoziativen Identitätsstörung mit desintegriertem Gedächtnis und Amnesien. Vollständig integrierte Selbstanteile unter bewusster Kontrolle bei stabilem Ich-Erleben beschreiben den gesunden Pol der Dimension. Ein durchgängig stabiles und planbares Ich-Erleben widerspricht dem Erleben, nicht planbar zu sein. Und ausgeprägte situative Amnesien kennzeichnen gerade die Identitätsstörung."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "question": "Wie wird der gesunde Pol auf der Dimension der Ich-Integration beschrieben?",
+      "options": [
+        "Verschiedene Selbstanteile, voll integriert und kontrollierbar.",
+        "Verschiedene Selbstanteile ohne einheitliches Gedächtnis.",
+        "Verschiedene Selbstanteile, situativ triggerbar und desintegriert.",
+        "Ein instabiles Ich-Erleben bei erhaltenem Gedächtnis.",
+        "Ein einziger Selbstanteil ohne jede innere Differenzierung."
+      ],
+      "answer": 0,
+      "explanation": "Am gesunden Pol bestehen ebenfalls verschiedene Selbstanteile, diese sind jedoch voll integriert, stehen unter bewusster Kontrolle und gehen mit stabilem Ich-Erleben einher. Ein einziger, undifferenzierter Selbstanteil ist gerade nicht gemeint – auch Gesunde verfügen über mehrere Selbstzustände. Situativ triggerbare, desintegrierte Anteile ohne einheitliches Gedächtnis beschreiben den Pol der dissoziativen Identitätsstörung. Und ein instabiles Ich-Erleben bei erhaltenem Gedächtnis entspricht der mittleren Position der Borderline-Störung."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "question": "Wie beschreibt Fiedler die Stimmungsschwankung bei der Borderline-Störung?",
+      "options": [
+        "Als rein affektive Schwankung ohne kognitive Beteiligung.",
+        "Als tageszeitabhängige Schwankung der Grundstimmung.",
+        "Als Wechsel ganzheitlicher emotional-kognitiver Schemata.",
+        "Als episodischen Wechsel zwischen Manie und Depression.",
+        "Als medikamentös ausgelöste Nebenwirkung der Behandlung."
+      ],
+      "answer": 2,
+      "explanation": "Fiedler beschreibt die Schwankung als mehr als eine Stimmungsschwankung: Es handelt sich um den Wechsel ganzheitlicher komplexer emotional-kognitiver Schemata. Eine rein affektive Schwankung ohne kognitive Beteiligung greift deshalb zu kurz. Eine tageszeitabhängige Schwankung beschreibt das Morgentief bei depressiven Störungen. Ein episodischer Wechsel zwischen Manie und Depression kennzeichnet die bipolare Störung. Und eine medikamentöse Verursachung wird nicht angeführt."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "transfer": true,
+      "question": "Eine Patientin sagt: „Ob ich das nächste Woche noch will, weiß ich nicht – kommt drauf an, wie ich morgen drauf bin.“ Was beschreibt das am ehesten?",
+      "options": [
+        "Eine kognitive Einschränkung im Bereich der Planung.",
+        "Eine bewusste Weigerung, verbindliche Zusagen zu machen.",
+        "Das Erleben, für sich selbst nicht planbar zu sein.",
+        "Eine wahnhafte Überzeugung, fremdbestimmt zu handeln.",
+        "Eine dissoziative Amnesie für zurückliegende Absprachen."
+      ],
+      "answer": 2,
+      "explanation": "Weil die Selbstanteile wenig integriert sind und die Selbstkontrolle fehlt, erleben Betroffene sich als nicht planbar – die zitierte Formulierung wird im Deck genau so wiedergegeben. Eine dissoziative Amnesie beträfe das Erinnern zurückliegender Absprachen und nicht die Vorhersage des eigenen Zustands. Eine bewusste Weigerung wäre ein willentlicher Akt. Eine wahnhafte Fremdbestimmung würde einen Verlust des Realitätsbezugs voraussetzen. Und eine kognitive Planungseinschränkung beschriebe ein Leistungsdefizit statt eines instabilen Selbsterlebens."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "hard": true,
+      "question": "Welche klinische Beobachtung wird zum Verhältnis von dissoziativer Identitätsstörung und Borderline-Störung berichtet?",
+      "options": [
+        "Nach Integration einer Identitätsstörung besteht meist Symptomfreiheit.",
+        "Nach Integration einer Identitätsstörung resultiert oft eine BPS.",
+        "Beide Störungen schließen einander gegenseitig vollständig aus.",
+        "Beide Störungen sind klinisch nicht voneinander unterscheidbar.",
+        "Aus einer BPS entwickelt sich regelhaft eine Identitätsstörung."
+      ],
+      "answer": 1,
+      "explanation": "Als klinische Expertenerfahrung wird berichtet, dass nach erfolgter Integration einer dissoziativen Identitätsstörung oft eine Borderline-Störung resultiert – die Position auf der Dimension der Ich-Integration verschiebt sich also, ohne den gesunden Pol zu erreichen. Vollständige Symptomfreiheit wird gerade nicht berichtet. Die umgekehrte Entwicklung von der Borderline-Störung zur Identitätsstörung wird nur als Frage formuliert, nicht als Regel. Ein gegenseitiger Ausschluss widerspricht dem Dimensionsmodell. Und die beiden Bilder sind über das autobiografische Gedächtnis sehr wohl unterscheidbar."
+    },
+    {
+      "topic": "Identitätsstörung",
+      "question": "Welche Aussage zum Modell der strukturellen Dissoziation trifft NICHT zu?",
+      "options": [
+        "Bei der BPS fehlt die bewusste Kontrolle über die Anteile.",
+        "Bei der Identitätsstörung sind Anteile situativ triggerbar.",
+        "Es beschreibt eine durchgehende Dimension der Ich-Integration.",
+        "Auch Gesunde verfügen über verschiedene, integrierte Selbstanteile.",
+        "Es ordnet die drei Zustände in klar getrennte Kategorien ein."
+      ],
+      "answer": 4,
+      "explanation": "Das Modell ist ausdrücklich dimensional angelegt und ordnet gesundes Erleben, Borderline-Störung und dissoziative Identitätsstörung auf einem Kontinuum an – eine Einteilung in klar getrennte Kategorien ist deshalb die gesuchte falsche Aussage. Die Dimension der Ich-Integration bildet die Achse. Auch Gesunde verfügen über verschiedene Selbstanteile, kontrollieren sie jedoch bewusst. Bei der Borderline-Störung fehlt genau diese Kontrolle. Und bei der Identitätsstörung sind die Anteile situativ triggerbar."
+    },
+    {
+      "topic": "Kernbereiche und Leitsymptome",
+      "question": "Welcher Kernbereich der Borderline-Störung ist mit den Anspannungszuständen unmittelbar verbunden?",
+      "options": [
+        "Die Störung der sozialen Interaktion.",
+        "Die Störung des autobiografischen Gedächtnisses.",
+        "Die Störung der Affektregulation.",
+        "Die Störung der Identität und des Selbstbildes.",
+        "Die Störung des Realitätsbezugs im engeren Sinne."
+      ],
+      "answer": 2,
+      "explanation": "Die schnell einschießenden oder kumulierenden Anspannungszustände werden ausdrücklich als klinisches Leitsymptom der dysfunktionalen Affektregulation geführt. Die soziale Interaktionsstörung betrifft den Nähe-Distanz-Konflikt und das Beziehungsverhalten. Die Identitätsstörung betrifft die Instabilität des Selbstbildes. Der Realitätsbezug ist bei der Borderline-Störung im Regelfall erhalten und kein Kernbereich. Und das autobiografische Gedächtnis bleibt gerade einheitlich."
+    },
+    {
+      "topic": "Dysfunktionale Affektregulation",
+      "question": "Welche Aussage zur Handlungsleitung der Anspannungszustände trifft am ehesten zu?",
+      "options": [
+        "Sie leiten eine geplante und reflektierte Handlung an.",
+        "Sie leiten eine klar gerichtete Vermeidungshandlung an.",
+        "Sie leiten wegen fehlender Zuordnung keine Handlung an.",
+        "Sie leiten stets eine aggressive Handlung gegen andere an.",
+        "Sie leiten regelhaft eine Annäherungshandlung an."
+      ],
+      "answer": 2,
+      "explanation": "Weil die Anspannungszustände keiner eindeutigen Emotion zugeordnet werden können, leiten sie auch keine Handlung an – das ist der entscheidende Zwischenschritt in der Beschreibung. Eine klar gerichtete Vermeidungs- oder Annäherungshandlung setzt eine identifizierte Emotion voraus. Eine regelhafte Aggression gegen andere wird nicht beschrieben. Und geplantes, reflektiertes Handeln steht dem Kontrollverlust im Anspannungszustand entgegen."
+    },
+    {
+      "topic": "Neurobiologie der BPS",
+      "question": "Welche Aussage zur Stress-Hormon-Achse bei der Borderline-Störung trifft zu?",
+      "options": [
+        "Sie ist erst im höheren Lebensalter mitbetroffen.",
+        "Sie ist herunterreguliert und damit unterempfindlich.",
+        "Sie ist nur bei komorbider Depression verändert.",
+        "Sie ist vollständig unverändert gegenüber Gesunden.",
+        "Sie ist sensitisiert und damit überempfindlich."
+      ],
+      "answer": 4,
+      "explanation": "Unter den neurobiologischen Defiziten wird ausdrücklich eine sensitisierte Stress-Hormon-Achse genannt, also eine erhöhte Ansprechbarkeit. Eine Herunterregulation kehrt diesen Befund um. Eine völlige Unveränderlichkeit widerspricht der Nennung überhaupt. Eine Bindung an eine komorbide Depression wird nicht hergestellt. Und ein Auftreten erst im höheren Lebensalter passt nicht zum frühen Beginn der Störung."
+    },
+    {
+      "topic": "Historie und Borderline-Typen",
+      "question": "Welche Aussage zum psychosenahen Typus der Borderline-Störung trifft NICHT zu?",
+      "options": [
+        "Er zeigt paranoide Anmutungen im aktuellen Erleben.",
+        "Er zeigt intermittierende heftige Erregungszustände.",
+        "Er gehört zu den klinisch beschriebenen Borderline-Typen der Praxis.",
+        "Seine Abgrenzung ist empirisch bislang nicht validiert.",
+        "Er ist durch eine anhaltende Wahnsymptomatik gekennzeichnet."
+      ],
+      "answer": 4,
+      "explanation": "Beschrieben werden paranoide Anmutungen und intermittierende Erregungszustände, nicht aber eine anhaltende Wahnsymptomatik – psychotisch wirkende Phänomene bei der Borderline-Störung gelten als eher pseudopsychotisch, weshalb die erste Aussage die gesuchte falsche ist. Die paranoiden Anmutungen und die heftigen Erregungszustände sind die beiden genannten Merkmale. Der psychosenahe Typus gehört neben Trauma- und ADHS-Typus zu den klinisch beschriebenen Varianten. Und für alle drei gilt ausdrücklich, dass die Differenzierung empirisch nicht validiert ist."
+    },
+    {
+      "topic": "Selbstverletzendes Verhalten",
+      "question": "Welches Motiv zählt am ehesten NICHT zu den sekundären Motiven der Selbstverletzung?",
+      "options": [
+        "Das Umgehen einer anstehenden sozialen Anforderung.",
+        "Das Sichern von Nähe zu wichtigen Bezugspersonen.",
+        "Das Verlängern eines stationären Aufenthalts.",
+        "Die unmittelbare Reduktion der inneren Anspannung.",
+        "Das Vermeiden von Scham in sozialen Situationen."
+      ],
+      "answer": 3,
+      "explanation": "Die unmittelbare Reduktion der Anspannung wirkt auf den inneren Zustand und zählt damit zu den primären Motiven – sie ist die gesuchte Ausnahme. Das Sichern von Nähe, das Vermeiden von Scham, das Verlängern eines stationären Aufenthalts und das Umgehen sozialer Anforderungen wirken demgegenüber über die soziale Umwelt und bilden gemeinsam die sekundären Motive."
+    }
+  ]
+}
