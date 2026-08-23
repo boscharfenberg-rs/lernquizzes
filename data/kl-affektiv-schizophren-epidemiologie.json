@@ -1,0 +1,418 @@
+{
+  "id": "kl-affektiv-schizophren-epidemiologie",
+  "title": "Affektiv vs. schizophren & Epidemiologie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Affektive Störungen im Altklausur-Stil: die vier Konstellationen aus affektiven und schizophrenen Symptomen, Depression im schizophrenen Prodrom und postpsychotische Depression, Kriterien der schizoaffektiven Störung, psychotische affektive Störungen, Wahnformen im Vergleich sowie Epidemiologie affektiver und schizophrener Störungen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Konstellationen affektiv und schizophren",
+      "question": "Welche Konstellation zählt am ehesten NICHT zu den vier differenzialdiagnostischen Grundformen?",
+      "options": [
+        "Die unabhängige Komorbidität von Schizophrenie und Depression.",
+        "Die psychotischen affektiven Störungen mit Wahn.",
+        "Die Anpassungsstörung nach belastenden Lebensereignissen.",
+        "Das Auftreten einer Depression im schizophrenen Verlauf.",
+        "Die schizoaffektive Psychose mit beiden Symptomgruppen."
+      ],
+      "answer": 2,
+      "explanation": "Die Anpassungsstörung gehört nicht zu den vier Grundformen und ist damit die gesuchte Ausnahme. Unterschieden werden die unabhängige Komorbidität von Schizophrenie und Depression, das Auftreten einer Depression im schizophrenen Verlauf – im Prodrom, in der akuten Episode oder als postpsychotische Depression –, die schizoaffektive Psychose sowie die psychotischen affektiven Störungen."
+    },
+    {
+      "topic": "Konstellationen affektiv und schizophren",
+      "question": "Was kennzeichnet die unabhängige Komorbidität von Schizophrenie und Depression?",
+      "options": [
+        "Die depressiven Episoden folgen stets auf die psychotischen.",
+        "Beide Störungen treten stets in derselben Episode gemeinsam auf.",
+        "Die Schwere beider Störungen verläuft eng gekoppelt.",
+        "Zwischen den Episoden beider Störungen besteht keine Beziehung.",
+        "Die psychotischen Symptome hängen vom affektiven Schweregrad ab."
+      ],
+      "answer": 3,
+      "explanation": "Bei der unabhängigen Komorbidität ist weder zwischen den affektiven und den schizophrenen Episoden noch in Bezug auf den Schweregrad eine Beziehung feststellbar – genau das macht sie unabhängig. Eine feste zeitliche Reihenfolge oder eine enge Schweregradkopplung widerspricht dem. Die Abhängigkeit psychotischer Symptome vom affektiven Schweregrad kennzeichnet die psychotischen affektiven Störungen. Und ein gemeinsames Auftreten in derselben Episode beschreibt die schizoaffektive Störung."
+    },
+    {
+      "topic": "Konstellationen affektiv und schizophren",
+      "question": "In welchen drei Phasen kann eine Depression im schizophrenen Verlauf auftreten?",
+      "options": [
+        "Ausschließlich im Prodrom vor der ersten Episode.",
+        "Ausschließlich während der akuten psychotischen Episode.",
+        "Nur im Rahmen einer eigenständigen zweiten Erkrankung.",
+        "Ausschließlich nach vollständiger Remission der Psychose.",
+        "Im Prodrom, in der akuten Episode und danach."
+      ],
+      "answer": 4,
+      "explanation": "Depressive Symptome können im Prodromzustand der Schizophrenie, als depressive und manische Symptome in der akuten Episode sowie als postpsychotische Depression danach auftreten. Jede Beschränkung auf nur eine dieser Phasen greift deshalb zu kurz. Und eine eigenständige zweite Erkrankung beschreibt die unabhängige Komorbidität als eigene Konstellation."
+    },
+    {
+      "topic": "Konstellationen affektiv und schizophren",
+      "transfer": true,
+      "question": "Bei einem Patienten treten depressive und psychotische Episoden über Jahre auf, ohne dass ein zeitlicher oder Schweregrad-Zusammenhang erkennbar wäre. Welche Konstellation liegt am ehesten vor?",
+      "options": [
+        "Eine postpsychotische Depression nach akuter Episode.",
+        "Eine schizoaffektive Psychose mit gemeinsamer Episode.",
+        "Eine unabhängige Komorbidität beider Störungen.",
+        "Eine Depression im schizophrenen Prodromzustand.",
+        "Eine psychotische Depression mit synthymem Wahn."
+      ],
+      "answer": 2,
+      "explanation": "Fehlt jede Beziehung zwischen den Episoden und zwischen den Schweregraden, liegt die unabhängige Komorbidität vor. Die schizoaffektive Psychose verlangt das Auftreten beider Symptomgruppen während einer gemeinsamen Episode. Die psychotische Depression bindet die psychotischen Symptome gerade an den affektiven Schweregrad. Die postpsychotische Depression folgt einer akuten Episode. Und das Prodrom geht der ersten schizophrenen Episode voraus."
+    },
+    {
+      "topic": "Depression im schizophrenen Verlauf",
+      "hard": true,
+      "question": "Was ist zur Depression im schizophrenen Prodrom festzuhalten?",
+      "options": [
+        "Das Prodrom verläuft regelhaft völlig ohne affektive Symptome.",
+        "Das Prodrom ist erst im Rückblick überhaupt erkennbar.",
+        "Betroffene werden oft zuvor mit der Diagnose Depression behandelt.",
+        "Die Diagnose Depression wird dort so gut wie nie gestellt.",
+        "Depressive Symptome schließen eine spätere Psychose aus."
+      ],
+      "answer": 2,
+      "explanation": "Vor der ersten schizophrenen Episode werden Betroffene häufig bereits stationär behandelt, und zwar unter der Diagnose Depression – die affektive Symptomatik geht der Psychose also voraus. Ein regelhaft affektfreies Prodrom widerspricht dem. Depressive Symptome schließen eine spätere Psychose keineswegs aus. Die Diagnose Depression wird dort gerade häufig gestellt. Und erfahrene Behandler bemerken das Prodrom durchaus schon prospektiv, wie das sogenannte Praecox-Gefühl zeigt."
+    },
+    {
+      "topic": "Depression im schizophrenen Verlauf",
+      "question": "Was bezeichnet das sogenannte Praecox-Gefühl?",
+      "options": [
+        "Ein standardisiertes Instrument zur Früherkennung.",
+        "Den klinischen Eindruck erfahrener Behandler im Prodrom.",
+        "Eine körperliche Missempfindung im Krankheitsverlauf.",
+        "Ein Frühwarnsymptom, das Betroffene selbst berichten.",
+        "Ein Kriterium der schizoaffektiven Diagnosestellung."
+      ],
+      "answer": 1,
+      "explanation": "Das Praecox-Gefühl beschreibt den klinischen Eindruck erfahrener Behandler, dass sich hinter der aktuellen Symptomatik eine sich anbahnende Psychose verbirgt. Ein von Betroffenen berichtetes Symptom ist damit nicht gemeint, ebenso wenig ein standardisiertes Instrument. Eine körperliche Missempfindung beschreibt es nicht. Und als formales Diagnosekriterium ist es nirgends vorgesehen."
+    },
+    {
+      "topic": "Depression im schizophrenen Verlauf",
+      "hard": true,
+      "trap": "Der niedergedrückte Affekt der postpsychotischen Depression und der flache Affekt der Negativsymptomatik sind schwer zu trennen.",
+      "question": "Worin besteht die Hauptschwierigkeit bei der postpsychotischen Depression?",
+      "options": [
+        "In der Abgrenzung gegenüber einer bipolaren Störung.",
+        "In der Abgrenzung gegenüber der akuten Positivsymptomatik.",
+        "In der Abgrenzung gegenüber einer schizoaffektiven Störung.",
+        "In der Abgrenzung gegenüber einer Anpassungsstörung.",
+        "In der Abgrenzung gegenüber der Negativsymptomatik."
+      ],
+      "answer": 4,
+      "explanation": "Die postpsychotische Depression ist schwer von der Negativsymptomatik abzugrenzen, die häufig im späteren Verlauf schizophrener Erkrankungen auftritt; entscheidend ist dabei die Unterscheidung zwischen niedergedrücktem und flachem Affekt. Die akute Positivsymptomatik ist zu diesem Zeitpunkt gerade abgeklungen. Die schizoaffektive Störung verlangt das gleichzeitige Auftreten beider Symptomgruppen. Eine bipolare Störung und eine Anpassungsstörung werden in diesem Zusammenhang nicht als Hauptabgrenzung genannt."
+    },
+    {
+      "topic": "Depression im schizophrenen Verlauf",
+      "question": "Welche Deutung wird für die postpsychotische Depression erwogen?",
+      "options": [
+        "Ein Vorbote einer neuen manischen Episode.",
+        "Eine Nebenwirkung der antidepressiven Behandlung.",
+        "Ein Erschöpfungssyndrom nach der akuten Episode.",
+        "Ein Zeichen vollständiger Remission der Psychose.",
+        "Eine unabhängig entstandene zweite Grunderkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Als Deutung wird ein Erschöpfungssyndrom nach der akuten Episode erwogen. Eine unabhängig entstandene zweite Grunderkrankung entspräche der Konstellation der unabhängigen Komorbidität. Eine Nebenwirkung antidepressiver Behandlung ist nicht gemeint. Ein Vorbote einer manischen Episode gehört in den bipolaren Kontext. Und ein Zeichen vollständiger Remission wäre mit der depressiven Symptomatik unvereinbar."
+    },
+    {
+      "topic": "Depression im schizophrenen Verlauf",
+      "transfer": true,
+      "question": "Ein Patient wirkt nach abgeklungener psychotischer Episode antriebsarm und im Ausdruck reduziert. Welche Unterscheidung ist am ehesten zu treffen?",
+      "options": [
+        "Punktprävalenz gegenüber Lebenszeitprävalenz.",
+        "Ich-syntones gegenüber ich-dystonem Erleben.",
+        "Bizarrer gegenüber nicht bizarrem Wahninhalt.",
+        "Niedergedrückter gegenüber flachem Affekt.",
+        "Synthymer gegenüber parathymem Wahnerleben."
+      ],
+      "answer": 3,
+      "explanation": "Die entscheidende Frage lautet, ob ein niedergedrückter Affekt im Sinne einer postpsychotischen Depression oder ein flacher Affekt im Sinne der Negativsymptomatik vorliegt – genau diese Unterscheidung wird als schwierig markiert. Synthym gegen parathym betrifft die Stimmungskongruenz eines Wahns. Bizarr gegen nicht bizarr betrifft den Wahninhalt. Ich-synton gegen ich-dyston betrifft das Erleben der Symptomatik als eigen oder fremd. Und die Prävalenzmaße gehören in die Epidemiologie."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "hard": true,
+      "trap": "Bei affektiven Störungen sind Wahn und Halluzinationen an den schweren Schweregrad gebunden – bei der schizoaffektiven Störung gerade nicht.",
+      "question": "Wodurch unterscheidet sich die schizoaffektive Störung am ehesten von einer psychotischen affektiven Störung?",
+      "options": [
+        "Die psychotischen Symptome sind eng an den affektiven Schweregrad gebunden.",
+        "Es treten überhaupt keine psychotischen Symptome auf.",
+        "Die psychotischen Symptome sind nicht an den Schweregrad gebunden.",
+        "Es treten überhaupt keine affektiven Symptome auf.",
+        "Beide Symptomgruppen liegen stets Monate auseinander."
+      ],
+      "answer": 2,
+      "explanation": "Bei der schizoaffektiven Störung sind die psychotischen Symptome ausdrücklich nicht an die Schwere der affektiven Störung gebunden – bei den psychotischen affektiven Störungen dagegen schon. Die enge Schweregradbindung beschreibt deshalb genau die Gegenseite. Affektive und psychotische Symptome sind beide vorhanden, weshalb die beiden Ausschlussvarianten ausscheiden. Und die Symptome treten während einer gemeinsamen Episode auf, allenfalls einige Tage voneinander getrennt."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "question": "Wie müssen affektive und schizophrene Symptome bei der schizoaffektiven Störung zeitlich auftreten?",
+      "options": [
+        "Während derselben Episode, allenfalls wenige Tage getrennt.",
+        "Ausschließlich exakt gleichzeitig ohne jeden Abstand.",
+        "Mit einem Abstand von mindestens mehreren Monaten.",
+        "Die zeitliche Anordnung spielt hier keine Rolle.",
+        "In streng getrennten Episoden ohne jede Überschneidung."
+      ],
+      "answer": 0,
+      "explanation": "Gefordert ist, dass eindeutig schizophrene wie auch affektive Symptome während derselben Episode auftreten, wobei sie einige Tage voneinander getrennt sein können. Streng getrennte Episoden entsprächen der unabhängigen Komorbidität. Exakte Gleichzeitigkeit wird nicht verlangt. Ein Abstand von Monaten spränge über die gemeinsame Episode hinaus. Und die zeitliche Anordnung ist gerade das entscheidende Kriterium."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "question": "Wie lange müssen die schizophrenen Symptome bei der schizoaffektiven Störung mindestens bestehen?",
+      "options": [
+        "Mindestens sechs Monate.",
+        "Mindestens eine Woche.",
+        "Eine Mindestdauer entfällt hier.",
+        "Mindestens vier Tage.",
+        "Mindestens zwei Wochen."
+      ],
+      "answer": 4,
+      "explanation": "Für die schizoaffektive Störung wird ein mindestens zweiwöchiges Vorkommen schizophrener Symptome gefordert. Vier Tage sind das Zeitkriterium der hypomanen, eine Woche das der manischen Episode. Sechs Monate werden nicht verlangt. Und eine Mindestdauer ist ausdrücklich vorgesehen."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "question": "Welches Symptom zählt am ehesten NICHT zu den geforderten schizophrenen Symptomen?",
+      "options": [
+        "Die formale Denkstörung mit zerfahrenem Denken.",
+        "Die Ich-Störung im Erleben der eigenen Person.",
+        "Der Wahn mit eindeutig bizarrem Inhalt.",
+        "Die Halluzination in einer Sinnesmodalität.",
+        "Der Antriebsverlust mit ausgeprägter Apathie."
+      ],
+      "answer": 4,
+      "explanation": "Antriebsverlust und Apathie sind Negativsymptome beziehungsweise depressive Symptome und gehören nicht zu den geforderten schizophrenen Symptomen – sie sind die gesuchte Ausnahme. Genannt werden Wahn, Halluzination, Ich-Störung sowie formale Denkstörungen mit Danebenreden, zerfahrenem Denken und Neologismen."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "hard": true,
+      "trap": "Ein reiner Größen- oder Verfolgungswahn genügt für die schizoaffektive Störung nicht – der Wahn muss eindeutig bizarr sein.",
+      "question": "Ein Patient mit gleichzeitig manischer und psychotischer Symptomatik zeigt ausschließlich Größen- und Verfolgungswahn. Was folgt daraus für die Diagnose einer schizoaffektiven Störung?",
+      "options": [
+        "Sie ist zu stellen, weil beide Symptomgruppen gleichzeitig auftreten.",
+        "Sie ist so nicht zu stellen, da der Wahn bizarr sein muss.",
+        "Sie ist unabhängig vom Wahninhalt grundsätzlich ausgeschlossen.",
+        "Sie ist damit bereits hinreichend belegt und zu stellen.",
+        "Sie ist zu stellen, sobald die Symptome zwei Wochen bestehen."
+      ],
+      "answer": 1,
+      "explanation": "Für die schizoaffektive Störung muss der Wahn eindeutig bizarr sein und darf nicht ausschließlich in Größen- oder Verfolgungswahn bestehen – genau diese beiden Formen kommen nämlich auch bei der Manie mit psychotischen Symptomen vor. Ein hinreichender Beleg liegt damit gerade nicht vor. Auch die Zweiwochendauer und die Gleichzeitigkeit beider Symptomgruppen genügen nicht, solange die Anforderung an den Wahninhalt unerfüllt bleibt. Grundsätzlich ausgeschlossen ist die Diagnose jedoch nicht – sie scheitert hier nur am Inhalt.",
+      "transfer": true
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "hard": true,
+      "question": "Welche Aussage zur Abgrenzung im Querschnitt trifft am ehesten zu?",
+      "options": [
+        "Eine Abgrenzung gelingt allein über die Symptomdauer sicher.",
+        "Eine schwere psychotische bipolare Störung ist so nicht abgrenzbar.",
+        "Eine Abgrenzung gelingt im Querschnitt regelhaft eindeutig.",
+        "Eine Abgrenzung gelingt allein über die Wahnthematik sicher.",
+        "Eine Abgrenzung ist auch im Längsschnitt niemals möglich."
+      ],
+      "answer": 1,
+      "explanation": "Es ist ausdrücklich unmöglich, im Querschnitt eine schwere psychotische bipolar affektive Störung von einer schizoaffektiven Störung abzugrenzen – erst die Verlaufsbetrachtung schafft Klarheit. Eine regelhaft eindeutige Querschnittsabgrenzung widerspricht dem direkt. Weder die Wahnthematik noch die Symptomdauer allein leisten das im Querschnitt. Und im Längsschnitt ist die Unterscheidung sehr wohl möglich."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "question": "In welchem Ausprägungsgrad müssen die affektiven Kriterien bei der schizoaffektiven Störung erfüllt sein?",
+      "options": [
+        "Der Ausprägungsgrad ist ohne Bedeutung.",
+        "Eine unterschwellige Ausprägung genügt.",
+        "Ausschließlich in schwerer Ausprägung.",
+        "Bereits eine leichte Ausprägung genügt.",
+        "Mindestens mittelgradig oder schwer."
+      ],
+      "answer": 4,
+      "explanation": "Die Kriterien der manischen, bipolaren oder depressiven Episode müssen mittelgradig oder schwer erfüllt sein. Eine leichte oder unterschwellige Ausprägung genügt deshalb nicht. Eine Beschränkung allein auf die schwere Ausprägung engt zu stark ein. Und der Ausprägungsgrad ist ausdrücklich Bestandteil der Kriterien."
+    },
+    {
+      "topic": "Psychotische affektive Störungen",
+      "hard": true,
+      "question": "Woran sind psychotische Symptome bei affektiven Störungen gebunden?",
+      "options": [
+        "An eine leichte Ausprägung der affektiven Störung.",
+        "An das Vorliegen einer zusätzlichen Suchterkrankung.",
+        "An gar keine Bedingung innerhalb der affektiven Störung.",
+        "An einen schweren Ausprägungsgrad der affektiven Störung.",
+        "An die Dauer der Episode statt an ihre Schwere."
+      ],
+      "answer": 3,
+      "explanation": "Wahn und Halluzinationen treten bei affektiven Störungen immer im Kontext einer schweren affektiven Störung auf – die psychotischen Symptome sind eindeutig an den Schweregrad gebunden. Eine leichte Ausprägung schließt sie deshalb aus. Die Episodendauer ist nicht das maßgebliche Kriterium. Eine Suchterkrankung spielt hierfür keine Rolle. Und eine völlige Ungebundenheit kennzeichnet gerade die schizoaffektive Störung."
+    },
+    {
+      "topic": "Psychotische affektive Störungen",
+      "question": "Bei einer Patientin mit leichter depressiver Episode berichtet das Umfeld über wahnhafte Schuldüberzeugungen. Wie ist das diagnostisch zu bewerten?",
+      "options": [
+        "Es handelt sich zwingend um eine schizoaffektive Störung.",
+        "Die Schweregradeinschätzung ist zu überprüfen, da beides nicht zusammenpasst.",
+        "Es handelt sich zwingend um eine schizophrene Erkrankung.",
+        "Die Kombination ist unauffällig und diagnostisch gut vereinbar.",
+        "Der Wahn ist als parathym und damit untypisch einzuordnen."
+      ],
+      "answer": 1,
+      "explanation": "Psychotische Symptome sind eindeutig an einen höheren Schweregrad der affektiven Störung gebunden – eine leichte Depression mit psychotischen Symptomen gibt es ausdrücklich nicht, weshalb die Schweregradeinschätzung zu überprüfen ist. Als unauffällig vereinbar ist die Kombination deshalb gerade nicht. Eine schizoaffektive Störung verlangt bizarren Wahn und affektive Kriterien mindestens mittelgradiger Ausprägung. Eine schizophrene Erkrankung ist damit ebenso wenig zwingend belegt. Und der Schuldwahn ist stimmungskongruent und damit gerade synthym, nicht parathym.",
+      "transfer": true
+    },
+    {
+      "topic": "Psychotische affektive Störungen",
+      "question": "Welche Kombination ist bei den hypomanen Zuständen ausgeschlossen?",
+      "options": [
+        "Eine Hypomanie mit gesteigertem Rededrang.",
+        "Eine Hypomanie mit vermindertem Schlafbedürfnis.",
+        "Eine Hypomanie mit gesteigerter Aktivität.",
+        "Eine Hypomanie mit psychotischen Symptomen.",
+        "Eine Hypomanie mit gereizter Grundstimmung."
+      ],
+      "answer": 3,
+      "explanation": "Eine Hypomanie mit psychotischen Symptomen ist ausgeschlossen, weil psychotische Symptome an einen schweren Ausprägungsgrad gebunden sind und die Hypomanie diesen definitionsgemäß nicht erreicht. Gereizte Stimmung, vermindertes Schlafbedürfnis, gesteigerter Rededrang und gesteigerte Aktivität gehören demgegenüber zu den regulären Kriterien der hypomanen Episode."
+    },
+    {
+      "topic": "Psychotische affektive Störungen",
+      "question": "Welcher Anteil der affektiven Wahnformen ist synthym?",
+      "options": [
+        "Etwa die Hälfte aller Wahnformen.",
+        "Praktisch keine der Wahnformen.",
+        "Eine Angabe dazu ist nicht möglich.",
+        "Nur eine kleine Minderheit der Formen.",
+        "Die weit überwiegende Mehrzahl."
+      ],
+      "answer": 4,
+      "explanation": "Die weit überwiegende Mehrzahl der affektiven Wahnformen ist synthym, also stimmungskongruent; nur ein kleiner Rest ist dysthym beziehungsweise stimmungsinkongruent. Eine Hälfte-Hälfte-Verteilung oder gar eine Minderheit unterschätzt den synthymen Anteil erheblich. Ein völliges Fehlen synthymer Formen widerspricht dem Befund. Und eine Angabe zum Verhältnis liegt vor."
+    },
+    {
+      "topic": "Psychotische affektive Störungen",
+      "transfer": true,
+      "question": "Ein Patient in schwer manischem Zustand ist überzeugt, von einer berühmten Familie abzustammen und deshalb verfolgt zu werden. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als parathymer Wahn ohne Bezug zur Stimmungslage.",
+        "Als bizarrer Wahn im Sinne einer schizoaffektiven Störung.",
+        "Als synthymer Wahn im Rahmen der manischen Episode.",
+        "Als überwertige Idee ohne psychotischen Charakter.",
+        "Als synthymer Wahn im Rahmen einer depressiven Episode."
+      ],
+      "answer": 2,
+      "explanation": "Größenwahn, Abstammungswahn und Verfolgungswahn im Rahmen getriebener Zustandsbilder sind die genannten synthymen Wahnformen der Manie – sie passen inhaltlich zur gehobenen Stimmung. Parathym wären sie nur bei fehlendem Stimmungsbezug. Für eine schizoaffektive Störung müsste der Wahn eindeutig bizarr sein und dürfte nicht nur aus Größen- und Verfolgungswahn bestehen. Depressive synthyme Wahnformen wären Schuld- oder Verarmungswahn. Und eine überwertige Idee bliebe unterhalb der Wahnschwelle."
+    },
+    {
+      "topic": "Wahnformen im Vergleich",
+      "hard": true,
+      "trap": "Der schizophrene Wahn ist charakteristisch bizarr und nicht an die affektive Lage gebunden – der affektive Wahn ist das Gegenteil.",
+      "question": "Was kennzeichnet den Wahn schizophrener Psychosen im Vergleich?",
+      "options": [
+        "Der Wahninhalt passt stets zur aktuellen Stimmungslage.",
+        "Alle Wahntypen sind denkbar, charakteristisch ist der bizarre Inhalt.",
+        "Der Wahn ist inhaltlich stets auf Schuldthemen beschränkt.",
+        "Der Wahn tritt nur bei schwerer affektiver Symptomatik auf.",
+        "Nur Größen- und Verfolgungswahn sind hier überhaupt jemals möglich."
+      ],
+      "answer": 1,
+      "explanation": "Beim Wahn schizophrener Psychosen sind alle Wahntypen denkbar, charakteristisch ist der bizarre Inhalt, und der Wahn ist nicht an die affektive Symptomatik gebunden. Eine Beschränkung auf Größen- und Verfolgungswahn oder auf Schuldthemen widerspricht dieser Offenheit. Die Stimmungskongruenz kennzeichnet den synthymen affektiven Wahn. Und die Bindung an eine schwere affektive Symptomatik gilt gerade für die psychotischen affektiven Störungen."
+    },
+    {
+      "topic": "Wahnformen im Vergleich",
+      "question": "Welche Zuordnung der Wahnformen trifft am ehesten zu?",
+      "options": [
+        "Schuldwahn zur Depression, Größenwahn zur Manie.",
+        "Beide Formen kommen ausschließlich bei der Depression vor.",
+        "Beide Formen kommen nur bei der Schizophrenie vor.",
+        "Schuldwahn zur Manie, Größenwahn zur Depression.",
+        "Beide Formen kommen ausschließlich bei der Manie vor."
+      ],
+      "answer": 0,
+      "explanation": "Der Schuldwahn gehört zu den häufigen synthymen Wahnformen der Depression, der Größenwahn zu den synthymen Wahnformen der Manie – beide sind jeweils stimmungskongruent. Die umgekehrte Zuordnung vertauscht die beiden Pole. Eine ausschließliche Zuordnung zu nur einem der beiden Zustandsbilder übersieht die jeweils andere Form. Und beide Wahnformen kommen keineswegs nur bei schizophrenen Erkrankungen vor."
+    },
+    {
+      "topic": "Wahnformen im Vergleich",
+      "transfer": true,
+      "question": "Eine Patientin mit schwerer Depression ist überzeugt, ihre inneren Organe seien bereits abgestorben. Welche Wahnform liegt am ehesten vor?",
+      "options": [
+        "Ein bizarrer Wahn im schizophrenen Sinne.",
+        "Ein nihilistischer Wahn als seltenere synthyme Form.",
+        "Ein Größenwahn als synthyme Form der Manie.",
+        "Ein hypochondrischer Wahn als häufige synthyme Form.",
+        "Ein Verarmungswahn als häufige synthyme Form."
+      ],
+      "answer": 1,
+      "explanation": "Die Überzeugung, innerlich bereits tot oder zerstört zu sein, entspricht dem nihilistischen Wahn, der zusammen mit dem Verkleinerungswahn zu den selteneren synthymen Wahnformen der Depression zählt. Der hypochondrische Wahn betrifft die Überzeugung, körperlich krank zu sein, ohne die Vernichtungsdimension. Der Verarmungswahn betrifft die materielle Existenz. Der Größenwahn gehört zur Manie. Und ein bizarrer Wahn im schizophrenen Sinne wäre nicht an die schwere affektive Symptomatik gebunden."
+    },
+    {
+      "topic": "Wahnformen im Vergleich",
+      "question": "Welche Aussage zum Vergleich affektiver und schizophrener Wahnformen trifft NICHT zu?",
+      "options": [
+        "Der affektive Wahn ist charakteristischerweise bizarr.",
+        "Der schizophrene Wahn ist nicht an den Affekt gebunden.",
+        "Beim affektiven Wahn zählt der Schweregrad der Episode.",
+        "Der schizophrene Wahn ist charakteristischerweise bizarr.",
+        "Der affektive Wahn ist meist stimmungskongruent."
+      ],
+      "answer": 0,
+      "explanation": "Bizarr ist charakteristischerweise der schizophrene und nicht der affektive Wahn – die erste Aussage vertauscht das und steht im Widerspruch zur zweiten. Der affektive Wahn ist meist synthym und damit stimmungskongruent. Der schizophrene Wahn ist nicht an die affektive Symptomatik gebunden. Und beim affektiven Wahn ist der Schweregrad der Episode die entscheidende Voraussetzung."
+    },
+    {
+      "topic": "Epidemiologie",
+      "hard": true,
+      "trap": "Bipolare Störung und Schizophrenie ähneln sich epidemiologisch stark – die Depression weicht in allen drei Kennwerten deutlich ab.",
+      "question": "Welche beiden Störungen ähneln sich epidemiologisch besonders stark?",
+      "options": [
+        "Die bipolare Störung und die Schizophrenie.",
+        "Die Dysthymie und die Zyklothymie.",
+        "Die Depression und die Schizophrenie.",
+        "Keine zwei der genannten Störungen.",
+        "Die Depression und die bipolare Störung."
+      ],
+      "answer": 0,
+      "explanation": "Bipolare Störung und Schizophrenie sind bei Prävalenz, Geschlechterverteilung und Ersterkrankungsalter nahezu identisch und weichen darin stark von der Depression ab – daraus wird eine nahe Verwandtschaft angenommen, gestützt durch genetische Untersuchungen. Die Depression unterscheidet sich von beiden deutlich, weshalb ihre Kombination mit einer der beiden nicht zutrifft. Dysthymie und Zyklothymie werden in diesem Vergleich nicht geführt."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Wie unterscheidet sich das Geschlechterverhältnis zwischen Depression und bipolarer Störung?",
+      "options": [
+        "Bei beiden Störungen überwiegen die Frauen deutlich.",
+        "Bei beiden Störungen überwiegen die Männer deutlich.",
+        "Bei beiden Störungen ist das Verhältnis ausgeglichen.",
+        "Bei der Depression überwiegen Frauen, bipolar ausgeglichen.",
+        "Bei der Depression ausgeglichen, bipolar überwiegen Frauen."
+      ],
+      "answer": 3,
+      "explanation": "Bei depressiven Erkrankungen überwiegen Frauen deutlich, während das Verhältnis bei bipolaren Erkrankungen ausgeglichen ist – dieselbe Ausgeglichenheit gilt auch für schizophrene Erkrankungen. Die umgekehrte Zuordnung vertauscht beide Störungen. Ein durchgängiges Frauenübergewicht oder ein durchgängig ausgeglichenes Verhältnis übersieht den Unterschied. Und ein Männerübergewicht besteht bei keiner der beiden Störungen."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Wie verhält sich das Ersterkrankungsalter der Depression zu dem der bipolaren Störung?",
+      "options": [
+        "Es liegt deutlich später als bei der bipolaren Störung.",
+        "Ein typisches Ersterkrankungsalter ist nicht angebbar.",
+        "Es ist bei beiden Störungen praktisch identisch.",
+        "Es liegt bei beiden erst im höheren Lebensalter.",
+        "Es liegt deutlich früher als bei der bipolaren Störung."
+      ],
+      "answer": 0,
+      "explanation": "Die Depression manifestiert sich im Mittel deutlich später als die bipolare Störung, die wie die Schizophrenie im jungen Erwachsenenalter beginnt – gerade darin liegt eine der epidemiologischen Gemeinsamkeiten der beiden letztgenannten. Ein früheres Ersterkrankungsalter der Depression kehrt das um. Identische Werte übersehen den Unterschied. Ein Beginn erst im höheren Lebensalter trifft auf keine der Störungen zu. Und Angaben zum Ersterkrankungsalter liegen vor."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Welche Störungsgruppe zählt am ehesten NICHT zu den häufigen Komorbiditäten affektiver Störungen?",
+      "options": [
+        "Die somatoformen Störungen und Persönlichkeitsstörungen.",
+        "Die Angst- und Panikstörungen.",
+        "Die Suchterkrankungen.",
+        "Die dissoziativen Störungen mit Identitätswechsel.",
+        "Die Essstörungen und Zwangsstörungen."
+      ],
+      "answer": 3,
+      "explanation": "Dissoziative Störungen mit Identitätswechsel werden unter den Komorbiditäten affektiver Störungen nicht aufgeführt und sind damit die gesuchte Ausnahme. Genannt werden Angst- und Panikstörungen, Suchterkrankungen sowie häufig Essstörungen, Zwangsstörungen, somatoforme Störungen und Persönlichkeitsstörungen."
+    },
+    {
+      "topic": "Epidemiologie",
+      "question": "Wie hoch ist das Erkrankungsrisiko erstgradiger Verwandter affektiv Erkrankter?",
+      "options": [
+        "Es ist gegenüber der Allgemeinbevölkerung mehrfach erhöht.",
+        "Es ist gegenüber der Allgemeinbevölkerung vermindert.",
+        "Verlässliche Angaben dazu liegen bislang nicht vor.",
+        "Es ist ausschließlich bei bipolaren Verläufen erhöht.",
+        "Es entspricht genau dem Risiko der übrigen Allgemeinbevölkerung."
+      ],
+      "answer": 0,
+      "explanation": "Der erbliche Faktor zeigt sich in einem gegenüber der Allgemeinbevölkerung mehrfach erhöhten Risiko bei erstgradigen Verwandten. Ein gleiches oder gar vermindertes Risiko widerspricht dem Befund. Eine Beschränkung auf bipolare Verläufe wird nicht vorgenommen. Und entsprechende Angaben liegen vor."
+    }
+  ]
+}

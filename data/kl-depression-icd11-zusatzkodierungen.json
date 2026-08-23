@@ -1,0 +1,417 @@
+{
+  "id": "kl-depression-icd11-zusatzkodierungen",
+  "title": "Depression: ICD-11-Neuerungen & Zusatzkodierungen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Affektive Störungen im Altklausur-Stil: die wichtigsten Neuerungen für die Depression im ICD-11, psychotische Symptome und synthymer Wahn, die Zusatzkodierungen (Angst, Panik, persistierend, Melancholie, saisonal) sowie Dysthymie, Zyklothymie und Double Depression.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "ICD-11-Neuerungen",
+      "hard": true,
+      "trap": "Der Antrieb ist vom Leitsymptom zum Begleitsymptom herabgestuft worden – es bleiben nur noch zwei Leitsymptome.",
+      "question": "Welche Neuerung betrifft im ICD-11 die Rolle des Antriebs bei der Depression?",
+      "options": [
+        "Er wurde zum obligatorischen Ausschlusskriterium erklärt.",
+        "Er wurde vollständig aus den Kriterien gestrichen.",
+        "Er gilt nun als alleiniges und einziges Leitsymptom.",
+        "Er gilt nun als Begleitsymptom statt als Leitsymptom.",
+        "Er gilt nun als Leitsymptom anstelle eines Begleitsymptoms."
+      ],
+      "answer": 3,
+      "explanation": "Der Antrieb ist im ICD-11 als Begleitsymptom definiert und nicht mehr als Leitsymptom – damit bleiben nur noch zwei Leitsymptome übrig. Eine Aufwertung zum Leitsymptom kehrt die Änderung um. Vollständig gestrichen wurde der Antrieb nicht, er zählt weiterhin als Begleitsymptom. Ein alleiniges Leitsymptom ist er ebenso wenig. Und ein Ausschlusskriterium ist er in keiner Fassung."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "question": "Welche beiden Leitsymptome der Depression bleiben im ICD-11 bestehen?",
+      "options": [
+        "Hoffnungslosigkeit und verminderter Selbstwert.",
+        "Niedergedrückte Stimmung und Freudverlust.",
+        "Niedergedrückte Stimmung und Antriebsminderung.",
+        "Konzentrationsstörung und Schlafstörung.",
+        "Freudverlust und Antriebsminderung im Alltag."
+      ],
+      "answer": 1,
+      "explanation": "Nach der Herabstufung des Antriebs verbleiben als Leitsymptome die niedergedrückte Stimmung und der Freudverlust, von denen eines vorhanden sein muss. Alle Kombinationen mit der Antriebsminderung greifen deshalb auf ein Begleitsymptom zurück. Hoffnungslosigkeit ist neu als Beispielsymptom eingeführt, aber kein Leitsymptom. Und Konzentrations- sowie Schlafstörungen zählen zu den Begleitsymptomen."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "hard": true,
+      "question": "Wie viele Leitsymptome müssen für die Diagnose einer depressiven Episode nach ICD-11 vorliegen?",
+      "options": [
+        "Mindestens eines der beiden Leitsymptome.",
+        "Leitsymptome sind gar nicht mehr vorgesehen.",
+        "Mindestens zwei von drei Leitsymptomen.",
+        "Beide Leitsymptome müssen stets gemeinsam vorliegen.",
+        "Mindestens drei der genannten Leitsymptome."
+      ],
+      "answer": 0,
+      "explanation": "Von den beiden verbliebenen Leitsymptomen – niedergedrückte Stimmung und Freudverlust – muss eines vorhanden sein. Ein gemeinsames Vorliegen beider wird nicht verlangt. Drei Leitsymptome gibt es nach der Herabstufung des Antriebs nicht mehr, weshalb sowohl die Zwei-von-drei- als auch die Drei-Variante ins Leere greift. Und die Kategorie der Leitsymptome besteht ausdrücklich fort."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "question": "Welche Änderung betrifft im ICD-11 die geforderte Gesamtzahl an Symptomen?",
+      "options": [
+        "Es werden nun fünf statt vier Symptome gefordert.",
+        "Es werden nun sieben statt fünf Symptome gefordert.",
+        "Es werden nun vier statt fünf Symptome gefordert.",
+        "Die Symptomzahl richtet sich allein nach der Dauer.",
+        "Eine Mindestzahl an Symptomen entfällt vollständig."
+      ],
+      "answer": 0,
+      "explanation": "Im ICD-11 werden nun fünf statt zuvor vier Symptome gefordert – die Schwelle wurde also angehoben. Eine Absenkung auf vier kehrt die Änderung um. Sieben Symptome werden nirgends verlangt. Eine Mindestzahl besteht ausdrücklich fort. Und die Symptomzahl ist ein eigenständiges Kriterium neben dem Zeitkriterium."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "question": "Welche Aussage zu den Neuerungen im ICD-11 trifft NICHT zu?",
+      "options": [
+        "Die geforderte Symptomzahl wurde von vier auf fünf erhöht.",
+        "Selbstwertminderung und Schuldgefühle zählen getrennt.",
+        "Hoffnungslosigkeit ist neu als Beispielsymptom eingeführt.",
+        "Verminderter Selbstwert und Schuldgefühle gelten als ein Symptom.",
+        "Der Antrieb wurde vom Leitsymptom zum Begleitsymptom."
+      ],
+      "answer": 1,
+      "explanation": "Verminderter Selbstwert und Schuldgefühle werden ausdrücklich als ein einziges Symptom gewertet und nicht getrennt gezählt – die erste Aussage widerspricht dem und ist damit die gesuchte falsche. Die Einführung der Hoffnungslosigkeit als Beispielsymptom, die Herabstufung des Antriebs und die Anhebung der Symptomzahl von vier auf fünf gehören sämtlich zu den genannten Neuerungen."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Patient erfüllt die Kriterien einer Depression, hält seinen Beruf aber weiter aus – allerdings nur mit erheblichem zusätzlichem Aufwand. Wie ist das nach ICD-11 zu bewerten?",
+      "options": [
+        "Als hochfunktionale Depression bei erhaltener Funktion.",
+        "Als Ausschluss der Diagnose wegen erhaltener Funktion.",
+        "Als Hinweis auf eine bloße Anpassungsstörung.",
+        "Als Beleg für eine ausschließlich leichte Ausprägung.",
+        "Als Grund, die Diagnose auf eine Dysthymie zu ändern."
+      ],
+      "answer": 0,
+      "explanation": "Das ICD-11 vermerkt ausdrücklich, dass die Funktionsfähigkeit unter bedeutsamer Zusatzanstrengung aufrechterhalten sein kann – das ist die sogenannte hochfunktionale Depression. Ein Diagnoseausschluss wegen erhaltener Funktion widerspricht dieser Anmerkung direkt. Eine Anpassungsstörung setzt einen anderen Kontext voraus. Ein zwingender Rückschluss auf eine leichte Ausprägung ergibt sich daraus nicht. Und eine Dysthymie verlangt anhaltende Symptome unterhalb der Episodenschwelle."
+    },
+    {
+      "topic": "ICD-11-Neuerungen",
+      "question": "Welche Anmerkung wird zur Schweregradbestimmung der Depression gemacht?",
+      "options": [
+        "Die Schwere wird allein über Fremdbeurteilungsskalen bestimmt.",
+        "Die Schwere ergibt sich ausschließlich aus der Episodendauer.",
+        "Die Schwere ergibt sich ausschließlich aus der Kriterienzahl.",
+        "Kein Kliniker bestimmt die Schwere durch Abzählen von Kriterien.",
+        "Die Schwere ist im ICD-11 nicht mehr vorgesehen."
+      ],
+      "answer": 3,
+      "explanation": "Ausdrücklich angemerkt wird, dass in der Praxis kein Kliniker die Schwere einer Depression durch bloßes Zusammenzählen erfüllter Kriterien bestimmt – die Kriterienzahl ist also nicht das eigentliche Maß. Eine ausschließliche Ableitung aus Kriterienzahl oder Episodendauer widerspricht dem. Die Schweregradeinteilung ist im ICD-11 sehr wohl vorgesehen und wurde sogar neu geregelt. Und eine alleinige Bestimmung über Fremdbeurteilungsskalen wird nicht behauptet."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "question": "Welche Wahnformen gelten als häufige synthyme Wahnformen bei der Depression?",
+      "options": [
+        "Verfolgungswahn, Beziehungswahn und Eifersuchtswahn.",
+        "Abstammungswahn, Verfolgungswahn und Schuldwahn.",
+        "Nihilistischer Wahn, Verkleinerungswahn und Größenwahn.",
+        "Größenwahn, Abstammungswahn und Beziehungswahn.",
+        "Schuldwahn, Verarmungswahn und hypochondrischer Wahn."
+      ],
+      "answer": 4,
+      "explanation": "Als häufige synthyme Wahnformen bei der Depression werden Schuldwahn, Verarmungswahn und hypochondrischer Wahn genannt – alle drei passen inhaltlich zur gedrückten Stimmung. Größenwahn, Abstammungswahn und Beziehungswahn sind demgegenüber die synthymen Wahnformen der Manie. Nihilistischer Wahn und Verkleinerungswahn gehören zwar zur Depression, gelten aber als seltener. Und der Verfolgungswahn ist bei affektiven Störungen nicht die typische depressive Form."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "question": "Welche Wahnformen gelten als seltenere synthyme Wahnformen bei der Depression?",
+      "options": [
+        "Der hypochondrische Wahn und der Schuldwahn.",
+        "Der Verfolgungswahn und der Eifersuchtswahn.",
+        "Der nihilistische Wahn und der Verkleinerungswahn.",
+        "Der Schuldwahn und der Verarmungswahn im Vordergrund.",
+        "Der Größenwahn und der Abstammungswahn."
+      ],
+      "answer": 2,
+      "explanation": "Nihilistischer Wahn und Verkleinerungswahn werden ausdrücklich als seltenere synthyme Wahnformen der Depression geführt. Schuldwahn, Verarmungswahn und hypochondrischer Wahn gehören demgegenüber zu den häufigen Formen. Größenwahn und Abstammungswahn sind Wahnformen der Manie. Und Verfolgungs- sowie Eifersuchtswahn zählen nicht zu den typischen depressiven Wahnformen."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "question": "Welche Aussage zu Halluzinationen bei der psychotischen Depression trifft am ehesten zu?",
+      "options": [
+        "Halluzinationen treten nur bei leichter Ausprägung auf.",
+        "Halluzinationen sind bei der Depression grundsätzlich ausgeschlossen.",
+        "Optische Halluzinationen stehen typischerweise im Vordergrund.",
+        "Akustische Halluzinationen passen inhaltlich zum Wahnthema.",
+        "Halluzinationen stehen inhaltlich ohne Bezug zur Stimmung."
+      ],
+      "answer": 3,
+      "explanation": "Neben dem Wahn können akustische Halluzinationen auftreten, und zwar als synthyme Stimmen, die zum Wahnthema passen – etwa „du wirst sterben“ oder „du bist schuldig“. Optische Halluzinationen werden nicht als typisch beschrieben. Ausgeschlossen sind Halluzinationen keineswegs. Ein fehlender Stimmungsbezug widerspricht der Synthymie. Und psychotische Symptome sind gerade an einen höheren Schweregrad gebunden."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "hard": true,
+      "trap": "Psychotische Symptome sind an den Schweregrad gebunden – eine leichte Depression mit Wahn gibt es nicht.",
+      "question": "Bei welchem Schweregrad sind psychotische Symptome nach ICD-11 kodierbar?",
+      "options": [
+        "Ausschließlich bei schwerer Depression.",
+        "Ausschließlich bei leichter Depression.",
+        "Unabhängig vom Schweregrad in jedem Fall.",
+        "Bei mittelgradiger und bei schwerer Depression.",
+        "Bei leichter, mittelgradiger und schwerer Depression."
+      ],
+      "answer": 3,
+      "explanation": "Das ICD-11 erlaubt die Kodierung psychotischer Symptome bei mittelgradiger und bei schwerer Depression, während die Vorgängerfassung sie nur bei schwerer Depression vorsah. Eine Beschränkung auf die schwere Form entspricht deshalb dem älteren Stand. Eine Kodierung bereits bei leichter Depression ist ausgeschlossen, ebenso eine Beschränkung darauf. Und eine völlige Unabhängigkeit vom Schweregrad widerspricht der Bindung psychotischer Symptome an die Ausprägung."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "question": "Welche Aussage zu den psychotischen Symptomen bei der Depression trifft NICHT zu?",
+      "options": [
+        "Die weit überwiegende Mehrzahl der Wahnformen ist synthym.",
+        "Die Katatonie zählt weiterhin zu den psychotischen Kriterien.",
+        "Depressives Grübeln ist mitunter schwer davon abzugrenzen.",
+        "Als psychotische Symptome sind nur Wahn und Halluzinationen gelistet.",
+        "Das Katatonie-Kriterium wurde eliminiert."
+      ],
+      "answer": 1,
+      "explanation": "Das Katatonie-Kriterium, also der depressive Stupor, wurde ausdrücklich eliminiert – seine fortbestehende Geltung ist deshalb die gesuchte falsche Aussage und steht zugleich im Widerspruch zur dritten Option. Als psychotische Symptome sind nur noch Wahn und Halluzinationen gelistet. Die weit überwiegende Mehrzahl der affektiven Wahnformen ist synthym. Und das ICD-11 weist eigens darauf hin, dass depressives Grübeln mit oder ohne überwertige Ideen schwer von einer Depression mit psychotischen Symptomen abzugrenzen ist."
+    },
+    {
+      "topic": "Psychotische Symptome",
+      "transfer": true,
+      "question": "Eine schwer depressive Patientin ist überzeugt, durch eigene Schuld die Familie ruiniert zu haben, und hört eine Stimme, die sie beschuldigt. Wie ist das einzuordnen?",
+      "options": [
+        "Als parathyme Symptomatik mit stimmungsinkongruentem Inhalt.",
+        "Als synthyme psychotische Symptomatik bei Depression.",
+        "Als schizoaffektive Störung wegen der Stimmenwahrnehmung.",
+        "Als überwertige Idee ohne psychotischen Charakter.",
+        "Als schizophrene Erkrankung mit bizarrem Wahninhalt."
+      ],
+      "answer": 1,
+      "explanation": "Schuldwahn und eine dazu passende, beschuldigende Stimme sind stimmungskongruent und damit synthym – der klassische Befund bei der psychotischen Depression. Parathym wäre die Symptomatik nur bei stimmungsinkongruentem Inhalt. Eine schizoaffektive Störung setzt voraus, dass die psychotischen Symptome nicht an die Schwere der affektiven Störung gebunden sind. Ein bizarrer Wahninhalt kennzeichnet die schizophrene Psychose. Und eine überwertige Idee bliebe unterhalb der Wahnschwelle."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Was kennzeichnet die Zusatzkodierung mit markanten Angstsymptomen?",
+      "options": [
+        "Eine eigenständige, komorbide Angststörung.",
+        "Vereinzelte Angstsymptome zu Beginn der depressiven Episode.",
+        "Angstsymptome ausschließlich in der Remissionsphase.",
+        "Panikattacken als Reaktion auf depressives Grübeln.",
+        "Signifikante Angstsymptome über die meiste Zeit der Episode."
+      ],
+      "answer": 4,
+      "explanation": "Die Zusatzkodierung verlangt signifikante Angstsymptome über die meiste Zeit während der Episode – etwa Nervosität, Ängstlichkeit, Unfähigkeit, Sorgen zu kontrollieren, Entspannungsprobleme, Muskelanspannung und vegetative Symptome. Vereinzelte Symptome zu Beginn genügen nicht. Panikattacken als Reaktion auf depressives Grübeln haben eine eigene Zusatzkodierung. Eine eigenständige komorbide Angststörung wäre eine separate Diagnose. Und die Remissionsphase ist gerade nicht gemeint."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "hard": true,
+      "trap": "Panik im Gefolge depressiven Grübelns ist eine Zusatzkodierung – erst darüber hinausgehende Panik begründet eine komorbide Panikstörung.",
+      "question": "Eine Patientin mit depressiver Episode bekommt Panikattacken, jedes Mal nachdem sie sich in Grübeln über ihre Zukunft hineingesteigert hat; außerhalb dieses Zusammenhangs treten keine auf. Wie ist das zu kodieren?",
+      "options": [
+        "Als eigenständige komorbide Panikstörung daneben.",
+        "Als Zusatzkodierung mit markanten Angstsymptomen.",
+        "Als Zusatzkodierung mit Panikattacken zur Episode.",
+        "Als eigenständige generalisierte Angststörung.",
+        "Als agoraphobe Störung mit Vermeidungsverhalten."
+      ],
+      "answer": 2,
+      "explanation": "Treten Panikattacken speziell als Reaktion auf depressives Grübeln oder andere angstprovozierende Gedanken im Kontext der depressiven Episode auf, wird die Zusatzkodierung mit Panikattacken vergeben. Eine komorbide Panikstörung wäre erst zu diagnostizieren, wenn die Panik über den reinen Bezug zum depressiven Grübeln hinausgeht – genau das ist hier ausgeschlossen. Die Kodierung mit markanten Angstsymptomen verlangt anhaltende Angstsymptome über die meiste Zeit der Episode statt umschriebener Attacken. Eine agoraphobe Störung setzt Vermeidungsverhalten voraus. Und eine generalisierte Angststörung wäre eine eigenständige Diagnose ohne diesen Grübelbezug.",
+      "transfer": true
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "hard": true,
+      "trap": "Dysthymie und persistierende depressive Episode unterscheiden sich darin, ob die vollen Episodenkriterien anhaltend erfüllt sind.",
+      "question": "Worin unterscheidet sich die persistierende depressive Episode von der Dysthymie?",
+      "options": [
+        "Sie dauert kürzer als die Dysthymie an.",
+        "Sie tritt ausschließlich im höheren Lebensalter auf.",
+        "Die Episodenkriterien sind anhaltend über Jahre erfüllt.",
+        "Sie schließt jede weitere Zusatzkodierung aus.",
+        "Die vollen Episodenkriterien werden gerade nicht erreicht."
+      ],
+      "answer": 2,
+      "explanation": "Bei der persistierenden depressiven Episode sind die vollen Kriterien einer depressiven Episode über mindestens zwei Jahre anhaltend erfüllt. Die Dysthymie ist demgegenüber gerade dadurch gekennzeichnet, dass die Kriterien einer Major Depression nicht erreicht werden – die zweite Option beschreibt also die Dysthymie. Eine kürzere Dauer widerspricht dem Kriterium. Eine Altersbindung besteht nicht. Und weitere Zusatzkodierungen werden nicht ausgeschlossen."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Welches Merkmal zählt am ehesten NICHT zur Zusatzkodierung mit Melancholie?",
+      "options": [
+        "Gesteigerter Appetit mit deutlicher Gewichtszunahme.",
+        "Früherwachen um zwei Stunden oder mehr als sonst.",
+        "Ein ausgeprägtes Morgentief im Tagesverlauf.",
+        "Ein objektiver Befund psychomotorischer Hemmung.",
+        "Mangelnde emotionale Reaktivität auf Angenehmes."
+      ],
+      "answer": 0,
+      "explanation": "Zur Melancholie zählen Appetit- und Gewichtsverlust und gerade nicht deren Steigerung – gesteigerter Appetit mit Gewichtszunahme kennzeichnet die atypische Depression und ist damit die gesuchte Ausnahme. Früherwachen, Morgentief, mangelnde emotionale Reaktivität und ein objektiver Befund psychomotorischer Hemmung oder Agitiertheit gehören demgegenüber sämtlich zum melancholischen Bild, ebenso wie deutlicher Interessen- oder Freudverlust und Libidoverlust."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Wie hieß die Zusatzkodierung mit Melancholie in der Vorgängerfassung des ICD?",
+      "options": [
+        "Somatisches Syndrom.",
+        "Larviertes Syndrom.",
+        "Vitales Syndrom.",
+        "Vegetatives Syndrom.",
+        "Endogenes Syndrom."
+      ],
+      "answer": 0,
+      "explanation": "Die Zusatzkodierung mit Melancholie hieß in der Vorgängerfassung somatisches Syndrom. Als weitere gebräuchliche Bezeichnungen für dasselbe Bild werden biologisch, vital, melancholisch und endomorph genannt – ein endogenes, vegetatives oder larviertes Syndrom ist als Kodierungsbezeichnung jedoch nicht vorgesehen."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Wie wurde in der Vorgängerfassung mit dem somatischen Syndrom bei schwerer Depression verfahren?",
+      "options": [
+        "Es war bei schwerer Depression grundsätzlich ausgeschlossen.",
+        "Es musste bei schwerer Depression stets gesondert kodiert werden.",
+        "Seine Existenz wurde vorausgesetzt und nicht gesondert kodiert.",
+        "Es durfte nur bei psychotischer Depression kodiert werden.",
+        "Es war ausschließlich bei rezidivierendem Verlauf kodierbar."
+      ],
+      "answer": 2,
+      "explanation": "Bei schwerer Depression wurde die Existenz des somatischen Syndroms vorausgesetzt und musste deshalb nicht gesondert kodiert werden; empfohlen war die Kodierung bei leichter und mittelgradiger Depression. Eine Kodierpflicht bei schwerer Depression kehrt das um. Ausgeschlossen war das Syndrom dort gerade nicht, sondern implizit vorhanden. Eine Bindung an die psychotische Form oder an den rezidivierenden Verlauf besteht nicht."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "transfer": true,
+      "question": "Eine Patientin mit mittelgradiger Depression berichtet über Früherwachen, Morgentief und ausgeprägten Interessenverlust. Welche Zusatzkodierung kommt am ehesten in Betracht?",
+      "options": [
+        "Die Kodierung mit saisonalem Muster.",
+        "Die Kodierung mit Melancholie.",
+        "Die Kodierung mit markanten Angstsymptomen.",
+        "Die Kodierung als persistierende Episode.",
+        "Die Kodierung mit Panikattacken."
+      ],
+      "answer": 1,
+      "explanation": "Früherwachen, Morgentief und deutlicher Interessen- beziehungsweise Freudverlust gehören zum Kernbestand der melancholischen Ausprägung. Ein saisonales Muster verlangt einen jahreszeitlichen Zusammenhang, der nicht berichtet wird. Markante Angstsymptome und Panikattacken sind im Fall nicht geschildert. Und die persistierende Episode setzt ein anhaltendes Erfülltsein der Kriterien über Jahre voraus."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Was ist zur Zusatzkodierung mit saisonalem Muster festzuhalten?",
+      "options": [
+        "Sie wurde im ICD-11 wieder ersatzlos gestrichen.",
+        "Sie wurde im ICD-11 als völlig neue Kategorie eingeführt.",
+        "Sie ist ausschließlich bei bipolaren Verläufen vorgesehen.",
+        "Sie ersetzt die Kodierung mit Melancholie inzwischen vollständig.",
+        "Sie bestand bereits zuvor und erhielt nun erstmals einen Code."
+      ],
+      "answer": 4,
+      "explanation": "Der Zusatz mit saisonalem Muster war bereits in der Vorgängerfassung enthalten und erhält im ICD-11 erstmals einen eigenen nummerierten Code. Eine vollständige Neueinführung trifft deshalb nicht zu, ebenso wenig eine Streichung. Eine Beschränkung auf bipolare Verläufe wird nicht vorgenommen. Und die Kodierung mit Melancholie besteht unabhängig davon fort."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "question": "Was kennzeichnet die Dysthymie?",
+      "options": [
+        "Anhaltende Stimmungsschwankungen unterhalb der Hypomanie.",
+        "Depressive Symptome ausschließlich in den Wintermonaten.",
+        "Wiederkehrende, klar abgegrenzte depressive Episoden.",
+        "Über zwei Jahre hinweg anhaltend erfüllte Kriterien einer Episode.",
+        "Über zwei Jahre depressive Symptome unterhalb der Episodenschwelle."
+      ],
+      "answer": 4,
+      "explanation": "Die Dysthymie ist durch über zwei Jahre bestehende depressive Symptome gekennzeichnet, welche die Kriterien einer Major Depression gerade nicht erfüllen. Anhaltend erfüllte Episodenkriterien beschreiben demgegenüber die persistierende depressive Episode. Wiederkehrende abgegrenzte Episoden kennzeichnen die rezidivierende Störung. Anhaltende Stimmungsschwankungen unterhalb der Hypomanie beschreiben die Zyklothymie. Und ein reiner Winterbezug entspräche dem saisonalen Muster."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "question": "Welche Aussage zur Zyklothymie trifft NICHT zu?",
+      "options": [
+        "Die Schwankungen bleiben unterhalb der Hypomanie.",
+        "Die Schwankungen erreichen regelhaft hypomanes Niveau.",
+        "Es handelt sich um anhaltende Stimmungsschwankungen.",
+        "Sie ist der Dysthymie im Aufbau vergleichbar.",
+        "Sie zählt zu den anhaltenden affektiven Störungen."
+      ],
+      "answer": 1,
+      "explanation": "Die Zyklothymie ist gerade dadurch gekennzeichnet, dass die Schwankungen analog zur Dysthymie das Vollbild noch nicht erreichen und insbesondere noch nicht hypomanisch sind – die erste Aussage kehrt das um und ist damit die gesuchte falsche. Der anhaltende Charakter der Schwankungen, das Verbleiben unterhalb der Hypomanie, die Zugehörigkeit zu den anhaltenden affektiven Störungen und die Analogie zur Dysthymie treffen sämtlich zu."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "hard": true,
+      "trap": "Double Depression heißt: Dysthymie und darauf aufgesetzte depressive Episode zugleich – nicht zwei aufeinanderfolgende Episoden.",
+      "question": "Was bezeichnet der Begriff Double Depression?",
+      "options": [
+        "Eine Depression mit zusätzlichen psychotischen Symptomen.",
+        "Zwei unmittelbar aufeinanderfolgende depressive Episoden im Verlauf.",
+        "Eine Depression bei beiden Partnern einer Beziehung.",
+        "Eine Dysthymie mit zusätzlich aufgesetzter Major Depression.",
+        "Eine Depression mit zusätzlicher komorbider Angststörung."
+      ],
+      "answer": 3,
+      "explanation": "Als Double Depression wird das gleichzeitige Vorliegen einer Dysthymie und einer komorbiden Major Depression bezeichnet – die Episode setzt sich also auf die anhaltende Verstimmung auf. Zwei aufeinanderfolgende Episoden ergäben demgegenüber eine rezidivierende Depression. Eine Erkrankung beider Partner, eine komorbide Angststörung oder psychotische Symptome sind mit dem Begriff nicht gemeint."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "hard": true,
+      "question": "Welche Aussage zur reinen Dysthymie trifft am ehesten zu?",
+      "options": [
+        "Sie bleibt im Langzeitverlauf der ganz überwiegende Regelfall.",
+        "Sie remittiert regelhaft innerhalb weniger Monate.",
+        "Sie bleibt im Langzeitverlauf die absolute Ausnahme.",
+        "Sie geht regelhaft in eine bipolare Störung über.",
+        "Sie geht regelhaft in eine Schizophrenie über."
+      ],
+      "answer": 2,
+      "explanation": "Eine reine Dysthymie ohne jede aufgesetzte Episode ist die Ausnahme: Die weit überwiegende Mehrzahl der Betroffenen entwickelt im Langzeitverlauf eine depressive Episode. Ein Fortbestehen als reine Dysthymie ist deshalb nicht der Regelfall. Ein regelhafter Übergang in eine bipolare Störung oder in eine Schizophrenie wird nicht beschrieben. Und eine rasche Remission widerspricht dem anhaltenden Charakter der Störung."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "question": "Welche Aussage zur Dysthymie als Verlaufsfaktor trifft NICHT zu?",
+      "options": [
+        "Sie gilt als Risikofaktor für eine Major Depression.",
+        "Die meisten Betroffenen entwickeln im Verlauf eine Episode.",
+        "Residualsymptome nach Therapie gelten ebenfalls als Risikofaktor.",
+        "Die reine Dysthymie bleibt im Langzeitverlauf die Ausnahme.",
+        "Sie schützt vor der Entwicklung einer Major Depression."
+      ],
+      "answer": 4,
+      "explanation": "Die Dysthymie schützt gerade nicht, sondern gilt ausdrücklich als Risikofaktor für eine Major Depression – die erste Aussage kehrt das um. Als weiterer Risikofaktor werden Residualsymptome nach erfolgter Therapie genannt. Die reine Dysthymie ohne aufgesetzte Episode ist im Langzeitverlauf die Ausnahme, da die weit überwiegende Mehrzahl der Betroffenen eine depressive Episode entwickelt."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "question": "Welcher Anteil der Depressionen nimmt einen chronischen Verlauf?",
+      "options": [
+        "Praktisch alle Betroffenen im Langzeitverlauf.",
+        "Ausschließlich Betroffene mit psychotischen Symptomen.",
+        "Ein zu vernachlässigender Bruchteil der Betroffenen.",
+        "Die deutliche Mehrheit aller Betroffenen.",
+        "Ein substanzieller Anteil, aber nicht die Mehrheit."
+      ],
+      "answer": 4,
+      "explanation": "Ein substanzieller, aber deutlich unter der Hälfte liegender Anteil aller Depressionen nimmt einen chronischen Verlauf. Eine Mehrheit oder gar praktisch alle Betroffenen zu unterstellen überzeichnet diesen Anteil erheblich. Ein zu vernachlässigender Bruchteil unterschätzt ihn ebenso deutlich. Und eine Bindung an psychotische Symptome besteht nicht."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "transfer": true,
+      "question": "Eine Patientin ist seit Jahren durchgehend niedergedrückt, ohne je die volle Episodenschwelle erreicht zu haben; nun kommt eine ausgeprägte depressive Episode hinzu. Wie ist das zu bezeichnen?",
+      "options": [
+        "Als persistierende depressive Episode über Jahre.",
+        "Als Zyklothymie mit aufgesetzter depressiver Episode.",
+        "Als Double Depression aus Dysthymie und Episode.",
+        "Als rezidivierende depressive Störung mit zwei Episoden.",
+        "Als bipolare Störung mit aktueller depressiver Episode."
+      ],
+      "answer": 2,
+      "explanation": "Eine über Jahre bestehende Verstimmung unterhalb der Episodenschwelle ist eine Dysthymie; die nun hinzukommende Episode ergibt zusammen das Bild der Double Depression. Eine rezidivierende Störung verlangt zwei abgegrenzte Episoden ohne die anhaltende Grundverstimmung. Die persistierende Episode setzt anhaltend erfüllte Episodenkriterien voraus, die hier gerade nie erreicht wurden. Die Zyklothymie umfasst Schwankungen in beide Richtungen. Und eine bipolare Störung erfordert eine manische oder hypomane Episode."
+    },
+    {
+      "topic": "Anhaltende affektive Störungen",
+      "question": "Welche Aussage zum Verhältnis episodischer und anhaltender Depressionen trifft am ehesten zu?",
+      "options": [
+        "Vieles spricht für überlappende Phänomene beider Formen.",
+        "Die Zahl früherer Episoden ist für den Verlauf bedeutungslos.",
+        "Beide Formen sind klar und trennscharf voneinander abgegrenzt.",
+        "Anhaltende Formen kommen praktisch nicht vor.",
+        "Episodische Formen gehen nie in anhaltende über."
+      ],
+      "answer": 0,
+      "explanation": "Aktuell spricht vieles für überlappende Phänomene zwischen episodisch und anhaltend Depressiven; so zeigen Betroffene mit mehreren zurückliegenden Episoden einen ähnlichen Verlauf wie Betroffene mit persistierender Depression. Eine trennscharfe Abgrenzung widerspricht dieser Überlappung. Anhaltende Formen sind keineswegs selten, sondern betreffen einen erheblichen Teil. Übergänge zwischen den Formen sind gerade beschrieben. Und die Zahl früherer Episoden ist für den Verlauf ausdrücklich bedeutsam."
+    },
+    {
+      "topic": "Zusatzkodierungen",
+      "question": "Welche Zusatzkodierung für die depressive Episode ist am ehesten NICHT vorgesehen?",
+      "options": [
+        "Die Kodierung mit begleitenden Panikattacken.",
+        "Die Kodierung als persistierende depressive Episode.",
+        "Die Kodierung mit markanten Angstsymptomen.",
+        "Die Kodierung mit agitierter Ausprägung.",
+        "Die Kodierung mit saisonalem Verlaufsmuster."
+      ],
+      "answer": 3,
+      "explanation": "Die agitierte Depression wird ausdrücklich als nicht kodierbar geführt – sie ist damit die gesuchte Ausnahme. Vorgesehen sind demgegenüber die Zusatzkodierungen mit markanten Angstsymptomen, mit Panikattacken, als persistierende depressive Episode, mit Melancholie sowie mit saisonalem Muster."
+    }
+  ]
+}

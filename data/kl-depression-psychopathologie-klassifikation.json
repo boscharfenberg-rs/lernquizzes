@@ -1,0 +1,419 @@
+{
+  "id": "kl-depression-psychopathologie-klassifikation",
+  "title": "Depression: Psychopathologie & Klassifikation",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Affektive Störungen im Altklausur-Stil: Affektstörungen im psychopathologischen Befund, die drei Symptomebenen der Depression, klassifikatorische Systematik, Major Depression und rezidivierende Depression, Verlaufsbegriffe sowie Subtypen jenseits der Diagnosesysteme.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Affektstörungen im Befund",
+      "hard": true,
+      "trap": "Affektflach ist nicht dasselbe wie niedergedrückt: Der flache Affekt gehört zur Negativsymptomatik, nicht zur Depression.",
+      "question": "Für welche Zustandsbilder ist die Beschreibung „affektflach“ ausdrücklich reserviert?",
+      "options": [
+        "Für hebephren-schizophrene und negativsymptomatische Bilder.",
+        "Für die schwere depressive Episode mit Antriebshemmung.",
+        "Für die manische Episode mit gehobener Stimmung.",
+        "Für alle Störungen mit Affektbeteiligung gleichermaßen.",
+        "Für die anhaltenden affektiven Störungen wie die Dysthymie."
+      ],
+      "answer": 0,
+      "explanation": "Der Begriff affektflach ist ausdrücklich für hebephren-schizophrene Zustandsbilder und Negativsymptomatik reserviert – bei der Depression spricht man vom niedergedrückten, nicht vom flachen Affekt. Die schwere depressive Episode mit Antriebshemmung und die Dysthymie sind deshalb gerade nicht gemeint. Eine Verwendung für alle Störungen mit Affektbeteiligung hebt die Reservierung auf. Und die manische Episode mit gehobener Stimmung liegt inhaltlich am anderen Pol."
+    },
+    {
+      "topic": "Affektstörungen im Befund",
+      "transfer": true,
+      "question": "Ein Patient wirkt durchgehend gereizt und reagiert auf geringe Anlässe aufbrausend. Welcher Domäne des psychopathologischen Befundes ist das am ehesten zuzuordnen?",
+      "options": [
+        "Den Störungen der Affektivität im Befund.",
+        "Den Wahrnehmungsstörungen im engeren Sinne.",
+        "Den formalen Denkstörungen im Ablauf.",
+        "Den Störungen der Aufmerksamkeit und Konzentration.",
+        "Den Störungen von Antrieb und Psychomotorik."
+      ],
+      "answer": 0,
+      "explanation": "Gereiztheit ist in der Systematik des psychopathologischen Befundes ausdrücklich unter den Störungen der Affektivität aufgeführt, neben Dysphorie, Affektlabilität und Ambivalenz. Aufmerksamkeits- und Konzentrationsstörungen betreffen die kognitive Zuwendung. Antrieb und Psychomotorik betreffen Aktivitätsniveau und Bewegung. Formale Denkstörungen betreffen den Denkablauf. Und Wahrnehmungsstörungen betreffen die Sinnesmodalitäten."
+    },
+    {
+      "topic": "Affektstörungen im Befund",
+      "question": "Welche Auffälligkeit zählt am ehesten NICHT zu den Störungen der Affektivität?",
+      "options": [
+        "Die Parathymie als inadäquate Gefühlsäußerung.",
+        "Die Affektinkontinenz mit überschießendem Ausdruck.",
+        "Die Ideenflucht mit beschleunigtem Gedankengang.",
+        "Die Affektlabilität mit raschem Stimmungswechsel.",
+        "Das Gefühl der Gefühllosigkeit als inneres Erleben."
+      ],
+      "answer": 2,
+      "explanation": "Die Ideenflucht betrifft den Denkablauf und gehört damit zu den formalen Denkstörungen – sie ist die gesuchte Ausnahme. Affektlabilität, Affektinkontinenz, das Gefühl der Gefühllosigkeit und die Parathymie sind demgegenüber sämtlich in der Aufzählung der Affektstörungen enthalten, ebenso wie Affektarmut, Affektstarrheit, innere Unruhe, Dysphorie, Gereiztheit, Ambivalenz und Euphorie."
+    },
+    {
+      "topic": "Affektstörungen im Befund",
+      "question": "Was folgt daraus, dass Affektstörungen bei sehr vielen psychischen Störungen vorkommen?",
+      "options": [
+        "Affektive Störungen betreffen ausschließlich den Affektbereich.",
+        "Der psychopathologische Befund ist damit diagnostisch wertlos.",
+        "Ein auffälliger Affekt allein begründet keine affektive Störung.",
+        "Affektstörungen sind ausschließlich bei Depressionen zu finden.",
+        "Ein auffälliger Affekt beweist stets eine affektive Störung."
+      ],
+      "answer": 2,
+      "explanation": "Weil Störungen der Affekte auch bei nicht-affektiven Störungsbildern auftreten, ist ein auffälliger Affekt für sich genommen unspezifisch und begründet noch keine Diagnose aus der Gruppe der affektiven Störungen. Ein Beweischarakter des Affektbefundes widerspricht genau dieser Unspezifität. Eine Beschränkung auf Depressionen ist mit dem breiten Vorkommen unvereinbar. Wertlos ist der Befund deshalb nicht – er ist nur für sich allein nicht hinreichend. Und affektive Störungen betreffen ihrerseits weit mehr als nur den Affekt."
+    },
+    {
+      "topic": "Affektstörungen im Befund",
+      "question": "Welche Aussage zu affektiven Störungen im psychopathologischen Befund trifft am ehesten zu?",
+      "options": [
+        "Sie beschränken sich definitionsgemäß auf die Affektivität.",
+        "Sie erfassen ausschließlich Antrieb und Psychomotorik.",
+        "Sie lassen die kognitiven Funktionen regelhaft unberührt.",
+        "Sie betreffen weit mehr Bereiche als nur die Affektivität.",
+        "Sie sind über den Befund allein bereits eindeutig bestimmbar."
+      ],
+      "answer": 3,
+      "explanation": "Affektive Störungen betreffen ausdrücklich nicht nur den Affekt: Sie erfassen unter anderem Aufmerksamkeit und Konzentration, Auffassung, Gedächtnis, formales Denken, Wahn sowie Antrieb und Psychomotorik. Eine Beschränkung auf die Affektivität greift deshalb zu kurz, ebenso wie eine Beschränkung auf Antrieb und Psychomotorik. Kognitive Funktionen sind gerade mitbetroffen, etwa in Form von Konzentrations- und Gedächtnisstörungen. Und der Befund allein reicht für die Diagnose nicht aus."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "question": "Auf welchen drei Ebenen wird die Symptomatik der Depression betrachtet?",
+      "options": [
+        "Kognitiv, emotional und motivational.",
+        "Akut, subakut und chronisch verlaufend.",
+        "Psychisch, sozial und ökonomisch bedingt.",
+        "Neurobiologisch, genetisch und epigenetisch.",
+        "Psychisch, behavioral und körperlich."
+      ],
+      "answer": 4,
+      "explanation": "Die Symptomatik wird auf der psychischen Ebene (Denken, Fühlen, Motivation), der behavioralen Ebene (direkt beobachtbares Verhalten) und der körperlichen Ebene betrachtet. Eine soziale und ökonomische Ebene gehört nicht zu dieser Dreiteilung. Kognitiv, emotional und motivational sind Aspekte innerhalb der psychischen Ebene. Neurobiologische, genetische und epigenetische Perspektiven gehören zur Ätiologie. Und akut, subakut und chronisch beschreiben den Verlauf, nicht die Symptomebenen."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "transfer": true,
+      "question": "Ein Patient berichtet über Früherwachen, Appetitverlust und Libidoverlust. Welcher Symptomebene ist das am ehesten zuzuordnen?",
+      "options": [
+        "Keiner der genannten Ebenen.",
+        "Der behavioralen Symptomebene.",
+        "Der körperlichen Symptomebene.",
+        "Der kognitiven Verzerrungsebene.",
+        "Der psychischen Symptomebene."
+      ],
+      "answer": 2,
+      "explanation": "Schlafstörungen, Appetitlosigkeit mit Gewichtsverlust und Libidoverlust sind ausdrücklich der körperlichen Symptomatik zugeordnet, ebenso wie Schmerzsymptomatik, Angstsymptome und Energielosigkeit. Die behaviorale Ebene umfasst direkt beobachtbares Verhalten wie sozialen Rückzug oder psychomotorische Hemmung. Eine kognitive Verzerrungsebene gehört zum ätiologischen Modell und nicht zur Symptomsystematik. Die psychische Ebene betrifft Denken, Fühlen und Motivation. Und eine Zuordnung ist hier eindeutig möglich."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "question": "Welches Symptom zählt am ehesten NICHT zur behavioralen Symptomebene der Depression?",
+      "options": [
+        "Der soziale Rückzug aus bisherigen Kontakten.",
+        "Die veränderte Körpersprache im Kontakt.",
+        "Die Antriebslosigkeit bis hin zur Apathie.",
+        "Die psychomotorische Hemmung oder Agitiertheit.",
+        "Die pessimistische Zukunftsperspektive."
+      ],
+      "answer": 4,
+      "explanation": "Negative und pessimistische Zukunftsperspektiven gehören zur psychischen Symptomebene und nicht zum direkt beobachtbaren Verhalten – sie sind die gesuchte Ausnahme. Sozialer Rückzug, psychomotorische Hemmung oder Agitiertheit, veränderte Körpersprache und Antriebslosigkeit bis zur Apathie sind demgegenüber sämtlich der behavioralen Ebene zugeordnet, ebenso wie Suizidhandlungen und -ankündigungen."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "hard": true,
+      "question": "Warum wird die Depression in gewisser Weise auch als somatische Erkrankung bezeichnet?",
+      "options": [
+        "Weil ihre Behandlung ausschließlich medikamentös erfolgt.",
+        "Weil sie ausschließlich über Laborwerte diagnostiziert wird.",
+        "Weil körperliche Symptome eine große Rolle spielen.",
+        "Weil psychische Symptome für die Diagnose entbehrlich sind.",
+        "Weil sie regelhaft durch eine körperliche Krankheit ausgelöst wird."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Depression spielen körperliche Symptome eine große Rolle und maskieren die depressive Symptomatik sogar häufig – deshalb die Formulierung, sie sei in gewisser Weise auch eine somatische Erkrankung. Eine regelhafte körperliche Verursachung ist damit gerade nicht gemeint. Laborwerte spielen für die Diagnose keine Rolle. Psychische Symptome sind für die Diagnose unverzichtbar. Und die Behandlung ist keineswegs ausschließlich medikamentös."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "transfer": true,
+      "question": "Ein Patient sucht wegen anhaltender Rückenschmerzen und Erschöpfung den Hausarzt auf; eine gedrückte Stimmung nimmt er selbst kaum wahr. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als agitierte Depression mit innerer Getriebenheit.",
+        "Als somatisch maskierte, larvierte Depression.",
+        "Als somatoforme Störung ohne depressiven Anteil.",
+        "Als hypochondrische Störung mit Krankheitsangst.",
+        "Als atypische Depression mit gesteigertem Appetit."
+      ],
+      "answer": 1,
+      "explanation": "Bei der somatischen oder larvierten Depression werden körperliche Symptome wie Schmerzen anstelle der Stimmungsverschlechterung wahrgenommen; typisch ist ein schlechter Bezug zu den eigenen Emotionen. Eine somatoforme Störung ohne depressiven Anteil würde die maskierte Stimmungskomponente übersehen. Eine hypochondrische Störung wäre durch Krankheitsangst und nicht durch das Beschwerdebild selbst gekennzeichnet. Die agitierte Depression ist durch innere Getriebenheit statt Antriebsverlust geprägt. Und die atypische Depression zeigt gesteigerten Appetit und Schlaf."
+    },
+    {
+      "topic": "Symptomebenen der Depression",
+      "question": "Welches Symptom zählt am ehesten NICHT zur psychischen Symptomebene der Depression?",
+      "options": [
+        "Das verminderte Selbstwertgefühl und Selbstvertrauen.",
+        "Das Gefühl der Gefühllosigkeit im Erleben.",
+        "Die verminderte Konzentration und Aufmerksamkeit.",
+        "Die Schlafstörung mit nächtlichem Erwachen.",
+        "Die Schuldgefühle und Gefühle von Wertlosigkeit."
+      ],
+      "answer": 3,
+      "explanation": "Schlafstörungen sind der körperlichen Symptomebene zugeordnet und damit die gesuchte Ausnahme. Vermindertes Selbstwertgefühl, Schuld- und Wertlosigkeitsgefühle, verminderte Konzentration und Aufmerksamkeit sowie das Gefühl der Gefühllosigkeit gehören demgegenüber sämtlich zur psychischen Ebene, ebenso wie Niedergeschlagenheit, Interesselosigkeit und Suizidgedanken."
+    },
+    {
+      "topic": "Klassifikatorische Systematik",
+      "question": "Wie gliedert sich die Gruppe der affektiven Störungen grundlegend?",
+      "options": [
+        "In psychotische und nicht psychotische Störungen.",
+        "In depressive Störungen und bipolare Störungen.",
+        "In leichte, mittelgradige und schwere Störungen.",
+        "In endogene Störungen und reaktive Störungen.",
+        "In akute Störungen und chronische Störungen."
+      ],
+      "answer": 1,
+      "explanation": "Die Gruppe der affektiven Störungen teilt sich grundlegend in depressive Störungen einerseits und bipolare Störungen andererseits. Die Schweregradeinteilung in leicht, mittelgradig und schwer ist eine Untergliederung innerhalb der depressiven Episode. Die Unterscheidung psychotisch gegen nicht psychotisch ist eine Zusatzkennzeichnung. Endogen und reaktiv sind ausdrücklich veraltete Konzepte. Und akut gegen chronisch beschreibt den Verlauf."
+    },
+    {
+      "topic": "Klassifikatorische Systematik",
+      "question": "Welche Störung zählt am ehesten NICHT zu den anhaltenden affektiven Störungen?",
+      "options": [
+        "Die rezidivierende depressive Störung mit Episoden.",
+        "Die Dysthymie mit über Jahre bestehender Verstimmung.",
+        "Eine über zwei Jahre bestehende leichte Verstimmung.",
+        "Eine anhaltende, noch nicht hypomane Schwankung.",
+        "Die Zyklothymie mit anhaltenden Stimmungsschwankungen."
+      ],
+      "answer": 0,
+      "explanation": "Die rezidivierende depressive Störung ist durch wiederkehrende abgegrenzte Episoden gekennzeichnet und gehört damit nicht zu den anhaltenden affektiven Störungen – sie ist die gesuchte Ausnahme. Zu den anhaltenden affektiven Störungen zählen die Dysthymie mit über Jahre bestehenden depressiven Symptomen unterhalb der Episodenschwelle und die Zyklothymie mit anhaltenden Stimmungsschwankungen, die noch nicht das hypomane Niveau erreichen."
+    },
+    {
+      "topic": "Klassifikatorische Systematik",
+      "transfer": true,
+      "question": "Bei einer Patientin tritt nach einer ersten depressiven Episode vor Jahren nun eine zweite Episode auf. Welche Diagnose ist am ehesten zu stellen?",
+      "options": [
+        "Eine rezidivierende depressive Störung.",
+        "Eine anhaltende affektive Störung im Sinne der Dysthymie.",
+        "Eine bipolare affektive Störung mit depressiver Episode.",
+        "Eine persistierende depressive Episode.",
+        "Weiterhin eine einzelne depressive Episode."
+      ],
+      "answer": 0,
+      "explanation": "Ab der zweiten Episode wird eine rezidivierende depressive Störung diagnostiziert. Die einzelne Episode gilt nur bis zur ersten Manifestation. Eine Dysthymie setzt anhaltende Symptome unterhalb der Episodenschwelle voraus und nicht abgegrenzte Episoden. Eine bipolare Störung erfordert zusätzlich eine manische oder hypomane Episode. Und eine persistierende depressive Episode verlangt ein anhaltendes Erfülltsein der Episodenkriterien ohne Remission."
+    },
+    {
+      "topic": "Klassifikatorische Systematik",
+      "hard": true,
+      "trap": "Die rezidivierende Depression ist ein Lebenszeitkonzept – Symptomfreiheit hebt die Diagnose nicht auf, sie wird nur als remittiert gekennzeichnet.",
+      "question": "Wie wird die Diagnose der rezidivierenden Depression bei aktuell symptomfreien Betroffenen gehandhabt?",
+      "options": [
+        "Sie wird erst nach fünf Jahren Symptomfreiheit gestrichen.",
+        "Sie wird durch die Diagnose einer Episode ersetzt.",
+        "Sie wird durch die Diagnose einer Dysthymie ersetzt.",
+        "Sie bleibt bestehen, mit dem Zusatz aktuell remittiert.",
+        "Sie wird vollständig gestrichen, sobald Symptomfreiheit besteht."
+      ],
+      "answer": 3,
+      "explanation": "Die rezidivierende Depression ist als Lebenszeitkonzept angelegt: Auch bei Symptomfreiheit bleibt die Diagnose bestehen und wird lediglich mit der Zusatzkodierung aktuell remittiert versehen. Eine vollständige Streichung bei Symptomfreiheit widerspricht diesem Konzept, ebenso eine Streichung nach einer festen Frist. Eine Ersetzung durch die Dysthymie oder durch die Einzelepisode kehrt die diagnostische Logik um."
+    },
+    {
+      "topic": "Major Depression und Behandlungsfolgen",
+      "hard": true,
+      "trap": "Major Depression ist keine Schweregradangabe – auch die leichte und die mittelgradige Depression ist eine Major Depression.",
+      "question": "In welchem Verhältnis stehen die Bezeichnungen Major Depression und Depression?",
+      "options": [
+        "Die Major Depression bezeichnet die psychotische Form.",
+        "Die Major Depression bezeichnet nur die schwere Verlaufsform.",
+        "Major Depression meint die klinisch relevante Depression.",
+        "Die Major Depression bezeichnet die chronische Verlaufsform.",
+        "Die Major Depression ist eine eigene, seltenere Erkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Major Depression ist schlicht die Bezeichnung für die klinisch relevante Depression – jede depressive Episode, ob leicht, mittelgradig oder schwer, ist damit eine Major Depression. Eine Beschränkung auf die schwere Verlaufsform ist deshalb der klassische Irrtum. Ebenso wenig ist die chronische oder die psychotische Form gemeint. Und eine eigenständige, seltenere Erkrankung ist die Major Depression nicht."
+    },
+    {
+      "topic": "Major Depression und Behandlungsfolgen",
+      "transfer": true,
+      "question": "Bei einer Patientin wird eine leichte depressive Episode diagnostiziert. Handelt es sich um eine Major Depression?",
+      "options": [
+        "Nein, denn dafür sind psychotische Symptome erforderlich.",
+        "Nein, denn dafür ist eine schwere Episode erforderlich.",
+        "Nur dann, wenn zusätzlich eine Dysthymie vorliegt.",
+        "Ja, denn jede klinisch relevante Depression zählt dazu.",
+        "Nein, denn dafür ist ein chronischer Verlauf erforderlich."
+      ],
+      "answer": 3,
+      "explanation": "Da Major Depression die klinisch relevante Depression bezeichnet, entspricht jede depressive Episode einer Major Depression – unabhängig vom Schweregrad. Eine schwere Episode, ein chronischer Verlauf oder psychotische Symptome sind dafür keine Voraussetzung. Und eine zusätzliche Dysthymie ergäbe das Bild einer Double Depression, ist aber keine Bedingung."
+    },
+    {
+      "topic": "Major Depression und Behandlungsfolgen",
+      "question": "Welche Behandlungskonsequenz ergibt sich aus der Diagnose einer rezidivierenden Depression?",
+      "options": [
+        "Ausschließlich Phasenprophylaktika ohne Antidepressiva.",
+        "Ausschließlich Antidepressiva ohne weitere Zusätze.",
+        "Ein grundsätzlicher Verzicht auf jede Medikation.",
+        "Eine antipsychotische Behandlung als erste Wahl.",
+        "Phasenprophylaktika zusätzlich zu Antidepressiva."
+      ],
+      "answer": 4,
+      "explanation": "Die Unterscheidung zwischen einzelner Episode und rezidivierender Depression ist ausdrücklich auch für die Behandlung relevant: Bei rezidivierendem Verlauf kommen Phasenprophylaktika zusätzlich zu Antidepressiva zum Einsatz. Ein Verzicht auf eines der beiden Elemente greift jeweils zu kurz. Eine antipsychotische Behandlung als erste Wahl ist der psychotischen Depression vorbehalten. Und ein völliger Medikationsverzicht widerspricht der genannten Konsequenz."
+    },
+    {
+      "topic": "Major Depression und Behandlungsfolgen",
+      "question": "Ab welcher Episode wird eine rezidivierende Depression diagnostiziert?",
+      "options": [
+        "Ab der ersten depressiven Episode.",
+        "Erst nach zehn Jahren Krankheitsdauer.",
+        "Ab der dritten depressiven Episode.",
+        "Ab der zweiten depressiven Episode.",
+        "Ab der fünften depressiven Episode."
+      ],
+      "answer": 3,
+      "explanation": "Ab der zweiten Episode wird eine rezidivierende depressive Störung diagnostiziert. Eine höhere Schwelle bei der dritten oder fünften Episode ist nicht vorgesehen. Eine feste Mindestkrankheitsdauer spielt für diese Unterscheidung keine Rolle. Und die erste Episode wird als einzelne depressive Episode geführt."
+    },
+    {
+      "topic": "Major Depression und Behandlungsfolgen",
+      "question": "Welche Aussage zur rezidivierenden Depression trifft NICHT zu?",
+      "options": [
+        "Sie beeinflusst die medikamentöse Behandlungsstrategie.",
+        "Sie wird bereits bei der ersten Episode diagnostiziert.",
+        "Sie bleibt bei Symptomfreiheit als Diagnose bestehen.",
+        "Sie wird ab der zweiten depressiven Episode diagnostiziert.",
+        "Sie ist als Lebenszeitkonzept angelegt."
+      ],
+      "answer": 1,
+      "explanation": "Bei der ersten Episode liegt definitionsgemäß noch keine rezidivierende Störung vor – die Diagnose wird erst ab der zweiten Episode gestellt, weshalb die erste Aussage die gesuchte falsche ist. Die Behandlungsrelevanz zeigt sich in der zusätzlichen Phasenprophylaxe. Als Lebenszeitkonzept bleibt die Diagnose auch bei Symptomfreiheit bestehen und wird nur als aktuell remittiert gekennzeichnet."
+    },
+    {
+      "topic": "Verlauf und Verlaufsbegriffe",
+      "question": "Wie lange dauert eine unbehandelte depressive Episode typischerweise?",
+      "options": [
+        "Etwa ein halbes bis dreiviertel Jahr.",
+        "Etwa zwei bis drei Wochen ohne Behandlung.",
+        "Etwa zwei bis drei Jahre ohne Behandlung.",
+        "Etwa vier bis sechs Wochen ohne Behandlung.",
+        "Etwa fünf bis zehn Jahre ohne Behandlung."
+      ],
+      "answer": 0,
+      "explanation": "Eine unbehandelte depressive Episode dauert etwa ein halbes bis dreiviertel Jahr – sie klingt also auch ohne Behandlung ab, allerdings erst nach längerer Zeit. Wenige Wochen unterschätzen die Dauer erheblich; vier bis sechs Wochen entsprechen eher der Wirklatenz einer medikamentösen Behandlung. Mehrjährige Verläufe beschreiben die chronischen Sonderformen und nicht die typische Episode."
+    },
+    {
+      "topic": "Verlauf und Verlaufsbegriffe",
+      "question": "Wie verhält sich die Dauer einer unbehandelten manischen Episode zu der einer depressiven?",
+      "options": [
+        "Sie ist etwa gleich lang wie die depressive Episode.",
+        "Sie ist deutlich kürzer als die depressive Episode.",
+        "Sie dauert unbehandelt regelhaft mehrere Jahre.",
+        "Eine Angabe zur Dauer ist grundsätzlich nicht möglich.",
+        "Sie ist deutlich länger als die depressive Episode."
+      ],
+      "answer": 1,
+      "explanation": "Die unbehandelte manische oder hypomane Episode dauert etwa ein Vierteljahr und ist damit deutlich kürzer als die unbehandelte depressive Episode. Eine längere oder etwa gleich lange Dauer kehrt dieses Verhältnis um beziehungsweise ebnet es ein. Mehrjährige Verläufe sind für die manische Episode nicht beschrieben. Und Angaben zur typischen Dauer liegen für beide Episodenformen vor."
+    },
+    {
+      "topic": "Verlauf und Verlaufsbegriffe",
+      "hard": true,
+      "question": "Worin unterscheiden sich Remission und vollständige Genesung?",
+      "options": [
+        "Remission meint die dauerhafte Heilung der Erkrankung.",
+        "Genesung bezeichnet den Beginn einer neuen Episode.",
+        "Beide Begriffe bezeichnen exakt denselben Zustand.",
+        "Genesung meint das kurzfristige Nachlassen der Symptome.",
+        "Remission meint das Abklingen der aktuellen Symptomatik."
+      ],
+      "answer": 4,
+      "explanation": "Die Remission bezeichnet das Abklingen der aktuellen Symptomatik, während die vollständige Genesung darüber hinausgeht – die Vorlesung markiert die Unterscheidung eigens als CAVE. Die Remission mit dauerhafter Heilung gleichzusetzen verwischt genau diesen Unterschied. Die Genesung als kurzfristiges Nachlassen zu beschreiben vertauscht beide Begriffe. Der Beginn einer neuen Episode wäre ein Rezidiv. Und eine Gleichsetzung beider Begriffe hebt das CAVE auf."
+    },
+    {
+      "topic": "Verlauf und Verlaufsbegriffe",
+      "trap": "Beide Begriffspaare klingen nach Synonymen, sind aber ausdrücklich zu unterscheiden.",
+      "question": "Welche beiden Begriffspaare werden zum Verlauf ausdrücklich als Verwechslungsgefahr markiert?",
+      "options": [
+        "Prävalenz gegen Inzidenz und Punkt- gegen Lebenszeitmaß.",
+        "Episode gegen Phase und Symptom gegen Syndrom.",
+        "Endogen gegen reaktiv und synthym gegen parathym.",
+        "Dysthymie gegen Zyklothymie und Manie gegen Hypomanie.",
+        "Remission gegen Genesung und Rückfall gegen Rezidiv."
+      ],
+      "answer": 4,
+      "explanation": "Als CAVE zum Verlauf werden ausdrücklich zwei Begriffspaare markiert: Remission gegenüber vollständiger Genesung sowie Rückfall gegenüber Rezidiv. Die übrigen genannten Paare sind zwar fachlich ebenfalls zu unterscheiden – Episode und Phase, Symptom und Syndrom, Dysthymie und Zyklothymie, Manie und Hypomanie, Prävalenz und Inzidenz sowie synthym und parathym –, werden an dieser Stelle jedoch nicht als Verlaufs-CAVE geführt."
+    },
+    {
+      "topic": "Verlauf und Verlaufsbegriffe",
+      "transfer": true,
+      "question": "Eine Patientin ist nach einer depressiven Episode seit Monaten beschwerdefrei, fühlt sich aber noch nicht wie vor der Erkrankung. Wie ist das am ehesten zu bezeichnen?",
+      "options": [
+        "Als vollständige Genesung im Sinne der Recovery.",
+        "Am ehesten als Remission, noch nicht als Genesung.",
+        "Als persistierende depressive Episode über Jahre.",
+        "Als Dysthymie mit anhaltender leichter Verstimmung.",
+        "Als Rezidiv mit erneutem Beginn der Symptomatik."
+      ],
+      "answer": 1,
+      "explanation": "Die Symptomatik ist abgeklungen, der Ausgangszustand aber noch nicht wiederhergestellt – das entspricht der Remission und noch nicht der vollständigen Genesung. Von Recovery wäre erst bei erreichtem Ausgangsniveau zu sprechen. Ein Rezidiv setzt das erneute Auftreten der Symptomatik voraus, das hier gerade fehlt. Eine persistierende depressive Episode verlangt anhaltend erfüllte Episodenkriterien. Und eine Dysthymie setzt eine über Jahre bestehende Verstimmung voraus."
+    },
+    {
+      "topic": "Subtypen jenseits der Diagnosesysteme",
+      "hard": true,
+      "question": "Welcher Subtyp der Depression ist am ehesten NICHT eigenständig kodierbar?",
+      "options": [
+        "Die Depression mit melancholischer Ausprägung.",
+        "Die agitierte Depression mit innerer Getriebenheit.",
+        "Die schwere Depression mit psychotischen Symptomen.",
+        "Die persistierende depressive Episode.",
+        "Die Depression mit saisonalem Verlaufsmuster."
+      ],
+      "answer": 1,
+      "explanation": "Die agitierte Depression – innerlich getrieben statt antriebsgemindert – wird ausdrücklich als nicht kodierbar geführt, ebenso wie die atypische, die larvierte sowie die Unterscheidung reaktiv gegen endogen. Die psychotische Depression ist dagegen als Subtyp bei mittlerer oder schwerer Depression vorgesehen. Melancholische Ausprägung, saisonales Muster und persistierende Episode sind eigene Zusatzkodierungen."
+    },
+    {
+      "topic": "Subtypen jenseits der Diagnosesysteme",
+      "transfer": true,
+      "question": "Eine Patientin schläft im Winter deutlich mehr, isst mehr und nimmt zu; die Beschwerden bessern sich im Frühjahr. Welcher Subtyp liegt am ehesten vor?",
+      "options": [
+        "Eine saisonale Depression im Herbst-Winter-Muster.",
+        "Eine larvierte Depression mit somatischer Maskierung.",
+        "Eine psychotische Depression mit synthymem Wahn.",
+        "Eine agitierte Depression mit innerer Getriebenheit.",
+        "Eine melancholische Depression mit Früherwachen."
+      ],
+      "answer": 0,
+      "explanation": "Gesteigerter Schlaf, gesteigerter Appetit und Gewichtszunahme mit Auftreten in den Wintermonaten kennzeichnen die saisonale Herbst-Winter-Depression, die dem atypischen Bild zugerechnet wird. Die melancholische Ausprägung zeigt gerade das umgekehrte Muster mit Früherwachen, Appetit- und Gewichtsverlust. Die agitierte Depression ist durch Getriebenheit statt durch vegetative Steigerung geprägt. Die larvierte Depression zeigt körperliche Symptome anstelle der Stimmungsverschlechterung. Und die psychotische Depression verlangt Wahn oder Halluzinationen."
+    },
+    {
+      "topic": "Subtypen jenseits der Diagnosesysteme",
+      "hard": true,
+      "question": "Welche Behandlung wird für die Herbst-Winter-Depression als spezielle Indikation genannt?",
+      "options": [
+        "Die Elektrokrampftherapie als Verfahren erster Wahl.",
+        "Die Wachtherapie über mehrere aufeinanderfolgende Nächte.",
+        "Die Lichttherapie zur Stabilisierung der Rhythmik.",
+        "Die Dunkeltherapie über mehrere Stunden am Tag.",
+        "Eine hochdosierte antipsychotische Behandlung."
+      ],
+      "answer": 2,
+      "explanation": "Für die saisonale Depression werden die Lichttherapie sowie Agomelatin genannt, um den Melatoninhaushalt und die zirkadiane Rhythmik zu stabilisieren. Die Elektrokrampftherapie ist der schweren, insbesondere psychotischen Depression vorbehalten. Die Wachtherapie zielt auf ausgeprägte morgendliche Stimmungstiefs. Die Dunkeltherapie wird bei manischen Zuständen eingesetzt. Und eine antipsychotische Behandlung ist bei psychotischen Symptomen indiziert."
+    },
+    {
+      "topic": "Subtypen jenseits der Diagnosesysteme",
+      "trap": "Bei der atypischen Depression sind Appetit, Schlaf und Gewicht gesteigert – genau umgekehrt zum melancholischen Bild.",
+      "question": "Was kennzeichnet die atypische Depression?",
+      "options": [
+        "Psychomotorische Hemmung mit vollständigem Antriebsverlust.",
+        "Wahnhafte Symptome mit synthymem Schuldwahn im Vordergrund.",
+        "Früherwachen mit ausgeprägtem Morgentief am Tagesbeginn.",
+        "Gesteigerter Appetit und Schlaf sowie Gewichtszunahme.",
+        "Verminderter Appetit und Schlaf sowie Gewichtsabnahme."
+      ],
+      "answer": 3,
+      "explanation": "Die atypische Depression ist durch gesteigerten Appetit, gesteigerten Schlaf und Gewichtszunahme gekennzeichnet; die saisonale Depression wird ihr zugerechnet. Verminderter Appetit und Schlaf mit Gewichtsabnahme sowie Früherwachen mit Morgentief kennzeichnen demgegenüber das melancholische Bild. Die psychomotorische Hemmung gehört ebenfalls dorthin. Und synthymer Schuldwahn kennzeichnet die psychotische Depression."
+    },
+    {
+      "topic": "Subtypen jenseits der Diagnosesysteme",
+      "hard": true,
+      "question": "Welche Aussage zu den Konzepten reaktive und endogene Depression trifft am ehesten zu?",
+      "options": [
+        "Sie sind als Zusatzkodierungen ausdrücklich vorgesehen.",
+        "Sie beschreiben die beiden Pole der bipolaren Störung.",
+        "Sie entsprechen der leichten und der schweren Depression.",
+        "Sie bilden die zentrale Achse der heutigen Systematik.",
+        "Sie gelten als veraltet und sind nicht kodierbar."
+      ],
+      "answer": 4,
+      "explanation": "Die Unterscheidung zwischen reaktiver und endogener Depression gilt als veraltet und ist nicht kodierbar, weil ohnehin stets eine Vulnerabilität sowie zusätzliche Auslösefaktoren angenommen werden. Eine zentrale Stellung in der heutigen Systematik oder eine Verankerung als Zusatzkodierung widerspricht dem. Die Pole der bipolaren Störung sind Depression und Manie. Und mit Schweregraden hat die Unterscheidung nichts zu tun."
+    }
+  ]
+}

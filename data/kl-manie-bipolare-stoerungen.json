@@ -1,0 +1,417 @@
+{
+  "id": "kl-manie-bipolare-stoerungen",
+  "title": "Manie & bipolare Störungen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Affektive Störungen im Altklausur-Stil: Kriterien der manischen und hypomanen Episode, Diagnosestellung der bipolaren Störung, Bipolar I gegen Bipolar II, Rapid Cycling, Differenzialdiagnostik gegenüber Depression und Borderline sowie Trauer und die neu eingeführten affektiven Diagnosen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Manische Episode",
+      "question": "Welche Stimmungslage kennzeichnet die manische Episode?",
+      "options": [
+        "Eine durchgehend flache und ausdrucksarme Stimmung.",
+        "Eine rasch zwischen beiden Polen wechselnde Stimmung.",
+        "Ausschließlich gehobene und überschwängliche Grundstimmung.",
+        "Ausschließlich gereizte und dysphorische Stimmung.",
+        "Gehobene, überschwängliche oder gereizte Stimmung."
+      ],
+      "answer": 4,
+      "explanation": "Die manische Episode ist durch eine abnorme und anhaltend gehobene, überschwängliche oder gereizte Stimmung gekennzeichnet – die gereizte Variante steht gleichberechtigt neben der euphorischen. Eine Beschränkung auf nur eine der beiden Ausprägungen greift deshalb jeweils zu kurz. Eine flache, ausdrucksarme Stimmung gehört zur Negativsymptomatik. Und ein rascher Wechsel zwischen den Polen beschreibt das Rapid Cycling oder einen gemischten Zustand."
+    },
+    {
+      "topic": "Manische Episode",
+      "hard": true,
+      "question": "Wie lange muss eine manische Episode mindestens andauern?",
+      "options": [
+        "Mindestens vier Tage ohne Unterbrechung.",
+        "Mindestens eine Woche oder bis zur Klinikaufnahme.",
+        "Mindestens einen Monat ohne Unterbrechung.",
+        "Eine Mindestdauer ist gar nicht vorgesehen.",
+        "Mindestens zwei Wochen ohne Unterbrechung."
+      ],
+      "answer": 1,
+      "explanation": "Die manische Episode verlangt eine Dauer von mindestens einer Woche; ein erforderlicher Krankenhausaufenthalt ersetzt dieses Kriterium. Zwei Wochen sind das Zeitkriterium der depressiven Episode. Vier Tage sind das Zeitkriterium der hypomanen Episode. Ein Monat wird nirgends gefordert. Und eine Mindestdauer ist ausdrücklich vorgesehen."
+    },
+    {
+      "topic": "Manische Episode",
+      "question": "Welches Merkmal zählt am ehesten NICHT zu den Symptomen der manischen Episode?",
+      "options": [
+        "Ideenflucht oder das subjektive Gefühl rasender Gedanken.",
+        "Ein Rededrang mit deutlich gesteigerter Gesprächigkeit.",
+        "Ein übertriebenes Selbstbewusstsein bis hin zum Größenwahn.",
+        "Zerstreutheit durch leichte Ablenkbarkeit auf Nebenreize.",
+        "Ein deutlich gesteigertes Schlafbedürfnis mit langem Schlaf."
+      ],
+      "answer": 4,
+      "explanation": "Kennzeichnend ist ein vermindertes und nicht ein gesteigertes Schlafbedürfnis – Betroffene fühlen sich schon nach wenigen Stunden erholt. Übertriebenes Selbstbewusstsein bis zum Größenwahn, Rededrang, Ideenflucht beziehungsweise rasende Gedanken sowie Zerstreutheit durch Ablenkbarkeit auf belanglose Reize gehören demgegenüber sämtlich zu den Kriterien, ebenso wie die Zunahme zielgerichteter Aktivitäten und die exzessive Beschäftigung mit folgenreichen angenehmen Tätigkeiten."
+    },
+    {
+      "topic": "Manische Episode",
+      "transfer": true,
+      "question": "Ein Patient tätigt binnen weniger Tage mehrere hohe, unüberlegte Anschaffungen und schließt riskante Geschäfte ab. Welchem Kriterium entspricht das am ehesten?",
+      "options": [
+        "Der exzessiven Beschäftigung mit folgenreichen Tätigkeiten.",
+        "Der Zunahme zielgerichteter beruflicher Aktivitäten.",
+        "Dem übertriebenen Selbstbewusstsein bis zum Größenwahn.",
+        "Dem verminderten Schlafbedürfnis im Krankheitsverlauf.",
+        "Der Zerstreutheit durch Ablenkbarkeit auf Nebenreize."
+      ],
+      "answer": 0,
+      "explanation": "Ungehemmter Kaufrausch und törichte geschäftliche Investitionen sind die im Kriterienkatalog wörtlich genannten Beispiele für die exzessive Beschäftigung mit angenehmen Tätigkeiten, die höchstwahrscheinlich negative Folgen hat. Die Zunahme zielgerichteter Aktivitäten meint gesteigerte Betriebsamkeit ohne diesen Schädigungsaspekt. Zerstreutheit betrifft die Aufmerksamkeitslenkung. Das verminderte Schlafbedürfnis betrifft den Schlaf. Und das übersteigerte Selbstbewusstsein betrifft die Selbsteinschätzung, hier allenfalls mittelbar."
+    },
+    {
+      "topic": "Manische Episode",
+      "question": "Welches Kriterium wurde im DSM-5 neben der gereizten Stimmung neu aufgenommen?",
+      "options": [
+        "Die verminderte Konzentration.",
+        "Die emotionale Reaktivität.",
+        "Die psychomotorische Hemmung.",
+        "Der verminderte Selbstwert.",
+        "Das gesteigerte Energielevel."
+      ],
+      "answer": 4,
+      "explanation": "Neu hinzugekommen ist neben der gereizten Stimmung das gesteigerte Energielevel als Kriterium der manischen Episode. Verminderte Konzentration, psychomotorische Hemmung und verminderter Selbstwert gehören demgegenüber zum depressiven Pol. Und die emotionale Reaktivität ist ein Merkmal, das bei der Melancholie in vermindeter Form auftritt."
+    },
+    {
+      "topic": "Manische Episode",
+      "question": "Welche Wahnformen treten bei der Manie mit psychotischen Symptomen auf?",
+      "options": [
+        "Schuldwahn, Verarmungswahn und nihilistischer Wahn.",
+        "Psychotische Symptome kommen bei der Manie nicht vor.",
+        "Größenwahn, Abstammungswahn und Verfolgungswahn.",
+        "Hypochondrischer Wahn und Verkleinerungswahn.",
+        "Ausschließlich bizarre Wahninhalte ohne Stimmungsbezug."
+      ],
+      "answer": 2,
+      "explanation": "Bei der Manie mit psychotischen Symptomen werden Größenwahn, Abstammungswahn und Verfolgungswahn genannt, seltener auch Beziehungswahn – der Verfolgungswahn tritt dabei im Rahmen getriebener Zustandsbilder mit hoher Erregung auf. Schuldwahn, Verarmungswahn, nihilistischer Wahn, hypochondrischer Wahn und Verkleinerungswahn sind die synthymen Wahnformen der Depression. Bizarre Wahninhalte ohne Stimmungsbezug kennzeichnen die schizophrene Psychose. Und psychotische Symptome kommen bei der Manie sehr wohl vor."
+    },
+    {
+      "topic": "Hypomane Episode",
+      "question": "Wie lange muss eine hypomane Episode mindestens andauern?",
+      "options": [
+        "Eine Mindestdauer ist hier nicht vorgesehen.",
+        "Mindestens vier Tage ohne Unterbrechung.",
+        "Mindestens einen Monat ohne Unterbrechung.",
+        "Mindestens eine Woche ohne Unterbrechung.",
+        "Mindestens zwei Wochen ohne Unterbrechung."
+      ],
+      "answer": 1,
+      "explanation": "Die hypomane Episode verlangt eine Mindestdauer von vier Tagen. Eine Woche ist das Zeitkriterium der manischen, zwei Wochen das der depressiven Episode. Ein Monat wird nirgends gefordert. Und eine Mindestdauer ist ausdrücklich vorgesehen."
+    },
+    {
+      "topic": "Hypomane Episode",
+      "question": "Wodurch unterscheidet sich die hypomane von der manischen Episode am ehesten?",
+      "options": [
+        "Sie führt regelhaft zu einem Krankenhausaufenthalt.",
+        "Sie führt zu keiner ausgeprägten Funktionsbeeinträchtigung.",
+        "Sie geht mit psychotischen Merkmalen einher.",
+        "Sie zeigt inhaltlich völlig andere Einzelsymptome.",
+        "Sie bleibt für das Umfeld vollständig unbemerkt."
+      ],
+      "answer": 1,
+      "explanation": "Die hypomane Episode ist ausdrücklich nicht schwer genug, um eine ausgeprägte Beeinträchtigung in sozialen oder beruflichen Bereichen zu verursachen oder einen Krankenhausaufenthalt zu erfordern, und es fehlen psychotische Merkmale. Ein regelhafter Krankenhausaufenthalt und psychotische Merkmale kennzeichnen deshalb gerade die manische Episode. Unbemerkt bleibt die Hypomanie nicht – die Stimmungsstörung und der Wechsel werden ausdrücklich von anderen beobachtet. Und die Einzelsymptome sind weitgehend dieselben."
+    },
+    {
+      "topic": "Hypomane Episode",
+      "question": "Welche Anforderung stellt das Kriterium der Fremdbeobachtung bei der hypomanen Episode?",
+      "options": [
+        "Eine Beobachtung durch andere ist ausdrücklich entbehrlich.",
+        "Der Wechsel muss testpsychologisch objektiviert werden.",
+        "Die Betroffenen müssen den Wechsel selbst bemerken.",
+        "Stimmungsstörung und Wechsel werden von anderen beobachtet.",
+        "Eine ärztliche Fremdbeurteilung ist zwingend erforderlich."
+      ],
+      "answer": 3,
+      "explanation": "Gefordert ist, dass die Stimmungsstörung und der Wechsel des Auftretens durch andere beobachtet werden – die Veränderung muss also von außen erkennbar sein. Eine Selbstwahrnehmung der Betroffenen genügt dafür nicht. Eine förmliche ärztliche Fremdbeurteilung oder eine testpsychologische Objektivierung werden nicht verlangt. Und entbehrlich ist das Kriterium gerade nicht."
+    },
+    {
+      "topic": "Hypomane Episode",
+      "hard": true,
+      "trap": "Bei echter Hypomanie fehlt der erklärende Grund für die gehobene Stimmung – Erleichterung nach überstandener Depression ist keine Hypomanie.",
+      "question": "Wie lässt sich eine echte Hypomanie von einer bloßen Erleichterung nach einer depressiven Episode abgrenzen?",
+      "options": [
+        "Eine Abgrenzung ist grundsätzlich nicht möglich.",
+        "Bei echter Hypomanie fehlt ein erklärender Grund für die Euphorie.",
+        "Bei echter Hypomanie liegt stets ein erklärender Anlass vor.",
+        "Bei echter Hypomanie dauert der Zustand nur wenige Stunden.",
+        "Bei echter Hypomanie fehlen Veränderungen der Leistungsfähigkeit."
+      ],
+      "answer": 1,
+      "explanation": "Bei echter Hypomanie fehlt der erklärende Grund für die Euphorie – genau das unterscheidet sie vom postdepressiven Switch, also der nachvollziehbaren Erleichterung nach überstandener Episode. Ein erklärender Anlass spricht deshalb gegen die Hypomanie. Eine Dauer von wenigen Stunden unterschreitet das Viertagekriterium. Veränderungen der Leistungsfähigkeit sind gerade gefordert. Und die Abgrenzung ist über das Fehlen eines Anlasses sehr wohl möglich."
+    },
+    {
+      "topic": "Hypomane Episode",
+      "transfer": true,
+      "trap": "Eine hypomane Anmutung kann Nebenwirkung einer antidepressiven Behandlung sein – das ist keine eigenständige hypomane Episode.",
+      "question": "Ein Patient wirkt wenige Tage nach Beginn einer antidepressiven Medikation deutlich aufgedreht und schlafverkürzt. Was ist am ehesten zu bedenken?",
+      "options": [
+        "Eine sicher eigenständige hypomane Episode der Erkrankung.",
+        "Eine beginnende schizophrene Erkrankung mit Erregung.",
+        "Eine Verschlechterung der depressiven Grundsymptomatik.",
+        "Eine hypomane Anmutung als Nebenwirkung der Behandlung.",
+        "Eine vollständige Remission der depressiven Symptomatik."
+      ],
+      "answer": 3,
+      "explanation": "Ausdrücklich als CAVE benannt ist die hypomane Anmutung als Nebenwirkung einer antidepressiven Therapie – gerade der zeitliche Zusammenhang mit dem Behandlungsbeginn legt das nahe. Eine sicher eigenständige hypomane Episode ist damit nicht belegt. Eine schizophrene Erkrankung ist ohne psychotische Symptome nicht anzunehmen. Eine vollständige Remission würde nicht mit Aufgedrehtheit und Schlafverkürzung einhergehen. Und eine Verschlechterung der depressiven Symptomatik beschreibt das Gegenteil des Bildes."
+    },
+    {
+      "topic": "Diagnosestellung bipolar",
+      "question": "Wann wird nach vorangegangenen depressiven Episoden eine bipolare Störung diagnostiziert?",
+      "options": [
+        "Bereits ab der ersten manischen Episode.",
+        "Erst nach zehn Jahren dokumentiertem Verlauf.",
+        "Erst nach mindestens drei depressiven Episoden.",
+        "Erst ab der zweiten manischen Episode.",
+        "Erst ab der dritten manischen Episode."
+      ],
+      "answer": 0,
+      "explanation": "Sind depressive Episoden vorausgegangen, genügt bereits die erste manische Episode für die Diagnose einer bipolaren Störung. Eine höhere Schwelle bei der zweiten oder dritten manischen Episode gilt nur für den Fall ohne vorangegangene Depressionen. Eine Mindestzahl depressiver Episoden wird nicht gefordert. Und eine feste Beobachtungsdauer spielt keine Rolle."
+    },
+    {
+      "topic": "Diagnosestellung bipolar",
+      "hard": true,
+      "trap": "Ohne vorangegangene Depression braucht es zwei manische Episoden – dann wird ein rezidivierender Verlauf unterstellt.",
+      "question": "Wann wird ohne vorangegangene depressive Episoden eine bipolare Störung diagnostiziert?",
+      "options": [
+        "Erst bei zusätzlich auftretender Depression.",
+        "Erst ab der vierten manischen Episode.",
+        "Ab der zweiten manischen Episode.",
+        "In diesem Fall gar nicht, sondern als Manie.",
+        "Bereits ab der ersten manischen Episode."
+      ],
+      "answer": 2,
+      "explanation": "Auch nach der zweiten manischen Episode ohne vorangegangene Depressionen wird eine bipolare Störung diagnostiziert, weil dann ein rezidivierender Verlauf angenommen wird. Die erste Episode allein genügt in diesem Fall nicht. Eine Schwelle bei der vierten Episode ist nicht vorgesehen. Eine zusätzliche Depression wird nicht abgewartet. Und eine dauerhafte Einordnung als bloße Manie scheidet aus, weil es keine rezidivierende manische Störung gibt."
+    },
+    {
+      "topic": "Diagnosestellung bipolar",
+      "question": "Welche Aussage zur Klassifikation manischer Verläufe trifft NICHT zu?",
+      "options": [
+        "Dahinter steht die Annahme eines rezidivierenden Krankheitsverlaufs.",
+        "Wiederholte Manien führen stets zur Diagnose einer bipolaren Störung.",
+        "Zwei manische Episoden genügen dafür auch ohne vorherige Depression.",
+        "Für wiederholte Manien ist eine rezidivierende manische Störung vorgesehen.",
+        "Eine rezidivierende manische Störung ist eigens vorgesehen worden."
+      ],
+      "answer": 3,
+      "explanation": "Eine rezidivierende manische Störung gibt es ausdrücklich nicht – die erste Aussage ist deshalb die gesuchte falsche und steht im Widerspruch zur zweiten. Wiederholte manische Episoden führen stattdessen zur Diagnose einer bipolaren Störung, weil dahinter die Annahme eines rezidivierenden Verlaufs steht. Und zwei manische Episoden genügen dafür auch dann, wenn keine depressive Episode vorausging."
+    },
+    {
+      "topic": "Diagnosestellung bipolar",
+      "transfer": true,
+      "question": "Ein Patient hatte vor Jahren zwei depressive Episoden; nun tritt erstmals eine voll ausgeprägte manische Episode auf. Welche Diagnose ist zu stellen?",
+      "options": [
+        "Eine schizoaffektive Störung wegen des Wechsels.",
+        "Eine einzelne manische Episode ohne weitere Folge.",
+        "Eine bipolare affektive Störung.",
+        "Eine Zyklothymie mit anhaltenden Schwankungen.",
+        "Weiterhin eine rezidivierende depressive Störung."
+      ],
+      "answer": 2,
+      "explanation": "Nach vorangegangenen depressiven Episoden führt bereits die erste manische Episode zur Diagnose einer bipolaren Störung. Die Diagnose einer rezidivierenden depressiven Störung wird damit abgelöst. Die Einordnung als einzelne manische Episode übersieht die depressive Vorgeschichte. Die Zyklothymie verlangt anhaltende Schwankungen unterhalb der Episodenschwelle. Und eine schizoaffektive Störung setzt schizophrene Symptome voraus, die hier nicht geschildert sind."
+    },
+    {
+      "topic": "Bipolar I und Bipolar II",
+      "question": "Wie unterscheidet sich das Geschlechterverhältnis zwischen Bipolar I und Bipolar II?",
+      "options": [
+        "Bei beiden Formen überwiegen die Frauen gleichermaßen.",
+        "Bei Bipolar I ausgeglichen, bei Bipolar II überwiegen Frauen.",
+        "Bei Bipolar I überwiegen Frauen, bei Bipolar II ausgeglichen.",
+        "Bei beiden Formen ist das Verhältnis ausgeglichen.",
+        "Bei beiden Formen überwiegen die Männer deutlich."
+      ],
+      "answer": 1,
+      "explanation": "Bei Bipolar I ist das Geschlechterverhältnis ausgeglichen, bei Bipolar II sind Frauen häufiger betroffen. Die umgekehrte Zuordnung vertauscht beide Formen. Ein durchgängiges Frauenübergewicht oder ein durchgängig ausgeglichenes Verhältnis übersieht den Unterschied. Und ein Männerübergewicht besteht bei keiner der beiden Formen."
+    },
+    {
+      "topic": "Bipolar I und Bipolar II",
+      "question": "Wie verhält sich das Ersterkrankungsalter von Bipolar II zu dem von Bipolar I?",
+      "options": [
+        "Es liegt bei beiden erst im mittleren Lebensalter.",
+        "Ein Ersterkrankungsalter lässt sich nicht angeben.",
+        "Es liegt einige Jahre früher als bei Bipolar I.",
+        "Es ist bei beiden Formen praktisch identisch.",
+        "Es liegt einige Jahre später als bei Bipolar I."
+      ],
+      "answer": 4,
+      "explanation": "Das Ersterkrankungsalter bei Bipolar II liegt einige Jahre später als bei Bipolar I. Ein früheres Ersterkrankungsalter kehrt das Verhältnis um. Identische Werte übersehen den beschriebenen Unterschied. Beide Formen beginnen zudem im jungen Erwachsenenalter und nicht erst im mittleren Lebensalter. Und Angaben zum Ersterkrankungsalter liegen für beide Formen vor."
+    },
+    {
+      "topic": "Bipolar I und Bipolar II",
+      "hard": true,
+      "question": "Bei welcher bipolaren Form treten Wahn und Halluzinationen auf?",
+      "options": [
+        "Ausschließlich bei der Zyklothymie.",
+        "Ausschließlich bei Bipolar II.",
+        "Bei keiner der bipolaren Formen.",
+        "Ausschließlich bei Bipolar I.",
+        "Bei beiden Formen gleichermaßen."
+      ],
+      "answer": 3,
+      "explanation": "Nur bei Bipolar I treten Wahn und Halluzinationen auf, weil psychotische Symptome eindeutig an einen schweren Schweregrad der affektiven Störung gebunden sind – und die Hypomanie bei Bipolar II erreicht diesen gerade nicht. Eine Beschränkung auf Bipolar II kehrt das um. Ein gleichermaßen häufiges Auftreten bei beiden Formen widerspricht der Schweregradbindung. Die Zyklothymie liegt noch unterhalb der Episodenschwelle. Und psychotische Symptome kommen bei bipolaren Störungen sehr wohl vor."
+    },
+    {
+      "topic": "Rapid Cycling",
+      "question": "Welche Zuordnung zu den Cycling-Formen trifft NICHT zu?",
+      "options": [
+        "Ultra Rapid Cycling meint mindestens vier Wechsel im Jahr.",
+        "Ultra-Ultra Rapid Cycling ist eine andere Bezeichnung dafür.",
+        "Ultradian Cycling meint Schwankungen innerhalb weniger Stunden.",
+        "Rapid Cycling meint mindestens vier Stimmungswechsel im Jahr.",
+        "Ultra Rapid Cycling meint Wechsel innerhalb weniger Tage."
+      ],
+      "answer": 0,
+      "explanation": "Mindestens vier Stimmungswechsel im Jahr kennzeichnen das Rapid Cycling und nicht das Ultra Rapid Cycling – die erste Aussage vertauscht die Begriffe und ist damit die gesuchte falsche. Ultra Rapid Cycling meint Wechsel innerhalb weniger Tage, Ultradian beziehungsweise Ultra-Ultra Rapid Cycling Schwankungen innerhalb weniger Stunden."
+    },
+    {
+      "topic": "Rapid Cycling",
+      "transfer": true,
+      "question": "Bei einer Patientin wechselt die Stimmung wiederholt innerhalb weniger Stunden zwischen gehoben und gedrückt. Wie ist dieser Verlauf zu bezeichnen?",
+      "options": [
+        "Als Ultra Rapid Cycling mit Wechsel über mehrere Tage.",
+        "Als Rapid Cycling im engeren begrifflichen Sinne.",
+        "Als Ultradian beziehungsweise Ultra-Ultra Rapid Cycling.",
+        "Als Zyklothymie mit anhaltenden Stimmungsschwankungen.",
+        "Als gemischte Episode ganz ohne erkennbaren Wechsel."
+      ],
+      "answer": 2,
+      "explanation": "Schwankungen innerhalb weniger Stunden werden als Ultradian oder Ultra-Ultra Rapid Cycling bezeichnet. Das Rapid Cycling im engeren Sinne meint mindestens vier Wechsel im Jahr. Das Ultra Rapid Cycling meint Wechsel innerhalb weniger Tage und damit eine langsamere Taktung als geschildert. Die Zyklothymie beschreibt anhaltende Schwankungen unterhalb der Episodenschwelle. Und eine gemischte Episode wäre durch das gleichzeitige und nicht das wechselnde Auftreten gekennzeichnet."
+    },
+    {
+      "topic": "Rapid Cycling",
+      "hard": true,
+      "question": "Welche Aussage zum Rapid Cycling trifft NICHT zu?",
+      "options": [
+        "Die Ursachen sind inzwischen weitgehend geklärt.",
+        "Das Selbsttötungsrisiko ist bei diesem Verlauf hoch.",
+        "Betroffene werden häufig in Kliniken behandelt.",
+        "Es erfordert eine spezielle Behandlung mit Stimmungsstabilisatoren.",
+        "Die Prognose ist ungünstiger als bei anderen Verläufen."
+      ],
+      "answer": 0,
+      "explanation": "Die Ursachen des Rapid Cycling sind ausdrücklich bis heute ungeklärt – die behauptete Klärung ist deshalb die gesuchte falsche Aussage. Das hohe Suizidrisiko, die schlechtere Prognose, die spezielle Behandlung mit Stimmungsstabilisatoren und die häufige stationäre Behandlung treffen sämtlich zu."
+    },
+    {
+      "topic": "Rapid Cycling",
+      "question": "Bei welcher bipolaren Form tritt Rapid Cycling häufiger auf?",
+      "options": [
+        "Ausschließlich bei der Zyklothymie.",
+        "Häufiger bei Bipolar II.",
+        "Häufiger bei Bipolar I.",
+        "Bei beiden Formen gleich häufig.",
+        "Ausschließlich bei unipolarer Depression."
+      ],
+      "answer": 1,
+      "explanation": "Rapid Cycling tritt öfter bei Bipolar II auf. Eine Häufung bei Bipolar I kehrt das um, und eine Gleichverteilung übersieht den Unterschied. Die Zyklothymie ist eine anhaltende Störung unterhalb der Episodenschwelle. Und bei unipolarer Depression fehlt der für das Cycling nötige zweite Pol."
+    },
+    {
+      "topic": "Verlauf und Differenzialdiagnostik",
+      "question": "Womit manifestiert sich eine bipolare Störung meist erstmals?",
+      "options": [
+        "Mit einer psychotischen Episode.",
+        "Mit einer manischen Episode.",
+        "Mit einer hypomanen Episode.",
+        "Mit einer depressiven Episode.",
+        "Mit einer gemischten Episode."
+      ],
+      "answer": 3,
+      "explanation": "Die Erstmanifestation einer bipolaren Störung ist meist eine depressive Episode; auch im weiteren Verlauf überwiegen die depressiven gegenüber den manischen und hypomanen Episoden. Eine manische oder hypomane Erstmanifestation ist deshalb nicht der Regelfall. Gemischte und psychotische Episoden sind ebenfalls nicht die typische Erstmanifestation."
+    },
+    {
+      "topic": "Verlauf und Differenzialdiagnostik",
+      "question": "Welche Aussage zum unbehandelten Verlauf einer bipolaren Störung trifft am ehesten zu?",
+      "options": [
+        "Es kann zu mehr manischen Episoden und schnellerem Wechsel kommen.",
+        "Unbehandelt kommt es regelhaft zu vollständiger Ausheilung.",
+        "Der Verlauf bleibt unbehandelt weitgehend unverändert stabil.",
+        "Unbehandelt verschwinden die manischen Episoden zuerst.",
+        "Unbehandelt geht die Störung in eine Schizophrenie über."
+      ],
+      "answer": 0,
+      "explanation": "Eine unbehandelte bipolare Störung kann im Verlauf zu mehr manischen Episoden und zu einem schnelleren Phasenwechsel führen – die Behandlung wirkt insofern verlaufsmodifizierend. Ein unverändert stabiler Verlauf oder eine regelhafte Ausheilung widerspricht dem. Ein bevorzugtes Verschwinden manischer Episoden ist nicht beschrieben. Und ein Übergang in eine Schizophrenie wird nicht behauptet."
+    },
+    {
+      "topic": "Verlauf und Differenzialdiagnostik",
+      "hard": true,
+      "trap": "Bipolare Betroffene sollen mit Phasenprophylaktika behandelt werden – eine alleinige SSRI-Gabe birgt das Switch-Risiko.",
+      "question": "Welche Behandlungsempfehlung wird für bipolar Erkrankte ausdrücklich gegeben?",
+      "options": [
+        "Eine antipsychotische Dauerbehandlung in jedem Krankheitsstadium.",
+        "Ein vollständiger Verzicht auf jede medikamentöse Behandlung.",
+        "Phasenprophylaktika statt einer alleinigen SSRI-Behandlung.",
+        "Eine ausschließlich psychotherapeutische Behandlung ohne Medikation.",
+        "Eine alleinige Behandlung mit Serotonin-Wiederaufnahmehemmern als erste Wahl."
+      ],
+      "answer": 2,
+      "explanation": "Ausdrücklich vermerkt ist, dass bipolare Patientinnen und Patienten mit Phasenprophylaktika und nicht mit Serotonin-Wiederaufnahmehemmern behandelt werden sollten, weil sonst ein Switch-Risiko in die Manie besteht. Eine alleinige SSRI-Behandlung ist deshalb gerade das Gegenteil der Empfehlung. Ein völliger Medikationsverzicht und eine ausschließlich psychotherapeutische Behandlung widersprechen der Empfehlung ebenfalls. Und eine antipsychotische Dauerbehandlung in jedem Stadium wird nicht empfohlen."
+    },
+    {
+      "topic": "Verlauf und Differenzialdiagnostik",
+      "question": "Welche Aussage zum Vergleich bipolarer und unipolar depressiver Verläufe trifft NICHT zu?",
+      "options": [
+        "Im Verlauf überwiegen die depressiven Episoden.",
+        "Bipolare Verläufe zeigen mehr Suizidalität.",
+        "Bipolare Verläufe zeigen ein geringeres Suizidrisiko.",
+        "Bipolare Verläufe zeigen ein höheres Rezidivrisiko.",
+        "Die Erstmanifestation ist meist eine depressive Episode."
+      ],
+      "answer": 2,
+      "explanation": "Bipolare Verläufe gehen mit mehr und nicht mit weniger Suizidalität einher – die erste Aussage kehrt das um und widerspricht zugleich der dritten. Das höhere Rezidivrisiko trifft ebenso zu wie die depressive Erstmanifestation und das Überwiegen depressiver Episoden im weiteren Verlauf."
+    },
+    {
+      "topic": "Verlauf und Differenzialdiagnostik",
+      "hard": true,
+      "trap": "Bei der Borderline-Störung kommen Auffälligkeiten der Identität und der sozialen Interaktion hinzu – bei der bipolaren Störung nicht.",
+      "question": "Wodurch lässt sich eine bipolare Störung am ehesten von einer emotional instabilen Persönlichkeitsstörung abgrenzen?",
+      "options": [
+        "Bei der Persönlichkeitsstörung kommen Identitätsprobleme hinzu.",
+        "Bei der bipolaren Störung fehlen Stimmungsschwankungen.",
+        "Bei der bipolaren Störung kommen zusätzliche Identitätsprobleme hinzu.",
+        "Bei der Persönlichkeitsstörung fehlen Stimmungsschwankungen.",
+        "Eine Abgrenzung der beiden Bilder ist grundsätzlich unmöglich."
+      ],
+      "answer": 0,
+      "explanation": "Bei der Borderline-Störung kommen zu den Stimmungsschwankungen zusätzliche Auffälligkeiten der Identität und der sozialen Interaktion hinzu – genau daran lässt sich abgrenzen. Diese Zusatzsymptome der bipolaren Störung zuzuschreiben kehrt die Zuordnung um. Stimmungsschwankungen fehlen bei keinem der beiden Bilder, weshalb beide entsprechenden Optionen ausscheiden. Und eine Abgrenzung ist über die Zusatzsymptomatik sehr wohl möglich."
+    },
+    {
+      "topic": "Trauer und neue Diagnosen",
+      "question": "Welche Anmerkung macht das ICD-11 zu depressiven Symptomen nach einem Trauerfall?",
+      "options": [
+        "Sie sind für die Diagnostik ohne jede weitere Bedeutung.",
+        "Sie begründen in jedem Fall automatisch eine Trauerstörung.",
+        "Sie sollen stets sofort als depressive Episode gewertet werden.",
+        "In den ersten Monaten sollen sie nicht als Episode gewertet werden.",
+        "Sie schließen eine depressive Episode dauerhaft und sicher aus."
+      ],
+      "answer": 3,
+      "explanation": "Das ICD-11 merkt an, dass in den Monaten nach einem Trauerfall depressive Symptome auftreten können, die nicht als depressive Episode gewertet werden sollen. Eine sofortige Wertung als Episode widerspricht dem. Ein dauerhafter Ausschluss der Diagnose geht darüber hinaus, denn nach Ablauf des genannten Zeitraums ist sie sehr wohl möglich. Eine automatische Trauerstörung folgt daraus nicht. Und bedeutungslos ist der Trauerkontext für die Diagnostik keineswegs."
+    },
+    {
+      "topic": "Trauer und neue Diagnosen",
+      "hard": true,
+      "question": "Wodurch lässt sich eine Trauerstörung am ehesten von einer Major Depression abgrenzen?",
+      "options": [
+        "Eine Abgrenzung ist ohne Zeitkriterium unmöglich.",
+        "Bei der Trauer ist der Realitätsbezug regelhaft aufgehoben.",
+        "Bei der Trauer fehlen depressive Symptome vollständig.",
+        "Bei der Major Depression steht der Verlust im Vordergrund.",
+        "Bei der Trauer steht der Verlust im Vordergrund."
+      ],
+      "answer": 4,
+      "explanation": "Bei der Trauerstörung steht der Verlust im Vordergrund, und der normale Trauerprozess aus Verleugnung, Wut, Trauer und Reorientierung stagniert – darauf zielt die Unterscheidung. Dass depressive Symptome vollständig fehlten, widerspricht dem ausdrücklichen Hinweis, dass Trauer und Depression ähnliche Symptome erzeugen. Der Verlust im Vordergrund kennzeichnet gerade nicht die Major Depression. Ein aufgehobener Realitätsbezug gehört nicht zur Trauer. Und eine inhaltliche Abgrenzung ist über den Verlustbezug möglich."
+    },
+    {
+      "topic": "Trauer und neue Diagnosen",
+      "transfer": true,
+      "question": "Ein neunjähriges Kind fällt durch wiederholte, heftige Wutausbrüche auf; die Gereiztheit besteht dazwischen durchgehend fort. Welche Diagnose ist am ehesten zu erwägen?",
+      "options": [
+        "Eine rezidivierende depressive Störung.",
+        "Eine prämenstruelle dysphorische Störung.",
+        "Eine bipolare Störung mit episodisch gereizter Manie.",
+        "Eine persistierende komplexe Trauerstörung.",
+        "Eine disruptive Stimmungsdysregulationsstörung."
+      ],
+      "answer": 4,
+      "explanation": "Die disruptive Stimmungsdysregulationsstörung betrifft Kinder und Jugendliche und hat wiederholte Wutausbrüche als Leitsymptom; das entscheidende Abgrenzungsmerkmal zur bipolaren Störung ist, dass die Gereiztheit kontinuierlich und nicht episodisch auftritt – genau das schildert der Fall. Eine bipolare Störung verlangt abgrenzbare Episoden. Die prämenstruelle dysphorische Störung ist an den Zyklus gebunden. Eine Trauerstörung setzt einen Verlust voraus. Und eine rezidivierende Depression verlangt depressive Episoden."
+    }
+  ]
+}

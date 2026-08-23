@@ -543,6 +543,41 @@
       "title": "BPS: Ätiologie, Differenzialdiagnostik & Therapie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Borderline-Störung im Altklausur-Stil: genetische Vulnerabilität und Umweltfaktoren, invalidierendes Umfeld und Validierung als Intervention, Differenzialdiagnostik gegenüber Schizophrenie, kPTBS und anderen PS sowie die vier störungsspezifischen Verfahren, Leitlinien und symptomorientierte Pharmakotherapie."
+    },
+    {
+      "id": "kl-depression-psychopathologie-klassifikation",
+      "file": "kl-depression-psychopathologie-klassifikation.json",
+      "title": "Depression: Psychopathologie & Klassifikation",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Affektive Störungen im Altklausur-Stil: Affektstörungen im psychopathologischen Befund, die drei Symptomebenen der Depression, klassifikatorische Systematik, Major Depression und rezidivierende Depression, Verlaufsbegriffe sowie Subtypen jenseits der Diagnosesysteme."
+    },
+    {
+      "id": "kl-depression-icd11-zusatzkodierungen",
+      "file": "kl-depression-icd11-zusatzkodierungen.json",
+      "title": "Depression: ICD-11-Neuerungen & Zusatzkodierungen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Affektive Störungen im Altklausur-Stil: die wichtigsten Neuerungen für die Depression im ICD-11, psychotische Symptome und synthymer Wahn, die Zusatzkodierungen (Angst, Panik, persistierend, Melancholie, saisonal) sowie Dysthymie, Zyklothymie und Double Depression."
+    },
+    {
+      "id": "kl-manie-bipolare-stoerungen",
+      "file": "kl-manie-bipolare-stoerungen.json",
+      "title": "Manie & bipolare Störungen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Affektive Störungen im Altklausur-Stil: Kriterien der manischen und hypomanen Episode, Diagnosestellung der bipolaren Störung, Bipolar I gegen Bipolar II, Rapid Cycling, Differenzialdiagnostik gegenüber Depression und Borderline sowie Trauer und die neu eingeführten affektiven Diagnosen."
+    },
+    {
+      "id": "kl-affektiv-schizophren-epidemiologie",
+      "file": "kl-affektiv-schizophren-epidemiologie.json",
+      "title": "Affektiv vs. schizophren & Epidemiologie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Affektive Störungen im Altklausur-Stil: die vier Konstellationen aus affektiven und schizophrenen Symptomen, Depression im schizophrenen Prodrom und postpsychotische Depression, Kriterien der schizoaffektiven Störung, psychotische affektive Störungen, Wahnformen im Vergleich sowie Epidemiologie affektiver und schizophrener Störungen."
+    },
+    {
+      "id": "kl-affektive-stoerungen-aetiologie-therapie",
+      "file": "kl-affektive-stoerungen-aetiologie-therapie.json",
+      "title": "Affektive Störungen: Ätiologie & Therapie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Affektive Störungen im Altklausur-Stil: biopsychosoziales Modell und Genetik, Monoaminmangelhypothese und Stresshormonachse, die psychologischen Erklärungsmodelle von Seligman bis Teasdale, psychosoziale Faktoren sowie differenzielle Indikation, Wirksamkeitsdebatte um Antidepressiva, Lithium und chronobiologische Verfahren."
     }
   ]
 }

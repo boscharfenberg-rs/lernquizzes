@@ -1,0 +1,417 @@
+{
+  "id": "kl-affektive-stoerungen-aetiologie-therapie",
+  "title": "Affektive Störungen: Ätiologie & Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Affektive Störungen im Altklausur-Stil: biopsychosoziales Modell und Genetik, Monoaminmangelhypothese und Stresshormonachse, die psychologischen Erklärungsmodelle von Seligman bis Teasdale, psychosoziale Faktoren sowie differenzielle Indikation, Wirksamkeitsdebatte um Antidepressiva, Lithium und chronobiologische Verfahren.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Genetik und biopsychosoziales Modell",
+      "trap": "Vererbt wird nicht die Erkrankung, sondern die Vulnerabilität – sie führt erst im Zusammenspiel mit Auslösern zur Manifestation.",
+      "question": "Was wird bei affektiven Störungen nach dem Fazit zur Genetik vererbt?",
+      "options": [
+        "Ein einzelnes ursächliches Krankheitsgen.",
+        "Die Erkrankung selbst in unmittelbarer Form.",
+        "Lediglich eine Vulnerabilität für die Erkrankung.",
+        "Die Art des jeweils auslösenden Lebensereignisses.",
+        "Die Schwere und der Verlauf der Erkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Als eindeutig nachgewiesen gilt zwar der entscheidende ätiologische Beitrag der genetischen Belastung, vererbt wird jedoch lediglich eine Vulnerabilität, die erst im Zusammenspiel mit Auslösefaktoren zur Erkrankung führt. Eine unmittelbare Vererbung der Erkrankung selbst widerspricht dem. Ein einzelnes Krankheitsgen wird nicht behauptet. Schwere und Verlauf sind keine vererbten Größen. Und die Art der Auslöser ist gerade der umweltbezogene Teil des Modells."
+    },
+    {
+      "topic": "Genetik und biopsychosoziales Modell",
+      "question": "Welcher Faktor zählt am ehesten NICHT zu den genannten Auslösefaktoren affektiver Erkrankungen?",
+      "options": [
+        "Die vererbte genetische Grundausstattung selbst.",
+        "Verluste und Trennungen als psychosozialer Faktor.",
+        "Hormonelle Umstellungen als somatischer Faktor.",
+        "Berufliche Enttäuschungen und Überforderung.",
+        "Eine körperliche Erkrankung als somatischer Faktor."
+      ],
+      "answer": 0,
+      "explanation": "Die genetische Grundausstattung liefert die Vulnerabilität und ist damit gerade kein Auslöser – sie ist die gesuchte Ausnahme. Als Auslöser im Sinne epigenetischer Phänomene werden somatische Faktoren wie hormonelle Umstellungen und körperliche Erkrankungen sowie psychosoziale Faktoren wie Verluste, Trennungen, berufliche Enttäuschungen, Überforderung und Ehekrisen genannt."
+    },
+    {
+      "topic": "Genetik und biopsychosoziales Modell",
+      "question": "Welche drei Ebenen umfasst das biopsychosoziale Erklärungsmodell der Depression?",
+      "options": [
+        "Biologische Modelle, psychologische Modelle und soziale Aspekte.",
+        "Diagnostische, therapeutische und prognostische Modelle.",
+        "Akute, subakute und chronische Verlaufsmodelle.",
+        "Genetische, epigenetische und neurochemische Modelle.",
+        "Kognitive, behaviorale und psychodynamische Modelle."
+      ],
+      "answer": 0,
+      "explanation": "Das biopsychosoziale Modell umfasst biologische Modelle mit genetischen Faktoren, Überaktivität der Stresshormonachse und gestörter Neurotransmission, psychologische Modelle wie Verstärkerverlust, erlernte Hilflosigkeit und kognitives Modell sowie soziale Aspekte mit kritischen Lebensereignissen, Traumata und akuten Belastungen. Die übrigen Dreiteilungen greifen jeweils nur einen Ausschnitt heraus oder betreffen ganz andere Bezugsgrößen."
+    },
+    {
+      "topic": "Neurobiologische Modelle",
+      "question": "Welche Aussage zur Monoaminmangelhypothese trifft NICHT zu?",
+      "options": [
+        "Auch eine dopaminerge Beteiligung gilt als unumstritten.",
+        "Sie nimmt eine serotonerge und noradrenerge Dysfunktion an.",
+        "Sie rechtfertigt die Behandlung mit Antidepressiva.",
+        "Ihr Befund ist korrelativ und nicht kausal.",
+        "Sie nimmt in erster Linie eine glutamaterge Dysfunktion an."
+      ],
+      "answer": 4,
+      "explanation": "Die Hypothese nimmt eine serotonerge und noradrenerge Dysfunktion an, nicht eine glutamaterge – die erste Aussage ist damit die gesuchte falsche und steht im Widerspruch zur zweiten. Eine dopaminerge Beteiligung gilt zusätzlich als unumstritten. Die Hypothese rechtfertigt die medikamentöse Behandlung, ist als ätiologisches Modell aber fragwürdig, weil ihr Befund korrelativ und nicht kausal ist."
+    },
+    {
+      "topic": "Neurobiologische Modelle",
+      "hard": true,
+      "trap": "Der Befund ist korrelativ und nicht kausal – als ätiologisches Modell ist die Monoaminmangelhypothese deshalb fragwürdig.",
+      "question": "Welcher Einwand wird gegen die Monoaminmangelhypothese als ätiologisches Modell erhoben?",
+      "options": [
+        "Der Befund betrifft ausschließlich Tiermodelle.",
+        "Der Befund konnte nie repliziert werden.",
+        "Der Befund widerspricht der Wirksamkeit von Antidepressiva.",
+        "Der Befund ist korrelativ und nicht kausal.",
+        "Der Befund beruht auf einer einzigen kleinen Studie."
+      ],
+      "answer": 3,
+      "explanation": "Der zentrale Einwand lautet, dass es sich um einen korrelativen und nicht um einen kausalen Befund handelt – als ätiologisches Modell ist die Hypothese deshalb fragwürdig bis nicht haltbar, auch wenn sie die medikamentöse Behandlung rechtfertigt. Eine fehlende Replikation, eine Beschränkung auf Tiermodelle oder eine dünne Datenbasis werden nicht als Einwand geführt. Und ein Widerspruch zur Wirksamkeit der Antidepressiva besteht gerade nicht."
+    },
+    {
+      "topic": "Neurobiologische Modelle",
+      "question": "Welche Beobachtung bleibt durch die Monoaminmangelhypothese ungeklärt?",
+      "options": [
+        "Die Wirksamkeit der Psychotherapie bei Depression.",
+        "Die Existenz mehrerer Antidepressiva-Wirkgruppen.",
+        "Die rasche Zunahme der Monoamine nach der Einnahme.",
+        "Die Nebenwirkungen der eingesetzten Substanzen.",
+        "Die Wirklatenz der Medikamente von mehreren Wochen."
+      ],
+      "answer": 4,
+      "explanation": "Ungeklärt bleibt die Wirklatenz von mehreren Wochen, obwohl die Konzentration der synaptischen Monoamine bereits innerhalb weniger Stunden nach der Einnahme erhöht ist – genau diese Diskrepanz ist der Kern des Problems. Die rasche Konzentrationszunahme selbst ist der gut erklärte Teil und nicht das Rätsel. Die Existenz mehrerer Wirkgruppen, die Nebenwirkungen und die Wirksamkeit der Psychotherapie sind nicht Gegenstand dieses Einwands."
+    },
+    {
+      "topic": "Neurobiologische Modelle",
+      "question": "Womit wird die verzögerte Wirkung der Antidepressiva erklärungsweise in Verbindung gebracht?",
+      "options": [
+        "Mit einer verzögerten Resorption über den Verdauungstrakt.",
+        "Mit einer allmählichen Anreicherung der Substanz im Gewebe.",
+        "Mit einer erst spät einsetzenden Placebowirkung.",
+        "Mit einem neurotrophen Faktor und neuer Nervenzellbildung.",
+        "Mit einer langsam einsetzenden Rezeptorblockade im Striatum."
+      ],
+      "answer": 3,
+      "explanation": "Der verzögerte Wirkeintritt wird mit dem neurotrophen Faktor BDNF und der Bildung neuer Nervenzellen in Verbindung gebracht – Wachstum und Differenzierung von Nervenzellen brauchen Zeit. Eine allmähliche Gewebeanreicherung widerspricht der bereits nach Stunden erhöhten Konzentration. Eine Rezeptorblockade im Striatum betrifft ein anderes Wirkprinzip. Eine verzögerte Resorption ist pharmakokinetisch nicht gemeint. Und eine erst spät einsetzende Placebowirkung wird als Erklärung nicht angeführt."
+    },
+    {
+      "topic": "Neurobiologische Modelle",
+      "question": "Welche Wirkung wird dem Kortisol bei chronisch gesteigerter Stressreaktion zugeschrieben?",
+      "options": [
+        "Eine Verbesserung der Konzentrationsleistung.",
+        "Toxische Effekte in Gedächtnisarealen des Gehirns.",
+        "Eine Steigerung der Bildung neurotropher Faktoren.",
+        "Eine schützende Wirkung auf hippocampale Neurone.",
+        "Eine unmittelbare Anhebung der Stimmungslage."
+      ],
+      "answer": 1,
+      "explanation": "Toxische Effekte des vermehrt ausgeschütteten Kortisols in Gedächtnisarealen könnten für die Konzentrations- und Gedächtnisschwierigkeiten verantwortlich sein; die gesteigerte Stressreaktion führt zudem zu vermehrter Angst, Schlafstörungen, Appetitlosigkeit und Libidoverlust. Eine schützende Wirkung oder eine Steigerung neurotropher Faktoren kehrt den Befund um – Stress reduziert BDNF gerade. Eine Stimmungsanhebung und eine bessere Konzentrationsleistung widersprechen der beschriebenen Symptomatik."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "hard": true,
+      "question": "Wie attribuieren depressive Menschen nach dem Modell der erlernten Hilflosigkeit Misserfolgsereignisse?",
+      "options": [
+        "Internal, spezifisch und variabel.",
+        "External, global und stabil.",
+        "Internal, global und stabil.",
+        "External, spezifisch und zugleich variabel.",
+        "Internal, global und variabel."
+      ],
+      "answer": 2,
+      "explanation": "Nach dem Modell der erlernten Hilflosigkeit werden Misserfolge internal – also auf die eigene Person –, global und stabil attribuiert; genau diese Kombination macht die Hilflosigkeitserwartung überdauernd und bereichsübergreifend. Eine externale, spezifische und variable Zuschreibung entspricht dem günstigen, nicht dem depressogenen Muster. Die übrigen Kombinationen enthalten jeweils mindestens eine Dimension in der falschen Ausprägung."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "question": "Welchem Modell ist der Verstärkerverlust als zentrales Erklärungsprinzip zuzuordnen?",
+      "options": [
+        "Der Differential-Activation-Hypothese nach Teasdale.",
+        "Dem Entfremdungsmodell nach Kuhl.",
+        "Dem Verstärkerverlustmodell nach Lewinsohn.",
+        "Dem kognitiven Modell nach Beck.",
+        "Dem Modell der erlernten Hilflosigkeit nach Seligman und Kollegen."
+      ],
+      "answer": 2,
+      "explanation": "Der Verstärkerverlust ist das Kernprinzip des nach Lewinsohn benannten Modells. Das Modell der erlernten Hilflosigkeit erklärt die Depression über Attributionsmuster nach unkontrollierbaren Erfahrungen. Das kognitive Modell stellt dysfunktionale Schemata in den Mittelpunkt. Die Differential-Activation-Hypothese erklärt die Rückfallgefahr. Und das Entfremdungsmodell zielt auf die Vermeidung negativer Affekte."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "hard": true,
+      "trap": "Becks Annahme episodenüberdauernder Schemata bestätigte sich empirisch nur teilweise – bei Remittierten unterscheiden sie sich nicht von Gesunden.",
+      "question": "Welche empirische Einschränkung wird zum kognitiven Modell nach Beck genannt?",
+      "options": [
+        "Bei Remittierten unterscheiden sich die Schemata nicht von Gesunden.",
+        "Die Schemata sind bei Gesunden ausgeprägter als bei Depressiven.",
+        "Das Modell erklärt gerade die Rückfallgefahr besonders gut.",
+        "Das Modell wurde bislang nie empirisch überprüft.",
+        "Auch akut Depressive zeigen die angenommenen Denkmuster nicht."
+      ],
+      "answer": 0,
+      "explanation": "Die Annahme bestätigte sich nur teilweise: Zwar weisen akut Depressive die beschriebenen Denkmuster auf, doch unterscheiden sich die kognitiven Schemata remittierter Depressiver nicht von denen Gesunder – die Schemata sind also nicht episodenüberdauernd stabil. Dass auch akut Depressive die Muster nicht zeigten, widerspricht dem ersten Teil des Befundes. Eine stärkere Ausprägung bei Gesunden ist nicht berichtet. Überprüft wurde das Modell sehr wohl. Und gerade die Rückfallgefahr kann es deshalb nicht erklären."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "question": "Was erklärt die Differential-Activation-Hypothese, was das kognitive Modell nicht leistet?",
+      "options": [
+        "Die genetische Vulnerabilität für die Erkrankung.",
+        "Die körperliche Symptomatik der Depression.",
+        "Die Entstehung der allerersten depressiven Episode.",
+        "Die Rückfallgefahr nach einer abgeklungenen Episode.",
+        "Die Wirksamkeit der medikamentösen Behandlung."
+      ],
+      "answer": 3,
+      "explanation": "Die Differential-Activation-Hypothese erklärt die Rückfallgefahr nach einer depressiven Episode – gerade das kann das kognitive Modell nicht, weil die Schemata nach Remission nicht stabil bleiben. Die Entstehung der ersten Episode, die Wirksamkeit der Medikation, die körperliche Symptomatik und die genetische Vulnerabilität sind nicht Gegenstand dieser Hypothese."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "hard": true,
+      "question": "Welche Annahme trifft die Differential-Activation-Hypothese über ehemals depressive Personen?",
+      "options": [
+        "Sie behalten die negativen Schemata dauerhaft und unverändert bei.",
+        "Sie aktivieren bei leicht gedrückter Stimmung rasch negative Kognitionen.",
+        "Sie geraten deutlich schneller als Gesunde in gedrückte Stimmungslagen hinein.",
+        "Sie können negative Kognitionen willentlich vollständig unterdrücken.",
+        "Sie unterscheiden sich in keiner Hinsicht mehr von Gesunden."
+      ],
+      "answer": 1,
+      "explanation": "Angenommen wird, dass ehemals depressive Personen bei bereits moderat dysphorischer Stimmung sehr rasch negative Kognitionen aktivieren – negative Selbsturteile, Hoffnungslosigkeit und Erinnerungen an frühere Episoden –, die im Sinne eines Teufelskreises die Stimmung weiter verschlechtern. Dass sie schneller in gedrückte Stimmungen gerieten, wird ausdrücklich widerlegt: Diese entstehen ebenso wie bei Gesunden. Dauerhaft stabile Schemata sind gerade nicht anzunehmen. Eine willentliche Unterdrückung wird nicht behauptet. Und ein völliges Fehlen jedes Unterschieds widerspricht der Aktivierungsannahme."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "transfer": true,
+      "question": "Eine remittierte Patientin gerät an einem trüben Tag in leicht gedrückte Stimmung und denkt sofort: „Es geht wieder los, ich schaffe das nie.“ Welches Modell beschreibt das am ehesten?",
+      "options": [
+        "Das Modell der erlernten Hilflosigkeit.",
+        "Das biopsychosoziale Erklärungsmodell insgesamt.",
+        "Die Differential-Activation-Hypothese.",
+        "Die Monoaminmangelhypothese der Depression.",
+        "Das Verstärkerverlustmodell nach Lewinsohn."
+      ],
+      "answer": 2,
+      "explanation": "Die rasche Aktivierung negativer Selbsturteile und der Erinnerung an frühere Episoden bei bereits leicht dysphorischer Stimmung ist genau der von der Differential-Activation-Hypothese beschriebene Aufschaukelungsprozess. Das Verstärkerverlustmodell setzt bei fehlender positiver Verstärkung an. Das Modell der erlernten Hilflosigkeit erklärt Attributionsmuster nach unkontrollierbaren Erfahrungen. Die Monoaminmangelhypothese ist ein neurochemisches Modell. Und das biopsychosoziale Modell ist der Rahmen, nicht die konkrete Erklärung."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "transfer": true,
+      "question": "Ein Patient beobachtet sich seit der Rückfallprophylaxe ständig auf Frühwarnzeichen und deutet jede Traurigkeit als beginnende Depression. Welches Modell greift das auf?",
+      "options": [
+        "Das Modell der erlernten Hilflosigkeit mit Attributionen.",
+        "Die Monoaminmangelhypothese mit gestörter Neurotransmission.",
+        "Das kognitive Modell mit dysfunktionalen Grundschemata.",
+        "Das Verstärkerverlustmodell mit fehlender Verstärkung.",
+        "Das Entfremdungsmodell mit übersteigerter Selbstbeobachtung."
+      ],
+      "answer": 4,
+      "explanation": "Das Entfremdungsmodell beschreibt genau diesen Prozess: Eine übersteigerte Selbstbeobachtung auf potenzielle Frühwarnzeichen – im Rahmen der verhaltenstherapeutischen Rückfallprophylaxe mitunter erst getriggert – mündet in Angst vor Stimmungswechseln, insbesondere Traurigkeit, die als Depression fehlgedeutet wird; Vermeidung negativer Affekte und mangelnde Wahrnehmung eigener Bedürfnisse führen zu Entfremdung und Gefühllosigkeit. Die übrigen Modelle setzen bei Schemata, Verstärkung, Attributionen beziehungsweise Neurotransmission an und beschreiben diesen Mechanismus nicht."
+    },
+    {
+      "topic": "Psychologische Modelle",
+      "question": "Welches Persönlichkeitsmerkmal zählt am ehesten NICHT zu den in der Ätiologie genannten?",
+      "options": [
+        "Introversion mit geringem sozialem Aktivitätsniveau.",
+        "Die Offenheit für neue Erfahrungen.",
+        "Dependente Merkmale mit Angst vor Zurückweisung.",
+        "Neurotizismus mit emotionaler Labilität.",
+        "Ein Mangel an sozialen Fertigkeiten im Kontakt."
+      ],
+      "answer": 1,
+      "explanation": "Die Offenheit für neue Erfahrungen wird unter den ätiologisch bedeutsamen Persönlichkeitsmerkmalen nicht aufgeführt und ist damit die gesuchte Ausnahme. Genannt werden dependente Merkmale mit übersteigertem Bedürfnis nach Verständnis und Unterstützung sowie erhöhter Angst vor Zurückweisung, Introversion mit geringem sozialem Aktivitätsniveau und mangelnden sozialen Fertigkeiten sowie Neurotizismus mit emotionaler Labilität und erhöhter Ängstlichkeit."
+    },
+    {
+      "topic": "Psychosoziale Faktoren",
+      "question": "Welche Aussage zu kritischen Lebensereignissen bei der Depression trifft am ehesten zu?",
+      "options": [
+        "Belastende Ereignisse sind nur bei bipolaren Verläufen bedeutsam.",
+        "Belastende Ereignisse spielen für den Ausbruch keine Rolle.",
+        "Nur eine kleine Minderheit erlebt zuvor ein belastendes Ereignis.",
+        "Die Mehrzahl der Betroffenen erlebt vor Ausbruch ein belastendes Ereignis.",
+        "Belastende Ereignisse wirken sich schützend auf den Verlauf aus."
+      ],
+      "answer": 3,
+      "explanation": "Die Mehrzahl der Betroffenen erlebt vor Ausbruch der Symptomatik ein belastendes Ereignis, in erster Linie Verlust oder Trennung, berufliche oder finanzielle Probleme sowie Erkrankungen. Eine kleine Minderheit unterschätzt diesen Anteil erheblich. Bedeutungslos oder gar schützend sind solche Ereignisse gerade nicht. Und eine Beschränkung auf bipolare Verläufe besteht nicht."
+    },
+    {
+      "topic": "Psychosoziale Faktoren",
+      "question": "Welche Lebensereignisse gelten als besonders kritisch für die Entstehung einer Depression?",
+      "options": [
+        "Ereignisse, die den Alltag völlig unverändert lassen.",
+        "Ereignisse, die Selbstwert oder zentrale Lebensziele in Frage stellen.",
+        "Ereignisse, die ausschließlich andere Personen betreffen.",
+        "Ereignisse, die von außen als geringfügig bewertet werden.",
+        "Ereignisse, die weit in der Kindheit zurückliegen."
+      ],
+      "answer": 1,
+      "explanation": "Besonders kritisch sind Ereignisse, die den Selbstwert oder zentrale Lebensziele in Frage stellen; die depressiogene Wirkung hängt zudem von der Veränderung des Alltags, vom Geschlecht und vom sozialen Netz ab. Ereignisse ohne Alltagsveränderung wirken deshalb gerade nicht in dieser Weise. Ereignisse, die ausschließlich andere betreffen, berühren den eigenen Selbstwert nicht. Weit zurückliegende Kindheitsereignisse sind als eigene Kategorie der Traumata geführt. Und die Fremdbewertung als geringfügig ist nicht das Kriterium."
+    },
+    {
+      "topic": "Differenzielle Indikation",
+      "question": "Welche Behandlung gilt bei der leichten Depression als Methode der Wahl?",
+      "options": [
+        "Die Kombination aus Psychotherapie und Medikation.",
+        "Die antipsychotische Behandlung als Verfahren erster Wahl.",
+        "Die Elektrokrampftherapie als Verfahren der ersten Wahl.",
+        "Die Psychotherapie, teils nach abwartendem Offenhalten.",
+        "Die alleinige medikamentöse Behandlung ohne Psychotherapie."
+      ],
+      "answer": 3,
+      "explanation": "Bei der leichten Depression gilt die Psychotherapie als Methode der Wahl; die Leitlinien sehen davor sogar ein abwartendes Offenhalten vor. Eine alleinige medikamentöse Behandlung kommt erst bei mittelgradiger Ausprägung als Alternative in Betracht. Die Kombination ist der schweren Depression, der Dysthymie und der Double Depression vorbehalten. Die Elektrokrampftherapie und die antipsychotische Behandlung sind der schweren Depression mit psychotischen Symptomen zugeordnet."
+    },
+    {
+      "topic": "Differenzielle Indikation",
+      "question": "Welche Zuordnung von Schweregrad und Behandlung trifft NICHT zu?",
+      "options": [
+        "Bei schwerer psychotischer Depression ist die alleinige Psychotherapie Mittel der Wahl.",
+        "Bei leichter Depression ist die Psychotherapie Methode der Wahl.",
+        "Bei mittelgradiger Depression kommt Psychotherapie oder Medikation in Betracht.",
+        "Bei therapieresistenter Depression kommt die Elektrokrampftherapie in Betracht.",
+        "Bei schwerer Depression ist die Kombination beider Ansätze vorgesehen."
+      ],
+      "answer": 0,
+      "explanation": "Für die schwere Depression mit psychotischen Symptomen sind antipsychotische Medikation und Elektrokrampftherapie vorgesehen – eine alleinige Psychotherapie ist dort gerade nicht das Mittel der Wahl, weshalb die erste Aussage die gesuchte falsche ist. Bei leichter Depression ist die Psychotherapie Methode der Wahl, bei mittelgradiger kommt alleinige Psychotherapie oder Medikation in Betracht, bei schwerer Depression die Kombination. Und bei therapieresistenter Depression werden das Psychotherapieverfahren CBASP sowie die Elektrokrampftherapie genannt."
+    },
+    {
+      "topic": "Differenzielle Indikation",
+      "transfer": true,
+      "question": "Bei einem Patienten besteht eine Double Depression aus Dysthymie und aufgesetzter Episode. Welche Behandlung ist am ehesten vorgesehen?",
+      "options": [
+        "Die alleinige Psychotherapie als Methode der Wahl.",
+        "Die Elektrokrampftherapie als Verfahren der ersten Wahl.",
+        "Ein abwartendes Offenhalten über mehrere Wochen.",
+        "Die Kombination aus Psychotherapie und Medikation.",
+        "Die alleinige medikamentöse Behandlung ohne Psychotherapie."
+      ],
+      "answer": 3,
+      "explanation": "Für schwere Depression, Dysthymie und Double Depression ist ausdrücklich die Kombination aus Psychotherapie und medikamentöser Therapie vorgesehen. Eine alleinige Psychotherapie ist der leichten, eine alleinige Medikation allenfalls der mittelgradigen Depression zugeordnet. Abwartendes Offenhalten kommt nur bei leichter Ausprägung in Betracht. Und die Elektrokrampftherapie ist der psychotischen sowie der therapieresistenten Depression vorbehalten."
+    },
+    {
+      "topic": "Differenzielle Indikation",
+      "hard": true,
+      "trap": "Psychotherapie wirkt langsamer, aber nachhaltiger – die Rückfallrate liegt nach alleiniger Medikation deutlich höher.",
+      "question": "Wie unterscheiden sich Psychotherapie und Pharmakotherapie im Wirkprofil?",
+      "options": [
+        "Psychotherapie wirkt langsamer, aber längerfristig.",
+        "Psychotherapie wirkt schneller, aber kürzer anhaltend.",
+        "Pharmakotherapie zeigt die niedrigere Rückfallrate.",
+        "Beide zeigen ein praktisch identisches Wirkprofil.",
+        "Psychotherapie zeigt gar keinen messbaren Effekt."
+      ],
+      "answer": 0,
+      "explanation": "Die Psychotherapie hat einen langsameren Wirkeintritt als die Pharmakotherapie, dafür jedoch längerfristige Effekte – entsprechend liegt die Rückfallrate nach Akuttherapie bei kognitiver Verhaltenstherapie deutlich niedriger als nach alleiniger Medikation. Ein schnellerer, aber kürzerer Effekt kehrt das Profil um. Identische Profile übersehen den Unterschied. Eine niedrigere Rückfallrate der Pharmakotherapie widerspricht dem Befund. Und ein fehlender Effekt der Psychotherapie ist mit ihrer Stellung als Methode der Wahl unvereinbar."
+    },
+    {
+      "topic": "Pharmakotherapie und Wirksamkeit",
+      "hard": true,
+      "trap": "Statistische Signifikanz ist nicht klinische Relevanz – der gefundene Unterschied liegt unterhalb der Wahrnehmungsschwelle von Klinikern.",
+      "question": "Welcher Einwand steht im Zentrum der Wirksamkeitsdebatte um die Antidepressiva?",
+      "options": [
+        "Die Wirksamkeit ist ausschließlich bei leichter Depression belegt.",
+        "Der Unterschied zu Placebo ist klinisch groß, aber statistisch völlig unsicher.",
+        "Placebokontrollierte Studien wurden nie durchgeführt.",
+        "Antidepressiva schneiden durchweg schlechter ab als Placebo.",
+        "Der Unterschied zu Placebo ist statistisch, aber kaum klinisch bedeutsam."
+      ],
+      "answer": 4,
+      "explanation": "Der Kern der Debatte ist die Diskrepanz zwischen statistischer und klinischer Signifikanz: Der gefundene Vorsprung gegenüber Placebo ist zwar statistisch signifikant, liegt aber unterhalb dessen, was Kliniker überhaupt als Verbesserung bemerken, und sogar unterhalb des liberalen Zulassungskriteriums. Ein klinisch großer, statistisch unsicherer Effekt kehrt das um. Durchweg schlechter als Placebo schneiden die Substanzen nicht ab. Placebokontrollierte Studien liegen in großer Zahl vor. Und der Wirksamkeitsverdacht betraf gerade die leichte und mittelgradige Depression."
+    },
+    {
+      "topic": "Pharmakotherapie und Wirksamkeit",
+      "question": "Welcher Befund spricht dafür, dass Placeboeffekte in der Antidepressiva-Therapie zentral sind?",
+      "options": [
+        "Ein Wechsel wirkt auch dann, wenn er gar nicht stattfindet.",
+        "Ein Wechsel verschlechtert die Symptomatik regelhaft.",
+        "Ein Wechsel bleibt in allen Fällen völlig wirkungslos.",
+        "Ein Wechsel wirkt ausschließlich bei schwerer Depression.",
+        "Ein Wechsel wirkt nur bei tatsächlicher Umstellung der Substanz."
+      ],
+      "answer": 0,
+      "explanation": "Das Switching – die Verbesserung nach Wechsel des Medikaments – funktioniert auch dann, wenn der Wechsel gar nicht stattfindet, das gleiche Medikament also beibehalten wird. Genau daraus wird geschlossen, dass Placeboeffekte in der Antidepressiva-Therapie zentral sind, allerdings mit weniger Nebenwirkungen. Eine Wirkung nur bei tatsächlicher Umstellung würde das Argument entkräften. Wirkungslosigkeit, Schweregradbindung und eine regelhafte Verschlechterung entsprechen dem Befund nicht."
+    },
+    {
+      "topic": "Pharmakotherapie und Wirksamkeit",
+      "hard": true,
+      "question": "Welche Besonderheit wird für Lithium hervorgehoben?",
+      "options": [
+        "Es wirkt ausschließlich in der akuten manischen Episode.",
+        "Es ist das einzige Medikament mit antisuizidaler Wirkung.",
+        "Es ist bei rezidivierender Depression nicht indiziert.",
+        "Es hat eine besonders große therapeutische Breite.",
+        "Es zeigt keinerlei Risiko bei versehentlicher Überdosierung."
+      ],
+      "answer": 1,
+      "explanation": "Lithium wird als einziges Medikament mit antisuizidaler Wirkung hervorgehoben; als Stimmungsstabilisator ist es bei bipolaren Verläufen und zur Rückfallprophylaxe bei rezidivierender Depression indiziert. Problematisch ist gerade die geringe therapeutische Breite mit Gefahr einer Überdosierung, weshalb sowohl die große Breite als auch das fehlende Überdosierungsrisiko unzutreffend sind. Eine Beschränkung auf die akute Manie und ein Ausschluss bei rezidivierender Depression widersprechen der Indikationsstellung."
+    },
+    {
+      "topic": "Pharmakotherapie und Wirksamkeit",
+      "question": "Bei einer akut suizidalen Patientin mit Depression soll die Medikation angepasst werden. Welche Substanz ist gegen die Suizidalität am ehesten NICHT wirksam?",
+      "options": [
+        "Die Psychotherapie als eigenständiger Ansatz.",
+        "Die Elektrokrampftherapie als somatisches Verfahren.",
+        "Die Behandlung mit Serotonin-Wiederaufnahmehemmern.",
+        "Clozapin bei Betroffenen mit schizophrener Erkrankung.",
+        "Die Behandlung mit Lithium als Stimmungsstabilisator."
+      ],
+      "answer": 2,
+      "explanation": "Serotonin-Wiederaufnahmehemmer sind bei Suizidalität ausdrücklich nicht wirksam – sie sind damit die gesuchte Ausnahme. Als wirksam genannt werden Lithium, die Elektrokrampftherapie, die Psychotherapie sowie Clozapin mit antisuizidaler Wirkung bei Betroffenen mit schizophrener Erkrankung.",
+      "transfer": true
+    },
+    {
+      "topic": "Chronobiologische und neue Verfahren",
+      "question": "Welches Verfahren wirkt bei der Depression kurzfristig mit direkter Response?",
+      "options": [
+        "Die Rückfallprophylaxe mit Phasenprophylaktika.",
+        "Die medikamentöse Behandlung mit Antidepressiva.",
+        "Die Psychotherapie über mehrere Monate hinweg.",
+        "Die Lichttherapie über mehrere Wochen hinweg.",
+        "Der Schlafentzug als chronobiologisches Verfahren."
+      ],
+      "answer": 4,
+      "explanation": "Als kurzfristig wirksam mit direkter Response werden Schlafentzug, Elektrokrampftherapie, Ketamin und Psilocybin genannt. Psychotherapie und Medikation wirken demgegenüber langfristig und mit einer Latenz bis zur Response. Die Rückfallprophylaxe zielt ohnehin auf den langfristigen Verlauf. Und die Lichttherapie ist ein chronobiologisches Verfahren mit Anwendung über einen längeren Zeitraum."
+    },
+    {
+      "topic": "Chronobiologische und neue Verfahren",
+      "question": "Für welche Depressionen ist die Lichttherapie vorgesehen?",
+      "options": [
+        "Für manische Episoden im Rahmen bipolarer Verläufe.",
+        "Für therapieresistente Depressionen aller Schweregrade.",
+        "Für alle Depressionen unabhängig vom Schweregrad.",
+        "Für schwere Depressionen mit psychotischen Symptomen.",
+        "Für saisonale und für leichte Depressionen."
+      ],
+      "answer": 4,
+      "explanation": "Die Lichttherapie ist für saisonale und leichte Depressionen vorgesehen; sie reguliert über das aufgenommene helle Licht den bei der Winterdepression gestörten Schlaf-Wach-Rhythmus. Bei schweren Depressionen konnte ausdrücklich keine Verbesserung erzielt werden, weshalb weder die psychotische noch die therapieresistente Form noch eine schweregradunabhängige Anwendung zutrifft. Und bei manischen Zuständen wird stattdessen die Dunkeltherapie eingesetzt."
+    },
+    {
+      "topic": "Chronobiologische und neue Verfahren",
+      "transfer": true,
+      "question": "Ein Patient in manischem Zustand soll kurzfristig chronobiologisch behandelt werden. Welches Verfahren kommt am ehesten in Betracht?",
+      "options": [
+        "Die Wachtherapie über mehrere Nächte.",
+        "Die Dunkeltherapie über mehrere Stunden.",
+        "Eine Behandlung mit Ketamin als Kurzintervention.",
+        "Die Lichttherapie über mehrere Stunden.",
+        "Eine hochdosierte antidepressive Medikation."
+      ],
+      "answer": 1,
+      "explanation": "Zirkadiane Effekte sind auch bei manischen Zuständen bedeutsam; effektiv zeigt sich hier die Dunkeltherapie, bei der Betroffene über mehrere Stunden in einen dunklen Raum gesetzt werden, um manische Zustände zumindest kurzfristig zu reduzieren. Die Lichttherapie zielt umgekehrt auf depressive und insbesondere saisonale Zustände. Die Wachtherapie wird bei morgendlichen Stimmungstiefs im Rahmen von Depressionen eingesetzt. Ketamin ist ein rasch wirksames Verfahren bei Depression. Und eine antidepressive Medikation birgt bei bipolaren Verläufen gerade das Switch-Risiko."
+    },
+    {
+      "topic": "Chronobiologische und neue Verfahren",
+      "hard": true,
+      "question": "Wie ist die aktuelle Datenlage zu Psilocybin bei der Depression einzuschätzen?",
+      "options": [
+        "Bei größeren Fallzahlen bestätigen sich die Effekte in voller Höhe.",
+        "Die Substanz gilt inzwischen als regulär zugelassen.",
+        "Bei größeren Fallzahlen fallen die Effekte eher ernüchternd aus.",
+        "Die Substanz erwies sich von Beginn an als unwirksam.",
+        "Es liegen bislang überhaupt keine klinischen Daten vor."
+      ],
+      "answer": 2,
+      "explanation": "Psilocybin galt zunächst als so erfolgreich, dass es zur Durchbruchstherapie erklärt wurde; bei mittlerweile größeren Fallzahlen fallen die Daten jedoch eher ernüchternd aus, die Wirksamkeit ist vermutlich geringer als zunächst gedacht. Eine Bestätigung in voller Höhe widerspricht dem. Klinische Daten liegen in erheblichem Umfang vor. Von Beginn an unwirksam war die Substanz gerade nicht. Und eine reguläre Zulassung besteht bislang nicht."
+    }
+  ]
+}
