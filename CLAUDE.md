@@ -23,7 +23,7 @@ Wenn der Nutzer sinngemäß sagt „erstelle ein Quiz aus diesem Stoff/Skript/Th
 
 Danach ist das Quiz sofort verfügbar. Keine weiteren Codeänderungen nötig.
 
-**Standard-Stil (immer so erzeugen): wie `data/psym20-uebung-set2.json`.**
+**Standard-Stil (immer so erzeugen) – Altklausur-Stil mit voller Feature-Nutzung.**
 Das heißt konkret für jedes neue Quiz:
 - Jede Frage bekommt ein `topic` (Themenbereich). So funktionieren Themenfilter und
   Auswertung pro Thema. Frei erfundene Themen sind ok – sinnvoll gruppieren.

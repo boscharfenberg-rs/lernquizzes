@@ -107,6 +107,29 @@ button { font: inherit; cursor: pointer; }
 .subject-card p { margin: 0; color: var(--muted); font-size: 0.9rem; }
 .subject-card .count { margin-top: 12px; font-size: 0.8rem; color: var(--muted); }
 
+/* Zufallsquiz-Kachel (Fächer-Ebene, Roter-Faden-Ansicht und Set-Liste) */
+.random-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  text-align: left;
+  color: var(--ink);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-left: 5px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px 18px;
+  margin-bottom: 20px;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+.random-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(20,30,60,0.1); }
+.random-icon { font-size: 1.6rem; line-height: 1; flex: none; }
+.random-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.random-text strong { font-size: 1.02rem; }
+.random-text span { color: var(--muted); font-size: 0.88rem; }
+
 /* Quiz */
 .progress-wrap { margin: 4px 0 20px; }
 .progress-meta { display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--muted); margin-bottom: 6px; }

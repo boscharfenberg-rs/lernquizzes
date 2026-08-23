@@ -83,7 +83,6 @@ lernquiz/
 ├─ README.md
 └─ data/
    ├─ subjects.json     ← Manifest (Liste aller Quizze)
-   ├─ psym20-statistik.json
    └─ hauptstaedte-europa.json
 ```
 

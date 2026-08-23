@@ -30,6 +30,8 @@ let faecherList = [];            // deklarierte Fächer aus subjects.json (auch 
 let view = "subjects";           // "subjects" | "map" | "list" | "quiz"
 let quizReturn = null;           // Funktion: wohin nach dem Quiz zurück (Map oder Liste)
 const mapCache = {};             // slug -> geladene Map (oder null bei fehlender Datei)
+const quizCache = {};            // file -> geparstes Quiz (Pool fürs Zufallsquiz)
+const RANDOM_COUNT = 45;         // Fragen pro Zufallsquiz
 
 // --- Laden -----------------------------------------------------------------
 
@@ -50,12 +52,20 @@ async function init() {
   }
 }
 
+// Einzelne Quiz-Datei laden (gecacht) – Basis für loadQuiz und den Zufallspool.
+async function loadQuizFile(file) {
+  if (quizCache[file]) return quizCache[file];
+  const res = await fetch(`data/${file}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`${file}: HTTP ${res.status}`);
+  const q = await res.json();
+  quizCache[file] = q;
+  return q;
+}
+
 async function loadQuiz(file) {
   app.innerHTML = `<p class="loading">Lade Quiz …</p>`;
   try {
-    const res = await fetch(`data/${file}`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`${file}: HTTP ${res.status}`);
-    const q = await res.json();
+    const q = await loadQuizFile(file);
     // Lückentext-Sets tragen "type":"lueckentext" und werden an cloze.js delegiert;
     // die MC-Engine bleibt davon unberührt.
     if (q.type === "lueckentext") {
@@ -116,9 +126,11 @@ function renderSubjects() {
   }).join("");
 
   app.innerHTML = `
+    ${randomCard(null)}
     <p class="lead">Wähle ein Fach:</p>
     <div class="subject-grid">${cards}</div>
   `;
+  bindRandomCard();
   app.querySelectorAll(".subject-card").forEach((btn) => {
     btn.addEventListener("click", () => renderMap(btn.dataset.subject));
   });
@@ -147,12 +159,14 @@ function renderSets(subject) {
     : `<p class="lead">Für dieses Fach gibt es noch keine Sets.</p>`;
 
   app.innerHTML = `
+    ${sets.length ? randomCard(subject) : ""}
     <div class="rf-toolbar">
       <p class="lead">${escapeHtml(subject)} – alle Quizze:</p>
       <button class="ghost-btn" data-tomap="1">Zur Struktur (roter Faden)</button>
     </div>
     ${body}
   `;
+  bindRandomCard();
   const tm = app.querySelector("[data-tomap]");
   if (tm) tm.onclick = () => renderMap(subject);
   app.querySelectorAll(".subject-card").forEach((btn) => {
@@ -161,6 +175,72 @@ function renderSets(subject) {
       loadQuiz(btn.dataset.file);
     });
   });
+}
+
+// --- Zufallsquiz -----------------------------------------------------------
+
+// Kachel für ein Zufallsquiz. subject = null -> fächerübergreifend.
+function randomCard(subject) {
+  return `
+    <button class="random-card" data-random="${subject ? escapeHtml(subject) : ""}">
+      <span class="random-icon">🎲</span>
+      <span class="random-text">
+        <strong>Zufallsquiz${subject ? "" : " – alle Fächer"}</strong>
+        <span>Bis zu ${RANDOM_COUNT} zufällige Fragen aus ${subject ? "allen Quizzen dieses Fachs" : "dem gesamten Fragenpool"} – ohne ${subject ? "Themenanzeige" : "Fach- und Themenanzeige"}.</span>
+      </span>
+    </button>`;
+}
+
+function bindRandomCard() {
+  const btn = app.querySelector("[data-random]");
+  if (btn) btn.onclick = () => startRandomQuiz(btn.dataset.random || null);
+}
+
+// Baut ein synthetisches Quiz aus zufälligen Fragen aller passenden Sets.
+// Die Fragen werden ohne `topic` übernommen: dadurch entfallen Themen-Chips,
+// das Themen-Tag an der Frage und die Auswertung pro Thema – man sieht der
+// Frage also weder Thema noch Fach an. Lückentext-Sets bleiben außen vor,
+// weil sie keine Single-Choice-Fragen enthalten.
+async function startRandomQuiz(subject) {
+  app.innerHTML = `<p class="loading">Stelle Zufallsquiz zusammen …</p>`;
+  homeBtn.hidden = false;
+  view = "quiz";
+  currentSubject = subject;
+  quizReturn = subject ? () => renderMap(subject) : renderSubjects;
+
+  const sets = subject
+    ? subjects.filter((s) => (s.subject || "Ohne Fach") === subject)
+    : subjects;
+
+  try {
+    const loaded = await Promise.all(sets.map((s) => loadQuizFile(s.file)));
+    const pool = [];
+    loaded.forEach((q) => {
+      if (q.type === "lueckentext") return;       // Lückentexte gehören nicht in den MC-Pool
+      (q.questions || []).forEach((item) => {
+        const { topic, ...rest } = item;           // Thema (und damit das Fach) verbergen
+        pool.push(rest);
+      });
+    });
+    if (!pool.length) throw new Error("Keine Fragen im Pool.");
+
+    const picked = shuffleArray(pool.slice()).slice(0, RANDOM_COUNT);
+    quiz = {
+      id: "__random",
+      title: subject ? `${subject} · Zufallsquiz` : "Zufallsquiz · alle Fächer",
+      questions: picked,
+      _isRandom: true,
+      _randomSubject: subject
+    };
+    topicColors = {};
+    state = {
+      idx: 0, answers: {}, showResult: false, filterTopic: "Alle",
+      order: picked.map((_, i) => i), shuffled: false
+    };
+    render();
+  } catch (err) {
+    showError(`Zufallsquiz konnte nicht erstellt werden. Details: ${err.message}`);
+  }
 }
 
 // --- Roter Faden: fachspezifische Struktur-Grafik --------------------------
@@ -302,7 +382,9 @@ async function renderMap(subject) {
   else if (m.layout === "grouped") graph = rfRenderGrouped(m);
   else graph = rfRenderLinear(m);
 
+  const hasSets = subjects.some((s) => (s.subject || "Ohne Fach") === subject);
   app.innerHTML = `
+    ${hasSets ? randomCard(subject) : ""}
     <div class="rf-toolbar">
       <p class="lead">${escapeHtml(m.title)}</p>
       <button class="ghost-btn" data-tolist="1">Alle Quizze (Liste)</button>
@@ -311,6 +393,7 @@ async function renderMap(subject) {
     <div class="rf-map rf-${escapeHtml(m.layout)}">${graph}</div>
   `;
 
+  bindRandomCard();
   const tl = app.querySelector("[data-tolist]");
   if (tl) tl.onclick = () => renderSets(subject);
 
@@ -509,7 +592,8 @@ function bindQuiz() {
 }
 
 function bindResult() {
-  app.querySelector("[data-reset]").onclick = () => loadQuiz(quiz._file);
+  app.querySelector("[data-reset]").onclick = () =>
+    quiz._isRandom ? startRandomQuiz(quiz._randomSubject) : loadQuiz(quiz._file);
   app.querySelector("[data-back]").onclick = () => { state.showResult = false; render(); };
   app.querySelector("[data-home]").onclick = renderSubjects;
 }
