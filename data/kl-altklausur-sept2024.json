@@ -1,0 +1,616 @@
+{
+  "id": "kl-altklausur-sept2024",
+  "title": "Krankheitslehre · Altklausur September 2024",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Die Altklausur vom September 2024 wörtlich 1:1: 55 Single-Best-Answer-Fragen mit 5 Optionen A–E, Fragen, Antwortoptionen und Reihenfolge unverändert übernommen, Lösungen nach der Originalmarkierung. Ohne ergänzte Erklärungen. Abweichung: Bei Frage 16 ist die fachlich sauberere Antwort d) gesetzt statt der Original-Markierung a) – im Item vermerkt.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Welches Wahnthema ist am ehesten untypisch für die wahnhafte Depression?",
+      "options": [
+        "Schuldwahn",
+        "Verarmungswahn",
+        "Hypochondrischer Wahn",
+        "Abstammungswahn",
+        "Nihilistischer Wahn"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Rapid-Cycling ist mit bestimmten Besonderheiten assoziiert. Welche der folgenden Aussagen dazu ist **falsch**?",
+      "options": [
+        "Je nach Häufigkeit der Phasenwechsel existiert neben Rapid Cycling ein Ultra-Rapid Cycling und ein Ultra-Ultra-Rapid Cycling",
+        "Stimmungsstabilisatoren sind die Therapie der ersten Wahl",
+        "Ultra-Ultra Rapid Cycling wird aufgrund der heftigen Stimmungsschwankungen als Borderlinestörung bezeichnet",
+        "Das Suizidrisiko ist bei Rapid Cycling besonders hoch",
+        "Antidepressiva können bei Rapid-Cycling einen Phasenwechsel zum manischen hin auslösen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Was ist ein „synthymer Wahn\"?",
+      "options": [
+        "Ein Phänomen, welches primär bei Persönlichkeitsstörungen auftritt",
+        "Personen berichten, die Symptomatik sei für sie normal",
+        "Der Wahn ist stimmungskongruent",
+        "Der Wahn wird als zur eigenen Person passend erlebt",
+        "Die Bezeichnung synthym hat mit Wahn nichts zu tun"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Wie attribuieren depressive Menschen entsprechend des Modells der erlernten Hilflosigkeit Misserfolgs-Ereignisse?",
+      "options": [
+        "External, spezifisch und variabel",
+        "Internal, global und variabel",
+        "Reliabel, valide und objektiv",
+        "Internal, global und stabil",
+        "Internal, spezifisch und stabil"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einem Rückfall und einem Rezidiv?",
+      "options": [
+        "Die Begriffe sind synonym zu verwenden",
+        "Rezidiv ist der modernere Begriff für den veralteten Begriff des Rückfalls, der zur Reduktion von Stigmatisierung aufgegeben wurde",
+        "Inhaltlich die gleiche Bedeutung, in unterschiedlichen therapeutischen Schulen wird jedoch der eine oder andere Begriff bevorzugt",
+        "Ein Rückfall erfolgt innerhalb der aktuellen Episode, ein Rezidiv dagegen erfolgt nach vorheriger Genesung",
+        "Rückfall ist ein Begriff aus der Suchttherapie, bei affektiven Störungen wird von Rezidiv gesprochen"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Welche Bewertung der Monoaminmangelhypothese der Depression ist richtig?",
+      "options": [
+        "Monoaminmangel ist zwar ätiologisch bedeutsam für Depressionen, aber andere Transmitter spielen ebenso eine Rolle",
+        "Die zeitliche Latenz zwischen der Gabe von Antidepressiva und einem klinisch relevanten Wirkeintritt weist auf andere relevante Prozesse als einen Monoaminmangel hin",
+        "Da manche Antidepressiva abrupt wirken und andere nicht, scheint es verschiedene Arten von Depressionen zu geben mit verschiedenen ätiologischen Bedingungen",
+        "Kein Kritik nötig, sie gilt uneingeschränkt",
+        "Experimentell kann durch Gabe/Entzug von Monoaminen eine Depression oder Manie hergestellt werden"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nachfolgend genannte hypomanische Zustände kennzeichnen nicht immer eine bipolare oder zyklothyme affektive Störung. Welche Aussage dazu ist **falsch**?",
+      "options": [
+        "Hypomanische Zustände können als Nebenwirkung einer antidepressiven Therapie durchaus auftreten und stellen keine eigenständige Störung dar",
+        "Für die Diagnose eines bipolaren Typus ist es letztlich unerheblich, was der Grund für die Euphorie ist – sobald die Symptomatik vorliegt, sollte sie diagnostiziert werden",
+        "Bei Vorliegen einer bipolaren Symptomatik sollte immer auch ausgeschlossen werden, ob es sich um eine schizoaffektive Symptomatik handelt",
+        "Wenn ein klarer Grund für die starke Euphorie identifiziert werden kann, möglichst keinen bi-phasischen Typus diagnostizieren",
+        "Nach Abklingen einer depressiven Episode ist ein sog. post-depressiver hypomanischer Switch nicht unüblich und sollte nicht separat diagnostiziert werden"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Warum wird die saisonale Depression auch atypische Depression genannt?",
+      "options": [
+        "Weil sie mit gesteigertem Appetit und Schlafbedürfnis einhergeht",
+        "Weil sie weniger oft komorbid mit anderen Störungen auftritt",
+        "Weil nur sie mit Lichttherapie effektiv behandelt werden kann",
+        "Weil sie nur in bestimmten Monaten auftritt",
+        "Weil sie ohne Behandlung remittiert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Was trifft zu für den typischen Verlauf einer Zwangsstörung?",
+      "options": [
+        "Chronischer Verlauf nach Auftreten mit stabil bleibender Intensität der Symptomatik",
+        "Einen typischen Verlauf der Zwangsstörung gibt es nicht",
+        "Meist eine Episode, die nach mehreren Jahren remittiert",
+        "Meist episodischer Verlauf mit Remission zwischen Episoden",
+        "Chronisch fluktuierender Verlauf, mit deutlicherer Symptomatik bei akutem Stress"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was trifft zu bezüglich (a) des Geschlechterverhältnisses bei Zwängen und (b) welche geschlechtsspezifischen inhaltlichen Phänomene sind bekannt?",
+      "options": [
+        "(a) mehr Frauen, (b) keine inhaltlichen Unterschiede",
+        "(a) mehr Frauen, (b) Frauen eher Sammel- und Ordnungszwänge",
+        "(a) mehr Männer, (b) Frauen eher Putz- und Reinigungszwänge",
+        "(a) ausgeglichen, (b) keine inhaltlichen Unterschiede",
+        "(a) ausgeglichen, (b) Männer eher Kontrollzwänge"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was ist FALSCH hinsichtlich der Einschätzung der Schwere der Psychopathologie bei Zwangssymptomen?",
+      "options": [
+        "Bei besonders schweren Ausprägungen kann teilweise das Phänomen geringer Einsicht beobachtet werden",
+        "Zwangssymptome (auch in leichter Ausprägung und bevor sie Leid erzeugen) sollen stets als klinisch relevant erachtet werden und möglichst umgehend therapiert werden, um Chronifizierung zu vermeiden",
+        "Bei extrem schweren Zwängen kann selbst Medikation und Psychotherapie erfolglos sein, sodass tiefe Hirnstimulation als Lösung versucht wurde",
+        "Bei Kindern treten zwangsähnliche Phänomene häufig auf und sind nicht per se pathologisch",
+        "Klinisch relevant sind Zwangssymptome dann, wenn sie Leid erzeugen und viel Zeit beanspruchen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt für das „just right Gefühl\" bei Zwängen?",
+      "options": [
+        "Es liegt insb. bei Patienten mit wenig Einsicht vor",
+        "Tritt insb. bei Patienten mit geringer Intelligenz auf, die Schwierigkeiten haben, die Dynamik ihrer Handlungen zu verstehen",
+        "Tritt eher bei Frauen auf und ist mit relativ gutem Therapie-Outcome assoziiert",
+        "Es erklärt ein Kongruenzerleben Betroffener mit ihrer Symptomatik (Gefühl des Einklangs mit der Symptomatik)",
+        "Es definiert den Punkt, an dem Zwangshandlungen lange genug ausgeführt wurden, ein Gefühl der Stimmigkeit auftritt, ähnlich wie bei Ticstörungen"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was trifft NICHT zu bezüglich der Kapitel für Zwangsspektrumsstörungen nach ICD-11 und DSM-5?",
+      "options": [
+        "Die Hypochondrie hat das DSM-5 in ein ganz anderes Kapitel verschoben, nicht aber die ICD-11",
+        "Pathologisches Horten ist im DSM-5 bei den verwandten Störungen der Zwangsstörung aufgeführt, im ICD-11 dagegen Teil der Zwangsstörung",
+        "Die Körperdysmorphe Störung ist in beiden Systemen als Verwandte der Zwangsstörungen aufgeführt",
+        "Die olfaktorische Referenzstörung ist nur im ICD-11 enthalten",
+        "In beiden Fällen (ICD und DSM) ist die Zwangsstörung die Hauptdiagnose, die anderen Diagnosen sind der Zwangsstörung ähnlich hinsichtlich repetitiv auftretender Gedanken oder Handlungen"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Was trifft zu bezüglich des Phänomens der „Thought-Action-Fusion\" (TAF) bei Patienten mit einer Zwangsstörung?",
+      "options": [
+        "Gedanken müssen zwanghaft in Handlungen überführt werden",
+        "TAF ist psychopathologisch als überwertige Idee zu verstehen und sollte mit Antipsychotika behandelt werden",
+        "TAF bezeichnet die automatische Abfolge von Zwangsgedanken und Zwangshandlungen",
+        "Gedanken wird eine automatische Handlungsrelevanz unterstellt",
+        "Patienten mit TAF und der Befürchtung, Andere mit einem Messer zu erstechen, sollten zu Beginn einer Therapie dringend von Messern ferngehalten werden"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Was trifft zu bezüglich der Latenz zwischen Symptombeginn einer Zwangsstörung und dem Beginn einer Psychotherapie?",
+      "options": [
+        "Symptomatik wird von Betroffenen meist unterschätzt, nicht ernst genommen, daher hohe Latenz",
+        "Hohe Latenz von mehreren Jahren aufgrund von Schamgefühlen, sodass Symptomatik oft bereits chronifiziert ist bei Therapiebeginn",
+        "Zwangsstörungen sind primär eine Indikation für Pharmakotherapie, daher kommen sie wenn überhaupt erst spät zu einer Psychotherapeutin",
+        "Patienten sind sehr kontrolliert und kommen daher meist direkt nach Beginn der Symptome zur Therapie",
+        "Patienten sind sehr kontrolliert und bekommen die Symptome daher meist ohne Therapie in den Griff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt für die Beziehung von Inhalten einer Zwangsstörung einerseits und Werten und Grundannahmen von Betroffenen andererseits?",
+      "options": [
+        "Zwänge sind oft schambesetzt, da Betroffene sich für ihre eigenen moralischen Werte schämen",
+        "Patienten schämen sich für die Inhalte, weil der Eindruck besteht, Andere hätten ihnen die absurden Gedanken in den Kopf eingegeben",
+        "Wenn alle Antworten richtig, dann bitte hier ankreuzen …",
+        "Inhalte sind oft schambesetzt und konträr zum eigenen Wertesystem",
+        "Inhalte kommen Betroffenen in der Regel höchst plausibel vor, sie würden dennoch von anderen dafür kritisiert"
+      ],
+      "answer": 3,
+      "trap": "In der abfotografierten Klausur war a) grün markiert. Hier ist bewusst d) als Lösung gesetzt.",
+      "explanation": "Zwangsinhalte werden als ich-dyston erlebt: Sie stehen konträr zum eigenen Wertesystem und sind gerade deshalb schambesetzt. Die Formulierung, Betroffene schämten sich für ihre eigenen moralischen Werte, kehrt diesen Zusammenhang um und war in der Original-Klausur als Lösung markiert – hier ist bewusst die fachlich sauberere Antwort gesetzt. Die Vorstellung, andere hätten die Gedanken eingegeben, beschreibt eine Ich-Störung im Sinne von Gedankeneingebung und damit psychotisches Erleben. Die Sammeloption ist als Distraktor gesetzt. Und dass die Inhalte den Betroffenen plausibel erschienen, widerspricht der Ich-Dystonie."
+    },
+    {
+      "question": "Was wird nach ICD-11 am ehesten NICHT als Kriterium der Vermeidung bei PTBS gewertet, anders als noch zu Zeiten der ICD-10?",
+      "options": [
+        "Nach einem Überfall im Park verlässt Paul nicht mehr die eigene Wohnung",
+        "Nachdem Lara von ihren beiden letzten Freunden sexuell missbraucht wurde, kann sie kein Gefühl von Liebe empfinden (emotionale Taubheit)",
+        "Nach einer gewaltvollen Beziehung geht Igor keine engen Bindungen mehr ein („das tue ich mir nicht mehr an\")",
+        "Nach einem Verkehrsunfall geht die Tochter nicht mehr zur Fahrschule",
+        "Nachdem Klaus bei schlechten Klausuren immer vom Vater verprügelt wurde, verweigert er den Schulbesuch, wenn Prüfungen anstehen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was wird nach ICD-11 am ehesten NICHT als Kriterium des Hyperarousal einer PTBS gewertet, anders als noch zu Zeiten der ICD-10?",
+      "options": [
+        "Patient kann nie zur Ruhe kommen, sondern muss ständig die Gegend scannen, ob auch alles ok ist",
+        "Patientin sitzt in der Therapie mit dem Rücken zur Tür. Das macht sie immens unruhig, sie dreht sich ständig um. Erst als Plätze getauscht werden und sie alles im Blick hat, beruhigt sie sich wieder",
+        "Patientin ist deutlich schreckhafter als vor dem traumatischen Ereignis",
+        "Patient zuckt bei jedem lauten Geräusch zusammen",
+        "Patient ist seit einem Ereignis verändert. Er wirkt launisch, reizbar und fährt Bekannte schnell aggressiv an"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was ist richtig hinsichtlich der Beziehung zwischen Trauma und PTBS?",
+      "options": [
+        "Auch nach schwerster Traumatisierung entwickeln die meisten Menschen keine PTBS",
+        "Insbesondere Frauen entwickeln meist eine PTBS, nachdem sie ein Trauma erlebt haben",
+        "Keine entsprechende Aussage kann getroffen werden, da keine Forschung dazu besteht",
+        "Nach schwerster Traumatisierung entwickelt sich in den meisten Fällen eine Persönlichkeitsstörung",
+        "Bei einer PTBS spielt die individuelle Vulnerabilität kaum eine Rolle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Welche zwei Subtypen der PTBS können nach DSM-5 differenziert werden?",
+      "options": [
+        "Typ 1 und Typ 2-Trauma",
+        "Akute Belastungsreaktion und Posttraumatische Belastungsstörung",
+        "Alle der genannten Subtypen der PTBS lassen sich nach DSM-5 differenzieren",
+        "Intrusiver und dissoziativer Subtyp",
+        "Interpersonell und akzidentell"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Welche Art von Trauma ist das: Patientin erlebt auf der Arbeit einen schweren Unfall, indem ihr eine schwere Kiste auf den Kopf gefallen ist und sie dabei fast gestorben wäre?",
+      "options": [
+        "Typ 2 und interpersonell",
+        "Typ 2 und akzidentell",
+        "Dies lässt sich anhand der vorliegenden Daten nicht beantworten",
+        "Typ 1 und interpersonell",
+        "Typ 1 und akzidentell"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was wird NICHT assoziiert mit einer fehlerhaft abgespeicherten Erinnerung an ein Trauma?",
+      "options": [
+        "Erinnerung ist oft fragmentiert repräsentiert",
+        "Leicht triggerbar durch situative Reize",
+        "Zeitliche Abläufe des Ereignisses werden exakt bis ins letzte Detail wiedererinnert",
+        "Emotionen werden bei Erinnerung auch nach Jahren intensiv erlebt",
+        "Charakterisiert durch Hier-und-Jetzt-Erleben"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Was wird nach ICD-11 am ehesten NICHT als Kriterium des Wiedererlebens einer PTBS gewertet, anders als noch zu Zeiten der ICD-10?",
+      "options": [
+        "Clara ist von ihrem Vater sexuell missbraucht worden. Wenn ihr Freund mit ihr schlafen will, erlebt sie sich als „ganz komisch\", fühlt sich ganz klein und kann sich vor Angst nicht mehr rühren",
+        "Nachdem Mia über Jahre Gewalt in der Familie erlebt hat, fühlt sie sich immer ganz eigenartig, wenn sie mit ihrem Freund bei seiner heilen Familie ist. Sie muss die ganze Zeit intensiv darüber nachdenken, warum ihr das passiert ist und wie ungerecht das eigentlich ist. Sie hat den Eindruck, die Gedanken nicht abschütteln zu können",
+        "Jörg hat einen Autounfall erlebt. Wenn er nun Formel-1 schaut, kommt es oft vor, dass er plötzlich die Geräusche seines Unfalls wahrnimmt und sich wieder so fühlt wie damals",
+        "In einer Triggersituation sieht Patient plötzlich in der Person gegenüber den Täter von damals und beginnt panisch zu schreien",
+        "Nach einem Banküberfall mit Schusswaffe, der bei Klaus starke Angst erzeugt hat, zuckt Klaus immer zusammen, wenn er ein lautes Geräusch hört, und ruft „versteckt euch!\". Danach hat er immer starkes Herzrasen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt NICHT für die drei Kern-Diagnosekriterien der PTBS nach ICD-11 (Wiedererleben, Vermeidung und Hyperarousal)?",
+      "options": [
+        "Sie sollen differenzialdiagnostisch besser ggü. anderen Störungen abgrenzen",
+        "Die Veränderungen der Kriterien werden gewisse Veränderungen hinsichtlich epidemiologischer Daten nach sich ziehen",
+        "Änderungen im ICD-11 sollen eine verbesserte differenzialdiagnostische Abklärung ermöglichen",
+        "Sie sind schärfer definiert als die Vorgängerkriterien",
+        "Die Prävalenzen einer Diagnosestellung der PTBS werden höher ausfallen als zu Zeiten des ICD-10"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Bei welcher Psychopathologie besteht KEINE Indikation für eine Elektrokrampftherapie (EKT)?",
+      "options": [
+        "Manie",
+        "Suizidalität",
+        "Impulskontrollstörungen",
+        "Schwere und/oder psychotische Depression",
+        "Schizophrenie"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Welche Aussage ist aus wissenschaftlicher Perspektive am ehesten angemessen hinsichtlich des Wirkmechanismus der Elektrokrampftherapie (EKT)?",
+      "options": [
+        "Möglicherweise wirkt die EKT über eine Stimulation eines Nervenwachstumsfaktors und somit durch Neubildung von Nervengewebe",
+        "Bislang gibt es keine Hypothese zur Wirksamkeit der EKT, ihr Einsatz rechtfertigt sich aber über die hohe klinische Effektivität",
+        "Durch EKT werden spezifisch die Regionen im Gehirn stimuliert, die bei psychischen Störungen relevant sind",
+        "Die Nervenzellen im Gehirn werden vermutlich einem Reset und Neustart unterzogen",
+        "Alle Nerven werden durch den Strom extrem beansprucht und sortieren sich danach neu"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Welcher epidemiologische Begriff steht für die vollständig bzw. nahezu vollständig abgeklungene Symptomatik? Vervollständigen Sie bitte: Der schizophrene Patient weist eine …",
+      "options": [
+        "… Exazerbation der Symptomatik auf",
+        "… Aggravation der Symptomatik auf",
+        "… Dissimulation der Symptomatik auf",
+        "… Remission der Symptomatik auf",
+        "… Response der Symptomatik auf"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Moderne Klassifikationssysteme ICD und DSM sind deskriptiv strukturiert. Was bedeutet das?",
+      "options": [
+        "Es soll beschrieben und nicht bewertet werden und so einer Stigmatisierung entgegenwirken",
+        "Störungen sollen explizit möglichst genau beschrieben werden, d.h. Symptome, Ätiologie und Epidemiologie",
+        "Moderne Klassifikationssysteme sind explizit seit dem ICD-10 nicht mehr deskriptiv strukturiert",
+        "Sie beschreiben möglichst genau die Ursachen der Störungen",
+        "Störungen werden lediglich auf der Symptomebene beschrieben"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was gilt für die Wirkweise der Tiefen Hirnstimulation (THS)?",
+      "options": [
+        "Hochfrequente Stimulation inhibiert spezifisch und ausschließlich die Zielregion im Gehirn",
+        "Hochfrequente Stimulation inhibiert die Zielregion im Gehirn und beeinflusst durch die Netzwerkstruktur des Hirns gleichzeitig weitere Regionen",
+        "Alle genannten Aussagen sind zu spezifisch, als dass heutiges Wissen zur Beantwortung ausreichen würde",
+        "Niederfrequente Stimulation inhibiert spezifisch und ausschließlich die Zielregion im Gehirn",
+        "Niederfrequente Stimulation inhibiert die Zielregion im Gehirn und beeinflusst durch die Netzwerkstruktur des Hirns gleichzeitig weitere Regionen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Welcher epidemiologische Begriff steht für eine akute Verschlechterung eines chronischen Krankheitsverlaufs? Vervollständigen Sie bitte: Der schizophrene Patient leidet unter einer …",
+      "options": [
+        "… Exazerbation der Symptomatik",
+        "… Aggravation der Symptomatik",
+        "… Dissimulation der Symptomatik",
+        "… Remission der Symptomatik",
+        "… Response der Symptomatik"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Es wird vermutet, dass die realen Komorbiditätsraten höher sind, als es die großen Komorbiditätsstudien nahelegen. Ein diskutierter Grund ist der Zeitrahmen, der hinsichtlich des Auftretens komorbider Störungen analysiert wird. Was ist diesbezüglich richtig?",
+      "options": [
+        "Viele Studien betrachten Lebenszeitprävalenzen. Da über die Lebenszeit viele Störungen wieder abklingen, wird die Komorbiditätsrate dadurch unterschätzt",
+        "Der Zeitrahmen der Prävalenzen hat keinen Einfluss auf die Komorbiditätsraten. Andere Parameter sind hier bedeutsam",
+        "Nicht die Prävalenzen sind hier bedeutsam, sondern Inzidenzen müssten analysiert werden",
+        "Punktprävalenzen würden zu valideren Ergebnissen führen als 12-Monatsprävalenzen",
+        "Je länger der analysierte Prävalenzrahmen, umso höher die Komorbiditätsraten über alle psychischen Störungen hinweg"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Welche Informationen sind in den aktuellen Klassifikationssystemen ICD/DSM für psychische Störungen NICHT zu finden?",
+      "options": [
+        "Dauer der Symptomatik bis zur Diagnosestellung",
+        "Ausschluss-Diagnosen",
+        "Differenzialdiagnostische Hinweise",
+        "Spezifische Symptome",
+        "Ätiologische Annahmen hinsichtlich des Auftretens der Störung"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Welche der folgenden Therapieschulen folgt dem Grundsatz von Rogers: „Der Mensch ist gut\"?",
+      "options": [
+        "Verhaltenstherapie",
+        "Tiefenpsychologisch fundierte Therapie",
+        "Psychoanalyse",
+        "Kognitive Therapie",
+        "Humanistische Therapien, z.B. Gesprächspsychotherapie"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Ihr Patient berichtet aktuell unter niedergedrückter Stimmung und Antriebsverlust zu leiden. An Hobbys empfinde er kaum noch Freude. Zudem habe er Schwierigkeiten, sich zu konzentrieren und beim Einschlafen. Welcher diagnostische Schluss ist hier am ehesten zulässig?",
+      "options": [
+        "depressive Episode",
+        "psychosomatische Störung",
+        "Depression plus komorbide Schlafstörung",
+        "rezidivierende depressive Störung",
+        "depressives Syndrom"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Wie reagiert das Gehirn auf eine Langzeitbehandlung mit hochdosierten Antipsychotika, insbesondere der ersten Generation?",
+      "options": [
+        "Dopaminrezeptoren werden reduziert gebildet, dafür aber sensitiver",
+        "Dopaminrezeptoren werden reduziert gebildet und reduzieren gleichzeitig ihre Sensitivität",
+        "Dopaminrezeptoren werden vollständig durch Psychopharmaka ersetzt",
+        "Dopaminrezeptoren werden vermehrt gebildet und werden sensitiver",
+        "Dopaminrezeptoren werden vermehrt gebildet, reduzieren sich aber in ihrer Sensitivität"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Welche Information benötigen Sie am ehesten, um von einem Syndrom zu einer Diagnose zu gelangen?",
+      "options": [
+        "Eine Fremdeinschätzung durch Angehörige (Fremdvalidierung)",
+        "Zustimmung durch mindestens einen Fachkollegen (Expertenvalidierung)",
+        "Infos über Komorbiditäten",
+        "Informationen zur Ätiologie",
+        "Zeitliche Charakteristika (Dauer der Pathologie)"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was wird als klinische Leitsymptomatik definiert?",
+      "options": [
+        "Symptomatik, die am ehesten eine Verdachtsdiagnose erlaubt, weil die Symptomatik am ehesten für die Diagnose vorliegen sollte",
+        "Symptomatik, die nach Klassifikationssystemen als Diagnosekriterien definiert ist",
+        "Symptomatik, die die jeweils aktuelle Forschung dahingehend anleitet, Arbeitshypothesen zu formulieren, weil das jeweilige Thema gerade am relevantesten erscheint",
+        "Symptomatik, die bei einer individuellen Patientin im Vordergrund einer psychischen Störung steht und somit den größten Leidensdruck erzeugt",
+        "Symptomatik, die das größte Leid erzeugt, weil sie am ehesten funktionale Defizite erzeugt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Welche beiden Therapien zählen zu den circadianen Therapieformen?",
+      "options": [
+        "THS und Lichttherapie",
+        "Wachtherapie und EKT",
+        "THS und Lobotomie",
+        "Elektrokrampftherapie (EKT) und tiefe Hirnstimulation (THS)",
+        "Lichttherapie und Wachtherapie"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Wie nennt man eine überzufällig häufige, theoretisch und empirisch sinnvolle Symptomkombination?",
+      "options": [
+        "Diagnose",
+        "Syndrom",
+        "Konstellation",
+        "Komorbidität",
+        "Symptombereich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was meint Klaus Conrad mit der sog. Störung des „Überstiegs\"?",
+      "options": [
+        "Indem Betroffene nicht mehr das soziale Bezugssystem wechseln können (von Erster-Person-Perspektive in die Dritte-Person-Perspektive), beziehen sie Dinge in ihrer Umgebung verstärkt auf sich",
+        "Der soziale Perspektivwechsel erfolgt unsystematisch und nicht mehr bezogen auf die reale Wirklichkeit",
+        "Conrad meint damit, dass Psychosepatienten im Rahmen ihrer Störung in eine Wahnwirklichkeit hinüber gestiegen sind",
+        "Betroffenen gelingt der Überstieg von der Dritten-Person-Perspektive in die Erste-Person-Perspektive nicht mehr",
+        "Störung des „Überstiegs\" bedeutet, dass Betroffene aus der Wahnwirklichkeit nicht mehr in die mitmenschlich geteilte Wirklichkeit hin „übersteigen\" können"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Was ist ein Wahneinfall?",
+      "options": [
+        "Das plötzliche Hereinbrechen bzw. Einfallen des Wahns",
+        "Meist plötzlich und unvermittelt auftretende wahnhafte Überzeugung",
+        "Der Einfall, wahnhaft zu sein (im Sinne einer Realitätsüberprüfung)",
+        "Jeder neue Wahninhalt, der zu einem Wahnsystem (= Summe der Wahneinfälle) beiträgt",
+        "Wahneinfälle sind die kognitiven Elemente eines Wahns (in Abgrenzung zu den dynamischen affektiven Anteilen)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt für die Wahnstimmung im Rahmen der psychotischen Entwicklung?",
+      "options": [
+        "Sie ist inhaltlich noch nicht definiert bzw. ausgestaltet",
+        "Kriterium für die Wahnstimmung ist ein bizarrer Wahn",
+        "Sie definiert zumeist das Ende der Wahnentwicklung",
+        "Sie ist charakterisiert durch intermittierend auftretende Wahnwahrnehmungen und -einfälle",
+        "Sie hat ihren Beginn im sog. „Aha-Erlebnis\""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Was ist nach Conrad NICHT dem sogenannten Trema und der Wahnstimmung zuzuordnen?",
+      "options": [
+        "Trema ist nach Conrad ein ahnungsvoller Zustand mit dem Gefühl, dass irgendetwas auf einen zukommt, dass etwas geschehen wird",
+        "Im Trema erleben Betroffene nach Conrad die sog. Wahnstimmung, assoziiert mit sog. antizipatorischer Erregung („es braut sich was zusammen\")",
+        "Nach Conrad weisen die meisten Betroffenen im Trema ein unspezifisches Größenerleben auf, in dem sie sich mächtig und wichtig fühlen, was zumeist mit positiven Emotionen einhergeht",
+        "Conrad bezeichnet den Zustand, in dem Wahnstimmung auftritt, als Trema",
+        "Das Trema wird von den meisten Patienten, die Conrad entsprechend beschreibt, als angsterzeugend beschrieben"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Was gilt für sog. Basissymptome im Rahmen der Früherkennung von Schizophrenien?",
+      "options": [
+        "Stehen für die sog. Kernsymptomatik, also die wichtigste Symptomatik im Verlauf einer psychotischen Entwicklung (insb. Realitätsverlust)",
+        "Basissymptomatik ist ein Begriff für die jeweilige individuelle Basis der psychotischen Entwicklung eines Individuums (individuelles Prodrom)",
+        "Alle Antworten A–D sind richtig",
+        "Früh auftretende Symptome, die möglicherweise das biologische Substrat der Psychose spiegeln (formales Denken, Wahrnehmung, Neurokognition)",
+        "Basissymptome repräsentieren die psychotische sog. Basis, d.h. das Symptomspektrum, das nach Episoden weiterhin persistiert"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Welche Aussage zur Beziehung zwischen Dopamin und der Schizophrenie ist richtig?",
+      "options": [
+        "Durch experimentelle Gabe von Dopaminagonisten können leicht psychotische Symptome erzeugt werden",
+        "Auch wenn die wirksame erste Generation der Antipsychotika über einen dopaminergen Antagonismus wirkt, gibt es alternative wirksame Medikamente ohne direkte Affinität zu Dopaminrezeptoren",
+        "Alle genannten Aussagen sind richtig",
+        "Alle wirksamen Antipsychotika wirken über einen Dopaminantagonismus",
+        "Dopaminüberschuss ist der ätiologisch bedeutsamste Prädiktor für die Schizophrenie"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Was ist richtig bezüglich der Häufigkeit im Auftreten schizophrener Symptome?",
+      "options": [
+        "Es lässt sich aufgrund enormer Heterogenität keinerlei Aussage dazu formulieren",
+        "Generell treten Negativsymptome deutlich häufiger auf als Positivsymptome",
+        "Bei jungen Patienten steht der Wahn im Vordergrund, bei älteren Patienten dagegen die Ichstörungen",
+        "Die häufigsten Symptome sind Wahn und Halluzinationen",
+        "Das häufigste Symptom ist der Mangel an Krankheitseinsicht"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Warum macht es Sinn, von einem schizophrenen Formenkreis zu sprechen anstatt von DER Schizophrenie?",
+      "options": [
+        "Weil es trennscharfe Subtypen gibt, wie die Hebephrenie oder paranoide Psychose",
+        "Weil Schizophrenien in ihrem Verlauf stark ihre Form verändern (von Positiv- hin zu Negativsymptomatik)",
+        "Alle Antwortalternativen sind richtig",
+        "Heterogenität in Symptomatik, Verlauf und Response auf Behandlung spricht für verschiedene Grunderkrankungen, die wir diagnostisch lediglich nicht klar differenzieren können",
+        "Es ist schlicht historisch so gewachsen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt entsprechend des „Porsche-vs-Polo\"-Modells für die aversive innere Anspannung von BPS im Vergleich zu gesunden Kontrollen? Welche Aussage dazu ist richtig?",
+      "options": [
+        "BPS reagieren deutlich stärker mit aversiver Anspannung auf Reize als Gesunde, die Down-Regulation der Affekte funktioniert dagegen relativ vergleichbar bei BPS und Gesunden",
+        "BPS reagieren deutlich stärker auf Reize mit aversiver Anspannung und gleichzeitig fehlen ihnen funktionale Strategien, um die Affekte effektiv herunter zu regulieren",
+        "Gesunde erleben ähnlich häufig ähnlich intensive Affekte wie BPS, haben aber funktionalere Strategien, diese zu regulieren",
+        "Die Grundanspannung ist bei BPS und Gesunden vergleichbar, die Reaktivität aversiver Affekte ist bei BPS aber stärker",
+        "Bei Gesunden ist der Anstieg aversiver Anspannung geringer als bei BPS, dafür bleibt der Affekt bei Gesunden länger auf dem erreichten Niveau bestehen (sodass weniger Stimmungsschwankungen resultieren)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Was gilt NICHT für das 70-%-Level der aversiven inneren Anspannung bei Borderline (BPS) versus Gesunden?",
+      "options": [
+        "Auch Gesunde können in Extremsituationen derartigen extremen Stress erleben",
+        "BPS sollen in Therapien lernen, sich bereits bei geringer Anspannung zu regulieren, um das 70-%-Level möglichst kaum noch zu erreichen",
+        "Gesunde Menschen können rein physiologisch eine derart hohe Anspannung, wie sie bei BPS auftreten kann, gar nicht erleben",
+        "Das Level definiert das Ausmaß von höchstem Stress, ab dem das rationale Denken häufig versagt und ab dem BPS häufig auf dysfunktionale Automatismen zurückgreifen",
+        "BPS erleben derartigen extremen Stress häufiger als Gesunde, weil die innere Anspannung aufgrund geringer Regulationsstrategien im Zeitverlauf kumuliert"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Welche neurophysiologischen Besonderheiten werden zur Erklärung der gestörten Affektregulation bei BPS herangezogen?",
+      "options": [
+        "Hyperaktive Amygdala und hypoaktiver präfrontaler Cortex (PFC)",
+        "Verminderte Amygdala und hyperaktiver Präfrontaler Cortex (PFC)",
+        "Diese Regionen haben nichts mit Affektregulation zu tun!",
+        "Verminderte Aktivität der Amygdala und verminderte Aktivität des Präfrontalen Cortex (PFC)",
+        "Hyperaktive Amygdala und hyperaktiver Präfrontaler Cortex (PFC)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Wie ist das Geschlechtsverhältnis der Borderlinestörung (BPS) in der Allgemeinbevölkerung?",
+      "options": [
+        "50 % Frauen zu 50 % Männer",
+        "100 % Frauen zu 0 % Männer",
+        "Daten dazu sind widersprüchlich für eine gültige Aussage",
+        "75 % Frauen zu 25 % Männer",
+        "25 % Frauen zu 75 % Männer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Welcher der folgenden Parameter hat KEINE ätiologische Relevanz für die Borderlinestörung (BPS)?",
+      "options": [
+        "Frühkindliche Vernachlässigung durch Bezugspersonen",
+        "Chronische Invalidierung durch Bezugspersonen",
+        "Schwere Traumatisierung im Erwachsenenalter",
+        "Sexueller Missbrauch in der Kindheit",
+        "ADHS in der Kindheit"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Was trifft NICHT zu auf parasuizidales Verhalten (PV) bei Borderline (BPS)?",
+      "options": [
+        "Bei PV wird beabsichtigt zu sterben, es klappt aber nicht",
+        "PV kann auch auftreten, um soziale Interaktion zu steuern, z.B. Bindung herzustellen",
+        "Selbstverletzung in Form von extrem tiefem Schneiden kann als PV eingestuft werden",
+        "Bei gefährlichem PV kann es notwendig sein, eine Borderlinepatientin (BPS) stationär einzuweisen",
+        "PV ist bei vielen BPS eine Strategie, um Affekte zu regulieren"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Im mittleren Lebensalter erfüllen nur noch relativ wenige ehemalige Borderline (BPS)-Patienten die Diagnose-Kriterien der BPS. Was ist diesbezüglich am ehesten richtig?",
+      "options": [
+        "Aufgrund störungsspezifischer Therapien sind viele BPS bis zum mittleren Erwachsenenalter gut therapiert und quasi genesen",
+        "Betroffene sind nur noch selten mit dem Gesundheitssystem in Kontakt",
+        "Alle Aussagen sind richtig",
+        "Die Symptomatik ist auch im späteren Verlauf noch vorhanden, wird aber nicht mehr diagnostiziert (da mit BPS eher junge Menschen assoziiert werden)",
+        "Anstelle der klassischen BPS-Diagnosekriterien zeigt sich häufig ein chronisch depressiv anmutendes Symptombild"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Wie verläuft die Borderlinestörung (BPS) vom jungen Erwachsenenalter bis hin zum etwa 45. Lebensjahr entsprechend großer Langzeitstudien der Forschergruppen um Gunderson und Zanarini? Welche Aussage dazu ist FALSCH?",
+      "options": [
+        "Temperamentsnahe Symptome bleiben relativ stabil bestehen",
+        "Lebensqualität verschlechtert sich",
+        "Soziale Integration verschlechtert sich",
+        "Verhaltensnahe BPS-Symptome reduzieren sich oft relativ gut",
+        "Die allgemeine Lebenszufriedenheit und Lebensqualität wird besser"
+      ],
+      "answer": 4
+    }
+  ]
+}
