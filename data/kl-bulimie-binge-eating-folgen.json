@@ -1,0 +1,417 @@
+{
+  "id": "kl-bulimie-binge-eating-folgen",
+  "title": "Bulimie, Binge Eating & körperliche Folgen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Essstörungen im Altklausur-Stil: Symptomatik der Bulimia nervosa und die Bandbreite der Kompensationsmaßnahmen einschließlich Insulinpurging, die Kriterien des Binge Eating und seine Folgen sowie die körperlichen, sozialen und psychischen Folgen und die irreversiblen Schäden.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Bulimia nervosa: Symptomatik",
+      "question": "Wo liegt das Körpergewicht bei der Bulimia nervosa typischerweise?",
+      "options": [
+        "Zumeist im Normalbereich.",
+        "Zumeist deutlich oberhalb des Normalbereichs.",
+        "Regelhaft im Bereich einer ausgeprägten Adipositas.",
+        "Regelhaft an der Grenze zum gefährlichen Untergewicht.",
+        "Zumeist deutlich unterhalb des Normalbereichs."
+      ],
+      "answer": 0,
+      "explanation": "Bei der Bulimia nervosa liegt das Gewicht zumeist im Normalbereich – die Angst vor einer Gewichtszunahme besteht dennoch. Ein deutliches Untergewicht kennzeichnet gerade die Anorexie und ist das einzige Unterscheidungsmerkmal zum bulimischen Typus. Übergewicht und Adipositas sind eher beim Binge Eating anzutreffen. Und ein gefährliches Untergewicht wäre ein Schweregradkriterium der Anorexie."
+    },
+    {
+      "topic": "Bulimia nervosa: Symptomatik",
+      "question": "Woraus entwickelt sich eine Bulimia nervosa häufig?",
+      "options": [
+        "Aus einer vorangegangenen anorektischen Symptomatik.",
+        "Aus einer vorangegangenen körperdysmorphen Störung.",
+        "Aus einer vorangegangenen Pica-Störung im Kindesalter.",
+        "Aus einer vorangegangenen Adipositas im Erwachsenenalter.",
+        "Aus einer vorangegangenen Ruminationsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Die Bulimie kann sich aus einer vorangegangenen anorektischen Symptomatik entwickeln; entsprechend wird auch beschrieben, dass die Anorexie häufig in eine Bulimie übergeht. Pica-Störung, Ruminationsstörung, Adipositas und körperdysmorphe Störung werden in diesem Zusammenhang nicht als typische Vorläufer genannt."
+    },
+    {
+      "topic": "Bulimia nervosa: Symptomatik",
+      "question": "Eine Patientin berichtet, ihre Essanfälle endeten meist erst, wenn ihr der Bauch wehtue oder nichts Essbares mehr da sei. Wodurch werden Essanfälle typischerweise beendet?",
+      "options": [
+        "Durch das Eingreifen anwesender Bezugspersonen.",
+        "Durch Bauchschmerzen, Erschöpfung oder äußere Umstände.",
+        "Durch das Eintreten eines regulären Sättigungsgefühls.",
+        "Durch die gezielte Einnahme eines Appetitzüglers.",
+        "Durch das bewusste Erreichen einer geplanten Kaloriengrenze."
+      ],
+      "answer": 1,
+      "explanation": "Die Essanfälle werden durch Bauchschmerzen, Erschöpfung, äußere Umstände oder schlicht durch einen Mangel an Essbarem gestoppt – nicht durch eine reguläre Sättigung. Eine bewusst geplante Kaloriengrenze widerspricht dem Kontrollverlust. Ein regelrechtes Sättigungsgefühl ist gerade nicht der Stoppmechanismus. Ein Appetitzügler ist eine Kompensationsmaßnahme und kein Beendigungsmechanismus. Und Bezugspersonen sind wegen der ausgeprägten Geheimhaltung meist gar nicht anwesend.",
+      "transfer": true
+    },
+    {
+      "topic": "Bulimia nervosa: Symptomatik",
+      "question": "Welches Merkmal zählt am ehesten NICHT zur begleitenden Symptomatik der Bulimia nervosa?",
+      "options": [
+        "Eine ausgeprägte Geheimhaltung der Symptomatik.",
+        "Depressive Verstimmungen und pessimistische Gedanken.",
+        "Deutliche Stimmungsschwankungen im Tagesverlauf.",
+        "Ein durchgehend gehobenes und stabiles Selbstwertgefühl.",
+        "Ein Tagesablauf, der von Gedanken ans Essen geprägt ist."
+      ],
+      "answer": 3,
+      "explanation": "Beschrieben wird gerade ein geringes Selbstwertgefühl – ein gehobenes und stabiles Selbstwertgefühl ist deshalb die gesuchte Ausnahme. Der von Gedanken ans Essen geprägte Tagesablauf, die Geheimhaltung, depressive Verstimmungen mit pessimistischen Gedanken sowie Stimmungsschwankungen und ein erhöhtes Risiko für Drogenmissbrauch gehören zur begleitenden Symptomatik."
+    },
+    {
+      "topic": "Kompensationsmaßnahmen",
+      "hard": true,
+      "trap": "Insulinpurging ist eine bei Diabetikerinnen und Diabetikern spezifische Kompensationsform: Durch Unterdosierung bleibt der Zucker im Blut, statt in die Zellen aufgenommen zu werden.",
+      "question": "Was bezeichnet das sogenannte Insulinpurging?",
+      "options": [
+        "Die absichtliche Überdosierung des Insulins zur Appetitminderung.",
+        "Das Auslassen von Mahlzeiten trotz gespritzten Insulins.",
+        "Die zusätzliche Einnahme von Insulin bei Nichtdiabetikern.",
+        "Die absichtliche Unterdosierung des Insulins zur Gewichtskontrolle.",
+        "Die Kombination von Insulin mit einem Abführmittel."
+      ],
+      "answer": 3,
+      "explanation": "Beim Insulinpurging wird das Insulin absichtlich unterdosiert: Dadurch bleibt der Blutzuckerspiegel hoch und die Zuckeraufnahme in die Zellen wird reduziert, was der Gewichtskontrolle dient. Eine Überdosierung hätte den gegenteiligen Effekt. Eine Einnahme durch Nichtdiabetiker ist damit nicht gemeint. Das Auslassen von Mahlzeiten bei gespritztem Insulin wäre lebensgefährlich, aber nicht das beschriebene Vorgehen. Und eine Kombination mit Abführmitteln ist nicht gemeint."
+    },
+    {
+      "topic": "Kompensationsmaßnahmen",
+      "question": "Welche Substanzgruppe zählt am ehesten NICHT zu den genannten gewichtsregulierenden Mitteln?",
+      "options": [
+        "Abführmittel im teils massiven Übergebrauch.",
+        "Schilddrüsenhormone zur Stoffwechselsteigerung.",
+        "Appetitzügler zur Unterdrückung des Hungers.",
+        "Diuretika zur Ausschwemmung von Flüssigkeit.",
+        "Antipsychotika zur Dämpfung des Antriebs."
+      ],
+      "answer": 4,
+      "explanation": "Antipsychotika werden nicht als gewichtsregulierendes Mittel genannt – im Gegenteil gehen sie eher mit Gewichtszunahme einher. Genannt werden Abführmittel im teils massiven Übergebrauch, Diuretika, Schilddrüsenhormone und Appetitzügler neben dem selbstinduzierten Erbrechen und dem zeitweiligen Hungern."
+    },
+    {
+      "topic": "Kompensationsmaßnahmen",
+      "hard": true,
+      "question": "Warum müssen seltenere Kompensationsmaßnahmen aktiv erfragt werden?",
+      "options": [
+        "Weil sie für die Diagnosestellung ohne Bedeutung sind.",
+        "Weil sie ausschließlich im stationären Rahmen vorkommen.",
+        "Weil sie von Betroffenen nur selten spontan berichtet werden.",
+        "Weil sie ausschließlich bei der Anorexie beschrieben sind.",
+        "Weil sie erst nach Jahren der Erkrankung überhaupt auftreten."
+      ],
+      "answer": 2,
+      "explanation": "Seltenere Maßnahmen wie das Kauen-Spucken-Syndrom, Einläufe, Rumination oder häufige Saunabesuche werden nur selten spontan benannt und müssen deshalb aktiv erfragt werden – das vermittelt zugleich Expertise. Ohne Bedeutung für die Diagnostik sind sie gerade nicht. Eine Beschränkung auf den stationären Rahmen, auf die Anorexie oder auf lange Krankheitsverläufe wird nicht behauptet."
+    },
+    {
+      "topic": "Kompensationsmaßnahmen",
+      "transfer": true,
+      "question": "Eine Patientin mit Bulimie berichtet auf Nachfrage, sie kaue Speisen und spucke sie anschließend wieder aus. Wie ist das einzuordnen?",
+      "options": [
+        "Als typisch anorektisches Essritual ohne Krankheitswert.",
+        "Als Pica-Störung mit Verzehr ungeeigneter Substanzen.",
+        "Als seltenere, aber beschriebene Kompensationsmaßnahme.",
+        "Als Ruminationsstörung mit wiederholtem Hochwürgen.",
+        "Als Verhalten, das mit Essstörungen nichts zu tun hat."
+      ],
+      "answer": 2,
+      "explanation": "Das Kauen-Spucken-Syndrom wird ausdrücklich zu den selteneren Kompensationsmaßnahmen gezählt, die aktiv erfragt werden müssen. Eine Ruminationsstörung setzt das Hochwürgen bereits geschluckter Nahrung voraus und ist zudem nicht zu diagnostizieren, wenn das Verhalten der Gewichtsregulation dient. Die Pica-Störung betrifft den Verzehr ungeeigneter Substanzen. Ein Essritual ohne Krankheitswert verkennt die Funktion des Verhaltens. Und ein fehlender Zusammenhang mit Essstörungen widerspricht der ausdrücklichen Nennung."
+    },
+    {
+      "topic": "Binge Eating",
+      "hard": true,
+      "trap": "Das entscheidende Abgrenzungsmerkmal des Binge Eating ist das Fehlen kompensierender Maßnahmen.",
+      "question": "Wodurch unterscheidet sich das Binge Eating am ehesten von der Bulimia nervosa?",
+      "options": [
+        "Durch das Fehlen eines Kontrollverlusts beim Essen.",
+        "Durch das Fehlen jeder Belastung der Betroffenen.",
+        "Durch das Fehlen von Essanfällen überhaupt.",
+        "Durch das Fehlen einer Funktionseinschränkung im Alltag.",
+        "Durch das Fehlen kompensierender Maßnahmen."
+      ],
+      "answer": 4,
+      "explanation": "Das Binge Eating ist durch wiederkehrende Essanfälle ohne dysfunktionale kompensierende Maßnahmen definiert – genau darin liegt der Unterschied zur Bulimie. Essanfälle sind gerade das Kernmerkmal und fehlen nicht. Der Kontrollverlust über Menge und Ende des Essens ist ausdrücklich Kriterium. Belastung mit Schuld, Scham und Ekel sowie Leidensdruck sind ebenfalls Kriterien. Und eine erhebliche Funktionseinschränkung wird ausdrücklich gefordert."
+    },
+    {
+      "topic": "Binge Eating",
+      "question": "Was kennzeichnet einen Essanfall im Sinne der Diagnosekriterien?",
+      "options": [
+        "Eine deutlich größere Nahrungsmenge in definiertem Zeitraum.",
+        "Eine geringfügig erhöhte Nahrungsmenge über den ganzen Tag.",
+        "Ein Verzehr ausschließlich in Gegenwart anderer Personen.",
+        "Ein Verzehr ausschließlich hochkalorischer Süßspeisen.",
+        "Eine geplante und kontrolliert durchgeführte Mahlzeit."
+      ],
+      "answer": 0,
+      "explanation": "Ein Essanfall ist durch eine deutlich größere Nahrungsmenge in einem definierten Zeitraum gekennzeichnet, verbunden mit einem Kontrollverlust über Menge und Ende des Essens. Eine über den Tag verteilte leichte Mehraufnahme erfüllt das Kriterium nicht. Eine geplante, kontrollierte Mahlzeit widerspricht dem Kontrollverlust. Eine Festlegung auf bestimmte Speisen ist nicht Teil der Definition. Und die Anwesenheit anderer ist kein Kriterium – bei der Bulimie besteht sogar ausgeprägte Geheimhaltung."
+    },
+    {
+      "topic": "Binge Eating",
+      "question": "Welche Häufigkeit wird für die Essanfälle beim Binge Eating verlangt?",
+      "options": [
+        "Mindestens einmal wöchentlich über mehrere Monate.",
+        "Mindestens einmal monatlich über mehrere Jahre.",
+        "Mindestens täglich über einen Zeitraum von Wochen.",
+        "Eine Mindesthäufigkeit ist nicht vorgesehen.",
+        "Mindestens dreimal wöchentlich über ein ganzes Jahr."
+      ],
+      "answer": 0,
+      "explanation": "Gefordert sind Essanfälle mindestens einmal pro Woche über mehrere Monate hinweg. Eine tägliche Häufigkeit oder dreimal wöchentlich über ein Jahr überzeichnet die Anforderung erheblich. Einmal monatlich unterschreitet sie. Und eine Mindesthäufigkeit ist ausdrücklich Bestandteil der Kriterien."
+    },
+    {
+      "topic": "Binge Eating",
+      "question": "Welche Gefühle werden für Betroffene mit Binge Eating besonders genannt?",
+      "options": [
+        "Stolz und Erleichterung nach den Essanfällen.",
+        "Euphorie und gehobene Stimmung im Anschluss.",
+        "Gleichgültigkeit gegenüber dem eigenen Verhalten.",
+        "Ein anhaltendes Gefühl körperlicher Sättigung.",
+        "Schuld, Scham und Ekel nach den Essanfällen."
+      ],
+      "answer": 4,
+      "explanation": "Die Essanfälle sind für die Betroffenen belastend und gehen oft mit Schuld, Scham und Ekel einher. Stolz, Erleichterung oder Euphorie widersprechen der beschriebenen Belastung. Gleichgültigkeit stünde dem geforderten Leidensdruck entgegen. Und ein anhaltendes Sättigungsgefühl ist kein beschriebenes Merkmal."
+    },
+    {
+      "topic": "Binge Eating",
+      "transfer": true,
+      "question": "Ein Patient berichtet über wöchentliche Essanfälle mit Kontrollverlust und starken Schuldgefühlen; Erbrechen, Abführen oder exzessiver Sport bestehen nicht. Welche Diagnose kommt am ehesten in Betracht?",
+      "options": [
+        "Eine Anorexie vom bulimischen Typus.",
+        "Eine Ruminationsstörung.",
+        "Eine Bulimia nervosa.",
+        "Eine Pica-Störung.",
+        "Ein Binge Eating."
+      ],
+      "answer": 4,
+      "explanation": "Wiederkehrende Essanfälle mit Kontrollverlust und Leidensdruck, aber ohne kompensierende Maßnahmen, sind genau die Definition des Binge Eating. Die Bulimia nervosa und die Anorexie vom bulimischen Typus setzen beide gewichtsregulierende Gegenmaßnahmen voraus, die hier ausdrücklich fehlen; die Anorexie zusätzlich ein Untergewicht. Die Ruminationsstörung ist über das Hochwürgen definiert, die Pica-Störung über den Verzehr ungeeigneter Substanzen."
+    },
+    {
+      "topic": "Binge Eating",
+      "hard": true,
+      "question": "Welcher Anteil der Betroffenen mit Binge Eating ist zusätzlich übergewichtig oder adipös?",
+      "options": [
+        "Ausschließlich männliche Betroffene der Störung.",
+        "Ein zu vernachlässigender Bruchteil der Betroffenen.",
+        "Ein erheblicher Teil, aber nicht die Mehrheit.",
+        "Praktisch alle Betroffenen im Verlauf.",
+        "Ausschließlich Betroffene im höheren Lebensalter."
+      ],
+      "answer": 2,
+      "explanation": "Ein erheblicher, aber unter der Hälfte liegender Anteil der Betroffenen mit Binge Eating ist zusätzlich übergewichtig oder adipös – Binge Eating und Adipositas sind also gerade nicht deckungsgleich. Dass praktisch alle betroffen wären, überzeichnet den Zusammenhang. Ein zu vernachlässigender Bruchteil unterschätzt ihn. Und eine Beschränkung auf Männer oder auf höheres Lebensalter besteht nicht."
+    },
+    {
+      "topic": "Binge Eating",
+      "question": "Welche somatische Folge zählt am ehesten NICHT zu den beim Binge Eating genannten?",
+      "options": [
+        "Schlafstörungen und ein schlechter Fitnesszustand.",
+        "Der erhöhte Blutdruck und Herzerkrankungen.",
+        "Die Osteoporose mit verminderter Knochendichte.",
+        "Die Zuckerkrankheit als Stoffwechselerkrankung.",
+        "Der erhöhte Cholesterinwert im Blut."
+      ],
+      "answer": 2,
+      "explanation": "Die Osteoporose mit verminderter Knochendichte ist eine Folge des chronischen Untergewichts bei der Anorexie und wird beim Binge Eating nicht genannt – sie ist die gesuchte Ausnahme. Aufgeführt werden hoher Blutdruck, Herzerkrankungen, Arthritis, erhöhtes Cholesterin, Diabetes, Schlafstörungen und ein allgemein schlechter Gesundheits- und Fitnesszustand."
+    },
+    {
+      "topic": "Binge Eating",
+      "question": "Welche psychischen Folgen werden für das Binge Eating genannt?",
+      "options": [
+        "Ausschließlich psychotische Symptome mit Wahnbildung.",
+        "Affektive Störungen, Angststörungen und Suizidalität.",
+        "Ausschließlich dissoziative Zustände mit Amnesien.",
+        "Psychische Folgen werden für dieses Bild nicht berichtet.",
+        "Ausschließlich Zwangsstörungen mit Kontrollhandlungen."
+      ],
+      "answer": 1,
+      "explanation": "Als psychische Folgen werden affektive Störungen, Angststörungen, Persönlichkeitsstörungen und Suizidalität genannt. Psychotische Symptome, dissoziative Zustände oder Zwangsstörungen werden in dieser Aufzählung nicht geführt. Und dass keine psychischen Folgen berichtet würden, widerspricht der ausdrücklichen Auflistung."
+    },
+    {
+      "topic": "Körperliche Folgen des Erbrechens",
+      "question": "Welche körperliche Folge geht am ehesten NICHT auf das Erbrechen zurück?",
+      "options": [
+        "Die Verletzungen im Rachen- und Mundbereich.",
+        "Die verminderte Knochendichte im Sinne einer Osteoporose.",
+        "Die Einrisse in der Speiseröhre durch das Erbrechen.",
+        "Die Zahnschäden durch den wiederholten Säurekontakt.",
+        "Die Schwellung der Speicheldrüsen im Gesichtsbereich."
+      ],
+      "answer": 1,
+      "explanation": "Die Osteoporose ist eine Folge des chronischen Untergewichts und nicht des Erbrechens – sie ist die gesuchte Ausnahme. Auf das Erbrechen gehen Zahnschäden, Schwellungen der Speicheldrüsen, Speiseröhreneinrisse, Verletzungen im Rachen- und Mundbereich, Magenwandschäden durch Überlastung sowie Nieren- und Herzrhythmusstörungen durch Elektrolytverlust zurück."
+    },
+    {
+      "topic": "Körperliche Folgen des Erbrechens",
+      "hard": true,
+      "trap": "Der rasche Anstieg und Abfall des Kaliums durch die Essanfälle ist gefährlicher als der chronische Mangel bei der Anorexie.",
+      "question": "Zwei Patientinnen: Die eine hungert seit Jahren chronisch, die andere erbricht mehrmals täglich nach Essanfällen. Warum ist die Elektrolytlage der zweiten besonders gefährlich?",
+      "options": [
+        "Wegen der vollständigen Unfähigkeit zur Flüssigkeitsaufnahme.",
+        "Wegen des dauerhaft stark erhöhten Kaliumspiegels im Blut.",
+        "Wegen des langsam über Jahre schleichenden Kaliummangels.",
+        "Wegen des raschen Anstiegs und Abfalls des Kaliumspiegels.",
+        "Wegen des vollständigen Ausfalls der Nierenfunktion."
+      ],
+      "answer": 3,
+      "explanation": "Der schnelle Anstieg und Abfall des Kaliums durch die Essanfälle kann zum Tod führen und ist ausdrücklich gefährlicher als der chronische Mangel bei der Anorexie – die Schwankung selbst ist das Problem. Ein langsamer schleichender Mangel beschreibt gerade die weniger gefährliche Konstellation bei der Anorexie. Ein dauerhaft erhöhter Spiegel, ein Nierenausfall von Beginn an oder eine Unfähigkeit zur Flüssigkeitsaufnahme werden nicht beschrieben.",
+      "transfer": true
+    },
+    {
+      "topic": "Körperliche Folgen des Erbrechens",
+      "question": "Welche Folge des Erbrechens betrifft die Stimme?",
+      "options": [
+        "Eine chronische Heiserkeit.",
+        "Ein Stottern unter emotionaler Belastung.",
+        "Eine verlangsamte und schleppende Sprechweise.",
+        "Ein vollständiger Stimmverlust von Beginn an.",
+        "Eine dauerhafte Erhöhung der Stimmlage."
+      ],
+      "answer": 0,
+      "explanation": "Als Folge wird eine chronische Heiserkeit genannt, die auf die wiederholte Säureeinwirkung zurückgeht. Ein vollständiger Stimmverlust, eine dauerhafte Erhöhung der Stimmlage, ein Stottern oder eine verlangsamte Sprechweise werden in diesem Zusammenhang nicht beschrieben."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "hard": true,
+      "trap": "Der Hirnmassenverlust gilt als vermutlich reversibel – der Knochendichteverlust ausdrücklich nicht.",
+      "question": "Welche Aussage zur Reversibilität der körperlichen Folgen trifft am ehesten zu?",
+      "options": [
+        "Zur Reversibilität liegen keinerlei Einschätzungen vor.",
+        "Beide Veränderungen gelten als endgültig irreversibel.",
+        "Der Verlust der Knochendichte gilt als gut reversibel.",
+        "Der Hirnmassenverlust gilt als vermutlich reversibel.",
+        "Beide Veränderungen gelten als vollständig reversibel."
+      ],
+      "answer": 3,
+      "explanation": "Der Verlust von Hirnmasse – grauer Substanz in der Hirnrinde sowie eine Volumenminderung in tieferen Regionen – gilt als vermutlich reversibel, während die Verringerung der Knochendichte ausdrücklich als nicht reversibel markiert ist. Eine gute Reversibilität der Knochendichte kehrt das um. Weder eine vollständige Reversibilität noch eine durchgehende Irreversibilität beider Veränderungen trifft zu. Und Einschätzungen zur Reversibilität liegen sehr wohl vor."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "question": "Womit wird das Ausmaß der Volumenminderung des Gehirns verglichen?",
+      "options": [
+        "Mit dem Ausmaß bei einer Alzheimer-Erkrankung.",
+        "Mit dem Ausmaß bei einer schizophrenen Erkrankung.",
+        "Mit dem Ausmaß bei einer chronischen Alkoholabhängigkeit.",
+        "Mit dem Ausmaß bei einem normalen Alterungsprozess.",
+        "Mit dem Ausmaß nach einem schweren Schlaganfall."
+      ],
+      "answer": 0,
+      "explanation": "Die Volumenminderung in der Tiefe des Gehirns erreicht ein Ausmaß, das dem bei einer Alzheimer-Erkrankung ähnlich ist – vermutlich aber reversibel. Ein Vergleich mit Schlaganfall, Schizophrenie, Alkoholabhängigkeit oder normalem Altern wird an dieser Stelle nicht gezogen."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "hard": true,
+      "question": "Warum kommt es bei ausgeprägtem Untergewicht zum Verlust von Muskulatur und Hirnmasse?",
+      "options": [
+        "Weil beide durch Abführmittel direkt angegriffen werden.",
+        "Weil beide durch das Erbrechen unmittelbar geschädigt werden.",
+        "Weil beide dem Körper als Eiweißquelle dienen.",
+        "Weil beide durch übermäßigen Sport überlastet werden.",
+        "Weil beide durch den Kaliumverlust unmittelbar abgebaut werden."
+      ],
+      "answer": 2,
+      "explanation": "Muskulatur und Hirnmasse werden abgebaut, weil der Körper sie bei anhaltendem Mangel als Eiweißquelle heranzieht. Das Erbrechen schädigt Rachen, Zähne, Speiseröhre und Magenwand. Der Kaliumverlust wirkt sich auf Nieren und Herzrhythmus aus. Abführmittel greifen den Verdauungstrakt an. Und übermäßiger Sport überlastet den Bewegungsapparat, erklärt aber nicht den Abbau von Hirnmasse."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "question": "Welche körperliche Folge des Untergewichts wird am ehesten NICHT genannt?",
+      "options": [
+        "Der Verlust an Muskulatur als Eiweißquelle.",
+        "Die Schwellung der Speicheldrüsen im Gesicht.",
+        "Die Ausbildung von Ödemen im Gewebe.",
+        "Die Verringerung der Knochendichte.",
+        "Ausgeprägte Konzentrationsstörungen."
+      ],
+      "answer": 1,
+      "explanation": "Die Schwellung der Speicheldrüsen ist eine Folge des Erbrechens und nicht des Untergewichts – sie ist die gesuchte Ausnahme. Als Folgen des Untergewichts genannt werden der Verlust von Muskulatur und Hirnmasse als Eiweißquellen, Ödeme, die Verringerung der Knochendichte sowie Konzentrationsstörungen."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "transfer": true,
+      "question": "Bei einer ehemaligen Anorexie-Patientin bestehen nach jahrelanger Remission weiterhin Zahnschäden und eine verminderte Knochendichte. Wie ist das einzuordnen?",
+      "options": [
+        "Als von der Essstörung unabhängige Befunde.",
+        "Als irreversible Schäden der Erkrankung.",
+        "Als Zeichen eines aktuellen Rückfalls.",
+        "Als vollständig reversible Veränderungen.",
+        "Als Nebenwirkungen der Psychotherapie."
+      ],
+      "answer": 1,
+      "explanation": "Zahnstatus und Knochendichte werden ausdrücklich als irreversible Schäden geführt – sie bleiben also auch nach Remission bestehen. Ein aktueller Rückfall ist damit nicht belegt. Eine vollständige Reversibilität gilt gerade nicht für diese beiden Bereiche, wohl aber vermutlich für den Hirnmassenverlust. Nebenwirkungen der Psychotherapie sind nicht gemeint. Und ein fehlender Zusammenhang mit der Essstörung widerspricht der Zuordnung."
+    },
+    {
+      "topic": "Körperliche Folgen des Untergewichts",
+      "question": "Welche weitere langfristige Folge wird für ehemalige Anorexie-Betroffene genannt?",
+      "options": [
+        "Sie zeigen regelhaft eine dauerhafte Sehverschlechterung.",
+        "Sie erkranken regelhaft an einer chronischen Bronchitis.",
+        "Sie entwickeln regelhaft eine Leberzirrhose im Verlauf.",
+        "Sie werden seltener schwanger als andere Frauen.",
+        "Sie entwickeln regelhaft eine Schilddrüsenerkrankung."
+      ],
+      "answer": 3,
+      "explanation": "Als weitere langfristige Folge wird genannt, dass Patientinnen mit ehemaliger Anorexie seltener schwanger werden. Schilddrüsenerkrankungen, chronische Bronchitis, Leberzirrhose und Sehverschlechterungen werden in diesem Zusammenhang nicht als Folgen aufgeführt."
+    },
+    {
+      "topic": "Soziale und psychische Folgen",
+      "question": "Welche soziale Folge wird für Essstörungen genannt?",
+      "options": [
+        "Eine deutliche Entlastung der Freizeitplanung.",
+        "Eine besonders enge Einbindung in die Herkunftsfamilie.",
+        "Ein erheblicher Zugewinn an freier Zeit im Alltag.",
+        "Ein deutlicher Zugewinn an sozialen Kontakten.",
+        "Eine massive finanzielle Belastung der Betroffenen."
+      ],
+      "answer": 4,
+      "explanation": "Als soziale Folgen werden ein hoher Zeitaufwand, die Einschränkung der Freizeitplanung, eine massive finanzielle Belastung und die Isolierung genannt. Ein Zugewinn an Kontakten, eine Entlastung der Freizeitplanung und ein Zugewinn an freier Zeit beschreiben jeweils das Gegenteil. Und eine besonders enge familiäre Einbindung wird in diesem Zusammenhang nicht als Folge geführt."
+    },
+    {
+      "topic": "Soziale und psychische Folgen",
+      "question": "Welche psychische Folge zählt am ehesten NICHT zu den genannten?",
+      "options": [
+        "Depressive Symptomatik im Krankheitsverlauf.",
+        "Eine gehobene, überschwängliche Grundstimmung.",
+        "Eine Selbstentfremdung im eigenen Erleben.",
+        "Ein ausgeprägter Selbsthass der Betroffenen.",
+        "Eine ausgeprägte Suizidalität der Betroffenen."
+      ],
+      "answer": 1,
+      "explanation": "Eine gehobene Grundstimmung gehört nicht zu den genannten psychischen Folgen und ist damit die gesuchte Ausnahme. Aufgeführt werden Selbsthass, Selbstentfremdung, Depressionen und Suizidalität."
+    },
+    {
+      "topic": "Soziale und psychische Folgen",
+      "transfer": true,
+      "question": "Eine Patientin verbringt täglich mehrere Stunden mit Planung, Einkauf und Nachbereitung ihrer Essanfälle und zieht sich zunehmend zurück. Welche Folgenebene beschreibt das am ehesten?",
+      "options": [
+        "Die körperliche Folgenebene der Erkrankung.",
+        "Die irreversible Schädigungsebene der Erkrankung.",
+        "Die soziale Folgenebene der Erkrankung.",
+        "Keine der beschriebenen Folgenebenen.",
+        "Die endokrine Folgenebene der Erkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Hoher Zeitaufwand, Einschränkung der Freizeitplanung, finanzielle Belastung und Isolierung bilden zusammen die soziale Folgenebene. Die körperliche Ebene umfasst die Organ- und Stoffwechselschäden. Die endokrine Ebene betrifft die Gonadenachse und ist als Kriterium entfallen. Die irreversible Schädigungsebene meint Zahnstatus und Knochendichte. Und eine Zuordnung ist hier eindeutig möglich."
+    },
+    {
+      "topic": "Bulimia nervosa: Symptomatik",
+      "question": "Wo liegt der Häufigkeitsgipfel für die Entwicklung einer Bulimie aus anorektischer Symptomatik?",
+      "options": [
+        "Im mittleren Erwachsenenalter um das vierzigste Lebensjahr.",
+        "Ein Häufigkeitsgipfel lässt sich hier nicht angeben.",
+        "Im mittleren Kindesalter noch vor der Pubertät.",
+        "Im höheren Lebensalter nach dem Berufsaustritt.",
+        "Im späten Jugendalter beziehungsweise jungen Erwachsenenalter."
+      ],
+      "answer": 4,
+      "explanation": "Der Häufigkeitsgipfel für die Entwicklung aus anorektischer Symptomatik liegt im späten Jugendalter beziehungsweise am Übergang zum jungen Erwachsenenalter. Das mittlere Kindesalter liegt deutlich davor, das mittlere und höhere Lebensalter deutlich danach. Und ein Häufigkeitsgipfel ist ausdrücklich angegeben."
+    },
+    {
+      "topic": "Binge Eating",
+      "hard": true,
+      "question": "Welches Kriterium des Essanfalls wird im DSM zusätzlich ausdrücklich hervorgehoben?",
+      "options": [
+        "Die Art der verzehrten Lebensmittel im Anfall.",
+        "Die Anwesenheit anderer während des Essanfalls.",
+        "Die genaue Kalorienmenge des Essanfalls.",
+        "Der Kontrollverlust während des Essanfalls.",
+        "Die Tageszeit des Auftretens der Essanfälle."
+      ],
+      "answer": 3,
+      "explanation": "Im DSM wird das Kriterium des Kontrollverlusts während des Essanfalls zusätzlich ausdrücklich aufgeführt. Eine genaue Kalorienmenge, die Tageszeit, die Anwesenheit anderer oder die Art der Lebensmittel sind demgegenüber keine Kriterien des Essanfalls."
+    }
+  ]
+}

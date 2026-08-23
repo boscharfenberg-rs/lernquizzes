@@ -1,0 +1,418 @@
+{
+  "id": "kl-anorexia-nervosa-kriterien",
+  "title": "Anorexia nervosa: Kriterien & Schweregrade",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Anorexia nervosa im Altklausur-Stil: die vier klassischen Diagnosekriterien, die Körperschemastörung als überwertige Idee, das im ICD-11 entfallene endokrine Kriterium, typisch anorektische Verhaltensweisen, restriktiver und bulimischer Typus, die drei Schweregrade einschließlich der Recovery-Variante sowie die Abgrenzung zur Bulimia nervosa.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Begriffe und Kriterienüberblick",
+      "question": "Was bedeutet der Wortbestandteil „anorexie“ ursprünglich?",
+      "options": [
+        "Ochsenhunger im Sinne eines Heißhungers.",
+        "Angst vor einer Gewichtszunahme.",
+        "Verzerrte Wahrnehmung des eigenen Körpers.",
+        "Selbst herbeigeführter Gewichtsverlust.",
+        "Appetitlosigkeit."
+      ],
+      "answer": 4,
+      "explanation": "Anorexie bedeutet wörtlich Appetitlosigkeit, der Zusatz nervosa steht für psychisch bedingt. Der Ochsenhunger ist die wörtliche Bedeutung von Bulimie. Verzerrte Körperwahrnehmung, selbst herbeigeführter Gewichtsverlust und die Angst vor Gewichtszunahme sind zwar Kriterien der Störung, aber nicht die Wortbedeutung des Begriffs."
+    },
+    {
+      "topic": "Begriffe und Kriterienüberblick",
+      "question": "Was bedeutet der Begriff „Bulimie“ wörtlich übersetzt?",
+      "options": [
+        "Kontrollverlust über die Nahrungsmenge.",
+        "Verzehr nicht geeigneter Substanzen.",
+        "Wiederholtes Hochwürgen von Nahrung.",
+        "Appetitlosigkeit ohne körperliche Ursache.",
+        "Ochsenhunger."
+      ],
+      "answer": 4,
+      "explanation": "Bulimie setzt sich aus den griechischen Wörtern für Ochse und Hunger zusammen und bedeutet damit wörtlich Ochsenhunger. Appetitlosigkeit ist die Wortbedeutung von Anorexie. Das Hochwürgen kennzeichnet die Ruminationsstörung, der Verzehr ungeeigneter Substanzen die Pica-Störung. Und der Kontrollverlust ist ein Kriterium des Essanfalls, aber nicht die Wortbedeutung."
+    },
+    {
+      "topic": "Begriffe und Kriterienüberblick",
+      "question": "Welches Kriterium zählt am ehesten NICHT zu den klassischen Kriterien der Anorexia nervosa?",
+      "options": [
+        "Wiederkehrende Essanfälle mit Kontrollverlust.",
+        "Eine Störung des eigenen Körperschemas.",
+        "Ein Körpergewicht unterhalb der Gewichtsgrenze.",
+        "Ein selbst herbeigeführter Gewichtsverlust.",
+        "Eine endokrine Störung der Gonadenachse."
+      ],
+      "answer": 0,
+      "explanation": "Wiederkehrende Essanfälle mit Kontrollverlust sind das Kernkriterium von Bulimie und Binge Eating und nicht der klassischen Anorexie – sie sind die gesuchte Ausnahme. Die vier klassischen Kriterien sind das Gewichtskriterium, der selbst herbeigeführte Gewichtsverlust, die Körperschemastörung und die endokrine Störung der Hypothalamus-Hypophysen-Gonaden-Achse, wobei letztere im ICD-11 entfällt."
+    },
+    {
+      "topic": "Gewichts- und Verhaltenskriterium",
+      "question": "Bei einer Dreizehnjährigen soll das Gewichtskriterium der Anorexie geprüft werden. Woran orientiert sich die Beurteilung?",
+      "options": [
+        "Ein Gewicht unterhalb der fünfzigsten Perzentile.",
+        "Ein Gewichtsverlust von mindestens einem Viertel.",
+        "Ein Gewicht unterhalb des Erwachsenendurchschnitts.",
+        "Ein Gewicht unterhalb der fünften Perzentile.",
+        "Derselbe absolute Grenzwert wie bei Erwachsenen."
+      ],
+      "answer": 3,
+      "explanation": "Bei Kindern und Adoleszenten wird ein Gewicht unterhalb der fünften Perzentile als Kriterium verwendet – der Bezug ist also die altersbezogene Verteilung und nicht ein absoluter Wert. Die fünfzigste Perzentile entspräche dem Median und damit dem Durchschnitt. Derselbe absolute Grenzwert wie bei Erwachsenen wäre bei Wachstum und Entwicklung unbrauchbar. Ein prozentualer Gewichtsverlust ist nicht das Kriterium. Und der Erwachsenendurchschnitt ist als Bezugsgröße ungeeignet.",
+      "transfer": true
+    },
+    {
+      "topic": "Gewichts- und Verhaltenskriterium",
+      "question": "Welches Verhalten zählt am ehesten NICHT zu den Formen des selbst herbeigeführten Gewichtsverlusts?",
+      "options": [
+        "Der Gebrauch von Appetitzüglern oder von Diuretika.",
+        "Übertriebene körperliche Aktivität zur Gewichtsregulation.",
+        "Der Verzehr nicht zum Verzehr geeigneter Substanzen.",
+        "Das selbstinduzierte Erbrechen nach den Mahlzeiten.",
+        "Das selbstinduzierte Abführen mit entsprechenden Mitteln."
+      ],
+      "answer": 2,
+      "explanation": "Der Verzehr ungeeigneter Substanzen kennzeichnet die Pica-Störung und dient nicht der Gewichtsregulation – er ist die gesuchte Ausnahme. Genannt werden als Formen des selbst herbeigeführten Gewichtsverlusts die Vermeidung hochkalorischer Speisen sowie selbstinduziertes Erbrechen, selbstinduziertes Abführen, übertriebene körperliche Aktivität und der Gebrauch von Appetitzüglern oder Diuretika."
+    },
+    {
+      "topic": "Gewichts- und Verhaltenskriterium",
+      "transfer": true,
+      "question": "Eine Patientin meidet konsequent hochkalorische Speisen und trainiert zusätzlich mehrere Stunden täglich. Welchem Kriterium entspricht das am ehesten?",
+      "options": [
+        "Dem selbst herbeigeführten Gewichtsverlust.",
+        "Dem Kriterium des Kontrollverlusts beim Essen.",
+        "Dem Gewichtskriterium der Anorexia nervosa.",
+        "Der endokrinen Störung der Gonadenachse.",
+        "Der Störung des eigenen Körperschemas."
+      ],
+      "answer": 0,
+      "explanation": "Die Vermeidung hochkalorischer Speisen in Verbindung mit übertriebener körperlicher Aktivität ist genau die Beschreibung des zweiten Kriteriums, des selbst herbeigeführten Gewichtsverlusts. Die Körperschemastörung betrifft die Wahrnehmung und Bewertung des eigenen Körpers. Das Gewichtskriterium bezieht sich auf das tatsächlich erreichte Gewicht. Die endokrine Störung ist eine körperliche Folge. Und der Kontrollverlust gehört zum Essanfall bei Bulimie und Binge Eating."
+    },
+    {
+      "topic": "Körperschemastörung",
+      "hard": true,
+      "trap": "Die Angst, dick zu werden, gilt als überwertige Idee – nicht als Wahn. Der Realitätsbezug ist eingeschränkt, aber nicht aufgehoben.",
+      "question": "Wie wird die Angst, zu dick zu werden, bei der Anorexia nervosa psychopathologisch eingeordnet?",
+      "options": [
+        "Als Halluzination in der Körperwahrnehmung.",
+        "Als Zwangsgedanke mit erhaltener Einsicht.",
+        "Als synthymer Wahn mit vollem Realitätsverlust.",
+        "Als tiefverwurzelte überwertige Idee.",
+        "Als bloße Sorge ohne jeden Krankheitswert."
+      ],
+      "answer": 3,
+      "explanation": "Die Angst, zu dick zu werden, besteht als tiefverwurzelte, überwertige Idee – der Realitätsbezug ist damit eingeschränkt, aber nicht wie beim Wahn aufgehoben. Ein synthymer Wahn mit vollem Realitätsverlust überzeichnet das Bild. Ein Zwangsgedanke wäre ich-dyston und würde als fremd erlebt. Eine Halluzination wäre eine Wahrnehmung ohne entsprechenden Reiz. Und eine bloße Sorge ohne Krankheitswert unterschätzt die Tiefe der Überzeugung."
+    },
+    {
+      "topic": "Körperschemastörung",
+      "question": "Was geschieht typischerweise, wenn Betroffene ihre selbst gesetzte niedrige Gewichtsschwelle erreichen?",
+      "options": [
+        "Die Betroffenen nehmen anschließend wieder gezielt zu.",
+        "Die Schwelle verliert an Bedeutung und wird neu gesetzt.",
+        "Die Symptomatik klingt daraufhin regelhaft vollständig ab.",
+        "Die Diagnose ist ab diesem Zeitpunkt nicht mehr zu stellen.",
+        "Die Körperschemastörung verschwindet mit dem Erreichen."
+      ],
+      "answer": 1,
+      "explanation": "Die Betroffenen legen eine sehr niedrige Gewichtsschwelle für sich fest, die bei deren Erreichen zumeist an Bedeutung verliert – die Schwelle wandert also nach unten. Ein regelhaftes Abklingen der Symptomatik oder eine gezielte Gewichtszunahme widerspricht dem direkt. Die Körperschemastörung verschwindet nicht mit dem Erreichen eines Zielgewichts. Und die Diagnose bleibt selbstverständlich weiter zu stellen."
+    },
+    {
+      "topic": "Körperschemastörung",
+      "question": "Welches Merkmal gehört am ehesten NICHT zur Körperschemastörung nach ICD-11?",
+      "options": [
+        "Die zentrale Rolle des Gewichts für die Selbsteinschätzung.",
+        "Das ständige Wiegen oder Vermessen des eigenen Körpers.",
+        "Die vollständige Ablehnung jeder Nahrungsaufnahme.",
+        "Die ständige Überwachung des Kaloriengehalts der Speisen.",
+        "Die übermäßige Beschäftigung mit Gewicht oder Körperform."
+      ],
+      "answer": 2,
+      "explanation": "Eine vollständige Nahrungsverweigerung ist kein Bestandteil der Körperschemastörung – sie ist die gesuchte Ausnahme. Zur Körperschemastörung zählen die übermäßige Beschäftigung mit Gewicht oder Körperform, die Überbewertung des niedrigen Gewichts für die Selbsteinschätzung, das ständige Wiegen und Überprüfen mit Maßbändern oder Spiegeln, die Überwachung des Kaloriengehalts, die Suche nach Informationen zur Gewichtsabnahme sowie extremes Vermeidungsverhalten."
+    },
+    {
+      "topic": "Körperschemastörung",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine deutlich untergewichtige Patientin bezeichnet ihre Figur im Gespräch als „eigentlich ganz normal, eher zu füllig“. Wie ist das einzuordnen?",
+      "options": [
+        "Als körperdysmorphe Störung ohne Essstörungsbezug.",
+        "Als Fehlwahrnehmung im Rahmen der Körperschemastörung.",
+        "Als bewusste Falschangabe zur Vermeidung der Behandlung.",
+        "Als wahnhafte Verkennung mit aufgehobenem Realitätsbezug.",
+        "Als angemessene Einschätzung bei erhaltenem Körperschema."
+      ],
+      "answer": 1,
+      "explanation": "Dass Körpergewicht oder Körperform fälschlicherweise als normal oder sogar als übermäßig empfunden werden, ist ausdrücklich Bestandteil der Körperschemastörung im ICD-11. Eine bewusste Falschangabe unterstellt Absicht, wo eine Fehlwahrnehmung vorliegt. Eine körperdysmorphe Störung ohne Essstörungsbezug träfe eher auf den pathologischen Muskelaufbau zu. Ein aufgehobener Realitätsbezug überzeichnet die überwertige Idee zum Wahn. Und angemessen ist die Einschätzung bei deutlichem Untergewicht gerade nicht."
+    },
+    {
+      "topic": "Endokrines Kriterium",
+      "hard": true,
+      "trap": "Das endokrine Kriterium ist ein Auslaufmodell: Im ICD-11 entfällt es – auch deshalb, weil es Männer systematisch benachteiligte.",
+      "question": "Was gilt für das endokrine Kriterium der Anorexia nervosa im ICD-11?",
+      "options": [
+        "Es wurde durch ein hormonelles Laborkriterium ersetzt.",
+        "Es entfällt vollständig als Diagnosekriterium.",
+        "Es gilt nur noch für männliche Betroffene fort.",
+        "Es gilt weiterhin unverändert für beide Geschlechter.",
+        "Es wurde als zwingendes Kriterium neu aufgenommen."
+      ],
+      "answer": 1,
+      "explanation": "Das endokrine Kriterium der Hypothalamus-Hypophysen-Gonaden-Achse entfällt im ICD-11 vollständig – bei Frauen die Amenorrhö, bei Männern der Libido- und Potenzverlust. Eine Neuaufnahme als zwingendes Kriterium kehrt das um. Ein unveränderter Fortbestand widerspricht der Änderung, ebenso eine Fortgeltung allein für Männer. Und ein ersetzendes Laborkriterium wurde nicht eingeführt."
+    },
+    {
+      "topic": "Endokrines Kriterium",
+      "question": "Ein männlicher Patient mit Anorexie berichtet über nachlassendes sexuelles Interesse. Welchem der klassischen Kriterien entsprach das nach der Vorgängerfassung des ICD?",
+      "options": [
+        "Dem Kriterium der Körperschemastörung.",
+        "Dem Kriterium des selbst herbeigeführten Gewichtsverlusts.",
+        "Keinem der klassischen Kriterien der Anorexie.",
+        "Dem endokrinen Kriterium der Gonadenachse.",
+        "Dem Gewichtskriterium der Anorexia nervosa."
+      ],
+      "answer": 3,
+      "explanation": "Das vierte klassische Kriterium betraf die endokrine Störung der Hypothalamus-Hypophysen-Gonaden-Achse, die sich bei Männern als Libido- und Potenzverlust und bei Frauen als Amenorrhö äußerte; im ICD-11 entfällt es. Das Gewichtskriterium bezieht sich auf das erreichte Gewicht, der selbst herbeigeführte Gewichtsverlust auf das Verhalten und die Körperschemastörung auf die Wahrnehmung. Und zugeordnet werden konnte das Symptom sehr wohl.",
+      "transfer": true
+    },
+    {
+      "topic": "Endokrines Kriterium",
+      "question": "Was ist zur Pubertätsentwicklung bei sehr frühem Erkrankungsbeginn beschrieben?",
+      "options": [
+        "Die Entwicklung bleibt auch nach Remission dauerhaft aus.",
+        "Die Entwicklungsschritte laufen unverändert und pünktlich ab.",
+        "Die Entwicklungsschritte sind verzögert oder gehemmt.",
+        "Die Entwicklungsschritte laufen deutlich beschleunigt ab.",
+        "Die Entwicklung ist von der Erkrankung völlig unabhängig."
+      ],
+      "answer": 2,
+      "explanation": "Bei Beginn vor der Pubertät ist die Abfolge der pubertären Entwicklungsschritte verzögert oder gehemmt – mit Wachstumsstopp, fehlender Brustentwicklung und primärer Amenorrhoe bei Mädchen sowie kindlich bleibenden Genitalien bei Jungen. Ein unveränderter oder beschleunigter Ablauf widerspricht dem. Nach Remission wird die Pubertätsentwicklung häufig normal abgeschlossen, wenn auch mit verspäteter Menarche, weshalb ein dauerhaftes Ausbleiben nicht zutrifft. Und eine Unabhängigkeit von der Erkrankung besteht gerade nicht."
+    },
+    {
+      "topic": "Typische Verhaltensweisen",
+      "hard": true,
+      "trap": "Die typischen Essrituale sind charakteristisch, aber ausdrücklich kein Diagnosekriterium.",
+      "question": "Welchen Status haben die typischen anorektischen Essrituale?",
+      "options": [
+        "Sie treten erst nach vollständiger Remission auf.",
+        "Sie sind ausschließlich bei der Bulimie beschrieben.",
+        "Sie sind typisch, aber kein Diagnosekriterium.",
+        "Sie sind ein Ausschlusskriterium für die Diagnose.",
+        "Sie sind ein zwingendes Diagnosekriterium der Störung."
+      ],
+      "answer": 2,
+      "explanation": "Die spezifischen Essrituale werden ausdrücklich als typisch, aber als kein Diagnosekriterium gekennzeichnet. Ein zwingendes Kriterium sind sie deshalb nicht, und ein Ausschlusskriterium erst recht nicht. Eine Beschränkung auf die Bulimie trifft nicht zu, da sie gerade als anorektische Verhaltensweisen beschrieben werden. Und ein Auftreten erst nach Remission widerspricht ihrem Charakter als Krankheitsverhalten."
+    },
+    {
+      "topic": "Typische Verhaltensweisen",
+      "question": "Welches Verhalten zählt am ehesten NICHT zu den typischen anorektischen Essritualen?",
+      "options": [
+        "Das hastige Verschlingen großer Nahrungsmengen.",
+        "Das genaue Überprüfen der Portionsgrößen.",
+        "Das auffällig langsame Essen der Mahlzeiten.",
+        "Das Kleinschneiden und Abwiegen der Speisen.",
+        "Die hochselektive Zusammenstellung der Nahrung."
+      ],
+      "answer": 0,
+      "explanation": "Das hastige Verschlingen großer Mengen beschreibt den Essanfall bei Bulimie und Binge Eating und ist damit die gesuchte Ausnahme. Als typisch anorektische Rituale genannt werden das langsame Essen, das Kleinschneiden und Abwiegen sowie die hochselektive Zusammenstellung der Nahrung."
+    },
+    {
+      "topic": "Typische Verhaltensweisen",
+      "question": "Was entwickelt sich im Verlauf einer Anorexia nervosa häufig zusätzlich?",
+      "options": [
+        "Ein wiederholtes Hochwürgen bereits geschluckter Nahrung.",
+        "Essanfälle mit anschließendem Purging-Verhalten.",
+        "Ein Verzehr nicht zum Verzehr geeigneter Substanzen.",
+        "Ein anhaltendes Desinteresse an jeder Nahrung.",
+        "Eine vollständige Normalisierung des Essverhaltens."
+      ],
+      "answer": 1,
+      "explanation": "Im Verlauf treten häufig Essanfälle mit anschließendem Purging-Verhalten auf – also Erbrechen, Abführen und Diuretikagebrauch; dazu passt auch, dass die Anorexie oft in eine Bulimie übergeht. Eine vollständige Normalisierung widerspricht dem Verlaufsbild. Ein anhaltendes Desinteresse an Nahrung kennzeichnet die Störung mit Vermeidung der Nahrungsaufnahme. Der Verzehr ungeeigneter Substanzen gehört zur Pica-Störung, das Hochwürgen zur Ruminationsstörung."
+    },
+    {
+      "topic": "Subtypen und ICD-11-Neuerungen",
+      "question": "Welche Aussage zur Subtypisierung der Anorexia nervosa trifft NICHT zu?",
+      "options": [
+        "Der Subtyp wird zusätzlich zum Schweregrad angegeben.",
+        "Die Subtypen werden nach dem Erkrankungsalter gebildet.",
+        "Beim bulimischen Typus treten Essanfälle mit Purging auf.",
+        "Der bulimische Typus trägt die höhere Todesgefahr.",
+        "Unterschieden werden ein restriktiver und ein bulimischer Typus."
+      ],
+      "answer": 1,
+      "explanation": "Die Subtypen richten sich nach dem Essverhalten und nicht nach dem Erkrankungsalter – die erste Aussage ist damit die gesuchte falsche. Unterschieden werden der restriktive Typus und der bulimische Typus mit Essanfällen und Purging-Verhalten; der Subtyp wird zusätzlich zum Schweregrad angegeben. Und der bulimische Typus trägt wegen der Elektrolytschwankungen die höhere Todesgefahr."
+    },
+    {
+      "topic": "Subtypen und ICD-11-Neuerungen",
+      "question": "Welche Neuerung betrifft im ICD-11 die Diagnosestellung bei Anorexie und Bulimie insgesamt?",
+      "options": [
+        "Die Diagnosen setzen nun eine stationäre Abklärung voraus.",
+        "Die Diagnosen wurden zu einer einzigen zusammengefasst.",
+        "Die Diagnosen können erst deutlich später gestellt werden.",
+        "Die Diagnosen sind nun an ein Mindestalter gebunden.",
+        "Die Diagnosen können nun früher gestellt werden."
+      ],
+      "answer": 4,
+      "explanation": "Die Diagnosekriterien für Anorexie und Bulimie wurden so überarbeitet, dass die Diagnosen früher gestellt werden können – bei der Anorexie unter anderem über die angehobene Gewichtsgrenze, bei der Bulimie über die abgesenkte Häufigkeitsschwelle der Kompensationsmaßnahmen. Eine spätere Diagnosestellung kehrt die Absicht um. Eine Zusammenfassung beider Diagnosen fand nicht statt. Ein Mindestalter und eine stationäre Abklärung sind keine neuen Voraussetzungen."
+    },
+    {
+      "topic": "Subtypen und ICD-11-Neuerungen",
+      "question": "Welche Neuerung betrifft im ICD-11 die Kompensationsmaßnahmen bei der Bulimie?",
+      "options": [
+        "Nur selbstinduziertes Erbrechen zählt noch als Maßnahme.",
+        "Täglich auftretende Maßnahmen sind nun erforderlich.",
+        "Einmal wöchentlich über mindestens einen Monat genügt.",
+        "Zweimal wöchentlich über mindestens drei Monate sind nötig.",
+        "Die Häufigkeit spielt für die Diagnose keine Rolle mehr."
+      ],
+      "answer": 2,
+      "explanation": "Es genügt nun, dass Maßnahmen mit induziertem Erbrechen, Abführen oder exzessivem Training einmal in der Woche für mindestens einen Monat bestehen – die Schwelle wurde also abgesenkt. Höhere Anforderungen an Häufigkeit oder Dauer widersprechen dieser Absenkung. Die Häufigkeit ist weiterhin ein Kriterium. Und neben dem Erbrechen zählen ausdrücklich auch Abführen und exzessives Training."
+    },
+    {
+      "topic": "Schweregrade",
+      "hard": true,
+      "question": "Welche drei Schweregrade der Anorexia nervosa unterscheidet das ICD-11?",
+      "options": [
+        "Leichtes, mittelgradiges und schweres Untergewicht der Betroffenen.",
+        "Restriktives, bulimisches und gemischtes Untergewichtsmuster.",
+        "Beginnendes, voll ausgeprägtes und remittiertes Untergewicht.",
+        "Akutes, subakutes und chronisches Untergewicht im Verlauf.",
+        "Signifikantes Untergewicht, gefährliches Untergewicht und Recovery."
+      ],
+      "answer": 4,
+      "explanation": "Unterschieden werden signifikant niedriges Untergewicht, gefährlich niedriges Untergewicht und die Anorexia nervosa in Recovery bei wieder erreichtem Normalgewicht. Die Dreiteilung leicht, mittelgradig und schwer entspricht der Schweregradlogik bei anderen Störungsbildern. Akut, subakut und chronisch beschreiben den Verlauf. Restriktiv und bulimisch sind die Subtypen und keine Schweregrade. Und die letzte Variante ist so nicht vorgesehen."
+    },
+    {
+      "topic": "Schweregrade",
+      "hard": true,
+      "trap": "Die Kategorie „in Recovery“ gilt bei bereits erreichtem Normalgewicht – die psychologische Symptomatik besteht dabei oft noch lange fort.",
+      "question": "Was ist der wesentliche Vorteil der Kategorie „Anorexia nervosa in Recovery“?",
+      "options": [
+        "Sie erfasst ausschließlich das erreichte Körpergewicht.",
+        "Sie bildet die fortbestehende psychische Belastung bei Normalgewicht ab.",
+        "Sie beendet die Diagnose mit dem Erreichen des Normalgewichts.",
+        "Sie erlaubt die Diagnose schon vor dem Erreichen von Untergewicht.",
+        "Sie ersetzt die Subtypisierung in restriktiv und bulimisch."
+      ],
+      "answer": 1,
+      "explanation": "Oft erreichen Betroffene ein Normalgewicht, haben aber noch lange und schwerwiegend mit den psychologischen Aspekten zu tun – Ängsten vor Kontrollverlust, der Qual jeder Mahlzeit, der Essstörung als abwertender Stimme im Kopf und der Körperschemastörung. Genau das bildet die neue Kategorie ab, während zuvor auf die atypische Anorexie mit häufigen Diagnosewechseln ausgewichen werden musste. Eine Diagnose vor dem Untergewicht ist damit nicht gemeint. Die Subtypisierung bleibt bestehen. Eine Beschränkung auf das Gewicht verfehlt gerade den Zweck. Und die Diagnose endet mit dem Normalgewicht eben nicht."
+    },
+    {
+      "topic": "Schweregrade",
+      "transfer": true,
+      "question": "Eine Patientin hat nach langer Behandlung wieder Normalgewicht, leidet aber weiterhin unter Kontrollängsten und einer verzerrten Körperwahrnehmung. Wie ist das nach ICD-11 zu kodieren?",
+      "options": [
+        "Als Anorexia nervosa in Recovery.",
+        "Als signifikant niedriges Untergewicht bei Anorexie.",
+        "Als Bulimia nervosa wegen des Normalgewichts.",
+        "Als vollständige Remission ohne weitere Diagnose.",
+        "Als atypische Anorexia nervosa nach alter Systematik."
+      ],
+      "answer": 0,
+      "explanation": "Genau für diese Konstellation ist die Kategorie Anorexia nervosa in Recovery vorgesehen: Normalgewicht bei fortbestehender psychischer Symptomatik. Eine vollständige Remission ohne Diagnose übersieht die anhaltende Belastung. Ein signifikant niedriges Untergewicht liegt nicht mehr vor. Die atypische Anorexie war der Behelf der Vorgängerfassung und ist gerade das, was die neue Kategorie ersetzt. Und eine Bulimia nervosa verlangt regelmäßige Essanfälle mit Kompensation."
+    },
+    {
+      "topic": "Schweregrade",
+      "question": "Ab wann gilt ein Untergewicht bei der Anorexia nervosa als gefährlich niedrig?",
+      "options": [
+        "Wenn der Körpermasseindex unter achtzehneinhalb liegt.",
+        "Wenn erstmals Kompensationsmaßnahmen auftreten.",
+        "Wenn ein Gewichtsverlust von einem Viertel vorliegt.",
+        "Wenn der Körpermasseindex unter vierzehn liegt.",
+        "Wenn der Körpermasseindex unter zwanzig liegt."
+      ],
+      "answer": 3,
+      "explanation": "Als gefährlich niedriges Untergewicht gilt ein Körpermasseindex unterhalb von vierzehn. Der Wert von achtzehneinhalb markiert die Grenze zum Untergewicht und damit den Beginn des signifikant niedrigen Bereichs sowie zugleich die Schwelle zur Recovery-Kategorie. Ein Wert von zwanzig liegt im Normalbereich. Ein prozentualer Gewichtsverlust und das Auftreten von Kompensationsmaßnahmen sind keine Schweregradkriterien."
+    },
+    {
+      "topic": "Abgrenzung zur Bulimie",
+      "hard": true,
+      "trap": "Anorexie vom bulimischen Typus und Bulimia nervosa unterscheiden sich allein durch das Untergewicht bei der Anorexie.",
+      "question": "Wodurch unterscheidet sich die Anorexie vom bulimischen Typus von der Bulimia nervosa?",
+      "options": [
+        "Durch die stärker ausgeprägte Körperschemastörung bei der Bulimie.",
+        "Durch das Fehlen von Essanfällen bei der Anorexie.",
+        "Durch den deutlich späteren Erkrankungsbeginn bei der Anorexie.",
+        "Allein durch das Untergewicht bei der Anorexie.",
+        "Durch das Fehlen von Kompensationsmaßnahmen bei der Anorexie."
+      ],
+      "answer": 3,
+      "explanation": "Die Unterscheidung erfolgt differenzialdiagnostisch lediglich aufgrund des Untergewichts bei der Anorexie – bei beiden Bildern treten Essanfälle und Kompensationsmaßnahmen auf. Ein Fehlen von Essanfällen oder Kompensationsmaßnahmen kennzeichnet gerade den restriktiven und nicht den bulimischen Typus. Eine stärkere Körperschemastörung bei der Bulimie wird nicht behauptet. Und die Anorexie beginnt früher und nicht später als die Bulimie."
+    },
+    {
+      "topic": "Abgrenzung zur Bulimie",
+      "question": "Welches Problem ergab sich aus dieser Abgrenzung nach der Vorgängerfassung des ICD?",
+      "options": [
+        "Häufige Diagnosewechsel bei starken Gewichtsschwankungen.",
+        "Ein vollständiger Verzicht auf die Subtypisierung.",
+        "Eine völlige Unmöglichkeit, überhaupt eine Diagnose zu stellen.",
+        "Eine systematische Untererfassung der Bulimia nervosa.",
+        "Eine systematische Übererfassung der Pica-Störung."
+      ],
+      "answer": 0,
+      "explanation": "Weil allein das Untergewicht trennt, wechselten Betroffene mit starken Gewichtsschwankungen häufig zwischen den Diagnosen Anorexie und Bulimie hin und her. Eine völlige Unmöglichkeit der Diagnosestellung bestand nicht. Eine systematische Untererfassung der Bulimie oder Übererfassung der Pica-Störung wird nicht berichtet. Und die Subtypisierung wurde nicht aufgegeben."
+    },
+    {
+      "topic": "Abgrenzung zur Bulimie",
+      "hard": true,
+      "question": "Welche Aussage zum Diagnosewechsel zwischen Anorexie und Bulimie trifft NICHT zu?",
+      "options": [
+        "Die Abgrenzung erfolgt allein über das Untergewicht bei der Anorexie.",
+        "Die Kategorie in Recovery entschärft dieses Problem zusätzlich.",
+        "Der Wechsel soll bei jeder Gewichtsschwankung sofort erfolgen.",
+        "Beim bulimischen Typus soll nach einem Jahr stabilem Gewicht gewechselt werden.",
+        "Häufige Diagnosewechsel waren zuvor ein bekanntes Problem."
+      ],
+      "answer": 2,
+      "explanation": "Ausdrücklich soll gerade nicht bei jeder Gewichtsschwankung zwischen Normal- und Untergewicht sofort gewechselt werden – die erste Aussage ist damit die gesuchte falsche. Vorgesehen ist der Wechsel zur Bulimia nervosa erst nach einem Jahr stabilem Gewicht. Die Abgrenzung erfolgt allein über das Untergewicht, weshalb häufige Diagnosewechsel zuvor ein bekanntes Problem waren, das die neue Kategorie in Recovery zusätzlich entschärft."
+    },
+    {
+      "topic": "Abgrenzung zur Bulimie",
+      "transfer": true,
+      "question": "Eine Patientin mit Anorexie vom bulimischen Typus hält seit über einem Jahr ein stabiles Normalgewicht, erbricht aber weiterhin regelmäßig nach Essanfällen. Was folgt daraus?",
+      "options": [
+        "Die Diagnose wechselt zur Bulimia nervosa.",
+        "Die Diagnose bleibt unverändert bei der Anorexie.",
+        "Die Diagnose wechselt zum Binge Eating.",
+        "Die Diagnose ist ersatzlos aufzuheben.",
+        "Die Diagnose wechselt zur Ruminationsstörung."
+      ],
+      "answer": 0,
+      "explanation": "Nach einem Jahr stabilem Gewicht soll beim bulimischen Typus die Diagnose zur Bulimia nervosa wechseln – das Untergewicht als einziges Unterscheidungsmerkmal ist dauerhaft entfallen. Ein Verbleib bei der Anorexie widerspricht dieser Regel. Ein Binge Eating setzt Essanfälle ohne Kompensationsmaßnahmen voraus, die hier gerade bestehen. Eine ersatzlose Aufhebung übersieht die fortbestehende Symptomatik. Und die Ruminationsstörung ist über das Hochwürgen definiert."
+    },
+    {
+      "topic": "Abgrenzung zur Bulimie",
+      "question": "Wie wurde die Konstellation Normalgewicht bei fortbestehender anorektischer Symptomatik nach der Vorgängerfassung kodiert?",
+      "options": [
+        "Als nicht näher bezeichnete Essstörung ohne Zusatz.",
+        "Als Binge Eating mit Kompensationsverhalten.",
+        "Als Bulimia nervosa mit Normalgewicht.",
+        "Als atypische Anorexia nervosa.",
+        "Als vollständig remittierte Anorexia nervosa."
+      ],
+      "answer": 3,
+      "explanation": "Nach der Vorgängerfassung war diese Konstellation als atypische Anorexia nervosa anzugeben, was zu häufigen Diagnosewechseln führte – die Kategorie in Recovery löst genau dieses Problem. Eine Bulimia nervosa verlangt regelmäßige Essanfälle mit Kompensation. Das Binge Eating ist gerade durch das Fehlen von Kompensationsmaßnahmen definiert. Eine vollständige Remission übersieht die fortbestehende Symptomatik. Und eine nicht näher bezeichnete Essstörung war nicht die vorgesehene Lösung."
+    },
+    {
+      "topic": "Begriffe und Kriterienüberblick",
+      "question": "Was bedeuten die Begriffe Hyperphagie und Hypophagie?",
+      "options": [
+        "Gesteigerte beziehungsweise verminderte Sättigungsempfindung.",
+        "Gesteigerte beziehungsweise verminderte körperliche Aktivität.",
+        "Erhöhtes beziehungsweise vermindertes Körpergewicht.",
+        "Beschleunigte beziehungsweise verlangsamte Verdauung.",
+        "Gesteigerte beziehungsweise verminderte Nahrungsaufnahme."
+      ],
+      "answer": 4,
+      "explanation": "Die Endung -phagie bezieht sich auf das Essen: Hyperphagie meint eine gesteigerte, Hypophagie eine verminderte Nahrungsaufnahme. Körperliche Aktivität, Verdauungsgeschwindigkeit, Körpergewicht und Sättigungsempfindung werden von diesen Begriffen nicht bezeichnet, auch wenn sie mit dem Essverhalten zusammenhängen können."
+    },
+    {
+      "topic": "Subtypen und ICD-11-Neuerungen",
+      "question": "Welche Aussage zur Gewichtsgrenze der Anorexie im ICD-11 trifft am ehesten zu?",
+      "options": [
+        "Sie wurde gegenüber der Vorgängerfassung abgesenkt.",
+        "Eine Gewichtsgrenze ist im ICD-11 nicht mehr vorgesehen.",
+        "Sie richtet sich ausschließlich nach dem Ausgangsgewicht.",
+        "Sie liegt deutlich unterhalb der Grenze zum Untergewicht.",
+        "Sie orientiert sich an der offiziellen Grenze zum Untergewicht."
+      ],
+      "answer": 4,
+      "explanation": "Pathologisch ist das Gewicht ab der offiziellen Grenze zum Untergewicht, womit die Systematik dem DSM angeglichen wurde. Eine Grenze deutlich unterhalb davon oder eine Absenkung gegenüber der Vorgängerfassung widerspricht der Absicht, die Diagnose früher stellen zu können. Das individuelle Ausgangsgewicht ist nicht der Bezugspunkt. Und eine Gewichtsgrenze besteht ausdrücklich fort."
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "id": "kl-essstoerungen-grundlagen-epidemiologie",
+  "title": "Essstörungen: Grundlagen & Epidemiologie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Essstörungen im Altklausur-Stil: die Minnesota-Hungerstudie und ihre Konsequenz für die Behandlungsreihenfolge, der Überblick über die Störungsbilder einschließlich Pica, Rumination und Nahrungsvermeidung, Epidemiologie von Anorexie, Bulimie und Binge Eating im Vergleich, Mortalität und Suizidrisiko sowie Besonderheiten bei Männern und der Verlauf.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Minnesota-Hungerstudie",
+      "question": "Wie war die Minnesota-Hungerstudie im Ablauf aufgebaut?",
+      "options": [
+        "Durchgehend erhöhte Kalorienzufuhr über den gesamten Zeitraum.",
+        "Halbierte Kalorien von Beginn an bis zum Ende der Untersuchung.",
+        "Gewohnte Kost, dann halbierte Kalorien, dann Rehabilitation.",
+        "Gewohnte Kost im Wechsel mit einzelnen kurzen Fastentagen.",
+        "Zunächst Rehabilitation, danach eine lange Phase des Hungerns."
+      ],
+      "answer": 2,
+      "explanation": "Die Studie verlief in drei Phasen: zunächst Nahrungsaufnahme entsprechend den Gewohnheiten, dann eine längere Phase mit halbierter Kalorienmenge und schließlich eine Rehabilitationsphase. Eine durchgehende Kalorienhalbierung ohne Vergleichs- und Erholungsphase entspricht dem Aufbau nicht. Einzelne Fastentage im Wechsel waren nicht vorgesehen. Die Rehabilitation stand am Ende und nicht am Anfang. Und eine erhöhte Kalorienzufuhr war zu keinem Zeitpunkt Gegenstand der Untersuchung."
+    },
+    {
+      "topic": "Minnesota-Hungerstudie",
+      "question": "Wer nahm an der Minnesota-Hungerstudie teil?",
+      "options": [
+        "Patientinnen mit einer bereits bestehenden Bulimia nervosa.",
+        "Ältere Menschen mit bestehender Mangelernährung im Heim.",
+        "Junge, körperlich und psychisch gesunde Männer.",
+        "Patientinnen mit einer bereits bestehenden Anorexia nervosa.",
+        "Kinder und Jugendliche mit auffälligem Essverhalten."
+      ],
+      "answer": 2,
+      "explanation": "Teilgenommen haben junge, körperlich und psychisch gesunde Männer – genau darin liegt die Aussagekraft der Studie, denn die beobachteten Veränderungen können nicht auf eine vorbestehende Störung zurückgehen. Betroffene mit bestehender Anorexie oder Bulimie hätten diesen Schluss gerade nicht erlaubt. Ältere Menschen mit Mangelernährung und auffällige Kinder und Jugendliche waren nicht Gegenstand der Untersuchung."
+    },
+    {
+      "topic": "Minnesota-Hungerstudie",
+      "hard": true,
+      "trap": "Viele Auffälligkeiten bei Essstörungen können Folge und nicht Ursache des Hungerns sein.",
+      "question": "Welches Fazit zieht die Vorlesung aus der Minnesota-Hungerstudie?",
+      "options": [
+        "Viele Auffälligkeiten könnten Folgen des Hungerns sein.",
+        "Die individuellen Reaktionen auf Hungern sind gut vorhersagbar.",
+        "Alle Auffälligkeiten gehen einer Essstörung sicher voraus.",
+        "Gesunde Menschen reagieren auf Hungern praktisch einheitlich.",
+        "Hungern hat auf das psychische Erleben kaum Auswirkungen."
+      ],
+      "answer": 0,
+      "explanation": "Das Fazit lautet, dass viele Störungen bei Betroffenen mit Anorexie oder Bulimie Folgen des Hungerns sein könnten – die Kausalrichtung ist also umgekehrt zur naheliegenden Annahme. Ein sicheres Vorausgehen aller Auffälligkeiten widerspricht dem direkt. Dass Hungern das psychische Erleben kaum beeinflusse, wird durch die Studie gerade widerlegt. Und als zweites Fazit wird ausdrücklich die Unvorhersehbarkeit der individuellen Reaktionen genannt, weshalb weder gute Vorhersagbarkeit noch einheitliche Reaktionen zutreffen."
+    },
+    {
+      "topic": "Minnesota-Hungerstudie",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine stark untergewichtige Patientin wirkt zwanghaft, depressiv und sozial zurückgezogen. Welche Konsequenz ergibt sich aus der Hungerstudie für das Vorgehen?",
+      "options": [
+        "Zuerst die Komorbidität psychotherapeutisch behandeln, dann das Gewicht.",
+        "Die zusätzlichen Auffälligkeiten sind ohne klinische Bedeutung.",
+        "Beide Bereiche sind unabhängig voneinander und getrennt zu behandeln.",
+        "Zuerst ein normales Gewicht herstellen, dann die Komorbidität beurteilen.",
+        "Die Gewichtsnormalisierung ist erst nach vollständiger Remission sinnvoll."
+      ],
+      "answer": 3,
+      "explanation": "Weil einige Symptome Folgen des Hungerns sein können, ist es wichtig, zunächst ein normales Gewicht herzustellen, bevor Art und Ausmaß der komorbiden psychischen Störungen beurteilt oder rein psychotherapeutisch behandelt werden. Die umgekehrte Reihenfolge birgt genau die Gefahr, Hungerfolgen als eigenständige Störungen zu behandeln. Eine Unabhängigkeit beider Bereiche widerspricht dem Befund. Bedeutungslos sind die Auffälligkeiten keineswegs. Und eine Gewichtsnormalisierung erst nach Remission kehrt die Logik vollständig um."
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Was kennzeichnet die Pica-Störung?",
+      "options": [
+        "Die Vermeidung von Nahrung aus sensorischer Aversion heraus.",
+        "Das selbstinduzierte Erbrechen nach jeder größeren Mahlzeit.",
+        "Wiederkehrende Essanfälle ohne kompensierende Maßnahmen.",
+        "Das Essen nicht zum Verzehr geeigneter Stoffe.",
+        "Das wiederholte Hochwürgen bereits geschluckter Nahrung."
+      ],
+      "answer": 3,
+      "explanation": "Die Pica-Störung bezeichnet das Essen nicht zum Verzehr geeigneter Stoffe über mindestens einen Monat, wobei das Verhalten dem Entwicklungsstand nicht angemessen sein muss. Das wiederholte Hochwürgen kennzeichnet die Ruminationsstörung. Die Vermeidung aus sensorischer Aversion gehört zur Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme. Essanfälle ohne Kompensation kennzeichnen das Binge Eating. Und selbstinduziertes Erbrechen ist eine Kompensationsmaßnahme bei Bulimie oder Anorexie."
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Unter welcher Bedingung wird eine Pica-Störung diagnostiziert?",
+      "options": [
+        "Nur wenn zusätzlich ein deutliches Untergewicht besteht.",
+        "Auch dann, wenn sie Teil einer Intelligenzminderung ist.",
+        "Auch dann, wenn sie Teil einer autistischen Störung ist.",
+        "Nur wenn zusätzlich eine schizophrene Erkrankung besteht.",
+        "Nur wenn sie nicht Teil einer anderen psychischen Störung ist."
+      ],
+      "answer": 4,
+      "explanation": "Pica ist nur dann zu diagnostizieren, wenn das Verhalten nicht als immanenter Teil einer anderen psychischen Störung verstanden werden kann – ausdrücklich genannt werden Intelligenzminderung, Autismus und Schizophrenie. Ein Auftreten im Rahmen dieser Störungen schließt die Diagnose also gerade aus. Eine schizophrene Erkrankung als Voraussetzung kehrt die Logik um. Und ein Untergewicht ist kein Kriterium der Pica-Störung."
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Was kennzeichnet die Ruminationsstörung?",
+      "options": [
+        "Das wiederholte Hochwürgen von bereits geschluckter Nahrung.",
+        "Das anhaltende Essen nicht zum Verzehr geeigneter Substanzen.",
+        "Der wiederkehrende Verlust der Kontrolle während eines Essanfalls.",
+        "Die vollständige Verweigerung jeder Nahrungsaufnahme über Wochen.",
+        "Das gedankliche Kreisen um Nahrungsmittel ohne Verhaltensfolge."
+      ],
+      "answer": 0,
+      "explanation": "Die Ruminationsstörung bezeichnet das wiederholte Hochwürgen von Nahrung über mindestens einen Monat, wobei diese anschließend geschluckt, erneut gekaut oder ausgespuckt wird. Das Essen ungeeigneter Substanzen kennzeichnet die Pica-Störung. Eine vollständige Nahrungsverweigerung beschreibt das Bild nicht. Ein bloßes gedankliches Kreisen ohne Verhaltensfolge ist kein Kriterium. Und der Kontrollverlust im Essanfall gehört zu Bulimie und Binge Eating."
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Wann ist eine Ruminationsstörung ausdrücklich NICHT zu diagnostizieren?",
+      "options": [
+        "Wenn die Nahrung anschließend erneut gekaut wird.",
+        "Wenn die Nahrung anschließend ausgespuckt wird.",
+        "Wenn das Hochwürgen länger als einen Monat besteht.",
+        "Wenn das Hochwürgen der Gewichtsregulation dient.",
+        "Wenn das Verhalten in der Kindheit begonnen hat."
+      ],
+      "answer": 3,
+      "explanation": "Die Ruminationsstörung ist nicht zu diagnostizieren, wenn das Hochwürgen Teil einer somatischen Krankheit ist oder im Sinne einer Kompensationsmaßnahme bei Anorexie oder Bulimie der Gewichtsregulation dient. Eine Dauer von mehr als einem Monat ist gerade das Zeitkriterium der Diagnose. Erneutes Kauen und Ausspucken sind ausdrücklich beschriebene Varianten des Verhaltens. Und ein Beginn in der Kindheit schließt die Diagnose nicht aus."
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Ein Kind isst seit Monaten nur wenige Speisen, weil ihm Konsistenz und Geruch fast aller Lebensmittel widerstehen; Sorgen um Figur oder Gewicht bestehen nicht. Welche Störung liegt am ehesten vor?",
+      "options": [
+        "Eine Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme.",
+        "Ein Binge Eating mit wiederkehrenden Essanfällen.",
+        "Eine Pica-Störung mit Verzehr ungeeigneter Substanzen.",
+        "Eine Anorexia nervosa mit ausgeprägter Körperschemastörung.",
+        "Eine Ruminationsstörung mit wiederholtem Hochwürgen."
+      ],
+      "answer": 0,
+      "explanation": "Eine sensorisch bedingte Aversion gegen Nahrungsmittel mit daraus folgender zu geringer Nahrungszufuhr ist genau die Beschreibung der Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme – und anders als bei der Anorexie fehlt hier jede Sorge um Gewicht oder Figur sowie die Körperschemastörung. Die Pica-Störung setzt den Verzehr nicht zum Verzehr geeigneter Stoffe voraus. Die Ruminationsstörung ist über das Hochwürgen definiert. Und das Binge Eating verlangt wiederkehrende Essanfälle.",
+      "transfer": true
+    },
+    {
+      "topic": "Störungsbilder im Überblick",
+      "question": "Welche Folge zählt am ehesten NICHT zu den Kriterien der Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme?",
+      "options": [
+        "Eine Beeinträchtigung des psychosozialen Funktionsniveaus.",
+        "Die Notwendigkeit künstlicher Ernährung oder Ergänzung.",
+        "Ein bedeutsamer Gewichtsverlust der betroffenen Person.",
+        "Eine ausbleibende Gewichtsentwicklung bei Kindern.",
+        "Eine ausgeprägte Störung des eigenen Körperschemas."
+      ],
+      "answer": 4,
+      "explanation": "Eine Körperschemastörung gehört nicht zu den Kriterien dieser Störung – genau darin unterscheidet sie sich von der Anorexia nervosa, bei der die Körperschemastörung ein Kernkriterium ist. Bedeutsamer Gewichtsverlust, ausbleibende Entwicklung bei Kindern, Mangelerscheinungen, die Notwendigkeit enteraler Ernährung oder Nahrungsergänzung sowie die Beeinträchtigung des psychosozialen Funktionsniveaus sind dagegen ausdrücklich aufgeführt."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Welche Aussage zum Geschlechterverhältnis bei Essstörungen trifft NICHT zu?",
+      "options": [
+        "Bei der Bulimia nervosa ist die Mehrzahl der Erkrankten weiblich.",
+        "Bei der Anorexia nervosa sind Männer deutlich überrepräsentiert.",
+        "Bei der Anorexia nervosa ist die Mehrzahl der Erkrankten weiblich.",
+        "Bei der Adipositas sind Frauen geringfügig häufiger betroffen.",
+        "Beim Binge Eating ist das Verhältnis tendenziell ausgeglichen."
+      ],
+      "answer": 1,
+      "explanation": "Bei der Anorexia nervosa ist die ganz überwiegende Mehrzahl der Erkrankten weiblich – ein männliches Übergewicht ist deshalb die gesuchte falsche Aussage und steht im Widerspruch zur zweiten Option. Auch bei der Bulimia nervosa überwiegen die Frauen deutlich. Beim Binge Eating gilt das Verhältnis als tendenziell ausgeglichen, bei der Adipositas sind Frauen geringfügig häufiger betroffen."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "hard": true,
+      "question": "Wie unterscheidet sich das Binge Eating epidemiologisch von Anorexie und Bulimie?",
+      "options": [
+        "Das Geschlechterverhältnis ist tendenziell ausgeglichen.",
+        "Es ist in westlichen Industrienationen deutlich seltener.",
+        "Es beginnt deutlich früher als die Anorexia nervosa.",
+        "Das Geschlechterverhältnis ist noch deutlicher weiblich geprägt.",
+        "Es tritt praktisch ausschließlich im höheren Lebensalter auf."
+      ],
+      "answer": 0,
+      "explanation": "Beim Binge Eating ist das Geschlechterverhältnis tendenziell ausgeglichen, während Anorexie und Bulimie ganz überwiegend Frauen betreffen. Eine noch stärkere weibliche Prägung kehrt das um. Der Erkrankungsgipfel des Binge Eating liegt später als bei der Anorexie, die im Jugendalter beginnt. Eine Seltenheit in westlichen Industrienationen wird nicht berichtet. Und ein Auftreten erst im höheren Lebensalter kennzeichnet eher die Adipositas."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Bei welcher der Essstörungen liegt der Erkrankungsgipfel am frühesten?",
+      "options": [
+        "Bei der Bulimia nervosa.",
+        "Bei der Anorexia nervosa.",
+        "Bei der Adipositas.",
+        "Alle beginnen etwa gleich früh.",
+        "Beim Binge Eating."
+      ],
+      "answer": 1,
+      "explanation": "Die Anorexia nervosa hat den frühesten Erkrankungsgipfel und beginnt bereits im Jugendalter. Die Bulimia nervosa folgt im jungen Erwachsenenalter, das Binge Eating etwa im gleichen Bereich, aber später als die Anorexie. Die Adipositas hat ihren Gipfel erst im mittleren bis höheren Lebensalter. Und ein gleich früher Beginn aller Störungen widerspricht dieser Staffelung."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Welche soziale Schichtzugehörigkeit wird für die Anorexia nervosa besonders genannt?",
+      "options": [
+        "Die Schichtzugehörigkeit spielt hier keine Rolle.",
+        "Vor allem Betroffene ohne Schulabschluss.",
+        "Vor allem die untere soziale Schicht.",
+        "Ausschließlich die wohlhabende Oberschicht.",
+        "Vor allem die höhere Mittelschicht."
+      ],
+      "answer": 4,
+      "explanation": "Für die Anorexia nervosa wird vor allem die höhere Mittelschicht genannt, für die Bulimie eher die Mittelschicht allgemein. Die untere soziale Schicht ist demgegenüber bei der Adipositas deutlich überrepräsentiert. Eine Bedeutungslosigkeit der Schichtzugehörigkeit widerspricht der ausdrücklichen Angabe. Ein fehlender Schulabschluss wird nicht angeführt. Und eine ausschließliche Beschränkung auf die Oberschicht überzeichnet den Befund."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Wie verteilt sich die Anorexia nervosa geografisch?",
+      "options": [
+        "Hohe Prävalenz ausschließlich in ländlichen Regionen.",
+        "Hohe Prävalenz vor allem in Afrika und Südamerika.",
+        "Weltweit weitgehend gleichmäßige Verteilung der Erkrankung.",
+        "Hohe Prävalenz vor allem in westlichen Industrienationen.",
+        "Zur geografischen Verteilung liegen keine Daten vor."
+      ],
+      "answer": 3,
+      "explanation": "Eine hohe Prävalenz der Anorexia nervosa findet sich vor allem in westlichen Industrienationen, während sie in Afrika und Südamerika wesentlich geringer ausfällt – ein deutlicher Hinweis auf soziokulturelle Einflüsse. Die umgekehrte Verteilung und eine weltweite Gleichverteilung widersprechen dem. Eine Beschränkung auf ländliche Regionen wird nicht berichtet. Und Daten zur geografischen Verteilung liegen sehr wohl vor."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Wie verbreitet sind Essstörungssymptome bei Jugendlichen in Deutschland?",
+      "options": [
+        "Nur ein verschwindend kleiner Bruchteil ist betroffen.",
+        "Jungen sind in diesem Alter deutlich häufiger betroffen.",
+        "Auffälligkeiten treten erst im Erwachsenenalter überhaupt auf.",
+        "Belastbare Erhebungen für diese Altersgruppe fehlen bislang.",
+        "Ein erheblicher Anteil zeigt entsprechende Auffälligkeiten."
+      ],
+      "answer": 4,
+      "explanation": "Bei Elf- bis Siebzehnjährigen zeigt ein erheblicher Anteil einen Verdacht auf eine Essstörung, und unter den Mädchen zwischen vierzehn und siebzehn Jahren ist der Anteil mit Symptomen noch höher – Anorexie und Bulimie gehören zu den häufigsten Störungen im Kindes- und Jugendalter. Ein verschwindend kleiner Bruchteil unterschätzt das erheblich. Ein Beginn erst im Erwachsenenalter widerspricht dem frühen Erkrankungsgipfel. Mädchen sind deutlich häufiger betroffen als Jungen. Und entsprechende Erhebungen liegen vor."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine Praxis vergleicht ihre Patientenklientel: Bei einer Störung sind Frauen und Männer etwa gleich häufig vertreten, der Beginn liegt im jungen Erwachsenenalter. Welche Störung ist das am ehesten?",
+      "options": [
+        "Die Bulimia nervosa.",
+        "Die Pica-Störung.",
+        "Das Binge Eating.",
+        "Die Ruminationsstörung.",
+        "Die Anorexia nervosa."
+      ],
+      "answer": 2,
+      "explanation": "Ein tendenziell ausgeglichenes Geschlechterverhältnis bei Beginn im jungen Erwachsenenalter kennzeichnet das Binge Eating. Anorexia und Bulimia nervosa betreffen ganz überwiegend Frauen, die Anorexie beginnt zudem deutlich früher. Pica- und Ruminationsstörung sind über ein ganz anderes Verhalten definiert und werden in dieser epidemiologischen Übersicht nicht geführt."
+    },
+    {
+      "topic": "Epidemiologie im Vergleich",
+      "question": "Welche Aussage zur Verlaufsprognose im Vergleich trifft am ehesten zu?",
+      "options": [
+        "Die Bulimie verläuft etwas günstiger als die Anorexie.",
+        "Beim Binge Eating bleibt eine Psychotherapie regelhaft wirkungslos.",
+        "Die Anorexie verläuft deutlich günstiger als die Bulimie.",
+        "Die Adipositas spricht besonders gut auf alleinige Psychotherapie an.",
+        "Beide Störungen verlaufen prognostisch praktisch gleich."
+      ],
+      "answer": 0,
+      "explanation": "Der Verlauf der Bulimia nervosa wird als etwas günstiger als der der Anorexia nervosa beschrieben. Ein deutlicher Vorteil der Anorexie kehrt das um, und ein prognostischer Gleichstand übersieht den Unterschied. Bei der Adipositas sind mit alleiniger Psychotherapie gerade kaum Erfolge zu erzielen. Und beim Binge Eating profitiert die Mehrzahl der Betroffenen von einer Psychotherapie."
+    },
+    {
+      "topic": "Mortalität und Suizidrisiko",
+      "hard": true,
+      "trap": "Die Anorexia nervosa hat die höchste standardisierte Mortalitätsrate über alle psychischen Störungen hinweg.",
+      "question": "Welche Störung weist die höchste standardisierte Mortalitätsrate aller psychischen Störungen auf?",
+      "options": [
+        "Die schwere depressive Störung.",
+        "Die schizophrene Erkrankung.",
+        "Die Borderline-Persönlichkeitsstörung.",
+        "Die bipolare affektive Störung.",
+        "Die Anorexia nervosa."
+      ],
+      "answer": 4,
+      "explanation": "Die Anorexia nervosa weist die höchste standardisierte Mortalitätsrate über alle psychischen Störungen hinweg auf; sie umfasst sowohl Suizide als auch die Folgen des Untergewichts. Depression, Borderline-Störung, Schizophrenie und bipolare Störung gehen zwar ebenfalls mit erhöhter Sterblichkeit einher, erreichen diesen Spitzenwert aber nicht."
+    },
+    {
+      "topic": "Mortalität und Suizidrisiko",
+      "question": "Welche beiden Störungsgruppen tragen laut Meta-Review das höchste Suizidrisiko?",
+      "options": [
+        "Anorexia nervosa und Suchterkrankungen.",
+        "Somatoforme Störungen und Anpassungsstörungen.",
+        "Angststörungen und Zwangsstörungen.",
+        "Depression und bipolare affektive Störung.",
+        "Borderline-Störung und schizophrene Erkrankung."
+      ],
+      "answer": 0,
+      "explanation": "Das höchste Suizidrisiko tragen nach dem Meta-Review die Anorexia nervosa und die Suchterkrankungen; erst danach folgen Depression, bipolare Störung und Borderline-Störung. Die genannten Alternativen benennen jeweils Störungen aus den nachgeordneten Rängen oder solche, die dort gar nicht aufgeführt werden."
+    },
+    {
+      "topic": "Mortalität und Suizidrisiko",
+      "hard": true,
+      "trap": "Nicht der klassische Anorexie-Typus, sondern der bulimische Typus trägt das höchste Sterberisiko – wegen der Elektrolytschwankungen durch Erbrechen.",
+      "question": "Zwei Patientinnen mit Anorexie: Die eine hungert ausschließlich restriktiv, die andere erbricht zusätzlich regelmäßig. Bei welcher ist die Todesgefahr am höchsten?",
+      "options": [
+        "Das Risiko hängt allein vom aktuellen Körpergewicht ab.",
+        "Eine Einschätzung ist ohne Laborwerte grundsätzlich unmöglich.",
+        "Bei der Patientin mit rein restriktivem Hungern.",
+        "Bei der Patientin mit zusätzlichem Erbrechen.",
+        "Bei beiden Patientinnen ist das Risiko gleich hoch."
+      ],
+      "answer": 3,
+      "explanation": "Die höchste Todesgefahr besteht bei der Anorexie vom bulimischen Typus: Der Körper kann ein chronisches Untergewicht sehr lange kompensieren, nicht aber die Elektrolytschwankungen durch das Erbrechen. Der rein restriktive Typus ist damit gerade nicht die riskantere Form, und ein Gleichstand übersieht diesen Unterschied. Das Gewicht allein ist nicht ausschlaggebend, sonst wäre der restriktive Typus riskanter. Und die grundsätzliche Einschätzung ist auch ohne Laborwerte möglich, wenngleich Laborkontrollen klinisch wichtig sind.",
+      "transfer": true
+    },
+    {
+      "topic": "Essstörungen bei Männern",
+      "question": "Welches Problem der bisherigen Diagnosekriterien wird für Männer benannt?",
+      "options": [
+        "Eine Verzerrung zugunsten männlicher Betroffener.",
+        "Eine zu geringe Gewichtung des Körperschemas.",
+        "Eine Verzerrung zugunsten weiblicher Betroffener.",
+        "Eine ausschließliche Ausrichtung auf das Kindesalter.",
+        "Eine völlige Unbrauchbarkeit für beide Geschlechter."
+      ],
+      "answer": 2,
+      "explanation": "Die bisherigen Diagnosekriterien enthielten eine Verzerrung zugunsten weiblicher Patientinnen – deshalb wurde unter anderem auf die Amenorrhö als Kriterium verzichtet. Eine Verzerrung zugunsten der Männer kehrt den Befund um. Eine Ausrichtung auf das Kindesalter oder eine völlige Unbrauchbarkeit wird nicht behauptet. Und das Körperschema ist als Kriterium gerade zentral gewichtet."
+    },
+    {
+      "topic": "Essstörungen bei Männern",
+      "question": "Welche Änderung der Diagnosekriterien wurde am ehesten NICHT vorgenommen?",
+      "options": [
+        "Die Orientierung an der unteren Grenze des Normalgewichts.",
+        "Die vollständige Streichung der Körperschemastörung als Kriterium.",
+        "Der Verzicht auf einen starren absoluten Gewichtswert.",
+        "Die Neukonzeptualisierung des Binge Eating als Störungsbild.",
+        "Der Verzicht auf die Amenorrhö als eigenständiges Diagnosekriterium."
+      ],
+      "answer": 1,
+      "explanation": "Die Körperschemastörung wurde gerade nicht gestrichen, sondern bleibt ein Kernkriterium der Anorexia nervosa – ihre Streichung ist damit die gesuchte Ausnahme. Vorgenommen wurden dagegen der Verzicht auf die Amenorrhö, die Orientierung an der unteren Grenze des Normalgewichts anstelle eines starren Gewichtswerts sowie die Neukonzeptualisierung des Binge Eating, das bei Männern häufiger vorkommt."
+    },
+    {
+      "topic": "Essstörungen bei Männern",
+      "hard": true,
+      "trap": "Der pathologische Muskelaufbau bei Männern wird nach ICD-11 als körperdysmorphe Störung geführt – nicht als Essstörung.",
+      "question": "Wie wird ein pathologisches Verhalten hinsichtlich des Muskelaufbaus bei Männern eingeordnet?",
+      "options": [
+        "Als eigenständige Essstörung des männlichen Geschlechts.",
+        "Als Sonderform der Anorexia nervosa beim Mann.",
+        "Als körperdysmorphe Störung und nicht als Essstörung.",
+        "Als Variante des Binge Eating mit Muskelbezug.",
+        "Als Sonderform der Bulimia nervosa beim Mann."
+      ],
+      "answer": 2,
+      "explanation": "Das bei Männern häufigere pathologische Verhalten rund um den Muskelaufbau – mit rigidem Umgang mit Eiweißmengen und Kalorien sowie teils erheblichen Folgeschäden durch Medikamentenmissbrauch – wird nach ICD-11 als körperdysmorphe Störung und ausdrücklich nicht als Essstörung diagnostiziert. Eine Einordnung als eigenständige Essstörung oder als Sonderform von Anorexie, Bulimie oder Binge Eating widerspricht dieser Zuordnung."
+    },
+    {
+      "topic": "Essstörungen bei Männern",
+      "question": "Was wird zum Schweregrad bei Männern mit klassischem Anorexie-Verhalten angemerkt?",
+      "options": [
+        "Sie erreichen regelhaft eine vollständige Remission.",
+        "Sie sind meist stärker betroffen und destruktiver.",
+        "Sie zeigen regelhaft einen besonders raschen Verlauf.",
+        "Sie unterscheiden sich im Schweregrad nicht von Frauen.",
+        "Sie sind meist deutlich milder betroffen als Frauen."
+      ],
+      "answer": 1,
+      "explanation": "Als CAVE wird vermerkt, dass Männer mit klassischem Anorexie-Verhalten meist stärker betroffen und destruktiver sind – analog zu Beobachtungen bei der Borderline-Störung. Eine mildere Ausprägung oder ein fehlender Unterschied widerspricht dem. Ein besonders rascher Verlauf und eine regelhafte vollständige Remission werden nicht berichtet."
+    },
+    {
+      "topic": "Verlauf",
+      "hard": true,
+      "trap": "Anders als bei den meisten Störungen gilt bei der Anorexie ein junges Alter bei Erkrankungsbeginn als prognostisch günstig.",
+      "question": "Wie wirkt sich ein junges Alter bei Erkrankungsbeginn auf die Prognose der Anorexie aus?",
+      "options": [
+        "Es hat auf die Prognose keinen erkennbaren Einfluss.",
+        "Es gilt als prognostisch günstig.",
+        "Es gilt als prognostisch ausgesprochen ungünstig.",
+        "Es verkürzt lediglich die Behandlungsdauer, nicht die Prognose.",
+        "Es erhöht ausschließlich das Risiko einer Chronifizierung."
+      ],
+      "answer": 1,
+      "explanation": "Ein junges Alter bei Beginn gilt bei der Anorexie als prognostisch günstig – die Vorlesung markiert das ausdrücklich als untypisch, da bei den meisten psychischen Störungen ein früher Beginn eher ungünstig ist. Eine ungünstige Wirkung kehrt den Befund um. Ein fehlender Einfluss übersieht ihn. Eine Beschränkung auf die Behandlungsdauer greift zu kurz. Und ein erhöhtes Chronifizierungsrisiko widerspricht der günstigen Prognose."
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Welche Aussage zum Langzeitverlauf der Anorexia nervosa trifft NICHT zu?",
+      "options": [
+        "Etwa die Hälfte der Betroffenen remittiert vollständig.",
+        "Die Anorexie geht im Verlauf häufig in eine Bulimie über.",
+        "Die langfristige Prognose gilt als ausgesprochen günstig.",
+        "Ein erheblicher Anteil bleibt trotz Therapien chronisch krank.",
+        "Ein Teil der Betroffenen verstirbt im Verlauf der Erkrankung."
+      ],
+      "answer": 2,
+      "explanation": "Die langfristige Prognose wird ausdrücklich als relativ ungünstig beschrieben – die gegenteilige Aussage ist deshalb die gesuchte falsche. Etwa die Hälfte remittiert vollständig, ein weiterer Teil bessert sich, ein erheblicher Anteil bleibt trotz mehrfacher Therapien chronisch krank, und ein Teil verstirbt im Verlauf. Und der Übergang von der Anorexie in eine Bulimie wird als häufig beschrieben."
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Eine Siebzehnjährige entwickelt kurz nach dem Umzug der Familie und der Trennung von ihrem Freundeskreis eine Anorexie. Wie ist der zeitliche Zusammenhang einzuordnen?",
+      "options": [
+        "Als Hinweis darauf, dass eine Anpassungsstörung vorliegt.",
+        "Als untypisch, da der Beginn regelhaft ohne Auslöser erfolgt.",
+        "Als untypisch, da die Erkrankung meist deutlich später beginnt.",
+        "Als prognostisch besonders ungünstiges Verlaufszeichen.",
+        "Als typisch, da der Beginn oft an belastende Ereignisse gebunden ist."
+      ],
+      "answer": 4,
+      "explanation": "Der Beginn einer Anorexia nervosa ist häufig mit einem belastenden Lebensereignis verbunden – der geschilderte Zusammenhang ist also typisch. Ein regelhaft auslöserfreier Beginn widerspricht dem. Das Alter passt zudem genau zum Erkrankungsgipfel im Jugendalter, weshalb auch ein später Beginn nicht zutrifft. Eine Anpassungsstörung würde die essstörungsspezifische Symptomatik nicht erklären. Und ein junges Alter bei Beginn gilt bei der Anorexie sogar als prognostisch günstig.",
+      "transfer": true
+    },
+    {
+      "topic": "Verlauf",
+      "question": "Was gilt beim Binge Eating als wichtigstes Erfolgskriterium der Behandlung?",
+      "options": [
+        "Der vollständige Verzicht auf hochkalorische Lebensmittel.",
+        "Der funktionale Umgang mit einzelnen Essanfällen.",
+        "Eine deutliche Gewichtsabnahme im Behandlungsverlauf.",
+        "Eine möglichst kurze Gesamtdauer der Behandlung.",
+        "Die vollständige und dauerhafte Abstinenz von Essanfällen."
+      ],
+      "answer": 1,
+      "explanation": "Als wichtigstes Erfolgskriterium gilt der funktionale Umgang mit einzelnen auftretenden Essanfällen; die vollständige Abstinenz wird als zu hohe Hürde ausdrücklich als weniger bedeutsam eingestuft. Eine deutliche Gewichtsabnahme ist nicht das Kriterium. Ein Verzicht auf bestimmte Lebensmittel entspräche eher dem gezügelten Essverhalten, das als Risikofaktor gilt. Und die Behandlungsdauer ist kein Erfolgsmaß."
+    },
+    {
+      "topic": "Verlauf",
+      "transfer": true,
+      "question": "Eine Patientin mit Binge Eating hat unter Therapie deutlich seltener Essanfälle und gerät nach einem Rückfall nicht mehr in eine Spirale. Wie ist das zu bewerten?",
+      "options": [
+        "Als Indikation für eine sofortige stationäre Aufnahme.",
+        "Als bedeutungslos, solange das Gewicht unverändert bleibt.",
+        "Als Misserfolg, da keine vollständige Abstinenz erreicht ist.",
+        "Als Therapieerfolg im Sinne des zentralen Kriteriums.",
+        "Als Hinweis auf eine Fehldiagnose des Störungsbildes."
+      ],
+      "answer": 3,
+      "explanation": "Genau der funktionale Umgang mit einzelnen Essanfällen ist als wichtigstes Erfolgskriterium benannt – die Patientin erfüllt es. Ein Misserfolg wegen fehlender vollständiger Abstinenz kehrt die Bewertung um, denn diese gilt ausdrücklich als zu hohe Hürde. Das Gewicht ist nicht das maßgebliche Erfolgsmaß. Ein Rückschluss auf eine Fehldiagnose ist nicht angezeigt. Und eine stationäre Aufnahme wäre bei diesem Verlauf gerade nicht indiziert."
+    }
+  ]
+}

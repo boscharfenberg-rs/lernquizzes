@@ -578,6 +578,34 @@
       "title": "Affektive Störungen: Ätiologie & Therapie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Affektive Störungen im Altklausur-Stil: biopsychosoziales Modell und Genetik, Monoaminmangelhypothese und Stresshormonachse, die psychologischen Erklärungsmodelle von Seligman bis Teasdale, psychosoziale Faktoren sowie differenzielle Indikation, Wirksamkeitsdebatte um Antidepressiva, Lithium und chronobiologische Verfahren."
+    },
+    {
+      "id": "kl-essstoerungen-grundlagen-epidemiologie",
+      "file": "kl-essstoerungen-grundlagen-epidemiologie.json",
+      "title": "Essstörungen: Grundlagen & Epidemiologie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Essstörungen im Altklausur-Stil: die Minnesota-Hungerstudie und ihre Konsequenz für die Behandlungsreihenfolge, der Überblick über die Störungsbilder einschließlich Pica, Rumination und Nahrungsvermeidung, Epidemiologie von Anorexie, Bulimie und Binge Eating im Vergleich, Mortalität und Suizidrisiko sowie Besonderheiten bei Männern und der Verlauf."
+    },
+    {
+      "id": "kl-anorexia-nervosa-kriterien",
+      "file": "kl-anorexia-nervosa-kriterien.json",
+      "title": "Anorexia nervosa: Kriterien & Schweregrade",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Anorexia nervosa im Altklausur-Stil: die vier klassischen Diagnosekriterien, die Körperschemastörung als überwertige Idee, das im ICD-11 entfallene endokrine Kriterium, typisch anorektische Verhaltensweisen, restriktiver und bulimischer Typus, die drei Schweregrade einschließlich der Recovery-Variante sowie die Abgrenzung zur Bulimia nervosa."
+    },
+    {
+      "id": "kl-bulimie-binge-eating-folgen",
+      "file": "kl-bulimie-binge-eating-folgen.json",
+      "title": "Bulimie, Binge Eating & körperliche Folgen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Essstörungen im Altklausur-Stil: Symptomatik der Bulimia nervosa und die Bandbreite der Kompensationsmaßnahmen einschließlich Insulinpurging, die Kriterien des Binge Eating und seine Folgen sowie die körperlichen, sozialen und psychischen Folgen und die irreversiblen Schäden."
+    },
+    {
+      "id": "kl-essstoerungen-aetiologie-therapie",
+      "file": "kl-essstoerungen-aetiologie-therapie.json",
+      "title": "Essstörungen: Ätiologie, Indikation & Therapie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Essstörungen im Altklausur-Stil: Indikation zur stationären Behandlung und das Refeeding-Syndrom, funktionale Aspekte der Anorexie, Ätiologie und das Modell des gezügelten Essverhaltens, Komorbiditäten und zugrunde liegende Psychodynamik sowie Stand der Therapieforschung und medikamentöse Behandlung."
     }
   ]
 }

@@ -1,0 +1,416 @@
+{
+  "id": "kl-essstoerungen-aetiologie-therapie",
+  "title": "Essstörungen: Ätiologie, Indikation & Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Essstörungen im Altklausur-Stil: Indikation zur stationären Behandlung und das Refeeding-Syndrom, funktionale Aspekte der Anorexie, Ätiologie und das Modell des gezügelten Essverhaltens, Komorbiditäten und zugrunde liegende Psychodynamik sowie Stand der Therapieforschung und medikamentöse Behandlung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Indikation zur stationären Behandlung",
+      "question": "Welche Indikation spricht am ehesten für eine unmittelbar stationäre Behandlung?",
+      "options": [
+        "Ein rascher Gewichtsverlust bei kritischem Untergewicht.",
+        "Eine ausgeprägte Störung der Impulskontrolle im Alltag.",
+        "Das Scheitern einer bisherigen ambulanten Therapie.",
+        "Eine festgefahrene Interaktion innerhalb der Familie.",
+        "Eine zunehmende soziale Isolation der Betroffenen."
+      ],
+      "answer": 0,
+      "explanation": "Ein rascher Gewichtsverlust beziehungsweise kritisches Untergewicht gehört neben somatischen Komplikationen und Suizidgefahr zu den Indikationen für eine unmittelbar stationäre Behandlung. Festgefahrene familiäre Interaktion, soziale Isolation, das Scheitern ambulanter Therapie, Komorbidität mit anderen schweren psychiatrischen Erkrankungen und eine ausgeprägte Impulskontrollstörung sind demgegenüber Indikationen für eine stationäre oder teilstationäre Behandlung."
+    },
+    {
+      "topic": "Indikation zur stationären Behandlung",
+      "question": "Welche Indikation zählt am ehesten NICHT zu den unmittelbar stationären Indikationen?",
+      "options": [
+        "Ein kritisch niedriges Körpergewicht der Betroffenen.",
+        "Ein rasch fortschreitender Gewichtsverlust.",
+        "Somatische Komplikationen im Krankheitsverlauf.",
+        "Das Scheitern einer bisherigen ambulanten Behandlung.",
+        "Eine bestehende Suizidgefahr der Betroffenen."
+      ],
+      "answer": 3,
+      "explanation": "Das Scheitern der ambulanten Therapie gehört zu den Indikationen für eine stationäre oder teilstationäre Behandlung und ist damit die gesuchte Ausnahme. Rascher Gewichtsverlust, kritisches Untergewicht, somatische Komplikationen und Suizidgefahr bilden demgegenüber die Gruppe der unmittelbar stationären Indikationen."
+    },
+    {
+      "topic": "Indikation zur stationären Behandlung",
+      "hard": true,
+      "trap": "Der Anstieg der Herzfrequenz ist bei kritischem Untergewicht paradoxerweise ein Alarmzeichen – nicht ein Zeichen der Erholung.",
+      "question": "Welches Zeichen gilt bei kritischem Untergewicht paradoxerweise als Alarmsignal?",
+      "options": [
+        "Ein Anstieg der Körpertemperatur.",
+        "Ein Anstieg des Körpergewichts.",
+        "Ein Absinken des Blutzuckerspiegels.",
+        "Ein weiteres Absinken der Herzfrequenz.",
+        "Ein Anstieg der Herzfrequenz."
+      ],
+      "answer": 4,
+      "explanation": "Als deutliches Alarmzeichen gilt paradoxerweise der Anstieg der Herzfrequenz – naheliegend wäre die Annahme, ein höherer Puls zeige eine Erholung an. Ein weiteres Absinken der Herzfrequenz ist bei ausgeprägtem Untergewicht der erwartbare Befund. Ein Temperaturanstieg, ein Blutzuckerabfall und ein Gewichtsanstieg werden an dieser Stelle nicht als Alarmzeichen genannt."
+    },
+    {
+      "topic": "Indikation zur stationären Behandlung",
+      "question": "Was wird zur Einschätzung des Behandlungsbedarfs insgesamt betont?",
+      "options": [
+        "Die Indikation ergibt sich ausschließlich aus den Laborwerten.",
+        "Allgemeine Grenzwerte sind der individuellen Einschätzung grundsätzlich überlegen.",
+        "Die individuelle klinische Einschätzung wiegt schwerer als allgemeine Kriterien.",
+        "Die Indikation ergibt sich ausschließlich aus dem Körpermasseindex.",
+        "Eine Einschätzung des Risikos ist praktisch nicht möglich."
+      ],
+      "answer": 2,
+      "explanation": "Ausdrücklich betont wird, dass die individuelle klinische Einschätzung wichtiger ist als allgemeine Kriterien – Scores und Grenzwerte sind Orientierungshilfen, nicht Ersatz. Ein Vorrang allgemeiner Grenzwerte kehrt das um. Eine Ableitung allein aus dem Körpermasseindex oder allein aus Laborwerten greift ebenso zu kurz. Und eine Risikoeinschätzung ist mit den vorhandenen Instrumenten sehr wohl möglich."
+    },
+    {
+      "topic": "Refeeding-Syndrom",
+      "hard": true,
+      "trap": "Bei sehr niedrigem Körpermasseindex ist langsame Gewichtszunahme geboten – bei moderater Ausprägung verzögert genau das die Behandlung unnötig.",
+      "question": "Für welche Betroffenen gilt die Empfehlung einer sehr langsamen Gewichtszunahme?",
+      "options": [
+        "Für alle Betroffenen mit einer Anorexia nervosa.",
+        "Für Betroffene mit einer Bulimia nervosa.",
+        "Für Betroffene mit sehr niedrigem Körpermasseindex.",
+        "Für Betroffene mit moderat ausgeprägter Anorexie.",
+        "Für Betroffene mit einem Binge Eating."
+      ],
+      "answer": 2,
+      "explanation": "Wegen der Elektrolytimbalance sollen Betroffene mit sehr niedrigem Körpermasseindex zu Beginn nur sehr langsam zunehmen, unter engmaschiger Laborkontrolle. Bei höherem Ausgangswert und moderat ausgeprägter Anorexie gilt diese Empfehlung ausdrücklich nicht – eine zu langsame Kaloriensteigerung zieht die Behandlung dort unnötig in die Länge. Eine pauschale Geltung für alle Anorexie-Betroffenen ist damit unzutreffend, und Bulimie sowie Binge Eating sind nicht gemeint."
+    },
+    {
+      "topic": "Refeeding-Syndrom",
+      "question": "Welche Maßnahme ist bei sehr niedrigem Ausgangsgewicht zwingend erforderlich?",
+      "options": [
+        "Ein vollständiger Verzicht auf jede Kalorienzufuhr.",
+        "Eine engmaschige Kontrolle der Laborwerte.",
+        "Ein sofortiger Beginn einer Konfrontationstherapie.",
+        "Eine ausschließlich ambulante Weiterbehandlung.",
+        "Eine sofortige hochkalorische Ernährung."
+      ],
+      "answer": 1,
+      "explanation": "Bei sehr niedrigem Ausgangsgewicht ist eine engmaschige Laborkontrolle Pflicht, weil die Elektrolytimbalance das zentrale Risiko darstellt. Eine sofortige hochkalorische Ernährung wäre genau der gefährliche Weg. Ein vollständiger Kalorienverzicht widerspricht dem Behandlungsziel. Eine ausschließlich ambulante Weiterbehandlung ist bei kritischem Untergewicht nicht angezeigt. Und eine Konfrontationstherapie ist an dieser Stelle nicht das Thema."
+    },
+    {
+      "topic": "Refeeding-Syndrom",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine Patientin ist zu Beginn der Gewichtszunahme sehr belastet, weil sich das Fettgewebe zunächst an bestimmten Stellen ansammelt. Was ist ihr am ehesten zu vermitteln?",
+      "options": [
+        "Dass sich das Fettgewebe im Verlauf gleichmäßig verteilt.",
+        "Dass dies ein Zeichen einer Fehlernährung darstellt.",
+        "Dass dies auf ein beginnendes Refeeding-Syndrom hinweist.",
+        "Dass die Verteilung dauerhaft so bleiben wird.",
+        "Dass die Zunahme deshalb verlangsamt werden sollte."
+      ],
+      "answer": 0,
+      "explanation": "Zu Beginn der Gewichtszunahme kommt es oft zu einer subjektiv ungünstigen Fettanlagerung an bestimmten Stellen; im Verlauf verteilt sich das Fettgewebe dann gleichmäßig – die transparente Aufklärung darüber wird ausdrücklich als wichtig hervorgehoben. Eine dauerhafte Verteilung anzukündigen wäre falsch und würde die Belastung verstärken. Eine Verlangsamung der Zunahme ist deswegen nicht angezeigt. Und weder eine Fehlernährung noch ein beginnendes Refeeding-Syndrom ist damit angezeigt."
+    },
+    {
+      "topic": "Funktionale Aspekte",
+      "question": "Welcher funktionale Aspekt wird für die Anorexia nervosa am ehesten NICHT genannt?",
+      "options": [
+        "Das Erlangen von Autonomie gegenüber der Familie.",
+        "Der Beweis von Kontrolle über den eigenen Körper.",
+        "Der Erwerb von Selbstbewusstsein und Selbstwertgefühl.",
+        "Die Steigerung der körperlichen Leistungsfähigkeit.",
+        "Der Schutz vor den Anforderungen des Erwachsenenlebens."
+      ],
+      "answer": 3,
+      "explanation": "Eine Steigerung der körperlichen Leistungsfähigkeit gehört nicht zu den genannten funktionalen Aspekten und ist damit die gesuchte Ausnahme. Aufgeführt werden das Erlangen von Autonomie, der Erwerb von Selbstbewusstsein und Selbstwertgefühl, ein Gefühl von Stolz, ein Hilferuf nach Liebe und Anerkennung, der Schutz vor den Anforderungen des Erwachsenenlebens, vor Sexualität und vor Leistungsanforderungen, der Beweis von Kontrolle, die Aufrechterhaltung der familiären Homöostase und der Sieg über die Angst vor dem Mittelmaß."
+    },
+    {
+      "topic": "Funktionale Aspekte",
+      "transfer": true,
+      "question": "Eine Jugendliche beschreibt, dass sie sich durch das Hungern erstmals als jemand erlebt, der etwas schafft, was andere nicht schaffen. Welcher funktionale Aspekt zeigt sich hier?",
+      "options": [
+        "Der Schutz vor der eigenen Sexualität.",
+        "Der Hilferuf nach Liebe und Geborgenheit.",
+        "Die Aufrechterhaltung der familiären Homöostase.",
+        "Das Erlangen eines Gefühls von Stolz.",
+        "Der Schutz vor Leistungsanforderungen im Alltag."
+      ],
+      "answer": 3,
+      "explanation": "Das Gefühl, etwas zu schaffen, was anderen nicht gelingt, entspricht dem als funktionaler Aspekt genannten Erlangen von Stolz nach dem Muster „ich schaffe es“. Der Schutz vor Sexualität und vor Leistungsanforderungen betrifft die Vermeidung von Anforderungen und nicht den Leistungsstolz. Die Aufrechterhaltung der familiären Homöostase betrifft das Familiensystem. Und ein Hilferuf nach Liebe und Geborgenheit richtet sich an andere statt auf die eigene Leistung."
+    },
+    {
+      "topic": "Funktionale Aspekte",
+      "question": "Worauf zielt das Erlangen von Autonomie als funktionaler Aspekt in erster Linie?",
+      "options": [
+        "Auf die Befreiung aus der Verklammerung mit der Familie.",
+        "Auf die Loslösung von der eigenen Altersgruppe insgesamt.",
+        "Auf die Unabhängigkeit von medizinischer Behandlung.",
+        "Auf die finanzielle Unabhängigkeit vom Elternhaus.",
+        "Auf den vorzeitigen Auszug aus der elterlichen Wohnung."
+      ],
+      "answer": 0,
+      "explanation": "Das Erlangen von Autonomie zielt in erster Linie auf die Befreiung aus der starken Verklammerung mit der Familie und die Loslösung von den Werten und Vorstellungen der Eltern. Finanzielle Unabhängigkeit und Auszug sind äußere Aspekte, die hier nicht gemeint sind. Eine Unabhängigkeit von medizinischer Behandlung ist nicht angesprochen. Und eine Loslösung von der Altersgruppe kehrt die Richtung der Ablösung um."
+    },
+    {
+      "topic": "Ätiologie",
+      "question": "Welcher Bereich zählt am ehesten NICHT zu den genannten ätiologischen Faktoren?",
+      "options": [
+        "Soziokulturelle Faktoren wie gesellschaftlicher Druck.",
+        "Organische Ursachen im Bereich der Sättigungsregulation.",
+        "Persönlichkeitsbezogene Faktoren wie Minderwertigkeitsgefühle.",
+        "Eine frühkindliche Infektion des Zentralnervensystems.",
+        "Genetische Faktoren mit familiärer Häufung."
+      ],
+      "answer": 3,
+      "explanation": "Eine frühkindliche Infektion des Zentralnervensystems gehört nicht zu den genannten ätiologischen Faktoren und ist damit die gesuchte Ausnahme. Aufgeführt werden genetische Faktoren, organische Ursachen mit Dysregulation hypothalamischer Kontrollzentren und Störung serotonerger Transmission, soziokulturelle Faktoren wie gesellschaftlicher Druck und familiäre Struktur sowie persönlichkeitsbezogene Faktoren."
+    },
+    {
+      "topic": "Ätiologie",
+      "question": "Welche organische Ursache wird für die Essstörungen genannt?",
+      "options": [
+        "Eine Schädigung des präfrontalen Kortex durch Untergewicht.",
+        "Eine Dysregulation hypothalamischer Kontrollzentren.",
+        "Eine Entzündung der Magenschleimhaut mit Appetitverlust.",
+        "Eine Fehlfunktion der Bauchspeicheldrüse mit Insulinmangel.",
+        "Eine Überfunktion der Schilddrüse mit Stoffwechselsteigerung."
+      ],
+      "answer": 1,
+      "explanation": "Als organische Ursachen werden eine Dysregulation hypothalamischer Kontrollzentren im Bereich der Sättigungsregulation sowie eine Störung der serotonergen Transmission genannt. Eine Schädigung des präfrontalen Kortex, eine Schilddrüsenüberfunktion, ein Insulinmangel und eine Magenschleimhautentzündung werden in diesem Zusammenhang nicht als ätiologische Faktoren angeführt."
+    },
+    {
+      "topic": "Ätiologie",
+      "question": "Welche Aussage zu den genetischen Befunden bei Essstörungen trifft am ehesten zu?",
+      "options": [
+        "Bei eineiigen Zwillingen besteht praktisch vollständige Konkordanz.",
+        "Die Konkordanz ist bei beiden Zwillingsarten praktisch gleich hoch.",
+        "Die Konkordanz ist bei zweieiigen deutlich höher als bei eineiigen Zwillingen.",
+        "Die Konkordanz ist bei eineiigen deutlich höher als bei zweieiigen Zwillingen.",
+        "Zwillingsbefunde liegen zu Essstörungen bislang nicht vor."
+      ],
+      "answer": 3,
+      "explanation": "Die Konkordanzrate liegt bei eineiigen Zwillingen deutlich über der bei zweieiigen – daraus wird auf einen erheblichen genetischen Beitrag geschlossen. Ein umgekehrtes Verhältnis oder eine gleich hohe Konkordanz widerspricht dem. Eine praktisch vollständige Konkordanz bei eineiigen Zwillingen überzeichnet den Befund und ließe keinen Raum für Umweltfaktoren. Und Zwillingsbefunde liegen sehr wohl vor."
+    },
+    {
+      "topic": "Ätiologie",
+      "question": "Welches Persönlichkeitsmerkmal wird in der Ätiologieübersicht genannt?",
+      "options": [
+        "Eine besonders hohe Frustrationstoleranz im Alltag.",
+        "Eine besonders stabile Wahrnehmung der eigenen Person.",
+        "Ein ausgeprägtes Gefühl der eigenen Grandiosität.",
+        "Eine ausgeprägte Gleichgültigkeit gegenüber anderen.",
+        "Ein ausgeprägtes Gefühl der Minderwertigkeit."
+      ],
+      "answer": 4,
+      "explanation": "Genannt werden ein Gefühl der Minderwertigkeit, eine gestörte Wahrnehmung der eigenen Persönlichkeit und eine problematische Zwischenmenschlichkeit. Grandiosität, hohe Frustrationstoleranz, Gleichgültigkeit gegenüber anderen und eine stabile Selbstwahrnehmung beschreiben jeweils das Gegenteil oder werden nicht aufgeführt."
+    },
+    {
+      "topic": "Gezügeltes Essverhalten",
+      "hard": true,
+      "trap": "Diäten und bewusstes Zügeln wirken als „Einstiegsdroge“ – sie erhöhen das Risiko, statt es zu senken.",
+      "question": "Wie wirken Diäten und bewusstes Zügeln des Nahrungskonsums nach dem Modell des gezügelten Essverhaltens?",
+      "options": [
+        "Als geeignete Behandlungsmaßnahme bei Essanfällen.",
+        "Als wirksamer Schutzfaktor gegen die Entwicklung einer Essstörung.",
+        "Als für die Störungsentwicklung völlig bedeutungslos.",
+        "Als ausschließlich bei Adipositas relevanter Faktor.",
+        "Als Einstiegsdrogen für die Entwicklung einer Essstörung."
+      ],
+      "answer": 4,
+      "explanation": "Diäten, bewusstes Zügeln und Lebensweisen, die eine Kontrolle der Nahrungsaufnahme verlangen, wirken ausdrücklich als Einstiegsdrogen. Ein Schutzfaktor wäre das Gegenteil, und Bedeutungslosigkeit widerspricht der ausdrücklichen Nennung. Als Behandlungsmaßnahme bei Essanfällen wären sie kontraindiziert, da sie den Teufelskreis verstärken. Und eine Beschränkung auf die Adipositas besteht nicht."
+    },
+    {
+      "topic": "Gezügeltes Essverhalten",
+      "question": "Welcher Mechanismus zählt am ehesten NICHT zu den beim gezügelten Essverhalten genannten?",
+      "options": [
+        "Das Auftreten von Hunger- und Frustrationsgefühlen.",
+        "Ein erhöhter Anreiz der als verboten geltenden Speisen.",
+        "Eine Verstärkung der körpereigenen Sättigungssignale.",
+        "Die Löschung konditionierter Sättigungssignale.",
+        "Das Auftreten von ausgeprägtem Heißhunger."
+      ],
+      "answer": 2,
+      "explanation": "Beschrieben wird gerade die Löschung konditionierter Sättigungssignale und nicht deren Verstärkung – die erste Aussage kehrt den Mechanismus um und ist damit die gesuchte Ausnahme. Genannt werden zudem Hunger- und Frustrationsgefühle, der erhöhte Anreiz verbotener Lebensmittel, Heißhunger sowie die Inaktivierung der psychophysiologischen Regulation der Nahrungsaufnahme."
+    },
+    {
+      "topic": "Gezügeltes Essverhalten",
+      "question": "Wie reagieren Betroffene nach dem Modell typischerweise auf das Auftreten erster Essanfälle?",
+      "options": [
+        "Mit einer unveränderten Fortführung des Verhaltens.",
+        "Mit einer vollständigen Aufgabe jeder Kontrolle.",
+        "Mit dem sofortigen Aufsuchen professioneller Hilfe.",
+        "Mit einer Verschärfung der kognitiven Kontrolle.",
+        "Mit einer deutlichen Lockerung der Essensregeln."
+      ],
+      "answer": 3,
+      "explanation": "Sobald Fressanfälle auftreten, kommt es zu einer Verschärfung der kognitiven Kontrolle – daraus entsteht der Teufelskreis aus Fasten und Essen. Eine Lockerung der Regeln oder eine vollständige Kontrollaufgabe würde den Kreislauf gerade unterbrechen. Das sofortige Aufsuchen von Hilfe ist nicht der beschriebene Mechanismus. Und eine unveränderte Fortführung erklärt die Zuspitzung nicht."
+    },
+    {
+      "topic": "Gezügeltes Essverhalten",
+      "transfer": true,
+      "question": "Eine Studentin beginnt eine strenge Diät, entwickelt Heißhungerattacken und verschärft daraufhin ihre Essensregeln weiter. Welches Modell beschreibt diesen Verlauf?",
+      "options": [
+        "Das Modell des gezügelten Essverhaltens.",
+        "Das Modell der hypothalamischen Dysregulation.",
+        "Das Modell der familiären Homöostase.",
+        "Das Modell der serotonergen Transmissionsstörung.",
+        "Das soziokulturelle Modell des gesellschaftlichen Drucks."
+      ],
+      "answer": 0,
+      "explanation": "Der geschilderte Ablauf entspricht genau dem Teufelskreis des gezügelten Essverhaltens: Zügeln führt zu Heißhunger, der Heißhunger führt zur Verschärfung der Kontrolle, und diese wiederum verstärkt den Kreislauf. Die hypothalamische Dysregulation und die serotonerge Transmissionsstörung sind organische Erklärungsansätze ohne diesen Verhaltenskreislauf. Das soziokulturelle Modell erklärt den Einstieg, nicht die Aufschaukelung. Und die familiäre Homöostase betrifft die Funktion im Familiensystem."
+    },
+    {
+      "topic": "Komorbidität und Psychodynamik",
+      "question": "Welche Störung zählt am ehesten NICHT zu den genannten Komorbiditäten der Anorexia nervosa?",
+      "options": [
+        "Die depressive Störung im weiteren Krankheitsverlauf.",
+        "Die schizophrene Erkrankung des psychotischen Formenkreises.",
+        "Die posttraumatische Belastungsstörung nach Traumatisierung.",
+        "Die Zwangsstörung mit ritualisierten Kontrollhandlungen.",
+        "Die soziale Angststörung mit ausgeprägtem Vermeidungsverhalten."
+      ],
+      "answer": 1,
+      "explanation": "Eine schizophrene Erkrankung wird nicht unter den Komorbiditäten der Anorexia nervosa aufgeführt und ist damit die gesuchte Ausnahme. Genannt werden Depressionen, soziale Angststörungen, Zwangsstörung, posttraumatische Belastungsstörung sowie die zwanghafte und die selbstunsichere Persönlichkeitsstörung."
+    },
+    {
+      "topic": "Komorbidität und Psychodynamik",
+      "question": "Welche Persönlichkeitsstörungen werden als Komorbiditäten der Anorexia nervosa genannt?",
+      "options": [
+        "Die Borderline- und die dependente Form.",
+        "Die dissoziale und die narzisstische Form.",
+        "Die zwanghafte und die selbstunsichere Form.",
+        "Die paranoide und die schizoide Form.",
+        "Die histrionische und die schizotype Form."
+      ],
+      "answer": 2,
+      "explanation": "Als komorbide Persönlichkeitsstörungen bei der Anorexia nervosa werden die zwanghafte und die selbstunsichere Form genannt. Die dissoziale, narzisstische, histrionische, schizotype, paranoide und schizoide Form werden in dieser Aufzählung nicht geführt. Die Borderline-Störung wird zwar als problematische Komorbidität mit hoher Impulsivität erwähnt, jedoch nicht in dieser Zusammenstellung mit der dependenten Form."
+    },
+    {
+      "topic": "Komorbidität und Psychodynamik",
+      "hard": true,
+      "trap": "Anders als die meisten Diagnosen enthält die Essstörungsdiagnose selbst keine Information über die zugrunde liegende Psychodynamik.",
+      "question": "Worin liegt die Besonderheit der Essstörungsdiagnosen gegenüber anderen Diagnosen?",
+      "options": [
+        "Sie sind die einzigen Diagnosen ohne Zeitkriterium überhaupt.",
+        "Sie enthalten keine Information über die zugrunde liegende Psychodynamik.",
+        "Sie enthalten keinerlei Information über körperliche Faktoren.",
+        "Sie leiten unmittelbar ein bestimmtes Therapieverfahren ab.",
+        "Sie enthalten besonders präzise Angaben zur Psychodynamik der Störung."
+      ],
+      "answer": 1,
+      "explanation": "Diagnosen enthalten in der Regel Informationen über die Psychodynamik der Störung, woraus sich therapeutische Ansatzpunkte ableiten – etwa Angststörung, Vermeidung, Konfrontation. Die Essstörungsdiagnosen bilden hier eine Ausnahme: Enthalten ist lediglich die Information, dass ein körperlicher Faktor Teil der Störung ist. Präzise Angaben zur Psychodynamik oder eine unmittelbare Verfahrensableitung sind deshalb gerade nicht gegeben. Dass keinerlei Information über körperliche Faktoren enthalten sei, kehrt die Aussage um. Und ein fehlendes Zeitkriterium trifft nicht zu."
+    },
+    {
+      "topic": "Komorbidität und Psychodynamik",
+      "question": "Welche Dynamik zählt am ehesten NICHT zu den bei der Anorexie zu identifizierenden Kategorien?",
+      "options": [
+        "Die Angstdynamik mit Vermeidungsverhalten.",
+        "Die Zwangsdynamik mit ritualisierten Abläufen.",
+        "Die dissoziative Dynamik mit Identitätswechsel.",
+        "Die körperdysmorphe Dynamik der Körperwahrnehmung.",
+        "Die Suchtdynamik im Umgang mit dem Verhalten."
+      ],
+      "answer": 2,
+      "explanation": "Eine dissoziative Dynamik mit Identitätswechsel wird in dieser Aufzählung nicht geführt und ist damit die gesuchte Ausnahme. Genannt werden Sucht, Psychose, Zwang, Angst, Impulskontrollstörung und körperdysmorphe Störung als Kategorien, unter die sich die jeweilige Dynamik der Anorexie einordnen lässt und aus denen sich therapeutische Ableitungen ergeben."
+    },
+    {
+      "topic": "Komorbidität und Psychodynamik",
+      "transfer": true,
+      "question": "Bei einer Patientin stehen ritualisierte Abläufe beim Essen, Abwiegen und Kontrollieren ganz im Vordergrund. Welcher Dynamik ist das am ehesten zuzuordnen?",
+      "options": [
+        "Der Impulskontrolldynamik.",
+        "Der körperdysmorphen Dynamik.",
+        "Der Psychosedynamik.",
+        "Der Suchtdynamik.",
+        "Der Zwangsdynamik."
+      ],
+      "answer": 4,
+      "explanation": "Ritualisierte Abläufe mit Abwiegen und Kontrollieren entsprechen der Zwangsdynamik, aus der sich therapeutisch die Arbeit an Ritualen und Kontrollverhalten ableitet. Die Suchtdynamik betrifft das Craving-artige Erleben, die Psychosedynamik die Realitätsferne der Überzeugung. Die Impulskontrolldynamik zeigt sich in Essanfällen und Purging. Und die körperdysmorphe Dynamik betrifft die verzerrte Körperwahrnehmung."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "question": "Wie schneidet die Psychotherapie bei der Bulimie im Vergleich zur Pharmakotherapie ab?",
+      "options": [
+        "Ein Vergleich wurde bislang nicht durchgeführt.",
+        "Beim Heißhunger deutlich besser als die Medikation.",
+        "Beim Heißhunger deutlich schlechter als die Medikation.",
+        "In allen Symptombereichen deutlich schlechter.",
+        "In allen Symptombereichen praktisch gleichwertig."
+      ],
+      "answer": 1,
+      "explanation": "Die kognitive Verhaltenstherapie und die interpersonale Therapie erreichen beim Heißhunger deutlich höhere Symptomfreiheitsraten als die Pharmakotherapie; beim Erbrechen liegen beide Ansätze etwa gleichauf. Eine durchgehende Unterlegenheit oder Gleichwertigkeit übersieht den Unterschied beim Heißhunger. Und Vergleichsdaten liegen sehr wohl vor."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "question": "Wie wird das Selbstbehandlungsmanual im Vergleich zur kognitiven Verhaltenstherapie eingeschätzt?",
+      "options": [
+        "Ausschließlich bei der Anorexia nervosa untersucht.",
+        "Effektiv, aber der Verhaltenstherapie unterlegen.",
+        "Effektiv und der Verhaltenstherapie deutlich überlegen.",
+        "Der Verhaltenstherapie in jeder Hinsicht gleichwertig.",
+        "Vollständig wirkungslos in allen Symptombereichen."
+      ],
+      "answer": 1,
+      "explanation": "Das Selbstbehandlungsmanual gilt als effektiv, bleibt aber hinter der kognitiven Verhaltenstherapie zurück. Eine Überlegenheit kehrt das um, und vollständige Wirkungslosigkeit widerspricht der attestierten Effektivität. Eine Gleichwertigkeit in jeder Hinsicht übersieht den Abstand. Und untersucht wurde es im Kontext der Bulimie-Behandlung."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "question": "Welches Problem wird für die Pharmakotherapie und die Kombinationsbehandlung übereinstimmend genannt?",
+      "options": [
+        "Eine fehlende Verfügbarkeit geeigneter Substanzen.",
+        "Eine Verschlechterung der Symptomatik unter Behandlung.",
+        "Eine vollständig fehlende Wirksamkeit.",
+        "Eine ausschließliche Anwendbarkeit im stationären Rahmen.",
+        "Eine hohe Abbruchrate der Behandlung."
+      ],
+      "answer": 4,
+      "explanation": "Sowohl für die Pharmakotherapie als auch für die Kombinationsbehandlung wird eine hohe Abbruchrate als Problem benannt, bei der Pharmakotherapie zum Teil wegen der Nebenwirkungen. Eine vollständig fehlende Wirksamkeit widerspricht den berichteten Symptomfreiheitsraten. Eine Verschlechterung unter Behandlung wird nicht berichtet. Eine Beschränkung auf den stationären Rahmen besteht nicht. Und geeignete Substanzen stehen zur Verfügung."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "question": "Welchen Zusatznutzen bringt die Kombination aus Antidepressiva und Psychotherapie?",
+      "options": [
+        "Keinerlei messbaren Effekt gegenüber der Einzelbehandlung.",
+        "Eine deutliche Senkung der Abbruchrate der Behandlung.",
+        "Eine leichte Überlegenheit bei Angst und Depression.",
+        "Eine deutliche Überlegenheit in allen Symptombereichen.",
+        "Eine deutliche Überlegenheit bei den Essanfällen selbst."
+      ],
+      "answer": 2,
+      "explanation": "Die Kombinationsbehandlung zeigt eine leichte Überlegenheit hinsichtlich Angst und Depression, aber keinen deutlichen Vorteil gegenüber der Verhaltenstherapie allein. Eine deutliche Überlegenheit in allen Bereichen oder bei den Essanfällen selbst überzeichnet den Befund. Die Abbruchrate bleibt gerade ein Problem und sinkt nicht. Und ein völlig fehlender Effekt widerspricht der berichteten leichten Überlegenheit."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "hard": true,
+      "trap": "Für die Anorexia nervosa ist kein Medikament zugelassen – anders als für die Bulimie.",
+      "question": "Welche Aussage zur medikamentösen Behandlung der Anorexia nervosa trifft zu?",
+      "options": [
+        "Ein Stimmungsstabilisator ist für diese Indikation zugelassen.",
+        "Die medikamentöse Behandlung ist Mittel der ersten Wahl.",
+        "Mehrere Antidepressiva sind für genau diese Indikation zugelassen.",
+        "Ein Antipsychotikum ist für diese Indikation zugelassen.",
+        "Es ist kein Medikament für diese Indikation zugelassen."
+      ],
+      "answer": 4,
+      "explanation": "Für die Anorexia nervosa liegen keine Wirksamkeitsnachweise vor, weshalb kein Medikament zugelassen ist; erwähnt wird lediglich ein Off-Label-Gebrauch eines atypischen Antipsychotikums zur Reduktion von Gedankenkreisen und zwanghaften Verhaltensweisen. Eine Zulassung von Antidepressiva, Antipsychotika oder Stimmungsstabilisatoren für diese Indikation besteht deshalb nicht. Und Mittel der ersten Wahl ist die medikamentöse Behandlung erst recht nicht."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "hard": true,
+      "question": "Welches Medikament wird für die Bulimia nervosa empfohlen und mit welchem Wirkziel?",
+      "options": [
+        "Fluoxetin zur Hemmung der Impulsivität.",
+        "Olanzapin zur Reduktion des zwanghaften Gedankenkreisens.",
+        "Ein Neuroleptikum gegen wahnhaft anmutende Kognitionen.",
+        "Ein Stimmungsstabilisator gegen Stimmungsschwankungen.",
+        "Naltrexon zur Reduktion dissoziativer Symptomatik."
+      ],
+      "answer": 0,
+      "explanation": "Für die Bulimia nervosa wird Fluoxetin empfohlen, und zwar mit dem Wirkziel einer Hemmung der Impulsivität und damit einer Reduktion der Anzahl von Essanfällen. Olanzapin kommt im Off-Label-Gebrauch bei der Anorexie gegen Gedankenkreisen und zwanghaftes Verhalten in Betracht. Naltrexon, Stimmungsstabilisatoren und Neuroleptika werden im Rahmen der symptomorientierten Behandlung von Begleitproblematiken genannt, nicht als Empfehlung für die Bulimie selbst."
+    },
+    {
+      "topic": "Therapieforschung und Medikation",
+      "transfer": true,
+      "question": "Bei einer Patientin mit Anorexie und komorbider posttraumatischer Belastungsstörung steht eine ausgeprägte dissoziative Symptomatik im Vordergrund. Welche Substanz kommt symptomorientiert in Betracht?",
+      "options": [
+        "Naltrexon gegen die dissoziative Symptomatik.",
+        "Fluoxetin gegen die dissoziative Symptomatik im Vordergrund.",
+        "Ein Stimmungsstabilisator gegen die Dissoziation.",
+        "Olanzapin gegen die dissoziative Symptomatik.",
+        "Eine medikamentöse Behandlung ist hier ausgeschlossen."
+      ],
+      "answer": 0,
+      "explanation": "Im Rahmen der syndromalen beziehungsweise symptomorientierten Behandlung von Begleitproblematiken wird Naltrexon bei starker Dissoziation im Rahmen einer komorbiden posttraumatischen Belastungsstörung genannt. Fluoxetin ist für die Bulimie und die Impulsivität vorgesehen, Olanzapin im Off-Label-Gebrauch gegen Gedankenkreisen bei der Anorexie. Stimmungsstabilisatoren kommen bei ausgeprägten Stimmungsschwankungen in Betracht. Und eine medikamentöse Behandlung der Begleitproblematik ist ausdrücklich vorgesehen."
+    }
+  ]
+}
