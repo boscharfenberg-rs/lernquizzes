@@ -1,0 +1,389 @@
+{
+  "id": "kan-methoden-1",
+  "title": "Methoden I – MRT, DTI und fMRT",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden I: Grundlagen der MRT-Physik und des T1-Kontrasts, strukturelle Maße, Diffusion und DTI, BOLD-Effekt und neurovaskuläre Kopplung, funktionelle Konnektivität sowie Interpretationsfehler wie multiples Testen und reverse inference. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Bildgebung – Grundlagen",
+      "question": "Was kennzeichnet bildgebende Methoden?",
+      "options": [
+        "Sie erfassen ausschließlich zeitliche Abläufe ohne räumliche Zuordnung",
+        "Sie messen die elektrische Aktivität einzelner Nervenzellen an der Oberfläche",
+        "Sie visualisieren anatomische Strukturen des Körpers präzise im Raum",
+        "Sie ordnen den Messwerten Koordinaten in einem zweidimensionalen System zu"
+      ],
+      "answer": 2,
+      "explanation": "Bildgebende Methoden erlauben es, anatomische Strukturen des Körpers präzise zu visualisieren; gemessen werden dabei etwa die Dichte eines Gewebes oder zeitliche Abläufe. Eine Beschränkung auf zeitliche Abläufe ohne räumliche Zuordnung trifft deshalb nicht zu. Auch das zweidimensionale Koordinatensystem ist falsch: Jedem Punkt des Körpers werden Koordinaten in einem dreidimensionalen System zugeordnet. Und die Ableitung der Aktivität einzelner Nervenzellen ist nicht Gegenstand der hier behandelten bildgebenden Verfahren."
+    },
+    {
+      "topic": "Bildgebung – Grundlagen",
+      "question": "Welcher Punkt spricht NICHT für die besondere Eignung der MRT in den kognitiven Neurowissenschaften?",
+      "options": [
+        "Der Verzicht auf ionisierende Strahlung bei der Untersuchung",
+        "Die Anreicherung von Radioisotopen zur Verstärkung des Gewebekontrasts",
+        "Die hohen Gewebekontraste bei zugleich hoher räumlicher Auflösung",
+        "Die inzwischen hohe Verfügbarkeit des Verfahrens in Klinik und Forschung"
+      ],
+      "answer": 1,
+      "explanation": "Gerade der Verzicht auf Radioisotope zählt zu den Vorzügen der MRT – die Anreicherung von Radioisotopen ist deshalb die gesuchte, nicht zutreffende Begründung; sie kennzeichnet nuklearmedizinische Verfahren. Zutreffend sind dagegen der Verzicht auf ionisierende Strahlung, die hohen Gewebekontraste bei hoher Auflösung und die hohe Verfügbarkeit; hinzu kommt, dass auch keine Kontrastmittel nötig sind."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "question": "Wozu dient das statische Magnetfeld bei der Magnetresonanztomographie?",
+      "options": [
+        "Zur Beschleunigung des Blutflusses in den Kapillaren",
+        "Zur räumlichen Ausrichtung der Neurone im Gewebe",
+        "Zur Anreicherung eines Kontrastmittels im Zielgewebe",
+        "Zur räumlichen Ausrichtung der Atomkerne im Gewebe"
+      ],
+      "answer": 3,
+      "explanation": "Das sehr starke statische Magnetfeld richtet die Atomkerne räumlich aus; erst dadurch lassen sie sich anschließend über elektromagnetische Wechselfelder beeinflussen. Die Neurone selbst werden nicht ausgerichtet – gemessen wird das Verhalten der Atomkerne. Eine Beschleunigung des Blutflusses findet nicht statt; Blutfluss und Oxygenierung sind Gegenstand des fMRT und ändern sich durch neurovaskuläre Kopplung, nicht durch das Magnetfeld. Und ein Kontrastmittel wird bei der MRT gerade nicht benötigt."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "hard": true,
+      "question": "Wann besteht bei der Magnetresonanztomographie eine Resonanzbedingung?",
+      "options": [
+        "Wenn die Spins ihre Ausgangslage nach dem Puls wieder erreicht haben",
+        "Wenn die Radiofrequenz der Lamorfrequenz der Spins entspricht",
+        "Wenn die Radiofrequenz deutlich über der Lamorfrequenz liegt",
+        "Wenn das statische Magnetfeld vollständig abgeschaltet wurde"
+      ],
+      "answer": 1,
+      "explanation": "Eine Resonanzbedingung besteht, wenn die eingestrahlte Radiofrequenz (HF-Puls) der Lamorfrequenz entspricht, also der Präzessionsgeschwindigkeit der Spins – nur dann lassen sich die Spins beeinflussen; daher der Name Magnetresonanz-Tomographie. Eine deutlich abweichende Frequenz erfüllt die Bedingung gerade nicht. Das statische Magnetfeld wird nicht abgeschaltet, sondern hält die Ausrichtung aufrecht. Und die Rückkehr der Spins in die Ausgangslage beschreibt die longitudinale Relaxation nach dem Puls, nicht die Resonanzbedingung."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "question": "Welche Aussage zum 90-Grad-Puls trifft NICHT zu?",
+      "options": [
+        "Er kippt die Magnetisierung, sodass die Spins quer zum Feld stehen",
+        "Die kreisenden Spins erzeugen dabei ein elektromagnetisches Wechselfeld",
+        "Dieses Wechselfeld wird von Antennen wie der Kopfspule empfangen",
+        "Er richtet die Atomkerne erstmals entlang des statischen Feldes aus"
+      ],
+      "answer": 3,
+      "explanation": "Die Ausrichtung der Atomkerne besorgt bereits das statische Magnetfeld, noch bevor ein Puls eingestrahlt wird – die Zuschreibung an den 90-Grad-Puls ist deshalb die gesuchte falsche Aussage. Richtig ist, dass der Puls die Magnetisierung kippt, sodass sich die Spins quer zum statischen Magnetfeld drehen; dabei erzeugen sie – ähnlich wie in einem Fahrraddynamo – ein elektromagnetisches Wechselfeld, das von Antennen wie der Kopfspule empfangen wird."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "hard": true,
+      "trap": "Amplitude → Grauwert; Schicht, Phase und Frequenz → Position. Diese Zuordnung wird gern vertauscht.",
+      "question": "Wie werden die gemessenen Signalanteile bei der MRT in ein Bild übersetzt?",
+      "options": [
+        "Die Amplitude ergibt den Grauwert, Schicht, Phase und Frequenz die Position",
+        "Der Grauwert wird aus der Feldstärke des statischen Magnetfelds berechnet",
+        "Die Phasenlage ergibt den Grauwert, die Amplitude die Schichtzugehörigkeit",
+        "Die Frequenz ergibt den Grauwert, Amplitude und Phase die räumliche Position"
+      ],
+      "answer": 0,
+      "explanation": "Amplitude, Frequenz und Phasenlage der freigesetzten Energie werden schichtweise bestimmt und in einen Grauwert mit räumlicher Position übertragen: Die Amplitude liefert den Grauwert, Schicht, Phase und Frequenz liefern die Position. Die beiden Varianten, in denen Frequenz oder Phasenlage den Grauwert bestimmen, vertauschen genau diese Zuordnung. Und die Feldstärke des statischen Magnetfelds ist eine Geräteeigenschaft, aus der sich kein gewebespezifischer Grauwert berechnen lässt."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "question": "Welche Aussage zur longitudinalen Relaxation trifft am ehesten zu?",
+      "options": [
+        "Sie läuft nach Abschalten der Radiofrequenz ab und ist gewebespezifisch",
+        "Sie bezeichnet die Zeitkonstante, mit der das Blut oxygeniert wird",
+        "Sie beschreibt die Querstellung der Spins zum statischen Magnetfeld",
+        "Sie läuft während des Radiofrequenzpulses ab und ist gewebeunabhängig"
+      ],
+      "answer": 0,
+      "explanation": "Nach Abschaltung der Radiofrequenz kehren die Spins in ihre Ausgangslage zurück; diese longitudinale Relaxation ist gewebespezifisch, und ihre Zeitkonstante wird als T1 bezeichnet – daraus ergeben sich über die Signaldifferenz die Grauwerte des T1-Kontrasts. Während des Pulses läuft sie gerade nicht ab, und gewebeunabhängig ist sie ebenfalls nicht. Die Querstellung der Spins ist die Folge des 90-Grad-Pulses, nicht die Relaxation. Und die Oxygenierung des Blutes betrifft den BOLD-Effekt im fMRT."
+    },
+    {
+      "topic": "MRT – Physik & Kontrast",
+      "question": "Welche Aussage zur Gewebedifferenzierung im MRT trifft NICHT zu?",
+      "options": [
+        "Aus der Signaldifferenz zwischen Geweben entstehen die Grauwerte",
+        "Fett, graue und weiße Substanz lassen sich so voneinander abgrenzen",
+        "Verschiedene Gewebe geben unterschiedlich viel Energie ab",
+        "Alle Gewebe geben nach dem Puls exakt gleich viel Energie ab"
+      ],
+      "answer": 3,
+      "explanation": "Gerade weil verschiedene Gewebe unterschiedlich viel Energie abgeben, lassen sie sich voneinander abgrenzen – die Behauptung einer identischen Energieabgabe ist deshalb die gesuchte falsche Aussage. Zutreffend sind die unterschiedliche Energieabgabe, die Entstehung der Grauwerte aus der Signaldifferenz und die daraus mögliche Abgrenzung von Fett, grauer und weißer Substanz."
+    },
+    {
+      "topic": "Strukturelle MRT",
+      "question": "Welche Aussage zu strukturellen MRT-Maßen trifft NICHT zu?",
+      "options": [
+        "Zu den verwendeten Maßen zählen kortikale Dicke, Fläche und Volumen",
+        "Kortikale Dicke und kortikales Volumen werden identisch berechnet",
+        "Die Maße unterscheiden sich deutlich in der Art ihrer Berechnung",
+        "Ein Volumen kann etwa deformationsbasiert bestimmt werden"
+      ],
+      "answer": 1,
+      "explanation": "Die Maße unterscheiden sich ausdrücklich deutlich in der Art ihrer Berechnung – etwa Dicke gegenüber deformationsbasierter Volumenbestimmung; die Behauptung identischer Berechnung ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die Aufzählung von kortikaler Dicke, Fläche und Volumen als verwendete Maße, der Hinweis auf die unterschiedlichen Berechnungswege und die deformationsbasierte Volumenbestimmung als ein Beispiel dafür."
+    },
+    {
+      "topic": "Strukturelle MRT",
+      "transfer": true,
+      "question": "Ein Forschungsteam will den alterungsbedingten Rückgang der kortikalen Dicke untersuchen. Welches Verfahren ist dafür am ehesten geeignet?",
+      "options": [
+        "Diffusionsgewichtete MRT, mit der die Gerichtetheit der Diffusion erfasst wird",
+        "Funktionelle MRT, mit der die Oxygenierung des Blutes gemessen wird",
+        "Fibertracking, mit dem der grobe Verlauf von Faserbahnen geschätzt wird",
+        "Strukturelle MRT, mit der sich kortikale Maße vermessen lassen"
+      ],
+      "answer": 3,
+      "explanation": "Die kortikale Dicke gehört zu den strukturellen Maßen, die mit der MRT bestimmt werden – neben kortikaler Fläche und kortikalem Volumen; der alterungsbedingte Rückgang der kortikalen Dicke wird ausdrücklich als Anwendungsbeispiel der neurowissenschaftlichen Forschung genannt. Die funktionelle MRT misst über den BOLD-Effekt die Oxygenierung und damit ein Aktivitätskorrelat, keine Gewebedicke. Diffusionsgewichtete Verfahren erfassen die Gerichtetheit der Diffusion, und Fibertracking schätzt Faserverläufe – beides sagt nichts über die kortikale Dicke aus."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "question": "Was ist die Grundlage des Diffusions-Tensor-Imaging?",
+      "options": [
+        "Die neurovaskuläre Kopplung zwischen Aktivität und Blutfluss",
+        "Der Blood-Oxygen-Level-Dependent-Effekt des oxygenierten Bluts",
+        "Die gewebespezifische Zeitkonstante der Längsrelaxation",
+        "Die Brownsche Molekularbewegung von Wasserstoffmolekülen"
+      ],
+      "answer": 3,
+      "explanation": "Grundlage ist die Brownsche Molekularbewegung, also die regellose Bewegung von Teilchen in einer Flüssigkeit; im Kontext der diffusionsgewichteten MRT beschreibt Diffusion die thermisch induzierte stochastische Bewegung von Wasserstoffmolekülen. Die neurovaskuläre Kopplung und der BOLD-Effekt sind dagegen die Grundlage des fMRT und betreffen Blutfluss und Oxygenierung. Und die Zeitkonstante der Längsrelaxation (T1) erzeugt den Kontrast der strukturellen MRT, nicht das Diffusionssignal."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "trap": "Isotrop = Kugel (freie Diffusion, etwa im Liquor), anisotrop = elliptisch (entlang der Axone in der weißen Substanz).",
+      "question": "Wodurch ist isotrope Diffusion gekennzeichnet, und wo findet sie sich im Gehirn am ehesten?",
+      "options": [
+        "Bevorzugte Bewegungsrichtung entlang der Fasern, etwa in der weißen Substanz",
+        "Bevorzugte Bewegungsrichtung quer zu den Fasern, etwa in der grauen Substanz",
+        "Gleiche Aufenthaltswahrscheinlichkeit in alle Richtungen, etwa im Liquor",
+        "Gleiche Aufenthaltswahrscheinlichkeit in alle Richtungen, etwa in Axonen"
+      ],
+      "answer": 2,
+      "explanation": "Bei isotroper Diffusion ist die Aufenthaltswahrscheinlichkeit eines Wasserstoffmoleküls nach einer gewissen Zeit gleichmäßig in alle Raumrichtungen verteilt und beschreibt damit eine Kugel; im Gehirn ist der Liquor ein Medium mit nahezu isotroper Diffusion, weil sich die Protonen dort relativ frei bewegen können. In Axonen ist die Diffusion dagegen gerade nicht gleichverteilt. Die beiden Optionen mit bevorzugter Bewegungsrichtung beschreiben anisotrope Diffusion – entlang der Fasern in der weißen Substanz trifft dies inhaltlich zu, ist aber nicht isotrop; die Variante quer zu den Fasern trifft ohnehin nicht zu."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "question": "Warum ist die Diffusion in der weißen Substanz anisotrop?",
+      "options": [
+        "Weil die Protonen dort besonders frei in alle Richtungen wandern",
+        "Weil die Zellkörper dort besonders dicht gepackt beieinanderliegen",
+        "Weil dort die Sauerstoffsättigung des Blutes deutlich erhöht ist",
+        "Weil die Myelinscheiden die Protonen in eine Richtung zwängen"
+      ],
+      "answer": 3,
+      "explanation": "In der weißen Substanz ist die Diffusion in Richtung der Axone wahrscheinlicher, weil die Protonen durch die Myelinscheiden in eine Richtung gezwängt werden; daraus ergibt sich ein elliptisches, also anisotropes Diffusionsmuster, das durch den Diffusionstensor beschrieben wird. Freie Bewegung in alle Richtungen kennzeichnet gerade die isotrope Diffusion, etwa im Liquor. Dicht gepackte Zellkörper sind ein Merkmal der grauen Substanz und erklären die Vorzugsrichtung nicht. Und die Sauerstoffsättigung betrifft den BOLD-Effekt, nicht die Diffusion."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "hard": true,
+      "question": "Was misst die fraktionelle Anisotropie (FA)?",
+      "options": [
+        "Die gewichtete mittlere Diffusivität von Wasserstoffionen im Gewebe",
+        "Die durchschnittliche Länge der Axone innerhalb einer Faserbahn",
+        "Die Gerichtetheit der Diffusion von Wasserstoffatomen im Gewebe",
+        "Die Dichte der Dendriten innerhalb einer bestimmten Faserbahn"
+      ],
+      "answer": 2,
+      "explanation": "Die fraktionelle Anisotropie ist das Maß der Gerichtetheit der Diffusion. Die mittlere Diffusivität ist zwar ein verwandtes Maß, dient aber als Kontrollmaß und verhält sich gegenläufig – sie ist nicht die FA selbst. Die Dichte der Dendriten wird von der FA nicht erfasst; sie korreliert vielmehr mit der Dichte der Faserbahn und dem Durchmesser der Axone. Und die Länge der Axone ist kein Maß, das sich aus der Diffusionsrichtung ableiten ließe."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "hard": true,
+      "question": "Welche Aussage zur fraktionellen Anisotropie trifft NICHT zu?",
+      "options": [
+        "Sie korreliert mit der Dichte der Faserbahn und dem Axondurchmesser",
+        "Die mittlere Diffusivität verhält sich als Kontrollmaß gegensätzlich",
+        "Ihr lässt sich ein eindeutiges physiologisches Maß zuordnen",
+        "Dichtere und dickere Verbindungen werden als effektiver angesehen"
+      ],
+      "answer": 2,
+      "explanation": "Ausdrücklich gibt es zur FA kein eindeutig zuzuordnendes physiologisches Maß – die gegenteilige Behauptung ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die Korrelation der FA mit der Dichte der Faserbahn und dem Durchmesser der Axone als Ausdruck der Faserintegrität, die Bewertung dichterer und dickerer Verbindungen als effektiver sowie die Rolle der mittleren Diffusivität als gegenläufiges Kontrollmaß."
+    },
+    {
+      "topic": "Diffusion & DTI",
+      "transfer": true,
+      "question": "Ein Team berichtet, mit DTI den Verlauf einzelner Axone rekonstruiert zu haben. Wie ist das zu bewerten?",
+      "options": [
+        "Zulässig, denn die farbliche Kodierung bildet einzelne Fasern getrennt ab",
+        "Unzulässig, denn die Auflösung ist durch die Voxelgröße begrenzt",
+        "Unzulässig, denn DTI erfasst ausschließlich die Oxygenierung des Blutes",
+        "Zulässig, denn die Tensororientierung wird pro Axon einzeln bestimmt"
+      ],
+      "answer": 1,
+      "explanation": "Durch Aneinanderreihung der räumlichen Tensororientierungen lassen sich beim Fibertracking nur grobe Schätzungen des Faserbahnverlaufs ableiten; einzelne Fasern lassen sich gerade nicht verfolgen, weil die Auflösung durch die Voxelgröße bestimmt wird und Axone um Größenordnungen kleiner sind. Eine Bestimmung der Tensororientierung pro einzelnem Axon ist deshalb nicht möglich. Die Oxygenierung ist Gegenstand des fMRT, nicht des DTI. Und die farbliche Kodierung gibt die räumliche Ausrichtung der Tensoren wieder, nicht einzelne Fasern."
+    },
+    {
+      "topic": "fMRT – BOLD & Kopplung",
+      "question": "Was wird mittels funktioneller Magnetresonanztomographie gemessen?",
+      "options": [
+        "Die Anreicherung eines Kontrastmittels in aktiven Regionen",
+        "Die Sauerstoffsättigung des Blutes im untersuchten Gewebe",
+        "Die Feldpotenziale zehntausender gleichzeitig feuernder Neurone",
+        "Der radioaktive Zerfall zuvor verabreichter Radiotracer"
+      ],
+      "answer": 1,
+      "explanation": "Das fMRT nutzt das Blut selbst als Kontrastmittel und misst über den Blood-Oxygen-Level-Dependent-Effekt die Sauerstoffsättigung bzw. Oxygenierung. Ein zugesetztes Kontrastmittel wird deshalb gerade nicht verwendet. Der radioaktive Zerfall verabreichter Tracer ist das Messprinzip nuklearmedizinischer Verfahren. Und die Ableitung von Feldpotenzialen vieler gleichzeitig feuernder Neurone beschreibt elektrophysiologische bzw. magnetenzephalographische Verfahren, nicht das fMRT."
+    },
+    {
+      "topic": "fMRT – BOLD & Kopplung",
+      "hard": true,
+      "question": "Welche Aussage zur neurovaskulären Kopplung trifft am ehesten zu?",
+      "options": [
+        "Gliazellen setzen vasodilatorische Substanzen frei, der Blutfluss steigt",
+        "Die Gefäße verengen sich, wodurch die Oxygenierung im Gewebe absinkt",
+        "Neurone setzen vasokonstriktive Substanzen frei, der Blutfluss sinkt",
+        "Erythrozyten setzen Eisenmoleküle frei, die das Magnetfeld verändern"
+      ],
+      "answer": 0,
+      "explanation": "Die neurale Aktivität verändert das extrazelluläre Milieu; über die Gliazellen werden vasodilatorische Substanzen freigesetzt, die Blutgefäße erweitern sich, und Blutfluss, Blutvolumen und Oxygenierung steigen an. Eine Freisetzung vasokonstriktiver Substanzen durch Neurone mit sinkendem Blutfluss kehrt diesen Ablauf um. Erythrozyten setzen keine Eisenmoleküle frei – der Sauerstoff ist über ein Eisenmolekül an sie gebunden und beeinflusst so das Magnetfeld. Und eine Gefäßverengung mit absinkender Oxygenierung widerspricht dem beschriebenen Mechanismus."
+    },
+    {
+      "topic": "fMRT – BOLD & Kopplung",
+      "hard": true,
+      "trap": "Intuitiv würde man einen Signalabfall erwarten – tatsächlich überkompensiert die Nachregulation des Blutflusses, sodass die Oxygenierung steigt.",
+      "question": "Warum steigt das fMRT-Signal bei neuronaler Aktivierung an, obwohl Sauerstoff verbraucht wird?",
+      "options": [
+        "Weil das Kontrastmittel sich in aktivierten Regionen anreichert",
+        "Weil der Sauerstoffverbrauch die Anlieferung stets übersteigt",
+        "Weil die Nachregulation des Blutflusses überkompensiert",
+        "Weil deoxygeniertes Blut das Signal stärker anhebt als oxygeniertes"
+      ],
+      "answer": 2,
+      "explanation": "Im Kapillarbett besteht ein dynamisches Gleichgewicht zwischen Entnahme und Anlieferung von Sauerstoff. Durch Stimulation wird der Blutfluss nachreguliert, und zwar überkompensierend – die Sauerstoffsättigung steigt an, und oxygeniertes Blut führt zu einem leichten Anstieg des fMRT-Signals. Ein dauerhaftes Übersteigen des Verbrauchs über die Anlieferung würde dem widersprechen. Nicht deoxygeniertes, sondern oxygeniertes Blut hebt das Signal an. Und ein Kontrastmittel wird beim fMRT nicht eingesetzt – das Blut wirkt selbst als Kontrastmittel."
+    },
+    {
+      "topic": "fMRT – BOLD & Kopplung",
+      "question": "Welche Aussage zum BOLD-Effekt trifft NICHT zu?",
+      "options": [
+        "Oxygeniertes Blut führt zu einem leichten Anstieg des fMRT-Signals",
+        "Dem Blut wird vor der Messung ein magnetisches Kontrastmittel zugesetzt",
+        "Sauerstoff ist über ein Eisenmolekül an die Erythrozyten gebunden",
+        "Oxygeniertes und deoxygeniertes Blut unterscheiden sich magnetisch"
+      ],
+      "answer": 1,
+      "explanation": "Beim BOLD-Effekt dient das Blut selbst als Kontrastmittel; ein zugesetztes Kontrastmittel ist gerade nicht erforderlich – das ist die gesuchte falsche Aussage. Zutreffend sind dagegen die Bindung des Sauerstoffs über ein Eisenmolekül an die Erythrozyten und die dadurch bedingte Beeinflussung des Magnetfelds, der Unterschied in den magnetischen Eigenschaften von oxygeniertem und deoxygeniertem Blut sowie der leichte Signalanstieg bei oxygeniertem Blut."
+    },
+    {
+      "topic": "fMRT – BOLD & Kopplung",
+      "transfer": true,
+      "question": "Eine Studentin fragt, ob im fMRT direkt die Feuerrate von Neuronen abgebildet wird. Was ist die zutreffendste Antwort?",
+      "options": [
+        "Ja, das Signal bildet die Entladungsrate einzelner Neurone direkt ab",
+        "Nein, gemessen wird ausschließlich die Gerichtetheit der Diffusion",
+        "Nein, gemessen wird die relative Oxygenierungsänderung gegenüber Ruhe",
+        "Ja, sofern zuvor für multiples Testen korrekt korrigiert worden ist"
+      ],
+      "answer": 2,
+      "explanation": "Was im fMRT gemeinhin als „Aktivität“ interpretiert wird, ist die relative Veränderung der Oxygenierung im Vergleich zur Ruheaktivität – also ein vaskuläres Korrelat neuronaler Aktivität und nicht die Entladungsrate selbst. Eine direkte Abbildung der Feuerrate einzelner Neurone leistet das Verfahren daher nicht. Die Gerichtetheit der Diffusion ist Gegenstand der diffusionsgewichteten MRT. Und die Korrektur für multiples Testen betrifft die statistische Absicherung der Befunde, sie ändert nichts daran, welche Größe gemessen wird."
+    },
+    {
+      "topic": "fMRT – Anwendung & Konnektivität",
+      "transfer": true,
+      "question": "Eine Versuchsperson soll sich Bewegungen nur vorstellen, ohne sie auszuführen. Was ist im fMRT am ehesten zu erwarten?",
+      "options": [
+        "Motorische Areale bleiben ohne ausgeführte Bewegung vollständig inaktiv",
+        "Auch motorische Areale zeigen bei bloßer Imagination Aktivität",
+        "Statt motorischer Areale wird ausschließlich die Sehrinde aktiviert",
+        "Es zeigt sich ausschließlich eine Aktivierung im Gyrus parahippocampalis"
+      ],
+      "answer": 1,
+      "explanation": "Motorische Regionen sind nicht nur bei tatsächlich ausgeführten Bewegungen aktiv, sondern auch bei der Imagination von Bewegungen – genau darauf zielt die Vignette. Vollständige Inaktivität ohne ausgeführte Bewegung widerspricht diesem Befund. Eine ausschließliche Aktivierung der Sehrinde ist nicht zu erwarten, da keine visuelle Reizung erfolgt. Und der Gyrus parahippocampalis mit der parahippocampal place area reagiert auf räumliche Anordnungen, nicht auf vorgestellte Bewegungen."
+    },
+    {
+      "topic": "fMRT – Anwendung & Konnektivität",
+      "question": "Welche Aussage zur parahippocampal place area (PPA) trifft NICHT zu?",
+      "options": [
+        "Sie enkodiert vorrangig einzelne Gesichter und deren Identität",
+        "Sie befindet sich im Gyrus parahippocampalis des Temporallappens",
+        "Sie zeigt auch bei der bloßen Imagination solcher Szenen eine Aktivierung",
+        "Sie enkodiert räumliche Anordnungen wie Häuserfassaden oder Landschaften"
+      ],
+      "answer": 0,
+      "explanation": "Die Enkodierung von Gesichtern wird der Fusiform Face Area zugeschrieben, nicht der PPA – das ist die gesuchte falsche Aussage. Zutreffend sind die Lage im Gyrus parahippocampalis, die Enkodierung räumlicher Anordnungen wie an Häuserfassaden oder in Landschaften und der Befund, dass die PPA auch bei der bloßen Imagination solcher Szenen eine erhöhte Aktivität zeigt."
+    },
+    {
+      "topic": "fMRT – Anwendung & Konnektivität",
+      "hard": true,
+      "question": "Bei einer Patientin im Wachkoma nach Schädel-Hirn-Trauma wurde eine fMRT-Untersuchung durchgeführt. Was war das zentrale Ergebnis?",
+      "options": [
+        "Sie zeigte keinerlei aufgabenbezogene Signalveränderung im fMRT",
+        "Ihre Ergebnisse ließen sich durch ein zusätzliches EEG bestätigen",
+        "Sie konnte den Instruktionen folgen und die Aufgaben ausführen",
+        "Sie zeigte ausschließlich Aktivität in subkortikalen Kerngebieten"
+      ],
+      "answer": 2,
+      "explanation": "Die Autoren konnten zeigen, dass die Patientin den Instruktionen – sich das Tennisspielen bzw. einen Rundgang durch alle Räume ihrer Wohnung vorzustellen – folgen und die Aufgabe ausführen konnte; bis dahin war man davon ausgegangen, dass Patienten im vegetativen Status keine Funktion der Großhirnrinde aufweisen. Ein Ausbleiben aufgabenbezogener Signalveränderungen widerspricht dem Befund. Ein EEG konnte wegen der Schädigung der Schädelkalotte gerade nicht abgeleitet werden. Und eine Beschränkung auf subkortikale Kerngebiete hätte den kortikalen Befund nicht ergeben."
+    },
+    {
+      "topic": "fMRT – Anwendung & Konnektivität",
+      "transfer": true,
+      "trap": "Funktionelle Konnektivität erfasst den zeitlichen Zusammenhang (Stärke über den Korrelationskoeffizienten); die Richtung der Informationsübertragung berücksichtigt erst die effektive Konnektivität.",
+      "question": "Ein Team stellt fest, dass zwei Areale ihre Aktivität gleichzeitig ändern, und schließt daraus auf die Richtung des Informationsflusses. Wie ist das zu bewerten?",
+      "options": [
+        "Unzulässig, denn die Richtung erfasst erst die effektive Konnektivität",
+        "Zulässig, denn funktionelle Konnektivität setzt eine Faserbahn voraus",
+        "Unzulässig, denn gleichzeitige Aktivitätsänderungen sind stets zufällig",
+        "Zulässig, denn der Korrelationskoeffizient gibt die Richtung bereits an"
+      ],
+      "answer": 0,
+      "explanation": "Bereiche, die gleichzeitig ihre Aktivität ändern, sind vermutlich funktionell verbunden; die Stärke dieser funktionellen Konnektivität entspricht dem Korrelationskoeffizienten. Die Richtung der Informationsübertragung wird jedoch erst bei der effektiven Konnektivität berücksichtigt – der Schluss auf die Richtung ist hier also unzulässig. Der Korrelationskoeffizient gibt Stärke, nicht Richtung an. Dass gleichzeitige Aktivitätsänderungen stets zufällig seien, trifft nicht zu. Und funktionelle Konnektivität ist über den zeitlichen Zusammenhang definiert, nicht über den Nachweis einer Faserbahn."
+    },
+    {
+      "topic": "Interpretation & Fehlerquellen",
+      "question": "Welche Aussage zu den farbigen Clustern in bildgebenden Publikationen trifft NICHT zu?",
+      "options": [
+        "Sie können Veränderungen der strukturellen oder funktionellen Konnektivität abbilden",
+        "Es handelt sich um statistische parametrische Mappen, etwa als T- oder Z-Wert",
+        "Sie können auch Korrelationen, etwa mit Stresshormonen, abbilden",
+        "Sie zeigen stets unmittelbar die neurale Aktivität einer Region an"
+      ],
+      "answer": 3,
+      "explanation": "Die farbigen Cluster zeigen nicht zwingend neurale Aktivität an – das ist die gesuchte falsche Aussage. Es handelt sich um statistische parametrische Mappen, mit denen die jeweiligen Effekte etwa als T-Wert, Z-Wert oder räumliche Tiefe auf der Hirnoberfläche, in Schichten oder in Glasgehirnen dargestellt werden. Dargestellt sein können neben aufgabenbezogener Aktivität ebenso Korrelationen, etwa zwischen Stresshormonen und Hirnaktivität, Veränderungen der Hirnsubstanz oder Veränderungen der strukturellen und funktionellen Konnektivität."
+    },
+    {
+      "topic": "Interpretation & Fehlerquellen",
+      "transfer": true,
+      "question": "In einer Untersuchung am Gehirn eines toten Lachses zeigten sich signifikante fMRT-Signale. Welcher Fehler liegt am ehesten vor?",
+      "options": [
+        "Es wurde nicht für multiples Testen korrigiert; es ist Signalrauschen",
+        "Die Messung erfolgte zu kurz nach dem Tod, es gab noch neurale Aktivität",
+        "Der Lachs war an menschliche Gesichtsausdrücke bereits gewöhnt",
+        "Das Magnetfeld des Tomographen löste Stromimpulse im Gewebe aus"
+      ],
+      "answer": 0,
+      "explanation": "Nur ein verschwindend kleiner Teil der untersuchten Voxel erschien „signifikant“ – Signalrauschen in funktionellen Aufnahmen kann zu falsch positiven Ergebnissen führen, weshalb eine Korrektur für multiples Testen zwingend notwendig ist. Beim deutlich größeren menschlichen Gehirn mit entsprechend mehr Voxeln steigt die Zahl falsch positiver Ergebnisse sogar noch. Postmortale neurale Aktivität, eine Wiederbelebung durch das Magnetfeld oder eine Gewöhnung des Tieres an menschliche Gesichtsausdrücke sind dagegen keine ernsthaften Erklärungen, sondern gerade die Pointe des Beispiels."
+    },
+    {
+      "topic": "Interpretation & Fehlerquellen",
+      "hard": true,
+      "trap": "Der zulässige Weg führt von der Funktion zur Signalveränderung – der Umkehrschluss von der Aktivierung auf das Erleben ist die reverse inference.",
+      "question": "Was bezeichnet man als reverse inference?",
+      "options": [
+        "Den Schluss von einer psychologischen Funktion auf die Signaländerung",
+        "Den Schluss von einer Aktivierung auf das psychologische Erleben",
+        "Den Schluss von der Korrelation zweier Areale auf ihre Faserverbindung",
+        "Den Schluss von der Voxelgröße auf die Auflösung der Faserbahnen"
+      ],
+      "answer": 1,
+      "explanation": "Reverse inference ist die Annahme, eine Aktivierung in einer Hirnregion gebe an, was die Person psychologisch erlebt. Der umgekehrte Weg – von der Funktion auf die Signalveränderung zu schließen, etwa von der Enkodierung von Gesichtern auf die Fusiform Face Area – ist der methodisch übliche und beschreibt gerade nicht die reverse inference. Der Zusammenhang von Voxelgröße und Auflösung betrifft die Grenzen des Fibertrackings, und der Schluss von einer Korrelation auf eine Faserverbindung ist ein anderer Interpretationsfehler."
+    },
+    {
+      "topic": "Interpretation & Fehlerquellen",
+      "transfer": true,
+      "question": "In einer Zeitung heißt es, eine Aktivierung im fMRT belege, dass die untersuchte Person Angst empfunden habe. Wie ist dieser Schluss zu bewerten?",
+      "options": [
+        "Er ist meist logisch unzulässig und ein häufiger Interpretationsfehler",
+        "Er ist zulässig, sofern für multiples Testen korrekt korrigiert wurde",
+        "Er ist unzulässig, weil das fMRT die Diffusionsrichtung nicht erfasst",
+        "Er ist zulässig, weil Hirnregionen fest umrissene Funktionen erfüllen"
+      ],
+      "answer": 0,
+      "explanation": "Es handelt sich um eine reverse inference: Der Umkehrschluss von der Signalveränderung auf das psychologische Erleben ist in den meisten Fällen logisch unzulässig und einer der häufigsten Interpretationsfehler in den Neurowissenschaften. Dass Hirnregionen fest umrissene Funktionen erfüllten, ist genau die fragwürdige Annahme hinter dem Fehlschluss. Die Korrektur für multiples Testen sichert die Statistik ab, heilt aber die logische Struktur des Schlusses nicht. Und die Diffusionsrichtung ist Gegenstand des DTI und für die Bewertung dieses Schlusses ohne Belang."
+    },
+    {
+      "topic": "Interpretation & Fehlerquellen",
+      "question": "Welche Aussage zur zusammenfassenden Bewertung der (f)MRT trifft NICHT zu?",
+      "options": [
+        "Ihre Stärke liegt vor allem in der sehr hohen zeitlichen Auflösung",
+        "Mit ihnen lässt sich die funktionelle Spezialisierung von Arealen bestimmen",
+        "Mit ihnen lassen sich strukturelle und funktionelle Netzwerke identifizieren",
+        "Sie besitzen eine hohe räumliche Auflösung und sind nicht invasiv"
+      ],
+      "answer": 0,
+      "explanation": "Als Stärke der (f)MRT wird ausdrücklich die hohe räumliche Auflösung genannt, nicht die zeitliche – die Betonung der zeitlichen Auflösung ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die hohe räumliche Auflösung bei nicht invasiver und inzwischen weit verbreiteter Anwendung, die Bestimmung der funktionellen Spezialisierung bestimmter Hirnareale sowie die Bestimmung struktureller und funktioneller Konnektivität und damit die Identifikation von Netzwerken."
+    }
+  ]
+}

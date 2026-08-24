@@ -591,6 +591,13 @@
       "title": "Neuroanatomie II – Zwischenhirn, Basalganglien, Kortex",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie II: Zwischenhirn und Thalamuskerne, Hypo- und Epithalamus, Basalganglien, Liquor und Hirnhäute, Balken, Insula und Cerebellum sowie die Kartierung des Kortex. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-methoden-1",
+      "file": "kan-methoden-1.json",
+      "title": "Methoden I – MRT, DTI und fMRT",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden I: Grundlagen der MRT-Physik und des T1-Kontrasts, strukturelle Maße, Diffusion und DTI, BOLD-Effekt und neurovaskuläre Kopplung, funktionelle Konnektivität sowie Interpretationsfehler wie multiples Testen und reverse inference. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
