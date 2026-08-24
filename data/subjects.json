@@ -577,6 +577,13 @@
       "title": "Krankheitslehre · Übungsquiz",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "55 Fragen im Single-Best-Answer-Format mit 5 Optionen A–E. Die Optionsreihenfolge ist fest, Erklärungen sind nicht ergänzt. Bei Frage 16 ist bewusst die fachlich sauberere Antwort gesetzt – im Item vermerkt."
+    },
+    {
+      "id": "kan-neuroanatomie-1",
+      "file": "kan-neuroanatomie-1.json",
+      "title": "Neuroanatomie I – Zellen, Bahnen, Hirnstamm, Hirnnerven",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie I: Neurone und Gliazellen, graue/weiße Substanz, Bahnen und Achsen, Hirnstamm und Formatio reticularis, Neurotransmittersysteme sowie Hirnnerven, Riech- und Sehbahn. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }

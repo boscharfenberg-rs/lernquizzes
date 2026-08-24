@@ -1,0 +1,389 @@
+{
+  "id": "kan-neuroanatomie-1",
+  "title": "Neuroanatomie I – Zellen, Bahnen, Hirnstamm, Hirnnerven",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie I: Neurone und Gliazellen, graue/weiße Substanz, Bahnen und Achsen, Hirnstamm und Formatio reticularis, Neurotransmittersysteme sowie Hirnnerven, Riech- und Sehbahn. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Zellen des Nervensystems",
+      "trap": "Astrozyten und Oligodendrozyten werden leicht verwechselt: Myelin bildet im ZNS der Oligodendrozyt, im PNS die Schwann-Zelle.",
+      "question": "Astrozyten sind die häufigste Gliazellart des Gehirns. Welche der folgenden Aufgaben wird von Astrozyten NICHT übernommen?",
+      "options": [
+        "Die Versorgung der Nervenzellen mit Sauerstoff und Glukose je nach deren Aktivität",
+        "Die Beteiligung am Aufbau der Blut-Hirn-Schranke an den Gefäßen des Gehirns",
+        "Die Steuerung von Blutfluss und Blutvolumen über vasoaktive Substanzen",
+        "Die Bildung der Myelinscheiden um die Axone des zentralen Nervensystems"
+      ],
+      "answer": 3,
+      "explanation": "Gesucht ist die Aufgabe, die Astrozyten NICHT erfüllen: Die Myelinschichten der Axone im ZNS bilden die Oligodendrozyten. Die drei übrigen Aussagen treffen zu: Astrozyten liegen der Hirnoberfläche und den Blutgefäßen an und sind am Aufbau der Blut-Hirn-Schranke beteiligt; sie versorgen Nervenzellen mit Sauerstoff und Glukose und regeln die Nährstoffversorgung je nach deren Aktivität; und sie steuern Blutfluss und Blutvolumen über die Freisetzung vasodilatorischer oder vasokonstriktiver Substanzen."
+    },
+    {
+      "topic": "Zellen des Nervensystems",
+      "transfer": true,
+      "question": "Nach einem Schädel-Hirn-Trauma findet ein Forschungsteam im Hirngewebe Zellen, die ihre Form verändert haben, geschädigtes Gewebe erkennen und mit anderen Immunzellen kommunizieren. Um welchen Zelltyp handelt es sich am ehesten?",
+      "options": [
+        "Um Schwann-Zellen, die im peripheren Nervensystem die Myelinisierung übernehmen",
+        "Um Mikrogliazellen, die als Makrophagen des Gehirns der Immunabwehr dienen",
+        "Um Oligodendrozyten, welche die Myelinschichten der Axone im ZNS bilden",
+        "Um Astrozyten, die der Hirnoberfläche und den Blutgefäßen des Gehirns anliegen"
+      ],
+      "answer": 1,
+      "explanation": "Die geschilderten Merkmale sind genau die der Mikroglia: Sie sind die Makrophagen des Gehirns, scannen das Gewebe, erkennen geschädigtes Gewebe oder fremde Zellen, kommunizieren mit anderen Immunzellen und verändern bei starken Schädigungen ihre Form – beschrieben unter anderem nach Schädel-Hirn-Trauma und bei Alkoholabhängigkeit. Astrozyten übernehmen Versorgungs- und Blut-Hirn-Schranken-Funktionen, keine Immunabwehr mit Formwandel. Oligodendrozyten und Schwann-Zellen sind Myelin bildende Zellen (ZNS bzw. PNS) und keine Immunzellen; Schwann-Zellen kämen im ZNS zudem gar nicht vor."
+    },
+    {
+      "topic": "Zellen des Nervensystems",
+      "question": "Welche Aussage zur Myelinisierung durch Oligodendrozyten trifft NICHT zu?",
+      "options": [
+        "Die Erregung wandert entlang myelinisierter Axone kontinuierlich weiter",
+        "Eine dickere Myelinscheide geht mit einer besseren Signalübertragung einher",
+        "Oligodendrozyten versorgen die Axone zusätzlich mit Glukose bzw. Milchsäure",
+        "Die Myelinschichten wirken als effektive elektrische Isolierung des Axons"
+      ],
+      "answer": 0,
+      "explanation": "Falsch – und damit gesucht – ist die kontinuierliche Weiterleitung: Durch die Myelinisierung laufen die Signale gerade nicht stetig, sondern saltatorisch, und legen dadurch sehr schnell große Entfernungen zurück. Richtig sind dagegen die elektrische Isolierung durch die Myelinschichten, der Zusammenhang von dickerer Scheide und besserer Signalübertragung sowie die Versorgung der Axone mit Glukose bzw. Milchsäure durch die Oligodendrozyten."
+    },
+    {
+      "topic": "Zellen des Nervensystems",
+      "hard": true,
+      "trap": "Multiple Sklerose und Guillain-Barré-Syndrom unterscheiden sich nicht im Prozess, sondern im Ort: ZNS-Myelin (Oligodendrozyten) gegenüber PNS-Myelin (Schwann-Zellen).",
+      "question": "Die Zerstörung von Myelinscheiden zeigt, wie abhängig das Nervensystem von dieser Isolierung ist. Welche Aussage trifft am ehesten zu?",
+      "options": [
+        "Die Multiple Sklerose betrifft das Myelin des PNS, das Guillain-Barré-Syndrom das des ZNS",
+        "Die Multiple Sklerose schädigt vorrangig die Zellkörper der grauen Substanz statt der Myelinscheiden",
+        "Beide Erkrankungen betreffen ausschließlich die Myelinscheiden des zentralen Nervensystems",
+        "Die Multiple Sklerose betrifft das Myelin des ZNS, das Guillain-Barré-Syndrom das des PNS"
+      ],
+      "answer": 3,
+      "explanation": "Die Multiple Sklerose betrifft nur die Myelinscheiden im ZNS, während das Guillain-Barré-Syndrom als Beispiel einer Demyelinisierung im PNS genannt wird – die Myelinisierung unterscheidet sich zwischen beiden Systemen. Die Vertauschung von ZNS und PNS ist deshalb falsch, ebenso die Behauptung, beide Erkrankungen beträfen nur das ZNS. Auch die Zuordnung der Multiplen Sklerose zu den Zellkörpern der grauen Substanz trifft nicht zu: Betroffen ist die Isolierung der Axone, also die weiße Substanz."
+    },
+    {
+      "topic": "Zellen des Nervensystems",
+      "question": "Welche Aussage zum Grundaufbau des Neurons trifft NICHT zu?",
+      "options": [
+        "Das Neuron ist die strukturelle und funktionelle Einheit des Nervensystems",
+        "Ein Neuron bildet meist mehrere Neuriten und einen einzelnen Dendriten aus",
+        "Gliazellen sind über die Regulation der Transmitterkonzentration eingebunden",
+        "Die Fortsätze gehen vom Zellleib aus, der auch als Perikaryon bezeichnet wird"
+      ],
+      "answer": 1,
+      "explanation": "Die gesuchte falsche Aussage dreht das Verhältnis um: Das Neuron bildet einen Neuriten (Axon) und meist mehrere Dendriten – nicht umgekehrt. Korrekt sind dagegen die Kennzeichnung des Neurons als strukturelle und funktionelle Einheit des Nervensystems, der Ausgang der Fortsätze vom Zellleib (Soma, Perikaryon) sowie die Einbindung der Gliazellen in die Neurotransmission, etwa über die Regulation der extrazellulären Transmitterkonzentration."
+    },
+    {
+      "topic": "ZNS & PNS",
+      "question": "Welche der folgenden Strukturen zählt NICHT zum peripheren Nervensystem?",
+      "options": [
+        "Die peripheren Ganglien, also Nervenzellansammlungen außerhalb des ZNS",
+        "Das Rückenmark, das gemeinsam mit dem Gehirn das ZNS bildet",
+        "Die Rückenmarksnerven, die vom Rückenmark in die Peripherie ziehen",
+        "Die Hirnnerven, die bis auf zwei Ausnahmen periphere Nerven sind"
+      ],
+      "answer": 1,
+      "explanation": "Das Rückenmark gehört zusammen mit dem Gehirn zum ZNS und ist von Schädel bzw. Wirbelsäule umgeben – es ist deshalb die gesuchte Struktur. Rückenmarksnerven, periphere Ganglien und Hirnnerven werden dagegen ausdrücklich als Bestandteile des PNS aufgeführt; bei den Hirnnerven handelt es sich bis auf zwei Ausnahmen tatsächlich um periphere Nerven."
+    },
+    {
+      "topic": "Graue & weiße Substanz",
+      "question": "Warum erscheint die weiße Substanz bei makroskopischer Betrachtung weiß?",
+      "options": [
+        "Wegen der starken Durchblutung über das dichte Kapillarnetz der Bahnen",
+        "Wegen der Fixierung des Gewebes in Formalin, die das Myelin ausbleicht",
+        "Wegen des hohen Fettanteils des Myelins in den Leitungsbahnen",
+        "Wegen der hohen Dichte dicht gepackter Nervenzellkörper in diesem Bereich"
+      ],
+      "answer": 2,
+      "explanation": "Die weiße Substanz besteht aus myelinisierten Leitungsbahnen und erscheint wegen des hohen Fettanteils des Myelins weiß. Die hohe Dichte der Zellkörper erklärt dagegen den grauen Eindruck der grauen Substanz. Die Durchblutung erzeugt keinen weißen Farbeindruck – im Gegenteil tritt der graue Eindruck besonders hervor, wenn die Blutzirkulation längere Zeit unterbrochen war. Und die Formalinfixierung verstärkt lediglich den Farbeindruck, sie bleicht das Myelin nicht aus."
+    },
+    {
+      "topic": "Graue & weiße Substanz",
+      "hard": true,
+      "trap": "Grau und weiß sind makroskopische Eindrücke – unter dem Mikroskop sind die Zellen weitgehend farblos.",
+      "question": "Welche Aussage zum Erscheinungsbild von grauer und weißer Substanz trifft am ehesten zu?",
+      "options": [
+        "Bereits mikroskopisch erscheinen die Zellkörper der grauen Substanz deutlich grau",
+        "Mikroskopisch sind die Zellen eher farblos; grau erscheint sie erst makroskopisch",
+        "Die graue Färbung entsteht ausschließlich durch basische Farbstoffe beim Anfärben",
+        "Am Frischpräparat wirkt die graue Substanz grauer als nach längerer Formalinfixierung"
+      ],
+      "answer": 1,
+      "explanation": "In mikroskopischer Betrachtung sind die Zellen von grauer und weißer Substanz eher farblos; der graue Eindruck entsteht erst makroskopisch durch die hohe Zelldichte. Die Behauptung, schon mikroskopisch sei die graue Substanz deutlich grau, kehrt das um. Basische Farbstoffe werden zwar zur Darstellung von Zellkernen genutzt, sind aber nicht die Ursache des makroskopischen Grauwerts. Und der Grauwert nimmt nicht am Frischpräparat, sondern nach längerer Unterbrechung der Blutzirkulation und nach der Fixierung zu."
+    },
+    {
+      "topic": "Bahnen & Faserarten",
+      "question": "Welche Aussage zu den Bahnen des zentralen Nervensystems trifft NICHT zu?",
+      "options": [
+        "Bahnen dienen der Verschaltung mit anderen Gebieten des zentralen Nervensystems",
+        "Im peripheren Nervensystem heißen diese Faserbündel ebenfalls Bahnen",
+        "Man unterscheidet Projektions-, Assoziations- und Kommissurenfasern",
+        "Die Begriffe Afferenz und Efferenz werden auch innerhalb des ZNS verwendet"
+      ],
+      "answer": 1,
+      "explanation": "Gesucht ist die unzutreffende Aussage: Im PNS heißen die entsprechenden Strukturen nicht Bahnen, sondern Nerven (Nervi). Zutreffend sind dagegen die Funktion der Bahnen als Verschaltung mit anderen ZNS-Gebieten, die Einteilung in Projektions-, Assoziations- und Kommissurenfasern sowie die Verwendung der Begriffe Afferenz und Efferenz auch innerhalb des ZNS. Zur Benennung der Bündel dienen dort Bezeichnungen wie Tractus, Fasciculus, Lemniscus, Fibrae oder Stria."
+    },
+    {
+      "topic": "Bahnen & Faserarten",
+      "transfer": true,
+      "question": "Eine Faserbahn leitet somatosensible Information vom Rückenmark zum Gehirn. Wie ist diese Bahn in Bezug auf das Gehirn am ehesten zu bezeichnen?",
+      "options": [
+        "Als Kommissurenbahn, weil sie einander entsprechende Areale beider Seiten verbindet",
+        "Als Assoziationsbahn, weil sie Areale innerhalb einer Hemisphäre miteinander verbindet",
+        "Als efferente Bahn, weil sie vom betrachteten Gebiet wegführende Fasern enthält",
+        "Als afferente Bahn, weil sie Information zum betrachteten Gebiet hinführt"
+      ],
+      "answer": 3,
+      "explanation": "Afferenzen führen zum betrachteten Gebiet hin, Efferenzen von ihm weg; die Begriffe werden auch innerhalb des ZNS verwendet. Eine Bahn, die Information vom Rückenmark zum Gehirn leitet, ist bezogen auf das Gehirn also afferent. Efferent wäre die Gegenrichtung, etwa eine absteigende motorische Bahn. Kommissurenfasern verbinden korrespondierende Areale beider Hemisphären, Assoziationsfasern Areale innerhalb einer Hemisphäre – beides beschreibt die Faserart, nicht die hier gefragte Leitungsrichtung."
+    },
+    {
+      "topic": "Orientierung & Schnittebenen",
+      "question": "Zwei Kommissuren sind für die Bildgebung besonders bedeutsam. Welche Aussage trifft am ehesten zu?",
+      "options": [
+        "Commissura anterior und posterior legen als CA-CP-Linie die horizontale Ebene fest",
+        "Die CA-CP-Linie verläuft senkrecht durch den hinteren Rand der Commissura anterior",
+        "Corpus callosum und Fornix definieren gemeinsam die horizontale Referenzebene des Gehirns",
+        "Commissura anterior und posterior legen als CA-CP-Linie die sagittale Ebene fest"
+      ],
+      "answer": 0,
+      "explanation": "Commissura anterior (CA) und Commissura posterior (CP) definieren die CA-CP-Linie, die die horizontale Schnittebene festlegt; ihr Schnittpunkt mit der VCA-Linie im Interhemisphärenspalt bildet den Ursprung des Koordinatensystems im Atlas von Talairach und Tournoux. Die sagittale Ebene wird davon nicht festgelegt. Corpus callosum und Fornix dienen nicht als diese Referenz. Und die senkrecht durch den hinteren Rand der Commissura anterior verlaufende Linie ist nicht die CA-CP-Linie, sondern die VCA-Linie."
+    },
+    {
+      "topic": "Orientierung & Schnittebenen",
+      "question": "Wodurch ist die VCA-Linie definiert?",
+      "options": [
+        "Durch die Verbindung von Commissura anterior und Chiasma opticum in der Sagittalebene",
+        "Durch den Interhemisphärenspalt, der die beiden Großhirnhälften voneinander trennt",
+        "Durch den hinteren Rand der Commissura anterior, orthogonal zur CA-CP-Linie",
+        "Durch den vorderen Rand der Commissura posterior, parallel zur CA-CP-Linie"
+      ],
+      "answer": 2,
+      "explanation": "Die VCA-Linie ist die vertikofrontale Linie: Sie verläuft durch den hinteren Rand der Commissura anterior und steht orthogonal auf der CA-CP-Linie. Die Commissura posterior ist an der CA-CP-Linie beteiligt, definiert aber nicht die VCA-Linie, und eine parallele Lage widerspricht der orthogonalen Definition. Der Interhemisphärenspalt liefert lediglich die Ebene, in der der Schnittpunkt beider Linien als Koordinatenursprung festgelegt wird. Das Chiasma opticum spielt bei dieser Definition keine Rolle."
+    },
+    {
+      "topic": "Orientierung & Schnittebenen",
+      "hard": true,
+      "trap": "Die beiden Achsen werden gern vertauscht: Meynert = Rückenmark/Hirnstamm, Forel = Zwischen- und Großhirn. Zwei Achsen braucht es, weil die Neurachse beim Menschen nach frontal abgeknickt ist.",
+      "question": "Im ZNS werden zwei Achsen unterschieden. Welche Zuordnung trifft zu?",
+      "options": [
+        "Beide Achsen verlaufen beim Menschen exakt parallel, weil die Neurachse gestreckt ist",
+        "Die Forel-Achse betrifft Rückenmark und Hirnstamm, die Meynert-Achse Zwischen- und Großhirn",
+        "Die Meynert-Achse beschreibt die Schnittebenen, die Forel-Achse die Richtungsbezeichnungen",
+        "Die Meynert-Achse betrifft Rückenmark und Hirnstamm, die Forel-Achse Zwischen- und Großhirn"
+      ],
+      "answer": 3,
+      "explanation": "Die Meynert-Achse bezieht sich auf Rückenmark und Hirnstamm, die Forel-Achse auf Zwischen- und Großhirn; die vertauschte Zuordnung ist deshalb falsch. Parallel verlaufen die Achsen gerade nicht: Bei Primaten und beim Menschen ist die Neurachse nach frontal abgeknickt, weshalb überhaupt zwei Achsen nötig sind. Schnittebenen (koronar, sagittal, horizontal/axial) und Richtungsbezeichnungen bilden eine eigene Systematik und werden nicht auf die beiden Achsen aufgeteilt."
+    },
+    {
+      "topic": "Orientierung & Schnittebenen",
+      "transfer": true,
+      "question": "Ein Bildgebungsbefund zeigt einen Schnitt, der das Gehirn in einen vorderen und einen hinteren Teil trennt. Um welche Schnittebene handelt es sich?",
+      "options": [
+        "Um eine sagittale Schnittebene, die links von rechts trennt",
+        "Um eine Ebene, die entlang der Meynert-Achse des Hirnstamms verläuft",
+        "Um eine koronare Schnittebene, auch als Frontalebene bezeichnet",
+        "Um eine horizontale bzw. axiale Ebene, die oben von unten trennt"
+      ],
+      "answer": 2,
+      "explanation": "Ein Schnitt, der vorne von hinten trennt, ist die koronare (frontale) Ebene – die zugehörigen Richtungsbezeichnungen lauten frontal, anterior, oral bzw. rostral gegenüber okzipital, posterior und kaudal. Die sagittale Ebene trennt links von rechts, die horizontale bzw. axiale Ebene oben von unten (superior/dorsal gegenüber inferior/ventral/basal). Die Meynert-Achse ist keine Schnittebene, sondern eine Bezugsachse für Rückenmark und Hirnstamm."
+    },
+    {
+      "topic": "Hirnstamm & Formatio reticularis",
+      "question": "Welche Struktur zählt NICHT zum Hirnstamm?",
+      "options": [
+        "Die Medulla oblongata, auch verlängertes Mark genannt",
+        "Der Pons, der als Brücke bezeichnete Abschnitt",
+        "Das Zwischenhirn mit Thalamus und Hypothalamus",
+        "Das Mesencephalon, also das Mittelhirn"
+      ],
+      "answer": 2,
+      "explanation": "Zum Hirnstamm werden Medulla oblongata (verlängertes Mark), Pons (Brücke) und Mesencephalon (Mittelhirn) gezählt – das Zwischenhirn gehört nicht dazu und ist deshalb die gesuchte Struktur; es wird über die Forel-Achse zusammen mit dem Großhirn gefasst. Im Hirnstamm treten die Hirnnerven ein, dort liegen die Hirnnervenkerne und zahlreiche weitere Kerngebiete wie die Formatio reticularis mit der Regulation der Vitalfunktionen."
+    },
+    {
+      "topic": "Hirnstamm & Formatio reticularis",
+      "hard": true,
+      "question": "Welche Aussage zur Formatio reticularis trifft nach heutigem Stand am ehesten zu?",
+      "options": [
+        "Sie liegt als geschlossener Kernkomplex im Zwischenhirn oberhalb des Thalamus",
+        "Sie ist eine heterogene Ansammlung von Kerngebieten mit spezifischen Projektionen",
+        "Ihre Funktion beschränkt sich nach heutigem Stand allein auf die Regulation des Arousals",
+        "Sie ist ein einheitliches Netzwerk ohne abgrenzbare Kerngebiete und Projektionen"
+      ],
+      "answer": 1,
+      "explanation": "Die Formatio reticularis ist eine heterogene Ansammlung unterschiedlicher neuronaler Kerngebiete; mit der Weiterentwicklung histologischer Methoden konnten den Kernen spezifische Projektionen und verschiedene Funktionen zugewiesen werden. Die ursprüngliche Annahme einer netzartig zusammenhängenden Formation mit einem unspezifischen aufsteigenden Aktivierungssystem (ARAS), gestützt auf Läsionsstudien und das Koma nach Hirnstammschädigung, ist damit überholt. Sie liegt zudem im Hirnstamm und nicht im Zwischenhirn, und ihre Funktionen gehen über das Arousal weit hinaus – sie umfassen auch autonome und prä-motorische Aufgaben."
+    },
+    {
+      "topic": "Hirnstamm & Formatio reticularis",
+      "transfer": true,
+      "question": "Eine Patientin zeigt nach einer Hirnstammschädigung Störungen des Atemrhythmus, der Kreislaufregulation und des Schluckens. Welche Zuordnung passt am ehesten?",
+      "options": [
+        "Die Bahnen des Nervus opticus zum Corpus geniculatum laterale sind geschädigt worden",
+        "Die Kommissurenfasern zwischen den beiden Großhirnhemisphären sind unterbrochen worden",
+        "Die modulatorische Funktion der Formatio reticularis, also die Transmittersynthese, ist isoliert gestört",
+        "Autonome und prä-motorische Funktionen der Formatio reticularis sind beeinträchtigt"
+      ],
+      "answer": 3,
+      "explanation": "Atemrhythmus und kardiovaskuläre Funktionen gehören zu den autonomen Funktionen der Formatio reticularis, das Schlucken – wie auch Kauen, Gähnen oder Hicksen – zu ihren prä-motorischen Funktionen; das Muster passt also zu beiden Funktionsgruppen. Die modulatorische Gruppe umfasst dagegen Synthese und Speicherung von Neurotransmittern und erklärt dieses Beschwerdebild nicht. Kommissurenfasern verbinden korrespondierende Areale der Hemisphären und haben mit der Regulation der Vitalfunktionen nichts zu tun; eine Schädigung der Sehbahn zum Corpus geniculatum laterale führt zu visuellen, nicht zu vegetativen Ausfällen."
+    },
+    {
+      "topic": "Neurotransmittersysteme",
+      "hard": true,
+      "question": "Vier Kriterien bestimmen, ab wann eine Substanz als Neurotransmitter gilt. Welche Formulierung entspricht einem dieser Kriterien?",
+      "options": [
+        "Die Substanz wird präsynaptisch gespeichert, postsynaptisch freigesetzt und wirkt dort spezifisch",
+        "Die Substanz wird präsynaptisch gespeichert und freigesetzt und wirkt spezifisch postsynaptisch",
+        "Die Substanz löst bei exogener Anwendung die gegenteilige Reaktion aus wie bei endogener",
+        "Die Substanz wird allein durch Diffusion aus dem synaptischen Spalt entfernt und dort abgebaut"
+      ],
+      "answer": 1,
+      "explanation": "Ein Kriterium lautet: Die Substanz wird im präsynaptischen Neuron gespeichert und freigesetzt und führt zu einer spezifischen Reaktion am postsynaptischen Neuron oder Effektorgan. Die Variante mit postsynaptischer Freisetzung verdreht Ort der Speicherung und Ort der Freisetzung. Der Entfernungsmechanismus ist zwar ein eigenes Kriterium, verlangt aber ausdrücklich einen spezifischen Mechanismus und nicht bloße Diffusion. Und exogen angewandt muss die Substanz dieselbe Reaktion auslösen wie bei endogener Freisetzung, nicht die gegenteilige."
+    },
+    {
+      "topic": "Neurotransmittersysteme",
+      "question": "An welcher der folgenden Funktionen ist Dopamin laut Vorlesung NICHT maßgeblich beteiligt?",
+      "options": [
+        "An der Regulation des Schlaf-Wach-Rhythmus und am Auslösen des Brechreizes",
+        "An der Steuerung der extrapyramidalen Motorik, also außerhalb der Pyramidenbahn",
+        "Am Lernen von Reiz-Belohnungsassoziationen und an kognitiver Flexibilität",
+        "An der Antizipation einer Belohnung und an deren Empfindung"
+      ],
+      "answer": 0,
+      "explanation": "Schlaf-Wach-Rhythmus und Brechreiz werden dem serotonergen System zugeordnet, nicht dem Dopamin – das ist die gesuchte Option. Dopamin ist dagegen an der Steuerung der extrapyramidalen Motorik, an der Antizipation und Empfindung von Belohnung sowie an der Regulation kognitiver Funktionen wie dem Lernen von Reiz-Belohnungsassoziationen und der kognitiven Flexibilität beteiligt. Dysregulationen der dopaminergen Transmission werden mit Substanzkonsumstörungen, Morbus Parkinson und schizophrenen Störungen in Verbindung gebracht."
+    },
+    {
+      "topic": "Neurotransmittersysteme",
+      "transfer": true,
+      "question": "Bei einer Patientin mit Angststörung stehen erhöhte Wachheit, gesteigerte Reaktionsbereitschaft und eine verstärkte zentrale Stressreaktion im Vordergrund. Welches Transmittersystem ist hier am ehesten betroffen?",
+      "options": [
+        "Das noradrenerge System, das Wachheit, Aufmerksamkeit und Stressreaktion reguliert",
+        "Das histaminerge System, das Sattheit, Geschmackswahrnehmung und Wachheit moduliert",
+        "Das serotonerge System, das Schlaf-Wach-Rhythmus und Sozialverhalten mitreguliert",
+        "Das dopaminerge System, das extrapyramidale Motorik und Belohnung mitsteuert"
+      ],
+      "answer": 0,
+      "explanation": "Noradrenalin reguliert Wachheit und Erregbarkeit, Aufmerksamkeit und Reaktionsbereitschaft sowie die zentrale Stressreaktion; Dysregulationen werden ausdrücklich mit Angst und Angststörungen, Stress sowie depressiven und bipolaren Störungen in Verbindung gebracht – das Beschwerdebild passt genau darauf. Histamin fördert zwar ebenfalls die Wachheit, steht aber vor allem für Sattheit, Geschmack sowie Nahrungs- und Konsummotivation und wird mit Essstörungen und Substanzkonsumstörungen verknüpft. Serotonin betrifft Schlaf-Wach-Rhythmus, Nahrungsaufnahme und Sozialverhalten, Dopamin Motorik und Belohnung – beides erklärt das geschilderte Muster nicht."
+    },
+    {
+      "topic": "Neurotransmittersysteme",
+      "question": "Welche Funktion wird dem serotonergen System in der Vorlesung NICHT zugeschrieben?",
+      "options": [
+        "Die Regulation des Schlaf-Wach-Rhythmus und die Auslösung des Brechreizes",
+        "Die Regulation der Nahrungsaufnahme und der Körpertemperatur",
+        "Die Steuerung der extrapyramidalen Motorik außerhalb der Pyramidenbahn",
+        "Die Entscheidungsbewertung und das Sozialverhalten"
+      ],
+      "answer": 2,
+      "explanation": "Die extrapyramidale Motorik wird dem dopaminergen System zugeordnet und ist daher die gesuchte, nicht zum Serotonin passende Funktion. Serotonin wird dagegen mit der Regulation von Nahrungsaufnahme und Körpertemperatur, mit Entscheidungsbewertung und Sozialverhalten sowie mit dem Schlaf-Wach-Rhythmus und der Auslösung des Brechreizes in Verbindung gebracht; hinzu kommen Zusammenhänge mit der Schmerzentstehung sowie mit Delay Discounting. Dysregulationen betreffen unter anderem depressive Störungen und Störungen des Sozialverhaltens."
+    },
+    {
+      "topic": "Neurotransmittersysteme",
+      "question": "Welche Aussage zum histaminergen System trifft am ehesten zu?",
+      "options": [
+        "Es fördert die Wachheit und ist an der Regelung der Sattheit beteiligt",
+        "Es senkt die Wachheit und ist an der Auslösung des Brechreizes beteiligt",
+        "Es wirkt ausschließlich im peripheren Nervensystem auf Blutdruck und Herzfrequenz",
+        "Es bildet die Myelinschichten der Axone und beschleunigt so die Erregungsleitung"
+      ],
+      "answer": 0,
+      "explanation": "Histamin fördert die Wachheit, moduliert die Aktivität zahlreicher Neurotransmitter im ZNS und ist an der Regelung von Sattheit und Geschmackswahrnehmung sowie an Motivation und zielgerichtetem Verhalten gegenüber Nahrung und Konsummitteln beteiligt. Eine Senkung der Wachheit trifft nicht zu, und der Brechreiz wird dem Serotonin zugeordnet. Myelin bilden Gliazellen und keine Transmitter. Die Wirkung auf Blutdruck und Herzschlagfrequenz im PNS ist ein Merkmal des Noradrenalins; eine ausschließlich periphere Wirkung wäre zudem falsch, da Histamin zentral wirkt."
+    },
+    {
+      "topic": "Hirnnerven",
+      "question": "Welche Aussage zu den Hirnnerven trifft NICHT zu?",
+      "options": [
+        "Sie sind nach ihrem Eintritt in den Hirnstamm und nach ihrer Funktion benannt",
+        "Sie enthalten ausschließlich efferente Axone zu den Erfolgsorganen",
+        "Bis auf zwei Ausnahmen handelt es sich um periphere Nerven",
+        "Sie sind sämtlich paarig angelegt und werden von 1 bis 12 nummeriert"
+      ],
+      "answer": 1,
+      "explanation": "Hirnnerven können sowohl afferente als auch efferente Axone enthalten; die Beschränkung auf efferente Fasern ist deshalb die gesuchte falsche Aussage. Zutreffend sind die Benennung nach Eintritt in den Hirnstamm und nach Funktion, die durchgehend paarige Anlage mit der Nummerierung 1 bis 12 sowie der Umstand, dass es sich bis auf zwei Ausnahmen um periphere Nerven handelt, die außerhalb des Gehirns liegen und PNS-spezifische Zellen aufweisen."
+    },
+    {
+      "topic": "Hirnnerven",
+      "hard": true,
+      "question": "Bulbus olfactorius und Nervus opticus werden zu den Hirnnerven gezählt, sind im engeren Sinne aber keine. Warum?",
+      "options": [
+        "Sie verlassen das Gehirn nicht und enthalten nur ZNS-spezifische Zellen",
+        "Sie enthalten im Gegensatz zu anderen Hirnnerven nur peripher vorkommende Gliazellen",
+        "Sie treten erst unterhalb der Schädelbasis in das Gehirn ein und besitzen keinen Kern",
+        "Sie verlassen das Gehirn bereits oberhalb der Schädelbasis und liegen dann frei"
+      ],
+      "answer": 0,
+      "explanation": "Beide sind vorgestülpte Teile des Gehirns, die es nicht verlassen; sie sind von Meningen umhüllt und enthalten nur ZNS-spezifische Zellen wie Oligodendrozyten und Mikroglia, beim Nervus opticus fehlt zudem ein klassischer Hirnnervenkern. Gerade weil sie das Gehirn nicht verlassen, ist die Aussage über ein Austreten oberhalb der Schädelbasis falsch, ebenso der Eintritt unterhalb der Schädelbasis. Auch die Behauptung peripher vorkommender Gliazellen kehrt den entscheidenden Punkt um – es sind ausschließlich ZNS-spezifische Zellen."
+    },
+    {
+      "topic": "Hirnnerven",
+      "trap": "Beide sind Ausstülpungen, aber aus verschiedenen Abschnitten: Bulbus olfactorius aus dem Großhirn, Nervus opticus aus dem Zwischenhirn.",
+      "question": "Welche Zuordnung von Bulbus olfactorius und Nervus opticus zu ihrem Ursprungsabschnitt trifft zu?",
+      "options": [
+        "Der Bulbus olfactorius stammt aus dem Großhirn, der Nervus opticus aus dem Zwischenhirn",
+        "Der Bulbus olfactorius stammt aus dem Kleinhirn, der Nervus opticus aus dem Mittelhirn",
+        "Der Bulbus olfactorius stammt aus dem Zwischenhirn, der Nervus opticus aus dem Großhirn",
+        "Beide stammen aus dem Hirnstamm, weshalb sie an dessen Basis in das Gehirn eintreten"
+      ],
+      "answer": 0,
+      "explanation": "Der Bulbus olfactorius ist ein vorgestülpter Teil des Großhirns, der Nervus opticus ein vorgestülpter Teil des Zwischenhirns – die vertauschte Zuordnung ist deshalb falsch. Kleinhirn und Mittelhirn kommen als Ursprung nicht in Betracht. Und ein gemeinsamer Ursprung im Hirnstamm widerspricht dem Kernpunkt: Beide Strukturen sind Ausstülpungen des Gehirns und treten gerade nicht wie die übrigen Hirnnerven von außen an den Hirnstamm heran."
+    },
+    {
+      "topic": "Hirnnerven",
+      "question": "Der Nervus terminalis wird auch als nullter Hirnnerv bezeichnet. Welche Aussage trifft am ehesten zu?",
+      "options": [
+        "Er tritt gemeinsam mit dem Nervus opticus am Chiasma opticum in den Hirnstamm ein",
+        "Er zieht durch die Lamina cribrosa und leitet Geruchsreize zum Bulbus olfactorius",
+        "Er innerviert das Vomeronasalorgan, das mit Pheromonsensorik in Verbindung steht",
+        "Er innerviert das Septum pellucidum, dessen Neurone sich fortlaufend regenerieren"
+      ],
+      "answer": 2,
+      "explanation": "Der Nervus terminalis innerviert das Vomeronasalorgan, das mit der Sensorik von Pheromonen in Verbindung gebracht wird; zusätzlich wird eine humorale Signalübertragung dieses Organs vermutet. Das Septum pellucidum wird nicht von ihm innerviert – regenerationsfähig sind die Neurone der Riechschleimhaut. Er tritt an der Lamina terminalis zwischen Chiasma opticum und Commissura anterior ein und liegt über dem ersten Hirnnerv, also nicht gemeinsam mit dem Nervus opticus. Durch die Lamina cribrosa des Siebbeins ziehen die Fila olfactoria, nicht der Nervus terminalis."
+    },
+    {
+      "topic": "Riech- & Sehbahn",
+      "transfer": true,
+      "question": "Nach einem Schädel-Hirn-Trauma klagt ein Patient über Riechverlust; zusätzlich tritt klare Flüssigkeit aus der Nase aus. Was ist die naheliegendste Erklärung?",
+      "options": [
+        "Ein entzündlicher Prozess der Stützzellen des Riechepithels ohne knöcherne Beteiligung",
+        "Eine Läsion des Corpus geniculatum laterale mit Ausfall der chemosensorischen Bahnen",
+        "Eine Verletzung der Lamina cribrosa mit Schädigung von Fila olfactoria und Hirnhäuten",
+        "Eine Schädigung des Nervus trigeminus, der die Nasenschleimhaut sensibel versorgt und Irritationen vermittelt"
+      ],
+      "answer": 2,
+      "explanation": "Bei Verletzungen der Lamina cribrosa kann es zu Schäden der meningealen Umhüllung und der Fila olfactoria kommen – die Folge sind Riechstörungen und Liquorfluss aus der Nase nach einem Schädel-Hirn-Trauma, verbunden mit Infektionsgefahr. Der Nervus trigeminus vermittelt Irritationen im Sinne der Chemesthesis, erklärt aber weder den Riechverlust noch den Flüssigkeitsaustritt. Ein rein entzündlicher Prozess der Stützzellen – wie bei COVID-19 diskutiert – geht ohne knöcherne Verletzung und damit ohne Liquorfluss einher. Das Corpus geniculatum laterale gehört zur Sehbahn und hat mit dem Geruchssinn nichts zu tun."
+    },
+    {
+      "topic": "Riech- & Sehbahn",
+      "hard": true,
+      "question": "Welche Aussage zum Geruchsverlust bei COVID-19 trifft am ehesten zu?",
+      "options": [
+        "Der Geruchsverlust entsteht regelhaft durch ausgeprägte Rhinorrhoe und nasale Verstopfung",
+        "Vor allem die Riechneurone selbst exprimieren ACE2 und werden direkt vom Virus zerstört",
+        "Das Virus greift die chemischen Sinne über denselben Mechanismus an wie Erkältungserreger",
+        "Vor allem Stützzellen des Riechepithels exprimieren ACE2 und TMPRSS2, nicht die Neurone"
+      ],
+      "answer": 3,
+      "explanation": "Nicht die Neurone, sondern hauptsächlich unterstützende Zellen des Riechepithels exprimieren ACE2 und TMPRSS2; vermutlich kommt es zu lokalen Entzündungsprozessen, die sich auf die Neurone ausweiten. Eine direkte Zerstörung der Riechneurone über deren eigene ACE2-Expression trifft deshalb nicht zu. Gerade die hohe Inzidenz von Geruchsverlust ohne signifikante Rhinorrhoe oder nasale Verstopfung spricht gegen eine Erklärung über die Nasensekretion – und ebenso dafür, dass SARS-CoV-2 die chemischen Sinne über andere Mechanismen angreift als endemische Coronaviren oder andere Erkältungserreger."
+    },
+    {
+      "topic": "Riech- & Sehbahn",
+      "transfer": true,
+      "question": "Eine Testperson beschreibt beim Essen einer Chilischote ein brennendes, scharfes Gefühl im Mund. Über welchen Nerv wird diese Empfindung am ehesten vermittelt?",
+      "options": [
+        "Über den Nervus trigeminus, der Irritationen als Chemesthesis vermittelt",
+        "Über den Nervus glossopharyngeus, der ebenfalls Geschmacksafferenzen führt",
+        "Über den Nervus vagus, der die Geschmacksknospen im Rachen innerviert",
+        "Über den Nervus facialis, der Geschmacksknospen der Zunge innerviert"
+      ],
+      "answer": 0,
+      "explanation": "Scharfe, stechende und kühlende Substanzen werden über orale und nasale Afferenzen des Nervus trigeminus vermittelt; dieser Sinn für Irritationen – etwa die Schärfe von Chilis oder das Brennen von Zwiebeln – wird als Chemesthesis bezeichnet und ist vom Geschmack zu unterscheiden. Nervus facialis und Nervus glossopharyngeus innervieren die Geschmacksknospen auf der Zunge, der Nervus vagus die Geschmacksknospen im Rachen. Alle drei führen Geschmacksafferenzen, vermitteln aber nicht die Schärfeempfindung."
+    },
+    {
+      "topic": "Riech- & Sehbahn",
+      "hard": true,
+      "question": "Ein Teil der Sehfasern endet nicht im Corpus geniculatum laterale. Welche Aussage zu diesen Fasern trifft am ehesten zu?",
+      "options": [
+        "Sie ziehen zum Bulbus olfactorius und koppeln Geruch an visuelle Reize",
+        "Sie werden erst nach einer Schädigung der Sehrinde neu ausgebildet",
+        "Sie vermitteln die bewusste Detailwahrnehmung von Farbe, Form und Kontrast",
+        "Sie tragen unter anderem zur zirkadianen Rhythmik und zum Blindsehen bei"
+      ],
+      "answer": 3,
+      "explanation": "Ein kleiner Teil der Neurone endet nicht im Corpus geniculatum laterale; diese Fasern synchronisieren unter anderem den Tag-Nacht-Rhythmus, dienen Pupillenreflex, Akkommodation, Nystagmus und Arousal und ermöglichen über die superioren und inferioren Colliculi eine nicht bewusste Nutzung räumlicher Information – womit sich auch das Blindsehen erklären lässt. Die bewusste Detailwahrnehmung läuft dagegen über die Bahn zum Corpus geniculatum laterale und die visuellen Kortizes. Neu ausgebildet werden diese Fasern nach einer Schädigung nicht; trainierbar ist lediglich die Nutzung der ohnehin vorhandenen, nicht bewussten Information. Eine Projektion zum Bulbus olfactorius gibt es nicht."
+    }
+  ]
+}
