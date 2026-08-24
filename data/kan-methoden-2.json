@@ -1,0 +1,389 @@
+{
+  "id": "kan-methoden-2",
+  "title": "Methoden II – Metaanalysen (CBMA/ALE) und PET",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden II: Referenzräume MNI und Talairach, quantitative koordinatenbasierte Metaanalysen und ALE, Good-Practice-Regeln, Interpretation klinischer Befunde, BrainMap und MACM sowie Prinzip, Eignung und Grenzen der Positronen-Emissions-Tomographie. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Referenzräume & Standardisierung",
+      "question": "Warum werden individuelle Gehirne an ein Referenzgehirn angepasst?",
+      "options": [
+        "Weil sich Menschen und ihre Gehirne voneinander unterscheiden",
+        "Weil sich der BOLD-Effekt nur in standardisierten Räumen nachweisen lässt",
+        "Weil sich die Feldstärke des Tomographen zwischen Studien unterscheidet",
+        "Weil die zeitliche Auflösung der Messung dadurch deutlich verbessert wird"
+      ],
+      "answer": 0,
+      "explanation": "Menschen und ihre Gehirne unterscheiden sich – deshalb werden die individuellen Gehirne entweder an den MNI- oder den Talairach-Raum angepasst; es handelt sich dabei um Standardkoordinaten, und erst diese Standardisierung ermöglicht koordinatenbasierte Metaanalysen. Unterschiede in der Feldstärke des Tomographen werden durch die Normalisierung nicht ausgeglichen. Die zeitliche Auflösung bleibt unberührt, denn die Anpassung betrifft den Raum. Und der BOLD-Effekt lässt sich auch ohne Normalisierung nachweisen."
+    },
+    {
+      "topic": "Referenzräume & Standardisierung",
+      "question": "Welche Aussage zu den Referenzräumen MNI und Talairach trifft NICHT zu?",
+      "options": [
+        "Bei beiden handelt es sich um Systeme von Standardkoordinaten",
+        "Individuelle Gehirne werden an einen dieser Räume angepasst",
+        "Daten des einen Raums lassen sich nicht in den anderen überführen",
+        "Erst diese Standardisierung ermöglicht koordinatenbasierte Metaanalysen"
+      ],
+      "answer": 2,
+      "explanation": "Daten des MNI-Raums können in den Talairach-Raum transformiert werden und umgekehrt – die Behauptung fehlender Überführbarkeit ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen, dass es sich bei beiden um Standardkoordinaten handelt, dass individuelle Gehirne an einen der beiden Räume angepasst werden und dass diese Standardisierung die Voraussetzung koordinatenbasierter Metaanalysen ist."
+    },
+    {
+      "topic": "Referenzräume & Standardisierung",
+      "question": "Welchen Vorteil bildgebender Studien nutzen quantitative koordinatenbasierte Metaanalysen?",
+      "options": [
+        "Dass ein Voxel über Studien hinweg derselben Stelle im Gehirn entspricht",
+        "Dass die Kontextabhängigkeit der Befunde dadurch aufgehoben wird",
+        "Dass die Ergebnisse stets an denselben Probanden erhoben wurden",
+        "Dass die Diffusion von Wasserstoffatomen studienübergreifend einheitlich ist"
+      ],
+      "answer": 0,
+      "explanation": "Durch die Nutzung standardisierter Referenzräume entspricht ein Voxel über verschiedene Studien und Personen hinweg derselben Stelle im Gehirn; hinzu kommt die standardisierte Darstellung der Lage des lokalen Maximums, des sogenannten peak Voxels. Die Diffusion von Wasserstoffatomen ist die Grundlage des DTI und nicht der Grund für die Vergleichbarkeit von Koordinaten. Dass stets dieselben Probanden untersucht würden, trifft offensichtlich nicht zu. Und die Kontextabhängigkeit der Befunde wird durch Standardisierung nicht aufgehoben."
+    },
+    {
+      "topic": "Referenzräume & Standardisierung",
+      "transfer": true,
+      "question": "Ein Team will Befunde aus Studien zusammenführen, die in unterschiedlichen Referenzräumen berichtet wurden. Was ist am ehesten zu tun?",
+      "options": [
+        "Die Daten in einen einheitlichen Referenzraum transformieren",
+        "Die Koordinaten unverändert übernehmen, da sie ohnehin vergleichbar sind",
+        "Die Studien mit abweichendem Referenzraum grundsätzlich ausschließen",
+        "Die Auswertung auf zuvor definierte Regions of Interest beschränken"
+      ],
+      "answer": 0,
+      "explanation": "Zu den Good-Practice-Regeln gehört ausdrücklich die Transformation der Daten in einen einheitlichen Referenzraum, also MNI oder Talairach; die Umrechnung zwischen beiden Räumen ist in beide Richtungen möglich. Ein grundsätzlicher Ausschluss wäre deshalb unnötig und würde Power verschenken. Unverändert übernehmen darf man die Koordinaten gerade nicht, weil sie dann nicht dieselbe Stelle bezeichnen. Und eine Beschränkung auf Regions of Interest widerspricht der Regel, offensichtliche oder verdeckte ROI-Analysen nicht zu integrieren."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "question": "Welche Aussage zu quantitativen koordinatenbasierten Metaanalysen trifft NICHT zu?",
+      "options": [
+        "Sie lokalisieren quantitativ eine überzufällig häufige Konvergenz",
+        "Sie ersetzen die Notwendigkeit, für multiple Vergleiche zu korrigieren",
+        "Sie erlauben auch die Integration von Befunden aus PET-Studien",
+        "Sie fassen die Aussagen dutzender oder gar hunderter Experimente zusammen"
+      ],
+      "answer": 1,
+      "explanation": "Eine adäquate Korrektur für multiple Vergleiche gehört ausdrücklich zu den Good-Practice-Regeln und wird durch das metaanalytische Vorgehen gerade nicht überflüssig – das ist die gesuchte falsche Aussage. Zutreffend sind dagegen die quantitative Zusammenfassung dutzender bis hunderter Experimente, die quantitative Lokalisation überzufällig häufiger Konvergenz sowie der Umstand, dass die Verfahren nicht auf MRT und fMRT beschränkt sind, sondern auch PET-Befunde integrieren können."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "hard": true,
+      "trap": "Die ALE behandelt Koordinaten nicht als absolute Punkte – die räumliche Unsicherheit der Bildgebung wird als Verteilung modelliert.",
+      "question": "Wie werden die Koordinaten der Einzelstudien bei der Activation Likelihood Estimation behandelt?",
+      "options": [
+        "Als absolute Lokalisationsangaben ohne räumliche Unsicherheit",
+        "Als Mittelwerte über alle Voxel des jeweiligen Referenzraums",
+        "Als Grenzwerte, ab denen ein Voxel als aktiviert gilt",
+        "Als Zentren Gauß'scher Wahrscheinlichkeitsverteilungen"
+      ],
+      "answer": 3,
+      "explanation": "Bei der ALE gelten die Koordinaten nicht als absolute Lokalisationsangaben, sondern als Zentren Gauß'scher Wahrscheinlichkeitsverteilungen – so wird der räumlichen Unsicherheit von Bildgebungsdaten Rechnung getragen. Die Behandlung als absolute Angaben ohne Unsicherheit ist deshalb genau das Gegenteil des Verfahrens. Mittelwerte über alle Voxel des Referenzraums werden nicht gebildet, und als Schwellenwert für „aktiviert“ dienen die Koordinaten ebenfalls nicht."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "hard": true,
+      "question": "Wovon hängt die räumliche Unsicherheit bei der ALE ab, und welche Folge hat das?",
+      "options": [
+        "Von der Probandenzahl; größere Studien gehen mit größerem Gewicht ein",
+        "Von der Zahl der Voxel; größere Suchräume gehen mit größerem Gewicht ein",
+        "Von der Probandenzahl; größere Studien gehen mit kleinerem Gewicht ein",
+        "Von der Feldstärke des Tomographen; stärkere Geräte werden höher gewichtet"
+      ],
+      "answer": 0,
+      "explanation": "Die räumliche Unsicherheit hängt von der Anzahl der Probanden ab; Studien mit einer größeren Zahl an Probanden bzw. Patienten gehen deshalb mit größerem Gewicht in die Metaanalyse ein. Die Variante mit kleinerem Gewicht kehrt diesen Zusammenhang um. Die Feldstärke des Tomographen wird bei der Gewichtung nicht herangezogen. Und die Zahl der Voxel bzw. die Größe des Suchraums ist ebenfalls kein Gewichtungskriterium – sie betrifft die Korrektur für multiples Testen."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "question": "Was gibt eine ALE-Karte für jeden einzelnen Voxel an?",
+      "options": [
+        "Die Zahl der Studien, die genau diesen Voxel berichtet haben",
+        "Die Wahrscheinlichkeit, dass das „wahre Zentrum“ dort gelegen hat",
+        "Die Stärke der gemessenen Aktivierung in Prozent des Maximums",
+        "Den Korrelationskoeffizienten zwischen zwei beteiligten Arealen"
+      ],
+      "answer": 1,
+      "explanation": "Bei der ALE werden alle Aktivierungen in Wahrscheinlichkeitsverteilungen überführt und anschließend die lokale Konvergenz über die Studien hinweg modelliert; die ALE-Karte gibt für jeden Voxel an, mit welcher Wahrscheinlichkeit das „wahre Zentrum“ genau an dieser Stelle lag. Eine prozentuale Aktivierungsstärke wird nicht abgebildet. Auch eine bloße Auszählung der Studien pro Voxel wäre etwas anderes als die modellierte Wahrscheinlichkeit. Und Korrelationskoeffizienten zwischen Arealen betreffen die funktionelle Konnektivität, nicht die ALE."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "hard": true,
+      "question": "Womit wird die modellierte Konvergenz bei der ALE verglichen?",
+      "options": [
+        "Mit einer Nullverteilung ohne räumlichen Zusammenhang der Befunde",
+        "Mit den Ergebnissen einer parallel gerechneten ROI-Analyse",
+        "Mit den Rohdaten der jeweils größten eingeschlossenen Einzelstudie",
+        "Mit einer Normstichprobe gesunder Probanden desselben Alters"
+      ],
+      "answer": 0,
+      "explanation": "Die modellierte Konvergenz wird mit einer Nullverteilung verglichen, die einen fehlenden räumlichen Zusammenhang zwischen den Ergebnissen der eingeschlossenen Studien annimmt; so lassen sich Regionen mit überzufälliger Konvergenz identifizieren, korrigiert für multiples Testen. Die Rohdaten einer einzelnen Studie sind kein Vergleichsmaßstab, da alle Ergebnisse gleich gewichtet eingehen. Eine Normstichprobe wird nicht herangezogen. Und ROI-Analysen sollen nach den Good-Practice-Regeln gerade nicht integriert werden."
+    },
+    {
+      "topic": "ALE-Metaanalysen",
+      "transfer": true,
+      "question": "Eine ALE-Metaanalyse weist für eine Region eine signifikante Konvergenz aus. Was besagt dieser Befund am ehesten?",
+      "options": [
+        "Dass dort die stärkste Aktivierung aller Einzelstudien gemessen wurde",
+        "Dass dort häufiger Befunde zusammenfallen, als per Zufall zu erwarten",
+        "Dass jede eingeschlossene Einzelstudie dort eine Aktivierung berichtet hat",
+        "Dass die Region die untersuchte psychologische Funktion eindeutig abbildet"
+      ],
+      "answer": 1,
+      "explanation": "Die ALE zeigt, welche Konvergenzen signifikant größer sind, als es per Zufall zu erwarten wäre – der Befund betrifft also die überzufällige Häufung von Koordinaten, nicht die Einzelstudie. Dass jede eingeschlossene Studie dort berichtet hätte, wird damit nicht behauptet. Ein eindeutiger Rückschluss auf die psychologische Funktion wäre eine reverse inference, denn es gibt keine 1:1-Entsprechungen zwischen Hirnaktivität und psychologischen Prozessen. Und die Stärke der Aktivierung geht in die ALE nicht ein – gewertet werden Lage und Konvergenz."
+    },
+    {
+      "topic": "Good-Practice-Regeln",
+      "question": "Welche Vorgabe gehört NICHT zu den Good-Practice-Regeln für koordinatenbasierte Metaanalysen?",
+      "options": [
+        "Die Daten in einen einheitlichen Referenzraum zu transformieren",
+        "Eine organisierte Datensuche etwa über PubMed oder BrainMap zu führen",
+        "Adäquat für multiple Vergleiche zu korrigieren und transparent zu sein",
+        "Offensichtliche und verdeckte ROI-Analysen bevorzugt einzuschließen"
+      ],
+      "answer": 3,
+      "explanation": "Die Regeln fordern ausdrücklich, offensichtliche oder verdeckte ROI-Analysen gerade NICHT zu integrieren – ihre bevorzugte Aufnahme ist deshalb die gesuchte falsche Vorgabe, weil ROI-Analysen den Suchraum vorab einschränken und damit die Konvergenzschätzung verzerren. Zutreffend sind dagegen die organisierte Datensuche über PubMed, Google Scholar oder BrainMap, die Transformation in einen einheitlichen Referenzraum sowie die adäquate Korrektur für multiple Vergleiche und die Transparenz des Vorgehens."
+    },
+    {
+      "topic": "Good-Practice-Regeln",
+      "transfer": true,
+      "question": "Ein Team möchte eine ALE-Metaanalyse über acht Studien rechnen. Wie ist das zu bewerten?",
+      "options": [
+        "Unkritisch, denn die Zahl der Studien spielt für die Power keine Rolle",
+        "Unkritisch, sofern alle Studien denselben Referenzraum verwendet haben",
+        "Kritisch, denn die Zahl der Studien reicht für ausreichende Power nicht",
+        "Kritisch, denn Metaanalysen sind erst ab hundert Studien überhaupt zulässig"
+      ],
+      "answer": 2,
+      "explanation": "Zu den Good-Practice-Regeln gehört die Integration einer Mindestzahl von Studien – genannt werden mindestens 17 – ausdrücklich mit Blick auf eine ausreichende Power; acht Studien liegen deutlich darunter. Dass die Studienzahl für die Power keine Rolle spiele, trifft nicht zu. Eine Untergrenze von hundert Studien wird nirgends gefordert und wäre praktisch kaum erfüllbar. Und ein einheitlicher Referenzraum ist zwar ebenfalls eine Regel, ersetzt die ausreichende Studienzahl aber nicht."
+    },
+    {
+      "topic": "Good-Practice-Regeln",
+      "transfer": true,
+      "question": "Eine Arbeitsgruppe legt das Analyseprotokoll ihrer Metaanalyse erst fest, nachdem sie erste Ergebnisse gesichtet hat. Wie ist das zu bewerten?",
+      "options": [
+        "Problematisch, denn dadurch verändert sich der Referenzraum der Daten",
+        "Unproblematisch, solange die Zahl der Studien ausreichend groß ist",
+        "Problematisch, denn das Protokoll soll vorab festgelegt werden",
+        "Unproblematisch, denn Metaanalysen sind ohnehin rein explorativ"
+      ],
+      "answer": 2,
+      "explanation": "Die Good-Practice-Regeln verlangen die Festlegung des Analyseprotokolls, gegebenenfalls sogar eine Präregistrierung – eine nachträgliche Festlegung anhand der schon gesichteten Ergebnisse widerspricht dem. Die Einstufung von Metaanalysen als rein explorativ trifft nicht zu, sie zielen auf quantitative, verallgemeinerbare Aussagen. Der Referenzraum der Daten wird durch den Zeitpunkt der Protokollfestlegung nicht berührt. Und eine ausreichende Studienzahl ist eine eigene Regel, die den Verstoß nicht heilt."
+    },
+    {
+      "topic": "Good-Practice-Regeln",
+      "hard": true,
+      "question": "Was ist gemeint, wenn die Good-Practice-Regeln eine Anpassung multipler Kontraste verlangen?",
+      "options": [
+        "Die Kontrastwerte der Bilddarstellung farblich zu vereinheitlichen",
+        "Den Kontrast auszuwählen, der am besten zur Fragestellung passt",
+        "Die Zahl der Kontraste durch wiederholtes Rechnen zu maximieren",
+        "Sämtliche berichteten Kontraste einer Studie gemeinsam einzuschließen"
+      ],
+      "answer": 1,
+      "explanation": "Gemeint ist, aus den in einer Studie berichteten Kontrasten denjenigen zu wählen, der am besten auf die eigene Fragestellung passt. Alle Kontraste einer Studie gemeinsam einzuschließen würde dieselbe Stichprobe mehrfach gewichten und die Konvergenzschätzung verzerren. Mit der farblichen Darstellung der Ergebnisbilder hat die Regel nichts zu tun. Und eine Maximierung der Kontrastzahl durch wiederholtes Rechnen widerspricht dem Ziel eines vorab festgelegten, transparenten Analyseprotokolls."
+    },
+    {
+      "topic": "Potenzial & klinische Anwendung",
+      "trap": "Gerade die fehlende Unterscheidung zwischen Haupt- und Nebenbefunden ist eine Stärke: Auch wenig beachtete, aber konsistente Befunde zählen voll mit.",
+      "question": "Welche Aussage zum Potenzial quantitativer Metaanalysen trifft NICHT zu?",
+      "options": [
+        "Der algorithmische Ansatz gewichtet alle Ergebnisse gleich",
+        "Auch wenig beachtete, aber konsistente Befunde werden berücksichtigt",
+        "Besonders wichtige Arbeiten gehen mit größerem Gewicht in die Analyse ein",
+        "Aussagen über verschiedene Patientengruppen werden dadurch möglich"
+      ],
+      "answer": 2,
+      "explanation": "Eine besondere Gewichtung „wichtiger“ Arbeiten findet gerade nicht statt – das ist die gesuchte falsche Aussage. Durch den algorithmischen Ansatz werden alle Ergebnisse gleich gewichtet, und es wird nicht zwischen Haupt- und Nebenbefunden unterschieden; dadurch entfällt die Verzerrung durch besonders beachtete Arbeiten, und auch wenig beachtete, aber konsistente Befunde werden stärker berücksichtigt. Zutreffend ist ebenfalls, dass Metaanalysen Aussagen über verschiedene Patientengruppen ermöglichen, was Einzelarbeiten kaum leisten."
+    },
+    {
+      "topic": "Potenzial & klinische Anwendung",
+      "question": "Worin liegt die höhere Objektivität quantitativer Metaanalysen gegenüber klassischen Reviews?",
+      "options": [
+        "In der Beschränkung auf Studien mit besonders großen Stichproben",
+        "Im algorithmischen Ansatz, der alle Ergebnisse gleich gewichtet",
+        "In der Bevorzugung der jeweils methodisch stärksten Einzelarbeiten",
+        "In der Auswahl der Studien durch mehrere unabhängige Fachleute"
+      ],
+      "answer": 1,
+      "explanation": "Die hohe Objektivität ergibt sich daraus, dass durch den algorithmischen Ansatz alle Ergebnisse gleich gewichtet werden – anders als etwa in Reviews, in denen die Auswahl und Betonung der Befunde subjektiv ausfällt. Eine Beschränkung auf besonders große Stichproben findet nicht statt; die Stichprobengröße geht lediglich in die Gewichtung der räumlichen Unsicherheit ein. Eine Auswahl durch mehrere Fachleute erhöht zwar die Sorgfalt, ist aber nicht der genannte Grund. Und eine Bevorzugung methodisch starker Einzelarbeiten widerspräche der Gleichgewichtung."
+    },
+    {
+      "topic": "Potenzial & klinische Anwendung",
+      "question": "Welche Aussage zur Ausgangslage in den klinischen Neurowissenschaften trifft NICHT zu?",
+      "options": [
+        "Für allgemeingültige Schlüsse ist die Integration von Studien nötig",
+        "Metaanalysen erlauben Aussagen, die Einzelarbeiten kaum ermöglichen",
+        "Es liegen viele Untersuchungen mit jeweils kleinen Stichproben vor",
+        "Klinische Populationen zeichnen sich durch besonders geringe Varianz aus"
+      ],
+      "answer": 3,
+      "explanation": "In klinischen Populationen besteht gerade eine große Varianz – die Behauptung besonders geringer Varianz ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die Ausgangslage vieler Untersuchungen mit kleinen Stichproben, die daraus folgende Notwendigkeit, für allgemeingültige Schlüsse einzelne Studien zu integrieren, und der Umstand, dass Metaanalysen Aussagen etwa über verschiedene Patientengruppen ermöglichen, die in Einzelarbeiten kaum möglich sind."
+    },
+    {
+      "topic": "Potenzial & klinische Anwendung",
+      "question": "Was ergab die Metaanalyse zu Arbeitsgedächtnisleistungen bei Patienten mit Schizophrenie?",
+      "options": [
+        "Eine konsistent reduzierte Aktivität, und zwar ausschließlich im Kleinhirn",
+        "Eine konsistent reduzierte Aktivität, unter anderem in Insula und IFG",
+        "Eine konsistent gesteigerte Aktivität, unter anderem in Insula und IFG",
+        "Eine unveränderte Aktivität bei zugleich deutlich reduzierter Leistung"
+      ],
+      "answer": 1,
+      "explanation": "Die Metaanalyse über die eingeschlossenen Studien zeigte eine konsistent reduzierte Aktivität bei Patienten mit Schizophrenie, und zwar in der Insula, im inferioren frontalen Gyrus und im posterioren linken präfrontalen Kortex; ergänzend wurde eine Konjunktionsanalyse mit den Arbeitsgedächtnisdaten der allgemeinen Metaanalyse gerechnet. Eine gesteigerte Aktivität in denselben Regionen widerspricht dem Befund. Eine unveränderte Aktivität wurde nicht berichtet. Und die Beschränkung auf das Kleinhirn trifft nicht zu, da die genannten Areale kortikal bzw. insulär liegen."
+    },
+    {
+      "topic": "Interpretation & Datenbanken",
+      "hard": true,
+      "trap": "Beide Richtungen sind deutbar: mehr Aktivität als vermehrte Anstrengung, weniger als unzureichende Rekrutierung – jeweils bei insuffizienter Verarbeitung.",
+      "question": "Wie lassen sich Aktivitätsunterschiede zwischen Patienten- und Kontrollgruppe interpretieren?",
+      "options": [
+        "Nur vermehrte Aktivität kann eine insuffiziente Verarbeitung anzeigen",
+        "Nur verminderte Aktivität kann eine insuffiziente Verarbeitung anzeigen",
+        "Vermehrte wie verminderte Aktivität kann insuffiziente Verarbeitung anzeigen",
+        "Aktivitätsunterschiede erlauben grundsätzlich keinerlei inhaltliche Interpretation"
+      ],
+      "answer": 2,
+      "explanation": "Vermehrte Aktivität in der Patientengruppe lässt sich im Sinne einer vermehrten Anstrengung bei insuffizienter Verarbeitung deuten; niedrigere Aktivität kann über eine unzureichende Rekrutierung ebenfalls als insuffiziente Verarbeitung gedeutet werden. Beide Einschränkungen auf nur eine Richtung greifen deshalb zu kurz. Und dass Aktivitätsunterschiede gar nicht interpretierbar wären, trifft nicht zu – hilfreich sind hier etwa neuropsychologische Leistungsdaten, die bei Schizophreniepatienten verringerte Arbeitsgedächtnisleistungen gut dokumentieren."
+    },
+    {
+      "topic": "Interpretation & Datenbanken",
+      "transfer": true,
+      "question": "Ein Team findet eine Aktivierung der supplementär-motorischen Area und schließt daraus auf einen bestimmten psychologischen Prozess. Wie ist das zu bewerten?",
+      "options": [
+        "Unproblematisch, denn zwischen Aktivität und Prozess besteht eine 1:1-Entsprechung",
+        "Problematisch, denn die supplementär-motorische Area lässt sich im fMRT nicht abbilden",
+        "Problematisch, denn viele Regionen werden durch zahlreiche Kontexte aktiviert",
+        "Unproblematisch, sofern die Aktivierung für multiple Vergleiche korrigiert wurde"
+      ],
+      "answer": 2,
+      "explanation": "Der Schluss ist eine reverse inference: Es gibt keine 1:1-Entsprechungen zwischen Gehirnaktivität und psychologischen Prozessen, und viele Regionen – die supplementär-motorische Area wird ausdrücklich als Beispiel genannt – werden durch zahlreiche Kontexte aktiviert. Die Annahme einer 1:1-Entsprechung ist genau die fragwürdige Prämisse. Abbilden lässt sich die Region im fMRT ohne Weiteres. Und die Korrektur für multiple Vergleiche sichert die Statistik ab, ändert aber nichts an der logischen Struktur des Rückschlusses; quantitativ führen lassen sich solche Rückschlüsse über Koordinatendatenbanken."
+    },
+    {
+      "topic": "Interpretation & Datenbanken",
+      "trap": "Die Datenbank ist auf die in ihr enthaltenen Studien begrenzt – ihre Auskunft ist nicht unabhängig von dieser Auswahl.",
+      "question": "Welche Aussage zur Koordinatendatenbank BrainMap trifft NICHT zu?",
+      "options": [
+        "Sie bietet einen Ausweg aus der subjektiven Zuordnung von Studien",
+        "Sie beantwortet, welche Region durch welches Paradigma aktiviert wird",
+        "Die enthaltenen Studien wurden auf ihre Eignung für Metaanalysen geprüft",
+        "Ihre Auskünfte gelten unabhängig davon, welche Studien sie enthält"
+      ],
+      "answer": 3,
+      "explanation": "Die Aussagekraft der Datenbank ist ausdrücklich auf die in ihr enthaltenen Studien begrenzt – die Behauptung der Unabhängigkeit von dieser Auswahl ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die Fragestellung, welche Region durch welches Paradigma aktiviert wird, die Funktion als Ausweg aus der subjektiven Zuordnung von Studien zu Metaanalysen sowie der Umstand, dass alle enthaltenen Studien auf ihre Eignung für koordinatenbasierte Metaanalysen geprüft wurden; nutzbar ist die Datenbank auch zur Hypothesenbildung."
+    },
+    {
+      "topic": "Interpretation & Datenbanken",
+      "hard": true,
+      "question": "Was testet das Meta-analytic Connectivity Modeling (MACM)?",
+      "options": [
+        "Die Bindung radioaktiv markierter Substanzen an Rezeptoren",
+        "Konsistente Koaktivierungen anderer Voxel mit einer Saatregion",
+        "Die Gerichtetheit der Diffusion entlang der Faserbahnen im Gewebe",
+        "Die Übereinstimmung zweier Referenzräume nach der Transformation"
+      ],
+      "answer": 1,
+      "explanation": "MACM testet auf konsistente Koaktivierungen mit einer Saatregion und beantwortet die Frage, wie wahrscheinlich es ist, dass ein Experiment sowohl die Saatregion als auch einen anderen Voxel aktiviert; es liefert damit eine aufgabenbasierte Schätzung der Konnektivität. Die Gerichtetheit der Diffusion ist Gegenstand des DTI. Die Bindung radioaktiv markierter Substanzen an Rezeptoren wird mit der PET gemessen. Und die Übereinstimmung von Referenzräumen ist eine Frage der Normalisierung, nicht der Konnektivitätsmodellierung."
+    },
+    {
+      "topic": "Interpretation & Datenbanken",
+      "transfer": true,
+      "question": "Eine Metaanalyse zeigt eine strukturelle Veränderung im rechten ventralen Striatum. Wie lässt sich die Funktion dieser Region am ehesten quantitativ einschätzen?",
+      "options": [
+        "Über das eigene Vorwissen zu den Funktionen des ventralen Striatums",
+        "Über die Zahl der eingeschlossenen Studien in der Metaanalyse selbst",
+        "Über die Halbwertszeit des in den Studien verwendeten Radionuklids",
+        "Über eine Koordinatendatenbank, die Paradigmen und Regionen verknüpft"
+      ],
+      "answer": 3,
+      "explanation": "Der Ausweg aus der subjektiven Zuordnung ist die Koordinatendatenbank: Sie beantwortet quantitativ, welche Region durch welche Paradigmen aktiviert wird – für das rechte Striatum ergibt sich dort vor allem Emotionsverarbeitung, speziell die Verarbeitung von Freude. Das eigene Vorwissen ist gerade die Quelle möglicher Verzerrung, vor der ausdrücklich gewarnt wird. Die Zahl der eingeschlossenen Studien sagt etwas über die Power, nicht über die Funktion der Region. Und Halbwertszeiten betreffen die PET-Messzeit und haben mit der funktionellen Charakterisierung nichts zu tun."
+    },
+    {
+      "topic": "PET – Prinzip",
+      "question": "Wie entsteht bei der Positronen-Emissions-Tomographie das Positron?",
+      "options": [
+        "Ein im Zyklotron angeheftetes Proton zerfällt im instabilen Kern",
+        "Ein Elektron wird durch das Magnetfeld aus dem Atom herausgelöst",
+        "Ein Neutron verlässt den Kern und wird zum Gamma-Quant umgewandelt",
+        "Ein Radionuklid bindet an Rezeptoren und setzt dabei Energie frei"
+      ],
+      "answer": 0,
+      "explanation": "Den radioaktiv markierten Substanzen wird in einem Zyklotron ein Proton angeheftet; dadurch wird der Kern instabil, und das Proton zerfällt in ein Neutron, das im Kern verbleibt, sowie ein Positron, das sich mit Lichtgeschwindigkeit vom Kern entfernt. Ein Herauslösen von Elektronen durch ein Magnetfeld findet nicht statt – ein Magnetfeld gehört zur MRT, nicht zur PET. Das Neutron verlässt den Kern gerade nicht. Und die Rezeptorbindung ist das, was man mit der PET misst, nicht die Ursache der Positronenentstehung."
+    },
+    {
+      "topic": "PET – Prinzip",
+      "hard": true,
+      "question": "Was detektieren die Detektoren eines Positronen-Emissions-Tomographen?",
+      "options": [
+        "Das gleichzeitige Eintreffen je eines Positrons und eines Elektrons",
+        "Gammawellen, die durch synchrone neuronale Aktivität verstärkt werden",
+        "Positronen, die in den oberen Kortexschichten positive Feldpotenziale auslösen",
+        "Gamma-Quanten, die bei der Kollision von Positron und Elektron entstehen"
+      ],
+      "answer": 3,
+      "explanation": "Das Positron kollidiert nach kurzer Wegstrecke mit einem Elektron; bei dieser Annihilation werden zwei Gamma-Quanten von je 511 keV in 180°-Richtung emittiert, und ihr Nachweis in Koinzidenz bildet die Grundlage der PET. Positronen selbst werden nicht detektiert, und Feldpotenziale in Kortexschichten sind Gegenstand elektrophysiologischer Verfahren. Eine Verstärkung von Gammawellen durch synchrone neuronale Aktivität gibt es nicht. Und detektiert wird nicht das Eintreffen von Positron und Elektron, sondern das der beiden entstehenden Gamma-Quanten."
+    },
+    {
+      "topic": "PET – Prinzip",
+      "question": "Welche Aussage zum PET-Scanner trifft NICHT zu?",
+      "options": [
+        "Nur gleichzeitige Signale gegenüberliegender Detektoren werden gewertet",
+        "Bei der Annihilation werden zwei Quanten in 180°-Richtung emittiert",
+        "Der Scanner besteht aus Detektoren für Gamma-Strahlen",
+        "Bereits ein einzelnes Signal an einem Detektor geht in die Analyse ein"
+      ],
+      "answer": 3,
+      "explanation": "Nur Gamma-Quanten, die gleichzeitig an zwei gegenüberliegenden Detektoren ein Signal auslösen, gehen in die Analyse ein – ein einzelnes Signal genügt gerade nicht, und genau das macht die geforderte Koinzidenz aus. Zutreffend sind daher der Aufbau aus Gamma-Strahlen-Detektoren, die Auswertung nur koinzidenter Signale gegenüberliegender Detektoren und die Emission zweier Quanten in 180°-Richtung bei der Annihilation."
+    },
+    {
+      "topic": "PET – Prinzip",
+      "question": "Worauf deuten Cluster von Annihilationen im PET NICHT hin?",
+      "options": [
+        "Auf die Gerichtetheit der Diffusion in der weißen Substanz",
+        "Auf einen erhöhten Sauerstoff- oder Glukoseverbrauch der Region",
+        "Auf eine erhöhte Durchblutung im betreffenden Gewebeabschnitt",
+        "Auf ein erhöhtes Rezeptorvorkommen oder erhöhte Rezeptorbindung"
+      ],
+      "answer": 0,
+      "explanation": "Die Gerichtetheit der Diffusion wird über die fraktionelle Anisotropie im DTI erfasst und hat mit Annihilationen nichts zu tun – das ist die gesuchte Option. Cluster von Annihilationen deuten dagegen auf eine erhöhte Durchblutung, einen erhöhten Sauerstoff- oder Glukoseverbrauch sowie auf ein erhöhtes Rezeptorvorkommen oder eine erhöhte Rezeptorbindung hin; welche dieser Größen abgebildet wird, hängt vom eingesetzten Radiopharmakon ab."
+    },
+    {
+      "topic": "PET – Eignung & Grenzen",
+      "hard": true,
+      "trap": "Die Grenze liegt in der zeitlichen Auflösung durch die Halbwertszeiten, nicht in der räumlichen Auflösung – ein event-related Design ist deshalb nicht möglich.",
+      "question": "Warum ist die PET für kognitive Fragestellungen eher ungeeignet?",
+      "options": [
+        "Weil die Probanden während der Messung keine Aufgaben bearbeiten dürfen",
+        "Weil sie Rezeptorverteilungen grundsätzlich nicht erfassen kann",
+        "Weil der Zerfall abgewartet werden muss und Messungen lange dauern",
+        "Weil ihre räumliche Auflösung deutlich unterhalb der des EEG liegt"
+      ],
+      "answer": 2,
+      "explanation": "Da jeweils der radioaktive Zerfall abgewartet werden muss, sind PET-Messungen langsam: Nach Ablauf einer Halbwertszeit wird die Aufgabe durchgeführt, und bis zur nächsten Applikation des Radiopharmakons sollten etwa fünf Halbwertszeiten vergehen – ein event-related Design ist damit nicht möglich. Die Einschränkung betrifft die zeitliche, nicht die räumliche Auflösung, weshalb der Vergleich mit dem EEG nicht trägt. Rezeptorverteilungen erfasst die PET sogar besonders gut. Und Aufgaben dürfen die Probanden durchaus bearbeiten – nur eben nicht in schneller Abfolge."
+    },
+    {
+      "topic": "PET – Eignung & Grenzen",
+      "transfer": true,
+      "question": "Ein Team will die Bindungsfähigkeit von Dopaminrezeptoren im Striatum bei Kokainkonsumenten untersuchen. Welches Verfahren ist am ehesten geeignet?",
+      "options": [
+        "PET, weil sich damit Rezeptorverteilung und -bindung erfassen lassen",
+        "Strukturelle MRT, weil sich damit das Volumen des Striatums vermisst",
+        "fMRT, weil sich damit die Rezeptorbindung über den BOLD-Effekt zeigt",
+        "DTI, weil sich damit die Integrität der dopaminergen Bahnen bestimmt"
+      ],
+      "answer": 0,
+      "explanation": "Die PET ist gut geeignet zur Messung von Rezeptorverteilungen und Rezeptorbindungsfähigkeit; als Beispiel wird ausdrücklich die Bindung radioaktiv markierten Dopamins im Striatum genannt, die bei Kokainkonsumenten ein reduziertes Signal zeigt. Der BOLD-Effekt des fMRT bildet die Oxygenierung ab und sagt nichts über Rezeptorbindung. Das DTI erfasst die Gerichtetheit der Diffusion, also Fasereigenschaften, nicht die Rezeptoren. Und die strukturelle MRT vermisst Volumina, was die Bindungsfähigkeit ebenfalls nicht abbildet."
+    },
+    {
+      "topic": "PET – Eignung & Grenzen",
+      "question": "Welche Aussage zur zusammenfassenden Bewertung der PET trifft NICHT zu?",
+      "options": [
+        "Ihre zeitliche Auflösung ist durch die Halbwertszeiten begrenzt",
+        "Sie ist nicht invasiv und vergleichsweise kostengünstig durchführbar",
+        "Ohne medizinische Indikation fehlt den Probanden ein individueller Nutzen",
+        "Sie erfordert neben dem Scanner zusätzlich ein eigenes Zyklotron"
+      ],
+      "answer": 1,
+      "explanation": "Die PET ist wegen der Radioisotope eine invasive Methode und extrem teuer, da neben dem Scanner auch ein Zyklotron benötigt wird – die Einstufung als nicht invasiv und kostengünstig ist deshalb die gesuchte falsche Aussage. Zutreffend sind der Bedarf an einem eigenen Zyklotron, die durch die Halbwertszeiten begrenzte zeitliche Auflösung und das schlechte Kosten-Nutzen-Verhältnis, weil ohne medizinische Indikation kein individueller Nutzen für die Probanden entsteht. Gut geeignet ist die PET dagegen zur Erfassung von Rezeptorverteilungen; PET-Rezeptoratlanten können zur Charakterisierung von (f)MRT-Befunden beitragen."
+    }
+  ]
+}

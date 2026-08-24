@@ -598,6 +598,13 @@
       "title": "Methoden I – MRT, DTI und fMRT",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden I: Grundlagen der MRT-Physik und des T1-Kontrasts, strukturelle Maße, Diffusion und DTI, BOLD-Effekt und neurovaskuläre Kopplung, funktionelle Konnektivität sowie Interpretationsfehler wie multiples Testen und reverse inference. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-methoden-2",
+      "file": "kan-methoden-2.json",
+      "title": "Methoden II – Metaanalysen (CBMA/ALE) und PET",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden II: Referenzräume MNI und Talairach, quantitative koordinatenbasierte Metaanalysen und ALE, Good-Practice-Regeln, Interpretation klinischer Befunde, BrainMap und MACM sowie Prinzip, Eignung und Grenzen der Positronen-Emissions-Tomographie. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
