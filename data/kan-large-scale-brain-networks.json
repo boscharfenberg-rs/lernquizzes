@@ -1,0 +1,389 @@
+{
+  "id": "kan-large-scale-brain-networks",
+  "title": "Large-Scale Brain Networks – CEN, SN, DMN",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen nach den Fragenregeln der Neuro-Referenz zur Vorlesung Large-Scale Brain Networks: von der Lokalisation zur Netzwerkperspektive, intrinsische Netzwerke und Resting-State, zentrales exekutives Netzwerk, Salienznetzwerk, Default Mode Netzwerk und das Triple Network Model nach Menon. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Von der Lokalisation zum Netzwerk",
+      "question": "Die ersten beiden Jahrzehnte nach Entwicklung der funktionellen Bildgebung waren von der Lokalisierung von Hirnfunktionen geprägt. Warum reicht diese Sichtweise für die neurobiologische Beschreibung von Verhalten nicht aus?",
+      "options": [
+        "Weil sie offenlässt, wie eine Aktivitätsänderung vermittelt ist und was sie bedeutet",
+        "Weil sich Funktions-Struktur-Beziehungen damit grundsätzlich nicht aufzeigen lassen",
+        "Weil funktionelle Verfahren die Lokalisierung räumlich nicht auflösen können",
+        "Weil Hirnareale sich zytoarchitektonisch nicht voneinander abgrenzen lassen"
+      ],
+      "answer": 0,
+      "explanation": "Zu wissen, wo ein bestimmter Zustand die „Aktivität“ erhöht, sagt nichts darüber, wie diese Aktivitätsänderung vermittelt ist und was sie bedeutet – genau deshalb reicht die reine Lokalisierung nicht aus. Die drei Distraktoren folgen dem Muster der Richtungsumkehr: Lokalisationsanalysen sind sehr wohl geeignet, das Gehirn in funktionelle Einheiten zu zerlegen und Funktions-Struktur-Beziehungen aufzuzeigen; die räumliche Auflösung funktioneller Verfahren ist gerade deren Stärke; und Hirnareale lassen sich zytoarchitektonisch und/oder funktionell durchaus voneinander abgrenzen."
+    },
+    {
+      "topic": "Von der Lokalisation zum Netzwerk",
+      "question": "Wäre jedes Neuron mit jedem anderen verbunden, hätte das Gehirn nach Nelson und Bower einen Durchmesser von etwa 20 Kilometern. Welche Schlussfolgerung trifft NICHT zu?",
+      "options": [
+        "Die Verbindungen eines Areals bestimmen, welche Information es erreicht",
+        "Neurone vernetzen sich nur mit einem Teil der anderen Neurone",
+        "Neurone vernetzen sich mit nahezu allen übrigen Neuronen des Gehirns",
+        "Konnektivität ist ein fundamentales Prinzip der Funktionsweise des Gehirns"
+      ],
+      "answer": 2,
+      "explanation": "Das Rechenbeispiel dient gerade dem Gegenteil: Weil eine vollständige Vernetzung physisch unmöglich wäre, vernetzen sich Neurone nur mit einem Teil der anderen Neurone und bilden dabei spezifische Netzwerke – die Behauptung nahezu vollständiger Vernetzung ist deshalb die gesuchte falsche Aussage (Distraktormuster: Richtungsumkehr). Zutreffend sind dagegen die selektive Vernetzung, der Umstand, dass die Verbindungen eines Areals bestimmen, welche Informationen dorthin gelangen und wohin sie weitergeleitet werden, sowie die Einordnung der Konnektivität als fundamentales Funktionsprinzip."
+    },
+    {
+      "topic": "Von der Lokalisation zum Netzwerk",
+      "transfer": true,
+      "question": "Eine Studentin nennt die Amygdala als die Struktur psychischer Störungen schlechthin und möchte deren Aktivität isoliert messen. Welcher Einwand trifft zu?",
+      "options": [
+        "Die Amygdala lässt sich mit funktionellen Verfahren grundsätzlich nicht abbilden",
+        "Die Amygdala ist keine autonom operierende Struktur, sondern Teil von Netzwerken",
+        "Die Amygdala erhält als einzige Struktur keine Projektionen aus anderen Regionen",
+        "Die Amygdala zählt zu den Hauptknotenpunkten des Default Mode Netzwerks"
+      ],
+      "answer": 1,
+      "explanation": "Wie in jede andere Struktur ziehen auch in die Amygdala Projektionen aus anderen Hirnregionen; sie ist damit keine autonom operierende Struktur, sondern Teil verschiedener Netzwerke. Aus der amygdaloidalen Aktivität allein lernt man wenig über die Spezifität einer Störung – vielversprechender ist die Betrachtung ihrer Verbindungen. Dass sie als einzige Struktur keine Projektionen erhielte, kehrt genau diesen Punkt um (Richtungsumkehr). Abbilden lässt sie sich funktionell ohne Weiteres. Und die Zuordnung zum DMN ist eine plausible Fehlkopplung: Die Amygdalae sind subkortikale Knotenpunkte des Salienznetzwerks."
+    },
+    {
+      "topic": "Von der Lokalisation zum Netzwerk",
+      "question": "Vinod Menon beschreibt in seinem Artikel „Large-Scale Brain Networks and Psychopathology“ einen Paradigmenwechsel in der Untersuchung neurobiologischer Korrelate psychischer Störungen. Was wird im Rahmen dieses Paradigmenwechsels beschrieben?",
+      "options": [
+        "Der Schritt weg von kategorialer hin zu dimensionaler Klassifikation",
+        "Die Berücksichtigung spezifischer Geschlechtseffekte in der Netzwerkarchitektur",
+        "Die Rückbesinnung auf die Zerlegung des Gehirns in funktionelle Einheiten",
+        "Der Schritt weg von einzelnen Strukturen hin zu Netzwerkkomponenten"
+      ],
+      "answer": 3,
+      "explanation": "Der Paradigmenwechsel besteht im Schritt weg von der Untersuchung einzelner Strukturen hin zur Untersuchung von Netzwerkkomponenten (Referenzeintrag NEURO-05-01). Die dimensionale statt kategorialer Klassifikation ist eine benachbarte, aber andere Debatte und hier eine plausible Fehlkopplung. Die Rückbesinnung auf die Zerlegung in funktionelle Einheiten beschreibt gerade die alte Lokalisationsperspektive, von der sich der Wechsel abwendet (Richtungsumkehr). Und Geschlechtseffekte sind nicht der Kern des beschriebenen Wechsels."
+    },
+    {
+      "topic": "Von der Lokalisation zum Netzwerk",
+      "question": "Ein Large-Scale Brain Network lässt sich über zwei Bestandteile charakterisieren. Welche sind das?",
+      "options": [
+        "Knotenpunkte (Nodes) und die Zahl der beteiligten Versuchspersonen",
+        "Zytoarchitektonische Grenzen und die Dicke der grauen Substanz",
+        "Knotenpunkte (Nodes) und die Verbindungen zwischen ihnen (Edges)",
+        "Niederfrequente Oszillationen und die Dauer der Ruhemessung"
+      ],
+      "answer": 2,
+      "explanation": "Ein Netzwerk wird charakterisiert durch eine Ansammlung von Hirnregionen – Knoten, Hubs bzw. Nodes – und die Verbindungen zwischen diesen Knotenpunkten, die Kanten oder Edges; es handelt sich um neurale Systeme, die sich fast über das gesamte Gehirn erstrecken. Die Zahl der Versuchspersonen ist eine Studieneigenschaft und kein Netzwerkbestandteil. Zytoarchitektonische Grenzen und kortikale Dicke betreffen die Parzellierung einzelner Areale, nicht den Netzwerkbegriff. Und niederfrequente Oszillationen sind das Mittel, mit dem Netzwerke isoliert werden, nicht ihr Bestandteil."
+    },
+    {
+      "topic": "Intrinsische Netzwerke & Entdeckung",
+      "question": "In der Geschichte der Erforschung der funktionellen Netzwerkarchitektur war die Entdeckung intrinsischer Netzwerke von besonderer Bedeutung. Was wird unter intrinsisch in diesem Zusammenhang verstanden?",
+      "options": [
+        "Fluktuationen der Hirnaktivität in Abwesenheit extrinsischer Stimulation",
+        "Fluktuationen der Hirnaktivität in Anwesenheit extrinsischer Stimulation",
+        "Die willentliche Beeinflussung der Hirnaktivität durch extrinsische Motivation",
+        "Die willentliche Beeinflussung der Hirnaktivität durch intrinsische Motivation"
+      ],
+      "answer": 0,
+      "explanation": "Intrinsisch meint Fluktuationen der Hirnaktivität in Abwesenheit extrinsischer Stimulation – genau das, was Resting-State-Messungen erfassen (Referenzeintrag NEURO-05-02). Die Variante mit Anwesenheit extrinsischer Stimulation ist eine Richtungsumkehr desselben Satzes. Die beiden Optionen zur willentlichen Beeinflussung durch Motivation verwechseln den methodischen Begriff „intrinsisch“ mit dem motivationspsychologischen und sind damit plausible Fehlkopplungen."
+    },
+    {
+      "topic": "Intrinsische Netzwerke & Entdeckung",
+      "question": "Wie läuft eine Resting-State-Messung ab?",
+      "options": [
+        "Die Teilnehmer erhalten einen Radiotracer und warten dessen Zerfall ab",
+        "Die Teilnehmer betrachten emotionale Gesichter in randomisierter Reihenfolge",
+        "Die Teilnehmer gehen keiner Aufgabe nach und lassen die Gedanken schweifen",
+        "Die Teilnehmer bearbeiten eine standardisierte Arbeitsgedächtnisaufgabe"
+      ],
+      "answer": 2,
+      "explanation": "Bei Resting-State-Messungen gehen die Teilnehmer keiner bestimmten Aufgabe nach und sollen ihre Gedanken schweifen lassen; über unterschiedliche niederfrequente Oszillationen lassen sich daraus einzelne Netzwerke isolieren. Eine Arbeitsgedächtnisaufgabe wäre eine aufgabenbasierte Messung und damit das Gegenteil (Richtungsumkehr). Der Radiotracer gehört zur PET und ist eine Fehlkopplung aus einem anderen Verfahren. Und die Darbietung emotionaler Gesichter ist wiederum ein aufgabenbasiertes Paradigma."
+    },
+    {
+      "topic": "Intrinsische Netzwerke & Entdeckung",
+      "question": "Welche Aussage zur Bestimmung von Hirnnetzwerken trifft NICHT zu?",
+      "options": [
+        "Strukturelle Verfahren wie die Diffusions-Tensor-Bildgebung kommen zum Einsatz",
+        "Funktionelle Messungen wie die Echo-Planar-Bildgebung kommen zum Einsatz",
+        "Über niederfrequente Oszillationen lassen sich einzelne Netzwerke isolieren",
+        "Netzwerke lassen sich ausschließlich mit strukturellen Verfahren bestimmen"
+      ],
+      "answer": 3,
+      "explanation": "Hirnnetzwerke können sowohl mittels struktureller Verfahren wie der Diffusions-Tensor-Bildgebung als auch über funktionelle Messungen wie die Echo-Planar-Bildgebung bestimmt werden – die Beschränkung auf strukturelle Verfahren ist deshalb die gesuchte falsche Aussage. Die drei übrigen Aussagen treffen zu und benennen genau diese beiden Zugänge sowie die Isolierung einzelner Netzwerke über unterschiedliche niederfrequente Oszillationen."
+    },
+    {
+      "topic": "Intrinsische Netzwerke & Entdeckung",
+      "hard": true,
+      "question": "Wie wurde das Default Mode Netzwerk entdeckt?",
+      "options": [
+        "Über eine verminderte Aktivierung bei Patienten mit generalisierter Angststörung",
+        "Über Patienten mit Schädigungen in medial-präfrontalen und parietalen Regionen",
+        "Über eine aufgabenunabhängige Abnahme der Aktivität in mPFC und Parietalregionen",
+        "Über eine aufgabeninduzierte Zunahme der Aktivität in mPFC und Parietalregionen"
+      ],
+      "answer": 2,
+      "explanation": "In einer Metaanalyse über neun PET-Studien mit ganz unterschiedlichen zielgerichteten Aufgaben war allen Studien gemein, dass es während der Aufgabenbearbeitung zu einer Abnahme der metabolischen Aktivität in medial-präfrontalen und posterior-parietalen Regionen kam; diese Deaktivierung war also aufgabenunabhängig und zeigte sich in Ruhe gerade nicht (Referenzeintrag NEURO-05-06). Die Variante mit Aktivitätszunahme ist eine Richtungsumkehr. Der Zugang über Patienten mit Schädigungen dieser Regionen beschreibt eine Läsionsstudie und war nicht der Entdeckungsweg. Und die Beschränkung auf Angstpatienten macht aus dem aufgabenunabhängigen Befund fälschlich einen störungsspezifischen."
+    },
+    {
+      "topic": "Intrinsische Netzwerke & Entdeckung",
+      "question": "Welche Aussage zur Independent Component Analysis (ICA) trifft NICHT zu?",
+      "options": [
+        "Die Kenntnis der Netzwerkfunktionen stammt aus Lokalisationsstudien",
+        "Mit ihr lassen sich unterschiedliche Netzwerke im Gehirn identifizieren",
+        "Mit ihr lässt sich die Funktion der identifizierten Netzwerke direkt ableiten",
+        "Sie gehört zu den Meilensteinen im Verständnis der Hirnorganisation"
+      ],
+      "answer": 2,
+      "explanation": "Die ICA identifiziert Netzwerke, liefert aber nicht deren Funktion – die Kenntnis über die Funktion der Netzwerke wird aus den Lokalisationsstudien abgeleitet. Die Behauptung, die Funktion lasse sich direkt aus der ICA ableiten, ist deshalb die gesuchte falsche Aussage. Zutreffend sind die Identifikation unterschiedlicher Netzwerke, die Herkunft des Funktionswissens aus Lokalisationsstudien und die Einordnung als Meilenstein im Verständnis der Hirnorganisation."
+    },
+    {
+      "topic": "Zentrales exekutives Netzwerk",
+      "question": "Welche Regionen bilden die Hauptknotenpunkte des zentralen exekutiven Netzwerks (CEN)?",
+      "options": [
+        "dorsale ACC-Regionen und anteriorer insulärer Kortex",
+        "dlPFC und lateraler posteriorer Parietalkortex",
+        "Amygdalae und ventral tegmentale Areale",
+        "mPFC und posteriorer zingulärer Kortex (PCC)"
+      ],
+      "answer": 1,
+      "explanation": "Das CEN ist ein frontoparietales System mit den Hauptknotenpunkten in den dorsolateralen präfrontalen Kortizes (dlPFC) und den lateralen posteriorparietalen Kortizes (PPC). Die drei Distraktoren folgen dem Muster der Nachbarstruktur, also korrekter Knotenpunkte aus dem jeweils falschen Netzwerk: dorsale ACC-Regionen und anteriore Insula sind die Hauptknotenpunkte des Salienznetzwerks, mPFC und PCC die des Default Mode Netzwerks, und Amygdalae sowie ventral tegmentale Areale sind subkortikale Knotenpunkte des Salienznetzwerks."
+    },
+    {
+      "topic": "Zentrales exekutives Netzwerk",
+      "question": "Welche Funktion zählt NICHT zu den Aufgaben des zentralen exekutiven Netzwerks?",
+      "options": [
+        "Das Halten und Verarbeiten von Informationen im Arbeitsgedächtnis über Zeit",
+        "Der Abruf autobiographischer Erinnerungen und selbstreferenzielle Prozesse",
+        "Das Treffen von Entscheidungen im Kontext zielgerichteten Verhaltens",
+        "Das Problemlösen im Kontext zielgerichteten und geplanten Verhaltens"
+      ],
+      "answer": 1,
+      "explanation": "Autobiographischer Gedächtnisabruf und selbstreferenzielle Prozesse gehören zum Default Mode Netzwerk, nicht zum CEN – das ist die gesuchte Option und zugleich das Distraktormuster der Nachbarstruktur, hier des benachbarten Netzwerks. Zu den CEN-Funktionen zählen dagegen das Halten und Verarbeiten von Informationen im Arbeitsgedächtnis, das Treffen von Entscheidungen und das Problemlösen im Kontext zielgerichteten Verhaltens."
+    },
+    {
+      "topic": "Zentrales exekutives Netzwerk",
+      "hard": true,
+      "question": "Wodurch entstehen Netzwerkstörungen des zentralen exekutiven Netzwerks?",
+      "options": [
+        "Durch beeinträchtigte Konnektivität und abnormale Rekrutierung von Regionen",
+        "Durch eine Zunahme der Van-Economo-Neurone zwischen ACC und Insula",
+        "Durch eine dauerhafte Auskopplung des Salienznetzwerks aus dem Verbund",
+        "Durch eine Verlagerung der Hauptknotenpunkte in mediotemporale Regionen"
+      ],
+      "answer": 0,
+      "explanation": "Genannt werden drei Entstehungswege: Beeinträchtigungen der Konnektivität innerhalb des Netzwerks, die abnormale Rekrutierung von Regionen, die typischerweise nicht zum CEN gezählt werden, und ein beeinträchtigter Zugriff auf saliente aufgabenrelevante Stimuli. Eine dauerhafte Auskopplung des Salienznetzwerks ist nicht beschrieben – das SN koordiniert die Interaktion, statt sich auszukoppeln. Eine Zunahme der Van-Economo-Neurone ist eine plausible Fehlkopplung: Diese Zellen verbinden ACC und Insula im Salienznetzwerk. Und eine Verlagerung der Hauptknotenpunkte in mediotemporale Regionen ist nirgends beschrieben."
+    },
+    {
+      "topic": "Zentrales exekutives Netzwerk",
+      "transfer": true,
+      "question": "Ein Angstpatient bewältigt eine belastende Situation regelmäßig durch Vermeidung statt durch aktives Problemlösen. Wie ist das im Netzwerkmodell zu deuten?",
+      "options": [
+        "Als unzureichende Rekrutierung kognitiver Kontrollressourcen des CEN",
+        "Als übermäßige Rekrutierung kognitiver Kontrollressourcen des CEN",
+        "Als Folge einer Schädigung der Van-Economo-Neurone im Vorderhirn",
+        "Als vollständiger Ausfall der Salienzdetektion im Salienznetzwerk"
+      ],
+      "answer": 0,
+      "explanation": "Das „Problemlösen“ bei Angstpatienten besteht oft aus der Vermeidung der Situation bei unzureichender Rekrutierung kognitiver Kontrollressourcen – genau dieses Beispiel beschreibt die Vignette. Eine übermäßige Rekrutierung kehrt die Richtung um (Richtungsumkehr). Ein vollständiger Ausfall der Salienzdetektion wäre ein weit dramatischeres und anders geartetes Bild und ist hier nicht gemeint. Und eine Schädigung der Van-Economo-Neurone betrifft die Verbindung von ACC und Insula im Salienznetzwerk, nicht die kognitive Kontrolle des CEN."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "question": "Welche Region wird dem Salienznetzwerk NICHT zugeordnet?",
+      "options": [
+        "Ventral tegmentales Areal (VTA)",
+        "Anteriorer insulärer Kortex (AI)",
+        "Dorsolateraler präfrontaler Kortex (dlPFC)",
+        "Dorsale anteriore zinguläre Regionen (dACC)"
+      ],
+      "answer": 2,
+      "explanation": "Der dorsolaterale präfrontale Kortex ist ein Hauptknotenpunkt des zentralen exekutiven Netzwerks und wird dem Salienznetzwerk nicht zugeordnet – Distraktormuster Nachbarstruktur, also die richtige Region aus dem falschen Netzwerk. Zum Salienznetzwerk zählen dagegen die dorsalen ACC-Regionen und der anteriore insuläre Kortex als Hauptknotenpunkte sowie das ventral tegmentale Areal – wie auch die Amygdalae – als subkortikale Knotenpunkte."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "hard": true,
+      "trap": "ACC und anteriore Insula werden vertauscht: Fehlerdetektion, Konfliktüberwachung und Reaktionswahl gehören zum ACC, die konvergente sensorische und interozeptive Verarbeitung zur Insula.",
+      "question": "Innerhalb des Salienznetzwerks werden ACC- und insulären Regionen unterschiedliche Aufgaben zugeschrieben. Welche Zuordnung trifft zu?",
+      "options": [
+        "ACC: Fehlerdetektion und Konfliktüberwachung; Insula: konvergente sensorische Signale",
+        "ACC: Abruf autobiographischer Inhalte; Insula: Halten von Arbeitsgedächtnisinhalten",
+        "Insula: Fehlerdetektion und Konfliktüberwachung; ACC: konvergente sensorische Signale",
+        "ACC: interozeptive Wahrnehmung; Insula: direkte Kontrolle über die Motorik"
+      ],
+      "answer": 0,
+      "explanation": "ACC-Regionen detektieren Fehler und Unstimmigkeiten – auch homöostatische – und sind in Reaktionswahl und Konfliktüberwachung involviert; insuläre Regionen empfangen konvergente eingehende Signale multipler sensorischer Modalitäten und weisen simultan Aufmerksamkeit zu. Die vertauschte Variante ist das klassische Achsenvertauschungs-Muster. Die dritte Option dreht beide Zuschreibungen ebenfalls um: Interozeption gehört zur Insula, die direkte Kontrolle über die Motorik über Verbindungen zu motorischen Regionen zum ACC. Und autobiographischer Abruf sowie Arbeitsgedächtnis sind Funktionen von DMN und CEN, also eine Fehlkopplung über Netzwerkgrenzen hinweg."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "transfer": true,
+      "question": "Eine Patientin berichtet, ihren Herzschlag und ihre Atmung ständig überdeutlich wahrzunehmen. Welcher Verarbeitung ist das zuzuordnen?",
+      "options": [
+        "Dem Abruf autobiographischer Erinnerungen",
+        "Dem Halten von Information im Arbeitsgedächtnis des CEN",
+        "Der Fehlerdetektion über dorsale Regionen des ACC",
+        "Der interozeptiven Wahrnehmung über insuläre Regionen"
+      ],
+      "answer": 3,
+      "explanation": "Insuläre Regionen verarbeiten interne Signale im Zusammenhang mit autonomen Prozessen wie Herzschlag, Hautleitwert und Atmung; das ist die interozeptive Wahrnehmung, auf die die Schilderung zeigt. Die Fehlerdetektion ist Aufgabe der dorsalen ACC-Regionen und damit die Nachbarstruktur innerhalb desselben Netzwerks. Das Halten von Information im Arbeitsgedächtnis gehört zum CEN und der Abruf autobiographischer Erinnerungen zum DMN – beides sind Fehlkopplungen über Netzwerkgrenzen hinweg."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "hard": true,
+      "question": "ACC und anteriore Insula sind über spezielle Neurone miteinander verbunden. Welche Aussage stimmt?",
+      "options": [
+        "Van-Economo-Neurone besitzen zahlreiche Dendriten und kein eigenes Axon",
+        "Van-Economo-Neurone ermöglichen eine besonders schnelle Übertragung",
+        "Van-Economo-Neurone verbinden das DMN mit mediotemporalen Regionen",
+        "Van-Economo-Neurone verlangsamen die Übertragung zugunsten der Präzision"
+      ],
+      "answer": 1,
+      "explanation": "ACC und anteriore Insula sind über Van-Economo-Neurone verbunden, die eine besonders schnelle Informationsübertragung ermöglichen; dadurch ist das Salienznetzwerk gerüstet, nicht nur die Aufmerksamkeit, sondern auch die motorische Reaktion auf saliente Reize auszurichten. Eine Verlangsamung zugunsten der Präzision kehrt das um (Richtungsumkehr). Ihr Bau ist gerade umgekehrt beschrieben: ein Dendrit, ein Axon und ein großer Zellkörper. Und eine Verbindung des DMN mit mediotemporalen Regionen ist eine Fehlkopplung in ein anderes Netzwerk."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "hard": true,
+      "trap": "Emotionale Salienz – insbesondere Bedrohung – gehört zu den Amygdalae, belohnungsbezogene Salienz im Sinne des Lernens zum ventral tegmentalen Areal. Die beiden werden regelmäßig vertauscht.",
+      "question": "Welche Zuordnung der subkortikalen Knotenpunkte des Salienznetzwerks trifft zu?",
+      "options": [
+        "Amygdalae: emotionale Salienz; ventral tegmentale Areale: belohnungsbezogene Salienz",
+        "Amygdalae: belohnungsbezogene Salienz; ventral tegmentale Areale: emotionale Salienz",
+        "Amygdalae: interozeptive Salienz; ventral tegmentale Areale: motorische Reaktionswahl",
+        "Amygdalae: Konfliktüberwachung; ventral tegmentale Areale: autobiographischer Abruf"
+      ],
+      "answer": 0,
+      "explanation": "Die Amygdalae stehen mit der Zuweisung emotionaler Salienz in Zusammenhang, insbesondere bei Bedrohung; die ventral tegmentalen Areale mit der Zuweisung belohnungsbezogener Salienz im Sinne des Lernens. Die vertauschte Variante ist eine reine Achsenvertauschung. Interozeptive Verarbeitung und motorische Reaktionswahl gehören zu Insula bzw. ACC und sind damit Nachbarstrukturen innerhalb desselben Netzwerks. Konfliktüberwachung ist ebenfalls ACC-Aufgabe, autobiographischer Abruf eine DMN-Funktion – beide Zuschreibungen sind plausible Fehlkopplungen."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "question": "Welches Merkmal kennzeichnet ein salientes Ereignis im Sinne des Salienznetzwerks NICHT?",
+      "options": [
+        "Es ist überraschend, angenehm oder belohnend für die Person",
+        "Es wiederholt sich gleichförmig in einer konstanten Abfolge",
+        "Es ist selbst-, entscheidungs- oder emotional relevant",
+        "Es stellt eine Abweichung in einer sonst konstanten Abfolge dar"
+      ],
+      "answer": 1,
+      "explanation": "Salient sind gerade Ereignisse, die von einer konstanten Abfolge abweichen – eine gleichförmige Wiederholung ist damit das Gegenteil und die gesuchte falsche Aussage (Richtungsumkehr). Zutreffend sind die Abweichung in einer sonst konstanten Abfolge, überraschende sowie angenehme oder belohnende Stimuli und die Selbst-, Entscheidungs- oder emotionale Relevanz. Das Salienznetzwerk dient dabei – anders als das dorsale Aufmerksamkeitsnetzwerk – der Aufrechterhaltung stabiler Salienz und arbeitet schnell und automatisch."
+    },
+    {
+      "topic": "Salienznetzwerk",
+      "transfer": true,
+      "question": "Für kokainabhängige Patienten sind Konsumutensilien hochgradig bedeutsam, für Angst- oder Schmerzpatienten nicht. Welches Prinzip zeigt sich daran?",
+      "options": [
+        "Salienz ist gruppen- und personenabhängig, nicht absolut",
+        "Salienz wird ausschließlich über das Default Mode Netzwerk vermittelt",
+        "Salienz entspricht der Reizintensität in physikalischen Einheiten",
+        "Salienz ist eine feste Eigenschaft des jeweiligen Reizes"
+      ],
+      "answer": 0,
+      "explanation": "Ein Ereignis, das für eine Gruppe salient ist, muss es für eine andere nicht sein – genau darauf zielt das Beispiel. Weitere Belege sind die verminderte Salienz sozialer Reize wie Gesichter und Blicke bei Autismus und die Fehlattribution von Salienz als Kernsymptom der Schizophrenie. Salienz als feste Reizeigenschaft oder als physikalische Reizintensität widerspricht dieser Kontextabhängigkeit (Richtungsumkehr). Und vermittelt wird Salienz über das Salienznetzwerk, nicht über das DMN – eine Fehlkopplung über Netzwerkgrenzen."
+    },
+    {
+      "topic": "Default Mode Netzwerk",
+      "question": "Welche Region wird den Hauptknotenpunkten des Default Mode Netzwerks NICHT zugeordnet?",
+      "options": [
+        "Gyrus angularis und mediotemporale Regionen",
+        "Medialer präfrontaler Kortex (mPFC)",
+        "Posteriorer zingulärer Kortex (PCC)",
+        "Anteriorer insulärer Kortex (AI)"
+      ],
+      "answer": 3,
+      "explanation": "Der anteriore insuläre Kortex ist ein Hauptknotenpunkt des Salienznetzwerks und gehört nicht zum DMN – Distraktormuster Nachbarstruktur, also die korrekte Region aus dem falschen Netzwerk. Hauptknotenpunkte des DMN sind Regionen der medial-präfrontalen und posterior-zingulären Kortizes, außerdem medial temporale Regionen und Teile der Gyri angulares (vgl. Referenzeintrag NEURO-05-05)."
+    },
+    {
+      "topic": "Default Mode Netzwerk",
+      "question": "Welche Funktion zählt NICHT zu den Aufgaben des Default Mode Netzwerks?",
+      "options": [
+        "Episodischer und autobiographischer Gedächtnisabruf sowie Zukunftsplanung",
+        "Das Halten und Verarbeiten von Information im Arbeitsgedächtnis",
+        "Selbstreferenzielle Prozesse und interne Repräsentation der Welt",
+        "Implizite Emotionsregulation, sozial-kognitive Prozesse und internal speech"
+      ],
+      "answer": 1,
+      "explanation": "Das Halten und Verarbeiten von Information im Arbeitsgedächtnis ist eine Funktion des zentralen exekutiven Netzwerks und damit die gesuchte Option – erneut das Muster der Nachbarstruktur über Netzwerkgrenzen hinweg. Zu den DMN-Funktionen zählen dagegen die interne Repräsentation der Welt, selbstreferenzielle Prozesse, episodischer und autobiographischer Gedächtnisabruf, Zukunftsplanung, implizite Emotionsregulation, sozial-kognitive Prozesse und internal speech."
+    },
+    {
+      "topic": "Default Mode Netzwerk",
+      "transfer": true,
+      "trap": "Das DMN wird bei stimulusgesteuerten Aufgaben normalerweise deaktiviert und entkoppelt – CEN-Regionen werden aktiviert, DMN-Regionen deaktiviert.",
+      "question": "Eine Versuchsperson bearbeitet eine Wortproduktionsaufgabe. Was ist für die Regionen des DMN zu erwarten?",
+      "options": [
+        "Eine Aktivierung, die der des CEN zeitlich exakt folgt",
+        "Eine unveränderte Aktivität gegenüber der Ruhebedingung",
+        "Eine aufgabenabhängige Aktivierung dieser Regionen",
+        "Eine aufgabenabhängige Deaktivierung dieser Regionen"
+      ],
+      "answer": 3,
+      "explanation": "Im Gegensatz zum CEN ist das DMN während der Bearbeitung stimulusgesteuerter Aufgaben normalerweise deaktiviert und damit entkoppelt; am Beispiel der Wortproduktionsaufgabe zeigt sich aufgabenabhängige Aktivierung in CEN-Regionen und aufgabenabhängige Deaktivierung in DMN-Regionen. Die Erwartung einer Aktivierung ist die Richtungsumkehr dieses Prinzips. Eine unveränderte Aktivität widerspricht dem fundamentalen Organisationsprinzip, dass Aktivität in manchen Regionen unterdrückt wird, während andere eingebunden werden. Und eine dem CEN zeitlich folgende Aktivierung beschreibt keine Entkopplung."
+    },
+    {
+      "topic": "Default Mode Netzwerk",
+      "hard": true,
+      "trap": "Das dMPFC-System bezieht sich auf mentale Zustände von sich und anderen, das MTL-System auf Abruf und Imagination von Ereignissen – die beiden Subsysteme werden leicht vertauscht.",
+      "question": "Das Default Mode Netzwerk lässt sich in zwei Subsysteme gliedern. Welche Zuordnung trifft zu?",
+      "options": [
+        "MTL-System: mentaler Status von sich und anderen; dMPFC-System: Abruf und Imagination",
+        "dMPFC-System: mentaler Status von sich und anderen; MTL-System: Abruf und Imagination",
+        "dMPFC-System: Arbeitsgedächtnis; MTL-System: Detektion verhaltensrelevanter Stimuli",
+        "dMPFC-System: Konfliktüberwachung; MTL-System: Zuweisung emotionaler Salienz"
+      ],
+      "answer": 1,
+      "explanation": "Das dorsomediale präfrontale Subsystem – mit dMPFC, temporo-parietaler Übergangsregion, lateralem temporalem Kortex und Temporalpol – ist mit Gedanken über den mentalen Status von sich oder anderen assoziiert, insbesondere wenn affektive Information auf die eigene Person bezogen wird. Das mediotemporale Subsystem – mit vmPFC, posterior-inferiorem Parietallappen, retrosplenialem und parahippocampalem Kortex – ist mit dem Abruf vergangener und der Imagination künftiger Ereignisse assoziiert. Die vertauschte Variante ist eine Achsenvertauschung. Konfliktüberwachung und emotionale Salienz gehören zum Salienznetzwerk, Arbeitsgedächtnis zum CEN – beides Fehlkopplungen über Netzwerkgrenzen hinweg."
+    },
+    {
+      "topic": "Default Mode Netzwerk",
+      "transfer": true,
+      "question": "Eine Patientin mit generalisierter Angststörung kann ängstliches Grübeln nicht unterdrücken. Wie ist das im Netzwerkmodell zu deuten?",
+      "options": [
+        "Die Van-Economo-Neurone leiten Information zu langsam an das CEN weiter",
+        "Selbstreferenzielle DMN-Prozesse binden Ressourcen der kognitiven Kontrolle",
+        "Das DMN ist während des Grübelns vollständig ausgekoppelt und inaktiv",
+        "Das Salienznetzwerk ist strukturell zerstört und ohne jede Funktion"
+      ],
+      "answer": 1,
+      "explanation": "Selbstreferentielle Prozesse wie ängstliches Grübeln können nicht unterdrückt werden und binden neurale Ressourcen, die für kognitive Kontrollfunktionen nicht zur Verfügung stehen; die verminderte kognitive Kontrolle verhindert dann eine adäquate Verhaltensanpassung. Eine vollständige Auskopplung des DMN kehrt den Befund um – gerade die fehlende Auskopplung ist das Problem (Richtungsumkehr). Eine strukturelle Zerstörung des Salienznetzwerks ist nicht gemeint; beschrieben sind Störungen der Informationsprozessierung, nicht ein Totalausfall. Und die Van-Economo-Neurone betreffen die Verbindung von ACC und Insula, nicht die Grübelneigung."
+    },
+    {
+      "topic": "Triple Network Model & Ausblick",
+      "hard": true,
+      "question": "Was nimmt das Triple Network Model of Psychopathology nach Menon an?",
+      "options": [
+        "Eine isolierte Überaktivität der Amygdala als Hauptmerkmal aller Störungen",
+        "Eine dimensionale statt kategorialer Klassifikation psychischer Störungen",
+        "Gestörte Ein- und Auskopplung von CEN, SN und DMN als Hauptmerkmal",
+        "Eine störungsspezifische Schädigung jeweils genau eines der drei Netzwerke"
+      ],
+      "answer": 2,
+      "explanation": "Das Modell nimmt an, dass die gestörte Einbindung und Auskopplung der drei Netzwerke CEN, SN und DMN ein Hauptmerkmal psychischer Störungen darstellt; besonders wichtig ist dabei die unangemessene Zuweisung von Salienz zu internen oder externen Ereignissen. Eine isolierte Amygdala-Überaktivität widerspricht gerade der Netzwerkperspektive, die einzelne Strukturen hinter sich lässt. Eine störungsspezifische Schädigung genau eines Netzwerks trifft nicht zu – Veränderungen in allen drei Netzwerken sind störungsübergreifend häufige Befunde. Und die dimensionale Klassifikation ist eine benachbarte Debatte, nicht die Modellannahme."
+    },
+    {
+      "topic": "Triple Network Model & Ausblick",
+      "transfer": true,
+      "question": "Versuchen Sie, gleichzeitig eine komplizierte Rechenaufgabe zu lösen und über Ihren letzten Urlaub nachzudenken. Welches Prinzip veranschaulicht das?",
+      "options": [
+        "CEN und DMN konkurrieren um die verfügbaren neuralen Ressourcen",
+        "Das DMN übernimmt bei hoher Belastung die Funktionen des CEN",
+        "CEN und DMN arbeiten grundsätzlich unabhängig voneinander",
+        "Das Salienznetzwerk koppelt beide Netzwerke stets gleichzeitig ein"
+      ],
+      "answer": 0,
+      "explanation": "CEN und DMN konkurrieren um die verfügbaren Ressourcen – genau dieses Gedankenexperiment wird zur Veranschaulichung verwendet. Eine grundsätzliche Unabhängigkeit widerspricht dem (Richtungsumkehr). Das Salienznetzwerk koppelt gerade nicht beide gleichzeitig ein: Ist kognitive Kontrolle gefordert, muss das CEN eingekoppelt und das DMN ausgekoppelt werden. Und eine Übernahme der CEN-Funktionen durch das DMN ist nicht beschrieben – die beiden Netzwerke stehen in Konkurrenz, sie vertreten einander nicht."
+    },
+    {
+      "topic": "Triple Network Model & Ausblick",
+      "hard": true,
+      "trap": "Richtungsumkehr beachten: Bei Angststörungen ist die Amygdala hyper-, bei Substanzkonsumstörungen das Belohnungssystem hypoaktiviert.",
+      "question": "Im Rahmen des Triple Network Model werden netzwerkbezogene Vulnerabilitätsfaktoren genannt. Welche Zuordnung trifft zu?",
+      "options": [
+        "Amygdala-Hyperaktivierung: Sucht; Hypoaktivierung des Belohnungssystems: Angst",
+        "Amygdala-Hyperaktivierung: Demenz; Hyperaktivierung des Belohnungssystems: Angst",
+        "Amygdala-Hypoaktivierung: Angst; Hyperaktivierung des Belohnungssystems: Sucht",
+        "Amygdala-Hyperaktivierung: Angst; Hypoaktivierung des Belohnungssystems: Sucht"
+      ],
+      "answer": 3,
+      "explanation": "Eine Hyperaktivierung der Amygdalae – Subknoten des Salienznetzwerks – könnte ein Vulnerabilitätsfaktor für Angststörungen sein, eine Hypoaktivierung des Belohnungssystems in tegmentalen Regionen ein Vulnerabilitätsfaktor für Substanzkonsumstörungen; beides wurde mit einer veränderten Salienzzuweisung in Verbindung gebracht. Die zweite Option dreht beide Aktivierungsrichtungen um, die dritte vertauscht die Störungsbilder, und die vierte koppelt zusätzlich ein nicht genanntes Störungsbild an – alle drei folgen den Mustern Richtungsumkehr bzw. plausible Fehlkopplung. Ob es sich um Auslöser oder Folge handelt, ist längsschnittlich noch zu klären."
+    },
+    {
+      "topic": "Triple Network Model & Ausblick",
+      "question": "Welche Aussage zum aktuellen Stand der Netzwerkforschung trifft NICHT zu?",
+      "options": [
+        "Die Verbindungen zwischen Netzwerkknoten sind dynamisch, nicht stationär",
+        "Aktuelle Ansätze untersuchen die dynamische funktionelle Integration",
+        "Die Zuordnung anatomischer Regionen zu Netzwerken ist uneinheitlich",
+        "Die Benennung der Netzwerke ist inzwischen einheitlich und unumstritten"
+      ],
+      "answer": 3,
+      "explanation": "Die Netzwerkbezeichnungen und die Zuordnung der jeweiligen anatomischen Regionen zu einem Netzwerk sind ausdrücklich nicht unumstritten und uneinheitlich; eine einheitliche Taxonomie wird erst vorgeschlagen – die Behauptung, die Benennung sei inzwischen einheitlich, ist deshalb die gesuchte falsche Aussage (Richtungsumkehr). Zutreffend sind die uneinheitliche Zuordnung, der dynamische statt stationäre Charakter der Verbindungen zwischen den Netzwerkknoten und die Untersuchung der dynamischen funktionellen Integration im Sinne des Chronnectome."
+    }
+  ]
+}

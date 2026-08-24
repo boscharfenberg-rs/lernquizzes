@@ -605,6 +605,13 @@
       "title": "Methoden II – Metaanalysen (CBMA/ALE) und PET",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Methoden II: Referenzräume MNI und Talairach, quantitative koordinatenbasierte Metaanalysen und ALE, Good-Practice-Regeln, Interpretation klinischer Befunde, BrainMap und MACM sowie Prinzip, Eignung und Grenzen der Positronen-Emissions-Tomographie. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-large-scale-brain-networks",
+      "file": "kan-large-scale-brain-networks.json",
+      "title": "Large-Scale Brain Networks – CEN, SN, DMN",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen nach den Fragenregeln der Neuro-Referenz zur Vorlesung Large-Scale Brain Networks: von der Lokalisation zur Netzwerkperspektive, intrinsische Netzwerke und Resting-State, zentrales exekutives Netzwerk, Salienznetzwerk, Default Mode Netzwerk und das Triple Network Model nach Menon. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
