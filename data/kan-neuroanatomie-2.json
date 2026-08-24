@@ -1,0 +1,389 @@
+{
+  "id": "kan-neuroanatomie-2",
+  "title": "Neuroanatomie II – Zwischenhirn, Basalganglien, Kortex",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie II: Zwischenhirn und Thalamuskerne, Hypo- und Epithalamus, Basalganglien, Liquor und Hirnhäute, Balken, Insula und Cerebellum sowie die Kartierung des Kortex. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Zwischenhirn & Thalamus",
+      "question": "Welche Struktur zählt NICHT zum Zwischenhirn (Diencephalon)?",
+      "options": [
+        "Der Metathalamus mit den beiden Corpora geniculata",
+        "Der Subthalamus mit dem Nucleus subthalamicus und dem Globus pallidus",
+        "Der Nucleus caudatus, der den Basalganglien zugeordnet wird",
+        "Der Epithalamus, dem unter anderem die Epiphyse zugerechnet wird"
+      ],
+      "answer": 2,
+      "explanation": "Zum Zwischenhirn zählen Thalamus, Epithalamus, Subthalamus, Hypothalamus und Metathalamus; der Nucleus caudatus gehört dagegen zu den Basalganglien und ist damit die gesuchte Struktur. Der Epithalamus mit der Epiphyse sitzt dem Thalamus auf, der Metathalamus umfasst Corpus geniculatum laterale und mediale, und zum Subthalamus zählen Nucleus subthalamicus und Globus pallidus – auch wenn diese funktionell den Basalganglien zugeordnet werden."
+    },
+    {
+      "topic": "Zwischenhirn & Thalamus",
+      "trap": "Die Riechbahn ist die klassische Ausnahme von der Thalamus-Umschaltung – die Bulbi olfactorii gehören zum Telencephalon.",
+      "question": "Fast alle Sinnesbahnen werden im Thalamus umgeschaltet. Welche bildet die Ausnahme?",
+      "options": [
+        "Die Sehbahn, die über das Corpus geniculatum laterale verläuft",
+        "Die Riechbahn, die über die Bulbi olfactorii verläuft",
+        "Die somatosensible Bahn, die über die ventralen Kerne verläuft",
+        "Die Hörbahn, die über das Corpus geniculatum mediale verläuft"
+      ],
+      "answer": 1,
+      "explanation": "Fast alle Sinnesbahnen werden im Thalamus umgeschaltet – ausgenommen die Bulbi olfactorii, die zum Telencephalon gehören. Seh- und Hörbahn werden über die Corpora geniculata des Metathalamus umgeschaltet, die somatosensible Information über die ventralen Kerne, die in sensorische und sensomotorische Rindenfelder projizieren. Alle drei sind daher keine Ausnahme, sondern Beispiele für die Relaisfunktion des Thalamus."
+    },
+    {
+      "topic": "Zwischenhirn & Thalamus",
+      "question": "Welcher Aussage zum Thalamus können Sie zustimmen?",
+      "options": [
+        "Absteigende Bahnen aus dem Kortex ziehen im Allgemeinen nicht durch ihn",
+        "Absteigende Bahnen aus dem Kortex werden regelhaft in ihm umgeschaltet",
+        "Er besteht ausschließlich aus Kernen ohne direkte Verbindung zum Kortex",
+        "Er besteht ausschließlich aus Kernen mit direkter Verbindung zum Kortex"
+      ],
+      "answer": 0,
+      "explanation": "Absteigende Bahnen aus dem Kortex ziehen im Allgemeinen nicht durch den Thalamus – seine Relaisfunktion betrifft vor allem die aufsteigende Information. Die gegenteilige Aussage trifft deshalb nicht zu. Ebenso falsch sind beide Ausschließlichkeits-Aussagen: Der Thalamus besteht aus zahlreichen Kerngebieten, und darunter finden sich sowohl spezifische Kerne mit direkter Kortexverbindung als auch unspezifische Kerne ohne eine solche."
+    },
+    {
+      "topic": "Zwischenhirn & Thalamus",
+      "hard": true,
+      "trap": "Der Name führt in die Irre: „spezifisch“ meint die direkte Kortexverbindung, nicht die Reizmodalität.",
+      "question": "Wodurch unterscheiden sich spezifische und unspezifische Thalamuskerne?",
+      "options": [
+        "Spezifische Kerne haben eine direkte Verbindung zum Kortex, unspezifische nicht",
+        "Spezifische Kerne verarbeiten sensorische, unspezifische ausschließlich motorische Reize",
+        "Unspezifische Kerne haben eine direkte Verbindung zum Kortex, spezifische nicht",
+        "Spezifische Kerne liegen ventral, unspezifische ausschließlich dorsal im Thalamus"
+      ],
+      "answer": 0,
+      "explanation": "Das Unterscheidungsmerkmal ist die Verschaltung: Spezifische Kerne haben eine direkte Verbindung zum Kortex, unspezifische Kerne nicht – diese sind stattdessen mit dem Hirnstamm verbunden. Die umgekehrte Zuordnung ist daher falsch. Eine Aufteilung nach Lage in ventral und dorsal trifft ebenfalls nicht zu, denn beide Gruppen verteilen sich über verschiedene Kerngebiete. Und die Einteilung folgt nicht der Reizmodalität: „Spezifisch“ bezieht sich auf die Kortexverbindung, nicht auf sensorische oder motorische Verarbeitung."
+    },
+    {
+      "topic": "Thalamuskerne",
+      "transfer": true,
+      "question": "Nach einer Thalamusläsion zeigt ein Patient kontralaterale Störungen der Oberflächen- und Tiefensensibilität mit Missempfindungen und abnormem Schweregefühl in den Extremitäten. Welche Kerngruppe ist am ehesten betroffen?",
+      "options": [
+        "Die medialen Kerne, die in frontale Regionen projizieren und Emotionen betreffen",
+        "Die dorsale Kerngruppe, die vom Pulvinar als größtem Thalamuskern gebildet wird",
+        "Die ventralen Kerne, die in sensorische und sensomotorische Areale projizieren",
+        "Der Nucleus anterior mit Verbindungen zum Gyrus cinguli und zu den Mammillarkörpern"
+      ],
+      "answer": 2,
+      "explanation": "Die ventralen Kerne projizieren in sensorische und sensomotorische kortikale Regionen und übertragen Lageempfindung, Vibration, Druck, Tastsinn, Schmerz und Temperaturempfinden; bei ihrer Schädigung kommt es genau zu kontralateralen Störungen der Oberflächen- und Tiefensensibilität mit Missempfindungen und abnormen Schweregefühlen. Die medialen Kerne projizieren frontal, ihre Läsion führt zum Stirnhirnsyndrom. Die dorsale Gruppe um den Pulvinar zieht in Assoziationsgebiete von Parietal-, Temporal- und Okzipitallappen. Der Nucleus anterior ist ein unspezifischer Kern mit Verbindungen zum Gyrus cinguli und zu den Mammillarkörpern."
+    },
+    {
+      "topic": "Thalamuskerne",
+      "hard": true,
+      "question": "Die medialen Thalamuskerne projizieren in frontale Regionen. Wozu führt eine Läsion dieser Bahnen am ehesten?",
+      "options": [
+        "Zu einer dauerhaften Bewusstlosigkeit durch Unterbrechung des ARAS",
+        "Zu einem Ausfall der Seh- und der Hörbahn auf der gegenüberliegenden Seite",
+        "Zu einer kontralateralen Störung von Oberflächen- und Tiefensensibilität",
+        "Zum Stirnhirnsyndrom mit exekutiven Störungen und Antriebslosigkeit"
+      ],
+      "answer": 3,
+      "explanation": "Die medialen Kerne erhalten Afferenzen unter anderem aus ventralen, intralaminären und hypothalamischen Kernen sowie aus dem Globus pallidus und projizieren in frontale Regionen, die etwa Lernen, Gedächtnis und Emotionen betreffen; eine Läsion dieser Bahnen führt zum Stirnhirnsyndrom – einem heterogenen Bild aus Störungen exekutiver Funktionen, Antriebslosigkeit, Gereiztheit, Missmut, Perseverationen und Inhibitionsstörungen. Sensibilitätsstörungen entstehen bei Schädigung der ventralen Kerne, Seh- und Hörbahnausfälle betreffen die Corpora geniculata, und das aufsteigende retikuläre Aktivierungssystem läuft über unspezifische Kerne wie den Nucleus centromedianus."
+    },
+    {
+      "topic": "Thalamuskerne",
+      "question": "Welche Aussage zum Pulvinar trifft am ehesten zu?",
+      "options": [
+        "Er bildet die ventrale Kerngruppe und ist der kleinste Kern des Thalamus",
+        "Er bildet die dorsale Kerngruppe und ist der größte Kern des Thalamus",
+        "Er zählt zum Metathalamus und ist unmittelbar Teil der Seh- und der Hörbahn",
+        "Er ist der größte unspezifische Kern und Teil des aufsteigenden Aktivierungssystems"
+      ],
+      "answer": 1,
+      "explanation": "Die dorsale Kerngruppe wird vom Pulvinar gebildet, dem größten Kern des Thalamus; er erhält Afferenzen aus anderen thalamischen Kerngebieten und projiziert in die Assoziationsgebiete von Parietal-, Temporal- und Okzipitallappen. Die ventrale Kerngruppe ist eine eigene Gruppe, und „kleinster Kern“ trifft ohnehin nicht zu. Der größte unspezifische Kern und Teil des ARAS ist der Nucleus centromedianus. Zum Metathalamus zählen Corpus geniculatum laterale und mediale – sie liegen dem Pulvinar lediglich an."
+    },
+    {
+      "topic": "Thalamuskerne",
+      "trap": "Lateral = Sehen, medial = Hören – die beiden Corpora geniculata werden regelmäßig vertauscht.",
+      "question": "Wie sind Corpus geniculatum laterale und mediale zuzuordnen?",
+      "options": [
+        "Das laterale gehört zur Hörbahn, das mediale zur Sehbahn",
+        "Das laterale gehört zur Sehbahn, das mediale zur Hörbahn",
+        "Beide zählen zu den unspezifischen Kernen ohne direkte Kortexverbindung",
+        "Beide gehören zur Sehbahn und liegen dem Pulvinar von medial an"
+      ],
+      "answer": 1,
+      "explanation": "Corpus geniculatum laterale und mediale zählen zum Metathalamus und liegen dem Pulvinar an; das laterale ist Teil der Sehbahn, das mediale Teil der Hörbahn. Die vertauschte Zuordnung ist deshalb falsch, ebenso die Zuweisung beider Strukturen zur Sehbahn. Und als Umschaltstationen mit direkter Projektion in die zugehörigen kortikalen Felder sind sie gerade keine unspezifischen Kerne."
+    },
+    {
+      "topic": "Thalamuskerne",
+      "hard": true,
+      "question": "Welche Aussage zum Nucleus centromedianus trifft am ehesten zu?",
+      "options": [
+        "Er bildet gemeinsam mit dem Pulvinar die dorsale Kerngruppe des Thalamus",
+        "Er verbindet den Thalamus mit dem Gyrus cinguli und den Mammillarkörpern",
+        "Er ist der größte unspezifische Thalamuskern und Teil des ARAS",
+        "Er ist der größte spezifische Thalamuskern mit direkter Kortexprojektion"
+      ],
+      "answer": 2,
+      "explanation": "Der Nucleus centromedianus ist der größte unspezifische Thalamuskern und Teil des aufsteigenden retikulären aktivierenden Systems (ARAS), das in der Formatio reticularis beginnt; er wird mit der Erregung limbischer und kortikaler Regionen in Verbindung gebracht. Als unspezifischer Kern hat er gerade keine direkte Kortexprojektion. Die dorsale Kerngruppe wird allein vom Pulvinar gebildet. Und die Verbindungen zum Gyrus cinguli und zu den Mammillarkörpern kennzeichnen den Nucleus anterior."
+    },
+    {
+      "topic": "Hypo- & Epithalamus",
+      "question": "Welche Funktion gehört NICHT zum Hypothalamus?",
+      "options": [
+        "Die vegetative Regulation von Stress und des Wasserhaushalts im Körper",
+        "Die Regulation der Körpertemperatur und der Nahrungsaufnahme",
+        "Die Beteiligung an Wachstum und an der sexuellen Erregung",
+        "Die Umschaltung fast aller Sinnesbahnen auf dem Weg zum Kortex"
+      ],
+      "answer": 3,
+      "explanation": "Die Umschaltung fast aller Sinnesbahnen ist die Relaisfunktion des Thalamus und gehört nicht zum Hypothalamus – das ist die gesuchte Aussage. Der Hypothalamus ist das vegetative Regulationszentrum und dabei unter anderem für Körpertemperatur, Nahrungsaufnahme, Stress, Wachstum, sexuelle Erregung und den Wasserhaushalt zuständig; die übrigen drei Aussagen treffen daher zu."
+    },
+    {
+      "topic": "Hypo- & Epithalamus",
+      "question": "Welche Aussage zur Epiphyse trifft am ehesten zu?",
+      "options": [
+        "Sie sezerniert Melatonin in Abhängigkeit von der Helligkeit",
+        "Sie sezerniert Kortisol in Abhängigkeit vom aktuellen Stressniveau",
+        "Sie zählt zum Subthalamus und wird funktionell den Basalganglien zugeordnet",
+        "Sie ist wegen ihrer Verkalkungen im CT kaum als Landmarke zu erkennen"
+      ],
+      "answer": 0,
+      "explanation": "Die Epiphyse (Globus pinealis) gehört zum Epithalamus, reguliert den Tag-Nacht-Rhythmus und sezerniert Melatonin – das „Schlafhormon“ – in Abhängigkeit von der Helligkeit. Kortisol stammt aus der Nebennierenrinde und nicht aus der Epiphyse. Zum Subthalamus zählen Nucleus subthalamicus und Globus pallidus, nicht die Epiphyse. Und ihre Kalkablagerungen machen sie im CT gerade zu einer besonders guten Landmarke."
+    },
+    {
+      "topic": "Hypo- & Epithalamus",
+      "hard": true,
+      "transfer": true,
+      "question": "Bei einer depressiven Patientin fällt eine veränderte Aktivität der Habenulae auf. Welche Verhaltenskomponente wird über diese Struktur am ehesten unterdrückt?",
+      "options": [
+        "Vor allem emotionale Komponenten der Bewertung",
+        "Vor allem kognitive Komponenten der Aufmerksamkeit",
+        "Vor allem vegetative Komponenten der Stressachse",
+        "Vor allem motorische Komponenten des Verhaltens"
+      ],
+      "answer": 3,
+      "explanation": "In den Habenulae werden zahlreiche Informationen verarbeitet; über ihren Einfluss auf neuromodulatorische Systeme – insbesondere das dopaminerge und das serotonerge – sind sie stark in die Verhaltensregulation eingebunden, und zwar hauptsächlich in die Unterdrückung motorischer Komponenten. Eine Unterdrückung kognitiver Aufmerksamkeitsprozesse, emotionaler Bewertung oder vegetativer Stressreaktionen wird den Habenulae in dieser Form nicht zugeschrieben; die vegetative Regulation ist Aufgabe des Hypothalamus."
+    },
+    {
+      "topic": "Subthalamus & Basalganglien",
+      "question": "Welche Aussage zum Subthalamus trifft NICHT zu?",
+      "options": [
+        "Er wird funktionell dem Kleinhirn und dessen Bahnen zugeordnet",
+        "Er ist unter anderem an der Steuerung der Grobmotorik beteiligt",
+        "Seine Strukturen werden funktionell den Basalganglien zugerechnet",
+        "Zu ihm zählen der Nucleus subthalamicus und der Globus pallidus"
+      ],
+      "answer": 0,
+      "explanation": "Die funktionelle Zuordnung zum Kleinhirn ist die gesuchte falsche Aussage: Nucleus subthalamicus und Globus pallidus werden funktionell den Basalganglien zugeordnet, nicht dem Cerebellum. Zutreffend sind daher sowohl die Zusammensetzung des Subthalamus aus diesen beiden Strukturen als auch die Zurechnung zu den Basalganglien und die Beteiligung unter anderem an der Steuerung der Grobmotorik."
+    },
+    {
+      "topic": "Subthalamus & Basalganglien",
+      "trap": "Die Amygdala liegt zwar subkortikal, wird den Basalganglien aber nicht zugeordnet.",
+      "question": "Welche Struktur zählt NICHT zu den Basalganglien?",
+      "options": [
+        "Die Substantia nigra, also die schwarze Substanz",
+        "Der Nucleus caudatus, auch als Schweifkern bezeichnet",
+        "Die Amygdala, die der Bedrohungsdetektion dient",
+        "Das Putamen, dessen Name sich mit Schale übersetzen lässt"
+      ],
+      "answer": 2,
+      "explanation": "Zu den Regionen subkortikaler grauer Substanz, die als Basalganglien zusammengefasst werden, zählen Nucleus caudatus (Schweifkern), Putamen (Schale), Globus pallidus (bleiche Kugel) und Substantia nigra (schwarze Substanz). Die Amygdala liegt ebenfalls subkortikal, wird den Basalganglien aber nicht zugeordnet – sie ist damit die gesuchte Struktur."
+    },
+    {
+      "topic": "Subthalamus & Basalganglien",
+      "transfer": true,
+      "question": "Eine Person führt einen komplexen Handlungsablauf zunehmend automatisiert aus und erlebt ihn als belohnend. Welche Struktur ist daran am ehesten beteiligt?",
+      "options": [
+        "Die Basalganglien, die Handlungsabläufe koordinieren und Belohnung verarbeiten",
+        "Die Hippocampusformation, die Subiculum, Cornu ammonis und Gyrus dentatus umfasst",
+        "Der Metathalamus, dessen Corpora geniculata der Seh- und der Hörbahn dienen",
+        "Die Epiphyse, die den Tag-Nacht-Rhythmus über die Melatoninausschüttung steuert"
+      ],
+      "answer": 0,
+      "explanation": "Die Basalganglien übernehmen Koordination, Programmierung und Terminierung von Handlungsabläufen über Hemmung und Erregung, koordinieren die eingesetzte Kraft, integrieren komplexe Verhaltensmuster und sind Teil des Belohnungssystems – also von Belohnungslernen, habituellem und motivationalem Verhalten. Genau diese Kombination aus Automatisierung und Belohnung beschreibt die Vignette. Der Metathalamus ist eine Umschaltstation der Seh- und Hörbahn, die Epiphyse reguliert den Tag-Nacht-Rhythmus, und die Hippocampusformation ist eine anatomische Einheit ohne diese Funktion."
+    },
+    {
+      "topic": "Liquor, Ventrikel & Hirnhäute",
+      "question": "Erfüllt der Liquor eine Versorgungsfunktion für das Gehirn?",
+      "options": [
+        "Nein, denn er enthält wenig Zellen und wenig Eiweiß",
+        "Ja, denn er enthält wenig Zellen, aber viel Eiweiß",
+        "Ja, denn er umspült Gehirn und Rückenmark vollständig",
+        "Nein, denn er findet sich ausschließlich in den Ventrikeln"
+      ],
+      "answer": 0,
+      "explanation": "Der Liquor enthält wenig Zellen und wenig Eiweiß, weshalb eine Versorgungsfunktion als unwahrscheinlich gilt. Ein hoher Eiweißgehalt liegt gerade nicht vor. Die Begründung über eine Beschränkung auf die Ventrikel ist ebenfalls falsch, denn der weitaus größere Teil befindet sich im Subarachnoidalraum. Und dass er Gehirn und Rückenmark umspült, trifft zwar zu, begründet aber keine Versorgungsfunktion – seine Rolle liegt im Aufschwimmen, der Gewichtsreduktion und dem Schutz vor Stößen."
+    },
+    {
+      "topic": "Liquor, Ventrikel & Hirnhäute",
+      "question": "Wo wird der Liquor gebildet und wie verteilt er sich?",
+      "options": [
+        "In der Arachnoidea; er verbleibt vollständig im Ventrikelsystem",
+        "In der Dura mater; er wird ausschließlich im Gehirn resorbiert",
+        "In den Plexus choroidei; der weitaus größere Teil liegt in den Ventrikeln",
+        "In den Plexus choroidei; der größere Teil liegt im Subarachnoidalraum"
+      ],
+      "answer": 3,
+      "explanation": "Die Liquorproduktion erfolgt in den Plexus choroidei; von der Gesamtmenge liegt nur ein kleinerer Teil in den Ventrikeln, der weitaus größere im Subarachnoidalraum. Die Umkehrung dieses Verhältnisses ist deshalb falsch. Die Arachnoidea ist eine der Hirnhäute und kein Bildungsort, und ein Verbleib im Ventrikelsystem widerspricht der Zirkulation um Gehirn und Rückenmark. Auch die Dura mater bildet keinen Liquor; die Rückresorption erfolgt im Subarachnoidalraum von Gehirn und Rückenmark."
+    },
+    {
+      "topic": "Liquor, Ventrikel & Hirnhäute",
+      "transfer": true,
+      "question": "Zur Abklärung einer möglichen entzündlichen Erkrankung soll Liquor gewonnen werden. Warum ist eine Entnahme aus dem unteren Rückenmarkskanal möglich?",
+      "options": [
+        "Weil die Meningen das Rückenmark im Gegensatz zum Gehirn nicht umgeben",
+        "Weil der Liquor im Subarachnoidalraum um Gehirn und Rückenmark zirkuliert",
+        "Weil der Liquor ausschließlich im Rückenmarkskanal gebildet und gespeichert wird",
+        "Weil der Liquor dort besonders zellreich ist und daher gut untersucht werden kann"
+      ],
+      "answer": 1,
+      "explanation": "Der Liquor zirkuliert im Subarachnoidalraum um Gehirn und Rückenmark und wird dort auch resorbiert; deshalb kann eine Entnahme zur Untersuchung potenziell entzündlicher Erkrankungen aus dem unteren Rückenmarkskanal erfolgen. Gebildet wird er dagegen in den Plexus choroidei, nicht im Rückenmarkskanal. Die Meningen umgeben das gesamte ZNS einschließlich des Rückenmarks. Und zellreich ist der Liquor gerade nicht – er enthält wenig Zellen und wenig Eiweiß."
+    },
+    {
+      "topic": "Liquor, Ventrikel & Hirnhäute",
+      "question": "Welche Aussage zu den Hirnhäuten trifft NICHT zu?",
+      "options": [
+        "Die Meningen umgeben ausschließlich das Gehirn, nicht das Rückenmark",
+        "Die Pia mater liegt als weiche Mutter dem Nervengewebe direkt an",
+        "Die Dura mater ist die äußerste der drei Häute und heißt harte Mutter",
+        "Die Arachnoidea wird wegen ihres Aussehens Spinngewebshaut genannt"
+      ],
+      "answer": 0,
+      "explanation": "Die Meningen umgeben das gesamte ZNS, also auch das Rückenmark – die Beschränkung auf das Gehirn ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen die Reihenfolge und die Bezeichnungen: Unter dem Schädel liegt zuerst die Dura mater (harte Mutter), darunter die Arachnoidea (Spinngewebshaut) und schließlich die Pia mater (weiche Mutter); der Subarachnoidalraum liegt entsprechend unterhalb der Spinngewebshaut."
+    },
+    {
+      "topic": "Balken, Furchen & Insula",
+      "question": "Welche Aussage zum Corpus callosum trifft NICHT zu?",
+      "options": [
+        "Seine Bereiche sind Namensgeber für umliegende zinguläre Kortexareale",
+        "Seine Abschnitte werden als Knie, Stamm und Hinterende bezeichnet",
+        "Es ist die größte Kommissur des zentralen Nervensystems",
+        "Es ist die größte Assoziationsbahn innerhalb einer Hemisphäre"
+      ],
+      "answer": 3,
+      "explanation": "Das Corpus callosum verbindet die beiden Hemisphären und ist damit eine Kommissur, keine Assoziationsbahn innerhalb einer Hemisphäre – das ist die gesuchte falsche Aussage. Richtig sind die Kennzeichnung als größte Kommissur des ZNS, die Gliederung in Schnauze bzw. Schnabel, Knie, Stamm und Hinterende sowie die Namensgebung umliegender Strukturen: Der subgenuale anteriore zinguläre Kortex liegt unter dem Knie, der perigenuale um das Knie."
+    },
+    {
+      "topic": "Balken, Furchen & Insula",
+      "question": "Welche Aussage zur Oberflächengliederung des Kortex trifft NICHT zu?",
+      "options": [
+        "Als Gyrus wird eine Windung der Hirnoberfläche bezeichnet",
+        "Als Sulcus wird eine Rinne oder Furche der Oberfläche bezeichnet",
+        "Ein Sulcus ist tiefer eingeschnitten als eine Fissur",
+        "Eine Fissur ist tiefer als ein Sulcus und zum Teil anders geformt"
+      ],
+      "answer": 2,
+      "explanation": "Das Verhältnis ist umgekehrt: Eine Fissur ist tiefer als ein Sulcus und zum Teil anders geformt – die Behauptung, ein Sulcus sei tiefer als eine Fissur, ist daher die gesuchte falsche Aussage. Zutreffend sind die übrigen Begriffsbestimmungen: Gyrus bezeichnet eine Windung, Sulcus eine Rinne oder Furche, und die Fissur ist die tiefere Variante der Furche."
+    },
+    {
+      "topic": "Balken, Furchen & Insula",
+      "question": "Wo liegt die Insula?",
+      "options": [
+        "Über der Fissura lateralis, unmittelbar am Scheitellappen",
+        "Unter der Fissura lateralis, von den Opercula bedeckt",
+        "An der Innenseite des Balkens, oberhalb des Gyrus cinguli",
+        "Im Inneren des Thalamus, zwischen den spezifischen Kernen"
+      ],
+      "answer": 1,
+      "explanation": "Die Insula ist der „Kortex unter dem Kortex“: Sie liegt unter der Fissura lateralis und wird von den Opercula (Deckelchen) bedeckt; beide liegen unmittelbar aneinander an, sind durch die schräge Schichtführung anatomisch aber mehrere Zentimeter voneinander getrennt. Eine Lage über der Fissura lateralis am Scheitellappen trifft nicht zu. Der Thalamus ist eine Zwischenhirnstruktur ohne Insula, und an der Innenseite oberhalb des Balkens verläuft der Gyrus cinguli."
+    },
+    {
+      "topic": "Balken, Furchen & Insula",
+      "hard": true,
+      "transfer": true,
+      "trap": "Anterior = Salienz, posterior = Integration emotionaler und somatischer Information – die beiden Insula-Abschnitte werden leicht vertauscht.",
+      "question": "In einer Studie reagiert eine Region konsistent auf verhaltensrelevante, salienzträchtige Reize. Welcher Insula-Abschnitt kommt am ehesten in Frage?",
+      "options": [
+        "Die posteriore Insula, die emotionale und somatische Information integriert",
+        "Die anteriore Insula, der die Zuweisung von Salienz zugeschrieben wird",
+        "Der subgenuale anteriore zinguläre Kortex unterhalb des Balkenknies",
+        "Das frontale Operculum, das die Insula von außen vollständig bedeckt"
+      ],
+      "answer": 1,
+      "explanation": "Auch die Insula lässt sich in anatomisch und funktionell unterschiedliche Regionen unterteilen: Der anterioren Insula kommt eine wichtige Rolle bei der Zuweisung von Salienz zu, weshalb sie hier die passende Antwort ist. Die posteriore Insula integriert dagegen emotionale und somatische Information. Das Operculum ist die bedeckende Struktur und kein funktioneller Insula-Abschnitt. Und der subgenuale anteriore zinguläre Kortex ist nach seiner Lage unter dem Balkenknie benannt und gehört nicht zur Insula."
+    },
+    {
+      "topic": "Cerebellum",
+      "transfer": true,
+      "question": "Nach einer Schädigung im Bereich eines Kleinhirneingangs klagt eine Patientin über anhaltenden Schwindel. Welcher Eingang ist am ehesten betroffen?",
+      "options": [
+        "Der über die Nervi vestibulocochleares, die das Gleichgewicht betreffen",
+        "Der aus den Motorkortizes zur Regulation feiner Willkürbewegungen",
+        "Der aus dem Rückenmark mit Information über Muskel- und Sehnenspannung",
+        "Der über den Arbor vitae, der die weiße Substanz des Kleinhirns bildet"
+      ],
+      "answer": 0,
+      "explanation": "Über die Kleinhirnstiele gelangen unter anderem Informationen der Nervi vestibulocochleares ins Kleinhirn; sie dienen der Regulation des Gleichgewichts, und bei ihrer Schädigung tritt Schwindel auf. Die Bahnen aus dem Rückenmark übermitteln Körperhaltung, Muskel- und Sehnenspannung sowie Gelenkstellung und dienen der Steuerung von Stehen und Gehen. Die Eingänge aus den Motorkortizes regulieren feine Willkürbewegungen, etwa das Manipulieren von Gegenständen oder die Koordination der Kehlkopfmuskulatur beim Sprechen. Der Arbor vitae ist kein Eingang, sondern die Bezeichnung für die innere weiße Substanz."
+    },
+    {
+      "topic": "Cerebellum",
+      "question": "Welche Aussage zum Cerebellum trifft NICHT zu?",
+      "options": [
+        "Seine innere weiße Substanz wird als Arbor vitae bezeichnet",
+        "Es besitzt ebenfalls einen Kortex an seiner Oberfläche",
+        "Seine Funktionen sind heute vollständig und im Detail geklärt",
+        "Es scheint auch an höheren kognitiven und emotionalen Prozessen beteiligt"
+      ],
+      "answer": 2,
+      "explanation": "Die genauen Funktionen des Kleinhirns sind bis heute weitgehend unbekannt, und die Annahmen zu seiner Rolle bei höheren Funktionen gelten als meist spekulativ – die Behauptung vollständiger Klärung ist deshalb die gesuchte falsche Aussage. Zutreffend sind dagegen der eigene Kortex des Cerebellums, die Bezeichnung der inneren weißen Substanz als Arbor vitae („Lebensbaum“) sowie die vermutete Beteiligung an Aufmerksamkeitsprozessen, Sprache, sozialer Kognition und exekutiven Funktionen."
+    },
+    {
+      "topic": "Hippocampus & Amygdala",
+      "question": "Welche Struktur zählt NICHT zur Hippocampusformation?",
+      "options": [
+        "Das Subiculum, die Verbindung zum Parahippocampus",
+        "Der Gyrus cinguli, der oberhalb des Balkens verläuft",
+        "Das Cornu ammonis, der Hippocampus im engeren Sinne",
+        "Der Gyrus dentatus, der als gezahnter Gyrus übersetzt wird"
+      ],
+      "answer": 1,
+      "explanation": "Zur Hippocampusformation zählen das Subiculum als Verbindung zwischen Hippocampus und Parahippocampus, das Cornu ammonis (Ammonshorn) als Hippocampus im engeren Sinne sowie der Gyrus dentatus. Der Gyrus cinguli verläuft oberhalb des Balkens und gehört nicht zur Hippocampusformation – er ist damit die gesuchte Struktur; seine Unterregionen sind nach den Abschnitten des Corpus callosum benannt."
+    },
+    {
+      "topic": "Hippocampus & Amygdala",
+      "question": "Welche Gruppe von Kerngebieten wird derzeit innerhalb der Amygdala unterschieden?",
+      "options": [
+        "Ventrale, mediale und dorsale Kerne sowie das Corpus geniculatum laterale",
+        "Nucleus caudatus, Putamen und Globus pallidus sowie die Substantia nigra",
+        "Spezifische, unspezifische und dorsale Kerne sowie ein amygdalärer Übergangsbereich",
+        "Superfiziale, centromediale und basolaterale Kerne sowie ein Übergangsbereich"
+      ],
+      "answer": 3,
+      "explanation": "Innerhalb der Amygdala werden derzeit superfiziale Kerne (SF), centromediale Kerne (CM), basolaterale Kerne (LB) sowie der amygdalo-striale Übergangsbereich (AStr) unterschieden. Die Einteilung in spezifische und unspezifische Kerne betrifft dagegen den Thalamus. Die Gliederung in ventrale, mediale und dorsale Kerngruppen beschreibt ebenfalls den Thalamus, und das Corpus geniculatum laterale gehört zum Metathalamus. Nucleus caudatus, Putamen, Globus pallidus und Substantia nigra sind die Basalganglien."
+    },
+    {
+      "topic": "Kartierung des Kortex",
+      "hard": true,
+      "question": "Welche Aussage zu den Brodmann-Arealen trifft am ehesten zu?",
+      "options": [
+        "Die Einteilung folgt der makroskopischen Gliederung in Gyri und Sulci",
+        "Die Einteilung beruht auf funktioneller Konnektivität und Myelingehalt",
+        "Die Einteilung ist zytoarchitektonisch begründet und gilt heute als veraltet",
+        "Die Einteilung ist zytoarchitektonisch begründet und gilt weiterhin als Standard"
+      ],
+      "answer": 2,
+      "explanation": "Brodmann unterteilte den Kortex aufgrund mikroskopischer, also zytoarchitektonischer Unterschiede der Nervenzellverteilung; gleichartig aufgebaute Felder heißen Rindenfelder (Areae). Diese Klassifizierung gilt heute als veraltet und sollte nicht mehr verwendet werden – die Einstufung als weiterhin gültiger Standard trifft deshalb nicht zu. Der makroskopischen Struktur müssen die Areale ausdrücklich nicht entsprechen. Und funktionelle Konnektivität sowie Myelingehalt sind Kriterien moderner multimodaler Atlanten, nicht Brodmanns."
+    },
+    {
+      "topic": "Kartierung des Kortex",
+      "hard": true,
+      "question": "Was kennzeichnet moderne Kartierungsverfahren des Kortex gegenüber dem Vorgehen Brodmanns?",
+      "options": [
+        "Sie verzichten auf einen standardisierten Referenzraum zugunsten von Einzelgehirnen",
+        "Sie beruhen auf der Untersuchung eines einzelnen Gehirns post mortem",
+        "Sie stützen sich ausschließlich auf die Dichte der Nervenzellkörper im Gewebe",
+        "Sie kombinieren mehrere Kriterien und arbeiten mit Wahrscheinlichkeitskarten"
+      ],
+      "answer": 3,
+      "explanation": "Moderne Verfahren beziehen mehrere Kriterien gleichzeitig ein und arbeiten mit Wahrscheinlichkeitskarten: Der Jülich-Düsseldorfer Atlas beruht auf einer untersucherunabhängigen zytoarchitektonischen Analyse mehrerer Gehirne im standardisierten MNI-Referenzraum und integriert funktionelle und strukturelle Daten; der multimodale Atlas aus dem Human Connectome Project kombiniert funktionelle Aktivierungs- und Konnektivitätsdaten mit strukturellen Daten wie dem Myelingehalt. Eine Beschränkung allein auf die Zelldichte greift daher zu kurz, ein Verzicht auf den Referenzraum trifft nicht zu, und die Untersuchung eines einzelnen Gehirns kennzeichnet gerade Brodmanns historisches Vorgehen."
+    },
+    {
+      "topic": "Kartierung des Kortex",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Forschungsteam findet, dass dieselbe Hirnregion je nach Aufgabe und Kontext unterschiedliche Rollen einnimmt. Wie ist dieser Befund am ehesten einzuordnen?",
+      "options": [
+        "Als Hinweis darauf, dass zytoarchitektonische Grenzen funktionell irrelevant sind",
+        "Als Beleg für eine dynamische, kontextabhängige Sicht auf Hirnregionen",
+        "Als Beleg für feste, klar abgrenzbare Funktionen einzelner Hirnregionen",
+        "Als Messartefakt, da Regionen definitionsgemäß eine feste Funktion tragen"
+      ],
+      "answer": 1,
+      "explanation": "Der Befund passt zur Forderung, starre Lokalisationstheorien zugunsten einer systemischen, dynamischen Sichtweise aufzugeben: Aufgrund bidirektionaler Konnektivität und Kontextabhängigkeit wird angenommen, dass Hirnregionen keine festen Funktionen haben, sondern in verschiedenen Situationen unterschiedliche Rollen spielen. Als Beleg für feste Funktionen taugt er deshalb gerade nicht, und ihn als Messartefakt abzutun setzt genau die infrage gestellte Annahme voraus. Auch die Schlussfolgerung, zytoarchitektonische Grenzen seien irrelevant, geht zu weit – mehrere Merkmale zeigen Arealgrenzen in guter räumlicher Übereinstimmung an."
+    }
+  ]
+}

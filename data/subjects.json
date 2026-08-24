@@ -584,6 +584,13 @@
       "title": "Neuroanatomie I – Zellen, Bahnen, Hirnstamm, Hirnnerven",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie I: Neurone und Gliazellen, graue/weiße Substanz, Bahnen und Achsen, Hirnstamm und Formatio reticularis, Neurotransmittersysteme sowie Hirnnerven, Riech- und Sehbahn. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-neuroanatomie-2",
+      "file": "kan-neuroanatomie-2.json",
+      "title": "Neuroanatomie II – Zwischenhirn, Basalganglien, Kortex",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Neuroanatomie II: Zwischenhirn und Thalamuskerne, Hypo- und Epithalamus, Basalganglien, Liquor und Hirnhäute, Balken, Insula und Cerebellum sowie die Kartierung des Kortex. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
