@@ -1,0 +1,388 @@
+{
+  "id": "kan-stress",
+  "title": "Stress",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Stress: Stressbegriff, periphere Stressreaktion, LC-NA-System, HHNA im Detail, Mineral- und Glukokortikoidrezeptoren, Darm-Hirn-Achse, Stress und Hirnfunktion sowie strukturelle Veränderungen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Stressbegriff und Stressreaktion",
+      "question": "Wie wird Stress in der Vorlesung konzeptualisiert?",
+      "options": [
+        "Als reale oder wahrgenommene Bedrohung der Homöostase und des Wohlergehens",
+        "Als ausschließlich objektiv messbare Überforderung der körperlichen Leistungsreserven",
+        "Als überdauerndes Persönlichkeitsmerkmal mit hoher zeitlicher Stabilität",
+        "Als Folge einer gestörten Neurotransmitterbalance im synaptischen Spalt"
+      ],
+      "answer": 0,
+      "explanation": "Stress kann als reale oder wahrgenommene Bedrohung der Homöostase und des Wohlergehens eines Individuums konzeptualisiert werden – die Wahrnehmung genügt also bereits. Eine Beschränkung auf objektiv messbare Überforderung schließt genau diesen subjektiven Anteil aus. Ein überdauerndes Persönlichkeitsmerkmal beschreibt eher dispositionelle Ängstlichkeit als eine Zustandsreaktion. Eine gestörte Neurotransmitterbalance ist keine Definition, sondern allenfalls eine Folgeerscheinung."
+    },
+    {
+      "topic": "Stressbegriff und Stressreaktion",
+      "question": "Welche Funktion hat die Stressreaktion nach der Vorlesung am ehesten?",
+      "options": [
+        "Sie ist eine grundsätzlich schädliche Fehlfunktion, die therapeutisch unterdrückt werden sollte",
+        "Sie dient der langfristigen Speicherung emotional neutraler Gedächtnisinhalte",
+        "Sie hemmt die Anpassung an veränderte Umweltbedingungen zum Schutz des Organismus",
+        "Sie ist ein adaptiver Mechanismus, der die gestörte Homöostase wiederherstellen soll"
+      ],
+      "answer": 3,
+      "explanation": "Die Stressreaktion wird als wünschenswerte Anpassungsreaktion des Organismus an veränderte Umweltbedingungen dargestellt: ein adaptiver Mechanismus, der das Überleben fördert und die gestörte Homöostase wiederherstellen soll. Eine grundsätzlich schädliche Fehlfunktion widerspricht dieser Darstellung – erst häufiger Stress erhöht das Krankheitsrisiko. Die Speicherung emotional neutraler Inhalte ist keine genannte Funktion. Eine Hemmung der Anpassung kehrt die beschriebene Wirkung um."
+    },
+    {
+      "topic": "Periphere Stressreaktion",
+      "question": "Welches Hormon wird innerhalb von Sekunden nach einem Stressor freigesetzt und aus welcher Struktur stammt es?",
+      "options": [
+        "Kortisol aus der Nebennierenrinde",
+        "CRH aus dem paraventrikulären Nukleus",
+        "ACTH aus dem Hypophysenvorderlappen",
+        "Adrenalin aus dem Nebennierenmark"
+      ],
+      "answer": 3,
+      "explanation": "Innerhalb von Sekunden wird durch das Nebennierenmark Adrenalin freigesetzt, das zahlreiche Körperfunktionen wie Herzschlag, Blutdruck, Speichelsekretion, Schweißbildung, Verdauung und Atmung verändert. Kortisol stammt aus der Nebennierenrinde und benötigt deutlich länger. ACTH aus der Hypophyse und CRH aus dem paraventrikulären Nukleus sind übergeordnete Botenstoffe der HHNA-Kaskade und keine unmittelbaren peripheren Effektorhormone."
+    },
+    {
+      "topic": "Periphere Stressreaktion",
+      "trap": "Genau umgekehrt zur Intuition: Das schnelle Adrenalin bleibt draußen, das langsame Kortisol kommt hinein.",
+      "question": "Welche Aussage zur Blut-Hirn-Schranke im Rahmen der Stressreaktion trifft zu?",
+      "options": [
+        "Adrenalin kann sie nicht überwinden und bleibt peripher, Kortisol gelangt ins Gehirn",
+        "Beide Hormone bleiben in der Peripherie und wirken nur über den Nervus vagus zentral",
+        "Beide Hormone überwinden sie gleichermaßen schnell und wirken unmittelbar zentral",
+        "Kortisol kann sie nicht überwinden und bleibt peripher, Adrenalin gelangt ins Gehirn"
+      ],
+      "answer": 0,
+      "explanation": "Adrenalin kann die Blut-Hirn-Schranke nicht überwinden und bleibt damit in der Peripherie, während Kortisol als Steroidhormon mit kleiner Molekülgröße ins Gehirn gelangt. Die umgekehrte Zuordnung vertauscht beide Hormone. Ein gleichermaßen schneller Übertritt beider widerspricht der Feststellung zum Adrenalin. Eine ausschließlich vagale Vermittlung würde die zentrale Bindung von Kortisol an Hippocampus, Hypothalamus und Hypophyse ignorieren."
+    },
+    {
+      "topic": "Periphere Stressreaktion",
+      "transfer": true,
+      "question": "Eine Probandin absolviert ein standardisiertes Stressexperiment mit freier Rede und Kopfrechnen. Wann ist mit dem Maximalwert des Kortisols zu rechnen?",
+      "options": [
+        "Erst mehrere Stunden nach dem Stressor",
+        "Innerhalb weniger Sekunden nach dem Stressor",
+        "Etwa 25 bis 30 Minuten nach dem Stressor",
+        "Etwa 3 bis 5 Minuten nach dem Stressor"
+      ],
+      "answer": 2,
+      "explanation": "Synthese und Freisetzung von Kortisol benötigen Zeit: Erst nach etwa 25 bis 30 Minuten ist der Maximalwert in Blut und Speichel erreicht, während CRH und ACTH umgehend ihren Höchstwert erreichen. Eine Reaktion innerhalb von Sekunden beschreibt die Adrenalinfreisetzung aus dem Nebennierenmark. Drei bis fünf Minuten unterschreiten die für die Steroidsynthese benötigte Zeit deutlich. Mehrere Stunden liegen weit nach dem berichteten Gipfel, zu diesem Zeitpunkt greift bereits das negative Feedback."
+    },
+    {
+      "topic": "Periphere Stressreaktion",
+      "question": "Welche Art von Bedrohung aktiviert nach der Vorlesung insbesondere die HHNA?",
+      "options": [
+        "Ausschließlich körperliche Verletzungen und Schmerzreize",
+        "Nur unbewusst verarbeitete, subliminale Gefahrensignale",
+        "Starke und insbesondere soziale Bedrohungen",
+        "Vor allem Reize mit geringer persönlicher Relevanz"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien halten fest, dass starke und insbesondere soziale Bedrohungen die Hypothalamus-Hypophysen-Nebennierenrinden-Achse aktivieren. Eine Beschränkung auf körperliche Verletzungen und Schmerzreize übersieht gerade die soziale Komponente. Eine Begrenzung auf subliminale Signale trifft nicht zu, die Achse reagiert auf bewusst erlebte Belastungen. Reize mit geringer persönlicher Relevanz lösen definitionsgemäß keine ausgeprägte Stressreaktion aus."
+    },
+    {
+      "topic": "LC-NA-System",
+      "question": "Welche Funktionen reguliert Noradrenalin im Rahmen der zentralen Stressreaktion?",
+      "options": [
+        "Langzeitgedächtnisabruf und semantische Kategorisierung",
+        "Zirkadiane Rhythmik und die Ausschüttung von Melatonin",
+        "Blutzuckerspiegel, Verdauung und Nierendurchblutung",
+        "Wachheit, Erregbarkeit und Reaktionsbereitschaft"
+      ],
+      "answer": 3,
+      "explanation": "Noradrenalin reguliert Wachheit, Erregbarkeit und Reaktionsbereitschaft: Im Schlaf ist die Freisetzung stark reduziert, bei Angst und Stress deutlich erhöht, und ein mittleres Level ermöglicht konzentriertes zielgerichtetes Verhalten. Blutzucker, Verdauung und Nierendurchblutung sind periphere Effekte anderer Botenstoffe. Der Langzeitgedächtnisabruf wird nicht als Kernfunktion des Noradrenalins genannt. Die zirkadiane Rhythmik der HHNA wird über Mineralocorticoidrezeptoren gesteuert."
+    },
+    {
+      "topic": "LC-NA-System",
+      "question": "Welche Aussage über den Locus coeruleus trifft zu?",
+      "options": [
+        "Dort wird Serotonin synthetisiert, seine Axone projizieren ausschließlich in den Hirnstamm",
+        "Dort wird Kortisol synthetisiert und gespeichert, seine Axone beschränken sich auf den Hypothalamus",
+        "Dort wird Dopamin synthetisiert, seine Axone projizieren ausschließlich ins ventrale Striatum",
+        "Dort wird Noradrenalin synthetisiert und gespeichert, seine Axone reichen in fast alle Hirnbereiche"
+      ],
+      "answer": 3,
+      "explanation": "Im Locus coeruleus wird Noradrenalin synthetisiert und gespeichert; seine Axone reichen in fast alle Bereiche des Gehirns, ein weiterer Syntheseort ist das ventrolaterale Tegmentum, und die noradrenergen Systeme sind anatomisch mit den Amygdalakernen verbunden. Kortisol wird in der Nebennierenrinde gebildet und nicht im Gehirn. Dopaminerge Projektionen ins ventrale Striatum stammen aus dem ventralen Tegmentum und der Substantia nigra. Serotonerge Kerngebiete sind die Raphe-Kerne."
+    },
+    {
+      "topic": "LC-NA-System",
+      "hard": true,
+      "trap": "Beide Modi heißen „hoch“ – unterschieden werden sie über das Verhältnis von tonischer zu phasischer Aktivität.",
+      "question": "Wodurch unterscheiden sich der phasische und der tonische Funktionsmodus des LC-NA-Systems?",
+      "options": [
+        "Beide Modi unterscheiden sich allein in der Geschwindigkeit der Noradrenalin-Wiederaufnahme",
+        "Phasisch: hohe tonische Freisetzung mit geringen Peaks; tonisch: mittlere Freisetzung mit deutlichen Peaks",
+        "Phasisch: mittlere tonische Freisetzung mit deutlichen Peaks; tonisch: hohe Freisetzung mit geringen Peaks",
+        "Beide Modi unterscheiden sich allein im Ort der Noradrenalin-Synthese im Hirnstamm"
+      ],
+      "answer": 2,
+      "explanation": "Der phasische Modus ist durch eine mittlere tonische Noradrenalin-Freisetzung mit deutlichen phasischen Peaks gekennzeichnet, der tonische Modus durch eine hohe tonische Freisetzung mit geringen phasischen Peaks. Die umgekehrte Beschreibung vertauscht beide Modi. Die Wiederaufnahmegeschwindigkeit wird als Unterscheidungsmerkmal nicht genannt. Der Syntheseort ist in beiden Modi derselbe – gemessen wurde die Zellaktivität einer LC-Zelle, während die Freisetzung in kortikalen und subkortikalen Zielgebieten stattfindet."
+    },
+    {
+      "topic": "LC-NA-System",
+      "transfer": true,
+      "question": "Ein Proband tastet unter starkem Stress fortlaufend seine Umgebung ab, wirkt hoch erregt und wendet sich seiner eigentlichen Aufgabe immer weniger zu. Welcher Zustand des LC-NA-Systems liegt am ehesten vor?",
+      "options": [
+        "Eine vollständig sistierende Noradrenalin-Sekretion",
+        "Eine hohe tonische Noradrenalin-Sekretion",
+        "Eine mittlere tonische Noradrenalin-Sekretion",
+        "Eine selektive Hemmung durch endogene Opiate"
+      ],
+      "answer": 1,
+      "explanation": "Eine hohe tonische Noradrenalin-Sekretion geht mit erhöhtem Arousal, breiter Aufmerksamkeitsausrichtung (Scanning) und dem Abtasten der Umgebung (Sampling) einher – genau dieses Muster wird geschildert, verbunden mit sinkendem Aufgabenengagement. Bei mittleren Erregungsniveaus wäre die Leistung im Sinne zielgerichteten Verhaltens optimal. Eine sistierende Sekretion entspräche dem niedrigen Arousal des Schlafs. Endogene Opiate reduzieren die Aktivität des Systems und würden das Gegenteil bewirken."
+    },
+    {
+      "topic": "LC-NA-System",
+      "question": "Womit wurden Angststörungen im Hinblick auf das LC-NA-System in Verbindung gebracht?",
+      "options": [
+        "Mit einer Verlagerung der Synthese in die Raphe-Kerne",
+        "Mit einem vollständigen Ausfall der phasischen Aktivität",
+        "Mit einer erhöhten tonischen Noradrenalin-Freisetzung",
+        "Mit einer verminderten tonischen Noradrenalin-Freisetzung"
+      ],
+      "answer": 2,
+      "explanation": "Angststörungen konnten mit einer erhöhten tonischen Noradrenalin-Freisetzung in Verbindung gebracht werden, was mit erhöhter Erregbarkeit, Nervosität, Schreckhaftigkeit und Konzentrationsschwächen korrespondiert. Eine verminderte tonische Freisetzung würde eher niedrigem Arousal entsprechen. Ein vollständiger Ausfall der phasischen Aktivität wird nicht berichtet, im tonischen Modus sind die Peaks lediglich gering. Eine Verlagerung der Synthese in die Raphe-Kerne ist anatomisch unzutreffend."
+    },
+    {
+      "topic": "HHNA im Detail",
+      "question": "Welche Kaskade beschreibt die Normalfunktion der HHNA korrekt?",
+      "options": [
+        "ACTH aus dem PVN → über ein Portalsystem CRH aus der Hypophyse → Glukokortikoide aus dem Nebennierenmark",
+        "CRH und AVP aus dem PVN → über ein Portalsystem ACTH aus der Hypophyse → Glukokortikoide aus der Nebennierenrinde",
+        "Kortisol aus dem PVN → über den allgemeinen Blutkreislauf CRH aus der Nebennierenrinde → ACTH aus der Hypophyse",
+        "AVP aus der Hypophyse → über den Nervus vagus ACTH aus dem PVN → Adrenalin aus der Nebennierenrinde"
+      ],
+      "answer": 1,
+      "explanation": "Corticotropin Releasing Hormon und Arginin-Vasopressin werden im paraventrikulären Nukleus des Hypothalamus freigesetzt, gelangen über ein eigenes Portalsystem in die Hypophyse und lösen dort die ACTH-Freisetzung aus; ACTH gelangt in den allgemeinen Blutkreislauf und stößt an der Nebennierenrinde die Synthese von Glukokortikoiden an. Die übrigen Varianten vertauschen Hormone, Syntheseorte oder Transportwege – insbesondere stammt Kortisol aus der Nebennierenrinde und Adrenalin aus dem Nebennierenmark."
+    },
+    {
+      "topic": "HHNA im Detail",
+      "hard": true,
+      "question": "Welche Aussage zum negativen Feedback-System der HHNA ist richtig?",
+      "options": [
+        "Das Feedback ist ein zellulärer Mechanismus, der vor Schädigungen durch erhöhte Kortisolspiegel warnt",
+        "Das Feedback führt zu Vermeidungsverhalten, das den Organismus vor bedrohlichen Situationen schützen soll",
+        "Das Feedback erfolgt über den Nervus vagus, der kardiovaskuläre Veränderungen an das zentrale Nervensystem meldet",
+        "Kortisol ist blut-hirnschrankengängig und drosselt über die Bindung an spezifische Rezeptoren die HHNA-Aktivität"
+      ],
+      "answer": 3,
+      "explanation": "Glukokortikoide sind Steroidhormone mit kleiner Molekülgröße, durchdringen die Blut-Hirn-Schranke und binden im Gehirn unter anderem im Hippocampus, Hypothalamus und in der Hypophyse; dadurch wird die HHNA-Aktivität gedrosselt. Die vagale Rückmeldung kardiovaskulärer Veränderungen beschreibt interozeptive Kommunikation, nicht das hormonelle Feedback. Ein warnender Zellmechanismus ist keine Beschreibung eines Regelkreises. Vermeidungsverhalten ist eine Verhaltensebene und nicht der endokrine Rückkopplungsmechanismus."
+    },
+    {
+      "topic": "HHNA im Detail",
+      "hard": true,
+      "question": "Woran lässt sich am ehesten erkennen, dass eine tatsächliche Stressreaktion der HHNA vorliegt?",
+      "options": [
+        "Das zirkulierende Kortisol überschreitet die Schwankungsbreite der regulären pulsatilen Freisetzung",
+        "Das ACTH steigt an, während das Kortisol im Blut unverändert niedrig bleibt",
+        "Die Glukokortikoidsekretion verläuft erstmals pulsatil statt gleichmäßig und kontinuierlich über den Tag",
+        "Im Blut lässt sich überhaupt Kortisol nachweisen, das im Ruhezustand vollständig fehlt"
+      ],
+      "answer": 0,
+      "explanation": "Die Glukokortikoidsekretion schwankt auch ohne Belastung pulsatil; von einer Stressreaktion kann ausgegangen werden, wenn das zirkulierende Kortisol den Wert dieser regulären Schwankung überschreitet. Kortisol fehlt im Ruhezustand keineswegs – bei basaler Aktivität sind bereits 80 bis 90 Prozent der Mineralocorticoidrezeptoren besetzt. Die pulsatile Sekretion ist der Normalzustand und kein Stressmerkmal. Ein ACTH-Anstieg ohne nachfolgenden Kortisolanstieg widerspricht der Kaskade."
+    },
+    {
+      "topic": "HHNA im Detail",
+      "hard": true,
+      "trap": "Der zentrale Kortisolanstieg hinkt dem peripheren hinterher – aber nur unter Stress, nicht im Tagesrhythmus.",
+      "question": "Was zeigte der Vergleich peripherer und zentraler Kortisollevel?",
+      "options": [
+        "Unter Stress stiegen die Glukokortikoide im Gehirn später an als in der Peripherie, der Abfall erfolgte gleichzeitig",
+        "Unter Stress stiegen die Glukokortikoide im Gehirn früher an als in der Peripherie, der Abfall verzögerte sich zentral",
+        "Im Gehirn ließ sich unter Stress überhaupt kein Anstieg der Glukokortikoide nachweisen",
+        "Zentrale und periphere Level verliefen unter allen Bedingungen praktisch deckungsgleich"
+      ],
+      "answer": 0,
+      "explanation": "Es gibt Hinweise, dass die Glukokortikoide im Gehirn später ansteigen als in der Peripherie; dieser Effekt zeigte sich nur unter der Stressbedingung, während der Verlauf bei regulären tagesrhythmischen Schwankungen ähnlich war, und der Abfall erfolgte zur gleichen Zeit – interpretiert als aktive, möglicherweise schützende Mechanismen der Blut-Hirn-Schranke. Ein früherer zentraler Anstieg kehrt den Befund um. Deckungsgleiche Verläufe unter allen Bedingungen widersprechen dem stressspezifischen Effekt. Ein völlig fehlender zentraler Anstieg widerspricht der Blut-Hirn-Schrankengängigkeit des Kortisols."
+    },
+    {
+      "topic": "Mineral- und Glukokortikoidrezeptoren",
+      "question": "Welche Aussage über die Mineralocorticoidrezeptoren (MR) trifft zu?",
+      "options": [
+        "Sie sind bei basaler HHNA-Aktivität nahezu unbesetzt und besitzen eine deutlich niedrigere Affinität für Kortisol",
+        "Sie werden erst unter starkem Stress besetzt und vermindern dann Lernen und Gedächtnisfunktionen",
+        "Sie befinden sich ausschließlich in der Nebennierenrinde und regulieren dort die Kortisolsynthese",
+        "Sie sind bei basaler HHNA-Aktivität zu 80 bis 90 Prozent besetzt und haben eine hohe Affinität für Kortisol"
+      ],
+      "answer": 3,
+      "explanation": "Bei basaler HHNA-Aktivität sind etwa 80 bis 90 Prozent der Mineralocorticoidrezeptoren durch Kortisol besetzt; sie besitzen eine hohe Affinität, steuern den zirkadianen Rhythmus der HHNA und die Erregbarkeit der Neurone. Ein nahezu unbesetzter Zustand mit niedriger Affinität beschreibt die Glukokortikoidrezeptoren. Auch die Belegung erst unter Stress mit verminderter Lern- und Gedächtnisleistung betrifft die Glukokortikoidrezeptoren. Eine Beschränkung auf die Nebennierenrinde widerspricht der zentralen Lokalisation im Gehirn."
+    },
+    {
+      "topic": "Mineral- und Glukokortikoidrezeptoren",
+      "trap": "Hohe Affinität heißt: schon bei niedrigem Kortisol besetzt (MR). Niedrige Affinität heißt: erst unter Stress besetzt (GR).",
+      "question": "Welche Effekte gehen mit der Belegung der Glukokortikoidrezeptoren (GR) einher?",
+      "options": [
+        "Neurale Plastizität, Lernen und Gedächtnisfunktionen werden vermindert",
+        "Neurale Plastizität und synaptische Verbindungen werden nachhaltig gefördert",
+        "Der zirkadiane Rhythmus der HHNA wird erstmals stabil etabliert",
+        "Die maximale Wirkung von Noradrenalin und Adrenalin wird ermöglicht"
+      ],
+      "answer": 0,
+      "explanation": "Glukokortikoidrezeptoren werden nur bei hohen Kortisolleveln unter Stress belegt und zeigen häufig gegenteilige Effekte zur reinen MR-Belegung: Neurale Plastizität, Lernen und Gedächtnisfunktionen werden vermindert. Eine nachhaltige Förderung der Plastizität sowie die Ermöglichung maximaler Katecholaminwirkung sind Effekte basaler Kortisollevel über die Mineralocorticoidrezeptoren. Die Steuerung des zirkadianen Rhythmus wird ebenfalls den Mineralocorticoidrezeptoren zugeschrieben."
+    },
+    {
+      "topic": "Mineral- und Glukokortikoidrezeptoren",
+      "transfer": true,
+      "question": "Studierende sollen unmittelbar nach einem stark belastenden Ereignis neuen Lernstoff einprägen und schneiden dabei schlechter ab als eine unbelastete Gruppe. Welche Rezeptorbelegung erklärt das am ehesten?",
+      "options": [
+        "Die Belegung der Glukokortikoidrezeptoren bei hohen Kortisolleveln",
+        "Die Bindung von Adrenalin an zentrale Katecholaminrezeptoren",
+        "Die Blockade der Glukokortikoidrezeptoren durch endogene Opiate",
+        "Die Belegung der Mineralocorticoidrezeptoren bei basalen Kortisolleveln"
+      ],
+      "answer": 0,
+      "explanation": "Unter Stress erreichen die Kortisolspiegel Werte, bei denen auch die niedrig affinen Glukokortikoidrezeptoren belegt werden; dies vermindert neurale Plastizität, Lernen und Gedächtnisfunktionen. Die Belegung der Mineralocorticoidrezeptoren erfolgt bereits basal und erhöht die synaptische Plastizität, würde also das Gegenteil erwarten lassen. Endogene Opiate wirken auf das LC-NA-System und nicht als Rezeptorblocker der HHNA. Adrenalin überwindet die Blut-Hirn-Schranke nicht und kann den zentralen Effekt nicht erklären."
+    },
+    {
+      "topic": "Darm-Hirn-Achse",
+      "question": "Welche Faktoren beeinflussen nach der Vorlesung die Stressreaktion?",
+      "options": [
+        "Vor allem die Händigkeit und die hemisphärische Dominanz des Individuums",
+        "Sozialer Status, soziale Einbindung, Persönlichkeit, Genetik und die Darmflora",
+        "Ausschließlich das Ausmaß der körperlichen Fitness und der Trainingszustand",
+        "Ausschließlich die genetische Ausstattung des Glukokortikoidrezeptors"
+      ],
+      "answer": 1,
+      "explanation": "Als beeinflussende Faktoren werden sozialer Status, soziale Einbindung, Persönlichkeitsfaktoren, genetische Faktoren wie der Glukokortikoidrezeptor und FKBP51 sowie die Darmflora genannt. Eine Beschränkung auf die Rezeptorgenetik greift zu kurz, weil sie nur einer von mehreren Faktoren ist. Körperliche Fitness wird in dieser Aufzählung nicht angeführt. Händigkeit und hemisphärische Dominanz spielen für die Stressreaktion keine in der Vorlesung genannte Rolle."
+    },
+    {
+      "topic": "Darm-Hirn-Achse",
+      "trap": "Gefragt ist die Hypothalamus-Hypophysen-Gonaden-Achse – nicht die Nebennieren-Achse, die sehr wohl stressrelevant ist.",
+      "question": "Welcher der folgenden Wege gehört NICHT zu den genannten Kommunikationswegen der Darm-Hirn-Achse?",
+      "options": [
+        "Die enteroendokrine Signalübertragung durch bakterielle Nebenprodukte",
+        "Die Hypothalamus-Hypophysen-Gonaden-Achse",
+        "Die immunologische Signalübertragung über Zytokine und Interferone",
+        "Der Nervus vagus und die Regulation zwischen ZNS und enterischem Nervensystem"
+      ],
+      "answer": 1,
+      "explanation": "Als Kommunikationswege werden der Nervus vagus mit sympathischer und vagaler Regulation zwischen ZNS und enterischem Nervensystem, die enteroendokrine Signalübertragung durch bakterielle Nebenprodukte, der Serotonin- und Tryptophan-Metabolismus sowie die immunologische Signalübertragung über Zytokine und Interferone genannt. Die Hypothalamus-Hypophysen-Gonaden-Achse gehört nicht dazu – stressrelevant ist die Nebennieren-Achse, und auch diese wird nicht als Kommunikationsweg des Darms aufgeführt."
+    },
+    {
+      "topic": "Darm-Hirn-Achse",
+      "transfer": true,
+      "question": "In einem Tierversuch zeigen keimfrei aufgezogene Ratten nach einem Stressor eine stärkere Reaktion als normal besiedelte Tiere; nach Gabe probiotischer Bakterien gleichen sich beide Gruppen an. Welcher Schluss ist am ehesten zulässig?",
+      "options": [
+        "Das Mikrobiom kann die Stressreaktion und angstbezogenes Verhalten beeinflussen",
+        "Probiotische Bakterien wirken über eine direkte Hemmung der Nebennierenrinde",
+        "Der Befund lässt sich unmittelbar eins zu eins auf den Menschen übertragen",
+        "Das Mikrobiom ist die alleinige Ursache stressbedingter psychischer Störungen"
+      ],
+      "answer": 0,
+      "explanation": "Keimfreie Ratten zeigten höhere Kortisollevel, mehr angstähnliches Verhalten und eine höhere dopaminerge Sekretion nach einem Open-Field-Stressor; die Angleichung nach Gabe probiotischer Bakterien stützt, dass das Mikrobiom Stressreaktionen und angstbezogenes Verhalten beeinflusst. Eine alleinige Verursachung psychischer Störungen überdehnt den Befund. Die Vorlesung betont ausdrücklich, dass es für eine Eins-zu-eins-Übertragung auf den Menschen noch zu früh ist. Eine direkte Hemmung der Nebennierenrinde wird als Mechanismus nicht behauptet."
+    },
+    {
+      "topic": "Stress und Hirnfunktion",
+      "hard": true,
+      "transfer": true,
+      "question": "Nach einem belastenden Video zeigt eine Stressgruppe in einer Arbeitsgedächtnisaufgabe eine verminderte dorsolateral-präfrontale Aktivität, unterscheidet sich aber weder in Fehlerrate noch in Reaktionszeit von der Kontrollgruppe. Wie ist das am ehesten zu deuten?",
+      "options": [
+        "Die fehlenden Verhaltensunterschiede widerlegen einen Effekt des Stressors",
+        "Die Stressgruppe hat die Aufgabe offensichtlich nicht ernsthaft bearbeitet",
+        "Die neurale Veränderung tritt hier auf, ohne sich in der behavioralen Leistung abzubilden",
+        "Die verminderte Aktivität belegt eine bereits eingetretene strukturelle Schädigung des Präfrontalkortex"
+      ],
+      "answer": 2,
+      "explanation": "In der berichteten Studie zeigte die Stressgruppe eine verminderte neurale Aktivität in dorsolateralen präfrontalen Regionen, die dem Arbeitsgedächtnis zugeordnet werden, während sich die Gruppen in Fehlerrate und Reaktionszeit nicht unterschieden – die neurale Veränderung bildet sich also nicht zwingend im Verhalten ab. Mangelnde Aufgabenbearbeitung wäre an schlechteren Leistungswerten erkennbar. Eine strukturelle Schädigung lässt sich aus einer einmaligen funktionellen Messung nicht ableiten. Dass fehlende Verhaltensunterschiede den Effekt widerlegen, verkennt gerade den berichteten Befund auf neuraler Ebene."
+    },
+    {
+      "topic": "Stress und Hirnfunktion",
+      "question": "Welcher Zusammenhang bestand zwischen Kortisollevel und aufgabeninduzierter Deaktivierung medial präfrontaler Strukturen?",
+      "options": [
+        "Das Kortisol stand in keinem messbaren Zusammenhang mit der Deaktivierung",
+        "Je höher das Kortisol, desto geringer die Unterdrückung dieser Strukturen",
+        "Je höher das Kortisol, desto stärker die Unterdrückung dieser Strukturen",
+        "Nur bei sehr niedrigen Kortisolwerten blieb die Unterdrückung vollständig aus"
+      ],
+      "answer": 1,
+      "explanation": "Die Studie fand: Je höher das Kortisol, desto geringer die aufgabeninduzierte Unterdrückung medial präfrontaler Strukturen – also des Default Mode Network, das mit Grübeln, Stressbewältigung und Emotionsregulation verknüpft wird. Ein umgekehrter Zusammenhang mit stärkerer Unterdrückung widerspricht dem Befund. Ein fehlender Zusammenhang wird nicht berichtet. Eine ausbleibende Unterdrückung ausgerechnet bei sehr niedrigen Kortisolwerten kehrt die Richtung des Effekts um."
+    },
+    {
+      "topic": "Stress und Hirnfunktion",
+      "question": "Welche Konnektivitätsveränderung wurde unter Stress berichtet und worauf deutet sie hin?",
+      "options": [
+        "Verringerte Konnektivität zwischen Amygdala und vmPFC als Hinweis auf eine entkoppelte Bedrohungsdetektion",
+        "Erhöhte Konnektivität zwischen Amygdala und vmPFC als Hinweis auf mediale frontale Stressregulation",
+        "Erhöhte Konnektivität zwischen Kleinhirn und Hirnstamm als Hinweis auf motorische Anpassung",
+        "Verringerte Konnektivität zwischen Hippocampus und Nebennierenrinde als Hinweis auf Feedbackverlust"
+      ],
+      "answer": 1,
+      "explanation": "Berichtet wird eine erhöhte Konnektivität zwischen Amygdala und ventromedialem präfrontalem Kortex unter Stress, gewertet als weiterer Hinweis auf die Beteiligung medialer frontaler Areale an der Stressregulation. Eine verringerte Kopplung kehrt den Befund um. Eine Kleinhirn-Hirnstamm-Kopplung wird in diesem Zusammenhang nicht berichtet. Eine Konnektivität zwischen Hippocampus und Nebennierenrinde ist anatomisch unsinnig, da funktionelle Konnektivität Hirnregionen und nicht periphere Organe verbindet."
+    },
+    {
+      "topic": "Stress und Hirnfunktion",
+      "hard": true,
+      "question": "Was ergab der hypothesenfreie, datengetriebene Ansatz der eigenen Forschung zur Kortisolwirkung?",
+      "options": [
+        "Identifiziert wurde eine generelle Abnahme der Konnektivität bei steigenden Kortisolwerten",
+        "Identifiziert wurden ausschließlich Amygdala und Hippocampus als klassische Stressregionen",
+        "Identifiziert wurden visuelle Regionen, deren Konnektivität mit hohen Kortisolwerten zunahm",
+        "Identifiziert wurden motorische Areale ohne jeden Zusammenhang zum Kortisolspiegel"
+      ],
+      "answer": 2,
+      "explanation": "Während bisherige Studien die untersuchten Regionen hypothesengeleitet vorab festlegten, identifizierte der datengetriebene Ansatz visuelle Regionen; die nachfolgende Konnektivitätsanalyse zeigte laterale Regionen aus Salienz-, Control-, Motor- und sensorischen Netzwerken, und hohe Kortisolwerte gingen mit stärkerer Konnektivität einher. Eine Beschränkung auf Amygdala und Hippocampus entspräche gerade dem kritisierten hypothesengeleiteten Vorgehen. Eine generelle Abnahme der Konnektivität kehrt die Dosis-Wirkungs-Beziehung um. Ein fehlender Kortisolzusammenhang widerspricht dem berichteten Befund."
+    },
+    {
+      "topic": "Stress und Hirnstruktur",
+      "question": "Welche Rolle hat CRH über seine Funktion als Releasing-Hormon hinaus?",
+      "options": [
+        "Es dient im Blutkreislauf als Transportprotein für die Steroidhormone der Nebennierenrinde",
+        "Es wirkt an zahlreichen Stellen des ZNS als Neurotransmitter, unter anderem in Amygdala und Hippocampus",
+        "Es wirkt in der Peripherie als unmittelbarer Gegenspieler des Adrenalins am Nebennierenmark und am Herzen",
+        "Es reguliert im Darm die Zusammensetzung des Mikrobioms und die Barrierefunktion"
+      ],
+      "answer": 1,
+      "explanation": "CRH wird an zahlreichen Stellen des zentralen Nervensystems freigesetzt und wirkt dort als Neurotransmitter – unter anderem in Amygdala, Locus coeruleus und Hippocampus; in dieser Rolle wird es als Corticotropin Releasing Faktor bezeichnet. Eine Gegenspielerfunktion zum Adrenalin am Nebennierenmark wird nicht beschrieben. Als Transportprotein für Steroidhormone fungiert es nicht. Eine Regulation des Mikrobioms im Darm gehört nicht zu den genannten Funktionen."
+    },
+    {
+      "topic": "Stress und Hirnstruktur",
+      "transfer": true,
+      "question": "In einem Experiment werden hippocampale Pyramidenzellen mit CRH umspült. Nach fünf Minuten sind die dendritischen Dornenfortsätze reduziert, dreißig Minuten nach dem Auswaschen ist die Ausgangszahl wieder erreicht. Welcher Schluss ist am ehesten zulässig?",
+      "options": [
+        "CRH verändert die Dendritendynamik schnell und grundsätzlich reversibel",
+        "CRH zerstört die betroffenen Neurone unmittelbar und unwiederbringlich",
+        "CRH beeinflusst ausschließlich die Myelinisierung der Axone",
+        "CRH wirkt auf Dendriten erst nach mehreren Stunden messbar ein"
+      ],
+      "answer": 0,
+      "explanation": "Die CRH-Flutung der Nährlösung reduzierte die Spines bereits nach fünf Minuten, und dreißig Minuten nach Beginn des Auswaschens war die ursprüngliche Anzahl wieder erreicht – CRH verändert die Dendritendynamik also schnell und reversibel. Eine unmittelbare Zerstörung der Neurone widerspricht der beobachteten Rückbildung. Eine erst nach Stunden einsetzende Wirkung widerspricht dem Fünf-Minuten-Befund. Die Myelinisierung war nicht Gegenstand dieses Experiments."
+    },
+    {
+      "topic": "Stress und Hirnstruktur",
+      "question": "Womit wurde chronischer Stress in der berichteten Humanstudie in Verbindung gebracht?",
+      "options": [
+        "Mit einer vollständigen Rückbildung der dendritischen Dornenfortsätze im Kortex",
+        "Mit einem reduzierten Volumen der grauen Substanz in einem Teil des Hippocampus",
+        "Mit einer erhöhten Myelinisierung der Assoziationsbahnen beider Hemisphären",
+        "Mit einem vergrößerten Volumen der grauen Substanz im gesamten Frontallappen"
+      ],
+      "answer": 1,
+      "explanation": "Chronischer Stress konnte mit einem reduzierten Volumen der grauen Substanz in einem Teil des Hippocampus assoziiert werden, und der Effekt zeigte sich in vier Gruppen mit unterschiedlicher Stressexposition. Eine Volumenzunahme im Frontallappen widerspricht der Befundrichtung. Eine vollständige Rückbildung aller Dornenfortsätze im Kortex überzeichnet die zellulären Befunde aus dem Tiermodell. Eine erhöhte Myelinisierung wird als Stressfolge nicht berichtet."
+    },
+    {
+      "topic": "Stress und Hirnstruktur",
+      "hard": true,
+      "question": "Welche methodische Einschränkung nennt die Vorlesung für diesen Befund zum Hippocampusvolumen?",
+      "options": [
+        "Die Stichprobe bestand ausschließlich aus Versuchstieren und ist deshalb nicht auf den Menschen übertragbar",
+        "Es wurde nur eine einzige Gruppe untersucht, sodass jeder Vergleichsmaßstab fehlt",
+        "Als Querschnittsstudie kann sie nicht ausschließen, dass das Volumen bereits vorher reduziert war",
+        "Die Messung erfolgte funktionell und erlaubt deshalb keine Aussage über Aktivität"
+      ],
+      "answer": 2,
+      "explanation": "Die Vorlesung weist darauf hin, dass bei dieser Querschnittsstudie die Möglichkeit besteht, dass das Hippocampusvolumen bereits vor dem Ereignis reduziert war; belastbarer wird der Befund dadurch, dass er sich in vier Gruppen mit unterschiedlicher Stressexposition zeigte. Es handelt sich um eine Humanstudie, die Tierbefunde werden ergänzend angeführt. Dass nur eine Gruppe untersucht wurde, widerspricht den vier Expositionsgruppen. Es handelt sich um eine Volumenmessung und nicht um eine funktionelle Messung."
+    },
+    {
+      "topic": "Stress und Hirnstruktur",
+      "transfer": true,
+      "question": "Chronischer Stress wurde mehrfach mit einer Verminderung der grauen Substanz in Zusammenhang gebracht. Welcher der angeführten Prozesse wird unter anderem dafür verantwortlich gemacht?",
+      "options": [
+        "Der Rückgang der Myelinisierung der langen Axone",
+        "Die Stimulation inhibierender Neurotransmitter wie GABA",
+        "Die verminderte Flexibilität des zerebralen Kapillarnetzes",
+        "Die Hemmung von Wachstumsfaktoren durch Stress"
+      ],
+      "answer": 3,
+      "explanation": "Als Gründe werden neben der direkten Wirkung von CRH und Kortisol ausdrücklich die Hemmung von Wachstumsfaktoren genannt: Es werden keine neuen Zellen, Dendriten und Synapsen mehr gebildet, wodurch sich die Gesamtzahl über die Zeit reduziert. Ein Rückgang der Myelinisierung betrifft die weiße und nicht die graue Substanz. Eine verminderte Flexibilität des Kapillarnetzes wird als Mechanismus nicht angeführt. Eine Stimulation inhibierender Neurotransmitter erklärt keinen Gewebeverlust."
+    }
+  ]
+}

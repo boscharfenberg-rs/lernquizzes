@@ -640,6 +640,13 @@
       "title": "Furcht, Angst und Angststörungen",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Furcht-Angst-Abgrenzung, Amygdala & Furchtnetzwerk, Two-System Framework, BNST, Insula/Interozeption, ängstliches Grübeln (ACT vs. DMC), Netzwerkpathologie, eigene Konnektom-Forschung."
+    },
+    {
+      "id": "kan-stress",
+      "file": "kan-stress.json",
+      "title": "Stress",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Stressbegriff, periphere Stressreaktion, LC-NA-System, HHNA im Detail, MR vs. GR, Darm-Hirn-Achse sowie Stresswirkungen auf Hirnfunktion und -struktur."
     }
   ]
 }
