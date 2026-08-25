@@ -1,0 +1,390 @@
+{
+  "id": "kan-misshandlung-vernachlaessigung",
+  "title": "Missbrauch und Vernachlässigung in der Kindheit",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Misshandlung: Formen der Misshandlung, Dysregulation der Stresssysteme, FKBP5 und Epigenetik, vmPFC-Über- und -Unterfunktion, limbische Veränderungen, missbrauchsspezifische Effekte und adaptive Anpassung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Bedeutung und Formen",
+      "question": "Was gibt das attributable Risiko an?",
+      "options": [
+        "Wie viele Personen mit einem Risikofaktor im Verlauf eines Jahres neu erkranken werden",
+        "Um welchen Prozentsatz sich eine Krankheitshäufigkeit senken ließe, würde man den Risikofaktor ausschalten",
+        "Wie hoch die Wahrscheinlichkeit ist, dass eine bereits erkrankte Person den fraglichen Risikofaktor tatsächlich aufweist",
+        "Wie stark sich zwei Risikofaktoren in ihrer Wirkung auf eine Erkrankung gegenseitig verstärken"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien definieren das attributable Risiko ausdrücklich als den Prozentsatz, um den sich eine Krankheitshäufigkeit senken ließe, würde man den Risikofaktor ausschalten. Die Wahrscheinlichkeit, dass Erkrankte den Faktor aufweisen, beschreibt eine Expositionsprävalenz unter Erkrankten. Die gegenseitige Verstärkung zweier Faktoren wäre eine Interaktion. Die Zahl der Neuerkrankungen pro Jahr ist eine Inzidenz."
+    },
+    {
+      "topic": "Bedeutung und Formen",
+      "question": "Welche Zuordnung von Misshandlungsformen zu aktiver und passiver Misshandlung trifft zu?",
+      "options": [
+        "Aktiv: ausschließlich sexuelle Misshandlung; passiv: alle übrigen Formen der Misshandlung",
+        "Aktiv: emotionale, körperliche und sexuelle Misshandlung; passiv: emotionale und körperliche Vernachlässigung",
+        "Aktiv: emotionale und körperliche Vernachlässigung; passiv: emotionale, körperliche und sexuelle Misshandlung",
+        "Aktiv: ausschließlich körperliche und sexuelle Misshandlung; passiv: jede Form emotionaler Einwirkung"
+      ],
+      "answer": 1,
+      "explanation": "Die Vorlesung ordnet der aktiven Misshandlung die emotionale, die körperliche und die sexuelle Misshandlung zu, der passiven Misshandlung die emotionale und die körperliche Vernachlässigung. Die umgekehrte Zuordnung vertauscht beide Kategorien. Die emotionale Misshandlung gehört ausdrücklich zur aktiven Seite und nicht pauschal zur passiven. Eine Beschränkung der aktiven Seite auf sexuelle Misshandlung übergeht körperliche und emotionale Misshandlung."
+    },
+    {
+      "topic": "Bedeutung und Formen",
+      "transfer": true,
+      "trap": "Das Kind wird nicht selbst angegriffen – die Bezeugung zählt trotzdem zur aktiven emotionalen Misshandlung.",
+      "question": "Ein Kind erlebt wiederholt mit, wie ein Elternteil den anderen demütigt und bedroht, wird selbst aber nie angegriffen. Welcher Form ist das am ehesten zuzuordnen?",
+      "options": [
+        "Der emotionalen Vernachlässigung",
+        "Der körperlichen Misshandlung",
+        "Der emotionalen Misshandlung",
+        "Der körperlichen Vernachlässigung"
+      ],
+      "answer": 2,
+      "explanation": "Die Bezeugung häuslicher Gewalt – also das Miterleben von Demütigung, Erniedrigung oder Bedrohung zwischen Familienmitgliedern – wird in der Vorlesung ausdrücklich als Unterform der emotionalen Misshandlung und damit der aktiven Misshandlung geführt. Die emotionale Vernachlässigung meint das Vorenthalten grundlegender emotionaler Bedürfnisse, also ein Unterlassen. Die körperliche Vernachlässigung betrifft Nahrung, Kleidung, Sicherheit und Versorgung. Eine körperliche Misshandlung setzt einen körperlichen Angriff auf das Kind voraus, der hier gerade nicht stattfindet."
+    },
+    {
+      "topic": "Bedeutung und Formen",
+      "transfer": true,
+      "question": "Die Eltern eines neunjährigen Jungen reagieren nicht auf seine Ängste, unterstützen ihn weder schulisch noch emotional und erwarten, dass er gefährliche Situationen allein bewältigt. Welche Form liegt am ehesten vor?",
+      "options": [
+        "Emotionale Vernachlässigung",
+        "Emotionale Manipulation",
+        "Körperliche Vernachlässigung",
+        "Emotionale Misshandlung"
+      ],
+      "answer": 0,
+      "explanation": "Emotionale Vernachlässigung umfasst genau dies: die Vorenthaltung grundlegender emotionaler Bedürfnisse, Unempfänglichkeit für Belastungen und Leiden des Kindes, fehlende Unterstützung der sozialen und emotionalen Entwicklung sowie die Erwartung, dass das Kind Situationen bewältigt, die über seinem Entwicklungsstand liegen oder gefährlich sind. Die emotionale Misshandlung setzt ein aktives Tun wie verbale Aggression voraus. Die körperliche Vernachlässigung betrifft Nahrung, Kleidung, Sicherheit und medizinische Versorgung. Die emotionale Manipulation setzt das Kind gezielt Situationen aus, um Scham, Schuld oder Angst zu erzeugen."
+    },
+    {
+      "topic": "Stresssysteme nach früher Belastung",
+      "hard": true,
+      "question": "Welche Veränderung der Stresssysteme wird nach anhaltend hohem Stress am häufigsten beobachtet?",
+      "options": [
+        "Eine Rückbildung hypophysärer CRH- und Glukokortikoidrezeptoren im Sinne einer Down-Regulation",
+        "Ein vollständiger Ausfall der Kortisolsynthese in der Nebennierenrinde bei erhaltener ACTH-Sekretion",
+        "Eine ausgeprägte Vermehrung hypophysärer CRH- und Glukokortikoidrezeptoren im Sinne einer Up-Regulation",
+        "Eine dauerhafte Umstellung der Kortisolsekretion von pulsatiler auf kontinuierlich gleichbleibende Abgabe"
+      ],
+      "answer": 0,
+      "explanation": "Als häufigste Beobachtung nennt die Vorlesung eine Rückbildung der hypophysären CRH- und Glukokortikoidrezeptoren bei anhaltend hohem Stress; dadurch vermindert sich die negative Rückkopplung, und es kommt zu einem dauerhaft erhöhten Hormonspiegel bei verminderter Stressreaktivität. Eine Up-Regulation der Rezeptoren beschreibt das Gegenteil. Ein vollständiger Ausfall der Kortisolsynthese wird nicht berichtet. Eine Umstellung von pulsatiler auf kontinuierliche Abgabe ist keine genannte Anpassung."
+    },
+    {
+      "topic": "Stresssysteme nach früher Belastung",
+      "hard": true,
+      "question": "Warum finden sich in der Literatur sowohl Über- als auch Unterfunktionen der HHNA nach früher Misshandlung?",
+      "options": [
+        "Weil die HHNA bei Kindern und Erwachsenen aus grundsätzlich verschiedenen anatomischen Strukturen besteht",
+        "Weil die Messverfahren für Kortisol im Speichel und im Blut zu gegensätzlichen Werten führen",
+        "Weil Kortisol je nach Tageszeit entweder als Hormon oder als Neurotransmitter freigesetzt wird",
+        "Weil CRH- und Glukokortikoidrezeptoren in Arealen liegen, die hemmend oder erregend auf die HHNA wirken"
+      ],
+      "answer": 3,
+      "explanation": "CRH- und Glukokortikoidrezeptoren finden sich in zahlreichen Hirnarealen wie medialem präfrontalem Kortex, Hippocampus und Amygdala, die unterschiedlich – hemmend oder erregend – auf die HHNA einwirken; welche Regionen früh verändert wurden, könnte die Richtung der Reaktivität bestimmen. Eine andere anatomische Grundstruktur bei Kindern und Erwachsenen wird nicht behauptet. Kortisol wechselt nicht tageszeitabhängig seine Substanzklasse. Systematisch gegensätzliche Werte in Speichel und Blut werden nicht berichtet, im Gegenteil verlaufen beide parallel."
+    },
+    {
+      "topic": "Stresssysteme nach früher Belastung",
+      "transfer": true,
+      "trap": "Die Richtung der HHNA-Veränderung hängt von der Störung ab: bei Depression erniedrigt, bei PTBS erhöht.",
+      "question": "Zwei Patienten mit Missbrauchserfahrungen werden untersucht: einer mit Major Depression, einer mit PTBS. Welches Muster der HHNA-Aktivität ist nach der Vorlesung zu erwarten?",
+      "options": [
+        "Bei der Depression eine erniedrigte, bei der PTBS eine erhöhte HHNA-Aktivität",
+        "Bei beiden Störungsbildern gleichermaßen eine deutlich erhöhte HHNA-Aktivität",
+        "Bei beiden Störungsbildern gleichermaßen eine deutlich erniedrigte HHNA-Aktivität",
+        "Bei der Depression eine erhöhte, bei der PTBS eine erniedrigte HHNA-Aktivität"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien nennen genau dieses schwer zu interpretierende Befundmuster: Patienten mit Major Depression und Missbrauchserfahrungen zeigen eine erniedrigte HHNA-Aktivität, Patienten mit PTBS und Missbrauchserfahrung dagegen eine erhöhte. Die umgekehrte Zuordnung vertauscht beide Störungsbilder. Ein einheitlich erniedrigtes oder einheitlich erhöhtes Muster über beide Störungen hinweg widerspricht gerade der berichteten Heterogenität, die die Interpretation erschwert."
+    },
+    {
+      "topic": "Stresssysteme nach früher Belastung",
+      "question": "Wie wird Resilienz in der Vorlesung definiert?",
+      "options": [
+        "Als vollständige Unempfindlichkeit gegenüber belastenden Ereignissen aufgrund genetischer Ausstattung",
+        "Als erlernte Strategie, aversive Situationen frühzeitig zu erkennen und konsequent zu vermeiden",
+        "Als Fähigkeit, Stress standzuhalten und das Wohlergehen zu erhalten oder rasch wiederzuerlangen",
+        "Als Fähigkeit, belastende Erinnerungen dauerhaft aus dem autobiografischen Gedächtnis auszuschließen"
+      ],
+      "answer": 2,
+      "explanation": "Resilienz wird als Fähigkeit definiert, Stress und aversiven Erfahrungen standzuhalten und das mentale und physische Wohlergehen aufrechtzuerhalten oder schnell wiederzuerlangen. Eine vollständige Unempfindlichkeit widerspricht dem Gedanken der Wiederherstellung nach Belastung. Ein Ausschluss belastender Erinnerungen beschreibt eher dissoziative Prozesse. Eine konsequente Vermeidungsstrategie wäre ein Verhaltensmuster und keine Definition von Resilienz."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "hard": true,
+      "question": "Welche Funktion hat das Bindungsprotein FKBP51?",
+      "options": [
+        "Es transportiert das Kortisol aus der Nebennierenrinde über die Blut-Hirn-Schranke ins Gehirn",
+        "Es hemmt die Bindungsfähigkeit des Glukokortikoidrezeptors und behindert dessen Translokation",
+        "Es steigert die Bindungsfähigkeit des Glukokortikoidrezeptors und beschleunigt dessen Translokation",
+        "Es ersetzt den Glukokortikoidrezeptor vollständig und bindet das Kortisol an seiner Stelle"
+      ],
+      "answer": 1,
+      "explanation": "FKBP51 ist das Expressionsprodukt des FKBP5-Gens und ein funktionsvermittelndes Hilfsmolekül des Glukokortikoidrezeptors: Es hemmt dessen Bindungsfähigkeit für Kortisol und behindert die Translokation, wirkt also als funktioneller Antagonist. Eine Steigerung von Bindung und Translokation kehrt diese Wirkung um. Ein vollständiger Ersatz des Rezeptors wird nicht beschrieben. Kortisol überwindet die Blut-Hirn-Schranke aufgrund seiner kleinen Molekülgröße und benötigt dafür kein Transportprotein."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "question": "Womit wurde das T-Allel des FKBP5-Polymorphismus in Verbindung gebracht?",
+      "options": [
+        "Mit einer verstärkten Kortisolreaktion und einer schlechteren Rückregulation bei Stress",
+        "Mit einer erhöhten Bindungsaffinität der Mineralocorticoidrezeptoren für Kortisol",
+        "Mit einer abgeschwächten Kortisolreaktion und einer besonders raschen Rückregulation",
+        "Mit einem vollständigen Ausfall der Kortisolantwort auf soziale Bedrohungen"
+      ],
+      "answer": 0,
+      "explanation": "Das T-Allel wurde in mehreren Studien mit einer verstärkten Kortisolreaktion und einer schlechteren Kortisolrückregulation bei Stress in Verbindung gebracht – einem Überschießen der Stressantwort. Eine abgeschwächte Reaktion mit rascher Rückregulation beschreibt das Gegenteil. Ein vollständiger Ausfall der Kortisolantwort wird nicht berichtet. Eine veränderte Affinität der Mineralocorticoidrezeptoren gehört nicht zum beschriebenen Wirkweg, der über den Glukokortikoidrezeptor läuft."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "transfer": true,
+      "trap": "Das Risiko steht nicht am Genotyp allein – es zeigt sich erst im Zusammenspiel mit Missbrauchserfahrungen.",
+      "question": "Zwei junge Erwachsene tragen beide das T-Allel des FKBP5-Gens; nur einer berichtet Missbrauchserfahrungen in der Kindheit. Was ist nach der Vorlesung am ehesten zu erwarten?",
+      "options": [
+        "Das erhöhte Risiko zeigt sich vor allem bei der Person ohne Missbrauchserfahrung",
+        "Beide Personen tragen ein gleichermaßen deutlich erhöhtes Risiko allein aufgrund des Genotyps",
+        "Das erhöhte Störungsrisiko zeigt sich vor allem bei der Person mit Missbrauchserfahrung",
+        "Der Genotyp hebt das Risiko in beiden Fällen auf, unabhängig von den Lebenserfahrungen"
+      ],
+      "answer": 2,
+      "explanation": "Träger des T-Allels konnten mit einem erhöhten Risiko für Depression, Angststörungen, PTBS, Suizidalität, Aggressivität und psychotische Störungen in Zusammenhang gebracht werden – ausdrücklich dann, wenn die Personen Missbrauchsereignissen ausgesetzt waren. Es handelt sich also um eine Gen-Umwelt-Interaktion und nicht um einen reinen Genotyp-Effekt. Eine Risikoerhöhung gerade ohne Missbrauchserfahrung kehrt den Befund um. Eine risikoaufhebende Wirkung des Genotyps widerspricht der Datenlage vollständig."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "hard": true,
+      "question": "Welcher epigenetische Zusammenhang wird für das FKBP5-Gen nach aversiven Kindheitserfahrungen beschrieben?",
+      "options": [
+        "Die Methylierung bleibt unverändert, die FKBP51-Menge wird allein über den Genotyp bestimmt",
+        "Eine Hypermethylierung senkt die Transkription, es wird weniger FKBP51 gebildet, das Feedback wird stärker",
+        "Eine Demethylierung senkt die Transkription, es wird weniger FKBP51 gebildet, das Feedback wird schwächer",
+        "Eine Demethylierung erhöht die Transkription, es wird mehr FKBP51 gebildet, das Feedback wird schwächer"
+      ],
+      "answer": 3,
+      "explanation": "Erhöhte Methylierung geht mit verminderten Transkriptionsraten einher, Demethylierung mit erhöhten. Aversive Erfahrungen in der Kindheit konnten mit einer Demethylierung im FKBP5-Gen in Verbindung gebracht werden: Es wird mehr FKBP51 exprimiert und dadurch das negative Feedback der HHNA geschwächt. Eine Hypermethylierung mit stärkerem Feedback kehrt den Befund um. Eine Demethylierung mit gesenkter Transkription widerspricht dem Grundprinzip der Methylierung. Dass die Methylierung unverändert bliebe, widerspricht der beschriebenen Gen-Umwelt-Interaktion."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "hard": true,
+      "question": "In welchem Lebensabschnitt ließen sich Veränderungen der FKBP5-Methylierung zuverlässig nachweisen?",
+      "options": [
+        "Nur nach aversiven Erfahrungen im Erwachsenenalter, nicht nach solchen in der Kindheit",
+        "Nur nach aversiven Erfahrungen in der Kindheit, nicht nach solchen im Erwachsenenalter",
+        "Ausschließlich nach pränatalen Belastungen der Mutter während der Schwangerschaft",
+        "Gleichermaßen nach aversiven Erfahrungen in jedem Lebensalter ohne erkennbare Unterschiede"
+      ],
+      "answer": 1,
+      "explanation": "Veränderungen der Methylierung im FKBP5-Gen konnten nur nach aversiven Erfahrungen in der Kindheit zuverlässig nachgewiesen werden; Missbrauchserfahrungen im Erwachsenenalter zeigten keine belastbaren Ergebnisse. Die umgekehrte Zuordnung widerspricht dem. Eine altersunabhängige Wirkung würde die betonte Bedeutung früher Entwicklungsphasen aufheben. Pränatale Belastungen sind nicht Gegenstand der referierten Befunde."
+    },
+    {
+      "topic": "FKBP5 und Epigenetik",
+      "question": "Womit variierte die FKBP5-Methylierung in der eigenen Untersuchung?",
+      "options": [
+        "Mit der Dicke der primären motorischen Kortizes beider Seiten",
+        "Mit der Konnektivität in einem fronto-subkortikalen Netzwerk",
+        "Mit der Aktivität des Nucleus accumbens während einer Belohnungsaufgabe",
+        "Mit dem Gesamtvolumen der weißen Substanz beider Hemisphären"
+      ],
+      "answer": 1,
+      "explanation": "Die Untersuchung bestimmte die Konnektivität während einer Aufgabe zur impliziten Emotionsregulation und fand, dass die FKBP5-Methylierung mit der Konnektivität in einem fronto-subkortikalen Netzwerk variiert; dieses Netzwerk ist unter anderem in Arbeitsgedächtnis, Gesichtsdiskrimination, Inhibition, Emotionsverarbeitung und soziale Kognition eingebunden. Ein Zusammenhang mit dem Gesamtvolumen der weißen Substanz oder der Dicke motorischer Kortizes wird nicht berichtet. Die Aktivität des Nucleus accumbens in einer Belohnungsaufgabe war nicht Gegenstand dieser Analyse."
+    },
+    {
+      "topic": "vmPFC: Über- und Unterfunktion",
+      "trap": "Melancholisch gehört zur Überfunktion, atypisch zur Unterfunktion – die beiden Depressionsformen werden leicht vertauscht.",
+      "question": "Wozu könnte eine erhöhte Glukokortikoid-Freisetzung über eine Überfunktion des vmPFC am ehesten führen?",
+      "options": [
+        "Zu verminderten selbstreferenziellen Prozessen und einer Vulnerabilität für atypische Depression",
+        "Zu gestörter Empathie und einer Vulnerabilität für antisoziale Persönlichkeitsstörungen",
+        "Zu verstärkten selbstreferenziellen Prozessen und einer Vulnerabilität für melancholische Depression",
+        "Zu einer erhöhten Reaktivität des Belohnungssystems und einer Vulnerabilität für Manie"
+      ],
+      "answer": 2,
+      "explanation": "Eine erhöhte Freisetzung von Glukokortikoiden könnte zu einer übersteigerten Funktion der ventromedialen präfrontalen Kortizes führen; da der vmPFC ein Hauptknotenpunkt des DMN ist, würden selbstreferenzielle Prozesse wie Grübeln und autobiografisches Gedächtnis verstärkt, was eine Vulnerabilität für eine Depression mit melancholischen Merkmalen bedeuten könnte. Verminderte selbstreferenzielle Prozesse und atypische Depression gehören zur Unterfunktion. Gestörte Empathie und antisoziale Störungen werden ebenfalls der Unterfunktion zugeordnet. Eine Manie wird in diesem Zusammenhang nicht angeführt."
+    },
+    {
+      "topic": "vmPFC: Über- und Unterfunktion",
+      "question": "Über welchen Mechanismus könnte eine verminderte Glukokortikoid-Freisetzung zu einer Unterfunktion des vmPFC führen?",
+      "options": [
+        "Über eine dauerhafte Blockade der GABAergen Signalübertragung im Kortex",
+        "Über eine Herunterregulation dopaminerger D2-Rezeptoren im ventralen Striatum",
+        "Über eine Zunahme der Mineralocorticoidrezeptoren im Hippocampus",
+        "Über eine Hochregulation von Serotonin-Rezeptoren des Subtyps 5-HT1A"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien nennen als vermittelnden Mechanismus ausdrücklich eine Hochregulation von Serotonin-Rezeptoren des Subtyps 5-HT1A. Eine Herunterregulation dopaminerger D2-Rezeptoren gehört zum Belohnungssystem und wird hier nicht angeführt. Eine Zunahme der Mineralocorticoidrezeptoren im Hippocampus ist kein genannter Weg zur vmPFC-Unterfunktion. Eine Blockade der GABAergen Übertragung wird in diesem Zusammenhang nicht beschrieben."
+    },
+    {
+      "topic": "vmPFC: Über- und Unterfunktion",
+      "transfer": true,
+      "question": "Ein junger Mann zeigt eine deutlich reduzierte Selbstreflektion, wenig empathisches Empfinden und Schwierigkeiten mit moralischen Wertvorstellungen und sozialer Interaktion. Welche Konstellation passt am ehesten?",
+      "options": [
+        "Eine Unterfunktion des vmPFC als möglicher Vulnerabilitätsfaktor für antisoziale oder schizoide Züge",
+        "Eine Überfunktion des vmPFC als möglicher Vulnerabilitätsfaktor für melancholische Depressivität",
+        "Eine Überfunktion der rechten Amygdala als Vulnerabilitätsfaktor für eine Angststörung",
+        "Eine Unterfunktion des Belohnungssystems als Vulnerabilitätsfaktor für Substanzkonsum"
+      ],
+      "answer": 0,
+      "explanation": "Eine verminderte Aktivität der ventromedialen präfrontalen Kortizes könnte zu verminderter Selbstwahrnehmung und Selbstreflektion führen; auch empathisches Empfinden, die Verarbeitung emotionaler Informationen, moralische Wertvorstellungen und soziale Interaktion können gestört sein – ein möglicher Vulnerabilitätsfaktor für antisoziale oder schizoide Persönlichkeitsstörungen. Eine Überfunktion würde umgekehrt Selbstwahrnehmung und Grübeln verstärken. Eine Amygdala-Überfunktion erklärt eine erhöhte Bedrohungsreaktivität, nicht die geschilderten sozialen Defizite. Die verminderte Belohnungsreaktivität betrifft Annäherungsverhalten und Substanzkonsum."
+    },
+    {
+      "topic": "Limbisches System",
+      "question": "Womit war Kindesmisshandlung in der Untersuchung an 148 Probanden funktionell verbunden?",
+      "options": [
+        "Mit einer höheren Reaktivität des Nucleus accumbens auf Belohnungshinweise",
+        "Mit einer höheren Reaktivität der rechten Amygdala auf negative Gesichtsausdrücke",
+        "Mit einer geringeren Reaktivität des auditorischen Kortex auf sprachliche Reize",
+        "Mit einer geringeren Reaktivität der rechten Amygdala auf negative Gesichtsausdrücke"
+      ],
+      "answer": 1,
+      "explanation": "Die Untersuchung mit funktioneller und struktureller MRT, SCID-Screening und Childhood Trauma Questionnaire fand, dass Kindesmisshandlung mit einer höheren Reaktivität der rechten Amygdala auf negative Gesichtsausdrücke verbunden war; eine solche Hyperreaktivität ist Eigenschaft vieler psychischer Störungen und könnte ein Vulnerabilitätsfaktor sein. Eine geringere Amygdala-Reaktivität kehrt den Befund um. Der Nucleus accumbens zeigt bei Missbrauchserfahrung eher eine verminderte Reaktivität. Veränderungen im auditorischen Kortex betreffen die Struktur nach verbalem Missbrauch, nicht diese funktionelle Messung."
+    },
+    {
+      "topic": "Limbisches System",
+      "question": "Was ergab die Metaanalyse über 30 Studien zu Misshandlungserfahrungen?",
+      "options": [
+        "Eine vollständige Uneinheitlichkeit ohne konvergierende Befunde",
+        "Eine Konvergenz der Aktivierungsmuster im rechten Hippocampus",
+        "Eine Konvergenz der Aktivierungsmuster in der linken Amygdala",
+        "Eine Konvergenz der Volumenbefunde im linken auditorischen Kortex"
+      ],
+      "answer": 2,
+      "explanation": "Metaanalytisch zeigte sich über 30 eingeschlossene Studien mit verschiedenen Arten erfahrener Misshandlung eine Konvergenz der Aktivierungsmuster in der linken Amygdala; diskutiert wird eine adaptive Anpassung an chronische Bedrohung, die zur Fehlanpassung wird, wenn sie auf nicht bedrohliche Umgebungen übertragen wird. Der rechte Hippocampus erscheint in den Volumenbefunden, nicht in dieser Aktivierungs-Metaanalyse. Der auditorische Kortex gehört zu den missbrauchsspezifischen Strukturbefunden. Eine vollständige Uneinheitlichkeit widerspricht der berichteten Konvergenz."
+    },
+    {
+      "topic": "Limbisches System",
+      "question": "Welcher strukturelle Zusammenhang bestand mit der Schwere der Kindesmisshandlung?",
+      "options": [
+        "Ein negativer Zusammenhang mit dem Volumen der grauen Substanz im rechten Hippocampus",
+        "Ein positiver Zusammenhang mit dem Volumen der weißen Substanz im Corpus callosum",
+        "Ein positiver Zusammenhang mit dem Volumen der grauen Substanz im rechten Hippocampus",
+        "Ein negativer Zusammenhang mit der Dicke des primären motorischen Kortex beider Seiten"
+      ],
+      "answer": 0,
+      "explanation": "Es zeigte sich ein negativer Zusammenhang zwischen der Schwere der Kindesmisshandlung und dem Volumen der grauen Substanz im rechten Hippocampus; der Hippocampus gilt als besonders anfällig für die schädlichen Effekte chronischen Stresses, und ein vermindertes Volumen wurde mehrfach mit erhöhtem Depressionsrisiko assoziiert. Ein positiver Zusammenhang kehrt die Befundrichtung um. Der primäre motorische Kortex und das Corpus callosum werden in diesem Zusammenhang nicht berichtet."
+    },
+    {
+      "topic": "Limbisches System",
+      "hard": true,
+      "question": "Welche Einschränkung nennt die Vorlesung für diese Untersuchung an 148 Probanden?",
+      "options": [
+        "Die Stichprobe umfasste ausschließlich Personen mit einer bereits gestellten psychiatrischen Diagnose",
+        "Die Misshandlungserfahrungen wurden ausschließlich über Fremdauskunft der Eltern erhoben",
+        "Die Stichprobe reichte nicht aus, um belastbare Aussagen zu einzelnen Misshandlungsarten zu treffen",
+        "Es fehlte eine strukturelle Bildgebung, sodass nur funktionelle Aussagen möglich waren"
+      ],
+      "answer": 2,
+      "explanation": "Obwohl die Stichprobengröße mit 148 Probanden angemessen war, reichte sie nicht aus, um belastbare Aussagen zu einzelnen Arten von Missbrauch und Vernachlässigung zu treffen – genau daran schließt die Frage nach missbrauchsspezifischen Effekten an. Es wurde ausdrücklich nach psychischen Störungen gescreent, die Stichprobe bestand also nicht nur aus Diagnostizierten. Es kamen sowohl funktionelle als auch strukturelle MRT zum Einsatz. Die Erfassung erfolgte mit dem Childhood Trauma Questionnaire, also im Selbstbericht."
+    },
+    {
+      "topic": "Missbrauchsspezifische Effekte",
+      "hard": true,
+      "transfer": true,
+      "trap": "Hier ist das Volumen erhöht, nicht reduziert – anders als bei den übrigen missbrauchsspezifischen Befunden.",
+      "question": "Eine junge Frau berichtet über jahrelange elterliche verbale Aggression. Welches strukturelle Muster ist nach Teicher am ehesten zu erwarten?",
+      "options": [
+        "Reduziertes Volumen in somatosensorischen Arealen und erhöhte Integrität des Corpus callosum",
+        "Reduziertes Volumen im auditorischen Kortex und erhöhte Integrität des linken Fasciculus arcuatus",
+        "Erhöhtes Volumen im auditorischen Kortex und reduzierte Integrität des linken Fasciculus arcuatus",
+        "Reduziertes Volumen in frühen visuellen Arealen und reduzierte Integrität des Fasciculus longitudinalis"
+      ],
+      "answer": 2,
+      "explanation": "Elterlicher verbaler Missbrauch ist mit einem erhöhten Volumen der grauen Substanz im auditorischen Kortex sowie einer reduzierten fraktionellen Anisotropie des linken Fasciculus arcuatus assoziiert, der unter anderem Wernicke- und Broca-Areal verbindet. Die Umkehrung beider Richtungen widerspricht dem Befund. Reduziertes Volumen in frühen visuellen Arealen mit betroffenem Fasciculus longitudinalis gehört zur Bezeugung häuslicher Gewalt. Veränderungen somatosensorischer Areale werden mit sexuellem Missbrauch in Verbindung gebracht."
+    },
+    {
+      "topic": "Missbrauchsspezifische Effekte",
+      "transfer": true,
+      "question": "Ein Patient hat als Kind zahlreiche Episoden häuslicher Gewalt visuell mit angesehen. Welche strukturellen Veränderungen sind am ehesten zu erwarten?",
+      "options": [
+        "Reduziertes Volumen des auditorischen Kortex und reduzierte Integrität des linken Fasciculus arcuatus",
+        "Erhöhtes Volumen somatosensorischer Areale und erhöhte Integrität des Fasciculus longitudinalis",
+        "Erhöhtes Volumen des Hippocampus bei unveränderter Integrität aller Assoziationsbahnen",
+        "Reduziertes Volumen früher visueller Areale und reduzierte Integrität des linken Fasciculus longitudinalis"
+      ],
+      "answer": 3,
+      "explanation": "Die visuelle Bezeugung zahlreicher Episoden häuslicher Gewalt ist mit einem reduzierten Volumen der grauen Substanz in frühen visuellen Arealen und einer reduzierten Integrität des linken Fasciculus longitudinalis assoziiert, der unter anderem eine visuell-limbische Verbindung darstellt. Der auditorische Kortex und der Fasciculus arcuatus betreffen den verbalen Missbrauch. Erhöhte Volumina somatosensorischer Areale widersprechen der berichteten Reduktion nach sexuellem Missbrauch. Ein vergrößerter Hippocampus widerspricht der bei Misshandlung berichteten Volumenminderung."
+    },
+    {
+      "topic": "Missbrauchsspezifische Effekte",
+      "question": "Welcher spezifische Strukturbefund wird für sexuellen Missbrauch berichtet?",
+      "options": [
+        "Reduktion der grauen Substanz in somatosensorischen Arealen der genitalen Repräsentation",
+        "Vergrößerung der grauen Substanz in somatosensorischen Arealen der genitalen Repräsentation",
+        "Reduktion der grauen Substanz ausschließlich im auditorischen Assoziationskortex",
+        "Vergrößerung der weißen Substanz im linken Fasciculus arcuatus und im Corpus callosum"
+      ],
+      "answer": 0,
+      "explanation": "Sexueller Missbrauch ist mit einer Reduktion der grauen Substanz in frühen und späten visuellen Arealen sowie in Teilen der somatosensorischen Kortizes assoziiert, die die Klitoris und benachbarte genitale Bereiche repräsentieren. Eine Vergrößerung dieser Areale kehrt den Befund um. Der auditorische Assoziationskortex betrifft den verbalen Missbrauch, und dort ist das Volumen erhöht. Eine Vergrößerung der weißen Substanz wird für keine der Missbrauchsformen berichtet."
+    },
+    {
+      "topic": "Missbrauchsspezifische Effekte",
+      "question": "Welche Schlussfolgerung zieht die Vorlesung aus den missbrauchsspezifischen Befunden?",
+      "options": [
+        "Es scheint kurze sensitive Perioden zu geben, in denen bestimmte Misshandlungsarten auf bestimmte Regionen wirken",
+        "Alle Misshandlungsarten wirken über die gesamte Kindheit hinweg gleichförmig auf dieselben Hirnregionen",
+        "Die Art der Misshandlung ist für die Hirnveränderungen ohne jede Bedeutung, entscheidend ist allein die Dauer",
+        "Die Befunde lassen sich vollständig auf eine allgemeine Reduktion der weißen Substanz zurückführen"
+      ],
+      "answer": 0,
+      "explanation": "Das Fazit hält fest, dass die Effekte wesentlich durch Art und Ausmaß der Misshandlung bedingt sind und es offenbar kurze sensitive Perioden gibt, in denen bestimmte Arten der Misshandlung auf bestimmte Hirnregionen wirken. Eine gleichförmige Wirkung aller Arten auf dieselben Regionen widerspricht den regionsspezifischen Befunden. Dass die Art bedeutungslos sei, steht im direkten Gegensatz zum Fazit. Eine Rückführung auf eine allgemeine Reduktion der weißen Substanz greift zu kurz, da auch graue Substanz und Funktion betroffen sind."
+    },
+    {
+      "topic": "Adaptation, Amygdala und Belohnung",
+      "hard": true,
+      "question": "Wie verändern Misshandlungserfahrungen in der Kindheit nach Teicher die Reizverarbeitung?",
+      "options": [
+        "Sowohl die Verarbeitung bewusster aversiver Reize als auch die unbewusster Gefahrensignale wird vermindert",
+        "Die Verarbeitung bewusster aversiver Reize wird vermindert, die unbewusster Gefahrensignale verstärkt",
+        "Die Verarbeitung bewusster aversiver Reize wird verstärkt, die unbewusster Gefahrensignale vermindert",
+        "Sowohl die Verarbeitung bewusster aversiver Reize als auch die unbewusster Gefahrensignale wird verstärkt"
+      ],
+      "answer": 1,
+      "explanation": "Die Reduktion der Hirnsubstanz in sensorischen Arealen betrifft hauptsächlich die bewusste Reizverarbeitung, während die schnelle, unbewusste Verarbeitung erhalten bleibt beziehungsweise die häufig berichtete erhöhte Amygdalaresponsivität erklärt. Eine verstärkte bewusste bei verminderter unbewusster Verarbeitung kehrt beide Richtungen um. Eine durchgehende Verstärkung übersieht die Reduktion in den Wahrnehmungsarealen. Eine durchgehende Verminderung widerspricht der erhöhten Amygdalareaktivität."
+    },
+    {
+      "topic": "Adaptation, Amygdala und Belohnung",
+      "question": "Welche Annahme leitet Teicher aus den Veränderungen in den Wahrnehmungsarealen ab?",
+      "options": [
+        "Eine adaptive Anpassung, die über verstärkte bewusste Wahrnehmung aversiver Reize das Leid intensiviert",
+        "Eine adaptive Anpassung, die vor allem zu einer gesteigerten Gedächtniskonsolidierung führt",
+        "Eine unspezifische Schädigung ohne jeden erkennbaren Anpassungswert für den Organismus",
+        "Eine adaptive Anpassung, die über verminderte bewusste Wahrnehmung aversiver Reize das Leid reduziert"
+      ],
+      "answer": 3,
+      "explanation": "Eine Reduktion der Hirnsubstanz in sensorischen Arealen und der Verbindungen zu nachfolgenden Assoziationsarealen könnte eine adaptive Anpassung darstellen: Wiederholte aversive Reize aus der Umwelt werden weniger effizient verarbeitet, was das Leid reduziert. Eine verstärkte bewusste Wahrnehmung mit intensiviertem Leid kehrt die Logik um. Eine gesteigerte Gedächtniskonsolidierung wird in diesem Zusammenhang nicht abgeleitet. Eine unspezifische Schädigung ohne Anpassungswert widerspricht der ausdrücklich adaptiven Deutung."
+    },
+    {
+      "topic": "Adaptation, Amygdala und Belohnung",
+      "transfer": true,
+      "question": "Bei einem Patienten mit Missbrauchserfahrung finden sich eine erhöhte Sensitivität für potenziell gefährliche Situationen und eine verminderte Belohnungsantizipation. Welche Verhaltensfolge ist am ehesten zu erwarten?",
+      "options": [
+        "Eine Verschiebung der Balance zwischen Annäherung und Vermeidung in Richtung Annäherung",
+        "Eine Verschiebung der Balance zwischen Annäherung und Vermeidung in Richtung Vermeidung",
+        "Eine Verschiebung zwischen selektiver Aufmerksamkeit und kognitiver Flexibilität zugunsten der Flexibilität",
+        "Eine Verschiebung zwischen sozialer Verträglichkeit und Aggressivität zugunsten der Verträglichkeit"
+      ],
+      "answer": 1,
+      "explanation": "Eine erhöhte Sensitivität für potenziell gefährliche Situationen bei gleichzeitig verminderter Belohnungsantizipation verschiebt die Balance zwischen Annäherungs- und Vermeidungsverhalten in Richtung Vermeidung – in bedrohlichen Umgebungen möglicherweise eine potente protektive Adaptation. Eine Verschiebung zur Annäherung kehrt beide Effekte um. Eine Verschiebung zugunsten kognitiver Flexibilität wird nicht abgeleitet. Eine gesteigerte soziale Verträglichkeit entspricht nicht dem beschriebenen Vermeidungsmuster."
+    },
+    {
+      "topic": "Adaptation, Amygdala und Belohnung",
+      "question": "Welche Schlüsselregionen nennt die Vorlesung für die verminderte Reaktivität des Belohnungssystems?",
+      "options": [
+        "Dorsolateraler Präfrontalkortex, Precuneus und Gyrus angularis",
+        "Hippocampus, Gyrus parahippocampalis und Corpora mamillaria",
+        "Locus coeruleus, Raphe-Kerne und der paraventrikuläre Nukleus",
+        "Nucleus accumbens, ventrale tegmentale Area und Substantia nigra"
+      ],
+      "answer": 3,
+      "explanation": "Als Schlüsselregionen der mesolimbischen und striatalen Belohnungsverarbeitung werden Nucleus accumbens, ventrale tegmentale Area und Substantia nigra genannt; weitere Projektionsgebiete dopaminerger Neurone sind unter anderem ACC, orbitaler Präfrontalkortex, Amygdala und Hippocampus. Hippocampus, Gyrus parahippocampalis und Corpora mamillaria bilden einen Gedächtniskreis. Dorsolateraler Präfrontalkortex, Precuneus und Gyrus angularis gehören zu kortikalen Netzwerken höherer Ordnung. Locus coeruleus, Raphe-Kerne und paraventrikulärer Nukleus gehören zu den Stresssystemen."
+    },
+    {
+      "topic": "Adaptation, Amygdala und Belohnung",
+      "question": "Welcher Zusammenhang wird zwischen dem Alter der verbalen Misshandlung unter Gleichaltrigen und der Hirnreifung hergestellt?",
+      "options": [
+        "Die verbale Misshandlung kulminiert lange vor dem Beginn jeder aktiven Myelinisierung",
+        "Zwischen dem Alter der verbalen Misshandlung und der Myelinisierung besteht kein Bezug",
+        "Die verbale Misshandlung kulminiert erst deutlich nach dem vollständigen Abschluss der aktiven Myelinisierung",
+        "Die verbale Misshandlung kulminiert etwa zu der Zeit, in der die aktive Myelinisierung ihren Spitzenwert erreicht"
+      ],
+      "answer": 3,
+      "explanation": "Mit etwa 13 Jahren berichten rund ein Viertel der Jugendlichen von verbaler Misshandlung, und in der Zeit zwischen 7 und 13 Jahren erreicht auch die aktive Myelinisierung einen Spitzenwert – in dieser Phase ist sie besonders vulnerabel. Ein Kulminieren deutlich nach Abschluss der Myelinisierung oder lange vor deren Beginn widerspricht dieser zeitlichen Überschneidung. Dass kein Bezug bestünde, hebt gerade die Kernaussage der Untersuchung auf."
+    }
+  ]
+}

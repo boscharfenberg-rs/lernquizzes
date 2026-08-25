@@ -647,6 +647,13 @@
       "title": "Stress",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Stressbegriff, periphere Stressreaktion, LC-NA-System, HHNA im Detail, MR vs. GR, Darm-Hirn-Achse sowie Stresswirkungen auf Hirnfunktion und -struktur."
+    },
+    {
+      "id": "kan-misshandlung-vernachlaessigung",
+      "file": "kan-misshandlung-vernachlaessigung.json",
+      "title": "Missbrauch und Vernachlässigung in der Kindheit",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Formen der Misshandlung, Dysregulation der Stresssysteme, FKBP5 und Epigenetik, vmPFC-Über- und -Unterfunktion, limbische und missbrauchsspezifische Veränderungen, adaptive Anpassung."
     }
   ]
 }
