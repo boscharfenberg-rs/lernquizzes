@@ -1,0 +1,419 @@
+{
+  "id": "ptv3-achtsamkeit-grundlagen",
+  "title": "Achtsamkeit I – Wellen der VT & Grundlagen",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "30 Single-Choice-Items (5 Optionen, Altklausur-Stil) zu Deck 1: Wellen der Verhaltenstherapie, Autopilot und Rumination, metakognitive Denkprozesse, buddhistische Wurzeln der Achtsamkeit.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "trap": "Achtsamkeit klingt nach „neu“ – sie kennzeichnet aber die dritte, nicht die zweite Welle.",
+      "question": "Auf welche psychologische Qualität sind die Verfahren der so genannten „zweiten Welle“ der Verhaltenstherapie am ehesten ausgerichtet?",
+      "options": [
+        "Emotionen und deren Akzeptanz",
+        "Gedanken und Bewertungen",
+        "Achtsamkeit als Grundhaltung",
+        "Offen beobachtbares Verhalten",
+        "Assoziative Gedächtnisnetzwerke"
+      ],
+      "answer": 1,
+      "explanation": "Die Vorlesung ordnet den drei Wellen je eine psychologische Qualität zu: erste Welle Verhalten, zweite (kognitiv-behaviorale) Welle Gedanken, dritte Welle Emotionen. Offen beobachtbares Verhalten kennzeichnet die behaviorale Phase, also die erste Welle. Emotionen und Achtsamkeit als Grundhaltung werden erst der dritten Welle zugeschrieben. Assoziative Gedächtnisnetzwerke sind kein Ordnungsmerkmal der Wellen, sondern ein Modellbegriff aus dem Rückfallgeschehen."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "question": "Welche Aussage kennzeichnet die behaviorale Phase der Verhaltenstherapie am ehesten?",
+      "options": [
+        "Sie gewann ihre zentralen Erkenntnisse aus der Introspektion der Patientinnen und Patienten.",
+        "Sie integrierte kognitive Elemente, behielt den Schwerpunkt aber auf der Veränderung des Verhaltens bei.",
+        "Sie richtete sich auf die Veränderung beobachtbaren Verhaltens und entstand aus der Anwendung von Lerntheorien.",
+        "Sie rückte die Bedeutung von Gedanken und Bewertungen erstmals in den Mittelpunkt der Behandlung.",
+        "Sie stellte Achtsamkeit und Akzeptanz in den Mittelpunkt und berücksichtigte verschiedene Patientengruppen."
+      ],
+      "answer": 2,
+      "explanation": "Die behaviorale Phase ist über den Fokus auf beobachtbares Verhalten und die Herkunft aus den Lerntheorien definiert. Die Integration kognitiver Elemente bei fortbestehendem Verhaltensschwerpunkt beschreibt die spätere kognitiv-behaviorale Phase. Das erstmalige Betonen von Gedanken und Bewertungen ist die kognitive Wende. Erkenntnis aus Introspektion ist gerade die Position der Psychoanalyse, mit der die behaviorale Phase im Konflikt stand. Achtsamkeit, Akzeptanz und die Berücksichtigung verschiedener Patientengruppen gehören zu den neueren Entwicklungen der dritten Welle."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "hard": true,
+      "question": "Worin bestand laut Vorlesung der Kern des Konflikts zwischen der behavioralen Phase und der Psychoanalyse am ehesten?",
+      "options": [
+        "Die Psychoanalyse setzte auf Gruppenprogramme, die behaviorale Phase ausschließlich auf das Einzelsetting.",
+        "Die Psychoanalyse stützte ihre Erkenntnis auf Introspektion, die behaviorale Phase auf beobachtbares Verhalten.",
+        "Die Psychoanalyse betonte Achtsamkeit und Akzeptanz, die behaviorale Phase lehnte beide Konzepte ausdrücklich ab.",
+        "Die Psychoanalyse nutzte Lerntheorien, die behaviorale Phase leitete ihr Vorgehen aus der Bindungstheorie ab.",
+        "Die Psychoanalyse arbeitete streng manualisiert, die behaviorale Phase individualisierte ihr Vorgehen konsequent."
+      ],
+      "answer": 1,
+      "explanation": "Die Folien nennen als Konfliktpunkt die unterschiedliche Erkenntnisquelle: Introspektion auf Seiten der Psychoanalyse gegenüber dem beobachtbaren Verhalten der Verhaltenstherapie. Manualisierung gegenüber Individualisierung ist eine Debatte innerhalb der Verhaltenstherapie und wird erst als Treiber der dritten Welle genannt. Achtsamkeit und Akzeptanz spielten zu dieser Zeit in keiner der beiden Schulen eine Rolle. Die Lerntheorien sind gerade die Grundlage der behavioralen Phase, nicht der Psychoanalyse. Das Setting war kein Streitpunkt zwischen den Schulen."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "question": "Welche Aussage über die kognitiv-behaviorale Phase trifft am ehesten zu?",
+      "options": [
+        "Der Ansatz blieb im deutschsprachigen Raum eine Randerscheinung und ist empirisch kaum untersucht.",
+        "Kognitive Elemente lösten die verhaltensbezogenen Interventionen als Schwerpunkt weitgehend ab.",
+        "Der Ansatz verzichtete bewusst auf lerntheoretische Grundlagen zugunsten der Introspektion.",
+        "Der Ansatz stellte Achtsamkeit und Akzeptanz als tragende Wirkprinzipien in den Vordergrund.",
+        "Kognitive Elemente wurden integriert, der Schwerpunkt lag jedoch weiterhin auf der Verhaltensänderung."
+      ],
+      "answer": 4,
+      "explanation": "Die kognitiv-behaviorale Phase integriert kognitive Elemente, hält aber am Schwerpunkt Verhaltensänderung fest. Eine Ablösung der verhaltensbezogenen Interventionen fand gerade nicht statt. Die Folien betonen ausdrücklich, dass der Ansatz in Deutschland weit verbreitet und gut erforscht ist. Ein Verzicht auf Lerntheorien zugunsten der Introspektion widerspricht der verhaltenstherapeutischen Tradition insgesamt. Achtsamkeit und Akzeptanz als tragende Wirkprinzipien kennzeichnen erst die dritte Welle."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "question": "Welche Ansätze nennt die Vorlesung als neue Entwicklungen, die den Übergang zur dritten Welle markieren?",
+      "options": [
+        "Gesprächspsychotherapie, Gestalttherapie und das klassische Psychodrama",
+        "Systematische Desensibilisierung, Token-Ökonomie und Reizkonfrontation mit Reaktionsverhinderung",
+        "Rational-Emotive Therapie, kognitive Therapie und das Selbstinstruktionstraining",
+        "Schematherapie, Dialektisch-Behaviorale Therapie und Akzeptanz- und Commitmenttherapie",
+        "Objektbeziehungstheorie, Individualpsychologie und die analytische Psychologie"
+      ],
+      "answer": 3,
+      "explanation": "Als neue Ansätze der jüngeren Entwicklungsphase werden Schematherapie, DBT und ACT genannt, verbunden mit der Berücksichtigung unterschiedlicher Patientengruppen und der Integration von Achtsamkeit und Akzeptanz. Systematische Desensibilisierung, Token-Ökonomie und Reizkonfrontation stammen aus der behavioralen Phase. Rational-Emotive Therapie, kognitive Therapie und Selbstinstruktionstraining gehören zur kognitiven Wende beziehungsweise zur kognitiv-behavioralen Phase. Gesprächspsychotherapie, Gestalttherapie und Psychodrama sind humanistische Verfahren außerhalb dieser Wellenlogik. Objektbeziehungstheorie, Individualpsychologie und analytische Psychologie sind psychodynamische Schulen."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "hard": true,
+      "question": "Welcher der folgenden Punkte zählt NICHT zu den in der Vorlesung genannten Gründen für die Entwicklung der dritten Welle?",
+      "options": [
+        "Der Nachweis einer klar überlegenen Wirksamkeit der Verhaltenstherapie gegenüber anderen Schulen",
+        "Die Erkenntnis, dass auch andere Therapieschulen sinnvolle Konzepte und Herangehensweisen bieten",
+        "Die Spannung zwischen individualisierten und standardisierten Therapierationalen",
+        "Die eingeschränkte Messbarkeit komplexerer psychischer Konstrukte wie der therapeutischen Beziehung",
+        "Der therapeutische Wunsch nach einer weniger mechanistischen und reduktionistischen Arbeitsweise"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien nennen das Gegenteil: Kontrolliert man für methodische Unzulänglichkeiten, zeigt sich eine vergleichbare Wirksamkeit zwischen den Therapieschulen – gerade das war ein Anstoß, über den eigenen Ansatz hinauszuschauen. Der Wunsch nach weniger mechanistischer Arbeitsweise, die eingeschränkte Messbarkeit komplexer Konstrukte wie therapeutische Beziehung, Bindungswunsch oder Selbstaufmerksamkeit, die Anerkennung sinnvoller Konzepte anderer Schulen und die Spannung zwischen individualisierten und standardisierten Rationalen werden dagegen alle ausdrücklich aufgeführt."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "transfer": true,
+      "question": "Eine Therapeutin kritisiert, dass sich die therapeutische Beziehung, der Bindungswunsch und die Selbstaufmerksamkeit ihrer Patienten in keinem Manual sinnvoll abbilden lassen. Welcher Grund für die Entwicklung der dritten Welle spricht aus dieser Kritik am ehesten?",
+      "options": [
+        "Die Berücksichtigung unterschiedlicher Patientengruppen",
+        "Die vergleichbare Wirksamkeit der verschiedenen Therapieschulen",
+        "Die Integration von Achtsamkeit und Akzeptanz in die Behandlung",
+        "Der Wunsch nach standardisierten statt individualisierten Rationalen",
+        "Die eingeschränkte Messbarkeit komplexerer psychischer Konstrukte"
+      ],
+      "answer": 4,
+      "explanation": "Genau die genannten Konstrukte – therapeutische Beziehung, Bindungswunsch, Selbstaufmerksamkeit, Emotionen – führt die Vorlesung als Beispiele für schwer messbare komplexe Konstrukte an. Die vergleichbare Wirksamkeit der Schulen ist ein eigener, hier nicht angesprochener Punkt. Die Berücksichtigung unterschiedlicher Patientengruppen betrifft die Zielgruppen, nicht die Messbarkeit. Die Integration von Achtsamkeit und Akzeptanz beschreibt den Inhalt der neuen Verfahren, nicht die Kritik am Messen. Der Wunsch ging umgekehrt in Richtung individualisierter statt standardisierter Rationale."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "hard": true,
+      "trap": "Die Nennung erfolgt im Abschnitt „wird nicht von allen freudig aufgenommen“ – also als Kritik, nicht als Begründung der dritten Welle.",
+      "question": "Wofür stehen Tuschen-Caffier und Hoyer in der Debatte über die dritte Welle am ehesten?",
+      "options": [
+        "Für eine kritische Stimme, die die dritte Welle nicht als eigenständigen Umbruch begrüßt",
+        "Für die Begründung der dritten Welle als eigenständige Therapiegeneration mit neuem Menschenbild",
+        "Für die Entwicklung eines Rückfallprophylaxe-Verfahrens bei rezidivierenden Depressionen",
+        "Für die Ausarbeitung der sechs Kernprozesse der Akzeptanz- und Commitmenttherapie",
+        "Für die erste Übertragung buddhistischer Achtsamkeitspraxis in ein klinisches Gruppenprogramm"
+      ],
+      "answer": 0,
+      "explanation": "Die Autoren werden auf der Folie zur Frage „Dritte Welle oder Evolution?“ unter dem Hinweis zitiert, dass die Rede von einer dritten Welle nicht von allen freudig aufgenommen wird – sie stehen also für die kritische Position. Als Begründer einer neuen Therapiegeneration werden sie gerade nicht angeführt. Die Übertragung buddhistischer Praxis in ein klinisches Gruppenprogramm geht auf Kabat-Zinn und die MBSR zurück. Das Rückfallprophylaxe-Verfahren bei Depression ist die MBCT. Die sechs Kernprozesse im HexaFlex gehören zur ACT."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "question": "In welcher Reihenfolge ordnet die Vorlesung den drei Wellen der KVT die jeweils betonte psychologische Qualität zu?",
+      "options": [
+        "Emotionen → Verhalten → Gedanken",
+        "Verhalten → Emotionen → Gedanken",
+        "Verhalten → Gedanken → Emotionen",
+        "Gedanken → Verhalten → Emotionen",
+        "Gedanken → Emotionen → Verhalten"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien führen die Wellen als behaviorale Phase (Verhalten), kognitiv-behaviorale Phase (Gedanken) und dritte Welle (Emotionen, gekennzeichnet durch Achtsamkeit und Akzeptanz) auf. Alle übrigen Reihenfolgen verdrehen diese Abfolge: Die kognitive Betonung kam nach der behavioralen Phase und nicht davor, und die emotionsbezogene Betonung steht am Ende der Entwicklung, nicht am Anfang oder in der Mitte."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "question": "Welcher Aspekt wird in der Debatte „dritte Welle oder Evolution?“ als Merkmal der neueren Ansätze besonders betont?",
+      "options": [
+        "Kontextuelle und experientielle Aspekte des Erlebens",
+        "Die Rückführung psychischer Störungen auf klassische Konditionierung",
+        "Die strikte Trennung von Emotion, Kognition und Verhalten",
+        "Die Erfassung unbewusster Konflikte mithilfe der Introspektion",
+        "Die Standardisierung der Therapierationale über alle Störungen hinweg"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie zur Debatte hebt hervor, dass in den neuen Ansätzen kontextuelle und experientielle Aspekte betont werden. Eine Standardisierung über alle Störungen hinweg widerspricht dem Wunsch nach individualisierten Rationalen. Die Rückführung auf klassische Konditionierung kennzeichnet die behaviorale Phase. Die Erfassung unbewusster Konflikte über Introspektion ist die psychoanalytische Position, von der sich die Verhaltenstherapie abgrenzte. Eine strikte Trennung der drei Ebenen wird nicht betont, sondern eher deren Zusammenspiel."
+    },
+    {
+      "topic": "Wellen der Verhaltenstherapie",
+      "transfer": true,
+      "question": "Eine Klinik entwickelt drei getrennte achtsamkeitsbasierte Gruppenprogramme: eines für Menschen mit chronischen Schmerzen, eines für Menschen mit Suchterkrankungen und eines für ehemals depressive Patientinnen. Welches Merkmal der neueren Entwicklungen in der Verhaltenstherapie zeigt sich darin am ehesten?",
+      "options": [
+        "Die Ablösung der Lerntheorien durch die Introspektion",
+        "Die Bevorzugung von Einzel- gegenüber Gruppensettings",
+        "Die Berücksichtigung unterschiedlicher Patientengruppen",
+        "Die Beschränkung auf offen beobachtbares Problemverhalten",
+        "Die Vereinheitlichung aller Programme zu einem Manual"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien nennen für die neueren Entwicklungen ausdrücklich die Berücksichtigung unterschiedlicher Patientengruppen – genau das geschieht hier durch den störungsspezifischen Zuschnitt. Eine Ablösung der Lerntheorien durch Introspektion findet in keinem dieser Verfahren statt. Eine Vereinheitlichung zu einem Manual wäre das Gegenteil der beschriebenen Differenzierung. Die Beschränkung auf beobachtbares Problemverhalten kennzeichnet die behaviorale Phase. Achtsamkeitsbasierte Programme sind gerade als Gruppenprogramme konzipiert."
+    },
+    {
+      "topic": "Achtsamkeit im Zeitgeist",
+      "transfer": true,
+      "question": "Ein Student isst sein Mittagessen vor dem Laptop und kann sich hinterher weder an den Geschmack noch an das Sättigungsgefühl erinnern. Welche Beobachtung aus der Vorlesung illustriert das am ehesten?",
+      "options": [
+        "Das kontrafaktische Denken über vergangene Entscheidungen",
+        "Die retrograde Logik nach eingetretenen Konsequenzen",
+        "Das Grübeln trotz ausbleibender Antworten",
+        "Den „Autopilotenmodus“ des alltäglichen Erlebens",
+        "Das Bedrohungsmonitoring gegenüber aversiven Reizen"
+      ],
+      "answer": 3,
+      "explanation": "Der Autopilotenmodus beschreibt genau dieses unbewusste Abspulen alltäglicher Verrichtungen – die Vorlesung illustriert ihn mit der Frage, wann man zuletzt bewusst einen Kakao mit allen Sinnen genossen hat. Kontrafaktisches Denken wäre ein Ausmalen, wie es anders hätte laufen können, was hier nicht vorkommt. Bedrohungsmonitoring meint das Überwachen aversiver Reize, nicht das unaufmerksame Essen. Retrograde Logik setzt Selbstvorwürfe nach bekannten Konsequenzen voraus. Grübeln erfordert anhaltendes Nachdenken über eine Frage, während hier gerade nicht nachgedacht wird."
+    },
+    {
+      "topic": "Achtsamkeit im Zeitgeist",
+      "question": "Welche Rolle spielt die Rumination laut Vorlesung bei einigen psychischen Störungen, etwa der chronischen Depression, am ehesten?",
+      "options": [
+        "Sie beschleunigt die Remission, weil anstehende Probleme dabei systematisch gelöst werden.",
+        "Sie tritt vor allem bei akuten Belastungsreaktionen auf und klingt meist von selbst wieder ab.",
+        "Sie schützt vor Rückfällen, indem vergangene Episoden gedanklich durchgearbeitet werden.",
+        "Sie hält die Störung aufrecht, weil das Erleben in Vergangenheit und Zukunft verharrt.",
+        "Sie ist ein Merkmal der Achtsamkeit, weil die Aufmerksamkeit dabei nach innen gerichtet wird."
+      ],
+      "answer": 3,
+      "explanation": "Die Folien nennen Rumination ausdrücklich als zentral für die Aufrechterhaltung der Störung und beschreiben chronische Depression als „Leben in der Vergangenheit und Zukunft“. Eine schützende oder remissionsfördernde Funktion wird ihr gerade nicht zugeschrieben – Grübeln gilt als erfolgloser Lösungsversuch. Eine Beschränkung auf akute Belastungsreaktionen mit spontanem Abklingen widerspricht der Zuordnung zu chronischen Verläufen. Achtsamkeit ist das Gegenstück zur Rumination: Sie richtet die Aufmerksamkeit auf den gegenwärtigen Moment statt auf gedankliche Zeitreisen."
+    },
+    {
+      "topic": "Achtsamkeit im Zeitgeist",
+      "question": "Wie wird Achtsamkeit in der Vorlesung definiert?",
+      "options": [
+        "Die Aufmerksamkeit bewusst auf den aktuellen Moment lenken, mit offener, akzeptierender Grundhaltung",
+        "Die eigenen Gedanken auf ihren Realitätsgehalt prüfen und verzerrte Bewertungen gezielt umstrukturieren",
+        "Erinnerungen an belastende Erfahrungen wiederholt aufsuchen, bis die emotionale Reaktion nachlässt",
+        "Unangenehme Gefühle bewusst unterdrücken, bis die auslösende Situation vorübergegangen ist",
+        "Die Aufmerksamkeit systematisch auf künftige Anforderungen richten, um Belastungen früh einplanen zu können"
+      ],
+      "answer": 0,
+      "explanation": "Die Definition der Folien lautet, die Aufmerksamkeit bewusst auf den aktuellen Moment zu lenken, mit einer offenen und akzeptierenden Grundhaltung gegenüber eigenen Erfahrungen, Gedanken und Gefühlen. Das Ausrichten auf künftige Anforderungen ist gerade das gedankliche Vorwegnehmen, dem Achtsamkeit entgegenwirkt. Das Prüfen und Umstrukturieren von Bewertungen ist klassische kognitive Therapie. Unterdrückung von Gefühlen widerspricht dem Prinzip der Annahme statt Unterdrückung. Das wiederholte Aufsuchen belastender Erinnerungen beschreibt eine Expositionslogik."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "trap": "Klassisch kognitiv zielt man auf den Inhalt der Gedanken – die metakognitive Perspektive richtet sich auf die Struktur des Denkprozesses.",
+      "question": "Welche Grundannahme vertritt die metakognitive Perspektive hinsichtlich der Begünstigung von Depressionen?",
+      "options": [
+        "Entscheidend ist der Inhalt der negativen Grundannahmen über das eigene Selbst",
+        "Entscheidend ist die Anzahl belastender Lebensereignisse in der Vorgeschichte",
+        "Entscheidend ist, wie jemand denkt, und nicht, was er denkt",
+        "Entscheidend ist die Verfügbarkeit sozialer Unterstützung im näheren Umfeld",
+        "Entscheidend ist das Ausmaß der Vermeidung angenehmer Aktivitäten im Alltag"
+      ],
+      "answer": 2,
+      "explanation": "Die Folie stellt ausdrücklich fest, dass strukturelle Prozesse Depressionen begünstigen: Wie man denkt, ist entscheidend, nicht was man denkt. Der Inhalt negativer Grundannahmen ist der Ansatzpunkt der klassischen kognitiven Therapie und gerade nicht der metakognitive Fokus. Die Zahl belastender Lebensereignisse, das Ausmaß der Aktivitätsvermeidung und die soziale Unterstützung sind klinisch relevante Faktoren, werden hier aber nicht als strukturelles Kennzeichen des Denkens genannt."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "transfer": true,
+      "trap": "Retrograde Logik wäre der Selbstvorwurf nach bekannten Konsequenzen; hier geht es um ein ausgemaltes „was wäre gewesen, wenn“.",
+      "question": "Eine Patientin beschäftigt sich seit Monaten damit, wie ihr Leben verlaufen wäre, wenn sie das Stellenangebot damals angenommen hätte. Welcher strukturelle Denkprozess liegt am ehesten vor?",
+      "options": [
+        "Bedrohungsmonitoring",
+        "Sorgen in Form von Gedankenketten",
+        "Vermeidung korrektiver Erfahrungen",
+        "Retrograde Logik",
+        "Kontrafaktisches Denken"
+      ],
+      "answer": 4,
+      "explanation": "Kontrafaktisches Denken ist auf den Folien als Beschäftigung mit Vorstellungen definiert, wie die Dinge sein könnten, wenn man sich anders verhalten hätte – das „Reiten toter Pferde“. Retrograde Logik meint Selbstvorwürfe, nachdem die Konsequenzen bereits klar sind, was hier nicht der Fall ist. Bedrohungsmonitoring bezieht sich auf das Überwachen aversiver Reize. Sorgen sind Gedankenketten über unwahrscheinliche künftige Ereignisse, nicht über vergangene Weichenstellungen. Die Vermeidung korrektiver Erfahrungen betrifft das Umgehen neuer Erfahrungen, nicht das gedankliche Ausmalen."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Patient wirft sich nach einem gescheiterten Projekt vor, den Auftrag überhaupt angenommen zu haben – die Risiken waren ihm zum Zeitpunkt der Zusage jedoch nicht bekannt. Welcher Prozess beschreibt das am ehesten?",
+      "options": [
+        "Bedrohungsmonitoring",
+        "Sorgen über unwahrscheinliche Ereignisse",
+        "Kontrafaktisches Denken",
+        "Retrograde Logik",
+        "Grübeln trotz fehlender Antworten"
+      ],
+      "answer": 3,
+      "explanation": "Retrograde Logik ist auf den Folien als Selbstvorwurf für ein Verhalten definiert, nachdem die Konsequenzen klar geworden sind – der Patient beurteilt seine damalige Entscheidung mit heutigem Wissen. Kontrafaktisches Denken malt aus, wie es anders hätte sein können, ohne diesen Vorwurfscharakter im Rückblick auf bekannte Folgen. Bedrohungsmonitoring meint das Überwachen aversiver Reize. Grübeln trotz fehlender Antworten setzt eine offene, unbeantwortbare Frage voraus. Sorgen richten sich auf die Zukunft, nicht auf ein bereits eingetretenes Ereignis."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "transfer": true,
+      "question": "Ein Patient stellt jeden Morgen fest, dass er sich müde fühlt, und deutet dies als Zeichen fehlender Energie und beginnender Erschöpfung. Welcher Prozess ist damit am ehesten beschrieben?",
+      "options": [
+        "Retrograde Logik",
+        "Vermeidung korrektiver Erfahrungen",
+        "Sorgen in Form von Gedankenketten",
+        "Kontrafaktisches Denken",
+        "Bedrohungsmonitoring"
+      ],
+      "answer": 4,
+      "explanation": "Die Folien führen genau dieses Beispiel an: Feststellung von Müdigkeit am Morgen und Deutung als fehlende Energie – ein Monitoren aversiver Reize auch außerhalb ihrer tatsächlichen Relevanz. Retrograde Logik erfordert Selbstvorwürfe nach eingetretenen Konsequenzen. Kontrafaktisches Denken malt alternative Verläufe aus. Die Vermeidung korrektiver Erfahrungen beschreibt das Umgehen neuer, widerlegender Erfahrungen. Sorgen sind Gedankenketten über unwahrscheinliche künftige Ereignisse, während hier ein gegenwärtiger Körperzustand überwacht und gedeutet wird."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "hard": true,
+      "question": "Wie werden „Sorgen“ von den übrigen strukturellen Denkprozessen am ehesten abgegrenzt?",
+      "options": [
+        "Als Überwachung aversiver Reize jenseits ihrer tatsächlichen Relevanz",
+        "Als Gedankenketten über unwahrscheinliche künftige Ereignisse",
+        "Als anhaltendes Nachdenken über Fragen, auf die es keine Antwort gibt",
+        "Als Selbstvorwürfe, die erst nach dem Eintreten der Konsequenzen entstehen",
+        "Als aktives oder passives Umgehen korrigierender neuer Erfahrungen"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien definieren Sorgen als Gedankenketten über unwahrscheinliche Ereignisse und damit als zukunftsgerichtet. Anhaltendes Nachdenken ohne verfügbare Antwort beschreibt das Grübeln. Selbstvorwürfe nach bekannten Konsequenzen sind die retrograde Logik. Die Überwachung aversiver Reize jenseits ihrer Relevanz ist das Bedrohungsmonitoring. Das Umgehen korrigierender Erfahrungen ist die Vermeidung korrektiver Erfahrungen und betrifft Verhalten, nicht die Form des Denkens."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "question": "Welche Aussage über die genannten strukturellen Denkprozesse trifft NICHT zu?",
+      "options": [
+        "Grübeln kann auch dann fortgesetzt werden, wenn es auf die Fragen keine Antworten gibt",
+        "Kontrafaktisches Denken kreist um Vorstellungen, wie die Dinge sonst hätten sein können",
+        "Bedrohungsmonitoring meint das gezielte Aufsuchen angenehmer Reize zur Stimmungsverbesserung",
+        "Retrograde Logik bezeichnet Selbstvorwürfe, nachdem die Konsequenzen bereits klar sind",
+        "Die Vermeidung korrektiver Erfahrungen kann in aktiver wie in passiver Form auftreten"
+      ],
+      "answer": 2,
+      "explanation": "Bedrohungsmonitoring meint das Gegenteil des Beschriebenen: das Monitoren aversiver Reize auch außerhalb ihrer tatsächlichen Relevanz, nicht das Aufsuchen angenehmer Reize. Dass Grübeln trotz fehlender Antworten fortgesetzt wird, dass retrograde Logik Selbstvorwürfe nach bekannten Konsequenzen bezeichnet, dass kontrafaktisches Denken alternative Verläufe ausmalt und dass die Vermeidung korrektiver Erfahrungen aktiv oder passiv erfolgen kann, entspricht jeweils genau der Darstellung auf den Folien."
+    },
+    {
+      "topic": "Metakognitive Prozesse",
+      "question": "Was ist mit der „Vermeidung korrektiver Erfahrungen“ am ehesten gemeint?",
+      "options": [
+        "Aversive Reize werden auch außerhalb ihrer tatsächlichen Relevanz fortlaufend überwacht",
+        "Angenehme Aktivitäten werden bewusst eingeplant, um die Stimmung kurzfristig wieder anzuheben",
+        "Neue Erfahrungen, die die negative Sicht widerlegen könnten, werden aktiv oder passiv umgangen",
+        "Die eigenen Gedanken werden systematisch auf ihren Realitätsgehalt hin überprüft und korrigiert",
+        "Belastende Erinnerungen werden wiederholt aufgesucht, bis die emotionale Reaktion darauf abnimmt"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien führen die Vermeidung korrektiver Erfahrungen mit dem Zusatz „aktiv/passiv“ auf: Erfahrungen, die die bestehende Sicht korrigieren könnten, werden nicht gemacht. Das wiederholte Aufsuchen belastender Erinnerungen beschreibt eine Expositionslogik und damit das Gegenteil von Vermeidung. Die Realitätsprüfung von Gedanken ist klassische kognitive Umstrukturierung. Das Einplanen angenehmer Aktivitäten ist Aktivitätsaufbau. Die fortlaufende Überwachung aversiver Reize ist das Bedrohungsmonitoring."
+    },
+    {
+      "topic": "Achtsamkeit im Zeitgeist",
+      "question": "Welche Schlussfolgerung zieht die Vorlesung aus der Beobachtung des „Autopilotenmodus“?",
+      "options": [
+        "Der Autopilot schützt vor Überforderung und sollte deshalb therapeutisch gestärkt werden",
+        "Eine achtsame Grundhaltung kann auch kleine Alltagsbegebenheiten zum Erlebnis werden lassen",
+        "Automatisierte Abläufe sollten möglichst vollständig aus dem Alltag entfernt werden",
+        "Alltägliche Verrichtungen sollten gedanklich sorgfältig vorbereitet und durchgeplant werden",
+        "Angenehme Erlebnisse sind erst möglich, wenn alle anstehenden Verpflichtungen erledigt sind"
+      ],
+      "answer": 1,
+      "explanation": "Die Folie schließt ausdrücklich, dass durch eine achtsame Grundhaltung auch kleine und alltägliche Begebenheiten zu einem angenehmen Erlebnis werden können – ausdrücklich selbst dann, wenn noch eine Klausur ansteht. Ein vollständiges Entfernen automatisierter Abläufe wird nirgends gefordert. Ein gedankliches Durchplanen wäre das Gegenteil des Verweilens im gegenwärtigen Moment. Dass angenehmes Erleben erst nach Erledigung aller Pflichten möglich sei, wird im Beispiel gerade verneint. Eine therapeutische Stärkung des Autopiloten widerspricht dem Anliegen der Achtsamkeit."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "question": "Worauf zielt die Shamata-Meditation am ehesten?",
+      "options": [
+        "Auf die vorurteilsfreie Analyse eigener Emotionen",
+        "Auf die Beobachtung der Vergänglichkeit allen Erlebens",
+        "Auf das Erkennen der wahren Natur der Realität",
+        "Auf die Beruhigung und Stabilisierung des Geistes",
+        "Auf die Entwicklung von Einsicht und Weisheit"
+      ],
+      "answer": 3,
+      "explanation": "Shamata bedeutet wörtlich „ruhiger Geist“; Hauptziel ist es, den Geist zu stabilisieren und zur Ruhe zu bringen und damit die Grundlage für tiefere Einsichten zu schaffen. Das Erkennen der wahren Natur der Realität, die Beobachtung der Vergänglichkeit, die vorurteilsfreie Beobachtung des eigenen Erlebens sowie die Entwicklung von Einsicht und Weisheit sind sämtlich Kennzeichen der Vipassana-Meditation, die erst auf der durch Shamata geschaffenen Ruhe aufsetzt."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "question": "Welche Übungsform ist für die Shamata-Meditation am ehesten typisch?",
+      "options": [
+        "Das systematische Durchwandern des ganzen Körpers",
+        "Die Konzentration auf ein Objekt, häufig den Atem",
+        "Das bewusste Wahrnehmen von Suchtdruck ohne Nachgeben",
+        "Das genaue Beobachten wechselnder Körperempfindungen",
+        "Das achtsame Essen einer einzelnen Rosine"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien beschreiben für Shamata die Konzentration auf ein bestimmtes Objekt, häufig den Atem, um Ablenkungen zu reduzieren. Das genaue Beobachten wechselnder Körperempfindungen, Gedanken und Emotionen kennzeichnet Vipassana. Das achtsame Essen einer Rosine ist eine Übung aus dem MBCT-Programm, das bewusste Wahrnehmen von Suchtdruck ohne Nachgeben das Urge Surfing der MBRP. Das systematische Durchwandern des Körpers ist der Body-Scan der achtsamkeitsbasierten Programme."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "hard": true,
+      "question": "Welche Einsichten schließt das Ziel der Vipassana-Meditation nach dem buddhistischen Dharma ein?",
+      "options": [
+        "Die Stabilisierung der Aufmerksamkeit auf ein einzelnes Meditationsobjekt",
+        "Die vollständige Unterdrückung aufkommender Gedanken und Gefühle",
+        "Die Beruhigung des Geistes durch Reduktion äußerer Ablenkungen",
+        "Die Erhöhung der Wachheit gegenüber körperlichen Warnsignalen",
+        "Das Verständnis der Vergänglichkeit (Anicca) und des Leidens (Dukkha)"
+      ],
+      "answer": 4,
+      "explanation": "Als Ziel von Vipassana nennen die Folien das Erkennen der wahren Natur der Realität einschließlich des Verständnisses von Vergänglichkeit (Anicca) und Leiden (Dukkha). Die Stabilisierung der Aufmerksamkeit auf ein Objekt und die Beruhigung des Geistes durch Reduktion von Ablenkungen sind Ziele der Shamata-Meditation. Eine Unterdrückung von Gedanken und Gefühlen widerspricht der achtsamen Grundhaltung der Annahme. Die Wachheit gegenüber körperlichen Warnsignalen ist kein genanntes Meditationsziel, sondern eher dem Bedrohungsmonitoring verwandt."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "transfer": true,
+      "trap": "Beide Traditionen arbeiten mit stiller Beobachtung – entscheidend ist das Ziel: Einsicht (Vipassana) statt Beruhigung (Shamata).",
+      "question": "Eine Übende beobachtet über Wochen hinweg genau und ohne Bewertung ihre Körperempfindungen, Gedanken und Emotionen, um zu erkennen, wie flüchtig diese sind. Welcher Meditationstradition entspricht das am ehesten?",
+      "options": [
+        "Vipassana",
+        "Rosinenübung",
+        "Atemraum",
+        "Shamata",
+        "Hatha-Yoga"
+      ],
+      "answer": 0,
+      "explanation": "Die genaue, vorurteilsfreie Beobachtung von Körperempfindungen, Gedanken und Emotionen mit dem Ziel, die Vergänglichkeit zu erkennen, ist die Einsichtsmeditation Vipassana. Shamata würde stattdessen die Konzentration auf ein einzelnes Objekt zur Beruhigung des Geistes bedeuten. Hatha-Yoga ist eine Körperpraxis, die bei der Entwicklung der MBSR zusätzlich einfloss. Rosinenübung und Atemraum sind konkrete Übungen aus dem MBCT-Programm, keine Meditationstraditionen."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "question": "Aus welcher Tradition stammt die Vipassana-Meditation?",
+      "options": [
+        "Aus der Hatha-Yoga-Praxis",
+        "Aus der Zen-Tradition",
+        "Aus der Upanishaden-Literatur",
+        "Aus dem Theravada-Buddhismus",
+        "Aus der vedischen Überlieferung"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien ordnen Vipassana als Form der Einsichtsmeditation ausdrücklich dem Theravada-Buddhismus zu. Die Zen-Tradition und die Hatha-Yoga-Praxis werden an anderer Stelle genannt, nämlich als Erfahrungshintergrund bei der Entwicklung der MBSR. Die vedische Überlieferung und die Upanishaden gehören zu den heiligen hinduistischen Texten aus dem Sanskrit-Exkurs und nicht zum Ursprung von Vipassana."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "question": "Welche Aussage über das Sanskrit trifft NICHT zu?",
+      "options": [
+        "Es wird in Indien weiterhin als alltägliche Umgangssprache gesprochen",
+        "Es diente vielen weiteren indischen Sprachen als sprachliche Grundlage",
+        "Seine Schrift ist das Devanagari, das weltweit von Gelehrten studiert wird",
+        "Es gilt als tote Sprache, wird aber liturgisch und schriftlich weiter verwendet",
+        "Es ist die Sprache heiliger hinduistischer Texte wie der Veden und Upanishaden"
+      ],
+      "answer": 0,
+      "explanation": "Der Exkurs bezeichnet Sanskrit ausdrücklich als tote Sprache, die nicht mehr als alltägliche Kommunikationssprache verwendet wird – die Aussage zur Umgangssprache trifft also nicht zu. Die fortdauernde liturgische und schriftliche Verwendung, die Rolle als Sprache von Veden, Upanishaden und Bhagavad Gita, die Devanagari-Schrift und der Einfluss auf viele weitere indische Sprachen werden dagegen jeweils genau so beschrieben."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "hard": true,
+      "question": "Was bedeuten die Begriffe Shamata und Vipassana wörtlich übersetzt?",
+      "options": [
+        "„Achtsamkeit“ und „Mitgefühl“",
+        "„Atembeobachtung“ und „Körperreise“",
+        "„Gegenwärtiger Moment“ und „ohne Wertung“",
+        "„Klare Einsicht“ und „ruhiger Geist“",
+        "„Ruhiger Geist“ und „klare Einsicht“"
+      ],
+      "answer": 4,
+      "explanation": "Shamata stammt aus dem Sanskrit und bedeutet wörtlich „ruhiger Geist“, Vipassana lässt sich als „klare Einsicht“ oder „Weisheit“ übersetzen. Die umgekehrte Zuordnung vertauscht genau diese beiden Bedeutungen. Gegenwärtiger Moment und Wertfreiheit sind Merkmale des achtsamen Geisteszustands nach Kabat-Zinn, keine Übersetzungen. Achtsamkeit und Mitgefühl sowie Atembeobachtung und Körperreise bezeichnen Haltungen beziehungsweise Übungsformen, nicht die Wortbedeutungen."
+    },
+    {
+      "topic": "Buddhistische Wurzeln",
+      "hard": true,
+      "question": "Welcher Begriff bezeichnet die gemeinsame buddhistische Wurzel, auf die die achtsamkeitsbasierten Verfahren der dritten Welle zurückgeführt werden?",
+      "options": [
+        "Anicca",
+        "Sati",
+        "Devanagari",
+        "Dukkha",
+        "Dharma"
+      ],
+      "answer": 1,
+      "explanation": "Die Übersichtsfolie führt die achtsamkeitsbasierten Verfahren der dritten Welle auf die buddhistischen Wurzeln (Sati) zurück. Dukkha bezeichnet das Leiden und Anicca die Vergänglichkeit – beides Einsichtsziele der Vipassana-Meditation, nicht die Wurzel der Verfahrensfamilie. Dharma meint die buddhistische Lehre insgesamt. Devanagari ist die Schrift des Sanskrit und damit ein sprachliches, kein meditatives Konzept."
+    }
+  ]
+}

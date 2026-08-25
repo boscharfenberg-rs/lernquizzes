@@ -612,6 +612,27 @@
       "title": "Large-Scale Brain Networks – CEN, SN, DMN",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen nach den Fragenregeln der Neuro-Referenz zur Vorlesung Large-Scale Brain Networks: von der Lokalisation zur Netzwerkperspektive, intrinsische Netzwerke und Resting-State, zentrales exekutives Netzwerk, Salienznetzwerk, Default Mode Netzwerk und das Triple Network Model nach Menon. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "ptv3-achtsamkeit-grundlagen",
+      "file": "ptv3-achtsamkeit-grundlagen.json",
+      "title": "Achtsamkeit I – Wellen der VT & Grundlagen",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Wellen der Verhaltenstherapie, Autopilot & Rumination, metakognitive Denkprozesse, buddhistische Wurzeln. 30 Items, 5 Optionen."
+    },
+    {
+      "id": "ptv3-achtsamkeit-mbsr",
+      "file": "ptv3-achtsamkeit-mbsr.json",
+      "title": "Achtsamkeit II – MBSR",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Entwicklung nach Kabat-Zinn, Merkmale des achtsamen Zustands, Wirkfaktoren, Stressbewältigung, Programm & Indikationen. 30 Items, 5 Optionen."
+    },
+    {
+      "id": "ptv3-achtsamkeit-mbct-mbrp",
+      "file": "ptv3-achtsamkeit-mbct-mbrp.json",
+      "title": "Achtsamkeit III – MBCT & MBRP",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Rückfallmodell der Depression, Dezentrierung, MBCT-Programm, Urge Surfing und die Abgrenzung MBSR/MBCT/MBRP. 30 Items, 5 Optionen."
     }
   ]
 }

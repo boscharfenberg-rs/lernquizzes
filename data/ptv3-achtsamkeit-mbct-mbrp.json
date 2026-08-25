@@ -1,0 +1,418 @@
+{
+  "id": "ptv3-achtsamkeit-mbct-mbrp",
+  "title": "Achtsamkeit III – MBCT & MBRP",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "30 Single-Choice-Items (5 Optionen, Altklausur-Stil) zu MBCT und MBRP: Rückfallmodell der Depression, Dezentrierung, Programmstruktur und Übungen, Urge Surfing sowie die Abgrenzung der drei achtsamkeitsbasierten Verfahren.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "question": "Mit welchem Ziel wurde die MBCT entwickelt?",
+      "options": [
+        "Als Gruppenprogramm zur Stressbewältigung bei chronischen Schmerzen",
+        "Als Akutbehandlung für schwere depressive Episoden mit Suizidalität",
+        "Als Rückfallprophylaxe für Menschen mit Abhängigkeitserkrankungen",
+        "Als Kurzintervention für akute Belastungsreaktionen nach Trauma",
+        "Als Rückfallprophylaxe-Verfahren für depressive Erkrankungen"
+      ],
+      "answer": 4,
+      "explanation": "Ausgangspunkt war die Beobachtung, dass das Rückfallrisiko nach erfolgreicher Akutbehandlung einer Depression hoch bleibt; Ziel war deshalb die Entwicklung eines Rückfallprophylaxe-Verfahrens für Depressionen. Für die Akutbehandlung schwerer Episoden ist die MBCT nicht konzipiert, Suizidalität erfordert sogar zusätzliche Einzelberatung. Die Stressbewältigung bei chronischen Erkrankungen ist das Feld der MBSR. Die Rückfallprophylaxe bei Abhängigkeitserkrankungen leistet die MBRP. Akute Traumafolgen werden mit traumafokussierten Verfahren behandelt."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "question": "Bei welcher Patientengruppe ist das Rückfallrisiko nach einer Depression besonders hoch?",
+      "options": [
+        "Bei Menschen mit einer stabilen beruflichen Einbindung",
+        "Bei Menschen mit einer erstmaligen depressiven Episode ohne Vorgeschichte",
+        "Bei Menschen mit mehreren durchlebten depressiven Episoden",
+        "Bei Menschen mit einer kurzen Dauer der Akutbehandlung",
+        "Bei Menschen ohne begleitende körperliche Erkrankungen"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien halten fest, dass die Rückfallrate bei Menschen mit mehreren depressiven Episoden besonders hoch ist – genau daraus leitet sich die Indikation der MBCT ab. Eine erstmalige Episode geht nicht mit dem erhöhten Risiko einher, das hier gemeint ist. Die Dauer der Akutbehandlung, das Fehlen körperlicher Erkrankungen und die berufliche Einbindung werden in diesem Zusammenhang nicht als Risikomerkmale genannt."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "question": "Worauf basierte die MBCT ursprünglich?",
+      "options": [
+        "Auf klassischen kognitiv-verhaltenstherapeutischen Prinzipien",
+        "Auf tiefenpsychologisch fundierten Behandlungsprinzipien der Psychoanalyse",
+        "Auf den Grundbedürfnissen aus der Schematherapie",
+        "Auf den Grundannahmen der humanistischen Verfahren",
+        "Auf lerntheoretischen Prinzipien der behavioralen Phase"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien geben ausdrücklich an, dass die MBCT ursprünglich auf klassischen kognitiv-verhaltenstherapeutischen Prinzipien basierte und erst später auf das Achtsamkeitsprinzip ausgerichtet wurde. Tiefenpsychologische und humanistische Grundlagen werden nicht genannt. Die reine Lerntheorie der behavioralen Phase greift zu kurz, weil kognitive Elemente von Beginn an tragend waren. Die Grundbedürfnisse stammen aus der Schematherapie und stehen mit der MBCT-Entstehung nicht in Verbindung."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "hard": true,
+      "question": "Was besagt die Differential Activation Hypothesis nach Teasdale am ehesten?",
+      "options": [
+        "Negative Gedankenmuster werden durch körperliche Aktivierung und Anspannung ausgelöst",
+        "Negative Gedankenmuster werden bereits durch moderat niedergeschlagene Stimmung leicht aktiviert",
+        "Negative Gedankenmuster verschwinden mit dem Abklingen der akuten Symptomatik",
+        "Negative Gedankenmuster entstehen erst bei einer voll ausgeprägten depressiven Episode vollständig neu",
+        "Negative Gedankenmuster bilden sich unabhängig von der aktuellen Stimmungslage aus"
+      ],
+      "answer": 1,
+      "explanation": "Die Hypothese besagt, dass negative Gedankenmuster schon durch moderat niedergeschlagene, dysphorische Stimmung leicht aktiviert werden – bei ehemals Depressiven besonders ausgeprägt. Dass die Muster erst in der vollen Episode neu entstehen, widerspricht der Annahme bereits angelegter, reaktivierbarer Muster. Eine Auslösung durch körperliche Anspannung ist nicht gemeint. Eine Unabhängigkeit von der Stimmungslage widerspricht dem Kern der Hypothese, die gerade die Stimmung als Auslöser benennt. Ein Verschwinden nach Abklingen der Symptomatik widerspricht dem erhöhten Rückfallrisiko."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "transfer": true,
+      "question": "Eine remittierte Patientin erlebt nach einem verregneten Wochenende eine leichte Verstimmung. Innerhalb weniger Stunden tauchen ausgeprägte Selbstzweifel und Erinnerungen an ihre frühere Erkrankung auf. Welches Modell erklärt diesen Verlauf am ehesten?",
+      "options": [
+        "Die metakognitive Erklärung über Bedrohungsmonitoring",
+        "Die Differential Activation Hypothesis",
+        "Das Informationsverarbeitungsmodell des Rückfallgeschehens",
+        "Das Prinzip der Transformation von Reaktionsmustern",
+        "Das Konzept der substanzbezogenen Gedächtnisnetzwerke"
+      ],
+      "answer": 1,
+      "explanation": "Beschrieben ist genau der postulierte Mechanismus: Eine bereits moderat dysphorische Stimmung löst bei ehemals Depressiven starke Veränderungen der Gedankenmuster aus, einschließlich globaler negativer Selbsturteile und Erinnerungen an frühere depressive Zustände. Das Informationsverarbeitungsmodell des Rückfallgeschehens und die substanzbezogenen Gedächtnisnetzwerke beziehen sich auf abhängiges Verhalten. Das Bedrohungsmonitoring meint das Überwachen aversiver Reize. Die Transformation von Reaktionsmustern beschreibt ein Wirkprinzip, kein Erklärungsmodell des Rückfalls."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "question": "Welche Inhalte umfassen die reaktivierten Gedankenmuster bei ehemals depressiven Menschen?",
+      "options": [
+        "Anhaltende Sorge um die körperliche Gesundheit und häufige Arztbesuche",
+        "Zwanghafte Kontrollimpulse, Zählrituale und wiederkehrende Waschhandlungen",
+        "Überhöhte Selbsteinschätzung, deutlich gesteigerter Antrieb und ausgeprägtes Risikoverhalten",
+        "Verlangen nach einer Substanz und die Erwartung schneller Erleichterung",
+        "Globale negative Selbsturteile, Hoffnungslosigkeit und Erinnerungen an frühere Zustände"
+      ],
+      "answer": 4,
+      "explanation": "Genannt werden globale negative Selbsturteile, Hoffnungslosigkeit sowie Erinnerungen und Bilder, die mit negativen Ereignissen und früheren depressiven Zuständen verknüpft sind. Überhöhte Selbsteinschätzung und gesteigerter Antrieb beschreiben eine manische Symptomatik. Kontrollimpulse und Rituale gehören zur Zwangssymptomatik. Anhaltende Gesundheitssorgen sind ein anderes Störungsbild. Das Verlangen nach einer Substanz gehört in den Kontext der MBRP und des Rückfallgeschehens bei Abhängigkeit."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "hard": true,
+      "question": "Wie wird der Aufschaukelungsprozess im Rückfallmodell der Depression beschrieben?",
+      "options": [
+        "Negative Gedankenmuster schwächen sich ab, sobald die Stimmung ihren Tiefpunkt erreicht hat",
+        "Negative Gedankenmuster verschlechtern oder stabilisieren die Stimmung und verfestigen sich dadurch weiter",
+        "Negative Gedankenmuster werden durch die körperlichen Veränderungen wirksam unterbrochen",
+        "Negative Gedankenmuster führen zunächst zu einer spürbaren Erleichterung und erst später zur Verschlechterung",
+        "Negative Gedankenmuster bleiben ohne Rückwirkung auf die Stimmung und klingen von allein ab"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien beschreiben einen sich selbst verstärkenden Kreislauf: Die negativen Gedankenmuster verschlechtern oder stabilisieren die Stimmung, was zur Verfestigung und erneuten Aktivierung der Muster führt. Eine Abschwächung am Stimmungstiefpunkt widerspricht diesem Kreislauf. Eine fehlende Rückwirkung auf die Stimmung verkennt den Kern des Modells. Eine anfängliche Erleichterung wird nicht beschrieben. Die körperlichen Veränderungen begleiten den Prozess, unterbrechen ihn aber gerade nicht."
+    },
+    {
+      "topic": "MBCT – Hintergrund und Rückfallmodell",
+      "transfer": true,
+      "question": "Bei einem remittierten Patienten fallen im Rückfallverlauf eine verlangsamte Bewegung und eine zunehmend gebückte Körperhaltung auf. Wie ordnet das Rückfallmodell solche Beobachtungen am ehesten ein?",
+      "options": [
+        "Als körperliche Begleitveränderungen des reaktivierten Gedankenmusters",
+        "Als unerwünschte Wirkung der begleitenden Achtsamkeitsübungen",
+        "Als eigenständige neurologische Erkrankung ohne jeden Bezug zur depressiven Störung",
+        "Als Zeichen einer gelungenen Distanzierung von den Gedanken",
+        "Als Ausdruck einer bewusst gewählten Vermeidungsstrategie"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien führen als Bestandteil des Rückfallgeschehens ausdrücklich Veränderungen der Körperwahrnehmung sowie motorische Veränderungen wie Verlangsamung und gebückte Körperhaltung auf. Eine eigenständige neurologische Erkrankung wird nicht postuliert. Eine unerwünschte Wirkung der Übungen wird nirgends beschrieben. Eine gelungene Distanzierung würde sich nicht in dieser Symptomatik zeigen. Eine bewusst gewählte Vermeidungsstrategie setzt eine willentliche Entscheidung voraus, die hier nicht gemeint ist."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "trap": "Grübeln und Unterdrücken wirken wie Lösungsversuche – im Modell sind sie Teil des Problems.",
+      "question": "Wie versuchen ehemals depressive Menschen ihre Probleme laut Vorlesung typischerweise zu lösen?",
+      "options": [
+        "Durch Grübeln oder durch Unterdrücken von Gedanken und Gefühlen",
+        "Durch die gezielte Ausweitung sozialer Kontakte im Alltag",
+        "Durch das Erlernen strukturierter Problemlösestrategien",
+        "Durch achtsames Beobachten der aufkommenden Körperempfindungen",
+        "Durch systematisches Aufsuchen zuvor vermiedener Situationen"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien beschreiben, dass ehemals depressive Menschen oft versuchen, Probleme durch Grübeln oder das Unterdrücken von Gedanken und Gefühlen zu lösen – beides hält den Kreislauf jedoch aufrecht. Das achtsame Beobachten von Körperempfindungen ist gerade die in der MBCT vermittelte Alternative. Das Aufsuchen vermiedener Situationen entspricht einer Expositionslogik. Die Ausweitung sozialer Kontakte und strukturierte Problemlösestrategien sind Elemente anderer Interventionen und werden hier nicht als typisches Vorgehen genannt."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "hard": true,
+      "question": "Was kennzeichnet den sprachnahen Modus im Umgang mit negativen Gedanken?",
+      "options": [
+        "Die vollständige Abwesenheit sprachlicher Inhalte während der Übungsphase",
+        "Die schriftliche Dokumentation der Stimmung im Verlauf des Tages",
+        "Die unmittelbare körperliche Wahrnehmung des gegenwärtigen Augenblicks ohne jede Versprachlichung",
+        "Die Bildung sprachlicher Repräsentationen des gegenwärtigen und des erwünschten Zustands",
+        "Die bildhafte Vorstellung zukünftiger Situationen ohne begleitende Bewertung"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien beschreiben den sprachnahen Modus über die Bildung sprachlicher Repräsentationen des gegenwärtigen und des erwünschten Zustands – aus deren Abgleich speist sich das Grübeln. Die unmittelbare körperliche Wahrnehmung ohne Worte ist gerade der Gegenmodus, den Achtsamkeit stärkt. Bildhafte Vorstellungen und die Abwesenheit sprachlicher Inhalte kennzeichnen den sprachnahen Modus ebenfalls nicht. Eine schriftliche Stimmungsdokumentation ist eine Methode der Verlaufsmessung, kein mentaler Modus."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "question": "Was ist das Hauptziel der MBCT?",
+      "options": [
+        "Die medikamentöse Erhaltungstherapie in jedem Fall überflüssig werden zu lassen",
+        "Die Erinnerungen an frühere depressive Episoden möglichst vollständig aus dem Gedächtnis zu löschen",
+        "Grüblerische Geisteszustände erkennen, aus ihnen austreten und ins Hier und Jetzt zurückkehren",
+        "Die auslösenden Situationen der depressiven Stimmung dauerhaft aus dem Alltag entfernen",
+        "Die Inhalte der negativen Gedanken systematisch auf ihren Wahrheitsgehalt hin überprüfen"
+      ],
+      "answer": 2,
+      "explanation": "Als Hauptziel nennen die Folien die bewusste Erkennung grüblerischer Geisteszustände, den Austritt aus diesen Zuständen und die Rückkehr zur lebendigen Wirklichkeit des Hier und Jetzt. Die Überprüfung der Gedankeninhalte ist das Vorgehen der klassischen kognitiven Therapie. Das Entfernen auslösender Situationen wäre Vermeidung. Ein Löschen von Erinnerungen ist weder möglich noch beabsichtigt. Eine Ablösung der medikamentösen Behandlung wird nicht als Ziel formuliert."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "transfer": true,
+      "trap": "Dezentrierung heißt nicht, den Gedanken loszuwerden, sondern ihn als Gedanken zu sehen statt als Tatsache.",
+      "question": "Ein Patient sagt: „Da ist wieder der Gedanke, dass ich versage – ein Gedanke, keine Tatsache.“ Welchen Prozess beschreibt er am ehesten?",
+      "options": [
+        "Kontrafaktisches Denken",
+        "Dezentrierung und Disidentifikation",
+        "Kognitive Umstrukturierung der Grundannahmen",
+        "Bedrohungsmonitoring",
+        "Gedankenunterdrückung"
+      ],
+      "answer": 1,
+      "explanation": "Decentering und Disidentification meinen genau dies: Gedanken und Gefühle werden als vorübergehende mentale Ereignisse und nicht als wahre, valide Aussagen über das eigene Selbst betrachtet. Gedankenunterdrückung würde den Gedanken wegdrücken statt ihn zu benennen. Kognitive Umstrukturierung würde den Inhalt auf seinen Wahrheitsgehalt prüfen und ersetzen. Kontrafaktisches Denken malt alternative Verläufe aus. Bedrohungsmonitoring bezeichnet das Überwachen aversiver Reize."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "question": "Welche Haltung gegenüber dem eigenen Erleben soll die MBCT am ehesten fördern?",
+      "options": [
+        "Gelassenheit und Vertrauen auf die Eigendynamik des Geschehens",
+        "Strenge Bewertung der eigenen Fortschritte im Übungsverlauf",
+        "Konsequente Kontrolle über den Verlauf der eigenen Stimmung",
+        "Dauerhafte Beobachtung möglicher Frühwarnzeichen von außen",
+        "Zügige Beseitigung unangenehmer Gefühle nach ihrem Auftreten"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien nennen ausdrücklich Gelassenheit und das Vertrauen auf die Eigendynamik des Geschehens. Eine konsequente Kontrolle über den Stimmungsverlauf widerspricht der Grundhaltung des Zulassens. Eine strenge Bewertung der eigenen Fortschritte steht dem wertfreien Charakter entgegen. Die zügige Beseitigung unangenehmer Gefühle entspricht dem Änderungsdrang, auf den gerade verzichtet werden soll. Eine dauerhafte Beobachtung von Frühwarnzeichen von außen ist nicht gemeint, es geht um die eigene achtsame Wahrnehmung."
+    },
+    {
+      "topic": "MBCT – Ziele und Dezentrierung",
+      "question": "Wie beschreibt die Vorlesung die angestrebte Häufigkeit der Achtsamkeitspraxis im Alltag?",
+      "options": [
+        "Ausschließlich in den wöchentlichen Gruppensitzungen üben",
+        "Hunderte oder tausende Male am Tag in die Gegenwart zurückkehren",
+        "Nur bei akut auftretenden depressiven Symptomen üben",
+        "Vorwiegend am Wochenende in längeren Einheiten üben",
+        "Einmal täglich zu einer fest vereinbarten Uhrzeit für 45 Minuten üben"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien fordern eine kontinuierliche Praxis in jedem Moment: Patienten sollen hunderte oder tausende Male am Tag in die Gegenwart zurückkehren. Die tägliche 45-minütige Übung zu Hause ist eine zusätzliche Teilnahmevoraussetzung, ersetzt aber nicht die fortlaufende Praxis. Eine Beschränkung auf die Gruppensitzungen widerspricht dem Programm. Ein Üben nur bei akuten Symptomen verkennt den prophylaktischen Charakter. Eine Konzentration auf das Wochenende ist nicht vorgesehen."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "question": "Wie ist das MBCT-Programm strukturiert?",
+      "options": [
+        "Sechs Sitzungen im zweiwöchentlichen Abstand ohne Heimübungen",
+        "Zehn Sitzungen im offenen Gruppenformat mit freiem Einstieg",
+        "Acht wöchentliche Gruppensitzungen mit einem empfohlenen Tag der Achtsamkeit",
+        "Zwölf wöchentliche Einzelsitzungen mit begleitenden telefonischen Zwischenkontakten",
+        "Vier Gruppensitzungen mit anschließender halbjährlicher Nachsorge"
+      ],
+      "answer": 2,
+      "explanation": "Das Programm besteht aus acht wöchentlichen Gruppensitzungen; ein „Tag der Achtsamkeit“ zur Vertiefung wird empfohlen. Ein zwölfwöchiges Einzelformat widerspricht dem Gruppencharakter. Vier Sitzungen mit halbjährlicher Nachsorge, sechs zweiwöchentliche Sitzungen ohne Heimübungen und zehn Sitzungen im offenen Format entsprechen der beschriebenen Struktur ebenfalls nicht – insbesondere sind tägliche Heimübungen verpflichtend."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "question": "Welche Gruppengröße soll im MBCT-Programm nicht überschritten werden?",
+      "options": [
+        "Zwanzig bis fünfundzwanzig Teilnehmende",
+        "Dreißig bis vierzig Teilnehmende",
+        "Vier bis sechs Teilnehmende",
+        "Zwölf bis fünfzehn Teilnehmende",
+        "Es gibt keine Obergrenze"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien geben an, dass die Gruppengröße zwölf bis fünfzehn Teilnehmer nicht überschreiten soll. Vier bis sechs Teilnehmende unterschreiten die genannte Spanne deutlich. Zwanzig bis fünfundzwanzig sowie dreißig bis vierzig Teilnehmende liegen über der Obergrenze. Die Aussage, es gebe keine Obergrenze, widerspricht der ausdrücklichen Vorgabe."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "transfer": true,
+      "question": "Ein Interessent erklärt im Vorgespräch, er wolle am Kurs teilnehmen, zu Hause aber nicht üben – die wöchentliche Sitzung müsse genügen. Welche Programmvoraussetzung spricht dagegen?",
+      "options": [
+        "Die Mindestdauer von zweieinhalb Stunden je Sitzung",
+        "Die Verpflichtung zur täglichen 45-minütigen Übung zu Hause",
+        "Die Verpflichtung zur Teilnahme am empfohlenen Tag der Achtsamkeit",
+        "Die Begrenzung der Gruppengröße auf fünfzehn Personen",
+        "Der Ausschluss bei akuter Substanzabhängigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Als Voraussetzung nennen die Folien ausdrücklich, dass sich die Teilnehmenden zur täglichen 45-minütigen Übung zu Hause verpflichten – genau das lehnt der Interessent ab. Der Tag der Achtsamkeit wird empfohlen, nicht als Zugangsvoraussetzung verlangt. Die Gruppengröße betrifft die Kurszusammensetzung, nicht die Übungsbereitschaft. Die Sitzungsdauer beschreibt den Ablauf. Der Ausschluss bei akuter Substanzabhängigkeit ist eine Kontraindikation, die hier nicht vorliegt."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "hard": true,
+      "trap": "Achtsamkeit bei Sucht ist nicht per se ausgeschlossen – die MBRP arbeitet damit. Kontraindiziert ist für die MBCT die akute Substanzabhängigkeit.",
+      "question": "Welche Angabe zu Kontraindikation und besonderem Vorgehen im MBCT-Programm trifft zu?",
+      "options": [
+        "Akute Substanzabhängigkeit ist unproblematisch, körperliche Erkrankungen schließen aus",
+        "Beide Konstellationen sind unproblematisch, sofern die Person regelmäßig zu Hause übt",
+        "Beide Konstellationen sind absolute Kontraindikationen für jede Form der Achtsamkeitspraxis",
+        "Suizidalität ist eine absolute Kontraindikation, eine Substanzabhängigkeit ist dagegen völlig unproblematisch",
+        "Akute Substanzabhängigkeit ist eine Kontraindikation, Suizidalität erfordert zusätzliche Einzelbetreuung"
+      ],
+      "answer": 4,
+      "explanation": "Die Folien nennen die akute Substanzabhängigkeit als Kontraindikation und halten fest, dass Suizidalität zusätzliche Einzelberatung oder -therapie erfordert – sie schließt die Teilnahme also nicht automatisch aus. Suizidalität als absolute Kontraindikation bei gleichzeitiger Unbedenklichkeit einer Abhängigkeit kehrt die Angaben um. Dass beide Konstellationen unproblematisch seien, widerspricht der genannten Kontraindikation. Körperliche Erkrankungen schließen nicht aus. Ein Ausschluss von jeder Form der Achtsamkeitspraxis widerspricht bereits der Existenz der MBRP."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "question": "Wie sind die einzelnen MBCT-Sitzungen aufgebaut?",
+      "options": [
+        "Drei Stunden, überwiegend gefüllt mit theoretischer Psychoedukation zur Depression",
+        "Eine Stunde, beginnend mit einer ausführlichen Besprechung der Wochenstimmung",
+        "Zwei Stunden, ausschließlich bestehend aus stiller Meditation ohne Austausch",
+        "Neunzig Minuten, beginnend mit einer schriftlichen Auswertung der Heimübungen",
+        "Zwei bis zweieinhalb Stunden, beginnend mit einer 30-minütigen gemeinsamen Übung"
+      ],
+      "answer": 4,
+      "explanation": "Jede Sitzung dauert etwa zwei bis zweieinhalb Stunden und beginnt mit einer 30-minütigen gemeinsamen Achtsamkeitsübung, an die sich die ausführliche Besprechung der Übungserfahrungen anschließt. Eine einstündige Sitzung mit Stimmungsbesprechung, ein dreistündiges psychoedukatives Format und eine neunzigminütige Sitzung mit schriftlicher Auswertung entsprechen nicht der Darstellung. Eine reine Stillmeditation ohne Austausch widerspricht der zentralen Rolle des Erfahrungsaustauschs."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "question": "Welche Übungen stehen zu Beginn des MBCT-Programms in der ersten Sitzung?",
+      "options": [
+        "Die Rosinenübung und der Body-Scan",
+        "Der Atemraum und die Übung zu Stimmungen und Gedanken",
+        "Die Übung zum achtsamen Hören und Sehen",
+        "Die Atemmeditation und das achtsame Gehen",
+        "Die Liste vergnüglicher und bewältigender Aktivitäten"
+      ],
+      "answer": 0,
+      "explanation": "Sitzung 1 umfasst die Rosinenübung, also das achtsame Essen einer Rosine, sowie den Body-Scan. Atemmeditation und achtsames Gehen kommen in späteren Sitzungen hinzu. Der Atemraum und die Übung zu Stimmungen und Gedanken gehören zu den mittleren Sitzungen. Die Liste vergnüglicher und bewältigender Aktivitäten stammt aus der Sitzung zur Selbstfürsorge. Die Übung zum achtsamen Hören und Sehen ist der Sitzung zum Erkennen von Aversion zugeordnet."
+    },
+    {
+      "topic": "MBCT – Programm und Übungen",
+      "question": "Unter welchem Leitthema steht die MBCT-Sitzung, in der Gedanken ausdrücklich von Tatsachen unterschieden werden?",
+      "options": [
+        "„Sammeln des zerstreuten Geistes“",
+        "„Aversion erkennen“",
+        "„In unseren Köpfen leben“",
+        "„Gedanken sind keine Tatsachen“",
+        "„Zulassen und Loslassen“"
+      ],
+      "answer": 3,
+      "explanation": "Das Leitthema „Gedanken sind keine Tatsachen“ benennt genau diese Unterscheidung und arbeitet mit Atemmeditation, Atemraum und einer Übung zu Stimmungen und Gedanken. „In unseren Köpfen leben“ verbindet körperbezogene Achtsamkeit mit einer kognitiven Übung. „Sammeln des zerstreuten Geistes“ steht für Atemmeditation, Yoga und Atemraum. „Aversion erkennen“ arbeitet mit achtsamem Hören, Sehen und Gehen. „Zulassen und Loslassen“ betrifft den Umgang mit unangenehmem Erleben."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "question": "Wie beschreibt Marlatt abhängiges Verhalten am ehesten?",
+      "options": [
+        "Als Reaktion auf eine invalidierende Umgebung in der frühen Entwicklung",
+        "Als unmittelbare Folge einer genetischen Disposition ohne psychologischen Anteil",
+        "Als Fixierung auf antizipiertes künftiges Erleben und Ablehnung des Hier-und-Jetzt",
+        "Als bewusst gewählte Strategie zur kurzfristigen Bewältigung sozialer Konflikte",
+        "Als Ausdruck eines strafenden Elternmodus im schematherapeutischen Modusmodell"
+      ],
+      "answer": 2,
+      "explanation": "Marlatt kennzeichnet abhängiges Verhalten über zwei Merkmale: die Fixierung auf ein antizipiertes zukünftiges Erleben und die Ablehnung des Hier-und-Jetzt-Erlebens. Eine bewusst gewählte Bewältigungsstrategie widerspricht dem automatisierten Charakter des Verhaltens. Eine rein genetische Erklärung ohne psychologischen Anteil wird nicht vertreten. Der strafende Elternmodus stammt aus der Schematherapie. Die invalidierende Umgebung gehört zu einem anderen Verfahren der dritten Welle."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "question": "Welche Annahme trifft das Informationsverarbeitungsmodell zum Rückfallgeschehen über abhängiges Verhalten?",
+      "options": [
+        "Es läuft weitgehend automatisiert ab",
+        "Es folgt einem festen zeitlichen Rhythmus",
+        "Es entsteht ausschließlich in Belastungssituationen",
+        "Es wird stets bewusst geplant und entschieden",
+        "Es tritt nur unter starkem sozialem Druck auf"
+      ],
+      "answer": 0,
+      "explanation": "Das Modell geht davon aus, dass abhängiges Verhalten weitgehend automatisiert abläuft – genau deshalb setzt die MBRP am frühzeitigen Bewusstmachen dieser Abläufe an. Eine stets bewusste Planung widerspricht dem Automatisierungsgedanken. Sozialer Druck, ein fester zeitlicher Rhythmus und eine Beschränkung auf Belastungssituationen werden als Bedingungen nicht genannt."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "hard": true,
+      "trap": "Nicht der Impuls selbst wird bewusst, sondern erst seine Hemmung durch den Abstinenzwunsch.",
+      "question": "Wann wird das Verlangen nach der Substanz laut Informationsverarbeitungsmodell überhaupt bewusst?",
+      "options": [
+        "Wenn der Impuls eine bestimmte körperliche Intensitätsschwelle deutlich überschreitet",
+        "Wenn die auslösende Situation zum wiederholten Mal auftritt",
+        "Wenn ein automatisierter Impuls von einem bewussten Abstinenzwunsch gehemmt wird",
+        "Wenn eine äußere Person die betroffene Person darauf anspricht",
+        "Wenn der Konsum bereits begonnen hat und die Wirkung einsetzt"
+      ],
+      "answer": 2,
+      "explanation": "Das Modell hält fest, dass Verlangen erst dann bewusst wird, wenn ein automatisierter Impuls zum Konsum von einem bewussten Abstinenzwunsch gehemmt wird – erst der Konflikt macht den Vorgang sichtbar. Ein bereits begonnener Konsum liegt nach diesem Punkt. Das Ansprechen durch andere, eine körperliche Intensitätsschwelle und die Wiederholung der Situation werden als Bedingungen des Bewusstwerdens nicht genannt."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "question": "Welcher Begriff bezeichnet im Rückfallmodell die gespeicherten Verknüpfungen rund um die Substanz?",
+      "options": [
+        "Konditionierte Entzugsreflexe",
+        "Globale negative Selbsturteile",
+        "Sprachliche Repräsentationen des Sollzustands",
+        "Dysfunktionale Bewältigungsmodi",
+        "Substanzbezogene Gedächtnisnetzwerke"
+      ],
+      "answer": 4,
+      "explanation": "Das Informationsverarbeitungsmodell nennt substanzbezogene Gedächtnisnetzwerke als dritte Komponente neben der Automatisierung und dem Bewusstwerden des Verlangens. Dysfunktionale Bewältigungsmodi stammen aus dem schematherapeutischen Modusmodell. Sprachliche Repräsentationen des Sollzustands gehören zum sprachnahen Modus im Depressionsmodell. Globale negative Selbsturteile sind Bestandteil der depressiven Gedankenmuster. Konditionierte Entzugsreflexe sind kein in der Vorlesung verwendeter Begriff."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "transfer": true,
+      "question": "Ihr Patient versucht im Rahmen der Alkoholentwöhnung, dem Verlangen nicht nachzugeben, sondern die inneren Abläufe beim erlebten Suchtdruck zu beobachten und wahrzunehmen. Wie nennt die MBRP dieses Vorgehen?",
+      "options": [
+        "Alcohol Monitoring",
+        "Drug Sailing",
+        "Craving Running",
+        "Urge Surfing",
+        "Abstinence Skating"
+      ],
+      "answer": 3,
+      "explanation": "Urge Surfing bezeichnet genau dieses Vorgehen: innere Abläufe wie das Craving nicht zu bezwingen, sondern sie zu erleben – einschließlich ihrer spontanen Veränderlichkeit. Craving Running, Drug Sailing, Alcohol Monitoring und Abstinence Skating sind keine Begriffe des Verfahrens und dienen hier nur als lautlich ähnliche Scheinbegriffe."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "transfer": true,
+      "question": "Eine Patientin hält beim nächsten starken Suchtdruck dem Impuls stand und beobachtet ihn, bis er abklingt. Welche beiden Effekte erwartet die MBRP daraus am ehesten?",
+      "options": [
+        "Eine Verlagerung des Verlangens auf andere Substanzen und eine erhöhte Rückfallgefahr",
+        "Eine vollständige Auslöschung des Verlangens und den dauerhaften Wegfall jeder weiteren Rückfallgefahr",
+        "Eine Zunahme der Anspannung und eine notwendige Erhöhung der medikamentösen Dosis",
+        "Eine Schwächung der Suchtkonditionierung und eine Stärkung von Akzeptanz und Selbstwirksamkeit",
+        "Eine Verstärkung des Abstinenzwunsches und eine dauerhafte Vermeidung aller Auslöser"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien nennen als Folgen des Nichtnachgebens ausdrücklich die Schwächung der Suchtkonditionierung sowie die Stärkung von Akzeptanz und Selbstwirksamkeitserwartung. Eine vollständige Auslöschung des Verlangens wird nicht in Aussicht gestellt. Eine Zunahme der Anspannung mit Dosiserhöhung widerspricht dem Wirkmodell. Eine Verlagerung auf andere Substanzen wird nicht beschrieben. Die dauerhafte Vermeidung aller Auslöser wäre eine Vermeidungsstrategie und nicht das achtsamkeitsbasierte Vorgehen."
+    },
+    {
+      "topic": "MBRP – Rückfallprophylaxe bei Sucht",
+      "hard": true,
+      "question": "Worin besteht der langfristige Nutzen der Achtsamkeit in der Rückfallprophylaxe bei Abhängigkeit?",
+      "options": [
+        "Das Verlangen durch gezielte Ablenkung möglichst rasch aus dem Bewusstsein zu drängen",
+        "Die zurückliegenden Konsumepisoden ausführlich biografisch aufzuarbeiten",
+        "Automatisierte Abläufe früh bewusst wahrnehmen und aus ihnen aussteigen zu können",
+        "Die körperlichen Entzugserscheinungen medikamentös vollständig zu unterdrücken",
+        "Die auslösenden Situationen dauerhaft und vollständig aus dem Alltag zu entfernen"
+      ],
+      "answer": 2,
+      "explanation": "Als langfristiger Nutzen wird genannt, die automatisierten Abläufe, die zu Lapse und Relapse führen, möglichst frühzeitig bewusst wahrzunehmen und aus ihnen aussteigen zu können. Ein vollständiges Entfernen aller Auslöser ist eine Vermeidungsstrategie. Ablenkung widerspricht dem Prinzip des Erlebens statt Bezwingens. Eine biografische Aufarbeitung gehört zu anderen Verfahren. Eine medikamentöse Unterdrückung von Entzugserscheinungen ist kein Gegenstand des Programms."
+    },
+    {
+      "topic": "Abgrenzung der Verfahren",
+      "hard": true,
+      "trap": "Alle drei Verfahren nutzen dieselben Achtsamkeitsübungen – unterschieden werden sie über Zielgruppe und Indikation.",
+      "question": "Welche Zuordnung von Verfahren und primärer Indikation trifft zu?",
+      "options": [
+        "MBSR – akute Traumafolgen, MBCT – Stressbewältigung, MBRP – Rückfallprophylaxe Depression",
+        "MBSR – Rückfallprophylaxe Sucht, MBCT – chronische Schmerzen, MBRP – Stressbewältigung",
+        "MBSR – Rückfallprophylaxe Depression, MBCT – Stressbewältigung, MBRP – chronische Schmerzstörungen",
+        "MBSR – chronische Schmerzen, MBCT – Rückfallprophylaxe Sucht, MBRP – akute Traumafolgen",
+        "MBSR – Stressbewältigung, MBCT – Rückfallprophylaxe Depression, MBRP – Rückfallprophylaxe Sucht"
+      ],
+      "answer": 4,
+      "explanation": "Die MBSR wurde als Stressbewältigungsprogramm für Menschen mit chronischen Erkrankungen entwickelt, die MBCT als Rückfallprophylaxe bei Depression und die MBRP als Rückfallprophylaxe bei abhängigem Verhalten. Alle übrigen Zuordnungen vertauschen diese Zielsetzungen. Akute Traumafolgen sind zudem in keinem der drei Programme die primäre Indikation."
+    },
+    {
+      "topic": "Abgrenzung der Verfahren",
+      "transfer": true,
+      "question": "Eine Patientin ist nach ihrer dritten depressiven Episode remittiert und möchte einem erneuten Rückfall vorbeugen. Welches Programm ist nach der Vorlesung am ehesten indiziert?",
+      "options": [
+        "Die MBSR",
+        "Die Prolonged Exposure",
+        "Die MBRP",
+        "Die MBCT",
+        "Die Schematherapie"
+      ],
+      "answer": 3,
+      "explanation": "Die MBCT wurde ausdrücklich als Rückfallprophylaxe bei Depression entwickelt, und das Rückfallrisiko ist bei mehreren durchlebten Episoden besonders hoch – genau diese Konstellation liegt vor. Die MBSR zielt auf Stressbewältigung bei chronischen Erkrankungen. Die MBRP richtet sich an Menschen mit abhängigem Verhalten. Die Prolonged Exposure ist ein traumafokussiertes Expositionsverfahren. Die Schematherapie wurde für chronische Störungen und Persönlichkeitsstörungen entwickelt."
+    }
+  ]
+}

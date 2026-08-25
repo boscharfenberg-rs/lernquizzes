@@ -1,0 +1,417 @@
+{
+  "id": "ptv3-achtsamkeit-mbsr",
+  "title": "Achtsamkeit II – MBSR",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "30 Single-Choice-Items (5 Optionen, Altklausur-Stil) zur MBSR: Entwicklung nach Kabat-Zinn, Merkmale des achtsamen Geisteszustands, allgemeine Wirkfaktoren, achtsame Stressbewältigung, Programmstruktur und Indikationen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Entwicklung der MBSR",
+      "question": "Auf welche eigenen Erfahrungen stützte Kabat-Zinn die Entwicklung der MBSR?",
+      "options": [
+        "Auf die Bindungstheorie und die frühe Mutter-Kind-Interaktion",
+        "Auf die Vipassana- und Zen-Tradition sowie die Hatha-Yoga-Praxis",
+        "Auf die Transaktionsanalyse und die Arbeit mit dem inneren Kind",
+        "Auf die Gesprächspsychotherapie und das aktive Zuhören",
+        "Auf die klassische Konditionierung und die Reizkonfrontation"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien nennen ausdrücklich eigene Erfahrungen in der Vipassana- und Zen-Tradition sowie die Hatha-Yoga-Praxis als Grundlage der MBSR-Entwicklung. Transaktionsanalyse und inneres Kind sind Wurzeln der Schematherapie. Klassische Konditionierung und Reizkonfrontation stammen aus der behavioralen Phase der Verhaltenstherapie. Gesprächspsychotherapie und aktives Zuhören sind humanistische Verfahren ohne Bezug zur MBSR-Entstehung. Die Bindungstheorie wird in diesem Zusammenhang nicht angeführt."
+    },
+    {
+      "topic": "Entwicklung der MBSR",
+      "question": "Für welche Zielgruppe wurde die MBSR ursprünglich entwickelt?",
+      "options": [
+        "Für Patienten in der Entwöhnungsbehandlung bei einer Alkoholabhängigkeit",
+        "Für Patienten mit einer Borderline-Persönlichkeitsstörung",
+        "Für Patienten mit mehreren zurückliegenden depressiven Episoden in der Vorgeschichte",
+        "Für Patienten mit akuten Belastungsreaktionen nach einem Trauma",
+        "Für Patienten mit chronischen Erkrankungen, insbesondere Schmerzerkrankungen"
+      ],
+      "answer": 4,
+      "explanation": "Ziel war ein achtsamkeitsbasiertes Gruppenprogramm zur Unterstützung von Patienten mit chronischen Erkrankungen, insbesondere Schmerzerkrankungen. Menschen mit mehreren zurückliegenden depressiven Episoden sind die Zielgruppe der MBCT. Die Entwöhnungsbehandlung bei Abhängigkeitserkrankungen adressiert die MBRP. Die Borderline-Persönlichkeitsstörung und akute Traumafolgen gehören zu anderen Verfahren der dritten Welle und werden für die MBSR nicht als Ausgangspunkt genannt."
+    },
+    {
+      "topic": "Entwicklung der MBSR",
+      "hard": true,
+      "question": "Worin bestand laut Vorlesung die zentrale Herausforderung bei der Entwicklung der MBSR?",
+      "options": [
+        "In der Übertragung eines bewährten Einzeltherapieverfahrens auf ein manualisiertes stationäres Gruppensetting",
+        "In der Anpassung traditioneller Bewusstseinspraktiken an moderne Gesundheitskontexte und der Messung ihrer Wirksamkeit",
+        "In der Abgrenzung des Programms gegenüber den psychodynamischen Verfahren und deren Verständnis von Krankheit und Heilung",
+        "In der Auswahl geeigneter Medikamente zur Unterstützung der begleitenden Meditationspraxis",
+        "In der Entwicklung eines Verfahrens, das ohne tägliches Üben der Teilnehmenden auskommt"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien benennen als Herausforderung ausdrücklich die Anpassung der traditionellen Bewusstseinspraktiken an moderne Gesundheitskontexte sowie die Messung ihrer Wirksamkeit. Eine Abgrenzung gegenüber psychodynamischen Verfahren wird nicht thematisiert. Die MBSR war von Beginn an als Gruppenprogramm konzipiert, nicht als übertragenes Einzelverfahren. Medikamente spielen in der Darstellung keine Rolle. Der Verzicht auf tägliches Üben widerspricht dem Programm, das Heimübungen an etwa sechs Tagen pro Woche vorsieht."
+    },
+    {
+      "topic": "Entwicklung der MBSR",
+      "question": "Welches Anliegen bringt das Zitat zum Ausdruck, Übungen in Achtsamkeit eigneten sich ideal dazu, eine stärkere Wahrnehmung der Einheit von Geist und Körper zu kultivieren?",
+      "options": [
+        "Die Rückführung psychischer Beschwerden auf ausschließlich körperliche Ursachen",
+        "Die Trennung körperlicher Beschwerden von den zugehörigen Bewertungsprozessen",
+        "Die bewusste Verknüpfung körperlichen und mentalen Erlebens in der Achtsamkeitspraxis",
+        "Die Notwendigkeit einer begleitenden medizinischen Diagnostik vor jeder Übungseinheit",
+        "Die vorrangige Behandlung körperlicher Symptome vor der psychischen Bearbeitung"
+      ],
+      "answer": 2,
+      "explanation": "Das Zitat zielt auf die Kultivierung einer Wahrnehmung, in der Geist und Körper als Einheit erlebt werden – Achtsamkeitsübungen verknüpfen beides bewusst. Eine vorgeschaltete medizinische Diagnostik wird an dieser Stelle nicht gefordert. Eine Rangfolge, bei der Körperliches vor Psychischem behandelt wird, ist ebenfalls nicht gemeint. Die Trennung von Beschwerden und Bewertungen widerspricht dem Einheitsgedanken. Eine rein körperliche Ursachenzuschreibung wäre gerade die reduktionistische Sichtweise, von der sich der Ansatz löst."
+    },
+    {
+      "topic": "Entwicklung der MBSR",
+      "hard": true,
+      "question": "Welches Problem wirft die Vorlesung im Zusammenhang mit dem Erlernen und Messen von Achtsamkeit auf?",
+      "options": [
+        "Achtsamkeit wird durch Erfahren erlernt, während das Nachdenken darüber bereits nicht mehr Achtsamkeit ist",
+        "Achtsamkeit lässt sich nur in Einzeltherapie vermitteln, weil Gruppen zu viel Ablenkung erzeugen",
+        "Achtsamkeit ist ausschließlich über physiologische Kennwerte zugänglich und dem Selbstbericht grundsätzlich entzogen",
+        "Achtsamkeit setzt eine mehrjährige Vorerfahrung in der Vipassana-Tradition zwingend voraus",
+        "Achtsamkeit kann nur bei Patienten ohne körperliche Erkrankung zuverlässig erhoben werden"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie hält fest, dass Achtsamkeit nicht forciert gelernt, sondern am besten durch das Erfahren von Achtsamkeit erlernt wird, und stellt die Frage, ob das Denken und Reflektieren über Achtsamkeit nicht bereits etwas anderes ist als Achtsamkeit selbst – ein Messproblem, das diametral zum Kern der KVT steht. Eine Beschränkung auf physiologische Kennwerte wird nicht behauptet. Ein Ausschluss des Gruppensettings widerspricht dem Charakter der MBSR als Gruppenprogramm. Eine Beschränkung auf körperlich Gesunde widerspricht der Zielgruppe. Eine mehrjährige Vorerfahrung wird nicht gefordert."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "question": "Welche drei Aspekte beschreiben die Aufmerksamkeitslenkung im Rahmen der Achtsamkeit nach Kabat-Zinn?",
+      "options": [
+        "Entspannung des Körpers, Verlangsamung des Atems, innere Distanz",
+        "Beruhigung des Geistes, Einsicht in die Vergänglichkeit, Mitgefühl",
+        "Absichtsvolle Ausrichtung, klare Zielorientierung, Bewertung des Erlebten",
+        "Gegenwärtiger Moment, Realitätsprüfung der Gedanken, Verzicht auf Wertung",
+        "Gegenwärtiger Moment, absichtsvolle Ausrichtung, Verzicht auf Wertung"
+      ],
+      "answer": 4,
+      "explanation": "Die Folien nennen genau diese drei Merkmale: Aufmerksamkeit auf den gegenwärtigen Moment (present moment), bewusste und absichtsvolle Ausrichtung (on purpose) und Verzicht auf Wertung (non-judgemental). Die Realitätsprüfung von Gedanken gehört zur kognitiven Therapie und ersetzt hier fälschlich die absichtsvolle Ausrichtung. Zielorientierung und Bewertung des Erlebten widersprechen dem wertfreien Charakter. Beruhigung, Einsicht und Mitgefühl beschreiben Meditationstraditionen, nicht die drei Aspekte. Körperliche Entspannung und Atemverlangsamung sind mögliche Begleiterscheinungen, aber keine Definitionsmerkmale."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "trap": "Achtsamkeit ist nicht bloßes Geschehenlassen: Die Ausrichtung der Aufmerksamkeit erfolgt ausdrücklich bewusst und absichtsvoll.",
+      "question": "Welches der drei Kabat-Zinn-Merkmale wird am ehesten übersehen, wenn Achtsamkeit als reines Geschehenlassen verstanden wird?",
+      "options": [
+        "Der Verzicht auf komplexe Gedanken über die Erfahrungen",
+        "Der Verzicht auf eine Bewertung der gemachten Erfahrungen",
+        "Die erhöhte Wachheit gegenüber wechselnden Empfindungen",
+        "Die bewusste und absichtsvolle Ausrichtung der Aufmerksamkeit",
+        "Die Ausrichtung der Aufmerksamkeit auf den gegenwärtigen Moment"
+      ],
+      "answer": 3,
+      "explanation": "„On purpose“ meint die bewusste, absichtsvolle Ausrichtung der Aufmerksamkeit – genau dieses aktive Element fällt weg, wenn Achtsamkeit als passives Geschehenlassen missverstanden wird. Der gegenwärtige Moment und der Verzicht auf Wertung bleiben in einem solchen Verständnis dagegen erhalten. Der Verzicht auf komplexe Gedanken und die erhöhte Wachheit gehören zu den Eigenschaften des achtsamen Zustands, nicht zu den drei Aspekten der Aufmerksamkeitslenkung."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "hard": true,
+      "question": "Welche Eigenschaft des achtsamen Zustands wird in der Vorlesung NICHT genannt?",
+      "options": [
+        "Der direkte, offene und mitfühlende Kontakt mit dem aktuellen Geschehen",
+        "Die Vermeidung des Drangs, gegenwärtige Erfahrungen schnell zu ändern",
+        "Das subjektive Gefühl von Präsenz und Lebendigkeit in der Gegenwart",
+        "Die erhöhte Wachheit gegenüber wechselnden Gedanken und Gefühlen",
+        "Die rasche gedankliche Bewertung neu auftretender Empfindungen"
+      ],
+      "answer": 4,
+      "explanation": "Eine rasche gedankliche Bewertung widerspricht dem wertfreien Charakter des achtsamen Zustands und wird deshalb nicht als seine Eigenschaft geführt. Erhöhte Wachheit gegenüber wechselnden Gedanken, Gefühlen und Empfindungen, das subjektive Gefühl von Präsenz und Lebendigkeit, der direkte, offene und mitfühlende Kontakt sowie die Vermeidung des Drangs, gegenwärtige Erfahrungen schnell zu ändern, werden dagegen alle ausdrücklich aufgeführt."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "question": "Was ist mit dem „Verzicht auf komplexe Gedanken über die Erfahrungen“ am ehesten gemeint?",
+      "options": [
+        "Die Erfahrung wird nachträglich schriftlich analysiert und systematisch ausgewertet",
+        "Belastende Gedanken werden bewusst angehalten und durch neutrale Inhalte ersetzt",
+        "Die Aufmerksamkeit wird von der Erfahrung weg auf den Atem als Anker gelenkt",
+        "Das Erleben wird wahrgenommen, ohne es gedanklich weiter auszudeuten und einzuordnen",
+        "Komplexe Gedanken werden zugelassen, aber anschließend auf ihre Richtigkeit hin geprüft"
+      ],
+      "answer": 3,
+      "explanation": "Gemeint ist, das Erleben unmittelbar wahrzunehmen, ohne es in ausgedehnte gedankliche Deutungen zu überführen. Die Prüfung von Gedanken auf ihre Richtigkeit gehört zur kognitiven Umstrukturierung. Das Anhalten und Ersetzen belastender Gedanken ist Gedankenunterdrückung und damit das Gegenteil der achtsamen Annahme. Eine nachträgliche schriftliche Analyse führt gerade in die komplexe Verarbeitung zurück. Das Umlenken auf den Atem ist eine Konzentrationsübung, aber nicht die Bedeutung dieses Merkmals."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "transfer": true,
+      "question": "Eine Teilnehmerin bemerkt während der Übung ein Ziehen im Rücken und den Impuls, sofort die Sitzposition zu wechseln. Sie nimmt beides wahr und bleibt zunächst sitzen. Welche Eigenschaft des achtsamen Zustands zeigt sich darin am ehesten?",
+      "options": [
+        "Die Vermeidung des Drangs, gegenwärtige Erfahrungen schnell zu ändern",
+        "Das frühzeitige Erkennen beginnender Aufschaukelungsprozesse",
+        "Der direkte, offene und mitfühlende Kontakt mit anderen Menschen",
+        "Die erhöhte Wachheit gegenüber sich ändernden Gedanken und Gefühlen",
+        "Die absichtsvolle Ausrichtung der Aufmerksamkeit auf ein Meditationsobjekt"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien nennen als Eigenschaft des achtsamen Zustands ausdrücklich die Vermeidung des Drangs, gegenwärtige Erfahrungen schnell zu verändern – genau das geschieht hier. Die absichtsvolle Ausrichtung auf ein Objekt beschreibt die Konzentrationskomponente, nicht den Umgang mit dem Änderungsimpuls. Die erhöhte Wachheit gegenüber wechselnden Gedanken ist zwar Voraussetzung, erklärt aber nicht das Aushalten. Das frühzeitige Erkennen von Aufschaukelungsprozessen bezieht sich auf sich verstärkende Gedanken-Stimmungs-Kreisläufe. Der mitfühlende Kontakt bezieht sich auf das aktuelle Geschehen, nicht spezifisch auf andere Menschen."
+    },
+    {
+      "topic": "Merkmale des achtsamen Zustands",
+      "transfer": true,
+      "question": "Ein Teilnehmer berichtet nach dem Body-Scan, er habe sich wacher und lebendiger gefühlt als sonst und den Raum ungewöhnlich intensiv wahrgenommen. Welche Eigenschaft des achtsamen Zustands beschreibt er am ehesten?",
+      "options": [
+        "Das subjektive Gefühl von Präsenz und Lebendigkeit in der Gegenwart",
+        "Die absichtsvolle Ausrichtung der Aufmerksamkeit auf ein Übungsobjekt",
+        "Den Verzicht auf komplexe Gedanken über die gemachten Erfahrungen",
+        "Die Vermeidung des Drangs, gegenwärtige Erfahrungen rasch zu ändern",
+        "Den Verzicht auf jede Bewertung der wahrgenommenen Empfindungen"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien führen als Eigenschaft des achtsamen Zustands ein subjektives Gefühl der Präsenz und Lebendigkeit in der Gegenwart auf, verbunden mit erhöhter Wachheit – genau das schildert der Teilnehmer. Der Verzicht auf komplexe Gedanken betrifft das Ausbleiben gedanklicher Ausdeutung, von dem hier nicht die Rede ist. Die Vermeidung des Änderungsdrangs setzt einen unangenehmen Impuls voraus. Die absichtsvolle Ausrichtung beschreibt die Steuerung der Aufmerksamkeit, nicht das Erlebensresultat. Der Verzicht auf Bewertung betrifft die Haltung gegenüber dem Wahrgenommenen."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "transfer": true,
+      "question": "Eine Teilnehmerin bemerkt, dass sie selbst während der Sitzmeditation innerlich Aufgabenlisten abarbeitet und ihre Übung bewertet. Welche vom Programm angestrebte Veränderung betrifft das am ehesten?",
+      "options": [
+        "Die Disidentification von Gedanken und sprachlichen Inhalten",
+        "Das frühzeitige Erkennen beginnender Aufschaukelungsprozesse",
+        "Die Schulung der Aufmerksamkeit auf ein einzelnes Übungsobjekt",
+        "Die Steigerung des Kontakts mit dem Reichtum des Augenblicks",
+        "Die Veränderung des mentalen Modus vom Handeln zum Sein"
+      ],
+      "answer": 4,
+      "explanation": "Das innere Abarbeiten und Bewerten ist der analytische Handlungsmodus – die Folien beschreiben als Wirkfaktor genau den Wechsel des mentalen Modus vom Handeln zum Sein. Das frühzeitige Erkennen von Aufschaukelungsprozessen bezieht sich auf sich verstärkende Kreisläufe, nicht auf den Grundmodus. Die Disidentification betrifft das Verhältnis zum einzelnen Gedanken. Die Steigerung des Kontakts mit dem Augenblick benennt das Ergebnis, nicht den zu verlassenden Modus. Die Aufmerksamkeitsschulung beschreibt die Konzentrationskomponente."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "hard": true,
+      "trap": "Disidentification heißt nicht, Gedanken loszuwerden, sondern sie als bloße mentale Ereignisse zu erkennen.",
+      "question": "Was bezeichnet der Wirkfaktor „Disidentification“ am ehesten?",
+      "options": [
+        "Die Aufmerksamkeit wird von den Gedanken weg auf äußere Reize der Umgebung gelenkt",
+        "Gedanken werden auf ihren Wahrheitsgehalt geprüft und durch realistischere Bewertungen ersetzt",
+        "Belastende Gedanken werden konsequent unterdrückt, bis sie nicht mehr auftreten",
+        "Gedanken werden als mentale Ereignisse erkannt, die Identifikation mit ihnen wird abgebaut",
+        "Eigene Gedanken werden als Ausdruck der Persönlichkeit gedeutet und angenommen"
+      ],
+      "answer": 3,
+      "explanation": "Disidentification bedeutet, Gedanken als mentale Ereignisse zu erkennen und die Identifikation mit Gedanken und Sprache abzubauen. Die Prüfung des Wahrheitsgehalts und das Ersetzen durch realistischere Bewertungen sind kognitive Umstrukturierung. Unterdrückung widerspricht dem Prinzip der Annahme statt Unterdrückung. Ein Umlenken der Aufmerksamkeit nach außen wäre Ablenkung, nicht Disidentification. Gedanken als Ausdruck der Persönlichkeit zu deuten verstärkt die Identifikation, statt sie zu lockern."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "question": "Welcher Wirkfaktor beschreibt, dass sich verstärkende Gedanken-Stimmungs-Kreisläufe rechtzeitig bemerkt werden sollen?",
+      "options": [
+        "Die Veränderung des mentalen Modus vom Handeln zum Sein",
+        "Das frühzeitige Erkennen von Aufschaukelungsprozessen",
+        "Die Steigerung des Kontakts mit dem Hier-und-Jetzt",
+        "Die Schulung der Aufmerksamkeit auf das gegenwärtige Erleben",
+        "Die Disidentification von Gedanken und sprachlichen Inhalten"
+      ],
+      "answer": 1,
+      "explanation": "Das frühzeitige Erkennen von Aufschaukelungsprozessen ist als eigener allgemeiner Wirkfaktor aufgeführt und meint genau das rechtzeitige Bemerken sich verstärkender Kreisläufe. Die Steigerung des Kontakts mit dem Hier-und-Jetzt betrifft die Wahrnehmung des gegenwärtigen Reichtums. Die Veränderung des mentalen Modus meint den Wechsel vom Handeln zum Sein. Die Schulung der Aufmerksamkeit zielt auf Konzentration und das Lösen dysfunktionalen Grübelns. Die Disidentification betrifft das Verhältnis zu den Gedanken selbst."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "question": "Was umfasst der Wirkfaktor „Schulung der Aufmerksamkeit“ neben der Konzentration auf das Hier-und-Jetzt?",
+      "options": [
+        "Das Lösen aus dysfunktionalem Grübeln",
+        "Das Erinnern früherer belastender Episoden",
+        "Das Beschreiben der Erfahrung in Worten",
+        "Das Bewerten der aufkommenden Gedanken",
+        "Das Planen der kommenden Tagesstruktur"
+      ],
+      "answer": 0,
+      "explanation": "Der Wirkfaktor wird auf den Folien als Konzentration auf das Hier-und-Jetzt und Lösen dysfunktionalen Grübelns beschrieben. Das Bewerten von Gedanken widerspricht der wertfreien Haltung. Das Planen der Tagesstruktur führt in den zukunftsgerichteten Handlungsmodus zurück. Das Erinnern früherer Episoden ist Teil der depressiven Gedankenmuster, nicht der Aufmerksamkeitsschulung. Das Beschreiben in Worten entspricht dem sprachnahen Modus, der gerade zurücktreten soll."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "transfer": true,
+      "question": "Eine Patientin bemerkt in der Übung, wie ein einzelner Ärgergedanke innerhalb weniger Minuten eine ganze Kette weiterer Vorwürfe nach sich zieht, und steigt bewusst aus. Welcher allgemeine Wirkfaktor zeigt sich hier am ehesten?",
+      "options": [
+        "Die Wahrnehmung des Reichtums jedes einzelnen Augenblicks",
+        "Das frühzeitige Erkennen von Aufschaukelungsprozessen",
+        "Die Schulung der Konzentration auf ein einzelnes Objekt",
+        "Der Wechsel des mentalen Modus vom Handeln zum Sein",
+        "Die Steigerung des Kontakts mit dem Hier-und-Jetzt"
+      ],
+      "answer": 1,
+      "explanation": "Beschrieben ist genau der Wirkfaktor „frühzeitiges Erkennen von Aufschaukelungsprozessen“: Der sich verstärkende Kreislauf wird bemerkt, bevor er sich verfestigt. Die Steigerung des Kontakts mit dem Hier-und-Jetzt und die Wahrnehmung des Reichtums jedes Augenblicks betreffen die Qualität der Gegenwartswahrnehmung, nicht das Bemerken einer Eskalation. Der Wechsel vom Handeln zum Sein beschreibt den mentalen Grundmodus. Die Konzentration auf ein einzelnes Objekt ist eine Übungsform, kein eigener Wirkfaktor an dieser Stelle."
+    },
+    {
+      "topic": "Allgemeine Wirkfaktoren",
+      "hard": true,
+      "question": "Welcher Punkt zählt NICHT zu den allgemeinen Wirkfaktoren achtsamkeitsbasierter Verfahren?",
+      "options": [
+        "Die Steigerung des Kontakts mit dem Hier-und-Jetzt",
+        "Das Erkennen von Gedanken als bloße mentale Ereignisse",
+        "Die systematische Umstrukturierung dysfunktionaler Grundüberzeugungen",
+        "Die Schulung der Aufmerksamkeit und das Lösen aus dysfunktionalem Grübeln",
+        "Die Veränderung des mentalen Modus vom Handeln zum Sein"
+      ],
+      "answer": 2,
+      "explanation": "Die systematische Umstrukturierung dysfunktionaler Grundüberzeugungen ist eine Kerntechnik der kognitiven Therapie und gehört nicht zu den aufgeführten allgemeinen Wirkfaktoren der Achtsamkeit – dort geht es gerade um den veränderten Umgang mit Gedanken statt um deren inhaltliche Korrektur. Aufmerksamkeitsschulung, Steigerung des Kontakts mit dem Hier-und-Jetzt, Veränderung des mentalen Modus und Disidentification werden dagegen ausdrücklich als Wirkfaktoren genannt."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "trap": "Achtsame Stressbewältigung arbeitet mit Annahme und Wandlung – nicht mit dem Wegdrücken der belastenden Gefühle.",
+      "question": "Welches Kernprinzip nennt die Vorlesung für die Übertragung der Achtsamkeit auf die Stressbewältigung?",
+      "options": [
+        "Konsequente Vermeidung der auslösenden Situationen im Alltag",
+        "Schrittweise Konfrontation mit den stärksten Stressauslösern",
+        "Kognitive Neubewertung der belastenden Situationsmerkmale",
+        "Keine Unterdrückung, sondern Annahme und Wandlung des Erlebens",
+        "Kurzfristige Ablenkung durch angenehme Ersatztätigkeiten"
+      ],
+      "answer": 3,
+      "explanation": "Als Kernprinzip nennen die Folien die Transformation von Stress und leidvollen Gefühlen, ausdrücklich ohne Unterdrückung, sondern über Annahme und Wandlung. Die Vermeidung auslösender Situationen widerspricht dem Prinzip der Annahme. Eine abgestufte Konfrontation gehört zur Expositionslogik. Die kognitive Neubewertung ist der Weg der klassischen KVT, nicht der achtsamkeitsbasierte. Ablenkung durch Ersatztätigkeiten wäre eine Form der Vermeidung."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "question": "Welche Aussage zum Ziel achtsamer Stressbewältigung trifft am ehesten zu?",
+      "options": [
+        "Sie richtet sich ausschließlich an Menschen ohne Diagnose",
+        "Sie beschränkt sich auf die kurzfristige Linderung der Symptome",
+        "Sie ersetzt die medizinische Behandlung chronischer Erkrankungen",
+        "Sie geht über die reine Symptomlinderung hinaus",
+        "Sie zielt vorrangig auf die Steigerung der Arbeitsleistung"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien halten ausdrücklich fest, dass Stressbewältigung über Symptomlinderung hinausgeht – es geht um eine veränderte Grundhaltung gegenüber dem Erleben. Eine Beschränkung auf kurzfristige Linderung greift damit zu kurz. Als Ersatz medizinischer Behandlung wird das Programm nicht dargestellt, sondern als Unterstützung bei chronischen Erkrankungen. Eine Leistungssteigerung ist kein genanntes Ziel. Die Zielgruppen umfassen ausdrücklich auch Patientinnen und Patienten mit Erkrankungen."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "hard": true,
+      "question": "Welche Einsicht über die Entstehung von Stress vermittelt die achtsame Stressbewältigung am ehesten?",
+      "options": [
+        "Stress resultiert unmittelbar aus den äußeren Umständen und ist deshalb individuell kaum beeinflussbar",
+        "Stress resultiert aus den eigenen Reaktionen auf äußere Umstände, was neue Entscheidungen eröffnet",
+        "Stress resultiert aus einem Mangel an Entspannungsübungen im Tagesverlauf",
+        "Stress resultiert aus fehlender Zielklarheit und lässt sich durch Planung auflösen",
+        "Stress resultiert aus unbewussten Konflikten, die zunächst gedeutet werden müssen"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien formulieren, dass Stress aus den Reaktionen auf äußere Umstände resultiert und diese Einsicht neue Entscheidungen ermöglicht. Eine unmittelbare, kaum beeinflussbare Verursachung durch die Umstände widerspricht genau dieser Aussage. Ein Mangel an Entspannungsübungen wird als Erklärung nicht angeführt. Unbewusste Konflikte und deren Deutung gehören zum psychodynamischen Verständnis. Fehlende Zielklarheit und Planung führen zurück in den Handlungsmodus, aus dem die Achtsamkeit gerade herausführen soll."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "transfer": true,
+      "question": "Ein Klient reagiert auf E-Mails seines Vorgesetzten regelmäßig innerhalb von Sekunden mit Anspannung und einer gereizten Antwort. Im Kurs lernt er, diesen Ablauf zu bemerken und bewusst anders zu handeln. Welches Prinzip der achtsamen Stressbewältigung beschreibt das am ehesten?",
+      "options": [
+        "Die Reduktion der Belastung durch Veränderung äußerer Umstände",
+        "Die Umstrukturierung der zugrunde liegenden negativen Grundannahmen über sich selbst",
+        "Die Transformation automatischer Reiz-Reaktions-Muster in bewussteres Verhalten",
+        "Die schrittweise Konfrontation mit dem angstauslösenden Reiz",
+        "Die Unterdrückung der aufkommenden Ärgergefühle im Moment"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien nennen ausdrücklich die Transformation von Reaktionsmustern: Achtsamkeit ermöglicht den Übergang von automatischen Reiz-Reaktions-Mustern zu bewussterem Verhalten – genau dieser Schritt wird hier beschrieben. Die Umstrukturierung von Grundannahmen ist kognitive Therapie. Eine abgestufte Konfrontation setzt Angst als Zielemotion voraus und ist nicht gemeint. Die Veränderung äußerer Umstände lässt gerade die eigene Reaktion unberührt. Die Unterdrückung der Gefühle widerspricht dem Prinzip von Annahme und Wandlung."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "question": "Was ist mit dem Wechsel vom analytischen „Doing“ zum erfahrungsbasierten „Being“ am ehesten gemeint?",
+      "options": [
+        "Erfahrungen werden mit früheren Erlebnissen systematisch verglichen und eingeordnet",
+        "Handlungen werden erst nach ausführlicher Zielklärung ausgeführt",
+        "Erfahrungen werden unmittelbar erlebt statt gedanklich bearbeitet und gelöst",
+        "Aufgaben werden konsequent nach Dringlichkeit sortiert und abgearbeitet",
+        "Belastende Erfahrungen werden schriftlich analysiert und ausgewertet"
+      ],
+      "answer": 2,
+      "explanation": "Der Wechsel vom Doing zum Being meint einen Modus, in dem Erfahrungen unmittelbar erlebt und alternativ verarbeitet werden, statt sie analytisch zu bearbeiten. Der systematische Vergleich mit früheren Erlebnissen und die schriftliche Analyse sind analytische Operationen. Das Sortieren und Abarbeiten von Aufgaben ist der Handlungsmodus selbst. Eine ausführliche Zielklärung vor dem Handeln bleibt ebenfalls im Doing-Modus verhaftet."
+    },
+    {
+      "topic": "Achtsame Stressbewältigung",
+      "question": "Welche Wirkung auf die Wahrnehmung der Gegenwart wird der Achtsamkeit in der Stressbewältigung zugeschrieben?",
+      "options": [
+        "Eine emotionale Distanzierung von allem Erleben",
+        "Eine stärkere Ausrichtung auf zukünftige Anforderungen",
+        "Eine durchgehend positivere Bewertung der Gegenwart",
+        "Eine realistischere Sicht auf die Gegenwart",
+        "Eine geringere Aufmerksamkeit für körperliche Signale"
+      ],
+      "answer": 3,
+      "explanation": "Die Folien nennen als Wirkung der Aufmerksamkeitslenkung auf den Gegenwartsmoment ausdrücklich eine realistischere Sicht auf die Gegenwart. Eine durchgehend positivere Bewertung widerspricht der wertfreien Haltung. Eine geringere Aufmerksamkeit für körperliche Signale steht im Widerspruch zu Body-Scan und Körperwahrnehmung. Die Ausrichtung auf künftige Anforderungen ist gerade das, was zurücktreten soll. Eine emotionale Distanzierung von allem Erleben widerspricht dem offenen, mitfühlenden Kontakt mit dem Geschehen."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "question": "Wie ist das MBSR-Programm strukturiert?",
+      "options": [
+        "Zwei Wochen als stationärer Block mit anschließender Nachsorge",
+        "Acht Wochen mit zwei Stunden pro Kurs und einem gesamten Tag",
+        "Sechs Monate mit monatlichen Auffrischungstreffen in der Gruppe",
+        "Zwölf Wochen mit wöchentlich wechselnden Einzel- und Gruppenterminen",
+        "Vier Wochen mit täglichen Kurseinheiten von jeweils einer Stunde"
+      ],
+      "answer": 1,
+      "explanation": "Die Folien beschreiben ein achtwöchiges Programm mit zwei Stunden pro Kurs sowie einem gesamten Tag. Ein vierwöchiges Format mit täglichen Einheiten, ein zwölfwöchiges Format mit Einzelterminen, ein halbjähriges Format mit monatlichen Treffen und ein stationärer Zweiwochenblock entsprechen sämtlich nicht der dargestellten Programmstruktur."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "question": "In welchem Umfang sind Heimübungen im MBSR-Programm vorgesehen?",
+      "options": [
+        "An etwa zwei Tagen pro Woche",
+        "Ausschließlich an den Kurstagen",
+        "Nur nach individueller Vereinbarung",
+        "Nur in der zweiten Programmhälfte",
+        "An etwa sechs Tagen pro Woche"
+      ],
+      "answer": 4,
+      "explanation": "Vorgesehen sind Heimübungen an ungefähr sechs Tagen in der Woche – die eigene Praxis trägt das Programm. Zwei Tage pro Woche unterschreiten diesen Umfang deutlich. Eine Beschränkung auf die Kurstage widerspricht dem Prinzip des täglichen Übens. Eine rein individuelle Vereinbarung oder eine Beschränkung auf die zweite Programmhälfte werden nicht beschrieben."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "question": "Welche Interventionen nennt die Vorlesung beispielhaft als Bestandteile des MBSR-Programms?",
+      "options": [
+        "Entspannungstraining, Biofeedback und Hypnose",
+        "Verhaltensexperiment, Protokoll und Hausaufgabe",
+        "Stühledialog, Imagination und Rollenspiel",
+        "Lebenslinie, Exposition und Zeugnisarbeit",
+        "Body-Scan, Sitzmeditation und Yoga"
+      ],
+      "answer": 4,
+      "explanation": "Als Beispiele für eingesetzte Interventionen werden Body-Scan, Sitzmeditation und Yoga genannt. Stühledialog, Imagination und Rollenspiel stammen aus anderen Verfahrenstraditionen. Lebenslinie, Exposition und Zeugnisarbeit gehören zu traumafokussierten Ansätzen. Verhaltensexperiment und Protokoll sind Standardinstrumente der KVT. Entspannungstraining, Biofeedback und Hypnose werden in der Darstellung des Programms nicht aufgeführt."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "transfer": true,
+      "trap": "Formell heißt: eigens für die Übung reservierte Zeit. Informell heißt: Achtsamkeit während einer ohnehin anstehenden Alltagstätigkeit.",
+      "question": "Eine Teilnehmerin nimmt sich vor, künftig beim Zähneputzen bewusst auf Geschmack, Bewegung und Geräusche zu achten. Um welche Übungsform handelt es sich am ehesten?",
+      "options": [
+        "Eine formelle Übung",
+        "Eine Expositionsübung",
+        "Eine informelle Übung",
+        "Eine Konzentrationsmeditation",
+        "Eine Achtsamkeitsdiagnostik"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien unterscheiden formelle Übungen wie die Atemmeditation von informellen Übungen, also Achtsamkeit bei alltäglichen Verrichtungen – das Zähneputzen ist ein solcher Alltagsvollzug. Eine formelle Übung wäre eine eigens angesetzte Meditationseinheit. Eine Konzentrationsmeditation richtet sich auf ein einzelnes Objekt in einer reservierten Übungszeit. Eine Expositionsübung setzt einen angst- oder belastungsauslösenden Reiz voraus. Eine Achtsamkeitsdiagnostik ist keine Übungsform des Programms."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "question": "Bei welchen Beschwerden werden in der Vorlesung Wirkungen der MBSR beschrieben?",
+      "options": [
+        "Lese-Rechtschreib-Störung, Dyskalkulie und Aufmerksamkeitsdefizite",
+        "Akute Intoxikation, Entzugssyndrome und delirante Zustandsbilder",
+        "Erschöpfung, Stress und Unruhe, Schmerzstörungen und Schlafstörungen",
+        "Wahnhafte Symptome, manische Episoden, Zwangshandlungen und Tics",
+        "Persönlichkeitsstörungen, Essstörungen und Selbstverletzungen"
+      ],
+      "answer": 2,
+      "explanation": "Als Ansatzpunkte nennt die Vorlesung Erschöpfung und Burn-out-Symptome, Stress, Sorgen und Unruhe, Schmerzstörungen sowie Schlafstörungen. Wahn, Manie, Zwangshandlungen und Tics werden nicht als Wirkbereiche aufgeführt. Umschriebene Entwicklungsstörungen und Aufmerksamkeitsdefizite kommen nicht vor. Akute Intoxikation, Entzug und Delir sind keine Anwendungsfelder der MBSR. Persönlichkeits- und Essstörungen gehören zu anderen Verfahren der dritten Welle."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "hard": true,
+      "question": "Für welche Personengruppen wird eine Verminderung von Erschöpfungs- und Burn-out-Symptomen ausdrücklich berichtet?",
+      "options": [
+        "Für Patientinnen mit Brustkrebs und Angehörige von Gesundheitsberufen",
+        "Für Personen mit subklinischen Stresssymptomen ohne Erkrankung",
+        "Für Menschen mit chronischen Schlafstörungen ohne weitere Diagnose",
+        "Für Jugendliche in schulischen Belastungssituationen und deren Eltern",
+        "Für Patienten in der akuten Entzugsbehandlung und deren Angehörige"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie zur Wirkweise nennt für den Bereich Erschöpfung ausdrücklich Patientinnen mit Brustkrebs sowie Angehörige von Gesundheitsberufen. Jugendliche in schulischen Belastungssituationen werden nicht genannt. Die akute Entzugsbehandlung ist kein aufgeführtes Anwendungsfeld. Menschen mit chronischen Schlafstörungen erscheinen unter dem eigenen Punkt Schlafstörungen, nicht unter Erschöpfung. Personen mit subklinischen Stresssymptomen werden dem Bereich Stress, Sorgen und Unruhe zugeordnet."
+    },
+    {
+      "topic": "MBSR-Programm und Indikationen",
+      "transfer": true,
+      "question": "Eine Pflegekraft mit ausgeprägter Erschöpfung, aber ohne psychiatrische Diagnose sucht ein strukturiertes Gruppenangebot zur Stressbewältigung. Welches Programm passt nach der Vorlesung am ehesten?",
+      "options": [
+        "Die MBSR",
+        "Die Schematherapie",
+        "Die MBRP",
+        "Die MBCT",
+        "Die Prolonged Exposure"
+      ],
+      "answer": 0,
+      "explanation": "Die MBSR ist als achtwöchiges Gruppenprogramm zur Stressbewältigung konzipiert und wird ausdrücklich auch für Erschöpfungssymptome bei Angehörigen von Gesundheitsberufen berichtet. Die MBCT dient der Rückfallprophylaxe bei Depression und setzt zurückliegende Episoden voraus. Die MBRP richtet sich an Menschen mit Abhängigkeitserkrankungen. Die Schematherapie wurde für chronische Störungen und Persönlichkeitsstörungen entwickelt. Die Prolonged Exposure ist ein traumafokussiertes Expositionsverfahren."
+    }
+  ]
+}
