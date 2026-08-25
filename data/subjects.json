@@ -633,6 +633,13 @@
       "title": "Achtsamkeit III – MBCT & MBRP",
       "subject": "Psychotherapieverfahren 3",
       "description": "Rückfallmodell der Depression, Dezentrierung, MBCT-Programm, Urge Surfing und die Abgrenzung MBSR/MBCT/MBRP. 30 Items, 5 Optionen."
+    },
+    {
+      "id": "kan-angst-furcht",
+      "file": "kan-angst-furcht.json",
+      "title": "Furcht, Angst und Angststörungen",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Furcht-Angst-Abgrenzung, Amygdala & Furchtnetzwerk, Two-System Framework, BNST, Insula/Interozeption, ängstliches Grübeln (ACT vs. DMC), Netzwerkpathologie, eigene Konnektom-Forschung."
     }
   ]
 }

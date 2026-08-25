@@ -1,0 +1,389 @@
+{
+  "id": "kan-angst-furcht",
+  "title": "Furcht, Angst und Angststörungen",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Angst: Furcht-Angst-Abgrenzung, Amygdala und Furchtnetzwerk, Two-System Framework, BNST, Insula und Interozeption, ängstliches Grübeln (ACT vs. DMC), Netzwerklevel-Pathologie und die eigene Konnektom-Forschung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Furcht und Angst",
+      "trap": "Die Zuordnung wird häufig vertauscht: gerichtet und vorübergehend = Furcht, diffus und andauernd = Angst.",
+      "question": "Welche Aussage beschreibt die Abgrenzung von Furcht und Angst am ehesten zutreffend?",
+      "options": [
+        "Furcht ist eine transiente Reaktion auf einen bedrohlichen Stimulus, Angst eine länger andauernde Reaktion auf Gefahrensignale",
+        "Furcht und Angst bezeichnen dasselbe Reaktionsmuster und werden in der Forschung durchgehend synonym verwendet",
+        "Furcht bezeichnet allein die subjektive Komponente, Angst ausschließlich die peripher-physiologische Reaktion",
+        "Angst ist eine transiente Reaktion auf einen konkreten Stimulus, Furcht eine länger andauernde Reaktion auf diffuse Gefahrensignale"
+      ],
+      "answer": 0,
+      "explanation": "Die Vorlesung definiert Furcht als komplexe Reaktion auf einen bedrohlichen Stimulus, die adaptiv und für gewöhnlich transient ist, und Angst als länger andauernde Reaktion auf Gefahrensignale. Die umgekehrte Zuordnung vertauscht genau diese beiden Merkmale. Eine synonyme Verwendung widerspricht der ausdrücklichen Unterscheidung. Die Aufteilung in eine rein subjektive und eine rein peripher-physiologische Komponente trifft nicht zu, denn beide Zustände umfassen physiologische, behaviorale, kognitive und subjektive Anteile."
+    },
+    {
+      "topic": "Furcht und Angst",
+      "question": "Wie wird Angst in der Vorlesung definiert?",
+      "options": [
+        "Als rein kognitive Bewertung einer Situation ohne begleitende körperliche Reaktionskomponenten",
+        "Als kurzfristige Schreckreaktion auf einen plötzlich auftretenden, klar identifizierbaren Reiz",
+        "Als ungerichtete, peripher-physiologische, zentralnervöse und subjektive Überaktivierung bei der Wahrnehmung von Gefahren",
+        "Als spezifische motorische, physiologische und subjektive Reaktion bei der Identifikation einer konkreten, realen Gefahrenquelle"
+      ],
+      "answer": 2,
+      "explanation": "Angst wird als meist ungerichtete (diffuse), peripher-physiologische, zentralnervöse und subjektive Überaktivierung bei der Wahrnehmung von Gefahren definiert. Die spezifische Reaktion bei Identifikation einer konkreten Gefahr beschreibt dagegen die Furcht. Eine rein kognitive Bewertung ohne körperliche Komponente widerspricht dem Begriff der Überaktivierung. Die kurzfristige Schreckreaktion auf einen klar identifizierbaren Reiz gehört ebenfalls in den Bereich der Furcht."
+    },
+    {
+      "topic": "Furcht und Angst",
+      "question": "Inwiefern kann Angst nach der Vorlesung hoch adaptiv sein?",
+      "options": [
+        "Sie unterdrückt die Wahrnehmung von Gefahrensignalen und schützt so vor einer emotionalen Überforderung",
+        "Sie senkt das allgemeine Erregungsniveau und ermöglicht dadurch eine ruhigere und sorgfältigere Lagebeurteilung",
+        "Gesteigertes Arousal, Vigilanz und Reaktionsbereitschaft erhöhen die Wahrscheinlichkeit adäquaten Verhaltens",
+        "Sie beschleunigt die Habituation an bedrohliche Reize und verkürzt dadurch die motorische Reaktionszeit"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien halten fest, dass Angst hoch adaptiv sein kann, weil gesteigertes Arousal, erhöhte Vigilanz und gesteigerte Reaktionsbereitschaft in gefährlichen Situationen adäquates Verhalten wahrscheinlicher machen. Eine Senkung des Erregungsniveaus beschreibt das Gegenteil der genannten Überaktivierung. Eine Unterdrückung der Gefahrenwahrnehmung wäre gerade nicht adaptiv, weil die Bedrohung dann unbemerkt bliebe. Eine beschleunigte Habituation wird als Wirkmechanismus nicht angeführt."
+    },
+    {
+      "topic": "Amygdala und Furchtnetzwerk",
+      "question": "Auf welchem Weg erreichen visuelle Bedrohungsinformationen die Amygdala am schnellsten?",
+      "options": [
+        "Direkt von visuellen Thalamuskernen, grob und schemenhaft, in etwa 15 Millisekunden",
+        "Über die posteriore Insula, die interozeptive Signale des Nervus vagus weiterleitet",
+        "Über den visuellen Kortex, wo die Information genauer und bewusst verarbeitet wird",
+        "Über den Locus coeruleus, der die noradrenerge Aktivierung des Kortex vermittelt"
+      ],
+      "answer": 0,
+      "explanation": "Die Amygdala empfängt grobe, schemenhafte visuelle Informationen direkt von visuellen Thalamuskernen in etwa 15 Millisekunden, und zwar unbewusst. Der Weg über den visuellen Kortex existiert ebenfalls, ist aber deutlich länger, dafür genauer und bewusst. Die posteriore Insula verarbeitet interozeptive Signale und ist kein visueller Zuleitungsweg. Der Locus coeruleus gehört zwar zum Furchtnetzwerk, vermittelt aber die noradrenerge Aktivierung und nicht die visuelle Bedrohungsinformation."
+    },
+    {
+      "topic": "Amygdala und Furchtnetzwerk",
+      "question": "Welche Regionen zählt die Vorlesung zum sogenannten Furchtnetzwerk?",
+      "options": [
+        "Thalamus, Amygdala, Hippocampus, Locus coeruleus, sensorische und präfrontale Areale",
+        "Basalganglien, Kleinhirn, motorischer Kortex und die supplementär-motorischen Areale",
+        "Nucleus accumbens, ventrales Striatum, Substantia nigra und das ventrale Tegmentum",
+        "Gyrus angularis, Precuneus, posteriorer zingulärer Kortex und medialer Präfrontalkortex"
+      ],
+      "answer": 0,
+      "explanation": "Die simplifizierte Darstellung des Furchtnetzwerks umfasst Thalamus, Amygdala, Hippocampus, Locus coeruleus, sensorische Areale und präfrontale Regionen. Nucleus accumbens, ventrales Striatum, Substantia nigra und ventrales Tegmentum bilden das dopaminerge Belohnungssystem. Basalganglien, Kleinhirn und motorische Areale gehören zur Bewegungssteuerung. Gyrus angularis, Precuneus, posteriorer zingulärer Kortex und medialer Präfrontalkortex sind Knotenpunkte des Default-Mode-Netzwerks."
+    },
+    {
+      "topic": "Amygdala und Furchtnetzwerk",
+      "question": "Welche Aussage über die Regionen des Furchtnetzwerks trifft NICHT zu?",
+      "options": [
+        "Sie fungieren parallel, um emotionale Zustände wirksam zu regulieren",
+        "Die Darstellung als Netzwerk ist eine Vereinfachung der tatsächlichen neuralen Verhältnisse",
+        "Sie sind unpaarig angelegt und arbeiten die Bedrohungsinformation streng seriell ab",
+        "Sie weisen untereinander eine ausgeprägte funktionelle und anatomische Konnektivität auf"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien betonen ausdrücklich, dass die Regionen des Furchtnetzwerks alle paarig angelegt sind und parallel fungieren – die Aussage zu unpaariger Anlage und serieller Verarbeitung trifft also nicht zu. Die starke Konnektivität der Regionen untereinander, ihr paralleles Zusammenwirken bei der Regulation emotionaler Zustände und der Hinweis, dass es sich um eine simplifizierte Darstellung handelt, entsprechen dagegen der Darstellung in der Vorlesung."
+    },
+    {
+      "topic": "Amygdala und Furchtnetzwerk",
+      "trap": "Die Amygdala ist nicht die Quelle des Furchtgefühls, sondern der Detektor der Bedrohung.",
+      "question": "Welche Funktion kommt der Amygdala nach dem in der Vorlesung vertretenen Verständnis am ehesten zu?",
+      "options": [
+        "Die Anpassung von Handlungsstrategien in künftigen, ähnlichen Aufgaben",
+        "Die Detektion von und die Reaktion auf präsente oder unmittelbare Bedrohungen",
+        "Die Erzeugung des bewussten Furchtgefühls als angeborenes „Furcht-Zentrum“ des Gehirns",
+        "Die Integration interozeptiver Signale aus der Körperperipherie"
+      ],
+      "answer": 1,
+      "explanation": "Die Amygdala ist für die Detektion und die Reaktion auf präsente oder unmittelbare Bedrohungen zuständig. Sie ist ausdrücklich nicht selbst für das Erleben von Angst verantwortlich und kein angeborenes Furcht-Zentrum, aus dem das Furchtgefühl austritt. Die Integration interozeptiver Signale wird der Insula zugerechnet. Die Strategieanpassung in künftigen Aufgaben ist eine Funktion des frontoparietalen Netzwerks."
+    },
+    {
+      "topic": "Two-System Framework",
+      "question": "Welche zwei Systeme nehmen LeDoux und Pine in ihrem Two-System Framework an?",
+      "options": [
+        "Ein System für Furcht und ein davon unabhängiges System für die Belohnungsverarbeitung",
+        "Ein schnelles System für visuelle Reize und ein langsames System für interozeptive Körpersignale",
+        "Ein kortikales System für die schnelle Bedrohungsdetektion und ein subkortikales System für die Handlungsplanung",
+        "Ein subkortikales System für behaviorale und physiologische Reaktionen und ein kortikales für bewusste Gefühle"
+      ],
+      "answer": 3,
+      "explanation": "Das Two-System Framework unterscheidet ein subkortikales, hauptsächlich unbewusst operierendes System zur Kontrolle behavioraler und physiologischer Reaktionen auf Bedrohung – etwa mit der Amygdala – von einem kortikalen System, das die bewussten Gefühle erzeugt. Die umgekehrte Zuordnung von Detektion und Handlungsplanung kehrt die Architektur um. Eine Trennung nach Reizmodalität ist nicht gemeint. Eine Gegenüberstellung von Furcht- und Belohnungssystem gehört nicht zu diesem Modell."
+    },
+    {
+      "topic": "Two-System Framework",
+      "transfer": true,
+      "hard": true,
+      "question": "In einer Studie werden bedrohliche Bilder subliminal dargeboten. Die Amygdala reagiert messbar, die Probanden berichten jedoch keine Furcht. Welche Implikation des Two-System Frameworks stützt dieser Befund am ehesten?",
+      "options": [
+        "Amygdaloidale Prozesse sind von der bewussten Wahrnehmung einer Bedrohung abgrenzbar",
+        "Die bewusste Wahrnehmung der Bedrohung ist Voraussetzung jeder amygdaloidalen Reaktion",
+        "Bedrohliche Reize gelangen ausschließlich über den visuellen Kortex zur Amygdala",
+        "Die Amygdala erzeugt das bewusste Furchtgefühl, sobald ein Schwellenwert überschritten wird"
+      ],
+      "answer": 0,
+      "explanation": "Genau dieser Fall wird auf den Folien angeführt: Amygdaloidale Aktivität lässt sich auch bei unbewusster Verarbeitung feststellen, ohne dass Furcht verspürt wird – die amygdaloidalen Prozesse sind also von der bewussten Wahrnehmung abgrenzbar. Wäre bewusste Wahrnehmung Voraussetzung, dürfte bei subliminaler Darbietung keine Reaktion auftreten. Dass die Amygdala das bewusste Gefühl erzeugt, wird im Framework gerade bestritten. Der schnelle Weg führt direkt von den visuellen Thalamuskernen und nicht über den Kortex."
+    },
+    {
+      "topic": "Two-System Framework",
+      "transfer": true,
+      "question": "Eine neue Substanz führt dazu, dass Mäuse deutlich mehr Zeit auf freien, hellen Flächen verbringen. Wie ist dieser Befund nach der Vorlesung am ehesten zu bewerten?",
+      "options": [
+        "Als Beleg dafür, dass die Amygdala der Maus durch die Substanz vollständig gehemmt wird",
+        "Als Kandidat für eine anxiolytische Wirkung, der zunächst nur verändertes Verhalten belegt",
+        "Als Hinweis auf eine sedierende Wirkung, die eine anxiolytische Wirkung sicher ausschließt",
+        "Als Nachweis, dass die Substanz das subjektive Angsterleben beim Menschen zuverlässig senkt"
+      ],
+      "answer": 1,
+      "explanation": "Substanzen, die Nagetiere mehr Zeit in natürlicherweise gemiedenen Situationen verbringen lassen, gelten als Kandidaten zur Behandlung pathologischer Angst – die Folien betonen aber, dass damit zum Teil nur das Verhalten verändert wird, etwa durch Reduktion des Vermeidungsverhaltens, und nicht die Angst, wegen der Patienten Hilfe suchen. Ein Nachweis für das subjektive Erleben beim Menschen ist damit gerade nicht erbracht. Eine vollständige Hemmung der Amygdala lässt sich aus dem Verhalten nicht ableiten. Ein Ausschluss anxiolytischer Wirkung folgt aus dem Befund ebenfalls nicht."
+    },
+    {
+      "topic": "Two-System Framework",
+      "hard": true,
+      "question": "Auf welche zwei falschen Annahmen führt die Vorlesung die Enttäuschung über die geringe Wirksamkeit anxiolytischer Medikamente zurück?",
+      "options": [
+        "Angst sei rein kognitiv bedingt, und die Amygdala spiele bei ihrer Entstehung überhaupt keine Rolle",
+        "Defensive Reaktionen und Angstgefühle unterlägen einem Netzwerk, und Nagetierbefunde erklärten menschliche Angst",
+        "Die Wirkstoffe würden zu niedrig dosiert, und die Behandlungsdauer sei in den Studien zu kurz",
+        "Angststörungen seien grundsätzlich nicht behandelbar, und Psychotherapie sei Medikamenten in jedem Fall überlegen"
+      ],
+      "answer": 1,
+      "explanation": "Genannt werden zwei falsche Annahmen: erstens, dass defensive Reaktionen und die Gefühle von Angst und Furcht einem gemeinsamen allgemeinen Netzwerk unterliegen, und zweitens, dass die Netzwerke, die defensive Reaktionen bei Nagetieren erzeugen, die Entstehung von Angst und Furcht beim Menschen erklären können. Eine grundsätzliche Unbehandelbarkeit wird nicht behauptet. Eine rein kognitive Verursachung widerspricht der beschriebenen Rolle subkortikaler Strukturen. Dosierung und Studiendauer werden als Erklärung nicht angeführt."
+    },
+    {
+      "topic": "BNST und Unsicherheit",
+      "trap": "Bei präsenter Bedrohung die Amygdala, bei unsicherer künftiger Bedrohung der BNST.",
+      "question": "Welche Struktur verhält sich zur Angst so, wie sich die Amygdala zur Furcht verhält?",
+      "options": [
+        "Der Bettnucleus der Stria terminalis (BNST)",
+        "Das Pulvinar des posterioren Thalamus",
+        "Der Locus coeruleus im dorsalen Pons",
+        "Der Nucleus accumbens des ventralen Striatums"
+      ],
+      "answer": 0,
+      "explanation": "Die Vorlesung formuliert ausdrücklich, der BNST sei für die Angst das, was die Amygdala für die Furcht ist: ein Netzwerkknoten, der bei diffuser, unsicherer Bedrohung zur Angstentstehung beiträgt. Der Nucleus accumbens ist ein Knoten der Belohnungsverarbeitung. Der Locus coeruleus vermittelt die noradrenerge Aktivierung. Das Pulvinar ist ein Thalamuskern der visuellen Aufmerksamkeit und wird in dieser Funktion nicht genannt."
+    },
+    {
+      "topic": "BNST und Unsicherheit",
+      "transfer": true,
+      "question": "Eine Patientin sorgt sich seit Wochen, sie könne ihre Stelle verlieren, obwohl es keine konkreten Hinweise gibt; sie vermeidet inzwischen Gespräche mit Vorgesetzten. Welche Verbindung ist an dieser Reaktionskontrolle am ehesten beteiligt?",
+      "options": [
+        "Die Verbindung zwischen Nucleus accumbens und VTA",
+        "Die Verbindung zwischen Hippocampus und Fornix",
+        "Die Verbindung zwischen Kleinhirn und Nucleus ruber",
+        "Die Verbindung zwischen Amygdala und BNST"
+      ],
+      "answer": 3,
+      "explanation": "Wenn die Bedrohung unsicher ist und nur eine potenzielle Möglichkeit in der Zukunft darstellt, sind laut Vorlesung Verbindungen zwischen Amygdala und BNST in die Reaktionskontrolle eingebunden – etwa bei Risikobewertung und Initiierung von Vermeidungsverhalten, wie es hier vorliegt. Hippocampus und Fornix bilden einen Gedächtniskreis. Nucleus accumbens und ventrales Tegmentum gehören zum Belohnungssystem. Kleinhirn und Nucleus ruber sind motorische Strukturen."
+    },
+    {
+      "topic": "Insula und Interozeption",
+      "trap": "Posterior verarbeitet, anterior steuert – die beiden Insula-Anteile werden regelmäßig vertauscht.",
+      "question": "Wie verteilen sich interozeptive Verarbeitung und Verhaltenssteuerung auf die Insula?",
+      "options": [
+        "Beide Funktionen liegen gemeinsam im posterioren Anteil der Insula",
+        "Interozeption eher posterior, Verhaltenssteuerung eher anterior",
+        "Beide Funktionen liegen gemeinsam im anterioren Anteil der Insula",
+        "Interozeption eher anterior, Verhaltenssteuerung eher posterior"
+      ],
+      "answer": 1,
+      "explanation": "Die Verarbeitung interozeptiver Informationen wird der posterioren Insula zugerechnet, während anterioren insulären Bereichen eine wichtige Rolle in der Verhaltenssteuerung zukommt. Die umgekehrte Zuordnung vertauscht beide Anteile. Eine gemeinsame Lokalisation beider Funktionen in nur einem Anteil widerspricht der beschriebenen Aufteilung entlang der anterior-posterioren Achse."
+    },
+    {
+      "topic": "Insula und Interozeption",
+      "transfer": true,
+      "question": "Ein Patient nimmt in Belastungssituationen seinen Herzschlag und seine Atmung ungewöhnlich genau wahr. Welche Struktur ist mit der Verarbeitung dieser Signale maßgeblich assoziiert?",
+      "options": [
+        "Die posteriore Insula",
+        "Die basolaterale Amygdala",
+        "Der dorsolaterale präfrontale Kortex",
+        "Der dorsale anteriore zinguläre Kortex"
+      ],
+      "answer": 0,
+      "explanation": "Interozeptive Signale gelangen über den Nervus vagus aus der Peripherie ins Gehirn; ihre Verarbeitung wird unter anderem der posterioren Insula zugerechnet – Herzschlag und Atmung sind genau solche interozeptiven Wahrnehmungen. Die basolaterale Amygdala ist an der Bedrohungsdetektion beteiligt. Der dorsale anteriore zinguläre Kortex gehört zum Salienznetzwerk und dient der Fehler- und Konfliktdetektion. Der dorsolaterale präfrontale Kortex ist ein Knoten der kognitiven Kontrolle."
+    },
+    {
+      "topic": "Insula und Interozeption",
+      "hard": true,
+      "question": "Was fand die Beispielstudie von Baur und Kollegen zur Angst vor der fMRT-Untersuchung?",
+      "options": [
+        "Beide Angstmaße hingen ausschließlich mit dem Volumen der basolateralen Amygdala zusammen",
+        "Dispositionelle Ängstlichkeit hing mit der funktionellen, die Zustandsangst mit der strukturellen Konnektivität zusammen",
+        "Zustandsangst hing mit der funktionellen, dispositionelle Ängstlichkeit mit der strukturellen Konnektivität zusammen",
+        "Weder Zustandsangst noch dispositionelle Ängstlichkeit zeigten einen Zusammenhang mit der Konnektivität"
+      ],
+      "answer": 2,
+      "explanation": "Die Zustandsangst korrelierte mit der funktionellen Konnektivität zwischen anteriorer Insula und basolateraler Amygdala, die dispositionelle Ängstlichkeit dagegen mit der Stärke der strukturellen Verbindungen zwischen Insula und Amygdala. Die umgekehrte Zuordnung vertauscht funktionelle und strukturelle Maße. Ein reiner Volumeneffekt der Amygdala war nicht Gegenstand der Studie. Dass gar kein Zusammenhang gefunden wurde, widerspricht den berichteten Korrelationen."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "question": "Welcher Befund gilt nach Etkin und Wagner als Kerneigenschaft von Angst und Angststörungen?",
+      "options": [
+        "Hypoaktivierung des gesamten Salienznetzwerks bei gleichzeitig gesteigerter CEN-Aktivität",
+        "Hyperaktivierung amygdaloidaler und insulärer Regionen bei verminderter DMN-Suppression",
+        "Hypoaktivierung amygdaloidaler und insulärer Regionen bei verstärkter DMN-Suppression",
+        "Hyperaktivierung des dorsolateralen Präfrontalkortex bei unveränderter Amygdala-Aktivität"
+      ],
+      "answer": 1,
+      "explanation": "Die Übersicht zeigt eine Hyperaktivierung amygdaloidaler und insulärer Regionen als Kerneigenschaft von Angst und Angststörungen, begleitet von einer verminderten Suppression des Default-Mode-Netzwerks. Eine Hypoaktivierung dieser Regionen bei verstärkter DMN-Suppression kehrt beide Befunde um. Eine isolierte Hyperaktivierung des dorsolateralen Präfrontalkortex wird nicht berichtet. Eine generelle Hypoaktivierung des Salienznetzwerks widerspricht dem Befund für Amygdala und Insula, die beide zu diesem Netzwerk gehören."
+    },
+    {
+      "topic": "Ängstliches Grübeln und kognitive Kontrolle",
+      "question": "In welchem Netzwerk finden sich die neuralen Korrelate des Grübelns?",
+      "options": [
+        "Im dorsalen Aufmerksamkeitsnetzwerk (DAN)",
+        "Im Default-Mode-Netzwerk (DMN)",
+        "Im zentralexekutiven Netzwerk (CEN)",
+        "Im cingulo-opercularen Netzwerk"
+      ],
+      "answer": 1,
+      "explanation": "Die berichtete Studie fand die neuralen Korrelate des Grübelns im Default-Mode-Netzwerk, wobei die Aktivität mit der Selbsteinschätzung des Grübelns korrelierte. Das zentralexekutive Netzwerk trägt zielgerichtete Problemlösung und Arbeitsgedächtnis. Das dorsale Aufmerksamkeitsnetzwerk steuert die endogene Aufmerksamkeitsausrichtung. Das cingulo-operculare Netzwerk dient der Detektion von Fehlern und Konflikten."
+    },
+    {
+      "topic": "Ängstliches Grübeln und kognitive Kontrolle",
+      "question": "Welcher Aussage zum ängstlichen Grübeln können Sie am ehesten zustimmen?",
+      "options": [
+        "Es führt zu einer Hyperkonnektivität in allen drei Hauptnetzwerken gleichzeitig",
+        "Es ist im Salienznetzwerk verortet und führt dort zu einer gestörten Salienzzuweisung",
+        "Es verschiebt Ressourcen in das CEN und unterstützt so die zielgerichtete Problemlösung",
+        "Es bindet Ressourcen im DMN, die dem CEN dann nicht mehr zur Verfügung stehen"
+      ],
+      "answer": 3,
+      "explanation": "Ängstliches Grübeln bindet Ressourcen im DMN; diese Ressourcen stehen dem zentralexekutiven Netzwerk nicht zur Verfügung, weil DMN und CEN um dieselben Ressourcen konkurrieren – ein rationaler Zugang zur Situation wird dadurch erschwert. Eine Verschiebung in das CEN würde zielgerichtetes Handeln gerade erleichtern und widerspricht dem Befund. Eine Verortung im Salienznetzwerk trifft nicht zu, die Korrelate liegen im DMN. Eine Hyperkonnektivität aller Hauptnetzwerke wird nicht berichtet."
+    },
+    {
+      "topic": "Ängstliches Grübeln und kognitive Kontrolle",
+      "hard": true,
+      "trap": "Der Unterschied liegt genau umgekehrt zur Intuition: Nach der DMC schützt die hohe Aufgabenanforderung.",
+      "question": "Worin unterscheiden sich Attentional-Control-Theory (ACT) und Dual Mechanisms of Control Theory (DMC) am deutlichsten?",
+      "options": [
+        "Nach der DMC sind schwierige Aufgaben betroffen, nach der ACT gerade nicht",
+        "Nach der ACT sind schwierige Aufgaben betroffen, nach der DMC gerade nicht",
+        "Beide verzichten bewusst auf jede Annahme über die Rolle der Aufgabenschwierigkeit",
+        "Beide sagen übereinstimmend eine Beeinträchtigung ausschließlich leichter Aufgaben vorher"
+      ],
+      "answer": 1,
+      "explanation": "Nach der ACT werden bei hohen Aufgabenanforderungen Ressourcen von exekutiven Prozessen zugunsten der Emotionsregulation abgezogen, sodass nur schwierige Aufgaben betroffen sind. Die DMC nimmt dagegen an, dass bei hohen Anforderungen der Fokus auf der Aufgabe liegt und emotionale Prozesse abnehmen – schwierige Aufgaben sind also gerade nicht betroffen; genau das wird als wesentlicher Unterschied hervorgehoben. Die umgekehrte Zuordnung vertauscht beide Theorien. Eine Beeinträchtigung nur leichter Aufgaben sagt keine der beiden vorher, und beide treffen sehr wohl Annahmen zur Aufgabenschwierigkeit."
+    },
+    {
+      "topic": "Ängstliches Grübeln und kognitive Kontrolle",
+      "transfer": true,
+      "question": "Eine Studentin löst leichte Übungsaufgaben trotz starker Prüfungsangst fehlerfrei, bricht bei schwierigen Aufgaben jedoch deutlich ein. Welcher Ansatz sagt dieses Muster am ehesten vorher?",
+      "options": [
+        "Die Attentional-Control-Theory",
+        "Das Triple Network Model der Psychopathologie",
+        "Das Two-System Framework nach LeDoux und Pine",
+        "Die Dual Mechanisms of Control Theory"
+      ],
+      "answer": 0,
+      "explanation": "Die ACT sagt genau dies vorher: Bei niedrigen Anforderungen reichen die Ressourcen für Aufgabe und Emotionsregulation, bei hohen Anforderungen werden sie von den exekutiven Prozessen abgezogen – nur schwierige Aufgaben leiden. Die DMC würde das Gegenteil erwarten, weil bei hoher Anforderung der Aufgabenfokus überwiegt. Das Triple Network Model beschreibt das Zusammenspiel von DMN, CEN und Salienznetzwerk, macht aber keine Vorhersage zur Aufgabenschwierigkeit. Das Two-System Framework betrifft die Trennung von defensiven Reaktionen und bewusstem Gefühl."
+    },
+    {
+      "topic": "Ängstliches Grübeln und kognitive Kontrolle",
+      "transfer": true,
+      "question": "Ein ängstlicher Proband hält die Aufgabenanforderung nicht vorab aktiv aufrecht, sondern korrigiert sein Vorgehen erst, nachdem ein störendes Ereignis aufgetreten ist. Welche Form der kognitiven Kontrolle liegt am ehesten vor?",
+      "options": [
+        "Proaktive Kontrolle",
+        "Interozeptive Signalverarbeitung",
+        "Reaktive Kontrolle",
+        "Exogene Aufmerksamkeitsausrichtung"
+      ],
+      "answer": 2,
+      "explanation": "Reaktive Kontrolle bedeutet, dass die erforderlichen Aufmerksamkeitsprozesse erst rekrutiert werden, wenn sie nötig sind, etwa als späte Korrekturprozesse nach der Detektion interferenter Ereignisse; ängstliche Probanden neigen laut DMC eher zu dieser Form. Proaktive Kontrolle wäre die aktive Aufrechterhaltung der Aufgabenanforderung mit früher Selektion und Top-down-Steuerung. Die exogene Aufmerksamkeitsausrichtung ist eine Funktion des ventralen Aufmerksamkeitsnetzwerks. Die interozeptive Signalverarbeitung betrifft Körpersignale und keine Kontrollform."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "hard": true,
+      "question": "Welche Annahme über funktionelle Netzwerke nennt die Vorlesung?",
+      "options": [
+        "Sie sind kategorial zu betrachten und lassen sich als intakt oder ausgefallen klassifizieren",
+        "Sie sind über die Lebensspanne unveränderlich und deshalb als reine Trait-Marker geeignet",
+        "Sie sind dimensional zu betrachten und reichen von Unter- über Normal- bis zu Überfunktion",
+        "Sie sind ausschließlich während der Aufgabendurchführung und nicht im Ruhezustand messbar"
+      ],
+      "answer": 2,
+      "explanation": "Die Folien halten fest, dass funktionelle Netzwerke als dimensional betrachtet werden können und in Bereichen von Unterfunktionen über Normalfunktionen bis hin zu Überfunktionen operieren; Störungen in diesen Dimensionen können zu unterschiedlichen psychischen Störungen führen. Eine kategoriale Betrachtung als intakt oder ausgefallen widerspricht dem Dimensionsgedanken. Unveränderlichkeit über die Lebensspanne wird nicht behauptet. Die Messbarkeit im Resting-State wird ausdrücklich genannt."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "hard": true,
+      "question": "Wie verhält sich das frontoparietale Netzwerk bei Angststörungen?",
+      "options": [
+        "Durchgehend verminderte Aktivität, die sich bei emotionalen Aufgaben noch weiter verstärkt und generalisiert",
+        "Durchgehend erhöhte Aktivität unabhängig davon, ob die Aufgabe emotional ist oder nicht",
+        "Unveränderte Aktivität, die sich nicht von der gesunder Kontrollpersonen unterscheidet",
+        "Vorwiegend verminderte Aktivität bei nicht-emotionalen und erhöhte bei emotionalen Aufgaben"
+      ],
+      "answer": 3,
+      "explanation": "Für das frontoparietale Netzwerk wird eine vorwiegend verminderte Aktivität mit Defiziten in der Implementierung kognitiver Kontrolle berichtet, wobei nicht-emotionale Aufgaben mit verminderter und emotionale mit erhöhter Aktivität einhergehen – vermutet wird, dass Personen mit hoher Trait-Angst zusätzliche kognitive Kontrolle zur Emotionsregulation rekrutieren. Eine durchgehend erhöhte oder durchgehend verminderte Aktivität übersieht genau diese Differenzierung. Eine unveränderte Aktivität widerspricht dem beschriebenen Pathologiemuster."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "question": "Welche Funktion schreibt die Vorlesung dem cingulo-opercularen (Salienz-)Netzwerk zu?",
+      "options": [
+        "Die Steuerung der Blickmotorik und die okulomotorische Erfassung relevanter Zielreize",
+        "Den autobiographischen Gedächtnisabruf und die Selbstreflektion im Ruhezustand des Gehirns",
+        "Die aktive Aufrechterhaltung von Aufgabenzielen im verbalen und im visuellen Arbeitsgedächtnis",
+        "Die Detektion von Fehlern oder Konflikten und das Signal erhöhten Kontrollbedarfs an das FPN"
+      ],
+      "answer": 3,
+      "explanation": "Das cingulo-operculare Netzwerk mit Teilen des dorsalen ACC, der anterioren Insulae, anterioren PFC und anterioren Thalami dient der Detektion von Fehlern oder Konflikten und signalisiert dem frontoparietalen Netzwerk die Notwendigkeit erhöhter kognitiver Kontrolle; eine verminderte Funktion bedeutet eine ungünstig niedrige Schwelle, die kognitive Kontrolle zu ändern. Die Aufrechterhaltung von Aufgabenzielen ist Aufgabe des frontoparietalen beziehungsweise zentralexekutiven Netzwerks. Autobiographischer Abruf und Selbstreflektion gehören zum DMN. Die Blickmotorik ist keine hier genannte Netzwerkfunktion."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "transfer": true,
+      "question": "Eine Patientin mit generalisierter Angststörung wendet sich im Gespräch ständig neuen, unerwarteten Reizen zu und verliert dabei ihr Handlungsziel aus dem Blick. Welche Netzwerkveränderung passt am ehesten?",
+      "options": [
+        "Ein überaktiviertes frontoparietales Kontrollnetzwerk",
+        "Ein vermindert aktives Default-Mode-Netzwerk",
+        "Ein überaktiviertes ventrales Aufmerksamkeitsnetzwerk",
+        "Ein vermindert aktives ventrales Aufmerksamkeitsnetzwerk"
+      ],
+      "answer": 2,
+      "explanation": "Das ventrale Aufmerksamkeitsnetzwerk vermittelt die exogene Aufmerksamkeitsausrichtung auf neue und unerwartete, insbesondere emotionale Reize; überaktiviert führt es dazu, dass Aufmerksamkeit von zielgerichteten Handlungen abgezogen wird – bei der generalisierten Angststörung wird es als hyperaktiv beschrieben, im Unterschied zur verminderten Aktivität bei der Depression. Eine verminderte Aktivität würde das gegenteilige Bild erzeugen. Das frontoparietale Netzwerk ist bei Angststörungen vorwiegend vermindert aktiv. Für das DMN wird eine eingeschränkte Funktion mit Grübelneigung berichtet, nicht dieses Aufmerksamkeitsmuster."
+    },
+    {
+      "topic": "Netzwerklevel-Pathologie",
+      "question": "Welche Funktionen ordnet die Vorlesung dem Default-Mode-Netzwerk im Kontext der Angststörungen zu?",
+      "options": [
+        "Fehlerdetektion, Konfliktüberwachung und Anpassung der Reaktionsschwelle",
+        "Exogene Aufmerksamkeitsausrichtung auf neue und unerwartete emotionale Reize",
+        "Bedrohungsdetektion und Auslösung defensiver Verhaltensweisen",
+        "Emotionsregulation, Zukunftsplanung, Selbstreflektion und Grübeln"
+      ],
+      "answer": 3,
+      "explanation": "Dem DMN werden Emotionsregulation, Zukunftsplanung, Selbstreflektion und Grübeln zugeschrieben; seine Funktion gilt bei Angststörungen als eingeschränkt, was sich in Schwierigkeiten der adaptiven Emotionsanpassung zeigt. Fehlerdetektion und Konfliktüberwachung sind Aufgaben des cingulo-opercularen Netzwerks. Die exogene Aufmerksamkeitsausrichtung leistet das ventrale Aufmerksamkeitsnetzwerk. Bedrohungsdetektion und defensive Reaktionen gehören zur Amygdala beziehungsweise zum subkortikalen defensiven System."
+    },
+    {
+      "topic": "Eigene Forschung: Konnektom bei Phobie",
+      "hard": true,
+      "question": "Aus welchem Grund wurde in der eigenen Studie eine fc-MVPA über das gesamte Gehirn gerechnet?",
+      "options": [
+        "Weil strukturelle Verfahren bei spezifischen Phobien grundsätzlich keine Unterschiede zeigen",
+        "Weil die Stichprobe für eine regionenbasierte Auswertung deutlich zu klein gewesen wäre",
+        "Weil sich funktionelle Konnektivität ausschließlich mit multivariaten Verfahren überhaupt schätzen lässt",
+        "Weil die Beschränkung auf Furchtnetzwerk-Regionen einen Großteil des Gehirns unberücksichtigt lässt"
+      ],
+      "answer": 3,
+      "explanation": "Der Hintergrund der Studie war, dass zahlreiche Arbeiten ihre Analysen auf Regionen des Furchtnetzwerks beschränken und dadurch ein Großteil des Gehirns unberücksichtigt bleibt; die fc-MVPA erlaubt eine Analyse ohne diese Vorauswahl. Dass sich funktionelle Konnektivität nur multivariat schätzen ließe, trifft nicht zu – ROI-basierte Ansätze werden ausdrücklich erwähnt. Die Stichprobengröße wird nicht als Begründung angeführt. Eine grundsätzliche Nullbefundlage struktureller Verfahren wird nicht behauptet."
+    },
+    {
+      "topic": "Eigene Forschung: Konnektom bei Phobie",
+      "hard": true,
+      "question": "Welche Schlussfolgerung zieht die Vorlesung aus den Konnektom-Befunden zur spezifischen Phobie?",
+      "options": [
+        "Affektive Regionen des Furchtnetzwerks bleiben die wichtigsten Zielregionen künftiger Forschung",
+        "Wahrnehmungs-, kognitions- und handlungsbezogene Regionen sind entscheidender als affektive Regionen",
+        "Die funktionelle Konnektivität unterscheidet sich zwischen Phobie und Kontrollgruppe nicht bedeutsam",
+        "Die gefundenen Unterschiede sind so groß, dass sie sich zur Einzelfalldiagnostik eignen"
+      ],
+      "answer": 1,
+      "explanation": "Die Diskussion hebt hervor, dass die fc-MVPA Netzwerke jenseits des Angstnetzwerks aufdeckt und dass Wahrnehmungs-, kognitive und handlungsbezogene Regionen und Funktionen entscheidender erscheinen als affektive – sie sollten die Zielregionen künftiger Forschung sein. Ein Festhalten an den affektiven Regionen widerspricht genau dieser Aussage. Unterschiede wurden sehr wohl gefunden, sie werden als klein, aber signifikant beschrieben. Eine Eignung zur Einzelfalldiagnostik wird gerade nicht behauptet."
+    },
+    {
+      "topic": "Eigene Forschung: Konnektom bei Phobie",
+      "question": "Welche Limitation nennt die Vorlesung für den Vergleich vor und nach der Expositionsbehandlung?",
+      "options": [
+        "Ohne Kontrollgruppe bei der Nachuntersuchung sind die Effekte nicht sicher der Behandlung zuzuschreiben",
+        "Die Behandlung war nicht standardisiert, sodass jede Sitzung anders durchgeführt wurde",
+        "Die Nachuntersuchung fand zu lange nach der Behandlung statt, sodass die Effekte bereits abgeklungen waren",
+        "Die Stichprobe bestand ausschließlich aus Männern und ist daher nicht auf Frauen übertragbar"
+      ],
+      "answer": 0,
+      "explanation": "Als Limitation wird genannt, dass wegen des Fehlens einer Kontrollgruppe bei der Nachuntersuchung die Ergebnisse nicht direkt auf die Expositionsbehandlung zurückgeführt werden können und auf unsystematischen Schwankungen der funktionellen Konnektivität beruhen könnten; dagegen sprechen allerdings Befunde zur Stabilität des Konnektoms über Monate. Ein zu großer zeitlicher Abstand wird nicht angeführt. Die Stichprobe bestand ganz überwiegend aus Frauen, nicht aus Männern. Die Behandlung war ausdrücklich standardisiert und therapeutisch begleitet."
+    }
+  ]
+}
