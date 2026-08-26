@@ -1,0 +1,388 @@
+{
+  "id": "kan-substanzkonsumstoerungen",
+  "title": "Substanzkonsumstörungen",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Substanzkonsumstörungen: Belohnungslernen und wanting/liking, dopaminerges Belohnungssystem, RDS, Opponent-Process-Modell und Incentive-Sensitisation, Kritik am Dopaminmodell, Inhibition, Cue-induced Craving, Insula und Netzwerkmodell.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Belohnung, wanting und liking",
+      "trap": "„Wanting“ ist das Hingezogensein zum Hinweisreiz, „liking“ das Lusterlebnis während der Belohnung.",
+      "question": "Wie werden „wanting“ und „liking“ voneinander abgegrenzt?",
+      "options": [
+        "„Wanting“ ist die motivationale Salienz des Hinweisreizes, „liking“ das Lusterlebnis bei der Belohnung",
+        "Beide Begriffe bezeichnen dasselbe Phänomen und werden in der Forschung synonym verwendet",
+        "„Wanting“ meint die bewusste Konsumentscheidung, „liking“ die körperliche Toleranzentwicklung",
+        "„Liking“ ist die motivationale Salienz des Hinweisreizes, „wanting“ das Lusterlebnis bei der Belohnung"
+      ],
+      "answer": 0,
+      "explanation": "Durch Lernprozesse erhält ein Hinweisreiz motivationale Salienz: Er zieht Aufmerksamkeit auf sich und motiviert zu einer Verhaltensreaktion – das ist das „wanting“. Davon abzugrenzen ist das „liking“, also das Lusterlebnis während der Belohnung selbst. Die umgekehrte Zuordnung vertauscht beide Begriffe. Eine synonyme Verwendung widerspricht der ausdrücklichen Abgrenzung. Die bewusste Konsumentscheidung und die Toleranzentwicklung sind andere Konzepte und decken die Dichotomie nicht ab."
+    },
+    {
+      "topic": "Belohnung, wanting und liking",
+      "question": "Wann wird ein Verhalten nach der Vorlesung als zielgerichtet bezeichnet?",
+      "options": [
+        "Wenn es stattfindet, weil zuvor eine Verknüpfung mit einer Belohnung gelernt wurde",
+        "Wenn es bewusst geplant wird, ohne dass eine Konsequenz erwartet wird",
+        "Wenn es ausschließlich der Vermeidung unmittelbar drohender Bestrafung dient",
+        "Wenn es unabhängig von früheren Erfahrungen reflexhaft und automatisiert abläuft"
+      ],
+      "answer": 0,
+      "explanation": "Findet ein Verhalten statt, weil zuvor gelernt wurde, dass es mit einer Belohnung verknüpft ist, wird es als zielgerichtet bezeichnet – zielgerichtetes Verhalten gilt als grundlegendes Merkmal von Motivation. Ein reflexhafter, erfahrungsunabhängiger Ablauf widerspricht dem Lernaspekt. Eine Beschränkung auf Bestrafungsvermeidung übergeht die belohnungsbezogene Definition. Eine bewusste Planung ohne erwartete Konsequenz widerspricht der notwendigen Antizipation der Belohnung."
+    },
+    {
+      "topic": "Belohnung, wanting und liking",
+      "question": "Unter welcher Bedingung wird eine Handlung nach dem Prinzip des Vorhersagefehlers erlernt?",
+      "options": [
+        "Wenn Stimulus und Belohnung möglichst exakt zeitgleich auftreten",
+        "Wenn die Konsequenz genau der zuvor gebildeten Erwartung entspricht",
+        "Wenn die Konsequenz überraschend und unvorhersehbar ist",
+        "Wenn die Belohnung über viele Durchgänge konstant gleich bleibt"
+      ],
+      "answer": 2,
+      "explanation": "Nach dem Ansatz von Rescorla und Wagner beruht Lernen auf einer Diskrepanz zwischen erwarteten und tatsächlichen Verhaltenskonsequenzen: Eine Handlung wird erlernt, wenn die Konsequenz überraschend und unvorhersehbar ist. Eine erwartungskonforme Konsequenz erzeugt gerade keinen Vorhersagefehler. Die exakte zeitliche Kontingenz war das Kriterium früherer Theorien, das durch den Vorhersagefehler abgelöst wurde. Eine über viele Durchgänge konstante Belohnung wird vorhersagbar und verliert ihren Lerneffekt."
+    },
+    {
+      "topic": "Belohnung, wanting und liking",
+      "transfer": true,
+      "question": "Ein Patient beschreibt, dass ihn der Anblick einer Kneipe unwiderstehlich anzieht, der Alkohol selbst ihm aber längst keinen Genuss mehr bereitet. Welche Begriffe beschreiben das am ehesten?",
+      "options": [
+        "Erhaltenes „liking“ bei vermindertem „wanting“",
+        "Gleichzeitig gesteigertes „wanting“ und „liking“",
+        "Gleichzeitig vermindertes „wanting“ und „liking“",
+        "Erhaltenes „wanting“ bei vermindertem „liking“"
+      ],
+      "answer": 3,
+      "explanation": "Der Hinweisreiz besitzt weiterhin hohe motivationale Salienz und zieht Aufmerksamkeit sowie Verhalten auf sich – das „wanting“ ist erhalten –, während das Lusterlebnis beim Konsum, das „liking“, ausbleibt. Die umgekehrte Konstellation würde Genuss ohne Anziehung bedeuten. Ein gleichzeitiges Absinken beider würde das beschriebene Angezogensein nicht erklären. Eine gleichzeitige Steigerung beider widerspricht dem fehlenden Genuss."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "question": "Welche dopaminergen Systeme werden in der Vorlesung unterschieden?",
+      "options": [
+        "Das nigrostriatale, das noradrenerge und das glutamaterge System",
+        "Das mesolimbische, das mesokortikale und das nigrostriatale System",
+        "Das mesolimbische, das cholinerge und das serotonerge System",
+        "Das mesokortikale, das GABAerge und das opioiderge System"
+      ],
+      "answer": 1,
+      "explanation": "Meist werden drei dopaminerge Systeme unterschieden: das mesolimbische, das mesokortikale und das nigrostriatale System; möglicherweise kommt ein unabhängiges thalamisches System hinzu. Cholinerge, serotonerge, noradrenerge, glutamaterge, GABAerge und opioiderge Systeme sind eigene Transmittersysteme und gehören nicht zur dopaminergen Einteilung – Dopamin wird vor allem im Mittelhirn gebildet und von dort in kortikale und subkortikale Regionen transportiert."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Affe erhält nach einem gelernten Lichtsignal zuverlässig Fruchtsaft. Wie verhält sich die phasische Aktivität seiner dopaminergen Neurone nach abgeschlossenem Lernen?",
+      "options": [
+        "Sie verschwindet vollständig, sobald der Zusammenhang einmal sicher gelernt wurde",
+        "Sie tritt sowohl beim Hinweisreiz als auch bei der Belohnung gleich stark und additiv auf",
+        "Sie bleibt unverändert auf den Belohnungszeitpunkt konzentriert, der Hinweisreiz bleibt wirkungslos",
+        "Sie verlagert sich auf den Hinweisreiz, zum Belohnungszeitpunkt zeigt sich keine erkennbare Aktivität"
+      ],
+      "answer": 3,
+      "explanation": "Geht der Belohnung ein als Hinweisreiz gelernter Stimulus voraus, verlagert sich die phasische Aktivität auf diesen Hinweisreiz; zum Zeitpunkt der Belohnungsdarbietung findet keine erkennbare phasische Aktivität mehr statt. Eine unverändert auf die Belohnung konzentrierte Aktivität beschreibt den Zustand vor dem Lernen bei unerwarteter Belohnung. Eine additive Reaktion an beiden Zeitpunkten wird nicht berichtet. Ein vollständiges Verschwinden widerspricht der Verlagerung auf den Hinweisreiz."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "hard": true,
+      "question": "Was geschieht mit der phasischen dopaminergen Aktivität, wenn nach einem gelernten Hinweisreiz die erwartete Belohnung ausbleibt?",
+      "options": [
+        "Sie bleibt zum Zeitpunkt der erwarteten Belohnung völlig unverändert",
+        "Sie wird zum Zeitpunkt der erwarteten Belohnung deutlich gesteigert",
+        "Sie wird zum Zeitpunkt der erwarteten Belohnung reduziert",
+        "Sie verlagert sich vollständig auf den nachfolgenden Durchgang"
+      ],
+      "answer": 2,
+      "explanation": "Bleibt die erwartete Belohnung aus, kommt es zu einer Reduzierung der phasischen Aktivität genau zum Zeitpunkt der erwarteten Belohnung – ein negativer Vorhersagefehler. Eine Steigerung würde einer positiven Überraschung entsprechen und widerspricht dem Ausbleiben. Eine unveränderte Aktivität ließe die Erwartungsverletzung unberücksichtigt. Eine Verlagerung auf den Folgedurchgang wird nicht beschrieben."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "trap": "Antizipation und Konsum aktivieren unterschiedliche Regionen – die Zuordnung wird leicht vertauscht.",
+      "question": "Welche Regionen sind nach der berichteten Metaanalyse stärker am Belohnungskonsum als an der Antizipation beteiligt?",
+      "options": [
+        "Primärer motorischer Kortex, supplementär-motorisches Areal und Kleinhirn",
+        "Nucleus accumbens, Amygdala, Nucleus caudatus und mediale orbitofrontale Kortizes",
+        "Dorsolateraler Präfrontalkortex, Precuneus und posteriorer zingulärer Kortex",
+        "Anteriore Insulae, Thalami, anteriore zinguläre Kortizes und mittlerer frontaler Gyrus"
+      ],
+      "answer": 1,
+      "explanation": "Für den Kontrast Belohnungskonsum größer als Antizipation werden Nucleus accumbens, Amygdala, Nucleus caudatus und mediale orbitofrontale Kortizes berichtet. Anteriore Insulae, Thalami, anteriore zinguläre Kortizes, mittlerer frontaler Gyrus und inferiorer parietaler Kortex gehören umgekehrt zum Kontrast Antizipation größer als Konsum. Dorsolateraler Präfrontalkortex, Precuneus und posteriorer zingulärer Kortex sind Knoten kognitiver beziehungsweise Default-Mode-Netzwerke. Motorische Areale und Kleinhirn sind an der Belohnungsverarbeitung nicht in dieser Weise beteiligt."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "question": "Was zeigten die Experimente zur intrakraniellen Selbststimulation?",
+      "options": [
+        "Tiere betätigten den Schalter besonders häufig bei Stimulation cholinerger Bahnen aus dem Hirnstamm",
+        "Tiere vermieden den Schalter konsequent, sobald dopaminerge Bahnen stimuliert wurden",
+        "Tiere betätigten den Schalter besonders häufig bei Stimulation dopaminerger Bahnen aus dem VTA",
+        "Tiere zeigten unabhängig von der stimulierten Region stets dieselbe Tastendruckfrequenz"
+      ],
+      "answer": 2,
+      "explanation": "Bei Stimulation der Projektionsbahnen zwischen Mittelhirn, Striatum und kortikalen Regionen betätigten die Tiere den Schalter deutlich häufiger als bei anderen Regionen; verantwortlich waren dopaminerge Projektionsbahnen mit Ursprung im ventralen tegmentalen Areal, die zu erhöhter Dopaminfreisetzung im Nucleus accumbens führten. Cholinerge Hirnstammbahnen werden nicht als Ursache genannt. Eine Vermeidung des Schalters widerspricht dem verstärkenden Effekt. Eine regionsunabhängig gleiche Frequenz würde den gesamten Befund aufheben."
+    },
+    {
+      "topic": "Dopaminerges Belohnungssystem",
+      "question": "Welches Ergebnis erbrachte die intrakranielle Selbstadministration psychotroper Substanzen?",
+      "options": [
+        "Die Injektion in den Nucleus accumbens erhöhte die Tastendruckfrequenz ebenfalls",
+        "Die Tiere stellten das Tastendrücken nach der ersten Injektion vollständig ein",
+        "Nur Opiate, nicht aber Stimulanzien führten zu einer erhöhten Tastendruckfrequenz",
+        "Die Injektion in den Nucleus accumbens senkte die Tastendruckfrequenz deutlich ab"
+      ],
+      "answer": 0,
+      "explanation": "Wurde den Tieren bei Tastendruck Amphetamin, Phencyclidin, Morphium oder Kokain in den Nucleus accumbens injiziert, führte diese intrakranielle Selbstadministration ebenfalls zu einer erhöhten Tastendruckfrequenz – psychotrope Substanzen wirken also auf dasselbe System wie die elektrische Selbststimulation. Eine Absenkung der Frequenz widerspricht der verstärkenden Wirkung. Eine Beschränkung auf Opiate übergeht die ebenfalls geprüften Stimulanzien. Ein Einstellen des Verhaltens widerspricht dem Verstärkungseffekt."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "question": "Welche Modellvorhersage macht das Reward Deficiency Syndrome?",
+      "options": [
+        "Wer Belohnungen vermindert empfindet, sucht extremere Belohnungen wie Substanzkonsum oder Glücksspiel",
+        "Stress verstärkt das Belohnungssignal, das von psychotropen Substanzen ausgelöst wird",
+        "Substanzkonsum steigert das Verlangen, ohne dass notwendigerweise Genuss oder Glücksgefühle entstehen",
+        "Anhedonie und Belohnungsstreben sind opponente Prozesse, die Anhedonie wächst mit der Konsumdauer"
+      ],
+      "answer": 0,
+      "explanation": "Das Reward Deficiency Syndrome sagt vorher, dass Menschen mit verminderter Fähigkeit, Belohnungen zu empfinden, sich extremere Arten der Belohnung wie Substanzkonsum oder Glücksspiel suchen. Die Steigerung des Verlangens ohne Genuss ist die Vorhersage der Incentive-Sensitisation-Theorie. Opponente Prozesse mit wachsender Anhedonie kennzeichnen das Opponent-Process-Modell. Die Verstärkung des Belohnungssignals durch Stress gehört nicht zu den vier vorgestellten Theorien."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "question": "Welche Annahme macht das Opponent-Process-Modell?",
+      "options": [
+        "Das Belohnungssystem ist für Drogeneffekte hypersensibel, die Substanz erhält motivationale Salienz",
+        "Mangelnde Impulskontrolle ist die entscheidende und vererbbare Prädisposition für Drogenkonsum",
+        "Wer Belohnungen vermindert empfindet, sucht extremere Belohnungen wie Substanzkonsum oder Glücksspiel",
+        "Anhedonie und Belohnungsstreben sind gegenläufige Prozesse, die Anhedonie wächst mit der Konsumdauer"
+      ],
+      "answer": 3,
+      "explanation": "Im Opponent-Process-Modell stellen Anhedonie und das Streben nach Belohnung gegenläufige, opponente Prozesse dar, die das Bedürfnis des Organismus nach Homöostase spiegeln; die Anhedonie wird stärker, je länger der Konsum anhält, und damit wächst die Motivation, ihr entgegenzuwirken. Die Hypersensibilität für Drogeneffekte und die motivationale Salienz gehören zur Incentive-Sensitisation-Theorie. Die Suche nach extremeren Belohnungen ist die Vorhersage des Reward Deficiency Syndrome. Die vererbbare Impulsivität ist ein eigener Erklärungsansatz."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "trap": "Nach der Incentive-Sensitisation-Theorie steigt das Verlangen, ohne dass der Genuss mitsteigt.",
+      "question": "Welche Modellvorhersage macht die Incentive-Sensitisation-Theorie?",
+      "options": [
+        "Der Konsum steigert das „wanting“, ohne dass notwendigerweise „liking“ entsteht",
+        "Der Konsum steigert „wanting“ und „liking“ gleichermaßen und überproportional",
+        "Der Konsum lässt beide Komponenten über die Zeit hinweg unverändert bestehen",
+        "Der Konsum senkt das „wanting“ und steigert gleichzeitig allein das „liking“"
+      ],
+      "answer": 0,
+      "explanation": "Die Incentive-Sensitisation-Theorie sagt vorher, dass Substanzkonsum zu einer Steigerung des Verlangens führt, ohne dass notwendigerweise Genuss oder Glücksgefühle entstehen – die Substanz und alles, was an sie erinnert, erhält erhöhte motivationale Salienz. Eine gleichermaßen überproportionale Steigerung beider Komponenten widerspricht der Kernaussage. Ein Absinken des Verlangens bei steigendem Genuss kehrt die Vorhersage um. Ein unverändertes Fortbestehen beider Komponenten widerspricht der postulierten Sensibilisierung."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "transfer": true,
+      "question": "Ein Patient berichtet, der Konsum bereite ihm längst keine Freude mehr; er trinke inzwischen vor allem, um die anhaltende innere Leere zu überwinden, die im Verlauf der Jahre immer ausgeprägter geworden sei. Welches Modell erklärt das am ehesten?",
+      "options": [
+        "Die Incentive-Sensitisation-Theorie",
+        "Das Opponent-Process-Modell",
+        "Das Reward Deficiency Syndrome",
+        "Der Impulsivitätsansatz"
+      ],
+      "answer": 1,
+      "explanation": "Beschrieben ist genau die Modellvorhersage des Opponent-Process-Modells: Die verminderte Fähigkeit, Angenehmes zu erleben, erhöht die Motivation, die Substanz zu erhalten, und die Anhedonie wächst mit der Dauer des Konsums. Die Incentive-Sensitisation-Theorie betont das gesteigerte Verlangen durch substanzassoziierte Reize, nicht die zunehmende Anhedonie. Das Reward Deficiency Syndrome setzt die verminderte Belohnungsfähigkeit an den Anfang und sagt die Suche nach extremeren Belohnungen vorher. Der Impulsivitätsansatz führt den Konsum auf mangelnde Impulskontrolle zurück."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "hard": true,
+      "question": "Welches neurobiologische Korrelat wird für das Reward Deficiency Syndrome berichtet, und wie ist es zu bewerten?",
+      "options": [
+        "Erhöhte Dopaminrezeptordichten im Striatum, die eindeutig als Ursache des Konsums gelten",
+        "Erhöhte Dichte von Opioidrezeptoren im Hirnstamm, deren Bedeutung als geklärt gilt",
+        "Reduzierte Dopaminrezeptordichten im Striatum, wobei Ursache und Folge unklar bleiben",
+        "Reduzierte GABA-Rezeptordichten im Hippocampus, die als sichere Konsumfolge gelten"
+      ],
+      "answer": 2,
+      "explanation": "Als neurobiologisches Korrelat fanden sich reduzierte Dopaminrezeptordichten im Striatum; dabei ist ausdrücklich unklar, ob die reduzierte Rezeptorzahl Ursache oder Folge des Substanzkonsums ist. Erhöhte Rezeptordichten kehren den Befund um, und eine eindeutige Ursachenzuschreibung widerspricht der betonten Unklarheit. GABA-Rezeptoren im Hippocampus und Opioidrezeptoren im Hirnstamm werden in diesem Zusammenhang nicht als Korrelat des Reward Deficiency Syndrome genannt."
+    },
+    {
+      "topic": "Neurobiologische Theorien",
+      "transfer": true,
+      "question": "Ein Jugendlicher fällt durch ausgeprägte Risikobereitschaft und geringe Impulskontrolle auf. Welcher neurobiologische Befund passt nach der Vorlesung am ehesten dazu?",
+      "options": [
+        "Höhere Dichte grauer Substanz und gesteigerte Aktivität im ventralen Striatum",
+        "Gesteigerte Aktivität des Locus coeruleus bei unverändertem Striatum",
+        "Geringere Dichte grauer Substanz und geringere Aktivität im ventralen Striatum",
+        "Geringere Dichte grauer Substanz im primären auditorischen Kortex"
+      ],
+      "answer": 2,
+      "explanation": "Risikobereitschaft ist mit einer geringeren Dichte grauer Substanz und einer geringeren Aktivität im ventralen Striatum assoziiert; eine vererbbare Neigung zu Impulsivität gilt zudem als Prädisposition für Drogenkonsum. Höhere Dichte und gesteigerte Aktivität kehren den Befund um. Der auditorische Kortex spielt in diesem Zusammenhang keine Rolle. Eine gesteigerte Aktivität des Locus coeruleus betrifft das noradrenerge Stresssystem und nicht die Risikobereitschaft."
+    },
+    {
+      "topic": "Risikofaktoren und Nikotinstudie",
+      "hard": true,
+      "transfer": true,
+      "question": "Bei jugendlichen Rauchern findet sich im Vergleich zu Kontrollen eine erhöhte Aktivität des Belohnungssystems auf substanzassoziierte Hinweisreize. Welcher weitere Befund gilt als möglicher Risikofaktor für die Suchtentstehung?",
+      "options": [
+        "Eine erhöhte Aktivierung des primären motorischen Kortex auf neutrale Reize",
+        "Eine geringere Aktivierung derselben Regionen auf nicht-substanzassoziierte Belohnungen",
+        "Eine vollständig fehlende Reaktion des Belohnungssystems auf jede Art von Reiz",
+        "Eine ebenso erhöhte Aktivierung derselben Regionen auf nicht-substanzassoziierte Belohnungen"
+      ],
+      "answer": 1,
+      "explanation": "Studien zeigen bei Suchtkranken eine erhöhte Aktivität im Belohnungssystem bei substanzassoziierten Hinweisreizen und zugleich eine geringere Aktivierung in denselben Regionen auf nicht-substanzassoziierte Belohnungen; gerade Letzteres könnte einen Risikofaktor für die Suchtentstehung darstellen. Eine ebenfalls erhöhte Aktivierung auf natürliche Belohnungen widerspricht diesem Muster. Eine vollständig fehlende Reaktion auf jeden Reiz wird nicht berichtet. Der primäre motorische Kortex ist an dieser Fragestellung nicht beteiligt."
+    },
+    {
+      "topic": "Risikofaktoren und Nikotinstudie",
+      "question": "Welche Persönlichkeitsmerkmale werden als zusätzliche Prädiktoren des Substanzkonsums genannt?",
+      "options": [
+        "„Sensation blunting“ und „reward blindness“",
+        "„Effort discounting“ und „delay tolerance“",
+        "„Social desirability“ und „self monitoring“",
+        "„Novelty seeking“ und „harm avoidance“"
+      ],
+      "answer": 3,
+      "explanation": "Als zusätzliche Prädiktoren nennt die Vorlesung ausdrücklich „novelty seeking“ und „harm avoidance“. Die übrigen Begriffspaare kommen in der Darstellung nicht vor: „Sensation blunting“ und „reward blindness“ sind keine eingeführten Konstrukte, „effort discounting“ und „delay tolerance“ beziehen sich auf entscheidungsbezogene Paradigmen, und soziale Erwünschtheit sowie Selbstüberwachung stammen aus der diagnostischen Methodenlehre."
+    },
+    {
+      "topic": "Kritik am Dopaminmodell",
+      "hard": true,
+      "trap": "Der Dopamin-Befund ist im Wesentlichen nur für Stimulanzien belastbar – nicht für Opiate und Cannabis.",
+      "question": "Für welche Substanzklasse konnte die Beteiligung des dopaminergen Belohnungssystems am ehesten bestätigt werden?",
+      "options": [
+        "Für Cannabis",
+        "Für Stimulanzien",
+        "Für Opiate",
+        "Für alle psychotropen Substanzen gleichermaßen"
+      ],
+      "answer": 1,
+      "explanation": "Die Beteiligung des dopaminergen Belohnungssystems konnte im Wesentlichen für Stimulanzien bestätigt werden; für die meisten anderen Substanzen ist die Befundlage unklar, und für Opiate und Cannabis konnten keine belastbaren Ergebnisse erzielt werden. Eine Bestätigung für alle psychotropen Substanzen gleichermaßen widerspricht genau dieser Einschränkung, die den Kern der Kritik am einfachen Dopaminmodell ausmacht."
+    },
+    {
+      "topic": "Kritik am Dopaminmodell",
+      "question": "Wie sollten Substanzkonsumstörungen nach der Vorlesung stattdessen konzeptualisiert werden?",
+      "options": [
+        "Als reine Dopaminstörungen, deren Mechanismus über sämtliche Substanzklassen hinweg vollkommen identisch ist",
+        "Als Folge einer isolierten Fehlfunktion des Nucleus accumbens unabhängig von der Substanz",
+        "Als ausschließlich lerntheoretisch erklärbare Verhaltensmuster ohne neurobiologisches Korrelat",
+        "Als multiple Neurotransmitterstörungen, bei denen etwa GABA bei anderen Substanzen im Zentrum steht"
+      ],
+      "answer": 3,
+      "explanation": "Substanzkonsumstörungen sollten eher als multiple Neurotransmitterstörungen konzeptualisiert werden, bei denen das dopaminerge Belohnungssystem im Zentrum des Stimulanzienmissbrauchs steht, während andere Transmitter wie GABA bei anderen Substanzkonsumstörungen im Zentrum stehen; auch die Stresssysteme spielen eine Rolle. Eine reine Dopaminstörung mit einheitlichem Mechanismus ist genau die Position, die kritisiert wird. Ein Verzicht auf jedes neurobiologische Korrelat widerspricht der gesamten Vorlesung. Eine isolierte Accumbens-Fehlfunktion greift ebenfalls zu kurz."
+    },
+    {
+      "topic": "Kritik am Dopaminmodell",
+      "question": "Welche Rolle spielt der Publikationsbias in diesem Forschungsfeld?",
+      "options": [
+        "Theoriekonforme Befunde werden bevorzugt publiziert, Nullergebnisse dagegen kaum",
+        "Nullergebnisse werden bevorzugt publiziert, theoriekonforme Befunde dagegen zurückgehalten",
+        "Er wurde in diesem Feld untersucht und konnte durchgehend ausgeschlossen werden",
+        "Er betrifft ausschließlich tierexperimentelle Arbeiten, nicht aber Humanstudien"
+      ],
+      "answer": 0,
+      "explanation": "Studien mit positiven Ergebnissen, die den gängigen Theorien entsprechen, lassen sich gut publizieren, Nullergebnisse oder theoriewidrige Befunde dagegen nicht – dadurch entsteht eine Verzerrung zugunsten positiver Befunde in der Literatur. Die umgekehrte Darstellung widerspricht dem Mechanismus. Eine Beschränkung auf Tierexperimente wird nicht behauptet; die Kritik betrifft ausdrücklich auch die Humanstudien zur Inhibition. Ein Ausschluss des Bias widerspricht der ausdrücklichen Warnung."
+    },
+    {
+      "topic": "Kritik am Dopaminmodell",
+      "question": "Wie lässt sich die evolutionäre Einordnung der Substanzkonsumstörungen nach Poldrack am ehesten zusammenfassen?",
+      "options": [
+        "Das Belohnungssystem funktioniert wie vorgesehen, aber in einer Umgebung, auf die es nicht vorbereitet ist",
+        "Das Belohnungssystem verliert unter Substanzkonsum jede Fähigkeit zur Verstärkung von Verhalten",
+        "Das Belohnungssystem hat sich eigens zur Verarbeitung psychotroper Substanzen herausgebildet",
+        "Das Belohnungssystem ist bei Betroffenen bereits von Geburt an strukturell fehlgebildet und funktionsunfähig"
+      ],
+      "answer": 0,
+      "explanation": "Nach dieser Einordnung macht das Belohnungssystem genau das, wofür es entwickelt wurde – es reagiert auf Belohnungen –, jedoch in einer Umgebung, auf die es nicht vorbereitet ist; Substanzkonsumstörungen stellen ein Missverhältnis zwischen der Welt, in der wir uns entwickelt haben, und der heutigen dar, ähnlich wie bei Adipositas oder Typ-II-Diabetes. Eine angeborene Fehlbildung wird nicht behauptet. Eine Entwicklung eigens für psychotrope Substanzen kehrt die Argumentation um. Ein vollständiger Verlust der Verstärkungsfähigkeit widerspricht der fortbestehenden Reaktion auf Substanzreize."
+    },
+    {
+      "topic": "Inhibition",
+      "transfer": true,
+      "question": "Ein Patient kann eine bereits begonnene, gewohnheitsmäßige Handlung nicht mehr stoppen, obwohl sie in der aktuellen Situation nicht mehr sinnvoll ist. Welche Funktion ist am ehesten beeinträchtigt?",
+      "options": [
+        "Die Zuweisung motivationaler Salienz an einen Hinweisreiz",
+        "Die Integration interozeptiver Zustände und deren Veränderungen",
+        "Die Antizipation künftiger Belohnungen anhand früherer Erfahrungen",
+        "Die Inhibition automatisierter oder präpotenter Reaktionstendenzen"
+      ],
+      "answer": 3,
+      "explanation": "Inhibition wird definiert als Fähigkeit, automatisierte oder präpotente Reaktionstendenzen zu unterdrücken, die in einer bestimmten Situation nicht mehr adaptiv sind – genau daran scheitert der Patient. Die Antizipation künftiger Belohnungen betrifft das Belohnungslernen. Die Integration interozeptiver Zustände ist eine Funktion der Insula. Die Zuweisung motivationaler Salienz beschreibt das „wanting“ und erklärt nicht das fehlende Stoppen."
+    },
+    {
+      "topic": "Inhibition",
+      "hard": true,
+      "question": "Wie bewertet die Vorlesung die Evidenz für eine verminderte Inhibition bei Substanzkonsumstörungen?",
+      "options": [
+        "Die metaanalytische Evidenz ist eher schwach, unter anderem wegen kleiner Stichproben und liberaler Statistik",
+        "Die metaanalytische Evidenz ist durchgehend stark und gilt in ihrer methodischen Umsetzung als unumstritten",
+        "Die Evidenz stammt ausschließlich aus Tierexperimenten und wurde nie am Menschen geprüft",
+        "Die Evidenz spricht überwiegend für eine gesteigerte Inhibitionsleistung bei Betroffenen"
+      ],
+      "answer": 0,
+      "explanation": "Die metaanalytische Evidenz wird als eher schwach eingeschätzt: viele Studien mit zu kleinen Stichproben und zu liberalen, unkorrigierten statistischen Analysen, dazu ein vermutlich hoher Publikationsbias; zudem ist fraglich, ob Paradigmen zur Motor-Inhibition überhaupt geeignet sind, die Impulskontrolle bei Substanzkonsumstörungen abzubilden. Eine durchgehend starke Evidenz widerspricht dieser Bewertung. Eine Beschränkung auf Tierexperimente trifft nicht zu. Eine gesteigerte Inhibitionsleistung widerspricht der angenommenen Wirkrichtung."
+    },
+    {
+      "topic": "Cue-induced Craving und Insula",
+      "question": "In welchen Regionen zeigte sich bei entwöhnten alkoholabhängigen Patienten eine erhöhte Aktivierung auf alkoholassoziierte Bilder?",
+      "options": [
+        "Primärer auditorischer Kortex, Fasciculus arcuatus, Kleinhirn und Hirnstamm",
+        "Hippocampus, Corpora mamillaria, Fornix und die angrenzenden parahippocampalen Windungen",
+        "Anteriore zinguläre Kortizes, mediale Präfrontalkortizes, Putamina und visuelle Areale",
+        "Somatosensorische Kortizes, primärer motorischer Kortex und Thalamuskerne"
+      ],
+      "answer": 2,
+      "explanation": "Die Stimulation mit alkoholassoziierten Bildern führte zu erhöhter Aktivierung in anterioren zingulären Kortizes, medialen Präfrontalkortizes, Putamina und visuellen Arealen, die der Belohnungsverarbeitung sowie dem mesolimbischen und mesokortikalen Dopaminsystem zugerechnet werden; über verschiedene Substanzklassen hinweg ist dieses Muster relativ ähnlich. Auditorischer Kortex und Fasciculus arcuatus stammen aus dem Kontext früher Misshandlungserfahrungen. Der Hippocampus-Fornix-Kreis ist eine Gedächtnisstruktur. Somatosensorische und motorische Areale werden hier nicht berichtet."
+    },
+    {
+      "topic": "Cue-induced Craving und Insula",
+      "hard": true,
+      "question": "Welches Muster zeigte sich bei der Analyse der cue-induzierten Reaktivität über Studien hinweg?",
+      "options": [
+        "Regionen des DMN dominierten, der Beitrag des vorderen DMN nahm mit dem Schweregrad zu",
+        "Die Amygdala war ausschließlich bei leichtem Alkohol- und Nikotinkonsum beteiligt",
+        "Regionen des DMN dominierten, der Beitrag des vorderen DMN nahm mit dem Schweregrad ab",
+        "Ausschließlich klassische Belohnungsregionen trugen zum Muster bei, ohne DMN-Beteiligung"
+      ],
+      "answer": 2,
+      "explanation": "Regionen des Default-Mode-Netzwerks dominierten das zentrale Muster der cue-induzierten Reaktivität, und der Beitrag des vorderen DMN nahm mit zunehmendem Schweregrad des Substanzkonsums ab. Eine Zunahme mit dem Schweregrad kehrt diesen Befund um. Dass ausschließlich klassische Belohnungsregionen beteiligt gewesen wären, widerspricht dem Ergebnis, das gerade keine typischen Belohnungsregionen, wohl aber den anterioren zingulären Kortex zeigte. Eine Amygdala-Beteiligung wurde häufiger bei schwerem Konsum und bei anderen Substanzklassen als Alkohol und Nikotin beobachtet."
+    },
+    {
+      "topic": "Cue-induced Craving und Insula",
+      "transfer": true,
+      "question": "Ein abstinenter Raucher sieht auf dem Tisch eines Cafés Zigaretten und ein Feuerzeug liegen und verspürt unmittelbar starkes Verlangen. Wie erklärt das Insula-Modell diesen Vorgang?",
+      "options": [
+        "Umgebungsreize wirken unmittelbar auf den Nucleus accumbens, ohne dass interozeptive Prozesse beteiligt sind",
+        "Umgebungsreize reaktivieren interozeptive Repräsentationen des Konsums, woraus bewusstes Verlangen entsteht",
+        "Umgebungsreize hemmen die interozeptive Verarbeitung, wodurch das Körpergefühl beim Konsum ausgeblendet wird",
+        "Umgebungsreize aktivieren primär motorische Programme, die den Konsum reflexhaft und unbewusst auslösen"
+      ],
+      "answer": 1,
+      "explanation": "Nach dem Modell repräsentiert die Insula die interozeptiven Effekte von Konsumritualen und kodiert deren spezifisch subjektive Qualität; Umgebungsreize wie Zigaretten oder Konsumutensilien reaktivieren diese Repräsentationen über vmPFC und Amygdala, es entsteht das bewusste Verlangen, das an den Nucleus accumbens weitergeleitet wird und zielgerichtetes Verhalten motiviert. Eine Hemmung der interozeptiven Verarbeitung kehrt den Mechanismus um. Ein direkter Weg zum Nucleus accumbens ohne interozeptive Beteiligung übergeht den Kern des Modells. Rein motorische, unbewusste Programme widersprechen dem beschriebenen bewussten Verlangen."
+    },
+    {
+      "topic": "Cue-induced Craving und Insula",
+      "transfer": true,
+      "question": "In einer Studie an nikotinabhängigen Raucherinnen wurde vor einer achtwöchigen Entwöhnungstherapie die Reaktion auf rauchassoziierte Wörter gemessen. Welcher Befund sagte einen Rückfall am ehesten vorher?",
+      "options": [
+        "Eine niedrigere Aktivierung des Hippocampus bei rauchassoziierten Wörtern",
+        "Eine höhere Aktivierung im primären visuellen Kortex bei neutralen Wörtern",
+        "Eine niedrigere Aktivierung in der rechten Insula und in präfrontalen Arealen",
+        "Eine höhere Aktivierung in der rechten Insula und in präfrontalen Arealen"
+      ],
+      "answer": 3,
+      "explanation": "Personen mit einer höheren Aktivierung in der rechten Insula und in präfrontalen Arealen auf rauchassoziierte Wörter hatten eine höhere Rückfallwahrscheinlichkeit; ergänzend wird berichtet, dass ein Cue-Exposure Based Extinction Training das cue-induzierte Craving reduzieren kann. Eine niedrigere Aktivierung dieser Regionen kehrt den prädiktiven Zusammenhang um. Die Reaktion auf neutrale Wörter im visuellen Kortex war nicht der prädiktive Befund. Eine verminderte Hippocampusaktivierung wird in dieser Studie nicht als Prädiktor berichtet."
+    },
+    {
+      "topic": "Netzwerkmodell der Sucht",
+      "question": "Welche Neuroadaptationen nennt die Vorlesung als Folge exzessiven Substanzkonsums?",
+      "options": [
+        "Unveränderte Belohnungsaktivität bei vollständigem Ausfall der Stresssysteme",
+        "Reduzierte Aktivität des dopaminergen Belohnungssystems und sensitivierte Stresssysteme",
+        "Reduzierte Aktivität der Stresssysteme bei gleichzeitig gesteigerter Belohnungsaktivität",
+        "Gesteigerte Aktivität des dopaminergen Belohnungssystems und gedämpfte Stresssysteme"
+      ],
+      "answer": 1,
+      "explanation": "Exzessiver Substanzkonsum führt zu Neuroadaptationen, die die Aktivität des dopaminergen Belohnungssystems reduzieren und zugleich die Stresssysteme sensitivieren, namentlich die erweiterte Amygdala und den Bettnucleus der Stria terminalis; beides kann bei Abstinenz den Rückfall begünstigen. Eine gesteigerte Belohnungsaktivität bei gedämpften Stresssystemen kehrt beide Richtungen um. Ein vollständiger Ausfall der Stresssysteme wird nicht berichtet. Auch die vierte Kombination widerspricht der beschriebenen Doppelveränderung."
+    },
+    {
+      "topic": "Netzwerkmodell der Sucht",
+      "question": "Welche Konnektivitätsveränderung ist mit Substanzkonsumstörungen assoziiert?",
+      "options": [
+        "Eine Verminderung ausschließlich innerhalb des Salienznetzwerks",
+        "Eine Verminderung der Konnektivität im DMN und zwischen DMN und CEN",
+        "Eine Verstärkung der Konnektivität im DMN und zwischen DMN und CEN",
+        "Eine vollständige Entkopplung des CEN von allen übrigen Netzwerken"
+      ],
+      "answer": 1,
+      "explanation": "Substanzkonsumstörungen sind mit einer Verminderung der Konnektivität im Default-Mode-Netzwerk und zwischen DMN und zentralexekutivem Netzwerk assoziiert; dopaminerge Dysregulationen führen zu Funktionsstörungen im DMN, was Selbstkontrolle und die Kommunikation mit anderen Netzwerken verändert und Konsum wie Rückfall begünstigt. Eine Verstärkung der Konnektivität kehrt den Befund um. Eine Beschränkung auf das Salienznetzwerk trifft nicht zu. Eine vollständige Entkopplung des CEN überzeichnet den berichteten Effekt."
+    }
+  ]
+}

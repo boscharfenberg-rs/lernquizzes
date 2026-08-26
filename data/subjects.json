@@ -654,6 +654,13 @@
       "title": "Missbrauch und Vernachlässigung in der Kindheit",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Formen der Misshandlung, Dysregulation der Stresssysteme, FKBP5 und Epigenetik, vmPFC-Über- und -Unterfunktion, limbische und missbrauchsspezifische Veränderungen, adaptive Anpassung."
+    },
+    {
+      "id": "kan-substanzkonsumstoerungen",
+      "file": "kan-substanzkonsumstoerungen.json",
+      "title": "Substanzkonsumstörungen",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Belohnungslernen und wanting/liking, dopaminerges System, RDS/Opponent-Process/Incentive-Sensitisation, Kritik am Dopaminmodell, Inhibition, Cue-induced Craving, Insula und Netzwerkmodell."
     }
   ]
 }
