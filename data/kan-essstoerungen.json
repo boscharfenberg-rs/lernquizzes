@@ -1,0 +1,390 @@
+{
+  "id": "kan-essstoerungen",
+  "title": "Essstörungen",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Essstörungen: Provokationsstudien, maladaptive Nahrungsmittelwahl, Persönlichkeitstraits, Belohnungssystem und Transmitter, Interozeption und Insula, Volumetrie-Methodik, Körperbild und neurales Netzwerk.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Kultur und neurobiologischer Ursprung",
+      "question": "Wie ordnet die Vorlesung das Verhältnis von Kultur und Neurobiologie bei Essstörungen ein?",
+      "options": [
+        "Essstörungen sind vollständig kulturell bedingt, neurobiologische Befunde sind reine Artefakte",
+        "Essstörungen sind ausschließlich genetisch determiniert, das Umfeld spielt keinerlei Rolle",
+        "Das Umfeld prägt das Verhalten, doch es mehren sich Hinweise auf einen Ursprung im Gehirn",
+        "Kultureller Druck erklärt die Erkrankung vollständig, weshalb Prävention allein dort ansetzt"
+      ],
+      "answer": 2,
+      "explanation": "Die Vorlesung hält fest, dass das Umfeld sicherlich eine Rolle bei der Prägung des Verhaltens spielt, es aber immer mehr Hinweise darauf gibt, dass Essstörungen im Gehirn ihren Ursprung haben; dass viele Menschen Diät halten und dennoch nur wenige erkranken, spricht gegen eine rein kulturelle Erklärung. Eine vollständige kulturelle Verursachung ist genau die Position, die relativiert wird. Eine rein genetische Determination ohne Umweltanteil wird ebenfalls nicht vertreten. Eine allein kulturell ansetzende Prävention widerspricht dem Anliegen, neurobiologische Grundlagen für bessere Behandlungen zu verstehen."
+    },
+    {
+      "topic": "Provokationsstudien",
+      "question": "Welche Stimuluskategorien wurden in der berichteten Provokationsstudie dargeboten?",
+      "options": [
+        "Gesichter mit negativem Ausdruck, Körperbilder und neutrale Wörter",
+        "Hochkalorische Lebensmittel, Körperbilder und geometrische Muster",
+        "Substanzassoziierte Reize, aversive Szenen und neutrale Szenen",
+        "Hochkalorische Lebensmittel, aversive Szenen und neutrale Szenen"
+      ],
+      "answer": 3,
+      "explanation": "Dargeboten wurden Fotos hochkalorischer Lebensmittel sowie aversive und neutrale Szenen aus einem standardisierten Bildsystem; bei den Lebensmitteln lautete die Instruktion, zu entscheiden, wie hungrig man werde, bei den Szenen, welches Gefühl sie auslösen. Körperbilder und geometrische Muster waren nicht Teil dieses Paradigmas. Substanzassoziierte Reize stammen aus den Craving-Studien zu Substanzkonsumstörungen. Gesichter mit negativem Ausdruck wurden in den Untersuchungen zur Amygdala-Reaktivität nach Misshandlung eingesetzt."
+    },
+    {
+      "topic": "Provokationsstudien",
+      "hard": true,
+      "question": "Welche methodische Kritik äußert die Vorlesung an dieser Provokationsstudie?",
+      "options": [
+        "Die Gruppen waren weder im Alter noch in der Bildung aneinander angeglichen worden",
+        "Die Stichprobe enthielt keine gesunde Kontrollgruppe, sodass jeder sinnvolle Vergleichsmaßstab von vornherein fehlte",
+        "Der relevante Interaktionskontrast wurde nicht berichtet und die statistische Korrektur war zu liberal",
+        "Die Stimuli wurden ausschließlich nach der Messung und nicht während des Scans dargeboten"
+      ],
+      "answer": 2,
+      "explanation": "Kritisiert wird, dass der eigentlich relevante Kontrast – Patienten gegenüber Vergleichsgruppe im Kontrast Food gegenüber Non-Food – nicht berichtet wurde und die statistische Korrektur zu liberal ausfiel. Eine gesunde Kontrollgruppe war sehr wohl enthalten. Die Gruppen waren ausdrücklich in Alter und Bildung angepasst. Die Stimuli wurden während der Messung in Blöcken dargeboten; lediglich das Bilderrating erfolgte im Anschluss."
+    },
+    {
+      "topic": "Provokationsstudien",
+      "question": "Welches Aktivierungsmuster zeigte sich bei den Patientinnen im Vergleich zu den Kontrollen auf Nahrungsreize?",
+      "options": [
+        "Veränderte Aktivierung in medial-orbitofrontalen und anterior zingulären Arealen",
+        "Veränderte Aktivierung im primären auditorischen Kortex und im Hirnstamm",
+        "Veränderte Aktivierung in inferior parietalen Regionen und im linken Kleinhirn insgesamt",
+        "Veränderte Aktivierung im Hippocampus und in den Corpora mamillaria"
+      ],
+      "answer": 0,
+      "explanation": "Bei den Patientinnen zeigte sich auf Food-Stimuli eine veränderte Aktivierung in medial-orbitofrontalen und anterior zingulären Arealen. Inferior parietale Regionen und das linke Cerebellum kennzeichneten dagegen die Reaktion der gesunden Kontrollen. Auditorischer Kortex und Hirnstamm spielten in diesem Paradigma keine Rolle. Hippocampus und Corpora mamillaria gehören zu einem Gedächtniskreis und wurden hier nicht berichtet."
+    },
+    {
+      "topic": "Provokationsstudien",
+      "question": "Worin unterschieden sich Patientinnen mit Anorexia nervosa von solchen mit Bulimia nervosa, und wie wird das gedeutet?",
+      "options": [
+        "Im Hirnstamm, möglicherweise Ausdruck der veränderten vegetativen Grundregulation",
+        "Im primären visuellen Kortex, möglicherweise Ausdruck einer generell veränderten Verarbeitung visueller Reize",
+        "Im anterioren und lateralen Präfrontalkortex, möglicherweise Ausdruck der Unterdrückung unerwünschten Verhaltens",
+        "Im Cerebellum, möglicherweise Ausdruck der bei Anorexie erhöhten körperlichen Aktivität"
+      ],
+      "answer": 2,
+      "explanation": "Unterschiede zwischen Anorexia und Bulimia nervosa zeigten sich im anterioren und lateralen Präfrontalkortex; dies könnte mit der Unterdrückung unerwünschten Verhaltens in Zusammenhang stehen. Okzipitale und parietale Regionen unterschieden sich zwischen Nahrungs- und aversiven Reizen gerade nicht. Das Cerebellum trat im Kontrollgruppenmuster auf und nicht im Gruppenvergleich der beiden Störungsbilder. Der Hirnstamm wird in dieser Studie nicht berichtet."
+    },
+    {
+      "topic": "Maladaptive Nahrungsmittelwahl",
+      "question": "Wie beschreibt die Vorlesung die persistente Auswahl niedrigkalorischer Lebensmittel bei Anorexia nervosa klinisch?",
+      "options": [
+        "Als vollständigen Verlust jeder Fähigkeit zur bewussten und willentlichen Handlungssteuerung",
+        "Als bewusste Provokation des sozialen Umfelds ohne inneren Antrieb",
+        "Als kurzfristige Reaktion auf akuten Stress ohne überdauernden Charakter",
+        "Als beeindruckende, aber fehlgeleitete Fähigkeit, primäre Triebe zu überschreiben"
+      ],
+      "answer": 3,
+      "explanation": "Klinisch wird das Verhalten als beeindruckende, aber fehlgeleitete Fähigkeit beschrieben, primäre Triebe zu überschreiben – ein Ausdruck zielgerichteter Selbstkontrolle. Ein vollständiger Verlust der Handlungssteuerung widerspricht genau dieser ausgeprägten Kontrollleistung. Eine kurzfristige Stressreaktion widerspricht dem persistenten Charakter des Musters. Eine bewusste Provokation des Umfelds wird als Erklärung nicht angeführt."
+    },
+    {
+      "topic": "Maladaptive Nahrungsmittelwahl",
+      "transfer": true,
+      "question": "Eine Patientin entscheidet sich für eine Therapie mit dem Ziel der Gewichtszunahme, wählt bei den Mahlzeiten aber weiterhin konsequent die niedrigkalorischen Speisen. Was illustriert das nach der Vorlesung am ehesten?",
+      "options": [
+        "Eine bewusste Ablehnung der Therapie, die eine weitere Behandlung derzeit aussichtslos erscheinen lässt",
+        "Ein Zeichen dafür, dass die Selbstkontrolle der Patientin insgesamt herabgesetzt ist",
+        "Eine vorübergehende Nebenwirkung der Mangelernährung ohne Bezug zum Störungsbild",
+        "Die auch bei verändertem Ziel äußerst schlechte Fähigkeit, das Aufnahmemuster umzustellen"
+      ],
+      "answer": 3,
+      "explanation": "Die Vorlesung hebt hervor, dass die Fähigkeit, das Muster der Nahrungsaufnahme zu ändern, äußerst schlecht bleibt, selbst wenn sich die Ziele ändern – genau deshalb gilt die Anorexia nervosa als einzigartiges Modell persistenten und maladaptiven Verhaltens. Eine bewusste Therapieablehnung widerspricht der geschilderten Behandlungsentscheidung. Eine bloße Nebenwirkung der Mangelernährung erklärt die gezielte Auswahl nicht. Eine herabgesetzte Selbstkontrolle kehrt den Befund um, denn das Verhalten ist Ausdruck besonders ausgeprägter Selbstkontrolle."
+    },
+    {
+      "topic": "Maladaptive Nahrungsmittelwahl",
+      "question": "Mit welcher Hirnregion korrelierte der Auswahlwert in der Food Choice Task bei den Patientinnen?",
+      "options": [
+        "Mit der Aktivität im dorsalen Striatum",
+        "Mit der Aktivität im Hippocampus",
+        "Mit der Aktivität im primären visuellen Kortex",
+        "Mit der Aktivität in der posterioren Insula"
+      ],
+      "answer": 0,
+      "explanation": "In der Anorexie-Gruppe korrelierte der Auswahlwert der Nahrungsmittel mit der Aktivität im dorsalen Striatum, das mit der Etablierung und Ausführung von Handlungen assoziiert wird. Die posteriore Insula ist an der interozeptiven und gustatorischen Verarbeitung beteiligt, war hier aber nicht die berichtete Korrelationsregion. Der primäre visuelle Kortex verarbeitet die Bildreize unabhängig vom Auswahlwert. Der Hippocampus wird in diesem Zusammenhang nicht berichtet."
+    },
+    {
+      "topic": "Maladaptive Nahrungsmittelwahl",
+      "hard": true,
+      "question": "Wie verhielt sich die funktionelle Konnektivität zwischen Striatum und dorsolateralem Präfrontalkortex in der Food Choice Task?",
+      "options": [
+        "In beiden Gruppen gleichermaßen stark für hochkalorische Lebensmittel ohne Gruppenunterschied",
+        "Bei den Patientinnen stärker für niedrigkalorische, bei den Kontrollen stärker für hochkalorische Lebensmittel",
+        "Bei den Patientinnen stärker für hochkalorische, bei den Kontrollen stärker für niedrigkalorische Lebensmittel",
+        "In beiden Gruppen unabhängig vom Kaloriengehalt der dargebotenen Lebensmittel unverändert"
+      ],
+      "answer": 1,
+      "explanation": "Die Konnektivität zwischen Striatum und dorsolateralem Präfrontalkortex unterschied sich zwischen hoch- und niedrigkalorischen Nahrungsmitteln: Bei Patientinnen war sie für niedrigkalorische, bei gesunden Kontrollen für hochkalorische Lebensmittel stärker ausgeprägt; die Differenz korrelierte bei den Patientinnen zudem mit der tatsächlichen Nahrungsaufnahme am Folgetag. Die umgekehrte Zuordnung vertauscht beide Gruppen. Ein fehlender Gruppenunterschied oder eine kalorienunabhängige Konnektivität widersprechen dem berichteten Befund."
+    },
+    {
+      "topic": "Maladaptive Nahrungsmittelwahl",
+      "question": "Welche Funktion wird dem dorsalen Striatum und den frontostriatalen Netzwerken zugeschrieben?",
+      "options": [
+        "Etablierung und Ausführung von Handlungen sowie die Entwicklung habituellen Verhaltens",
+        "Räumliche Konstruktion des Körperbildes und dessen Über- oder Fehleinschätzung",
+        "Signalisierung des Umstands, dass von einem bestimmten Nahrungsmittel bereits genug aufgenommen wurde",
+        "Verarbeitung interozeptiver Signale und die Repräsentation von Magendehnung"
+      ],
+      "answer": 0,
+      "explanation": "Das dorsale Striatum wird mit der Etablierung und Ausführung von Handlungen assoziiert und erhält direkte Informationen vom ventralen Striatum, das für Belohnungsempfinden, Belohnungsantizipation und motivationale Prozesse zuständig ist; frontostriatale Netzwerke stehen mit der Entwicklung habituellen Verhaltens in Verbindung. Interozeption und Magendehnung sind Funktionen der Insula. Die räumliche Konstruktion des Körperbildes leistet der posteriore parietale Kortex. Die wahrnehmungsspezifische Sättigung ist eine Funktion des orbitofrontalen Kortex."
+    },
+    {
+      "topic": "Persönlichkeitseigenschaften",
+      "question": "Welche Persönlichkeitseigenschaften finden sich häufig bei Patientinnen mit Anorexia nervosa?",
+      "options": [
+        "Negative Emotionalität, Perfektionismus, Inflexibilität, harm avoidance und obsessive Verhaltensweisen",
+        "Impulsivität, novelty seeking, geringe Selbstkontrolle und eine hohe Frustrationstoleranz",
+        "Positive Emotionalität, ausgeprägte Spontaneität, kognitive Flexibilität und hohe Risikobereitschaft",
+        "Emotionale Labilität, Bindungsvermeidung, Aggressivität und ausgeprägte Antriebssteigerung"
+      ],
+      "answer": 0,
+      "explanation": "Genannt werden negative Emotionalität, Perfektionismus, Inflexibilität, harm avoidance sowie obsessive Verhaltensweisen, die insbesondere Reihenfolge, Exaktheit und Symmetrie betreffen. Spontaneität, Flexibilität und Risikobereitschaft beschreiben das Gegenteil dieses Profils. Impulsivität, novelty seeking und geringe Selbstkontrolle sind eher mit Substanzkonsumstörungen assoziiert. Emotionale Labilität mit Aggressivität und Antriebssteigerung gehört nicht zum beschriebenen Traitmuster."
+    },
+    {
+      "topic": "Persönlichkeitseigenschaften",
+      "transfer": true,
+      "question": "Bei einer Patientin bestand bereits vor Beginn der Essstörung eine deutlich erhöhte Ängstlichkeit, die auch nach der Gewichtsabnahme unverändert fortbesteht. Wie ordnet die Vorlesung das ein?",
+      "options": [
+        "Als vorübergehende Reaktion auf die Diagnosestellung ohne prognostische Bedeutung",
+        "Als prämorbid feststellbares und persistierendes Merkmal, nicht als bloße Folge des Untergewichts",
+        "Als Hinweis darauf, dass keine Essstörung, sondern eine reine Angststörung vorliegt",
+        "Als reine Folge der Mangelernährung, die sich mit der Normalisierung des Gewichts regelhaft zurückbildet"
+      ],
+      "answer": 1,
+      "explanation": "Eine hohe Ängstlichkeit ist bereits prämorbid feststellbar und bleibt auch nach der Gewichtsabnahme bestehen; komorbide Angststörungen sind häufig, und Angststörungen in der Kindheit prädizieren eine schwerere Symptomatik und einen schlechteren Therapieerfolg. Eine regelhafte Rückbildung mit dem Gewicht widerspricht der Persistenz. Eine bloße Reaktion auf die Diagnosestellung übersieht den prämorbiden Beginn. Ein Ausschluss der Essstörung ist nicht gemeint – beides tritt gerade häufig gemeinsam auf."
+    },
+    {
+      "topic": "Persönlichkeitseigenschaften",
+      "hard": true,
+      "question": "Welche Rolle spielt der Perfektionismus im Zusammenhang mit restriktivem Diäthalten?",
+      "options": [
+        "Er ist die alleinige Ursache des restriktiven Diäthaltens ohne weitere beteiligte Faktoren",
+        "Er schützt vor restriktivem Diäthalten, weil er zu regelmäßigen Mahlzeiten anhält",
+        "Er entsteht erst als Folge des restriktiven Diäthaltens und geht diesem nicht voraus",
+        "Er mediiert den Zusammenhang zwischen wahrgenommener Kritik und restriktivem Diäthalten"
+      ],
+      "answer": 3,
+      "explanation": "Perfektionismus mediiert den Zusammenhang zwischen wahrgenommener Kritik und restriktiver Diät: Die empfundene Kritik stellt den initialen Faktor dar, der Perfektionismus den Interaktionsfaktor. Eine alleinige Verursachung übergeht diesen initialen Faktor. Eine schützende Wirkung widerspricht der Assoziation mit schlechterer Erholung und kürzerer Remissionsdauer. Dass er erst als Folge entstünde, widerspricht der Beobachtung, dass sich Perfektionismus-Level mit der Reduktion der Symptomatik nicht verändern."
+    },
+    {
+      "topic": "Persönlichkeitseigenschaften",
+      "transfer": true,
+      "question": "In einer Untersuchung zeigen nicht nur akut erkrankte und remittierte Patientinnen, sondern auch deren gesunde Geschwister rigides Antwortverhalten und erhöhte Perseverationen. Welche Funktion ist betroffen, und was legt der Befund nahe?",
+      "options": [
+        "Die Interozeption; der Befund belegt eindeutig, dass die gesamte Störung allein durch die Mangelernährung verursacht wird",
+        "Das Set shifting; der Befund lässt offen, ob es sich um einen prädisponierenden Trait oder eine Krankheitsfolge handelt",
+        "Das Delay-Discounting; der Befund belegt eine ausschließlich krankheitsbedingte Veränderung",
+        "Die Körperbildkonstruktion; der Befund schließt eine familiäre Komponente sicher aus"
+      ],
+      "answer": 1,
+      "explanation": "Beschrieben ist eine Leistungsminderung im Set shifting, also verminderte kognitive Flexibilität; da sie sich auch bei Geschwistern und in Remission zeigt, bleibt ausdrücklich fraglich, ob es sich um einen prädisponierenden Trait oder ein Resultat der Erkrankung handelt. Die Interozeption betrifft die Wahrnehmung innerer Zustände und erklärt kein rigides Antwortverhalten. Das Delay-Discounting beschreibt die Abwertung künftiger Belohnungen. Die Körperbildkonstruktion ist eine räumlich-perzeptuelle Leistung, und der Geschwisterbefund spricht gerade für eine familiäre Komponente."
+    },
+    {
+      "topic": "Persönlichkeitseigenschaften",
+      "trap": "Der Nahrungsverzicht wirkt bei diesen Patientinnen angstlösend – er erzeugt kurzfristig keine zusätzliche Anspannung.",
+      "question": "Welcher Effekt des Nahrungsverzichts wird als Beitrag zur Aufrechterhaltung des pathologischen Essverhaltens genannt?",
+      "options": [
+        "Ein angststeigernder Effekt, der über die dadurch erhöhte Anspannung zu immer weiterem Verzicht zwingt",
+        "Ein anxiolytischer Effekt, unterstützt durch gesteigerte Inhibition und verminderte Interozeption",
+        "Ein rein körperlicher Effekt ohne jede Auswirkung auf das emotionale Erleben",
+        "Ein euphorisierender Effekt, der ausschließlich über das Opioidsystem vermittelt wird"
+      ],
+      "answer": 1,
+      "explanation": "Die Vorlesung nennt einen anxiolytischen Effekt nach Nahrungsverzicht; gesteigerte Inhibition, Selbstkontrolle, die Fähigkeit, Belohnungserfahrungen hinauszuzögern, und eine verminderte Interozeption unterstützen den Verzicht zusätzlich. Ein angststeigernder Effekt kehrt diesen Mechanismus um. Ein rein körperlicher Effekt ohne emotionale Wirkung widerspricht der beschriebenen Angstreduktion. Eine ausschließliche Vermittlung über das Opioidsystem wird nicht behauptet."
+    },
+    {
+      "topic": "Belohnungssystem und Transmitter",
+      "hard": true,
+      "trap": "Vermindertes Delay-Discounting heißt: besser warten können – nicht etwa ungeduldiger sein.",
+      "question": "Wie verhält sich das Delay-Discounting bei Anorexia nervosa?",
+      "options": [
+        "Es ist erhöht, die Fähigkeit auf Belohnungen zu warten ist also vermindert",
+        "Es ist unverändert und unterscheidet sich nicht von gesunden Kontrollen",
+        "Es lässt sich bei dieser Patientengruppe methodisch nicht sinnvoll erfassen",
+        "Es ist vermindert, die Fähigkeit auf Belohnungen zu warten ist also erhöht"
+      ],
+      "answer": 3,
+      "explanation": "Patientinnen mit Anorexia nervosa zeigen eine erhöhte Fähigkeit, auf Belohnungen zu warten – das entspricht einem verminderten Delay-Discounting, also einer geringeren Abwertung künftiger Belohnungen. Ein erhöhtes Delay-Discounting mit verminderter Wartefähigkeit beschreibt das gegenteilige Muster, wie es etwa bei der ADHS diskutiert wird. Ein unveränderter Befund widerspricht dem berichteten Gruppenunterschied. Eine grundsätzliche Nichterfassbarkeit wird nicht behauptet."
+    },
+    {
+      "topic": "Belohnungssystem und Transmitter",
+      "question": "Welches Muster von Belohnungs- und Bestrafungssensitivität zeigt sich bei Anorexia nervosa in akuter wie remittierter Phase?",
+      "options": [
+        "Erhöhte Belohnungsreaktivität und verminderte Bestrafungssensitivität",
+        "Verminderte Belohnungsreaktivität und erhöhte Bestrafungssensitivität",
+        "Erhöhte Belohnungsreaktivität und ebenso erhöhte Bestrafungssensitivität",
+        "Verminderte Belohnungsreaktivität und ebenso verminderte Bestrafungssensitivität"
+      ],
+      "answer": 1,
+      "explanation": "Berichtet werden eine erhöhte Bestrafungssensitivität und eine verminderte Belohnungsreaktivität, und zwar sowohl in der akuten als auch in der remittierten Krankheitsphase; passend dazu wurden die Patientinnen als anhedonisch und asketisch beschrieben. Die umgekehrte Konstellation widerspricht diesem Profil. Eine beidseitige Erhöhung oder beidseitige Verminderung übersieht die charakteristische Verschiebung der Balance zwischen Belohnungsempfinden und inhibitorischer Selbstkontrolle."
+    },
+    {
+      "topic": "Belohnungssystem und Transmitter",
+      "hard": true,
+      "question": "Wie ist die im PET gefundene höhere D2/D3-Rezeptorbindung bei Anorexia nervosa zu interpretieren?",
+      "options": [
+        "Als Hinweis auf reduzierte intrasynaptische Dopaminkonzentrationen oder auf mehr beziehungsweise affinere Rezeptoren",
+        "Als Messartefakt, das ausschließlich auf die Dehydration der Patientinnen zurückgeht",
+        "Als eindeutiger Beleg für eine deutlich gesteigerte intrasynaptische Dopaminausschüttung in dieser Hirnregion",
+        "Als Beleg für eine vollständig aufgehobene dopaminerge Signalübertragung im Striatum"
+      ],
+      "answer": 0,
+      "explanation": "Die höhere Bindung im Raclopride-PET könnte auf eine Reduktion der intrasynaptischen Dopaminkonzentration hinweisen oder auf eine Erhöhung von Anzahl beziehungsweise Affinität der D2/D3-Rezeptoren – beide Deutungen bleiben offen; passend dazu weisen Patientinnen ein vermindertes Level an Dopamin-Metaboliten im Liquor auf. Eine gesteigerte Dopaminausschüttung widerspricht dem Metabolitenbefund. Ein reines Dehydrationsartefakt wird für diesen Befund nicht angeführt. Eine vollständig aufgehobene Signalübertragung überzeichnet die Datenlage."
+    },
+    {
+      "topic": "Belohnungssystem und Transmitter",
+      "question": "Mit welchen Funktionen wird das serotonerge System im Kontext der Essstörungen in Verbindung gebracht?",
+      "options": [
+        "Sprachverarbeitung, Arbeitsgedächtnis und die phonologische Schleife",
+        "Thermoregulation, Atemantrieb und die vegetative Kreislaufsteuerung",
+        "Sättigungsempfinden, Impulskontrolle, Salienzattribution und Entscheidungsfindung",
+        "Räumliche Orientierung, Blickmotorik und die Feinabstimmung der Zielmotorik"
+      ],
+      "answer": 2,
+      "explanation": "Serotonin wird mit der Empfindung von Sättigung, der Steuerung der Impulskontrolle, der Salienzattribution und der Entscheidungsfindung in Verbindung gebracht; zusätzlich mit der Signalisierung des Belohnungswerts, dem Delay-Discounting und der Balance zwischen Belohnung und Bestrafung. Räumliche Orientierung und Motorik, Sprachverarbeitung und Arbeitsgedächtnis sowie vegetative Grundfunktionen werden dem serotonergen System in dieser Darstellung nicht zugeordnet."
+    },
+    {
+      "topic": "Belohnungssystem und Transmitter",
+      "transfer": true,
+      "question": "Ein Studierender soll die dopaminergen Befunde bei Kokainkonsumstörung, Adipositas und Anorexia nervosa gegenüberstellen. Welche Zusammenfassung trifft nach der Vorlesung zu?",
+      "options": [
+        "Bei allen drei Gruppen übereinstimmend eine deutlich erhöhte Zahl striataler Dopaminrezeptoren",
+        "Bei Adipositas mehr Dopaminrezeptoren, bei Kokainkonsumstörung und Anorexia nervosa unveränderte Werte",
+        "Bei Kokainkonsumstörung mehr Dopaminrezeptoren, bei Adipositas und Anorexia nervosa weniger Dopamin",
+        "Bei Kokainkonsumstörung und Adipositas weniger Dopaminrezeptoren, bei Anorexia nervosa weniger Dopamin"
+      ],
+      "answer": 3,
+      "explanation": "Die Gegenüberstellung nennt jeweils im Vergleich zu gesunden Kontrollen: bei Kokainkonsumstörung weniger Dopaminrezeptoren, bei Adipositas weniger Dopaminrezeptoren und bei Anorexia nervosa weniger Dopamin. Eine übereinstimmend erhöhte Rezeptorzahl in allen drei Gruppen widerspricht dem. Mehr Rezeptoren bei Kokainkonsumstörung kehrt den dortigen Befund um. Auch mehr Rezeptoren bei Adipositas mit unveränderten Werten in den übrigen Gruppen entspricht nicht der Darstellung."
+    },
+    {
+      "topic": "Interozeption und Insula",
+      "transfer": true,
+      "trap": "Die Richtung der Insula-Veränderung ist gegenläufig: bei Anorexie vermindert, bei Übergewicht erhöht.",
+      "question": "Zwei Patientengruppen werden hinsichtlich der Geschmacksverarbeitung in der Insula verglichen: eine mit Anorexia nervosa, eine mit Übergewicht. Welches Muster ist zu erwarten?",
+      "options": [
+        "Bei Anorexia nervosa verminderte, bei Übergewicht erhöhte Insulaaktivität",
+        "In beiden Gruppen unveränderte Insulaaktivität gegenüber Kontrollen",
+        "Bei Anorexia nervosa erhöhte, bei Übergewicht verminderte Insulaaktivität",
+        "In beiden Gruppen gleichermaßen erhöhte Insulaaktivität gegenüber Kontrollen"
+      ],
+      "answer": 0,
+      "explanation": "Bei Anorexia nervosa wird eine verminderte Aktivität beschrieben – weniger oder schlechterer Geschmack, ein veränderter Set-Point, der permanente Sattheit suggerieren könnte, geringe Belohnung durch Essen und damit geringe Motivation zu essen. Bei Übergewicht zeigt sich umgekehrt eine erhöhte Aktivität mit übersteigerter Prozessierung, starker Aufwertung von Nahrung und gesteigerter Essmotivation. Die umgekehrte Zuordnung vertauscht beide Gruppen. Ein einheitliches Muster in beiden Gruppen widerspricht dem gegenläufigen Befund."
+    },
+    {
+      "topic": "Interozeption und Insula",
+      "hard": true,
+      "question": "Welches Muster zeigte sich bei akut untergewichtigen Patientinnen hinsichtlich Antizipation und Konsum eines Geschmacksreizes?",
+      "options": [
+        "Gleich hohe Aktivität bei Antizipation und Konsum ohne jeden Unterschied zu Kontrollen",
+        "Höhere Aktivität bei der Antizipation, was kognitive Kontrollprozesse während des Konsums auslösen könnte",
+        "Vollständig fehlende Aktivität sowohl bei der Antizipation als auch während des Konsums",
+        "Niedrigere Aktivität bei der Antizipation, während der Konsum selbst eine deutlich überschießende Reaktion auslöste"
+      ],
+      "answer": 1,
+      "explanation": "Bei akut untergewichtigen Patientinnen fand sich eine höhere Aktivität in Striatum und Insula bei der Antizipation eines Geschmacksempfindens; dies könnte kognitive Kontrollprozesse triggern, die das Belohnungssignal während des Konsums von Nahrung unterdrücken. Eine niedrigere Antizipationsaktivität mit überschießendem Konsum kehrt den Befund um. Ein fehlender Unterschied zu Kontrollen widerspricht dem berichteten Gruppeneffekt. Eine vollständig fehlende Aktivität überzeichnet die Befundlage."
+    },
+    {
+      "topic": "Interozeption und Insula",
+      "transfer": true,
+      "trap": "Der Unterschied liegt in der kognitiven Kontrolle: Anorexie kann das Belohnungssignal dämpfen, Bulimie nicht.",
+      "question": "Bei wiederholter und dadurch vorhersagbarer Gabe süßer Reize sinkt die Aktivität in geschmacksrelevanten Regionen bei der einen, steigt aber bei der anderen Patientengruppe. Welche Zuordnung und Deutung trifft zu?",
+      "options": [
+        "Anstieg in beiden Gruppen, wobei die Bulimie lediglich das stärkere Ausmaß zeigt",
+        "Absinken bei Anorexie durch vorbereitende kognitive Kontrolle, Anstieg bei Bulimie mangels dieser Fähigkeit",
+        "Absinken in beiden Gruppen, wobei die Anorexie lediglich das stärkere Ausmaß zeigt",
+        "Absinken bei Bulimie durch vorbereitende kognitive Kontrolle, Anstieg bei Anorexie mangels dieser Fähigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Die wiederholte, vorhersagbare Verabreichung süßer Stimuli ging bei Anorexia nervosa mit einer Verminderung der Aktivität in Insula und ventralem Striatum einher, bei bulimischen Patientinnen dagegen mit höherer Aktivität; anorektische Patientinnen könnten sich bei der Antizipation vorbereiten und eine zu starke Beteiligung der Belohnungsareale vermeiden, während bulimischen Patientinnen diese Fähigkeit zur kognitiven Kontrolle fehlt. Die umgekehrte Zuordnung vertauscht beide Störungsbilder. Ein gleichgerichteter Effekt in beiden Gruppen widerspricht dem gegenläufigen Muster."
+    },
+    {
+      "topic": "Interozeption und Insula",
+      "question": "Welche Rolle wird der Insula im Gesamtmodell der Essstörungen zugeschrieben?",
+      "options": [
+        "Als Speicherort autobiografischer Erinnerungen an frühere Mahlzeiten und Diäterfahrungen",
+        "Als rein motorisches Zentrum, das die Nahrungsaufnahme über den Schluckreflex steuert",
+        "Als koordinierender Knotenpunkt, der die Kommunikation zwischen den beteiligten Arealen ordnet und Salienz zuweist",
+        "Als isolierte Region, deren Veränderung völlig unabhängig von allen übrigen beteiligten Hirnarealen wirksam wird"
+      ],
+      "answer": 2,
+      "explanation": "Da es unwahrscheinlich ist, dass alle betroffenen Bereiche spezifische Veränderungen aufweisen, wird eher eine gestörte Konnektivität angenommen; die Insula gilt als die Region, die die Interaktion zwischen den beteiligten Arealen koordiniert und dabei Salienz zuweist – bildhaft wie ein Server, der die Kommunikation zehntausender Neurone ordnet. Eine isolierte Wirkung widerspricht genau diesem Konnektivitätsgedanken. Eine rein motorische Funktion trifft nicht zu. Autobiografische Erinnerungen werden dem Default-Mode-Netzwerk und nicht der Insula zugeschrieben."
+    },
+    {
+      "topic": "Interozeption und Insula",
+      "question": "Was ergab der Vergleich von Zuckerlösung und Wasser im fMRT bei Patientinnen mit Anorexia nervosa?",
+      "options": [
+        "Reduzierte Insulaaktivität und fehlende Korrelation zwischen Schmackhaftigkeit und neuraler Aktivität",
+        "Unveränderte Insulaaktivität bei gleichzeitig erhöhter Aktivität im primären motorischen Kortex",
+        "Reduzierte Aktivität ausschließlich im Hippocampus ohne Beteiligung gustatorischer Areale",
+        "Erhöhte Insulaaktivität und eine besonders enge Korrelation zwischen Schmackhaftigkeit und neuraler Aktivität"
+      ],
+      "answer": 0,
+      "explanation": "Beim Konsum von Zuckerlösung im Vergleich zu Wasser zeigte sich eine reduzierte Insulaaktivität als Hinweis auf eine verminderte Enkodierung gustatorischer Reize; zudem bestand bei gesunden Kontrollen eine Korrelation zwischen Schmackhaftigkeit und neuraler Aktivität, bei den Patientinnen dagegen nicht. Eine erhöhte Aktivität mit enger Korrelation kehrt beide Befunde um. Eine unveränderte Insulaaktivität widerspricht dem Kernergebnis. Eine Beschränkung auf den Hippocampus übergeht die gustatorischen Areale."
+    },
+    {
+      "topic": "Volumetrie und Struktur",
+      "hard": true,
+      "question": "Was sollte bei der Vermessung von Hirnvolumina bei Patientinnen mit Anorexia nervosa beachtet werden?",
+      "options": [
+        "Der Elektrolytmangel, der die Signalstärke des BOLD-Effekts unmittelbar und massiv reduziert",
+        "Nichts Besonderes, da das Streben nach Selbstkontrolle eine hervorragende Compliance sichert",
+        "Die hohe Impulsivität der Patientinnen, die zu starken Bewegungsartefakten und erheblichem Datenverlust führt",
+        "Globale Effekte durch akute Dehydration und Mangelernährung, die nicht das eigentliche neurale Korrelat darstellen"
+      ],
+      "answer": 3,
+      "explanation": "Zahlreiche Studien zeigen eine Volumenverminderung über weite Teile des Gehirns, die vermutlich durch mangelnde Kontrolle von Störvariablen entsteht; genannt werden unter anderem Alter, Gesamthirnvolumen, Störungssubtyp, exzessiver Sport, Komorbidität, Medikation sowie globale Effekte durch akute Dehydration und Mangelernährung. Bewegungsartefakte durch Impulsivität passen nicht zum beschriebenen Traitprofil. Ein unmittelbarer Elektrolyteffekt auf den BOLD-Kontrast wird nicht angeführt. Dass nichts zu beachten sei, widerspricht der gesamten Kritik."
+    },
+    {
+      "topic": "Volumetrie und Struktur",
+      "trap": "Nach Kontrolle der Störvariablen kehrt sich das Bild um: erhöhte statt verminderte Volumina.",
+      "question": "Welche Strukturbefunde ergaben sich bei Anorexia nervosa, nachdem für die Störvariablen kontrolliert wurde?",
+      "options": [
+        "Erhöhte Volumina grauer Substanz im Hippocampus und im primären motorischen Kortex",
+        "Verminderte Volumina grauer Substanz in der rechten Insula und im linken medial-orbitofrontalen Kortex",
+        "Erhöhte Volumina grauer Substanz in der rechten Insula und im linken medial-orbitofrontalen Kortex",
+        "Unveränderte Volumina über alle Regionen hinweg im Vergleich zu gesunden Kontrollen"
+      ],
+      "answer": 2,
+      "explanation": "Nach Kontrolle der Störvariablen und bei kontrolliertem Ernährungsplan fanden sich erhöhte Volumina grauer Substanz in der rechten Insula und im linken medial-orbitofrontalen Kortex bei erwachsenen und adoleszenten Patientinnen; bei Adipositas zeigte sich der gegenteilige Effekt mit vermindertem Volumen. Verminderte Volumina in denselben Regionen kehren den Befund um und entsprechen eher den unkontrollierten Studien. Hippocampus und motorischer Kortex werden hier nicht berichtet. Unveränderte Volumina widersprechen dem Ergebnis."
+    },
+    {
+      "topic": "Volumetrie und Struktur",
+      "transfer": true,
+      "question": "Eine gesunde Person merkt beim Essen, dass sie von einer bestimmten Speise genug hat, obwohl sie insgesamt noch Appetit verspürt. Welche Funktion welcher Region beschreibt das am ehesten?",
+      "options": [
+        "Die interozeptive Signalintegration der posterioren Insula",
+        "Die wahrnehmungsspezifische Sättigung des orbitofrontalen Kortex",
+        "Die Konfliktüberwachung des anterioren Cingulums",
+        "Die Belohnungsantizipation des ventralen Striatums"
+      ],
+      "answer": 1,
+      "explanation": "Der orbitofrontale Kortex nimmt eine wichtige Rolle in der Kontrolle der Nahrungsaufnahme ein: Er signalisiert, wenn genug eines bestimmten Nahrungsmittels aufgenommen wurde – die wahrnehmungsspezifische Sättigung; eine Störung könnte das Essverhalten beeinflussen. Die posteriore Insula integriert interozeptive Signale wie Magendehnung und allgemeine Sattheit, nicht die Spezifität für ein einzelnes Nahrungsmittel. Die Belohnungsantizipation betrifft die Erwartung, nicht das Sättigungssignal. Die Konfliktüberwachung ist eine exekutive Funktion ohne direkten Bezug zur Sättigung."
+    },
+    {
+      "topic": "Körperbild und Netzwerkmodell",
+      "transfer": true,
+      "question": "Eine Patientin schätzt die Breite ihres Körpers im Raum deutlich größer ein, als sie tatsächlich ist. Welcher Region wird diese Leistung im Modell der Körperbildstörung zugeschrieben?",
+      "options": [
+        "Dem präfrontalen Kortex",
+        "Der Insula",
+        "Dem posterioren parietalen Kortex",
+        "Der extrastriatalen Körperperzeptionsregion"
+      ],
+      "answer": 2,
+      "explanation": "Dem posterioren parietalen Kortex wird die Integration und räumliche Konstruktion des Körperbildes zugeschrieben, einschließlich der Über- beziehungsweise Fehleinschätzung. Die extrastriatale und fusiforme Körperregion leistet die Perzeption von Körpern und Körperteilen. Dem präfrontalen Kortex werden Bewertung und Unzufriedenheit zugeordnet. Die Insula steht für Affekt, Interozeption und Integration."
+    },
+    {
+      "topic": "Körperbild und Netzwerkmodell",
+      "hard": true,
+      "question": "Welche Bereiche gelten nach der berichteten Zusammenschau als Schlüsseldefizite bei Essstörungen?",
+      "options": [
+        "Die Bottom-up-Sensorik und die Belohnungsverarbeitung, jeweils in akuten wie erholten Zuständen",
+        "Ausschließlich die Sprachverarbeitung und das verbale Arbeitsgedächtnis in der akuten Krankheitsphase",
+        "Die Gedächtniskonsolidierung und der autobiografische Abruf in beiden Krankheitsphasen",
+        "Ausschließlich die motorische Kontrolle und die Feinkoordination in der erholten Phase"
+      ],
+      "answer": 0,
+      "explanation": "Die Ergebnisse zeigen separate Komponenten für die exterozeptive und interozeptive Bottom-up-Verarbeitung – im Bereich von Precuneus beziehungsweise Claustrum und Insula – sowie Defizite bei Belohnungsverarbeitung und Set-Shifting; Bottom-up-Sensorik und Belohnungsverarbeitung gelten damit als Schlüsseldefizite in akuten wie erholten Zuständen. Sprachverarbeitung und verbales Arbeitsgedächtnis werden nicht als Schlüsseldefizit ausgewiesen. Motorische Kontrolle und Feinkoordination gehören nicht zu den genannten Bereichen. Gedächtniskonsolidierung und autobiografischer Abruf werden in dieser Zusammenschau nicht als Kernbefund berichtet."
+    }
+  ]
+}

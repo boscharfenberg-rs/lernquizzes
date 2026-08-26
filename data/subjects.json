@@ -661,6 +661,13 @@
       "title": "Substanzkonsumstörungen",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Belohnungslernen und wanting/liking, dopaminerges System, RDS/Opponent-Process/Incentive-Sensitisation, Kritik am Dopaminmodell, Inhibition, Cue-induced Craving, Insula und Netzwerkmodell."
+    },
+    {
+      "id": "kan-essstoerungen",
+      "file": "kan-essstoerungen.json",
+      "title": "Essstörungen",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Provokationsstudien, maladaptive Nahrungsmittelwahl, Persönlichkeitstraits, Belohnungssystem und Transmitter, Interozeption und Insula, Volumetrie-Methodik, Körperbild und neurales Netzwerk."
     }
   ]
 }
