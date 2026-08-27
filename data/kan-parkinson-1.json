@@ -1,0 +1,388 @@
+{
+  "id": "kan-parkinson-1",
+  "title": "Morbus Parkinson I – Symptome, Basalganglien, nichtmotorische Befunde",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson I: Kardinalsymptome und Syndromgruppen, α-Synuclein und Lewy-Körperchen, prä- und symptomatische Phasen mit body-first/brain-first, Substantia nigra und dopaminerge Bahnen, direkter und indirekter Weg der Basalganglienschleife, Nucleus subthalamicus und tiefe Hirnstimulation, nichtmotorische Symptome sowie kortikostriatales Remapping und DMN-Befunde. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Symptome & Syndromformen",
+      "question": "Welche Zuordnung eines Parkinson-Kardinalsymptoms zu seiner Beschreibung trifft **NICHT** zu?",
+      "options": [
+        "Posturale Instabilität bezeichnet die Bewegungsarmut, also die verminderte Zahl spontaner Bewegungen.",
+        "Der Ruhetremor entsteht durch unwillkürliche Kontraktionen agonistischer und antagonistischer Muskelgruppen.",
+        "Akinese bezeichnet die Bewegungsarmut, die beim akinetisch-rigiden Verlaufstyp im Vordergrund steht.",
+        "Rigor bezeichnet die Muskelstarre, die durch Koaktivierung agonistischer und antagonistischer Muskeln entsteht."
+      ],
+      "answer": 0,
+      "explanation": "Posturale Instabilität meint die Störung der aufrechten Körperhaltung, nicht die Bewegungsarmut – die gesuchte, unzutreffende Aussage. Die drei übrigen Zuordnungen sind korrekt: Rigor entsteht tatsächlich durch die gleichzeitige Koaktivierung von Agonist und Antagonist, der Ruhetremor durch deren unwillkürliche Kontraktion, und Akinese ist die Bewegungsarmut, die den akinetisch-rigiden Typ prägt."
+    },
+    {
+      "topic": "Symptome & Syndromformen",
+      "transfer": true,
+      "trap": "Nicht jedes Parkinson-Bild ist idiopathisch – vaskuläre, medikamentöse, traumatische oder entzündliche Auslöser definieren die sekundäre Gruppe.",
+      "question": "Eine Patientin entwickelt unter langfristiger Neuroleptika-Behandlung Rigor und ausgeprägte Bewegungsarmut. Welcher Gruppe der Parkinson-Syndrome ist dieses Bild am ehesten zuzuordnen?",
+      "options": [
+        "Einem symptomatischen (sekundären) Parkinson-Syndrom, hier medikamentös ausgelöst.",
+        "Einem idiopathischen Parkinson-Syndrom vom akinetisch-rigiden Typ, da Bewegungsstörung und Steifheit dominieren.",
+        "Einem atypischen Parkinson-Syndrom im Rahmen einer anderen neurodegenerativen Erkrankung wie der Multisystematrophie.",
+        "Einer monogenetischen Form des Parkinson-Syndroms, die sich unter Medikation erstmals demaskiert."
+      ],
+      "answer": 0,
+      "explanation": "Die Parkinson-Syndrome werden in vier Gruppen eingeteilt; die vierte umfasst symptomatische (sekundäre) Formen, die u. a. medikamentös – ausdrücklich durch Neuroleptika – ausgelöst werden. Genau das liegt hier vor. Das idiopathische Parkinson-Syndrom ist definitionsgemäß ohne erkennbaren äußeren Auslöser, auch wenn die Verlaufsform akinetisch-rigide aussieht. Ein atypisches Syndrom setzt eine andere neurodegenerative Grunderkrankung wie Multisystematrophie oder Lewy-Körperchen-Demenz voraus. Die monogenetischen Formen bilden eine eigene Gruppe und werden nicht durch Medikamente demaskiert."
+    },
+    {
+      "topic": "Symptome & Syndromformen",
+      "question": "Das idiopathische Parkinson-Syndrom wird klinisch in Verlaufsformen unterteilt. Welche Beschreibung trifft auf den Äquivalenz-Typ am ehesten zu?",
+      "options": [
+        "Bewegungsstörung und Steifheit dominieren, ein Ruhetremor ist nicht führend.",
+        "Bewegungsstörung, Steifheit und Ruhezittern sind etwa gleich stark ausgeprägt.",
+        "Ausschließlich ein Ruhezittern liegt vor, während Bewegungsstörung und Steifheit vollständig fehlen.",
+        "Das Ruhezittern dominiert deutlich, Bewegungsstörung und Steifheit treten dahinter zurück."
+      ],
+      "answer": 1,
+      "explanation": "Beim Äquivalenz-Typ sind Bewegungsstörung, Steifheit und Ruhezittern etwa gleich ausgeprägt – das ist die Definition dieser Verlaufsform. Die ausschließliche Beschränkung auf ein Ruhezittern beschreibt den seltenen monosymptomatischen Ruhetremor, das dominierende Zittern den Tremordominanz-Typ und das Überwiegen von Bewegungsstörung und Steifheit den akinetisch-rigiden Typ."
+    },
+    {
+      "topic": "α-Synuclein & Lewy-Körperchen",
+      "question": "Welche Aussage zur physiologischen Rolle von α-Synuclein trifft am ehesten zu?",
+      "options": [
+        "Es ist ein Enzym, das Katecholamine wie Dopamin inaktiviert und abbaut, sodass sein Ausfall Dopamin anreichert.",
+        "Es steht mit Aufbau und Abbau vesikulärer Systeme in Verbindung und moduliert die Dopaminfreisetzung.",
+        "Es bildet die Myelinscheiden dopaminerger Axone im Mittelhirn und sichert die rasche Erregungsleitung zum Striatum.",
+        "Es ist ein Rezeptorprotein vom Typ D2, dessen inhibitorische Wirkung im Striatum die Bewegungsinitiierung hemmt."
+      ],
+      "answer": 1,
+      "explanation": "α-Synuclein ist ein Protein, das mit dem Aufbau vesikulärer Systeme – Mitochondrien, Lysosomen, endoplasmatisches Retikulum, synaptische Vesikel – sowie deren Abbau und Verwertung in Verbindung steht und u. a. die Dopaminfreisetzung moduliert; bei Kumulation wirkt es neurotoxisch. Der Abbau von Katecholaminen ist Aufgabe der Catechol-O-Methyltransferase, nicht von α-Synuclein. Myelin im ZNS bilden Oligodendrozyten. Und Dopaminrezeptoren vom Typ D2 sind Membranrezeptoren des Striatums, kein vesikelassoziiertes Protein."
+    },
+    {
+      "topic": "α-Synuclein & Lewy-Körperchen",
+      "trap": "Lewy-Körperchen sind eindeutig nur post mortem nachweisbar – kein bildgebendes Verfahren der Vorlesung leistet das am Lebenden.",
+      "question": "Welche Aussage zu Lewy-Körperchen trifft **NICHT** zu?",
+      "options": [
+        "Sie bestehen hauptsächlich aus α-Synuclein, daneben aus Ubiquitin, Neurofilament und weiteren Proteinablagerungen.",
+        "Sie stellen sich als runde Einschlüsse im Zytoplasma der betroffenen Nervenzellen dar.",
+        "Sie lassen sich bereits im Frühstadium zuverlässig mit der strukturellen MRT darstellen.",
+        "Bei Morbus Parkinson finden sie sich hauptsächlich in der Substantia nigra."
+      ],
+      "answer": 2,
+      "explanation": "Lewy-Körperchen sind eindeutig nur post mortem nachzuweisen; eine zuverlässige Darstellung im Frühstadium mittels struktureller MRT gibt es nicht – das ist die gesuchte, unzutreffende Aussage. Zutreffend sind dagegen die Zusammensetzung überwiegend aus α-Synuclein neben Ubiquitin und Neurofilament, die Form als runde zytoplasmatische Einschlüsse und die Hauptlokalisation in der Substantia nigra."
+    },
+    {
+      "topic": "α-Synuclein & Lewy-Körperchen",
+      "question": "Einige Autoren halten Morbus Parkinson für eine prionen-ähnliche Erkrankung. Worauf stützt sich diese Annahme laut Vorlesung am ehesten?",
+      "options": [
+        "Auf den Nachweis, dass Lewy-Körperchen bei Angehörigen Erkrankter gehäuft im peripheren Blut zirkulieren.",
+        "Auf die Effekte intrazerebral infundierter α-Synuclein-Fibrillen im Tierversuch.",
+        "Auf die Korrelation zwischen dem COMT-Genotyp und dem Ausmaß des dopaminergen Zellverlusts.",
+        "Auf die Beobachtung, dass eine weit gestreute neuronale Expression zahlreiche Neurone gleichzeitig schädigt."
+      ],
+      "answer": 1,
+      "explanation": "Die prionen-ähnliche Annahme geht u. a. auf die Auswirkungen der Infusion intrazerebraler α-Synuclein-Fibrillen bei Versuchstieren zurück; danach steigt α-Synuclein von peripheren Zellen über Hirnstamm und Mittelhirn zum Großhirn auf – konsequent gedacht wäre Parkinson damit prinzipiell übertragbar. Zirkulierende Lewy-Körperchen im Blut von Angehörigen gibt es nicht; die Einschlüsse sind intrazellulär und post mortem nachweisbar. Die weit gestreute neuronale Expression ist das Argument der konkurrierenden Threshold-Theorie, nicht der Prionen-Hypothese. Der COMT-Genotyp spielt in der Vorlesung nur bei Levodopa-Effekten auf den medialen präfrontalen Kortex eine Rolle."
+    },
+    {
+      "topic": "α-Synuclein & Lewy-Körperchen",
+      "hard": true,
+      "question": "Was besagt die „Threshold theory“ (Engelender & Isacson) zur Entstehung der Parkinson-Symptomatik?",
+      "options": [
+        "Erst wenn ein Schwellenwert der Levodopa-Dosis überschritten wird, kippt die Netzwerkaktivität von Kompensation in Dekompensation um.",
+        "Weit gestreute α-Synuclein-Expression schädigt viele Neurone; sichtbar wird das erst, wenn Kerngebiete den Verlust nicht mehr kompensieren.",
+        "Motorische Symptome entstehen, sobald die Dichte der Lewy-Körperchen in der Substantia nigra einen kritischen Grenzwert übersteigt.",
+        "α-Synuclein steigt von peripheren Zellen über Hirnstamm und Mittelhirn zum Großhirn auf und breitet die Pathologie prionenartig aus."
+      ],
+      "answer": 1,
+      "explanation": "Die Threshold-Theorie geht von einer weit gestreuten neuronalen Expression von α-Synuclein aus, die ausreicht, um simultan zahlreiche Neurone zu schädigen; eine Dysfunktion wird erst ersichtlich, wenn wichtige Kerngebiete den neuronalen Verlust nicht mehr kompensieren können. Der Aufstieg aus der Peripherie über den Hirnstamm beschreibt die konkurrierende prionen-ähnliche Annahme. Eine Dosisschwelle von Levodopa ist nicht gemeint – die Theorie betrifft die Pathogenese, nicht die Therapie. Und eine kritische Dichte von Lewy-Körperchen wird als Schwellenkriterium nicht formuliert; die Gründe der Zelldegeneration gelten ausdrücklich als ungeklärt."
+    },
+    {
+      "topic": "Krankheitsphasen & Progression",
+      "question": "Welche Aussage zum Zusammenhang von dopaminergem Zellverlust und Symptombeginn trifft am ehesten zu?",
+      "options": [
+        "Motorische Symptome treten erst auf, wenn rund 70 % der dopaminergen Synapsen in Nucleus caudatus und Putamen verloren sind.",
+        "Die ersten pathologischen Veränderungen fallen mit der klinischen Manifestation zusammen, eine präsymptomatische Phase gibt es nicht.",
+        "Nichtmotorische Symptome wie REM-Schlafstörungen setzen erst nach den motorischen ein, wenn über 70 % der Hirnstammneurone untergegangen sind.",
+        "Motorische und nichtmotorische Symptome beginnen gemeinsam, sobald etwa ein Fünftel der nigrostriatalen Neurone degeneriert ist."
+      ],
+      "answer": 0,
+      "explanation": "Typische motorische Parkinsonsymptome treten erst auf, wenn ca. 70 % der dopaminergen Synapsen in Nucleus caudatus und Putamen verschwunden sind. Nichtmotorische Symptome – Störungen des REM-Schlafs, Verstopfung, Herzrhythmusstörungen – können dagegen schon bei 20–30 % Verlust im aufsteigenden retikulären Aktivierungssystem, in der Peripherie sowie im autonomen und enterischen Nervensystem auftreten, gehen den motorischen also voraus (sind allerdings nicht parkinsonspezifisch). Ein gemeinsamer Beginn beider Symptomgruppen widerspricht genau dieser Staffelung. Und eine präsymptomatische Phase existiert sehr wohl: Erste pathologische Veränderungen gehen der klinischen Manifestation um 5–20 Jahre voraus."
+    },
+    {
+      "topic": "Krankheitsphasen & Progression",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein 62-jähriger Patient berichtet über jahrelange Verstopfung, eine REM-Schlafverhaltensstörung und Geruchsverlust; die später einsetzende Motorik ist wenig asymmetrisch. Welchem Subtyp entspricht das Bild am ehesten?",
+      "options": [
+        "Dem brain-first-Typ: Die Pathologie beginnt einseitig im Bulbus olfactorius, weshalb die Motorik ausgeprägt asymmetrisch bleibt.",
+        "Einem atypischen Parkinson-Syndrom, weil nichtmotorische Symptome den motorischen zeitlich vorausgehen.",
+        "Dem body-first-Typ: Die α-Synuclein-Pathologie beginnt peripher und erreicht das Gehirn erst später.",
+        "Einem symptomatischen Parkinson-Syndrom, da vegetative Beschwerden für eine medikamentöse Auslösung sprechen."
+      ],
+      "answer": 2,
+      "explanation": "Die Konstellation aus Obstipation, positiver REM-Schlafverhaltensstörung, Anosmie und wenig asymmetrischem Motorikbeginn entspricht dem body-first-Muster: Die α-Synuclein-Pathologie nimmt ihren Ausgang im enterischen Nervensystem und steigt caudo-rostral auf, mit symmetrischerem Dopaminverlust und pathologischer kardialer sympathischer Bildgebung. Der brain-first-Typ ist gerade umgekehrt charakterisiert – Beginn im Bereich von Bulbus olfactorius und Amygdala, asymmetrischer, eher tremordominanter Verlauf und häufig negative REM-Schlafverhaltensstörung. Für ein symptomatisches Syndrom fehlt jeder äußere Auslöser; vegetative Symptome allein belegen keine Medikamentenwirkung. Und ein zeitliches Vorausgehen nichtmotorischer Symptome ist beim idiopathischen Syndrom die Regel, kein Kriterium für ein atypisches Syndrom."
+    },
+    {
+      "topic": "Krankheitsphasen & Progression",
+      "question": "Welche Konstellation bei Erkrankungsbeginn spricht am ehesten für den brain-first-Subtyp?",
+      "options": [
+        "Leichte kognitive Beeinträchtigung bei symmetrischem Dopaminverlust in der Bildgebung.",
+        "Symmetrischer Beginn mit Anosmie, häufiger Obstipation und wiederholter orthostatischer Hypotension.",
+        "Asymmetrischer, eher tremordominanter Beginn bei negativer REM-Schlafverhaltensstörung.",
+        "Frühe Herzrhythmusstörungen bei pathologischer kardialer sympathischer Bildgebung und Anosmie."
+      ],
+      "answer": 2,
+      "explanation": "Für den brain-first-Typ sprechen ein asymmetrischer, häufiger tremordominanter Motorikbeginn, eine negative REM-Schlafverhaltensstörung, normale oder nur leicht reduzierte Olfaktion und weitgehend normale Kognition. Symmetrischer Beginn mit Anosmie, Obstipation und orthostatischer Hypotension kennzeichnet dagegen den body-first-Typ, ebenso die pathologische kardiale sympathische Bildgebung mit frühen vegetativen Symptomen. Auch eine leichte kognitive Beeinträchtigung bei symmetrischem Dopaminverlust passt zum body-first-Muster, bei dem genau das häufiger berichtet wird."
+    },
+    {
+      "topic": "Substantia nigra & Dopamin",
+      "hard": true,
+      "question": "Welche Aussage zur Substantia nigra trifft **NICHT** zu?",
+      "options": [
+        "Ihre Pars reticularis weist eine niedrige Zelldichte auf und projiziert GABAerg zum Thalamus.",
+        "Ihre Pars compacta ist zellarm und sendet GABAerge Fasern zu den motorischen Thalamuskernen.",
+        "Sie liegt im Mesencephalon dorsal der Hirnschenkel und wird den Basalganglien zugerechnet.",
+        "Ihre Pars compacta ist zelldicht und enthält große dopaminerge Neurone, die in das Striatum projizieren."
+      ],
+      "answer": 1,
+      "explanation": "Die Beschreibung „zellarm und GABAerg zum Thalamus“ gehört zur Pars reticularis, nicht zur Pars compacta – deshalb ist diese Aussage die gesuchte, unzutreffende. Korrekt sind dagegen: Die Pars compacta besitzt eine hohe Zelldichte mit großen dopaminergen Neuronen, die ins Striatum projizieren; die Pars reticularis hat eine niedrige Zelldichte und GABAerge Projektionen zu motorischen Thalamuskernen; und die Substantia nigra liegt im Mittelhirn dorsal der Hirnschenkel und zählt zu den Basalganglien."
+    },
+    {
+      "topic": "Substantia nigra & Dopamin",
+      "trap": "Nicht der Transmitter selbst legt die Wirkrichtung fest, sondern der Rezeptortyp am Zielneuron.",
+      "question": "Die Wirkung des Dopamins im Striatum ist teils exzitatorisch, teils inhibitorisch. Wodurch wird die Wirkrichtung bestimmt?",
+      "options": [
+        "Durch die Feuerrate der nigrostriatalen Neurone: Bei hoher Frequenz wirkt Dopamin exzitatorisch, bei niedriger inhibitorisch.",
+        "Durch den Rezeptortyp: Typ-1-Rezeptoren (D1, D5) wirken eher exzitatorisch, Typ-2-Rezeptoren (D2–D4) eher inhibitorisch.",
+        "Durch den Kotransmitter: Gemeinsam mit Glutamat wirkt Dopamin exzitatorisch, gemeinsam mit GABA inhibitorisch.",
+        "Durch die Herkunft der Fasern: Fasern aus der Pars compacta wirken exzitatorisch, solche aus der Pars reticularis inhibitorisch."
+      ],
+      "answer": 1,
+      "explanation": "Die Wirkung des Dopamins wird durch die Rezeptoren im Striatum bestimmt: Typ-1-Rezeptoren (D1 und D5) wirken eher exzitatorisch, Typ-2-Rezeptoren (D2 bis D4) eher inhibitorisch. Die Entladungsfrequenz der nigrostriatalen Neurone verändert die Menge des freigesetzten Dopamins, nicht aber das Vorzeichen der Wirkung. Die Pars reticularis ist GABAerg und liefert überhaupt keine dopaminergen Fasern ins Striatum, sodass die Herkunft als Erklärung ausscheidet. Und ein Kotransmitter, der die Wirkrichtung umschaltet, wird in der Vorlesung nicht beschrieben."
+    },
+    {
+      "topic": "Substantia nigra & Dopamin",
+      "hard": true,
+      "question": "Welche Zuordnung der dopaminergen Projektionsbahnen trifft am ehesten zu?",
+      "options": [
+        "Alle drei dopaminergen Hauptbahnen entspringen dem ventralen tegmentalen Areal und unterscheiden sich nur im Zielgebiet.",
+        "Die nigrostriatale Bahn entspringt dem ventralen tegmentalen Areal und zieht zum Nucleus accumbens, die mesokortikale zum Striatum.",
+        "Die mesokortikale Bahn entspringt der Pars reticularis und endet im Nucleus accumbens, die mesolimbische im präfrontalen Kortex.",
+        "Die nigrostriatale Bahn entspringt der Substantia nigra pars compacta, die mesolimbische dem ventralen tegmentalen Areal."
+      ],
+      "answer": 3,
+      "explanation": "Die nigrostriatale Bahn zieht von der Substantia nigra pars compacta (SNc) zum Striatum und ist bei Morbus Parkinson die entscheidend betroffene Bahn; mesolimbische und mesokortikale Bahn entspringen dem ventralen tegmentalen Areal (VTA) und erreichen Nucleus accumbens bzw. präfrontalen Kortex. Eine nigrostriatale Bahn aus dem VTA zum Nucleus accumbens verwechselt genau diese beiden Ursprungsgebiete. Die Pars reticularis ist GABAerg und Ursprung keiner dopaminergen Bahn, und die mesolimbische Bahn endet nicht im präfrontalen Kortex. Ein gemeinsamer Ursprung aller drei Bahnen im VTA übersieht die SNc als Ursprung der nigrostriatalen Projektion."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "trap": "Streifenkörper und Linsenkern überschneiden sich nur im Putamen – der Linsenkern besteht aus Putamen und Globus pallidus.",
+      "question": "Welche anatomische Zuordnung innerhalb der Basalganglien trifft zu?",
+      "options": [
+        "Der Nucleus lentiformis besteht aus der Substantia nigra und dem Nucleus subthalamicus.",
+        "Der Nucleus lentiformis (Linsenkern) umfasst den Nucleus caudatus und das Putamen, nicht aber den Globus pallidus.",
+        "Das Corpus striatum setzt sich aus Putamen und Globus pallidus zusammen und wird auch Linsenkern genannt.",
+        "Das Corpus striatum (Streifenkörper) umfasst den Nucleus caudatus und das Putamen."
+      ],
+      "answer": 3,
+      "explanation": "Der Streifenkörper (Corpus striatum) fasst Nucleus caudatus (Schweifkern) und Putamen (Schale) zusammen. Der Linsenkern (Nucleus lentiformis) besteht dagegen aus Putamen und Globus pallidus – die Zuordnung von Nucleus caudatus und Putamen zum Linsenkern verwechselt beide Begriffe, ebenso die Gleichsetzung von Streifenkörper und Linsenkern. Substantia nigra und Nucleus subthalamicus zählen zwar funktionell zu den Basalganglien bzw. deren Regelkreisen, bilden aber keinen Linsenkern."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "transfer": true,
+      "question": "Eine Patientin greift beim Kochen wiederholt zu kräftig zu und zerdrückt dabei rohe Eier. Welche Funktion der Basalganglien ist hier am ehesten beeinträchtigt?",
+      "options": [
+        "Die Koordination der eingesetzten Kraft bei der Ausführung von Bewegungen.",
+        "Die Integration komplexer Verhaltensmuster in übergeordnete Handlungspläne.",
+        "Die Programmierung der richtigen Reihenfolge einzelner Teilhandlungen.",
+        "Die Beteiligung am Belohnungssystem bei der Auswahl von Handlungen."
+      ],
+      "answer": 0,
+      "explanation": "Die Basalganglien koordinieren die eingesetzte Kraft – das Schulbeispiel der Vorlesung ist genau das rohe Ei, das nicht zerdrückt werden soll. Eine gestörte Reihenfolge von Teilhandlungen beträfe die Programmierung von Handlungsabläufen und zeigte sich als falsch sortierte, nicht als zu kräftige Bewegung. Die Integration komplexer Verhaltensmuster betrifft übergeordnete Muster statt der Dosierung einer einzelnen Greifbewegung. Und die Beteiligung am Belohnungssystem erklärt die Auswahl von Handlungen, nicht deren Kraftdosierung."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "question": "Aus welchen Arealen erhalten die Basalganglien laut Vorlesung ihren kortikalen Haupteingang zum Putamen?",
+      "options": [
+        "Aus supplementär-motorischem, prämotorischem, primär-motorischem und somatosensorischem Kortex sowie dem Parietallappen.",
+        "Überwiegend aus dem primären visuellen Kortex und dem Temporallappen, die die Bewegungsziele vorgeben.",
+        "Ausschließlich aus dem primär-motorischen Kortex; sensorische und parietale Areale werden erst über den Thalamus rückgekoppelt.",
+        "Vor allem aus dem orbitofrontalen und dem zingulären Kortex, die dort die Kraftdosierung von Bewegungen festlegen."
+      ],
+      "answer": 0,
+      "explanation": "Neurone aus dem supplementär-motorischen, dem prämotorischen, dem primär-motorischen und dem somatosensorischen Kortex sowie aus dem Parietallappen projizieren in das Putamen – der Eingang ist also breit motorisch-somatosensorisch. Eine Beschränkung auf den primär-motorischen Kortex unterschlägt genau diese Breite. Orbitofrontaler und zingulärer Kortex tauchen in der Vorlesung im Zusammenhang mit Impulskontrolle und Netzwerkbefunden auf, nicht als Haupteingang des Putamens. Und primärer visueller Kortex und Temporallappen gehören nicht zu den beschriebenen kortikostriatalen Eingängen."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "question": "Wie verläuft der direkte Weg der basalganglionär-kortikalen Schleife?",
+      "options": [
+        "Vom Nucleus subthalamicus über das Putamen unmittelbar in den primär-motorischen Kortex.",
+        "Vom Putamen über den Globus pallidus externus und den Nucleus subthalamicus zum Globus pallidus internus.",
+        "Vom motorischen Thalamus über die Pars compacta unmittelbar in den supplementär-motorischen Kortex.",
+        "Vom Putamen zum Globus pallidus internus und zur Pars reticularis, von dort in den motorischen Thalamus."
+      ],
+      "answer": 3,
+      "explanation": "Beim direkten Weg projizieren Neurone des Putamens in den Globus pallidus internus und in die Pars reticularis der Substantia nigra; beide Kerngebiete projizieren zur Rückkopplung in den motorischen Thalamus, der wiederum in motorische Kortexareale zurückprojiziert. Der Weg fördert Bewegungen. Der Umweg über Globus pallidus externus und Nucleus subthalamicus beschreibt dagegen den indirekten Weg. Ein Verlauf vom Thalamus über die Pars compacta zum Kortex kehrt die Flussrichtung um. Und der Nucleus subthalamicus ist eine Station des indirekten Weges, keine Eingangsstruktur vor dem Putamen."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "question": "Welche Aussage zum indirekten Weg trifft **NICHT** zu?",
+      "options": [
+        "Er wirkt insgesamt bewegungshemmend, während der parallel verlaufende direkte Weg Bewegungen fördert.",
+        "Er kann ab dem Nucleus subthalamicus alternativ zur Pars reticularis führen, die dann zum Thalamus projiziert.",
+        "Er fördert Bewegungen, indem er den motorischen Thalamus direkt exzitatorisch ansteuert.",
+        "Er führt vom Putamen über den Globus pallidus externus und den Nucleus subthalamicus zum Globus pallidus internus."
+      ],
+      "answer": 2,
+      "explanation": "Der indirekte Weg hemmt Bewegungen und steuert den Thalamus nicht direkt exzitatorisch an – die Aussage ist damit die gesuchte, unzutreffende. Richtig sind dagegen der Verlauf vom Putamen über den Globus pallidus externus und den Nucleus subthalamicus zum Globus pallidus internus, die alternative Route ab dem Nucleus subthalamicus zur Pars reticularis mit anschließender Projektion in den Thalamus sowie die Gegenläufigkeit beider Wege: Der indirekte hemmt, der direkte fördert Bewegungen."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "hard": true,
+      "trap": "Der Ausfall dopaminerger Neurone enthemmt den indirekten Weg – das Ergebnis ist mehr, nicht weniger Hemmung des Thalamus.",
+      "question": "Wodurch entsteht bei Morbus Parkinson die Akinese im Modell der basalganglionär-kortikalen Regelkreise?",
+      "options": [
+        "Der indirekte Weg überwiegt; der enthemmte Nucleus subthalamicus verstärkt die pallidale Hemmung des Thalamus.",
+        "Die dopaminergen Neurone der Pars reticularis werden überaktiv und hemmen den supplementär-motorischen Kortex.",
+        "Der Nucleus subthalamicus fällt aus; die fehlende Erregung des Globus pallidus internus enthemmt den Thalamus.",
+        "Der direkte Weg überwiegt; die verstärkte Erregung des motorischen Thalamus führt zu einer Übererregung des Kortex."
+      ],
+      "answer": 0,
+      "explanation": "Durch das dopaminerge Defizit entsteht ein Ungleichgewicht zugunsten des indirekten Weges: Es kommt zur Disinhibition des Nucleus subthalamicus, dessen glutamaterge Projektion den Globus pallidus internus verstärkt erregt; die dadurch verstärkte pallidale Hemmung exzitatorischer thalamofrontaler Projektionen ist das wesentliche Substrat der Akinese. Ein Überwiegen des direkten Weges würde Bewegungen fördern und beschriebe eher eine hyperkinetische Störung. Ein Ausfall des Nucleus subthalamicus mit enthemmtem Thalamus ist das Gegenteil der beschriebenen Disinhibition. Und die Pars reticularis ist GABAerg, nicht dopaminerg, und projiziert zum Thalamus statt direkt zum Kortex."
+    },
+    {
+      "topic": "Basalganglien & motorische Schleifen",
+      "hard": true,
+      "question": "Welche Aussage zum Nucleus subthalamicus trifft am ehesten zu?",
+      "options": [
+        "Er erhält seine kortikalen Eingänge aus der Lamina V, gibt dabei jedoch die Somatotopie vollständig auf.",
+        "Er liegt im Diencephalon medial der Capsula interna und projiziert glutamaterg zum Pallidum.",
+        "Er liegt im Mesencephalon dorsal der Hirnschenkel und projiziert GABAerg zu den motorischen Thalamuskernen.",
+        "Er besteht aus dopaminergen Neuronen mit niedriger Spontanaktivität und ist das Gegengewicht zum Pallidum."
+      ],
+      "answer": 1,
+      "explanation": "Der Nucleus subthalamicus liegt im Zwischenhirn medial der Capsula interna; seine glutamatergen Projektionsneurone ziehen zu denselben Zielstrukturen wie das Striatum, also zum Pallidum und zur Substantia nigra, und bilden mit ihrer hohen Spontanaktivität das exzitatorische Gegengewicht zu den inhibitorischen Neuronen des Striatums. Lage im Mesencephalon dorsal der Hirnschenkel und GABAerge Thalamusprojektion beschreiben die Substantia nigra. Dopaminerge Neurone mit niedriger Spontanaktivität treffen doppelt nicht zu – die Zellen sind glutamaterg und hochaktiv. Und die kortikalen Bahnen ziehen zwar aus den Pyramidenzellen der Lamina V dorthin, jedoch ausdrücklich unter Beibehaltung der Somatotopie."
+    },
+    {
+      "topic": "Therapie & tiefe Hirnstimulation",
+      "transfer": true,
+      "question": "Bei einem Patienten mit fortgeschrittenem idiopathischem Parkinson-Syndrom wird eine tiefe Hirnstimulation geplant. Welches Vorgehen entspricht am ehesten dem heutigen Standard?",
+      "options": [
+        "Stimulation des inferioren parietalen Kortex, um das gestörte somatosensorische Feedback zu verstärken.",
+        "Stimulation des Bulbus olfactorius, weil dort die α-Synuclein-Pathologie ihren Ausgang nimmt.",
+        "Stimulation der Substantia nigra pars compacta, um die verbliebenen dopaminergen Neurone direkt zu erregen.",
+        "Stimulation des Nucleus subthalamicus, wodurch sich die dopaminerge Medikation reduzieren lässt."
+      ],
+      "answer": 3,
+      "explanation": "Die tiefe Hirnstimulation ist ein etabliertes Verfahren beim idiopathischen Parkinson-Syndrom und wird bei der überwiegenden Zahl der Patienten im Nucleus subthalamicus vorgenommen; durch die Stimulation kann die dopaminerge Medikation reduziert werden. Je nach Krankheitsbild kommen als Alternativen der Globus pallidus oder der Nucleus ventralis intermedius des Thalamus in Betracht. Die Substantia nigra pars compacta ist gerade das degenerierende Ursprungsgebiet und kein Stimulationsziel. Der inferiore parietale Kortex ist ein Befund aus Konnektivitätsstudien, kein Zielgebiet der Stimulation. Und der Bulbus olfactorius spielt allenfalls in der Diskussion um den Pathologiebeginn eine Rolle, nicht in der Therapie."
+    },
+    {
+      "topic": "Motorische Bildgebung",
+      "question": "In einer Bildgebungsstudie zum „Freezing“ wurde die Planung des Gehens anhand der Imagination untersucht. Welches Befundmuster zeigte sich?",
+      "options": [
+        "Verminderte Aktivität supplementär-motorischer Regionen bei erhöhter Aktivität im Mesencephalon.",
+        "Eine gesteigerte Kleinhirnaktivität, die mit der Levodopa-Dosis, nicht aber mit der Symptomschwere korrelierte.",
+        "Eine beidseitige Deaktivierung des Putamens ohne jeden Zusammenhang zu Erkrankungsdauer und Symptomschwere.",
+        "Erhöhte Aktivität supplementär-motorischer Regionen bei gleichzeitig verminderter Aktivität im Mittelhirn."
+      ],
+      "answer": 0,
+      "explanation": "Bei der imaginierten Gehplanung zeigte sich eine verminderte Aktivität in supplementärmotorischen Regionen und eine erhöhte Aktivität in motorischen Bereichen des Mesencephalons, die mit Erkrankungsdauer und Symptomschwere korrelierte. Das umgekehrte Muster – mehr supplementär-motorische und weniger mesencephale Aktivität – kehrt genau diesen Befund um. Eine Putamen-Deaktivierung ohne Zusammenhang zu Krankheitsvariablen widerspricht der berichteten Korrelation. Und die Kleinhirnaktivität war nicht der berichtete Befund; interpretiert wurde die veränderte Bewegungsausführung als progressiv verschlechterte mesencephale Kompensationsfähigkeit."
+    },
+    {
+      "topic": "Nichtmotorische Symptome",
+      "question": "Welche Aussage zum Spektrum der nichtmotorischen Symptome des Parkinson-Syndroms trifft **NICHT** zu?",
+      "options": [
+        "Sensorische Symptome wie Dysästhesien und Schmerzen gehören nicht dazu, da sie rein peripher bedingt sind.",
+        "Es finden sich kognitive Symptome wie Störungen der Frontalfunktionen, in fortgeschrittenen Stadien auch eine Demenz.",
+        "Vegetative Symptome betreffen u. a. Blutdruck, Temperaturregulation, Harnblasen- und Sexualfunktion.",
+        "Zu den psychischen Symptomen zählen vor allem depressive Störungen und Angststörungen."
+      ],
+      "answer": 0,
+      "explanation": "Sensorische Symptome – ausdrücklich Dysästhesien (Störungen der Oberflächensensibilität) und Schmerzen – gehören sehr wohl zum Spektrum der nichtmotorischen Symptome; die Aussage ist damit die gesuchte, unzutreffende. Zutreffend sind dagegen die kognitiven Symptome mit Störungen der Frontalfunktionen bis hin zur Demenz in fortgeschrittenen Stadien, die psychischen Symptome mit Depression und Angststörungen im Vordergrund sowie die vegetativen Symptome mit Störungen von Blutdruck, Temperaturregulation, Harnblasen- und Sexualfunktion. Hinzu kommen Schlafstörungen."
+    },
+    {
+      "topic": "Nichtmotorische Symptome",
+      "hard": true,
+      "question": "Welche Aussage zu Störungen der Impulskontrolle bei Parkinsonpatienten trifft am ehesten zu?",
+      "options": [
+        "Das Risikoverhalten medizierter Patienten hing ausschließlich mit der Aktivität im Kleinhirn zusammen.",
+        "Die Befunde sind einheitlich: In allen Studien fand sich eine Hypoaktivierung des linken ventralen Striatums.",
+        "Dopaminagonisten verstärken den negativ verstärkenden Effekt des Verlierens und mindern so das Spielverhalten.",
+        "Die Befunde sind uneinheitlich: Berichtet wurden sowohl Hyper- als auch Hypoaktivierungen des Striatums."
+      ],
+      "answer": 3,
+      "explanation": "Die Befundlage ist widersprüchlich: Berichtet wurden eine Hyperaktivierung des linken ventralen Striatums bei einer Glücksspielaufgabe ebenso wie eine Hypoaktivierung im rechten Striatum während der „Balloon Risk Task“. Eine einheitliche Hypoaktivierung des linken ventralen Striatums gibt es daher nicht. Das Risikoverhalten medizierter Patienten wurde mit der Aktivität im orbitofrontalen Kortex bei einer Roulette-Aufgabe in Verbindung gebracht, nicht mit dem Kleinhirn. Und die Überlegung zu Dopaminagonisten lautet umgekehrt: Durch sie könnten Unterbrechungen der dopaminergen Transmission vermieden und dadurch der negativ verstärkende Effekt des Verlierens beeinträchtigt werden – das begünstigt riskantes Spielen, statt es zu mindern."
+    },
+    {
+      "topic": "Nichtmotorische Symptome",
+      "question": "Wie ist die Verarbeitung olfaktorischer Information laut Vorlesung organisiert?",
+      "options": [
+        "Von den Rezeptorneuronen unmittelbar in neokortikale Assoziationsareale, ohne Umschaltung in subkortikalen Strukturen.",
+        "Vom Bulbus olfactorius zunächst über den Thalamus in den primär-motorischen Kortex und erst danach in limbische Strukturen.",
+        "Vom Bulbus olfactorius in sekundäre olfaktorische Strukturen wie piriformen und entorhinalen Kortex sowie die Amygdala.",
+        "Von der Amygdala über den Bulbus olfactorius in den orbitofrontalen Kortex, der die Geruchsinformation verstärkt."
+      ],
+      "answer": 2,
+      "explanation": "Die Geruchsinformation erreicht zunächst den Bulbus olfactorius, wo sie kondensiert und verstärkt wird; von dort gelangt sie in die sekundären olfaktorischen Strukturen – piriformer Kortex, entorhinaler Kortex und Amygdala – und wird anschließend auf neokortikale Areale wie orbitofrontalen, insulären und zingulären Kortex geschaltet. Ein Umweg über Thalamus und primär-motorischen Kortex entspricht dem nicht. Eine direkte Projektion der Rezeptorneurone in neokortikale Assoziationsareale überspringt Bulbus und sekundäre Strukturen. Und die Amygdala steht als sekundäre olfaktorische Struktur hinter dem Bulbus, nicht vor ihm."
+    },
+    {
+      "topic": "Nichtmotorische Symptome",
+      "question": "Welcher Befund kennzeichnet die neuronalen Korrelate des Riechdefizits bei Parkinsonpatienten?",
+      "options": [
+        "In Amygdala und Hippocampus fällt die Antwort auf die Neutralbedingung deutlich stärker aus als auf den Duftreiz.",
+        "Der Bulbus olfactorius zeigt eine Hyperaktivierung, während die sekundären Areale völlig unverändert reagieren.",
+        "Nur bei gesunden Kontrollen fehlt die Differenzierung, während Patienten selektiv auf Düfte reagieren.",
+        "In Amygdala und Hippocampus fehlt die Differenzierung zwischen Duft- und Neutralbedingung weitgehend."
+      ],
+      "answer": 3,
+      "explanation": "Olfaktorische Areale, insbesondere Amygdala und Hippocampus, weisen bei Parkinsonpatienten eine verminderte oder gar fehlende Differenzierung zwischen Duft- und Neutralbedingung auf, während Kontrollen deutlich stärker auf den Duft reagieren. Eine Umkehrung mit stärkerer Antwort auf die Neutralbedingung wurde nicht berichtet. Ebenso wenig ein isolierter Bulbus-Befund bei unveränderten sekundären Arealen – gerade dort zeigen sich je nach Paradigma und Krankheitsstadium Hyper- wie Hypoaktivität. Und die fehlende Differenzierung betrifft die Patienten, nicht die gesunden Kontrollen."
+    },
+    {
+      "topic": "Nichtmotorische Symptome",
+      "transfer": true,
+      "question": "Ein Patient zeigt im medikamentösen „OFF“ bei einer Arbeitsgedächtnisaufgabe eine stärkere Aktivierung präfrontaler, zingulärer und parietaler Areale – bei zugleich schlechterer Leistung. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als Ausdruck erfolgreicher Kompensation, weil eine kortikale Mehraktivierung die Leistung normalisiert.",
+        "Als Hinweis auf einen differenziellen Einfluss der dopaminergen Medikation auf Motorik und Kognition.",
+        "Als Zeichen eines Placeboeffekts, da kortikale Mehraktivierung stets mit besserer Leistung einhergeht.",
+        "Als Beleg dafür, dass Levodopa kognitive und motorische Leistungen in gleichem Maße und gleicher Richtung verbessert."
+      ],
+      "answer": 1,
+      "explanation": "Einige Studien verweisen auf einen differenziellen Einfluss der dopaminergen Medikation auf Motorik und Kognition: Unter L-Dopa nahm bei einer motorischen Aufgabe die Aktivierung motorischer Areale zu, während im medikamentösen „OFF“ bei einer Arbeitsgedächtnisaufgabe eine stärkere präfrontale, zinguläre und parietale Aktivierung auftrat – einhergehend mit schlechterer kognitiver Leistung. Ein gleichsinniger Nutzen für Motorik und Kognition ist damit gerade nicht belegt. Ein Placeboeffekt erklärt das Muster nicht, und die Annahme, Mehraktivierung gehe immer mit besserer Leistung einher, wird durch den Befund widerlegt. Von erfolgreicher Kompensation kann ebenfalls keine Rede sein, da die Leistung schlechter und nicht normalisiert war."
+    },
+    {
+      "topic": "Konnektivität & Netzwerke",
+      "hard": true,
+      "question": "Was zeigte die Einzelkomponentenanalyse der kortikostriatalen Konnektivität bei Morbus Parkinson?",
+      "options": [
+        "Eine Entkopplung vom anterioren Putamen bei zugleich verstärkter Kopplung zum posterioren Putamen und Precuneus.",
+        "Eine gleichmäßige Abnahme aller kortikostriatalen Verbindungen bei deutlich verstärkter funktioneller Segregation.",
+        "Eine Entkopplung vom inferioren parietalen Kortex bei zugleich verstärkter Kopplung zum anterioren Putamen.",
+        "Eine unveränderte Konnektivität der Saatregionen bei ausschließlich struktureller Atrophie des Nucleus caudatus."
+      ],
+      "answer": 2,
+      "explanation": "Parkinsonpatienten zeigen eine spezifische Entkopplung vom inferioren parietalen Kortex, während sich gleichzeitig die Kopplung zum anterioren Putamen verstärkt; die Autoren deuten das als dopaminmangelbedingtes „Remapping“ der zerebralen Konnektivität, das die räumlich-funktionelle Segregation der kortikostriatalen Schleifen vermindert. Die Umkehrung der beiden Saatregionen trifft den Befund nicht. Eine gleichmäßige Abnahme aller Verbindungen mit verstärkter Segregation widerspricht dem Remapping-Gedanken doppelt, da die Segregation gerade abnimmt. Und von unveränderter Konnektivität bei rein struktureller Atrophie ist nicht die Rede – der Befund ist funktioneller Natur."
+    },
+    {
+      "topic": "Konnektivität & Netzwerke",
+      "transfer": true,
+      "question": "Ein Patient kommt beim Gehen kaum voran, schafft es aber, über auf den Boden geklebte Streifen zu steigen. Welche Überlegung aus der Vorlesung passt am ehesten dazu?",
+      "options": [
+        "Die Basalganglien übernehmen bei fortschreitender Erkrankung die Filterung visueller Reize Richtung Sehrinde.",
+        "Visuelle Reize umgehen die geschädigte Substantia nigra und erreichen den Motorkortex über das Kleinhirn.",
+        "Parkinsonpatienten vertrauen bei gestörtem somatosensorischem Gating eher auf externes visuelles Feedback.",
+        "Der inferiore parietale Kortex fällt bei Morbus Parkinson früh vollständig aus, sodass räumliche Repräsentationen fehlen."
+      ],
+      "answer": 2,
+      "explanation": "Die Basalganglien sind für das somatosensorische Gating in Richtung Motorkortex zuständig; ist diese Filterung gestört und zeigen Patienten somatosensorische Defizite (Zwei-Punkt-Diskrimination, Joint-Position Sense, Stellung der Extremitäten ohne Sicht), verlassen sie sich eher auf externe, visuelle als auf interne Informationen – Bodenmarkierungen wirken deshalb. Eine Filterung visueller Reize Richtung Sehrinde wird den Basalganglien nicht zugeschrieben. Der inferiore parietale Gyrus fällt nicht aus, sondern wird laut Metaanalyse gerade kompensatorisch stärker eingebunden – seine Konnektivität ist verändert, nicht erloschen. Und ein Umweg visueller Reize über das Kleinhirn zum Motorkortex wird nicht beschrieben."
+    },
+    {
+      "topic": "Konnektivität & Netzwerke",
+      "question": "Die Befunde zur aufgabeninduzierten Deaktivierung lassen sich auf das Netzwerkmodell beziehen. Welche Einordnung trifft am ehesten zu?",
+      "options": [
+        "Der mediale präfrontale Kortex gehört zum zentralen Exekutivnetzwerk; unter Levodopa nimmt seine aufgabenbezogene Aktivierung ab.",
+        "Der posteriore zinguläre Kortex gehört zum Salienznetzwerk, dessen Deaktivierung bei nicht medizierten Patienten verstärkt ist.",
+        "Das Default Mode Netzwerk wird bei kognitiven Aufgaben normalerweise stärker aktiviert; bei Patienten fehlt diese Aktivierung.",
+        "Der mediale präfrontale Kortex gehört zum Default Mode Netzwerk; unter Levodopa bleibt dessen lernbezogene Deaktivierung aus."
+      ],
+      "answer": 3,
+      "explanation": "Kognitive Aufgaben gehen normalerweise mit einer Deaktivierung des Default Mode Netzwerks einher, dessen mediale Anteile mit den medialen Strukturen des dopaminergen Systems überlappen. Bei Gesunden und bei Patienten im medikamentösen „off“ zeigte sich diese lernbezogene Deaktivierung, nicht aber im „on“: Levodopa führte zu einem Verlust der lernbezogenen Deaktivierung im medialen präfrontalen Kortex (30 % der Varianz dieses Effekts ließen sich über den COMTval158met-Genotyp und das Lernniveau im „off“ vorhersagen). Der mediale präfrontale Kortex ist damit eine DMN-Kernregion und keine Region des zentralen Exekutivnetzwerks, das während Aufgaben hochfährt. Der posteriore zinguläre Kortex zählt ebenfalls zum DMN, nicht zum Salienznetzwerk, und zeigte bei nicht medizierten Patienten – wie der Precuneus – eine geringere, nicht verstärkte Deaktivierung. Und das DMN wird bei kognitiven Aufgaben deaktiviert statt aktiviert."
+    }
+  ]
+}

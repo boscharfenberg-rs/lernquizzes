@@ -689,6 +689,13 @@
       "title": "Depressive Störungen",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Schwerpunkt Hirnregionen: Mittellinienstrukturen und DMN, Serotonin-Hypothese, Habenulae und Ketamin, Salienz- und zentralexekutives Netzwerk, Aufmerksamkeitsverzerrung, strukturelle Konnektivität, Late-Life Depression und Netzwerkmodell."
+    },
+    {
+      "id": "kan-parkinson-1",
+      "file": "kan-parkinson-1.json",
+      "title": "Morbus Parkinson I – Symptome, Basalganglien, nichtmotorische Befunde",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson I: Kardinalsymptome und Syndromgruppen, α-Synuclein und Lewy-Körperchen, prä- und symptomatische Phasen mit body-first/brain-first, Substantia nigra und dopaminerge Bahnen, direkter und indirekter Weg der Basalganglienschleife, Nucleus subthalamicus und tiefe Hirnstimulation, nichtmotorische Symptome sowie kortikostriatales Remapping und DMN-Befunde. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
