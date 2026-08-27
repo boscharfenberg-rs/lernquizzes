@@ -1,0 +1,391 @@
+{
+  "id": "kan-depressive-stoerungen",
+  "title": "Depressive Störungen",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL Depressive Störungen mit Schwerpunkt auf Hirnregionen: Mittellinienstrukturen und DMN, Serotonin-Hypothese, Habenulae und Ketamin, Salienz- und zentralexekutives Netzwerk, Aufmerksamkeitsverzerrung, strukturelle Konnektivität, Late-Life Depression und Netzwerkmodell.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Emotionale Reaktivität",
+      "trap": "Stimmung ist der langsame, persistierende Hintergrund; Emotionen sind die spezifischen Reaktionen auf einen Auslöser.",
+      "question": "Wie grenzt die Vorlesung Stimmung und Emotion voneinander ab?",
+      "options": [
+        "Emotion ist ein langsamer, persistierender Zustand; die Stimmung ist eine spezifische, stimulusbezogene Reaktion",
+        "Stimmung bezeichnet nur die körperliche Komponente, Emotion ausschließlich das bewusste Erleben",
+        "Beide Begriffe bezeichnen denselben Zustand und werden in der Depressionsforschung synonym verwendet",
+        "Stimmung ist ein langsamer, persistierender Zustand; Emotionen sind spezifische, stimulusbezogene Reaktionen"
+      ],
+      "answer": 3,
+      "explanation": "Stimmung wird als langsamer, persistierender Zustand definiert, der eine starke Beziehung zu Umgebungsvariablen aufweist und durch diese moduliert werden kann; Emotionen sind stimulusbezogene Reaktionen auf signifikante Auslöser, spezifisch, bewusst und mit automatischen Reaktionsmustern. Die umgekehrte Zuordnung vertauscht beide Begriffe. Eine synonyme Verwendung widerspricht der ausdrücklichen Abgrenzung. Eine Aufteilung in körperliche und bewusste Komponente entspricht der Definition ebenfalls nicht."
+    },
+    {
+      "topic": "Emotionale Reaktivität",
+      "question": "Welche drei Theorien zur emotionalen Reaktivität bei Depression nennt die Vorlesung?",
+      "options": [
+        "Negative potentiation, positive attenuation und emotion context insensitivity",
+        "Mood congruence, emotional priming und affective forecasting",
+        "Affective blunting, reward hypersensitivity und context dependency",
+        "Negative potentiation, positive amplification und emotional flooding"
+      ],
+      "answer": 0,
+      "explanation": "Genannt werden negative potentiation – die persistierende negative Stimmung erhöht die Reaktivität auf negative Stimuli –, positive attenuation – die Reaktivität auf positive Stimuli ist gesenkt – und emotion context insensitivity, also eine herabgesetzte Reaktion auf positive wie negative Reize unabhängig vom Kontext. Positive amplification und emotional flooding sind keine der vorgestellten Ansätze. Affective blunting, reward hypersensitivity und context dependency ebenso wenig. Mood congruence, emotional priming und affective forecasting stammen aus anderen Forschungstraditionen."
+    },
+    {
+      "topic": "Emotionale Reaktivität",
+      "transfer": true,
+      "question": "Ein Patient reagiert im Labor sowohl auf freudige als auch auf bedrohliche Bilder deutlich schwächer als die Kontrollgruppe. Welche Theorie beschreibt dieses Muster am ehesten?",
+      "options": [
+        "Positive attenuation",
+        "Negative potentiation in Kombination mit positive attenuation",
+        "Emotion context insensitivity",
+        "Negative potentiation"
+      ],
+      "answer": 2,
+      "explanation": "Eine herabgesetzte Reaktion sowohl auf positive als auch auf negative Stimuli, also unabhängig vom Kontext, entspricht genau der emotion context insensitivity. Negative potentiation sagt eine erhöhte Reaktivität auf negative Reize vorher, was hier nicht vorliegt. Positive attenuation betrifft allein die verminderte Reaktion auf positive Reize. Die Kombination beider würde eine gegenläufige Verschiebung bedeuten – verstärkt negativ bei abgeschwächt positiv – und nicht die durchgehende Abschwächung."
+    },
+    {
+      "topic": "Emotionsregulation",
+      "question": "In einem Experiment werden emotionale Gesichter gezeigt; die Probanden sollen dabei lediglich das Geschlecht der abgebildeten Person bestimmen. Welche Form der Emotionsregulation wird damit erfasst?",
+      "options": [
+        "Die implizite Emotionsregulation, da die Aufmerksamkeit auf einer nicht emotionsbezogenen Aufgabe liegt",
+        "Die explizite Emotionsregulation, da die Aufmerksamkeit unmittelbar auf die Emotion selbst gerichtet ist",
+        "Die habituelle Emotionsunterdrückung, da der emotionale Ausdruck willentlich zurückgehalten wird",
+        "Die kognitive Umbewertung, da die Emotion zunächst verbalisiert und anschließend umgedeutet wird"
+      ],
+      "answer": 0,
+      "explanation": "Bei der impliziten Emotionsregulation richtet sich die Aufmerksamkeit auf eine überlagerte, nicht emotionsbezogene Aufgabe – die Vorlesung nennt genau die Geschlechterdiskrimination als Beispiel. Die explizite Emotionsregulation wäre die aktive, bewusste Verarbeitung mit Aufmerksamkeit auf die Emotion selbst. Die kognitive Umbewertung mit Verbalisierung ist ebenfalls eine explizite Strategie. Eine willentliche Unterdrückung des Ausdrucks setzt bewusste Zuwendung voraus und ist damit nicht implizit.",
+      "transfer": true
+    },
+    {
+      "topic": "Emotionsregulation",
+      "hard": true,
+      "question": "Welchen Regionen werden explizite und implizite Emotionsregulation zugeordnet?",
+      "options": [
+        "Explizit dem inferioren parietalen Kortex, implizit der anterioren Insula",
+        "Explizit dem dorsolateralen, implizit dem ventromedialen präfrontalen Kortex",
+        "Explizit dem ventromedialen, implizit dem dorsolateralen präfrontalen Kortex",
+        "Explizit dem superioren, implizit dem inferioren parietalen Kortex"
+      ],
+      "answer": 1,
+      "explanation": "Die explizite Emotionsregulation wird unter anderem mit dem dorsolateralen präfrontalen Kortex in Verbindung gebracht, die implizite mit dem ventromedialen präfrontalen Kortex. Die umgekehrte Zuordnung vertauscht beide Regionen. Superiorer und inferiorer parietaler Kortex sind nicht die maßgeblichen Zuordnungen. Die anteriore Insula ist ein Knotenpunkt des Salienznetzwerks und keine Regulationsregion in diesem Sinne."
+    },
+    {
+      "topic": "Mittellinienstrukturen und DMN",
+      "hard": true,
+      "trap": "Der DMN-Knoten unterscheidet sich je nach Störung: sgACC und vmPFC bei der Depression, Hippocampus und PCC bei der Alzheimer-Demenz.",
+      "question": "Welche DMN-Knotenpunkte stehen bei depressiven Störungen im Vordergrund, und wie grenzt sich das von der Alzheimer-Demenz ab?",
+      "options": [
+        "Bei der Depression sgACC und vmPFC; bei der Alzheimer-Demenz Hippocampus und posteriorer zingulärer Kortex",
+        "In beiden Störungen gleichermaßen die anteriore Insula und der dorsale anteriore zinguläre Kortex",
+        "Bei der Depression Hippocampus und posteriorer zingulärer Kortex; bei der Alzheimer-Demenz sgACC und vmPFC",
+        "In beiden Störungen gleichermaßen der Precuneus und der laterale parietale Kortex als Hauptknoten"
+      ],
+      "answer": 0,
+      "explanation": "Der subgenuale anteriore zinguläre Kortex und der ventromediale präfrontale Kortex scheinen bei depressiven Störungen eine wichtige Rolle zu spielen und zeigen spezifische Veränderungen in diesem Knotenpunkt des Default-Mode-Netzwerks; die Vorlesung grenzt das ausdrücklich von der Alzheimer-Demenz ab, die hauptsächlich Hippocampus und posterioren zingulären Kortex als Knotenpunkt betrifft. Die umgekehrte Zuordnung vertauscht beide Störungsbilder. Precuneus und lateraler parietaler Kortex sowie anteriore Insula und dorsaler ACC sind hier nicht die störungsspezifischen Knoten."
+    },
+    {
+      "topic": "Mittellinienstrukturen und DMN",
+      "question": "Welcher Zusammenhang wird für die Konnektivität des Default-Mode-Netzwerks bei Depression berichtet?",
+      "options": [
+        "Eine geringere Intrakonnektivität, die mit der Erkrankungsdauer korrelierte",
+        "Eine geringere Intrakonnektivität, die ausschließlich in der Remissionsphase auftrat",
+        "Eine höhere Intrakonnektivität, die mit der Erkrankungsdauer korrelierte",
+        "Eine höhere Intrakonnektivität, die von der Erkrankungsdauer vollständig unabhängig war"
+      ],
+      "answer": 2,
+      "explanation": "Depressive Patienten weisen eine höhere Intrakonnektivität des Default-Mode-Netzwerks auf, die mit der Erkrankungsdauer korrelierte; insbesondere der subgenuale ACC zeigt Veränderungen, die mit der Dauer der aktuellen depressiven Episode assoziiert sind. Eine geringere Intrakonnektivität kehrt den Befund um. Eine Unabhängigkeit von der Erkrankungsdauer übergeht genau die berichtete Korrelation. Ein Auftreten allein in der Remission widerspricht dem Zusammenhang mit der aktuellen Episode."
+    },
+    {
+      "topic": "Mittellinienstrukturen und DMN",
+      "hard": true,
+      "question": "Welche Wirkung übt der subgenuale anteriore zinguläre Kortex auf die Amygdala aus?",
+      "options": [
+        "Keine nachweisbare Wirkung, da beide Strukturen anatomisch nicht miteinander verbunden sind",
+        "Eine ausschließlich über den Thalamus vermittelte Wirkung auf die motorische Reaktionsbereitschaft",
+        "Eine exzitatorische Wirkung, womit er die Bedrohungsdetektion der Amygdala unmittelbar verstärkt",
+        "Eine inhibitorische Wirkung, womit er eine wesentliche Komponente der Emotionsregulation darstellt"
+      ],
+      "answer": 3,
+      "explanation": "Es gibt Hinweise, dass der subgenuale ACC inhibitorisch auf die Amygdala einwirkt und damit eine wesentliche Komponente der Emotionsregulation darstellt. Eine exzitatorische Verstärkung der Bedrohungsdetektion kehrt die Wirkrichtung um. Eine fehlende Verbindung widerspricht der berichteten Einflussnahme. Eine thalamisch vermittelte Wirkung auf die Motorik beschreibt eher den Wirkweg der Habenulae."
+    },
+    {
+      "topic": "Serotonin-Hypothese",
+      "question": "Worauf gründete sich die ursprüngliche Serotonin-Hypothese der Depression?",
+      "options": [
+        "Auf die zufällig entdeckten depressogenen und antidepressiven Effekte verschiedener Medikamente",
+        "Auf direkte Messungen der Serotoninkonzentration im Liquor depressiver Patienten",
+        "Auf bildgebende Untersuchungen der serotonergen Bahnen im Hirnstamm depressiver Patienten",
+        "Auf genetische Studien, die Serotonin-Genotypen eindeutig mit Depression verknüpften"
+      ],
+      "answer": 0,
+      "explanation": "Die Hypothese basierte auf den depressogenen Effekten von Substanzen wie Reserpin und den antidepressiven Effekten etwa der MAO-Hemmer, deren Wirkung zufällig entdeckt wurde – eine verbreitete Art der theoretischen Herleitung, vergleichbar der Dopaminhypothese der Schizophrenie. Direkte Liquormessungen bildeten nicht die Grundlage. Qualitativ hochwertige genetische Studien schließen einen Zusammenhang sogar effektiv aus. Bildgebende Untersuchungen serotonerger Bahnen standen am Anfang nicht zur Verfügung."
+    },
+    {
+      "topic": "Serotonin-Hypothese",
+      "trap": "Das Tryptophan-Defizit zeigte sich nur bei bereits Erkrankten – es ist damit aufrechterhaltender Faktor, nicht Risikofaktor.",
+      "question": "Wie ist der Befund zum Tryptophan-Defizit bei Major Depression einzuordnen?",
+      "options": [
+        "Er ließ sich in keiner Untersuchung nachweisen, weshalb Tryptophan für die Depression bedeutungslos ist",
+        "Er zeigte sich nur bei Patienten mit bereits erlebter Episode und spricht eher für einen aufrechterhaltenden Faktor",
+        "Er zeigte sich nur bei nie erkrankten Probanden und belegt eine schützende Wirkung des Tryptophans",
+        "Er zeigte sich bei allen Untersuchten gleichermaßen und spricht damit für einen eindeutigen Risikofaktor"
+      ],
+      "answer": 1,
+      "explanation": "Im Gegensatz zu den Medikamentenbefunden konnte eher ein Tryptophan-Defizit mit der Major Depression assoziiert werden, allerdings nur bei Patienten, die bereits eine depressive Episode erlebt hatten – es handelt sich damit eher um einen aufrechterhaltenden Faktor als um einen Risikofaktor. Ein Befund bei allen Untersuchten würde für einen Risikofaktor sprechen und widerspricht der Einschränkung. Ein Auftreten nur bei nie Erkrankten kehrt die Konstellation um. Dass sich gar nichts nachweisen ließ, übergeht den berichteten Zusammenhang."
+    },
+    {
+      "topic": "Serotonin-Hypothese",
+      "question": "Wie erklärt die Vorlesung das allmähliche Einsetzen der antidepressiven SSRI-Wirkung?",
+      "options": [
+        "Die Rezeptordichte muss sich zunächst vollständig normalisieren, bevor überhaupt eine Wirkung eintritt",
+        "Der Serotoninspiegel steigt erst nach Wochen an, davor bleibt die synaptische Verfügbarkeit unverändert",
+        "Zuerst verschiebt sich die explizite Emotionsregulation positiv, erst später folgt die automatische implizite Regulation",
+        "Zuerst verschiebt sich die implizite Emotionsregulation positiv, erst später folgt die bewusste explizite Regulation"
+      ],
+      "answer": 3,
+      "explanation": "SSRIs verändern die Art, wie das Gehirn emotionale Informationen implizit bewertet, und zwar lange vor der antidepressiven Wirkung; sie führen zu einer positiven Verschiebung der impliziten, automatischen Emotionsregulation gegen den negativen Bias, was langfristig zu einer bewussten, expliziten Regulation und zur Stimmungsverbesserung führt – dieses Wiedererlernen emotionaler Assoziationen erklärt den allmählichen Wirkeintritt. Die umgekehrte Reihenfolge vertauscht beide Ebenen. Ein verzögerter Anstieg der synaptischen Verfügbarkeit widerspricht dem raschen pharmakologischen Effekt. Eine vollständige Rezeptornormalisierung als Voraussetzung wird nicht behauptet."
+    },
+    {
+      "topic": "Serotonin-Hypothese",
+      "question": "Welche Rolle schreibt der computationale Ansatz dem Serotonin im Vergleich zum Dopamin zu?",
+      "options": [
+        "Beide Transmitter signalisieren gleichermaßen Bestrafung, unterscheiden sich aber in der Zielregion",
+        "Serotonin signalisiert Belohnung im Sinne eines positiven Vorhersagefehlers, Dopamin Bestrafung",
+        "Beide Transmitter signalisieren gleichermaßen Belohnung, unterscheiden sich aber im Zeitverlauf",
+        "Serotonin signalisiert Bestrafung im Sinne eines negativen Vorhersagefehlers, Dopamin Belohnung"
+      ],
+      "answer": 3,
+      "explanation": "Im Gegensatz zu Dopamin, das Belohnung und damit einen positiven Vorhersagefehler signalisiert, signalisiert Serotonin nach diesem Modell Bestrafung beziehungsweise einen negativen Vorhersagefehler; je höher die Erwartung einer Bestrafung, desto höher das Vermeidungsverhalten. Die umgekehrte Zuordnung vertauscht beide Transmitter. Eine gleichgerichtete Belohnungs- oder Bestrafungssignalisierung beider Transmitter hebt genau die Gegenüberstellung auf, auf der das Modell beruht."
+    },
+    {
+      "topic": "Habenulae",
+      "hard": true,
+      "question": "Welche Funktion wird den Habenulae in der Verhaltensregulation hauptsächlich zugeschrieben?",
+      "options": [
+        "Die Unterdrückung motorischer Komponenten",
+        "Die Unterdrückung kognitiver Komponenten",
+        "Die Unterdrückung motivationaler Komponenten",
+        "Die Unterdrückung emotionaler Komponenten"
+      ],
+      "answer": 0,
+      "explanation": "In den Habenulae werden zahlreiche Informationen verarbeitet; über ihren Einfluss auf neuromodulatorische Systeme, insbesondere das dopaminerge und das serotonerge, sind sie stark in die Verhaltensregulation eingebunden – hauptsächlich in die Unterdrückung motorischer Komponenten. Emotionale, kognitive und motivationale Komponenten werden in dieser Zuordnung nicht als Hauptfunktion genannt, auch wenn die Habenulae über die Transmittersysteme indirekt Einfluss nehmen."
+    },
+    {
+      "topic": "Habenulae",
+      "question": "Welche Befunde verbinden die Habenulae mit der depressiven Symptomatik?",
+      "options": [
+        "Eine vollständig fehlende Aktivität habenulärer Neurone, weshalb eine Läsion gar nicht mehr möglich ist",
+        "Eine Hypoaktivität habenulärer Neurone; im Tiermodell verschlechterte eine Läsion die depressive Symptomatik",
+        "Eine Hyperaktivität habenulärer Neurone; im Tiermodell verbesserte eine Läsion die depressive Symptomatik",
+        "Eine Hyperaktivität habenulärer Neurone; im Tiermodell blieb eine Läsion vollständig ohne jede Wirkung"
+      ],
+      "answer": 2,
+      "explanation": "Depressive Störungen konnten mit einer Hyperaktivität der habenulären Neurone assoziiert werden, und im Tiermodell ging eine Läsion der Habenulae mit einer Verbesserung der depressiven Symptomatik einher; die Habenulae beeinflussen zudem die Dopaminsekretion in den Basalganglien. Eine Hypoaktivität mit verschlechternder Läsion kehrt beide Befunde um. Eine wirkungslose Läsion widerspricht dem Tiermodellbefund. Eine vollständig fehlende Aktivität widerspricht der berichteten Hyperaktivität."
+    },
+    {
+      "topic": "Habenulae",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Patient erhält Ketamin und berichtet bereits nach etwa einer halben Stunde eine deutliche Stimmungsaufhellung. An welcher Struktur und über welchen Mechanismus wirkt die Substanz nach der Vorlesung?",
+      "options": [
+        "An den lateralen Habenulae über eine Blockade serotonerger 5-HT1A-Rezeptoren",
+        "An den lateralen Habenulae über eine Blockade glutamaterger NMDA-Rezeptoren",
+        "Am subgenualen ACC über eine Hemmung der Wiederaufnahme von Serotonin",
+        "Am Hypothalamus über eine unmittelbare Senkung der Kortisolsekretion"
+      ],
+      "answer": 1,
+      "explanation": "Ketamin blockiert die glutamatergen NMDA-Rezeptoren der lateralen Habenulae, was die sehr schnelle antidepressive Wirkung – innerhalb von etwa dreißig Minuten und über ein bis drei Sitzungen – teilweise erklärt; wegen hoher Rückfallraten wird es als Add-on-Medikation eingesetzt. Eine Blockade serotonerger 5-HT1A-Rezeptoren beschreibt nicht den Wirkmechanismus. Eine Serotonin-Wiederaufnahmehemmung am subgenualen ACC entspricht der Wirkweise der SSRIs mit deutlich langsamerem Wirkeintritt. Eine unmittelbare Senkung der Kortisolsekretion am Hypothalamus wird nicht berichtet."
+    },
+    {
+      "topic": "Habenulae",
+      "question": "Welche Rolle wird dem Protein Kir4.1 in den Astrozyten zugeschrieben?",
+      "options": [
+        "Es transportiert als Kalziumkanal Glutamat in den synaptischen Spalt der Habenulae",
+        "Es bildet als Strukturprotein die Myelinscheiden der habenulären Axone",
+        "Es beeinflusst als Kaliumkanal die Entladungsraten der habenulären Neurone",
+        "Es baut als Enzym überschüssiges Serotonin in den habenulären Synapsen ab"
+      ],
+      "answer": 2,
+      "explanation": "Das Protein Kir4.1 ist ein Kaliumkanal in den Astrozyten und scheint die Entladungsraten der Neurone zu beeinflussen; die depressive Symptomatik steht mit einer erhöhten Frequenz phasischer Entladungen in den lateralen Habenulae in Verbindung. Ein Kalziumkanal für den Glutamattransport beschreibt weder die Kanalart noch die Funktion. Ein enzymatischer Serotoninabbau ist Aufgabe der Monoaminoxidase. Die Myelinbildung im Zentralnervensystem übernehmen Oligodendrozyten und keine Astrozytenproteine."
+    },
+    {
+      "topic": "Salienz- und zentralexekutives Netzwerk",
+      "hard": true,
+      "trap": "Bei Gesunden koppelt die anteriore Insula an das CEN, bei Depression an das DMN – die Zuordnung wird leicht vertauscht.",
+      "question": "Wie unterschied sich die Einbindung der anterioren Insula zwischen Patienten mit Major Depression und Kontrollen?",
+      "options": [
+        "In beiden Gruppen gleichermaßen selten, unabhängig davon, welches Netzwerk gerade aktiv war",
+        "Bei Patienten häufiger während der DMN-Aktivierung, bei Kontrollen häufiger während der CEN-Aktivierung",
+        "In beiden Gruppen gleichermaßen häufig während der Aktivierung des Default-Mode-Netzwerks",
+        "Bei Patienten häufiger während der CEN-Aktivierung, bei Kontrollen häufiger während der DMN-Aktivierung"
+      ],
+      "answer": 1,
+      "explanation": "Bei Patienten mit Major Depression war die anteriore Insula als Knoten des Salienznetzwerks häufiger während der DMN-Aktivierung eingebunden, bei Kontrollen dagegen häufiger während der CEN-Aktivierung; daraus ergeben sich eine schlechtere Unterdrückung des DMN und eine schlechtere Einkopplung des CEN. Die umgekehrte Zuordnung vertauscht beide Gruppen. Eine in beiden Gruppen gleiche Einbindung übergeht genau diesen Gruppenunterschied, der den Kern des Befundes ausmacht."
+    },
+    {
+      "topic": "Salienz- und zentralexekutives Netzwerk",
+      "question": "Was ist mit der berichteten Ausdehnung des Salienznetzwerks bei Depression gemeint?",
+      "options": [
+        "Es verlagert sich vollständig in subkortikale Kerngebiete und verliert seine kortikalen Anteile",
+        "Es zieht sich auf die anteriore Insula zurück und gibt Territorium an das frontoparietale Netzwerk ab",
+        "Es verschmilzt vollständig mit dem dorsalen Aufmerksamkeitsnetzwerk zu einem einzigen Netzwerk",
+        "Es vereinnahmt Bereiche des frontoparietalen, des cingulo-operculären und des Default-Mode-Netzwerks"
+      ],
+      "answer": 3,
+      "explanation": "Bei Patienten mit Depression dehnt sich das Salienznetzwerk aus und vereinnahmt Bereiche des frontoparietalen Netzwerks, des cingulo-operculären Netzwerks und des Default-Mode-Netzwerks; diese Umverteilung kortikalen Territoriums verändert die Prioritäten der Informationsverarbeitung mit möglichen Auswirkungen auf Interozeption, Belohnungslernen, autonome Signalverarbeitung, Antrieb und Aufmerksamkeit. Ein Rückzug auf die anteriore Insula kehrt die Richtung um. Eine Verlagerung in subkortikale Kerngebiete und eine Verschmelzung mit dem dorsalen Aufmerksamkeitsnetzwerk werden nicht beschrieben."
+    },
+    {
+      "topic": "Salienz- und zentralexekutives Netzwerk",
+      "question": "Welcher Konnektivitätsbefund korrelierte mit Maßen der Anhedonie?",
+      "options": [
+        "Die funktionelle Konnektivität zwischen Pulvinar und primärem visuellem Kortex",
+        "Die funktionelle Konnektivität zwischen ACC und Nucleus accumbens",
+        "Die funktionelle Konnektivität zwischen Hippocampus und Fornix",
+        "Die funktionelle Konnektivität zwischen Kleinhirn und Hirnstamm"
+      ],
+      "answer": 1,
+      "explanation": "Veränderungen der funktionellen Konnektivität zwischen anteriorem zingulärem Kortex und Nucleus accumbens korrelierten mit Maßen der Anhedonie – passend zur Beteiligung des Nucleus accumbens an Belohnungsempfinden und Antrieb. Hippocampus und Fornix bilden einen Gedächtniskreis. Die Kopplung von Kleinhirn und Hirnstamm betrifft motorische Funktionen. Das Pulvinar erscheint im Zwei-Stufen-Modell der Aufmerksamkeitsverzerrung, nicht als Anhedonie-Korrelat."
+    },
+    {
+      "topic": "Salienz- und zentralexekutives Netzwerk",
+      "hard": true,
+      "question": "Welches Muster zeigen Patienten mit depressiven Störungen im zentralexekutiven Netzwerk?",
+      "options": [
+        "Unveränderte Aktivierungen bei Fehlern und eine ebenfalls unveränderte Suppression des DMN",
+        "Verminderte Aktivierungen bei Fehlern, jedoch eine deutlich verstärkte Suppression des DMN",
+        "Verminderte Aktivierungen bei Fehlern und negativem Feedback bei zugleich verminderter DMN-Suppression",
+        "Verstärkte Aktivierungen bei Fehlern und negativem Feedback bei zugleich verstärkter DMN-Suppression"
+      ],
+      "answer": 2,
+      "explanation": "Im Vergleich zu gesunden Kontrollen zeigen Patienten verminderte Aktivierungen im zentralexekutiven Netzwerk bei Fehlern oder negativem Feedback – möglicherweise eine unzureichende Rekrutierung bei höherer kognitiver Anstrengung – und gleichzeitig eine verminderte Suppression des DMN; beide Prozesse könnten zu einer reduzierten Fähigkeit beitragen, sich von negativen Gedanken und Emotionen zu lösen. Verstärkte Aktivierungen mit verstärkter Suppression kehren beide Befunde um. Eine verstärkte DMN-Suppression widerspricht dem berichteten Muster. Unveränderte Werte widersprechen dem Gruppenunterschied."
+    },
+    {
+      "topic": "Salienz- und zentralexekutives Netzwerk",
+      "transfer": true,
+      "question": "Eine Patientin erreicht auf einer Skala zum Grübeln hohe Werte und gibt an, häufig über eigene Schwächen und Fehler nachzudenken. Welcher Netzwerkbefund passt dazu am ehesten?",
+      "options": [
+        "Eine höhere Dominanz des zentralexekutiven Netzwerks",
+        "Eine höhere Dominanz des dorsalen Aufmerksamkeitsnetzwerks",
+        "Eine vollständige Deaktivierung des Salienznetzwerks in Ruhe",
+        "Eine höhere Dominanz des Default-Mode-Netzwerks"
+      ],
+      "answer": 3,
+      "explanation": "Eine höhere DMN-Dominanz bei Patienten mit Major Depression war mit einer höheren Neigung zum maladaptiven, depressiven Grübeln assoziiert, erfasst über eine Skala mit Items wie der Frage, wie oft man an eigene Schwächen, Versäumnisse und Fehler denkt. Eine Dominanz des zentralexekutiven Netzwerks würde eher zielgerichtetes Denken bedeuten. Das dorsale Aufmerksamkeitsnetzwerk steuert die endogene Aufmerksamkeitsausrichtung. Eine vollständige Deaktivierung des Salienznetzwerks widerspricht dessen berichteter Ausdehnung."
+    },
+    {
+      "topic": "Aufmerksamkeitsverzerrung",
+      "hard": true,
+      "question": "Welche Struktur steht am Anfang der ersten Stufe des Modells der Aufmerksamkeitsverzerrung auf negative Informationen?",
+      "options": [
+        "Eine hohe Pulvinaraktivität, die die Reaktion von Amygdala, dorsalem ACC und Insula potenziert",
+        "Eine hohe Aktivität des dorsolateralen PFC, die die Reaktion des Pulvinars unmittelbar potenziert",
+        "Eine hohe Aktivität des Kleinhirns, die die Reaktion der Basalganglien unmittelbar potenziert",
+        "Eine hohe Aktivität des Nucleus accumbens, die die Reaktion des Hippocampus unmittelbar potenziert"
+      ],
+      "answer": 0,
+      "explanation": "In der ersten Stufe potenziert eine hohe Pulvinaraktivität die Reaktion von Amygdala, dorsalem anteriorem zingulärem Kortex und Insula; die gegenseitige Erregung dieser Salienznetzwerk-Komponenten wirkt auf das Pulvinar zurück, hält dessen Aktivität aufrecht und erzeugt so eine hohe Reaktivität auf negative Informationen. Der dorsolaterale PFC erscheint erst in der zweiten Stufe, und zwar als Region, die nicht mehr erreicht wird. Nucleus accumbens und Kleinhirn spielen in diesem Modell keine solche Rolle."
+    },
+    {
+      "topic": "Aufmerksamkeitsverzerrung",
+      "hard": true,
+      "question": "Was kennzeichnet die zweite Stufe dieses Modells?",
+      "options": [
+        "Die Verarbeitung wird vollständig auf das Kleinhirn umgeleitet, wo eine motorische Antwort entsteht",
+        "Die Verarbeitung setzt sich nicht bis zum dorsolateralen PFC fort, abschwächende Bewertungen bleiben aus",
+        "Die Verarbeitung setzt sich verstärkt bis zum dorsolateralen PFC fort, wodurch die Bewertung überkorrigiert wird",
+        "Die Verarbeitung bricht bereits im primären visuellen Kortex ab, bevor eine Bewertung möglich wäre"
+      ],
+      "answer": 1,
+      "explanation": "In der zweiten Stufe fehlen – möglicherweise wegen niedriger striataler Dopaminlevel – adäquate Signale aus dem dorsalen ACC und der Amygdala; die Informationsverarbeitung setzt sich nicht bis zum dorsolateralen präfrontalen Kortex fort, sodass emotional abschwächende Bewertungen und Kontextinformationen ausbleiben und die Responsivität erhöht bleibt. Eine verstärkte Fortsetzung mit Überkorrektur kehrt den Mechanismus um. Ein Abbruch im primären visuellen Kortex und eine Umleitung ins Kleinhirn sind nicht Teil des Modells."
+    },
+    {
+      "topic": "Struktur und Metaanalytik",
+      "hard": true,
+      "question": "In welchen Regionen fand die DTI-Metaanalyse Reduktionen der fraktionellen Anisotropie?",
+      "options": [
+        "Rechter Frontallappen, rechter Gyrus fusiformis, rechter Okzipitallappen und linker Gyrus frontalis",
+        "Beide Kleinhirnhemisphären, der Hirnstamm und die angrenzenden pontinen Faserbahnen",
+        "Linker Temporallappen, linke Insula, rechter Hippocampus und rechter Gyrus parahippocampalis",
+        "Ausschließlich die Balkenfasern des Corpus callosum ohne jede weitere Beteiligung"
+      ],
+      "answer": 0,
+      "explanation": "Reduktionen der fraktionellen Anisotropie fanden sich in der weißen Substanz des rechten Lobus frontalis, des rechten Gyrus fusiformis, des rechten Lobus occipitalis und des linken Gyrus frontalis. Temporallappen, Insula und Hippocampusregionen gehören nicht zu den berichteten Clustern. Kleinhirn und Hirnstamm werden nicht genannt. Eine Beschränkung auf das Corpus callosum übergeht die vier genannten Regionen, auch wenn die Traktographie auf interhemisphärische Verbindungen verweist."
+    },
+    {
+      "topic": "Struktur und Metaanalytik",
+      "question": "Auf welche Diskonnektivitäten verwies die Traktographie der betroffenen Faserbahnen?",
+      "options": [
+        "Zwischen Kleinhirn und Thalamus, dem Pedunculus cerebellaris und der Capsula interna",
+        "Zwischen Amygdala und Hypothalamus, der Stria terminalis und dem Tractus opticus",
+        "Zwischen den beiden präfrontalen Lobuli, den visuell-frontalen Fasciculi und der Radiatio thalami posterior",
+        "Zwischen Hippocampus und Corpora mamillaria, dem Fornix und der Stria terminalis"
+      ],
+      "answer": 2,
+      "explanation": "Die Traktographie verwies auf Diskonnektivitäten zwischen den beiden präfrontalen Lobuli, den visuell-frontalen Fasciculi und der Radiatio thalami posterior – also auf eine gestörte interhemisphärische sowie visuo-frontale und visuo-thalamische Informationsübertragung. Der Hippocampus-Fornix-Kreis, die zerebellären Bahnen und die Amygdala-Hypothalamus-Verbindung über die Stria terminalis werden in diesem Zusammenhang nicht berichtet."
+    },
+    {
+      "topic": "Struktur und Metaanalytik",
+      "question": "Welche Einschränkung der Activation Likelihood Estimation hebt die Vorlesung hervor?",
+      "options": [
+        "Die Koordinaten gelten als absolute und exakte Lokalisationsangaben",
+        "Nullbefunde werden von der ALE nicht berücksichtigt",
+        "Studien mit großen Stichproben gehen mit geringerem Gewicht ein",
+        "Es lassen sich höchstens fünf Experimente gleichzeitig zusammenfassen"
+      ],
+      "answer": 1,
+      "explanation": "Die ALE zeigt, welche Konvergenzen signifikant größer sind als zufällig zu erwarten, berücksichtigt dabei aber ausdrücklich keine Nullbefunde. Studien mit größerer Probandenzahl gehen im Gegenteil mit größerem Gewicht ein. Die Koordinaten gelten gerade nicht als absolute Lokalisationsangaben, sondern als Zentren Gauß'scher Wahrscheinlichkeitsverteilungen, was die räumliche Unsicherheit abbildet. Koordinatenbasierte Metaanalysen erlauben die Zusammenfassung dutzender bis hunderter Experimente."
+    },
+    {
+      "topic": "Struktur und Metaanalytik",
+      "transfer": true,
+      "question": "Bei einem Patienten mit langjähriger Depression zeigt sich eine über den Tag erhöhte Kortisolsekretion. Über welche Mechanismen erklärt die Vorlesung daraus einen Substanzabbau?",
+      "options": [
+        "Kortisol steigert die glutamaterge Erregbarkeit bis zum frühzeitigen Zelltod und hemmt zugleich Wachstumshormone",
+        "Kortisol senkt die glutamaterge Erregbarkeit bis zur funktionellen Stilllegung und fördert zugleich Wachstumshormone",
+        "Kortisol verdrängt Serotonin aus den synaptischen Vesikeln und führt so zu einem Verlust ganzer Synapsen",
+        "Kortisol bindet unmittelbar an die Myelinscheiden und löst dort eine fortschreitende Demyelinisierung aus"
+      ],
+      "answer": 0,
+      "explanation": "Kortisol erhöht die zelluläre Erregbarkeit durch Glutamat, und eine dauerhafte Übererregung resultiert in frühzeitigem Zelltod; zusätzlich hemmt Kortisol Wachstumshormone, sodass weniger neue Zellen gebildet werden – beides erklärt die Veränderungen der Hirnsubstanz bei dauerhaft erhöhten Spiegeln. Eine gesenkte Erregbarkeit mit geförderten Wachstumshormonen kehrt beide Mechanismen um. Eine direkte Bindung an Myelinscheiden wird nicht beschrieben. Eine Verdrängung von Serotonin aus Vesikeln ist kein genannter Mechanismus."
+    },
+    {
+      "topic": "Late-Life Depression",
+      "hard": true,
+      "trap": "Die beiden Befunde laufen gegenläufig: früher Beginn trifft die graue Substanz, später Beginn die weiße.",
+      "question": "Wie hingen Ersterkrankungsalter, Hippocampusvolumen und fraktionelle Anisotropie in der Untersuchung zur Late-Life Depression zusammen?",
+      "options": [
+        "Je früher der Beginn, desto kleiner das Hippocampusvolumen und desto geringer zugleich die FA",
+        "Je früher der Beginn, desto kleiner das Hippocampusvolumen; je später der Beginn, desto geringer die FA",
+        "Weder das Hippocampusvolumen noch die FA zeigten einen Zusammenhang zum Ersterkrankungsalter",
+        "Je später der Beginn, desto kleiner das Hippocampusvolumen; je früher der Beginn, desto geringer die FA"
+      ],
+      "answer": 1,
+      "explanation": "Die voxelbasierte Morphometrie ergab eine positive Korrelation zwischen Beginn und normalisiertem Hippocampusvolumen – je früher der Beginn, desto kleiner das Volumen, passend zur längeren Wirkung stressbedingter Hormoneffekte. Die DTI-Untersuchung zeigte umgekehrt: je später der Beginn, desto geringer die fraktionelle Anisotropie, was zur Vaskularitätshypothese passt. Die Vertauschung beider Richtungen widerspricht beiden Befunden. Ein gleichsinniger Zusammenhang übersieht die Gegenläufigkeit. Ein fehlender Zusammenhang widerspricht beiden Korrelationen."
+    },
+    {
+      "topic": "Late-Life Depression",
+      "question": "Wie verhalten sich Vaskularitäts- und Glukokortikoidhypothese der Late-Life Depression zueinander?",
+      "options": [
+        "Sie schließen sich gegenseitig aus, nur die Vaskularitätshypothese ließ sich bestätigen",
+        "Sie schließen sich gegenseitig aus, nur die Glukokortikoidhypothese ließ sich bestätigen",
+        "Sie schließen sich nicht aus, beide Effekte können zur Entstehung beitragen",
+        "Beide Hypothesen wurden durch die Ergebnisse gleichermaßen widerlegt"
+      ],
+      "answer": 2,
+      "explanation": "Die Ergebnisse zeigen Veränderungen der grauen und weißen Substanz in frontalen, subkortikalen und limbischen Bereichen; die vaskulären Veränderungen scheinen eine wichtige Rolle zu spielen, und die Befunde sind zugleich mit der Glukokortikoidhypothese vereinbar – beide Hypothesen schließen sich ausdrücklich nicht gegenseitig aus. Eine Bestätigung nur einer der beiden Hypothesen widerspricht dieser Aussage in beide Richtungen. Eine Widerlegung beider Hypothesen widerspricht den berichteten Zusammenhängen."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Wie lassen sich die Befunde zur Depression im Triple Network Model zusammenfassen?",
+      "options": [
+        "Geschrumpftes Salienznetzwerk und supprimiertes DMN bei zugleich überschießender Rekrutierung des CEN",
+        "Vollständige Entkopplung aller drei Netzwerke voneinander ohne verbleibende funktionelle Beziehungen",
+        "Unverändertes Salienznetzwerk und unverändertes DMN bei allein gestörter Binnenkonnektivität des CEN",
+        "Ausgedehntes Salienznetzwerk und dominantes DMN bei zugleich unzureichender Rekrutierung des CEN"
+      ],
+      "answer": 3,
+      "explanation": "Das Salienznetzwerk dehnt sich aus und vereinnahmt Bereiche des frontoparietalen, cingulo-operculären und Default-Mode-Netzwerks; das DMN zeigt eine erhöhte Intrakonnektivität, eine höhere Dominanz und eine schlechtere Suppression, während das zentralexekutive Netzwerk bei Fehlern und höherer kognitiver Anforderung unzureichend rekrutiert wird. Ein geschrumpftes Salienznetzwerk mit supprimiertem DMN und überschießendem CEN kehrt alle drei Befunde um. Unveränderte Netzwerke widersprechen den berichteten Verschiebungen. Eine vollständige Entkopplung überzeichnet die Befundlage."
+    }
+  ]
+}

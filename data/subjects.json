@@ -682,6 +682,13 @@
       "title": "Schizophrenie",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Schwerpunkt Hirnregionen: strukturelle Befunde nach Krankheitsphase, Mikroschaltkreise und Pruning, Dopamin- und Glutamathypothese, Thalamus und Metaanalysen, weiße Substanz, Netzwerkkonnektivität und Netzwerkmodell."
+    },
+    {
+      "id": "kan-depressive-stoerungen",
+      "file": "kan-depressive-stoerungen.json",
+      "title": "Depressive Störungen",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Schwerpunkt Hirnregionen: Mittellinienstrukturen und DMN, Serotonin-Hypothese, Habenulae und Ketamin, Salienz- und zentralexekutives Netzwerk, Aufmerksamkeitsverzerrung, strukturelle Konnektivität, Late-Life Depression und Netzwerkmodell."
     }
   ]
 }
