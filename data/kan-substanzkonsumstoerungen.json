@@ -376,13 +376,13 @@
       "topic": "Netzwerkmodell der Sucht",
       "question": "Welche Konnektivitätsveränderung ist mit Substanzkonsumstörungen assoziiert?",
       "options": [
-        "Eine Verminderung ausschließlich innerhalb des Salienznetzwerks",
-        "Eine Verminderung der Konnektivität im DMN und zwischen DMN und CEN",
-        "Eine Verstärkung der Konnektivität im DMN und zwischen DMN und CEN",
-        "Eine vollständige Entkopplung des CEN von allen übrigen Netzwerken"
+        "Eine Verstärkung der Konnektivität im DMN und zwischen DMN und Salienznetzwerk",
+        "Eine Verminderung der Konnektivität im DMN und zwischen DMN und Salienznetzwerk",
+        "Eine Verminderung der Konnektivität ausschließlich innerhalb des zentralexekutiven Netzwerks",
+        "Eine vollständige Entkopplung des Salienznetzwerks von allen übrigen Netzwerken"
       ],
       "answer": 1,
-      "explanation": "Substanzkonsumstörungen sind mit einer Verminderung der Konnektivität im Default-Mode-Netzwerk und zwischen DMN und zentralexekutivem Netzwerk assoziiert; dopaminerge Dysregulationen führen zu Funktionsstörungen im DMN, was Selbstkontrolle und die Kommunikation mit anderen Netzwerken verändert und Konsum wie Rückfall begünstigt. Eine Verstärkung der Konnektivität kehrt den Befund um. Eine Beschränkung auf das Salienznetzwerk trifft nicht zu. Eine vollständige Entkopplung des CEN überzeichnet den berichteten Effekt."
+      "explanation": "Substanzkonsumstörungen sind mit einer Verminderung der Konnektivität im Default-Mode-Netzwerk und zwischen DMN und Salienznetzwerk assoziiert; dopaminerge Dysregulationen führen zu Funktionsstörungen im DMN, was die Selbstkontrolle und die Kommunikation mit anderen Netzwerken verändert und Konsum wie Rückfall begünstigt. Eine Verstärkung der Konnektivität kehrt den Befund um. Eine Beschränkung auf das zentralexekutive Netzwerk trifft die berichtete Konstellation nicht. Eine vollständige Entkopplung des Salienznetzwerks überzeichnet den berichteten Effekt."
     }
   ]
 }
