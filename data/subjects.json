@@ -675,6 +675,13 @@
       "title": "ADHS",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Schwerpunkt Hirnregionen und Netzwerke: Grenzen der Diagnostik, selektive Aufmerksamkeit, katecholaminerge Bahnen, Pharmakotherapie und Dosis-Wirkungs-Kurve, Dopamin-Transfer-Defizit, funktionelle Befunde und verzögerte Hirnreifung."
+    },
+    {
+      "id": "kan-schizophrenie",
+      "file": "kan-schizophrenie.json",
+      "title": "Schizophrenie",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Schwerpunkt Hirnregionen: strukturelle Befunde nach Krankheitsphase, Mikroschaltkreise und Pruning, Dopamin- und Glutamathypothese, Thalamus und Metaanalysen, weiße Substanz und Netzwerkkonnektivität."
     }
   ]
 }
