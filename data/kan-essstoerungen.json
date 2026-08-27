@@ -385,6 +385,19 @@
       ],
       "answer": 0,
       "explanation": "Die Ergebnisse zeigen separate Komponenten für die exterozeptive und interozeptive Bottom-up-Verarbeitung – im Bereich von Precuneus beziehungsweise Claustrum und Insula – sowie Defizite bei Belohnungsverarbeitung und Set-Shifting; Bottom-up-Sensorik und Belohnungsverarbeitung gelten damit als Schlüsseldefizite in akuten wie erholten Zuständen. Sprachverarbeitung und verbales Arbeitsgedächtnis werden nicht als Schlüsseldefizit ausgewiesen. Motorische Kontrolle und Feinkoordination gehören nicht zu den genannten Bereichen. Gedächtniskonsolidierung und autobiografischer Abruf werden in dieser Zusammenschau nicht als Kernbefund berichtet."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Welchem der großen Netzwerke ist die Insula als Knotenpunkt zuzuordnen, und welche Aufgabe übernimmt sie dort?",
+      "options": [
+        "Dem Default-Mode-Netzwerk, in dem sie den autobiografischen Gedächtnisabruf und die Selbstreflektion im Ruhezustand trägt",
+        "Dem zentralexekutiven Netzwerk, in dem sie die Aufgabenziele im Arbeitsgedächtnis aufrechterhält und Handlungen plant",
+        "Dem Salienznetzwerk, in dem sie den beteiligten Regionen Salienz zuweist und deren Kommunikation koordiniert",
+        "Dem dorsalen Aufmerksamkeitsnetzwerk, in dem sie die willentliche Ausrichtung des Blicks auf erwartete Reize steuert"
+      ],
+      "answer": 2,
+      "explanation": "Da unwahrscheinlich ist, dass alle bei Essstörungen auffälligen Bereiche spezifische Veränderungen aufweisen, nimmt die Vorlesung eine gestörte Konnektivität an und benennt die Insula als die Region, die die Interaktion zwischen den beteiligten Arealen koordiniert und dabei Salienz zuweist – genau die Funktion, über die sie als Knotenpunkt des Salienznetzwerks definiert ist. Autobiografischer Abruf und Selbstreflektion sind Funktionen des Default-Mode-Netzwerks. Die Aufrechterhaltung von Aufgabenzielen leistet das zentralexekutive Netzwerk. Die willentliche Blickausrichtung auf erwartete Reize gehört zum dorsalen Aufmerksamkeitsnetzwerk."
     }
   ]
 }

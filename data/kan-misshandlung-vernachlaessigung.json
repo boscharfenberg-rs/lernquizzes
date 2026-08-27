@@ -385,6 +385,19 @@
       ],
       "answer": 3,
       "explanation": "Mit etwa 13 Jahren berichten rund ein Viertel der Jugendlichen von verbaler Misshandlung, und in der Zeit zwischen 7 und 13 Jahren erreicht auch die aktive Myelinisierung einen Spitzenwert – in dieser Phase ist sie besonders vulnerabel. Ein Kulminieren deutlich nach Abschluss der Myelinisierung oder lange vor deren Beginn widerspricht dieser zeitlichen Überschneidung. Dass kein Bezug bestünde, hebt gerade die Kernaussage der Untersuchung auf."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Über welchen Knotenpunkt lassen sich die Folgen früher Misshandlung in das Triple Network Model einordnen?",
+      "options": [
+        "Über den dorsolateralen Präfrontalkortex als Hauptknotenpunkt des DMN, dessen Aktivität die Salienzzuweisung unmittelbar steuert",
+        "Über die anteriore Insula als Hauptknotenpunkt des Default-Mode-Netzwerks, deren Aktivität den autobiografischen Gedächtnisabruf trägt",
+        "Über den vmPFC als Hauptknotenpunkt des DMN, dessen Über- oder Unterfunktion die selbstreferenziellen Prozesse verschiebt",
+        "Über den Nucleus accumbens als Hauptknotenpunkt des zentralexekutiven Netzwerks, dessen Aktivität die Emotionsregulation bestimmt"
+      ],
+      "answer": 2,
+      "explanation": "Der ventromediale präfrontale Kortex ist einer der Hauptknotenpunkte des Default-Mode-Netzwerks; eine erhöhte Glukokortikoid-Freisetzung könnte über eine Überfunktion die selbstreferenziellen Prozesse wie Grübeln und autobiografisches Gedächtnis verstärken, eine verminderte Freisetzung über eine Unterfunktion Selbstwahrnehmung, Empathie und soziale Interaktion beeinträchtigen. Der dorsolaterale Präfrontalkortex gehört zum zentralexekutiven und nicht zum Default-Mode-Netzwerk. Die anteriore Insula ist ein Knotenpunkt des Salienznetzwerks. Der Nucleus accumbens gehört zum Belohnungssystem und ist ein Subknoten des Salienznetzwerks, nicht des zentralexekutiven Netzwerks."
     }
   ]
 }

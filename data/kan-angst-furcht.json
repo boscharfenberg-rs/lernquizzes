@@ -384,6 +384,19 @@
       ],
       "answer": 0,
       "explanation": "Als Limitation wird genannt, dass wegen des Fehlens einer Kontrollgruppe bei der Nachuntersuchung die Ergebnisse nicht direkt auf die Expositionsbehandlung zurückgeführt werden können und auf unsystematischen Schwankungen der funktionellen Konnektivität beruhen könnten; dagegen sprechen allerdings Befunde zur Stabilität des Konnektoms über Monate. Ein zu großer zeitlicher Abstand wird nicht angeführt. Die Stichprobe bestand ganz überwiegend aus Frauen, nicht aus Männern. Die Behandlung war ausdrücklich standardisiert und therapeutisch begleitet."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Wie fügen sich die Befunde zu Angst und Angststörungen in das Triple Network Model der Psychopathologie ein?",
+      "options": [
+        "Hypoaktivierung der Salienzknoten Amygdala und Insula bei zugleich deutlich verstärkter Suppression des Default-Mode-Netzwerks",
+        "Eine isolierte Überaktivierung des zentralexekutiven Netzwerks, während Salienznetzwerk und DMN durchweg unauffällig bleiben",
+        "Hyperaktivierung der Salienzknoten Amygdala und Insula bei zugleich verminderter Suppression des DMN",
+        "Eine gleichmäßige Hypoaktivierung aller drei Netzwerke ohne jede erkennbare Verschiebung zwischen ihnen"
+      ],
+      "answer": 2,
+      "explanation": "Die Übersicht von Etkin und Wagner zeigt als Kerneigenschaft von Angst und Angststörungen eine Hyperaktivierung amygdaloidaler und insulärer Regionen – beides Knotenpunkte des Salienznetzwerks – bei gleichzeitig verminderter Suppression des Default-Mode-Netzwerks; die Ergebnisse von Baur und Kollegen zur Insula-Amygdala-Kopplung sind ausdrücklich gut mit dem Triple Network Model vereinbar. Eine Hypoaktivierung der Salienzknoten bei verstärkter DMN-Suppression kehrt beide Befunde um. Eine isolierte Überaktivierung des zentralexekutiven Netzwerks widerspricht der berichteten vorwiegend verminderten Aktivität des frontoparietalen Netzwerks. Eine gleichmäßige Hypoaktivierung aller Netzwerke übergeht die charakteristische Verschiebung zugunsten der Salienzverarbeitung."
     }
   ]
 }

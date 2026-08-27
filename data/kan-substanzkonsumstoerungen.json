@@ -383,6 +383,19 @@
       ],
       "answer": 1,
       "explanation": "Substanzkonsumstörungen sind mit einer Verminderung der Konnektivität im Default-Mode-Netzwerk und zwischen DMN und Salienznetzwerk assoziiert; dopaminerge Dysregulationen führen zu Funktionsstörungen im DMN, was die Selbstkontrolle und die Kommunikation mit anderen Netzwerken verändert und Konsum wie Rückfall begünstigt. Eine Verstärkung der Konnektivität kehrt den Befund um. Eine Beschränkung auf das zentralexekutive Netzwerk trifft die berichtete Konstellation nicht. Eine vollständige Entkopplung des Salienznetzwerks überzeichnet den berichteten Effekt."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Welche Kette beschreibt die Vorlesung von der dopaminergen Dysregulation bis zum Rückfall?",
+      "options": [
+        "Dopaminerge Dysregulation → Funktionsstörungen im Salienznetzwerk → verbesserte Selbstkontrolle → seltenerer Konsum und geringere Rückfallneigung",
+        "Funktionsstörungen im DMN → dopaminerge Dysregulation → gesteigerte Belohnungsempfindlichkeit → vollständige Remission der gesamten Symptomatik",
+        "Dopaminerge Dysregulation → Funktionsstörungen im DMN → veränderte Selbstkontrolle → begünstigter Konsum und Rückfall",
+        "Veränderte Selbstkontrolle → dopaminerge Dysregulation → Funktionsstörungen im Motornetzwerk → ausschließlich motorische Auffälligkeiten"
+      ],
+      "answer": 2,
+      "explanation": "Dopaminerge Genvarianten erhöhen das Suchtrisiko, der Substanzkonsum verändert das Dopaminsystem, dopaminerge Dysregulationen führen zu Funktionsstörungen im Default-Mode-Netzwerk, diese verändern die Selbstkontrolle und die Kommunikation mit anderen Netzwerken – was Konsum und Rückfall begünstigt. Eine verbesserte Selbstkontrolle mit geringerer Rückfallneigung kehrt das Ergebnis um. Die umgekehrte Reihenfolge mit vollständiger Remission widerspricht sowohl der Kausalrichtung als auch dem klinischen Verlauf. Eine Beschränkung auf motorische Auffälligkeiten trifft die beschriebenen Folgen für Selbstkontrolle und Craving nicht."
     }
   ]
 }

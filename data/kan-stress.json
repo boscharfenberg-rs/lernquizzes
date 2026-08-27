@@ -383,6 +383,19 @@
       ],
       "answer": 3,
       "explanation": "Als Gründe werden neben der direkten Wirkung von CRH und Kortisol ausdrücklich die Hemmung von Wachstumsfaktoren genannt: Es werden keine neuen Zellen, Dendriten und Synapsen mehr gebildet, wodurch sich die Gesamtzahl über die Zeit reduziert. Ein Rückgang der Myelinisierung betrifft die weiße und nicht die graue Substanz. Eine verminderte Flexibilität des Kapillarnetzes wird als Mechanismus nicht angeführt. Eine Stimulation inhibierender Neurotransmitter erklärt keinen Gewebeverlust."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Wie lassen sich die Stressbefunde auf die großen Hirnnetzwerke beziehen?",
+      "options": [
+        "Je höher das Kortisol, desto stärker die Suppression des Default-Mode-Netzwerks; die eigene Konnektivitätsanalyse fand ausschließlich limbische Regionen",
+        "Das Kortisol stand in keinem Zusammenhang mit der Suppression des Default-Mode-Netzwerks; die Konnektivitätsanalyse blieb dabei ohne jeden Netzwerkbefund",
+        "Je höher das Kortisol, desto geringer die DMN-Suppression; die eigene Analyse hob zusätzlich Salienz- und Kontrollnetzwerk hervor",
+        "Je höher das Kortisol, desto geringer die Suppression des zentralexekutiven Netzwerks; das Default-Mode-Netzwerk blieb dabei vollständig unbeteiligt"
+      ],
+      "answer": 2,
+      "explanation": "Das Kortisollevel korrelierte mit der aufgabeninduzierten Deaktivierung medial präfrontaler Strukturen: Je höher das Kortisol, desto geringer die Unterdrückung dieser Regionen – also des Default-Mode-Netzwerks, das mit Grübeln, Stressbewältigung und Emotionsregulation verknüpft wird. Die nachfolgende Konnektivitätsanalyse der eigenen Forschung zeigte darüber hinaus laterale Regionen aus Salienz-, Control- und Motornetzwerk sowie sensorische Areale. Eine stärkere Suppression bei höherem Kortisol kehrt den Zusammenhang um. Ein fehlender Zusammenhang widerspricht dem berichteten Befund. Eine Verschiebung auf das zentralexekutive Netzwerk unter Ausschluss des DMN trifft die medial präfrontale Lokalisation nicht."
     }
   ]
 }
