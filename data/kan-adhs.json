@@ -1,0 +1,391 @@
+{
+  "id": "kan-adhs",
+  "title": "ADHS",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Items zur VL ADHS in erhöhter Schwierigkeit: DSM-5-Kriterien, Grenzen der Diagnostik, selektive Aufmerksamkeit, Pharmakotherapie und Dosis-Wirkungs-Kurve, Dopamin-Transfer-Defizit, funktionelle Befunde und verzögerte Hirnreifung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "DSM-5-Kriterien",
+      "question": "Wie viele Symptome müssen nach DSM-5 in einem Symptombereich vorliegen, und wie ändert sich diese Schwelle mit dem Alter?",
+      "options": [
+        "Mindestens vier Symptome, ab einem Alter von zwölf Jahren mindestens sechs",
+        "Mindestens sechs Symptome, unabhängig vom Lebensalter der untersuchten Person",
+        "Mindestens sechs Symptome, ab einem Alter von siebzehn Jahren mindestens fünf",
+        "Mindestens fünf Symptome, ab einem Alter von siebzehn Jahren mindestens sechs"
+      ],
+      "answer": 2,
+      "explanation": "Sowohl für die Unaufmerksamkeit als auch für die Hyperaktivität-Impulsivität verlangt das DSM-5 mindestens sechs Symptome; für ältere Jugendliche und Erwachsene ab siebzehn Jahren genügen mindestens fünf. Die umgekehrte Staffelung würde die Schwelle mit dem Alter anheben statt senken. Eine altersunabhängig konstante Schwelle übergeht die ausdrückliche Sonderregelung. Vier Symptome unterschreiten die Vorgabe, und das zwölfte Lebensjahr ist das Alterskriterium des Symptombeginns, keine Schwelle für die Symptomzahl."
+    },
+    {
+      "topic": "DSM-5-Kriterien",
+      "hard": true,
+      "question": "Welche der folgenden Aussagen gehört NICHT zu den DSM-5-Kriterien der ADHS?",
+      "options": [
+        "Mehrere Symptome müssen bereits vor dem zwölften Lebensjahr aufgetreten sein",
+        "Die Symptome müssen durch eine standardisierte neuropsychologische Testbatterie objektiviert sein",
+        "Die Symptome dürfen nicht ausschließlich im Verlauf einer Schizophrenie oder anderen psychotischen Störung auftreten",
+        "Mehrere Symptome müssen in mindestens zwei verschiedenen Lebensbereichen auftreten"
+      ],
+      "answer": 1,
+      "explanation": "Eine Objektivierung durch neuropsychologische Testbatterien ist gerade kein Kriterium – solche Verfahren werden wegen zu geringer Vorhersagekraft und Spezifität ausdrücklich nicht routinemäßig eingesetzt. Der Symptombeginn vor dem zwölften Lebensjahr, das Auftreten in mindestens zwei Lebensbereichen und der Ausschluss, dass die Symptome ausschließlich im Verlauf einer Schizophrenie oder anderen psychotischen Störung auftreten, sind dagegen ausdrücklich als Kriterien aufgeführt."
+    },
+    {
+      "topic": "DSM-5-Kriterien",
+      "question": "Über welchen Mindestzeitraum und in welchem Ausmaß müssen die Symptome bestanden haben?",
+      "options": [
+        "Über mindestens sechs Wochen in einem für die Altersgruppe deutlich untypischen Ausmaß",
+        "Über mindestens zwölf Monate in einem mit dem Entwicklungsstand nicht vereinbaren Ausmaß",
+        "Über mindestens sechs Monate in einem mit dem Entwicklungsstand nicht vereinbaren Ausmaß",
+        "Über mindestens drei Monate in einem für das soziale Umfeld belastenden Ausmaß"
+      ],
+      "answer": 2,
+      "explanation": "Gefordert ist ein beständiges Auftreten über mindestens sechs Monate in einem Ausmaß, das mit dem Entwicklungsstand nicht zu vereinbaren ist und sich direkt negativ auf soziale und schulische beziehungsweise berufliche Aktivitäten auswirkt. Zwölf Monate, sechs Wochen und drei Monate weichen jeweils vom vorgegebenen Zeitkriterium ab; zudem ersetzen die Formulierungen „untypisch für die Altersgruppe“ und „belastend für das Umfeld“ den maßgeblichen Bezug auf den Entwicklungsstand."
+    },
+    {
+      "topic": "DSM-5-Kriterien",
+      "transfer": true,
+      "trap": "Trotz und Verweigerung erfüllen das Kriterium gerade nicht – die Beachte-Klausel schließt sie ausdrücklich aus.",
+      "question": "Ein Junge führt Anweisungen im Unterricht regelmäßig nicht aus; im Gespräch zeigt sich, dass er sie sehr wohl versteht, sich aber bewusst widersetzt. Wie ist das im Hinblick auf die DSM-5-Kriterien zu bewerten?",
+      "options": [
+        "Das Kriterium ist nicht bewertbar, da hierfür zwingend eine Fremdbeurteilung nötig wäre",
+        "Das Kriterium ist nicht erfüllt, da die Symptome nicht ausschließlich Ausdruck von Trotz sein dürfen",
+        "Das Kriterium ist erfüllt, sofern das Verhalten über mindestens sechs Monate besteht",
+        "Das Kriterium ist erfüllt, da die erteilten Anweisungen objektiv nicht vollständig durchgeführt worden sind"
+      ],
+      "answer": 1,
+      "explanation": "Das DSM-5 enthält bei beiden Symptombereichen die ausdrückliche Beachte-Klausel, dass die Symptome nicht ausschließlich Ausdruck von oppositionellem Verhalten, Trotz, Feindseligkeit oder der Unfähigkeit sein dürfen, Aufgaben oder Anweisungen zu verstehen – genau das liegt hier vor. Dass die Anweisung objektiv nicht ausgeführt wurde, genügt deshalb nicht. Auch die Sechs-Monats-Dauer heilt den Ausschlussgrund nicht. Fremdbeurteilungsbögen werden zwar eingesetzt, ihre Abwesenheit macht die Bewertung dieser Klausel aber nicht unmöglich."
+    },
+    {
+      "topic": "Grenzen der Diagnostik",
+      "question": "Worauf beruht die ADHS-Diagnose nach der Darstellung der Vorlesung hauptsächlich?",
+      "options": [
+        "Auf subjektiven Erfahrungen und Beobachtungen aus Interviews und Ratingskalen",
+        "Auf standardisierten Reaktionszeitmessungen mit hoher diagnostischer Spezifität",
+        "Auf strukturell-bildgebenden Befunden in Kombination mit einer Laborchemie",
+        "Auf genetischen Markern, die die kognitiven Phänotypen zuverlässig abbilden"
+      ],
+      "answer": 0,
+      "explanation": "Die Diagnose wird nach Beobachtung und Selbstauskunft über das Verhalten gestellt, also über klinische Interviews und Ratingskalen einschließlich Fremdbeurteilungsbögen für Familie und Lehrkräfte – sie beruht damit hauptsächlich auf subjektiven Erfahrungen und Beobachtungen. Bildgebung und Laborchemie sind nicht Teil der Diagnosestellung. Standardisierte Reaktionszeitmessungen wie die Continuous Performance Task besitzen gerade keine ausreichende Spezifität. Genetische Marker werden für die Diagnostik nicht herangezogen."
+    },
+    {
+      "topic": "Grenzen der Diagnostik",
+      "hard": true,
+      "question": "Wie bewertet die Vorlesung quantitative Verfahren wie die Continuous Performance Task für die Diagnosestellung?",
+      "options": [
+        "Hohe Vorhersagekraft und ausreichende Spezifität, weshalb sie den klinischen Interviews vorzuziehen sind",
+        "Keinerlei empirische Untersuchung, weshalb über ihre Güte bislang nichts bekannt ist",
+        "Nur geringe bis mittlere Vorhersagekraft und zu geringe Spezifität für die heterogenen Phänotypen",
+        "Hohe Spezifität bei geringer Sensitivität, weshalb sie nur zum Ausschluss geeignet sind"
+      ],
+      "answer": 2,
+      "explanation": "Es wurde versucht, über Verfahren wie die Connors Continuous Performance Task eine quantitative Methode zu entwickeln; solche Tests haben aber nur geringe bis mittlere Vorhersagekraft und eine zu geringe Spezifität, um die Heterogenität der kognitiven Phänotypen zu erfassen – deshalb werden neuropsychologische Testbatterien nicht routinemäßig eingesetzt. Eine Überlegenheit gegenüber Interviews wird gerade nicht behauptet. Die Kombination hoher Spezifität bei geringer Sensitivität kehrt die berichtete Güte um. Dass keine Untersuchungen vorlägen, widerspricht der referierten Befundlage."
+    },
+    {
+      "topic": "Grenzen der Diagnostik",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Kind erfüllt das Kriterium „beachtet häufig Einzelheiten nicht oder macht Flüchtigkeitsfehler“. Welchen grundsätzlichen Einwand formuliert die Vorlesung gegen ein solches Kriterium?",
+      "options": [
+        "Es lässt sich ausschließlich auf ein Defizit der Daueraufmerksamkeit zurückführen und ist daher redundant",
+        "Es ist nur dann verwertbar, wenn es zusätzlich durch die Lehrkraft schriftlich bestätigt wird",
+        "Es kann auf Defizite im Arbeitsgedächtnis, in der selektiven oder in der Daueraufmerksamkeit hinweisen",
+        "Es beschreibt ein Verhalten, das bei Kindern unter zwölf Jahren grundsätzlich altersgemäß ist"
+      ],
+      "answer": 2,
+      "explanation": "Die Vorlesung führt genau dieses Kriterium als Beispiel dafür an, dass die DSM-5-Kriterien nicht zwischen den kognitiven Domänen-Phänotypen differenzieren: Der Flüchtigkeitsfehler kann auf Defizite im Arbeitsgedächtnis, in der selektiven Aufmerksamkeit oder in der Daueraufmerksamkeit hinweisen, sodass die zugrundeliegenden Mechanismen verschmelzen. Eine Rückführung auf allein die Daueraufmerksamkeit ist genau die unzulässige Vereindeutigung. Eine generelle Altersangemessenheit unter zwölf Jahren wird nicht behauptet. Die schriftliche Bestätigung betrifft die Erhebung, nicht den inhaltlichen Einwand."
+    },
+    {
+      "topic": "Epidemiologie und Verlauf",
+      "question": "Welche Angaben zu Häufigkeit und Verlauf der ADHS nennt die Vorlesung?",
+      "options": [
+        "Etwa zehn Prozent der Kinder weltweit betroffen, Persistenz ins Erwachsenenalter bei etwa zwanzig Prozent",
+        "Etwa zwei Prozent der Kinder weltweit betroffen, Persistenz ins Erwachsenenalter bei nahezu allen Fällen",
+        "Etwa zehn Prozent der Kinder weltweit betroffen, vollständige Remission bis zur Pubertät in aller Regel",
+        "Etwa zwanzig Prozent der Kinder weltweit betroffen, Persistenz ins Erwachsenenalter bei etwa zehn Prozent"
+      ],
+      "answer": 0,
+      "explanation": "Die Vorlesung gibt an, dass ADHS etwa zehn Prozent der Kinder weltweit betrifft und bei etwa zwanzig Prozent bis ins Erwachsenenalter persistiert; die Komorbidität liegt bei fünfzig bis achtzig Prozent. Die Vertauschung beider Prozentwerte kehrt Häufigkeit und Persistenz um. Zwei Prozent Prävalenz bei nahezu vollständiger Persistenz widerspricht beiden Angaben. Eine regelhafte vollständige Remission bis zur Pubertät widerspricht der berichteten Persistenzrate."
+    },
+    {
+      "topic": "Epidemiologie und Verlauf",
+      "trap": "Nicht die Symptomatik insgesamt bildet sich zurück – nur der motorische Anteil.",
+      "question": "Wie verändert sich die Symptomatik im Verlauf der Entwicklung?",
+      "options": [
+        "Alle drei Symptombereiche bilden sich mit dem Ende der Adoleszenz gleichmäßig zurück",
+        "Alle drei Symptombereiche nehmen mit zunehmendem Lebensalter kontinuierlich an Schwere zu",
+        "Die Aufmerksamkeitsstörung nimmt ab, die motorische Hyperaktivität bleibt im Erwachsenenalter dominant",
+        "Die motorische Hyperaktivität nimmt ab, Aufmerksamkeitsstörung und Impulsivität bleiben dominant"
+      ],
+      "answer": 3,
+      "explanation": "Im Lauf der Entwicklung nimmt die motorische Hyperaktivität ab, während Aufmerksamkeitsstörung und Impulsivität im Erwachsenenalter noch dominant sind. Die umgekehrte Zuordnung vertauscht die betroffenen Bereiche. Eine gleichmäßige Rückbildung aller Bereiche widerspricht der Persistenz bei etwa einem Fünftel der Betroffenen. Eine kontinuierliche Zunahme aller Symptome widerspricht der beschriebenen Abnahme des motorischen Anteils."
+    },
+    {
+      "topic": "Epidemiologie und Verlauf",
+      "question": "Eltern stellen ihren dreijährigen Sohn vor, der ihnen als „ständig in Bewegung“ auffällt. Warum ist eine ADHS-Diagnose in diesem Alter besonders schwierig?",
+      "options": [
+        "Weil vor diesem Alter noch keine strukturellen Hirnveränderungen nachweisbar sind",
+        "Weil sich die Symptome in diesem Alter noch nicht in mindestens zwei verschiedenen Lebensbereichen zeigen können",
+        "Weil die Symptomatik kaum vom stark variierenden altersgemäßen Verhalten aktiver Kinder abgrenzbar ist",
+        "Weil Fremdbeurteilungsbögen für diese Altersgruppe grundsätzlich nicht vorliegen"
+      ],
+      "answer": 2,
+      "explanation": "Die Symptomatik manifestiert sich früh, ist aber vor dem vierten Lebensjahr nur schwer von dem individuell stark variierenden altersgemäßen Verhalten besonders aktiver Kinder zu unterscheiden. Der Nachweis struktureller Veränderungen ist ohnehin kein diagnostisches Kriterium. Ein grundsätzliches Fehlen von Fremdbeurteilungsinstrumenten wird nicht behauptet. Auch kleine Kinder bewegen sich in mehreren Lebensbereichen, das Settingkriterium ist nicht der genannte Grund.",
+      "transfer": true
+    },
+    {
+      "topic": "Selektive Aufmerksamkeit",
+      "transfer": true,
+      "question": "In einem Versuch soll eine Probandin nach einer Regel gezielt nur die roten Objekte beachten; in einem zweiten Durchgang zieht ein plötzlich aufblitzender Reiz ihre Aufmerksamkeit auf sich. Wie sind beide Vorgänge einzuordnen?",
+      "options": [
+        "Beide Vorgänge sind endogen vermittelt, weil die Aufgabe vorgegeben ist",
+        "Der erste Vorgang ist endogen, der zweite exogen vermittelt",
+        "Beide Vorgänge sind exogen vermittelt, weil die Reize von außen stammen",
+        "Der erste Vorgang ist exogen, der zweite endogen vermittelt"
+      ],
+      "answer": 1,
+      "explanation": "Endogen bedeutet, dass Ziele, Regeln oder motivationale Prozesse bestimmen, welcher von vielen Stimuli selektiv verarbeitet wird – hier die Regel „nur Rot“. Exogen bedeutet, dass saliente externale Stimuli die Reaktionswahl bestimmen, wie beim plötzlich aufblitzenden Reiz. Die umgekehrte Zuordnung vertauscht beide Formen. Dass eine Aufgabe vorgegeben ist, macht die reizgetriebene Ablenkung nicht endogen. Dass die Reize physikalisch von außen kommen, macht die regelgeleitete Selektion nicht exogen."
+    },
+    {
+      "topic": "Selektive Aufmerksamkeit",
+      "question": "Nach welchen Eigenschaften kann die Auswahl in der visuellen Domäne laut Taxonomie erfolgen?",
+      "options": [
+        "Nach dem Bekanntheitsgrad des Reizes oder nach seinem semantischen Gehalt",
+        "Nach der Reizdauer oder nach der Anzahl der gleichzeitig dargebotenen Reize",
+        "Nach der Modalität des Reizes oder nach seiner emotionalen Valenz",
+        "Nach dem Ort des Stimulus oder nach Eigenschaften wie Farbe und Form"
+      ],
+      "answer": 3,
+      "explanation": "Die Taxonomie unterscheidet die Auswahl nach dem Ort – wo sich der Stimulus befindet – und nach Eigenschaften wie Farbe oder Form; quer dazu steht die Unterscheidung endogen gegenüber exogen. Reizdauer und Reizanzahl sind keine genannten Selektionskriterien. Die Modalität liegt außerhalb der hier betrachteten rein visuellen Domäne. Bekanntheitsgrad und semantischer Gehalt werden in dieser Taxonomie nicht als Auswahleigenschaften geführt."
+    },
+    {
+      "topic": "Selektive Aufmerksamkeit",
+      "hard": true,
+      "question": "Welche Aussage zu den Hirnnetzwerken der selektiven Aufmerksamkeit trifft am ehesten zu?",
+      "options": [
+        "Die endogene räumliche Aufmerksamkeit stützt sich auf frontale Augenfelder, präfrontale und lateral intraparietale Regionen sowie den Colliculus superior",
+        "Die exogene Aufmerksamkeitssteuerung ist deutlich besser erforscht als die endogene und nutzt vollständig getrennte Areale",
+        "Die endogene räumliche Aufmerksamkeit stützt sich ausschließlich auf den primären visuellen Kortex und den lateralen Kniehöcker des Thalamus als Umschaltstation",
+        "Endogene und exogene Steuerung nutzen nach übereinstimmender Befundlage exakt dieselben Regionen ohne Überschneidungsfrage"
+      ],
+      "answer": 0,
+      "explanation": "Für die endogene räumliche Aufmerksamkeit werden frontale Augenfelder, präfrontale Regionen, lateral intraparietale Regionen und der Colliculus superior genannt; diese Strukturen bedingen die Selektion des ausgewählten Stimulus im visuellen Kortex. Eine Beschränkung auf primären visuellen Kortex und Kniehöcker beschreibt die reine Reizweiterleitung. Über die exogene Steuerung ist ausdrücklich wenig bekannt, sie ist also nicht besser erforscht. Die Befundlage ist gerade uneinheitlich: teils identische Regionen mit einer Salienzkarte, teils separate dorsale und ventrale Netzwerke."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "question": "Wie wirkt Methylphenidat auf der synaptischen Ebene?",
+      "options": [
+        "Es hemmt den enzymatischen Abbau von Dopamin, ohne die Wiederaufnahme zu beeinflussen",
+        "Es blockiert postsynaptische Dopaminrezeptoren und senkt dadurch die dopaminerge Übertragung",
+        "Es hemmt selektiv die Wiederaufnahme von Serotonin und steigert dessen postsynaptische Bindung",
+        "Es hemmt die Wiederaufnahme von Dopamin und Noradrenalin und führt zur Freisetzung von Dopamin"
+      ],
+      "answer": 3,
+      "explanation": "Methylphenidat wirkt amphetaminähnlich und sympathomimetisch: Es hemmt die Wiederaufnahme von Dopamin und Noradrenalin in die Präsynapse und führt zur Freisetzung von Dopamin, wodurch die Konzentration der Neurotransmitter an den postsynaptischen Rezeptoren steigt. Eine selektive Serotonin-Wiederaufnahmehemmung beschreibt eine andere Substanzklasse. Eine Rezeptorblockade mit gesenkter Übertragung kehrt die Wirkrichtung um. Eine reine Abbauhemmung ohne Effekt auf die Wiederaufnahme entspricht nicht dem beschriebenen Mechanismus."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Warum ist die Wirkung von Methylphenidat trotz amphetaminähnlicher Eigenschaften nicht mit illegalen Stimulanzien vergleichbar?",
+      "options": [
+        "Dosis, Wirkungsdauer und Anflutung sind deutlich geringer und daher ungeeignet, einen „Kick“ auszulösen",
+        "Durch die dauerhafte Einnahme entsteht eine Habituation, weshalb keinerlei Abhängigkeitsgefahr besteht",
+        "Dosis und Anflutung sind höher, das bestehende Katecholamindefizit gleicht die Wirkung jedoch aus",
+        "Die Substanz bindet ausschließlich an die bei ADHS veränderten Rezeptoren und wirkt sonst nicht"
+      ],
+      "answer": 0,
+      "explanation": "Dosis, Wirkungsdauer und vor allem die Anflutung sind bei der retardierten Gabe deutlich geringer, wodurch die Substanz ungeeignet ist, einen „Kick“ auszulösen. Eine selektive Bindung nur an veränderte Rezeptoren wird nicht beschrieben. Eine Habituation, die jede Abhängigkeitsgefahr aufhebt, ist keine Begründung der Vorlesung. Höhere Dosis und Anflutung mit ausgleichendem Defizit kehrt die pharmakokinetische Argumentation um."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Welche Substanz ist als selektiver Noradrenalin-Wiederaufnahmehemmer zur ADHS-Behandlung zugelassen?",
+      "options": [
+        "Methylphenidat",
+        "Fluoxetin",
+        "Haloperidol",
+        "Atomoxetin"
+      ],
+      "answer": 3,
+      "explanation": "Der selektive Noradrenalin-Wiederaufnahmehemmer Atomoxetin zeigte einen therapeutischen Effekt und ist zur Behandlung der ADHS zugelassen. Methylphenidat ist ein Psychostimulans, das auf Dopamin und Noradrenalin zugleich wirkt und nicht selektiv noradrenerg. Haloperidol ist ein Dopaminantagonist aus der Behandlung psychotischer Störungen. Fluoxetin ist ein selektiver Serotonin-Wiederaufnahmehemmer."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "transfer": true,
+      "trap": "Mehr ist nicht besser: Auf der umgekehrten U-Kurve führt eine Überdosierung wieder abwärts.",
+      "question": "Bei einem Patienten verbessert eine moderate Dosissteigerung zunächst die Leistung; eine weitere Erhöhung verschlechtert sie jedoch wieder. Wie ist das zu erklären?",
+      "options": [
+        "Der Dosis-Wirkungs-Zusammenhang ist linear, die Verschlechterung beruht auf einem Messfehler",
+        "Der Dosis-Wirkungs-Zusammenhang folgt einer umgekehrten U-Kurve mit einem optimalen mittleren Bereich",
+        "Der Dosis-Wirkungs-Zusammenhang folgt einer U-Kurve, sehr hohe Dosen sind daher besonders wirksam",
+        "Der Zusammenhang ist bei Stimulanzien nicht dosisabhängig, entscheidend ist allein die Einnahmedauer"
+      ],
+      "answer": 1,
+      "explanation": "Der Dosis-Wirkungs-Zusammenhang des dopaminergen Systems folgt einer umgekehrten U-Kurve: Klare belohnungsbezogene phasische Bursts sind bei mittleren tonischen Leveln zu erwarten, die Medikation verschiebt entlang der aufsteigenden Flanke in diesen optimalen Bereich, und bei Überdosierung verschlechtern sich Leistung und Motivation wieder. Ein linearer Zusammenhang kann die Verschlechterung nicht erklären. Eine gewöhnliche U-Kurve würde hohe Dosen begünstigen und kehrt die Form um. Eine Dosisunabhängigkeit widerspricht der ausdrücklichen Forderung nach feiner Einjustierung."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "question": "Welche Aussage zur Abhängigkeit der präfrontalen Funktion vom neurochemischen Status trifft zu?",
+      "options": [
+        "Nur eine zu hohe Noradrenalin- und Dopaminfreisetzung wirkt sich negativ auf die Funktion aus",
+        "Die präfrontale Funktion ist vom Katecholaminstatus weitgehend unabhängig reguliert",
+        "Nur eine zu geringe Noradrenalin- und Dopaminfreisetzung wirkt sich negativ auf die Funktion aus",
+        "Sowohl zu geringe als auch zu hohe Noradrenalin- und Dopaminfreisetzung wirken sich negativ aus"
+      ],
+      "answer": 3,
+      "explanation": "Auch die regulatorischen Funktionen des präfrontalen Kortex sind vom neurochemischen Status abhängig: Zu wenig wie zu viel Noradrenalin- und Dopaminfreisetzung wirken sich negativ aus, und die Medikation verschiebt entlang der aufsteigenden Flanke in den optimalen Bereich. Eine einseitige Betrachtung nur des Mangels oder nur des Überschusses übergeht jeweils die andere Hälfte der Kurve. Eine Unabhängigkeit vom Katecholaminstatus widerspricht dem gesamten Wirkmodell der Medikation."
+    },
+    {
+      "topic": "Pharmakotherapie",
+      "hard": true,
+      "question": "Welche Zuordnung der katecholaminergen Projektionssysteme trifft zu?",
+      "options": [
+        "Noradrenerge Projektionen entspringen dem Locus coeruleus und sind mit Arousal und Aufmerksamkeitssteuerung assoziiert",
+        "Die mesokortikale Bahn verbindet die Substantia nigra mit dem Striatum und steuert die Motorik",
+        "Die nigrostriatale Bahn verbindet den Locus coeruleus mit dem präfrontalen Kortex und dem Kleinhirn",
+        "Noradrenerge Projektionen entspringen dem ventralen tegmentalen Areal und steuern dort vorrangig die Affektregulation"
+      ],
+      "answer": 0,
+      "explanation": "Noradrenerge Projektionen gehen vom Locus coeruleus im Hirnstamm aus, sind direkt mit kortikalen Bereichen wie dem präfrontalen Kortex und dem Kleinhirn verbunden und mit Arousal sowie Aufmerksamkeitssteuerung assoziiert. Das ventrale tegmentale Areal ist Ursprung dopaminerger, nicht noradrenerger Bahnen. Die nigrostriatale Bahn verbindet Substantia nigra und Striatum, nicht den Locus coeruleus mit dem Kortex. Die mesokortikale Bahn projiziert zu kortikalen Regionen und ist an exekutiven Funktionen beteiligt – die Verbindung von Substantia nigra und Striatum beschreibt gerade die nigrostriatale Bahn."
+    },
+    {
+      "topic": "Dopamin-Transfer-Defizit",
+      "question": "Was besagt die Dopamin-Transfer-Defizit-Hypothese der ADHS?",
+      "options": [
+        "Die phasische Aktivität dopaminerger Neurone halbiert sich nach dem Erhalt einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone verlagert sich nicht auf die Ankündigung einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone verdoppelt sich unmittelbar nach der Ankündigung einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone verlagert sich nicht auf den Erhalt einer Belohnung"
+      ],
+      "answer": 1,
+      "explanation": "Gesunde Probanden und Versuchstiere zeigen bei der Belohnungserwartung einen kurzen phasischen Anstieg; die Hypothese nimmt an, dass bei ADHS genau diese zeitliche Verlagerung der Bursts auf den belohnungsankündigenden Hinweisreiz ausbleibt. Eine fehlende Verlagerung auf den Erhalt der Belohnung beschreibt den Ausgangszustand vor dem Lernen und nicht das postulierte Defizit. Eine Halbierung nach Belohnungserhalt und eine Verdoppelung nach der Ankündigung sind keine Aussagen der Hypothese."
+    },
+    {
+      "topic": "Dopamin-Transfer-Defizit",
+      "trap": "Bei ADHS wird die Zukunft abgewertet – genau umgekehrt zur Anorexia nervosa mit ihrem verminderten Delay-Discounting.",
+      "question": "Welche Beobachtungen auf Verhaltensebene führt die Vorlesung als Ausgangspunkt der Dopamin-Transfer-Defizit-Hypothese an?",
+      "options": [
+        "Eine erhöhte Fähigkeit auf Belohnungen zu warten bei gleichzeitig erhöhter Bestrafungssensitivität",
+        "Eine vollständig fehlende Reaktion auf Belohnungen jeder Art und Größenordnung",
+        "Abwertung unmittelbarer gegenüber zukünftigen Belohnungen und eine verminderte Belohnungssensitivität",
+        "Abwertung zukünftiger gegenüber unmittelbaren Belohnungen und eine erhöhte Belohnungssensitivität"
+      ],
+      "answer": 3,
+      "explanation": "Auf Verhaltensebene wird bei ADHS beobachtet, dass zukünftige Belohnungen gegenüber unmittelbaren abgewertet werden – also ein erhöhtes Delay-Discounting – und dass eine erhöhte Belohnungssensitivität besteht. Die umgekehrte Konstellation kehrt beide Beobachtungen um. Eine erhöhte Wartefähigkeit bei erhöhter Bestrafungssensitivität beschreibt das gegenteilige Muster, wie es für die Anorexia nervosa berichtet wird. Eine vollständig fehlende Belohnungsreaktion widerspricht der erhöhten Sensitivität."
+    },
+    {
+      "topic": "Dopamin-Transfer-Defizit",
+      "hard": true,
+      "question": "Was ergab die Untersuchung des ventralen Striatums bei ADHS-Patienten mit monetären Anreizen?",
+      "options": [
+        "Geringere Aktivierung sowohl in der Antizipationsphase als auch beim Konsum der erhaltenen Belohnung selbst",
+        "Geringere Aktivierung nur in der Antizipationsphase, nicht bei Verlust oder Belohnungskonsum",
+        "Höhere Aktivierung in der Antizipationsphase bei völlig unverändertem Belohnungskonsum",
+        "Geringere Aktivierung ausschließlich bei der Antizipation eines unmittelbar drohenden Verlustes"
+      ],
+      "answer": 1,
+      "explanation": "Die Patientengruppe zeigte im linken ventralen Striatum signifikant geringere Aktivierungen in der Antizipationsphase monetärer Belohnungen, jedoch keinen Unterschied bei der Antizipation von Verlust oder beim Belohnungskonsum – genau dieses selektive Muster stützt die Dopamin-Transfer-Defizit-Hypothese. Eine zusätzlich verminderte Aktivierung beim Konsum widerspricht der Selektivität. Eine höhere Antizipationsaktivierung kehrt den Befund um. Eine Beschränkung auf die Verlustantizipation widerspricht dem Ergebnis ausdrücklich."
+    },
+    {
+      "topic": "Dopamin-Transfer-Defizit",
+      "hard": true,
+      "question": "Wie wird die Rolle des Dopamins bei der ADHS in der neueren Darstellung gefasst?",
+      "options": [
+        "Entscheidend ist eher die gestörte dopaminerge Homöostase als ein reines Dopamindefizit",
+        "Entscheidend ist ein reines Dopamindefizit, das sich linear in die Symptomschwere übersetzt",
+        "Entscheidend ist ein Serotonindefizit, während das Dopaminsystem unbeteiligt bleibt",
+        "Entscheidend ist ein Überschuss an Dopamin bei gleichzeitig intaktem noradrenergem System"
+      ],
+      "answer": 0,
+      "explanation": "Eher als ein reines Dopamindefizit erscheint die Störung der dopaminergen Homöostase entscheidend: Das Defizit führt in der Entwicklung zu Veränderungen der Rezeptorzahl, dopaminerge und noradrenerge Wirkungen geraten aus dem Gleichgewicht, und auch ein Ungleichgewicht zwischen dem stimulierenden D1- und dem inhibierenden D2-Rezeptor kann eine Rolle spielen. Ein linear wirkendes reines Defizit ist genau die Vereinfachung, die relativiert wird. Ein Dopaminüberschuss bei intaktem Noradrenalinsystem widerspricht der beschriebenen Entkopplung. Ein Serotonindefizit ohne dopaminerge Beteiligung wird nicht vertreten."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "question": "Welches Muster zeigte die Metaanalyse von Inhibitionsstudien bei ADHS?",
+      "options": [
+        "Frontale Hyperaktivität in ACC und dorsolateralem PFC bei durchweg unauffälligen subkortikalen und parietalen Strukturen",
+        "Eine isolierte Hypoaktivität ausschließlich im rechten inferioren präfrontalen Kortex",
+        "Frontale Hypoaktivität in ACC, dorsolateralem und inferiorem PFC sowie in Basalganglien, Thalamus und Parietalkortex",
+        "Eine ausschließlich parietale Hypoaktivität ohne jede frontale oder subkortikale Beteiligung"
+      ],
+      "answer": 2,
+      "explanation": "Die Metaanalyse über sechzehn Studien zeigte ein Muster frontaler Hypoaktivität im anterioren zingulären Kortex, im dorsolateralen und in den inferioren präfrontalen Kortizes sowie in den Basalganglien, im Thalamus und im Parietalkortex – Bereiche für Verhaltensinhibition und -steuerung, Fehlererkennung und Verhaltensanpassung; die Dysfunktionen betreffen damit große Netzwerke und sind nicht auf eine Region beschränkt. Eine frontale Hyperaktivität kehrt die Richtung um. Eine isolierte Auffälligkeit einer einzigen Region widerspricht der Netzwerkaussage ausdrücklich. Eine rein parietale Hypoaktivität übergeht den frontalen Kernbefund."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "question": "Welcher Konnektivitätsbefund wird für das Default-Mode-Netzwerk bei ADHS übereinstimmend berichtet?",
+      "options": [
+        "Eine verminderte Konnektivität zwischen medialen posterioren und anterioren Bereichen",
+        "Eine verminderte Konnektivität ausschließlich zwischen lateralen parietalen Knoten",
+        "Eine vollständige Entkopplung des Netzwerks von allen sensorischen Arealen",
+        "Eine verstärkte Konnektivität zwischen medialen posterioren und anterioren Bereichen"
+      ],
+      "answer": 0,
+      "explanation": "Übereinstimmend wird eine verminderte Konnektivität zwischen medialen posterioren und anterioren Bereichen des Default-Mode-Netzwerks berichtet; dieser Befund ist mit einer verzögerten Hirnreifung vereinbar. Eine verstärkte Konnektivität kehrt den Befund um. Eine Beschränkung auf laterale parietale Knoten trifft die berichtete anterior-posteriore Achse nicht. Eine vollständige Entkopplung von sensorischen Arealen wird nicht beschrieben."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "question": "Was bezeichnet der „attaining peak“ in den Reifungsstudien?",
+      "options": [
+        "Den Zeitpunkt der maximalen Konnektivität im Default-Mode-Netzwerk",
+        "Den Zeitpunkt der maximalen kortikalen Dicke",
+        "Den Zeitpunkt der maximalen Myelinisierungsrate",
+        "Den Zeitpunkt der höchsten synaptischen Eliminationsrate"
+      ],
+      "answer": 1,
+      "explanation": "Als Maß des Reifegrades wird der „attaining peak“ verwendet, also der Zeitpunkt, an dem die kortikale Dicke ihr Maximum erreicht; im Verlauf steigt die graue Substanz zunächst an und nimmt anschließend wieder ab. Die maximale Myelinisierungsrate und die höchste synaptische Eliminationsrate sind Prozesse der anschließenden Ausdünnungsphase, aber nicht die Definition des Kennwerts. Die Konnektivität des Default-Mode-Netzwerks ist ein funktionelles Maß und keine Dickenangabe."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "hard": true,
+      "question": "Worauf werden Anstieg und anschließende Ausdünnung der grauen Substanz in der Entwicklung zurückgeführt?",
+      "options": [
+        "Beide Phasen auf Schwankungen der zerebralen Durchblutung im Verlauf der Adoleszenz",
+        "Der Anstieg auf Myelinisierung und Pruning, die Ausdünnung auf Dendritenwachstum und Stützstrukturen",
+        "Beide Phasen auf eine fortlaufende Neubildung und anschließende Apoptose von Nervenzellen",
+        "Der Anstieg auf Dendritenwachstum und Stützstrukturen, die Ausdünnung auf Myelinisierung und Pruning"
+      ],
+      "answer": 3,
+      "explanation": "Der Anstieg geht vermutlich auf Dendritenwachstum und die Ausformung unterstützender Glia- und Gefäßstrukturen zurück; die Ausdünnung in der Adoleszenz steht vermutlich mit der fortschreitenden Myelinisierung und der benutzungsabhängigen Elimination von Synapsen – dem Pruning – in Verbindung, wodurch Netzwerke entstehen. Die umgekehrte Zuordnung vertauscht beide Phasen. Neubildung und Apoptose von Nervenzellen werden als Erklärung nicht angeführt. Durchblutungsschwankungen sind kein struktureller Reifungsmechanismus."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "hard": true,
+      "trap": "Nicht überall verzögert: In primärmotorischen Regionen lag ein leichter Vorsprung vor.",
+      "question": "Welche Befunde ergab die Untersuchung der kortikalen Reifung bei Kindern mit ADHS?",
+      "options": [
+        "Peak im Mittel drei Jahre früher, mit der größten Abweichung in den primärmotorischen Regionen",
+        "Peak zeitgleich mit den Kontrollen, lediglich die maximale Dicke selbst war deutlich geringer",
+        "Peak im Mittel drei Jahre später, im mittleren PFC bis zu fünf Jahre, in primärmotorischen Regionen leichter Vorsprung",
+        "Peak im Mittel fünf Jahre später, im mittleren PFC bis zu drei Jahre, in primärmotorischen Regionen ebenfalls verzögert"
+      ],
+      "answer": 2,
+      "explanation": "Die Hirnreifung verläuft prinzipiell ähnlich, erreichte den „attaining peak“ bei den Kindern mit ADHS jedoch im Durchschnitt drei Jahre später; die größte Verzögerung fand sich im präfrontalen Kortex, im mittleren PFC mit bis zu fünf Jahren, während sich in primärmotorischen Regionen ein leichter Vorsprung von etwa 0,4 Jahren zeigte. Die Vertauschung der Zeitangaben und eine durchgehende Verzögerung übersehen diesen Vorsprung. Ein früherer Peak kehrt die Befundrichtung um. Ein zeitgleicher Peak widerspricht dem Kernergebnis der Studie."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "hard": true,
+      "question": "Welche Schlussfolgerung zieht die Vorlesung aus den Reifungsdaten, und wie wird ein möglicher Medikationseffekt bewertet?",
+      "options": [
+        "Eher verzögerte als komplett veränderte Reifung; ein Medikationseffekt gilt als unwahrscheinlich",
+        "Eher verzögerte Reifung, die jedoch überwiegend auf die Stimulanzienbehandlung zurückgeht",
+        "Eher komplett veränderte als verzögerte Reifung; ein Medikationseffekt gilt als wahrscheinlich",
+        "Eine Entscheidung zwischen beiden Modellen ist mit den vorliegenden Daten nicht möglich"
+      ],
+      "answer": 0,
+      "explanation": "Die Daten verweisen eher auf eine verzögerte als auf eine komplett veränderte Hirnreifung; ein Effekt der ADHS-Medikation selbst gilt als unwahrscheinlich, da frühere Studien keinen Effekt der Medikamente auf die Kortexdicke zeigten – diskutiert werden stattdessen veränderte Neurotransmitter oder Wachstumsfaktoren. Die umgekehrte Schlussfolgerung widerspricht beiden Aussagen. Eine überwiegende Zurückführung auf die Behandlung widerspricht der Bewertung des Medikationseffekts. Dass keine Entscheidung möglich sei, verkennt die klare Präferenz für das Verzögerungsmodell."
+    },
+    {
+      "topic": "Funktionelle Befunde und Hirnreifung",
+      "question": "Welche Prozesse werden in der neueren Literatur mit einer Beteiligung der Astrozyten an der ADHS-Ätiopathologie in Verbindung gebracht?",
+      "options": [
+        "Eine Demyelinisierung der langen Assoziationsbahnen und ein fortschreitender Zerfall der Mikrotubuli in den Axonen",
+        "Oxidativer Stress, aberrante Synapsenbildung, Neuroinflammation und ein Erregungs-Hemmungs-Ungleichgewicht",
+        "Ablagerung fehlgefalteter Proteine und eine Anhäufung von Lewy-Körperchen im Striatum",
+        "Eine Vermehrung der Dopaminrezeptoren bei gleichzeitiger Abnahme der Gliazellzahl"
+      ],
+      "answer": 1,
+      "explanation": "Astrozyten tragen zur Aufrechterhaltung der Blut-Hirn-Schranke bei und unterstützen Neurone strukturell, trophisch und metabolisch; neuere Erkenntnisse verbinden sie mit oxidativem Stress, einer aberranten Bildung von Synapsen, Neuroinflammation sowie einem Ungleichgewicht zwischen Erregung und Hemmung. Demyelinisierung und Mikrotubuli-Zerfall gehören zu anderen Krankheitsmechanismen. Fehlgefaltete Proteine und Lewy-Körperchen kennzeichnen neurodegenerative Erkrankungen. Eine Rezeptorvermehrung bei sinkender Gliazellzahl wird in diesem Zusammenhang nicht beschrieben."
+    }
+  ]
+}

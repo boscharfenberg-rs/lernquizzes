@@ -668,6 +668,13 @@
       "title": "Essstörungen",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "Provokationsstudien, maladaptive Nahrungsmittelwahl, Persönlichkeitstraits, Belohnungssystem und Transmitter, Interozeption und Insula, Volumetrie-Methodik, Körperbild und neurales Netzwerk."
+    },
+    {
+      "id": "kan-adhs",
+      "file": "kan-adhs.json",
+      "title": "ADHS",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "Erhöhter Schwierigkeitsgrad: DSM-5-Kriterien, Grenzen der Diagnostik, selektive Aufmerksamkeit, Pharmakotherapie und Dosis-Wirkungs-Kurve, Dopamin-Transfer-Defizit, funktionelle Befunde und verzögerte Hirnreifung."
     }
   ]
 }
