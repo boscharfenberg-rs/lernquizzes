@@ -2,7 +2,7 @@
   "id": "kan-schizophrenie",
   "title": "Schizophrenie",
   "subject": "Kognitiv-affektive Neurowissenschaften",
-  "description": "30 Single-Choice-Items zur VL Schizophrenie mit Schwerpunkt auf Hirnregionen: strukturelle Befunde nach Krankheitsphase, Mikroschaltkreise und Pruning, Dopamin- und Glutamathypothese, Thalamus und Metaanalysen, weiße Substanz und Netzwerkkonnektivität.",
+  "description": "30 Single-Choice-Items zur VL Schizophrenie mit Schwerpunkt auf Hirnregionen: strukturelle Befunde nach Krankheitsphase, Mikroschaltkreise und Pruning, Dopamin- und Glutamathypothese, Thalamus und Metaanalysen, weiße Substanz sowie Netzwerkkonnektivität und Einordnung ins Netzwerkmodell.",
   "showGrade": true,
   "questions": [
     {
@@ -11,46 +11,34 @@
       "options": [
         "Wahn und akustische Halluzinationen",
         "Desorganisierte Sprechweise und Zerfahrenheit",
-        "Negativsymptome und kognitive Defizite",
-        "Katatones Verhalten und motorische Erregung"
+        "Katatones Verhalten und motorische Erregung",
+        "Negativsymptome und kognitive Defizite"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Negativsymptome und kognitive Defizite haben sich im Gegensatz zu den Positivsymptomen häufig als therapieresistent erwiesen, weshalb die Entwicklung neuer Medikamente zu ihrer Behandlung eine wichtige Aufgabe der aktuellen Forschung ist. Wahn und Halluzinationen sind Positivsymptome und sprechen auf die antipsychotische Medikation vergleichsweise gut an. Desorganisierte Sprechweise und Zerfahrenheit werden ebenfalls dem desorganisierten beziehungsweise positiven Symptombereich zugerechnet. Katatones Verhalten wird nicht als der schwer behandelbare Kernbereich hervorgehoben."
     },
     {
       "topic": "Klinik und Risikofaktoren",
       "question": "Wie werden die Risikofaktoren der Schizophrenie den Lebensphasen zugeordnet?",
       "options": [
-        "Lebenskrisen als first-wave hit, Migration als second-wave hit, genetische Faktoren als booster hit",
+        "Genetische Faktoren als first-wave hit, Migration als second-wave hit, Lebenskrisen als booster hit",
         "Migration als first-wave hit, genetische Faktoren als second-wave hit, Lebenskrisen als booster hit",
         "Genetische Faktoren als booster hit, Lebenskrisen als first-wave hit, Migration als second-wave hit",
-        "Genetische Faktoren als first-wave hit, Migration als second-wave hit, Lebenskrisen als booster hit"
+        "Lebenskrisen als first-wave hit, Migration als second-wave hit, genetische Faktoren als booster hit"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Die Zuordnung folgt der zeitlichen Abfolge: genetische Faktoren und perinatale Bedingungen wie Hypoxie oder Wintergeburt als first-wave hit, Faktoren der Kindheit und Jugend wie Migration oder das Aufwachsen in der Großstadt als second-wave hit und spätere Auslöser wie Lebenskrisen oder soziale Isolation als booster hit. Alle übrigen Reihenfolgen verdrehen diese Abfolge – insbesondere können genetische Faktoren definitionsgemäß nicht erst als später hinzutretender booster wirken."
-    },
-    {
-      "topic": "Klinik und Risikofaktoren",
-      "question": "Welche Umweltfaktoren nennt die Vorlesung als Risikofaktoren der Schizophrenie?",
-      "options": [
-        "Übermäßiger Medienkonsum, Bewegungsmangel und eine kohlenhydratreiche Ernährung",
-        "Traumatische Erfahrungen, pränataler Stress, Aufwachsen in der Großstadt und Migration",
-        "Ausschließlich pränatale Faktoren, während postnatale Bedingungen ohne Einfluss bleiben",
-        "Hörverlust, Schädel-Hirn-Trauma und eine unbehandelte arterielle Hypertonie"
-      ],
-      "answer": 1,
-      "explanation": "Als Umweltfaktoren werden traumatische Erfahrungen, pränataler Stress, das Aufwachsen in der Großstadt, Migration und Störungen der Emotionsregulation genannt, ergänzt um Genvarianten wie COMT, NRG1 und DISC1. Medienkonsum, Bewegungsmangel und Ernährung gehören nicht zu dieser Aufzählung. Hörverlust, Schädel-Hirn-Trauma und Hypertonie sind Risikofaktoren aus dem Kontext demenzieller Erkrankungen. Eine Beschränkung auf pränatale Faktoren widerspricht der Nennung von Migration und Großstadt."
     },
     {
       "topic": "Soziale Kognition",
       "question": "In welchen Regionen finden sich die neuralen Korrelate sozial-kognitiver Prozesse?",
       "options": [
-        "Im Gyrus temporalis superior, im Thalamus und in den Basalganglien",
-        "In medialen präfrontalen Strukturen, der temporoparietalen Übergangsregion und der Amygdala",
         "Im primären somatosensorischen Kortex, im Precuneus und im Nucleus caudatus jeweils beider Seiten",
-        "Im dorsolateralen Präfrontalkortex, im Hippocampus und im Corpus callosum"
+        "Im dorsolateralen Präfrontalkortex, im Hippocampus und im Corpus callosum",
+        "Im Gyrus temporalis superior, im Thalamus und in den Basalganglien",
+        "In medialen präfrontalen Strukturen, der temporoparietalen Übergangsregion und der Amygdala"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Die neuralen Korrelate sozial-kognitiver Prozesse – Erkennen der Emotionen anderer und Rückschluss auf Gedanken, Wünsche und Absichten im Sinne einer Theory of Mind – finden sich in medialen präfrontalen Strukturen, der temporoparietalen Übergangsregion und der Amygdala. Somatosensorischer Kortex, Precuneus und Nucleus caudatus werden hierfür nicht genannt. Der dorsolaterale Präfrontalkortex ist in exekutive Funktionen eingebunden und der Hippocampus in Gedächtnisprozesse. Gyrus temporalis superior, Thalamus und Basalganglien erscheinen in den strukturellen Befunden, nicht als Korrelate der sozialen Kognition."
     },
     {
@@ -58,12 +46,12 @@
       "transfer": true,
       "question": "In einer Untersuchung zeigen nicht nur Patienten, sondern auch deren gesunde erstgradige Angehörige Defizite im Erkennen von Emotionen und in der Theory of Mind. Welcher Schluss liegt am nächsten?",
       "options": [
-        "Ein erheblicher Einfluss genetischer Faktoren auf diese sozial-kognitiven Funktionen",
         "Ein Beleg dafür, dass die Angehörigen bereits eine subklinische Psychose durchlaufen",
+        "Ein erheblicher Einfluss genetischer Faktoren auf diese sozial-kognitiven Funktionen",
         "Ein Artefakt der Messung, da die Angehörigen keine Diagnose aufweisen",
         "Ein reiner Medikationseffekt, der die sozial-kognitiven Leistungen beeinträchtigt"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Da die Defizite auch bei gesunden erstgradigen Angehörigen auftreten, lässt dies auf einen erheblichen Einfluss genetischer Faktoren schließen – dieselbe Argumentationslogik wird für die Hippocampusreduktion bei Verwandten ersten Grades verwendet. Ein Medikationseffekt scheidet aus, weil die Angehörigen nicht behandelt werden. Ein Messartefakt allein aus der fehlenden Diagnose abzuleiten verkennt gerade den Befund. Eine subklinische Psychose wird nicht postuliert; die Angehörigen sind ausdrücklich ohne psychische Störung."
     },
     {
@@ -73,11 +61,11 @@
       "question": "Welche Regionen sind zu Beginn der Störung und welche bei chronischer Schizophrenie betroffen?",
       "options": [
         "Zu Beginn ausschließlich die Seitenventrikel; chronisch ausschließlich das Kleinhirn und das Corpus callosum",
-        "Zu Beginn medialer und linker dorsolateraler PFC sowie der linke Gyrus temporalis superior; chronisch Hippocampi, Thalami, Insulae und anteriore Zinguli",
         "Zu Beginn Hippocampi, Thalami, linke Uncus-Amygdala-Region, Insulae und ACC; chronisch medialer und linker dlPFC sowie linker Gyrus temporalis superior",
-        "In beiden Phasen ausschließlich die Basalganglien, jedoch mit unterschiedlicher Ausprägung des Effekts"
+        "In beiden Phasen ausschließlich die Basalganglien, jedoch mit unterschiedlicher Ausprägung des Effekts",
+        "Zu Beginn medialer und linker dorsolateraler PFC sowie der linke Gyrus temporalis superior; chronisch Hippocampi, Thalami, Insulae und anteriore Zinguli"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Zu Beginn der Störung sind insbesondere die Hippocampi, die Thalami, die linke Uncus-Amygdala-Region, die Insulae und die anterior zingulären Kortizes betroffen; bei der chronischen Schizophrenie finden sich Reduktionen im medialen und linken dorsolateralen präfrontalen Kortex sowie im linken Gyrus temporalis superior. Die umgekehrte Zuordnung vertauscht beide Phasen. Eine Beschränkung auf Ventrikel beziehungsweise Kleinhirn und Corpus callosum übergeht die genannten Regionen. Eine ausschließliche Beteiligung der Basalganglien widerspricht der Befundlage."
     },
     {
@@ -85,24 +73,24 @@
       "hard": true,
       "question": "Wie verhielt sich die Zunahme der Hirnsubstanz im Verlauf der Erkrankung, und worauf wird sie zurückgeführt?",
       "options": [
-        "Über alle Krankheitsphasen hinweg gleichmäßig über den gesamten Kortex verteilt; ohne erkennbare Ursache",
         "Über alle Krankheitsphasen hinweg auf den Hippocampus beschränkt; zurückgeführt auf kompensatorisches Wachstum",
         "In der ersten Episode auf das dorsale Striatum beschränkt, bei Chronifizierung allein auf die Putamina begrenzt; zurückgeführt auf einen rein genetischen Effekt",
-        "In der ersten Episode auf die Putamina beschränkt, bei Chronifizierung auf das dorsale Striatum ausgeweitet; zurückgeführt auf die antipsychotische Medikation"
+        "In der ersten Episode auf die Putamina beschränkt, bei Chronifizierung auf das dorsale Striatum ausgeweitet; zurückgeführt auf die antipsychotische Medikation",
+        "Über alle Krankheitsphasen hinweg gleichmäßig über den gesamten Kortex verteilt; ohne erkennbare Ursache"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Eine Zunahme der Hirnsubstanz war während der ersten Episode auf die Putamina beschränkt und weitete sich bei Chronifizierung auf das dorsale Striatum aus; diese Veränderungen können auf die antipsychotische Medikation zurückgeführt werden. Die umgekehrte Abfolge mit genetischer Erklärung widerspricht beiden Angaben. Der Hippocampus zeigt Reduktionen und kein kompensatorisches Wachstum. Eine gleichmäßige kortikale Verteilung widerspricht der ausdrücklich striatalen Lokalisation."
     },
     {
       "topic": "Strukturelle Befunde",
       "question": "Welcher strukturelle Befund spricht am ehesten für eine genetische Komponente?",
       "options": [
-        "Reduktionen der Hippocampusformationen bei Verwandten ersten Grades",
-        "Volumenzunahmen im Putamen während der ersten Krankheitsepisode",
         "Reduktionen im linken Gyrus temporalis superior im chronischen Verlauf",
-        "Vergrößerungen der Seitenventrikel bei chronisch erkrankten Patienten"
+        "Vergrößerungen der Seitenventrikel bei chronisch erkrankten Patienten",
+        "Reduktionen der Hippocampusformationen bei Verwandten ersten Grades",
+        "Volumenzunahmen im Putamen während der ersten Krankheitsepisode"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Reduktionen der Hippocampusformationen wurden auch bei Verwandten ersten Grades erkrankter Patienten gefunden, was für eine genetische Komponente spricht; für die übrigen Hirnregionen ist die Evidenz einer genetischen Ursache eher gemischt. Ventrikelvergrößerungen bei Erkrankten sagen nichts über nicht erkrankte Angehörige aus. Volumenzunahmen im Putamen werden gerade auf die Medikation zurückgeführt. Reduktionen im Gyrus temporalis superior betreffen den chronischen Verlauf und nicht die familiäre Häufung."
     },
     {
@@ -110,36 +98,36 @@
       "hard": true,
       "question": "Welche Veränderung der Pyramidenzellen im präfrontalen Kortex wird berichtet, und was zeigt sie an?",
       "options": [
-        "Unveränderte Größe bei geringerer Dichte, was auf einen Verlust ganzer Zellpopulationen hinweist",
-        "Vergrößerte Zellen bei deutlich geringerer Dichte, was auf zusätzliche dendritische Verzweigungen hinweist",
         "Reduzierte Größe bei geringerer Dichte, was auf eine vermehrte Myelinisierung hinweist",
-        "Reduzierte Größe bei höherer Dichte, was auf weniger Axonterminalen und dendritische Verbindungen hinweist"
+        "Reduzierte Größe bei höherer Dichte, was auf weniger Axonterminalen und dendritische Verbindungen hinweist",
+        "Unveränderte Größe bei geringerer Dichte, was auf einen Verlust ganzer Zellpopulationen hinweist",
+        "Vergrößerte Zellen bei deutlich geringerer Dichte, was auf zusätzliche dendritische Verzweigungen hinweist"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Pyramidenzellen im präfrontalen Kortex zeigen eine reduzierte Größe bei höherer Dichte; das indiziert eine Reduktion der Axonterminalen und der dendritischen Verbindungen, da die Zellen bei geringerem Neuropil dichter zusammenrücken. Vergrößerte Zellen mit zusätzlichen Verzweigungen kehren den Befund um. Eine geringere Dichte bei unveränderter Größe entspricht nicht der beobachteten Verdichtung. Reduzierte Größe bei geringerer Dichte widerspricht der berichteten Dichtezunahme, und eine vermehrte Myelinisierung wird nicht abgeleitet."
     },
     {
       "topic": "Mikroschaltkreise und Pruning",
       "question": "Welche Reduktionen werden für den dorsolateralen Präfrontalkortex berichtet?",
       "options": [
-        "Cannabinoidrezeptoren, thalamische Axonterminalen, kortikale Interneurone und dopaminerge Neurone",
-        "NMDA-Rezeptoren, kallosale Fasern, Mikrogliazellen und serotonerge Neurone",
+        "Opioidrezeptoren, spinothalamische Bahnen, Oligodendrozyten und noradrenerge Neurone",
         "Serotoninrezeptoren, kortikokortikale Axonterminalen, Astrozyten und cholinerge Projektionsneurone",
-        "Opioidrezeptoren, spinothalamische Bahnen, Oligodendrozyten und noradrenerge Neurone"
+        "Cannabinoidrezeptoren, thalamische Axonterminalen, kortikale Interneurone und dopaminerge Neurone",
+        "NMDA-Rezeptoren, kallosale Fasern, Mikrogliazellen und serotonerge Neurone"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Für den dorsolateralen Präfrontalkortex werden Reduktionen der Cannabinoidrezeptoren, die für die retrograde Hemmung bedeutsam sind, der thalamischen Axonterminalen, der kortikalen Interneurone einschließlich der Parvalbumin-exprimierenden Zellen sowie der dopaminergen Neurone berichtet; die Interneuron-Reduktion verweist auf eine verminderte GABAerge Transmission. Serotonin- und Opioidrezeptoren, spinothalamische Bahnen und kallosale Fasern gehören nicht zu dieser Aufzählung. Mikrogliazellen sind beim Pruning beteiligt, werden hier aber nicht als reduziert berichtet."
     },
     {
       "topic": "Mikroschaltkreise und Pruning",
       "question": "Was versteht man unter dem Pruning, und welche Zellen sind daran maßgeblich beteiligt?",
       "options": [
-        "Die Elimination ganzer Nervenzellen im Erwachsenenalter unter maßgeblicher Beteiligung der Astrozyten",
         "Die Elimination schwacher oder inaktiver Synapsen in der Adoleszenz unter maßgeblicher Beteiligung der Mikroglia",
+        "Die Elimination ganzer Nervenzellen im Erwachsenenalter unter maßgeblicher Beteiligung der Astrozyten",
         "Die Ummantelung der Axone mit Myelin während der Adoleszenz unter Beteiligung der Schwann-Zellen",
         "Die Neubildung zusätzlicher Synapsen im frühen Säuglingsalter unter maßgeblicher Beteiligung der Oligodendrozyten"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Pruning ist ein Prozess der normalen Hirnentwicklung während der Adoleszenz, bei dem schwache oder inaktive Synapsen eliminiert werden, was die Effizienz der kortikalen Netzwerke steigert; die Mikrogliazellen sind in diesen gezielten Abbau maßgeblich eingebunden. Der programmierte Zelltod ganzer Neurone ist die Apoptose, ein davon zu unterscheidender Prozess. Eine Neubildung von Synapsen kehrt die Richtung um. Die Myelinisierung durch Oligodendrozyten im Zentralnervensystem ist ein anderer Reifungsvorgang."
     },
     {
@@ -162,36 +150,36 @@
       "trap": "Frontal und mesolimbisch sind gegenläufig betroffen – die Richtungen werden regelmäßig vertauscht.",
       "question": "Ein Patient zeigt ausgeprägte Negativsymptomatik bei nur geringem Wahnerleben. Welche dopaminerge Konstellation passt nach der Dopaminhypothese am ehesten?",
       "options": [
-        "Frontal- und mesolimbisch-dopaminerge Hypoaktivität in gleichem Ausmaß",
-        "Frontal-dopaminerge Hyperaktivität bei gleichzeitig ausgeprägter mesolimbischer Hypoaktivität",
+        "Frontal-dopaminerge Hypoaktivität bei vergleichsweise geringer mesolimbischer Hyperaktivität",
         "Frontal- und mesolimbisch-dopaminerge Hyperaktivität in gleichem Ausmaß",
-        "Frontal-dopaminerge Hypoaktivität bei vergleichsweise geringer mesolimbischer Hyperaktivität"
+        "Frontal-dopaminerge Hyperaktivität bei gleichzeitig ausgeprägter mesolimbischer Hypoaktivität",
+        "Frontal- und mesolimbisch-dopaminerge Hypoaktivität in gleichem Ausmaß"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Die frontale dopaminerge Hypoaktivität wird mit der Negativsymptomatik in Verbindung gebracht, die mesolimbische Hyperaktivität mit der Positivsymptomatik; bei ausgeprägten Negativsymptomen und geringem Wahnerleben passt daher eine frontale Hypoaktivität bei geringer mesolimbischer Hyperaktivität. Die umgekehrte Zuordnung vertauscht beide Systeme. Eine gleichsinnige Hyper- oder Hypoaktivität in beiden Systemen widerspricht der ausdrücklich unterschiedlichen Betroffenheit von nigrostriatalem und mesokortikalem System."
     },
     {
       "topic": "Dopamin- und Glutamathypothese",
       "question": "Was ergaben die Neuroimaging-Befunde zur ursprünglichen Annahme eines Dopaminüberangebots?",
       "options": [
-        "Eine Bestätigung für striatale und kortikale Bereiche gleichermaßen und in vergleichbarem Ausmaß",
         "Eine Bestätigung nur für kortikale Bereiche, während die striatale Dopaminverfügbarkeit sogar verringert war",
-        "Eine vollständige Widerlegung, da in keinem Hirnbereich eine erhöhte Verfügbarkeit nachweisbar war",
-        "Eine Bestätigung nur für striatale Bereiche, während die kortikale Dopaminverfügbarkeit sogar verringert war"
+        "Eine Bestätigung nur für striatale Bereiche, während die kortikale Dopaminverfügbarkeit sogar verringert war",
+        "Eine Bestätigung für striatale und kortikale Bereiche gleichermaßen und in vergleichbarem Ausmaß",
+        "Eine vollständige Widerlegung, da in keinem Hirnbereich eine erhöhte Verfügbarkeit nachweisbar war"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Die Neuroimaging-Befunde konnten die Annahme nur für striatale Bereiche bestätigen, während die kortikale Dopaminverfügbarkeit sogar verringert war – nigrostriatales und mesokortikales System sind also in unterschiedlicher Weise betroffen. Die umgekehrte Zuordnung vertauscht beide Ebenen. Eine gleichermaßen bestätigte Erhöhung übergeht die kortikale Verminderung. Eine vollständige Widerlegung widerspricht dem striatalen Befund."
     },
     {
       "topic": "Dopamin- und Glutamathypothese",
       "question": "Welche Beobachtungen stützten die ursprüngliche Dopaminhypothese?",
       "options": [
-        "Die Wirksamkeit von NMDA-Antagonisten und die beruhigende Wirkung von Amphetaminen",
+        "Die Wirksamkeit von D2-Agonisten und die psychoseauslösende Wirkung von Dopaminantagonisten",
         "Die Wirksamkeit von Serotonin-Wiederaufnahmehemmern und die Wirkung von Benzodiazepinen",
-        "Die Wirksamkeit von D2-Antagonisten und die psychoseauslösende Wirkung von Dopaminagonisten",
-        "Die Wirksamkeit von D2-Agonisten und die psychoseauslösende Wirkung von Dopaminantagonisten"
+        "Die Wirksamkeit von NMDA-Antagonisten und die beruhigende Wirkung von Amphetaminen",
+        "Die Wirksamkeit von D2-Antagonisten und die psychoseauslösende Wirkung von Dopaminagonisten"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Zwei Beobachtungen stützten die Annahme: die Wirksamkeit antipsychotischer Medikamente als D2-Antagonisten, die postsynaptische Dopaminrezeptoren blockieren, und die Tatsache, dass Dopaminagonisten wie Amphetamine psychotische Symptome auslösen können. Die Vertauschung von Agonist und Antagonist kehrt beide Argumente um. Serotonin-Wiederaufnahmehemmer und Benzodiazepine spielen für diese Hypothese keine Rolle. NMDA-Antagonisten wie Phencyclidin lösen psychotische Symptome aus und führten gerade zur Glutamathypothese, und Amphetamine wirken nicht beruhigend."
     },
     {
@@ -211,9 +199,9 @@
       "topic": "Dopamin- und Glutamathypothese",
       "question": "Welche Funktion wird dem Risikogen Neuregulin 1 zugeschrieben?",
       "options": [
-        "Ausprägung, Differenzierung und Bewegung von Neuronen sowie das Wachstum und die Verzweigung der Dendriten",
-        "Regulation des Zellzyklus in den Parvalbumin-exprimierenden kortikalen Interneuronen",
         "Inaktivierung von Catecholaminen einschließlich des Dopamins im synaptischen Spalt",
+        "Regulation des Zellzyklus in den Parvalbumin-exprimierenden kortikalen Interneuronen",
+        "Ausprägung, Differenzierung und Bewegung von Neuronen sowie das Wachstum und die Verzweigung der Dendriten",
         "Leitung der Axone zu ihren Zielregionen, Zellwachstum, Formung GABAerger Neurone und Myelinisierung"
       ],
       "answer": 3,
@@ -238,9 +226,9 @@
       "question": "Wie interpretiert die Vorlesung die vergrößerten Ventrikelräume bei der Schizophrenie?",
       "options": [
         "Als fokale Reduktion angrenzender, pathophysiologisch eingebundener Regionen, nicht als diffuse Hirnatrophie",
+        "Als diffuse Hirnatrophie, die den gesamten Kortex weitgehend gleichmäßig und völlig unspezifisch betrifft",
         "Als reines Medikationsartefakt ohne jeden erkennbaren Bezug zur Pathophysiologie der Störung",
-        "Als kompensatorische Erweiterung bei ansonsten unverändertem Hirnvolumen insgesamt",
-        "Als diffuse Hirnatrophie, die den gesamten Kortex weitgehend gleichmäßig und völlig unspezifisch betrifft"
+        "Als kompensatorische Erweiterung bei ansonsten unverändertem Hirnvolumen insgesamt"
       ],
       "answer": 0,
       "explanation": "Die vergrößerten Ventrikelräume sind mit regional spezifischen Reduktionen der grauen Substanz in paraventrikulären Regionen und deren Projektionsgebieten assoziiert; die Ergebnisse widersprechen ausdrücklich der Annahme einer diffusen Hirnatrophie und sprechen für eine fokale Reduktion bestimmter, in die Pathophysiologie eingebundener Regionen. Eine diffuse Atrophie ist genau die zurückgewiesene Deutung. Ein reines Medikationsartefakt wird nur für die Putamen-Veränderungen diskutiert. Eine Kompensation bei unverändertem Gesamtvolumen widerspricht dem verminderten Gesamthirnvolumen."
@@ -250,12 +238,12 @@
       "hard": true,
       "question": "Welchen konvergenten Befund erhöhten Volumens zeigte die Metaanalyse zur grauen Substanz, und wie deuten die Autoren ihn?",
       "options": [
-        "Ein Cluster im linken Putamen, gedeutet als pathophysiologischer Effekt der Störung selbst",
-        "Ein Cluster im rechten Hippocampus, gedeutet als kompensatorisches Wachstum der Region",
+        "Ein Cluster im anterioren zingulären Kortex, gedeutet als Folge chronischer Übererregung",
         "Ein Cluster im linken Putamen, gedeutet als reiner und ausschließlicher Effekt der Medikation",
-        "Ein Cluster im anterioren zingulären Kortex, gedeutet als Folge chronischer Übererregung"
+        "Ein Cluster im rechten Hippocampus, gedeutet als kompensatorisches Wachstum der Region",
+        "Ein Cluster im linken Putamen, gedeutet als pathophysiologischer Effekt der Störung selbst"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Die Metaanalyse fand ein Cluster mit konvergent erhöhtem Volumen im linken Putamen; eher als einen Medikationseffekt nehmen die Autoren einen pathophysiologischen Effekt der Störung an, da Schizophrenie unter anderem durch Störungen der Handlungskontrolle gekennzeichnet ist und das Putamen als Teil der Basalganglien daran beteiligt ist. Eine ausschließliche Medikationsdeutung ist genau die von den Autoren zurückgewiesene Alternative. Hippocampus und anteriorer zingulärer Kortex zeigen Reduktionen und keine konvergente Volumenzunahme."
     },
     {
@@ -264,11 +252,11 @@
       "question": "In welchen Regionen zeigte sich metaanalytisch eine konsistente Reduktion der grauen Substanz?",
       "options": [
         "Ausschließlich die Seitenventrikel und die unmittelbar angrenzende weiße Substanz",
-        "Linke periinsuläre Region, Thalami, linke medial-temporale Region und linkes basales Vorderhirn",
+        "Rechter Parietallappen, Kleinhirn, rechter okzipitaler Kortex und die rechte periinsuläre Region",
         "Beide Frontalpole, das Corpus callosum, der Hirnstamm und die Substantia nigra",
-        "Rechter Parietallappen, Kleinhirn, rechter okzipitaler Kortex und die rechte periinsuläre Region"
+        "Linke periinsuläre Region, Thalami, linke medial-temporale Region und linkes basales Vorderhirn"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Konsistent reduziert zeigten sich die linke periinsuläre Region, die Thalami, die linke medial-temporale Region – hauptsächlich die Amygdala – und das linke basale Vorderhirn, hauptsächlich das ventrale Striatum; insgesamt ist damit ein frontotemporothalamisches Netzwerk betroffen. Rechtsseitige parietale, zerebelläre und okzipitale Regionen entsprechen nicht der berichteten Lateralisierung. Frontalpole, Corpus callosum, Hirnstamm und Substantia nigra werden nicht als konsistente Reduktionsorte genannt. Die Ventrikel sind erweitert und nicht reduziert."
     },
     {
@@ -290,8 +278,8 @@
       "question": "Welches Ergebnis erbrachte die Metaanalyse zur fraktionellen Anisotropie bei Schizophrenie?",
       "options": [
         "Zwei Regionen im linken frontalen und temporalen Marklager mit konsistent verminderter FA, ohne Befunde erhöhter FA",
-        "Zwei Regionen im rechten parietalen Marklager mit durchgehend erhöhter FA, ohne jeden Befund verminderter FA",
         "Eine gleichmäßig über beide Hemisphären verteilte Verminderung der FA gänzlich ohne umschriebene Cluster",
+        "Zwei Regionen im rechten parietalen Marklager mit durchgehend erhöhter FA, ohne jeden Befund verminderter FA",
         "Wechselnde Befunde mit ebenso vielen Koordinaten erhöhter wie verminderter fraktioneller Anisotropie"
       ],
       "answer": 0,
@@ -302,24 +290,24 @@
       "hard": true,
       "question": "Welche Verbindungen betrifft die verminderte fraktionelle Anisotropie im frontalen und im temporalen Bereich?",
       "options": [
+        "Frontal die Verbindungen zu Hippocampus, Amygdala und okzipitalem Kortex; temporal die zwischen beiden Frontallappen, zum Thalamus und zum zingulären Gyrus",
         "Frontal zwischen beiden Frontallappen, zum Thalamus und zum zingulären Gyrus; temporal zu Frontallappen, Hippocampus, Amygdala und Okzipitalkortex",
-        "In beiden Bereichen ausschließlich die kallosalen Verbindungen zwischen den beiden Großhirnhemisphären",
         "In beiden Bereichen ausschließlich die absteigenden Verbindungen zum Kleinhirn und zum Hirnstamm",
-        "Frontal die Verbindungen zu Hippocampus, Amygdala und okzipitalem Kortex; temporal die zwischen beiden Frontallappen, zum Thalamus und zum zingulären Gyrus"
+        "In beiden Bereichen ausschließlich die kallosalen Verbindungen zwischen den beiden Großhirnhemisphären"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Das Fiber Tracking von den in der Metaanalyse identifizierten Saatpunkten zeigte, dass die frontale FA-Reduktion hauptsächlich Netzwerkverbindungen zwischen den beiden Frontallappen, zum Thalamus und zum zingulären Gyrus betrifft, während die temporale Reduktion vor allem Verbindungen zu Frontallappen, Hippocampus, Amygdala und okzipitalem Kortex betrifft. Die umgekehrte Zuordnung vertauscht beide Saatregionen. Eine Beschränkung auf Kleinhirn und Hirnstamm oder auf kallosale Fasern übergeht die berichteten Zielgebiete."
     },
     {
       "topic": "Weiße Substanz",
       "question": "Was lässt sich aus einer verminderten fraktionellen Anisotropie NICHT ableiten?",
       "options": [
-        "Ein Anhaltspunkt für eine Diskonnektion der Projektionsgebiete",
         "Die konkrete Art der zugrundeliegenden Gewebeveränderung",
-        "Ein Hinweis auf eine geringere Integrität der Fasern",
-        "Eine mögliche Beeinträchtigung anatomischer Netzwerke"
+        "Ein Anhaltspunkt für eine Diskonnektion der Projektionsgebiete",
+        "Eine mögliche Beeinträchtigung anatomischer Netzwerke",
+        "Ein Hinweis auf eine geringere Integrität der Fasern"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Die verminderte FA ist vermutlich auf eine geringere Integrität der Fasern zurückzuführen, sagt aber nichts über die Art der Veränderung aus – möglich sind eine Reduktion der Fasern, Veränderungen der chemischen Zusammensetzung oder Unterschiede im Anteil axonaler Oligodendrozyten und anderer Gliazellen. Der Hinweis auf geringere Faserintegrität, die Beeinträchtigung anatomischer Netzwerke und die daraus folgende Diskonnektion der Projektionsgebiete werden dagegen ausdrücklich abgeleitet."
     },
     {
@@ -328,12 +316,12 @@
       "trap": "Betroffen war die Konnektivität INNERHALB von DAN und CEN – Salienznetzwerk und DMN zeigten intranetzwerk keine Unterschiede.",
       "question": "In welchen Netzwerken fand die Resting-State-Studie Unterschiede der Intranetzwerkkonnektivität?",
       "options": [
-        "In allen vier untersuchten Netzwerken gleichermaßen und in vergleichbarem Ausmaß",
         "Im Salienznetzwerk und im Default-Mode-Netzwerk, nicht aber im dorsalen Aufmerksamkeits- oder zentralexekutiven Netzwerk",
         "Im dorsalen Aufmerksamkeitsnetzwerk und im zentralexekutiven Netzwerk, nicht aber im Salienznetzwerk oder DMN",
-        "In keinem der vier untersuchten Netzwerke, Unterschiede zeigten sich nur zwischen den Netzwerken"
+        "In keinem der vier untersuchten Netzwerke, Unterschiede zeigten sich nur zwischen den Netzwerken",
+        "In allen vier untersuchten Netzwerken gleichermaßen und in vergleichbarem Ausmaß"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Signifikante Unterschiede der Intranetzwerkkonnektivität fanden sich im dorsalen Aufmerksamkeitsnetzwerk und im zentralexekutiven Netzwerk, während sich im Salienznetzwerk und im Default-Mode-Netzwerk intranetzwerk keine Unterschiede zeigten. Die umgekehrte Zuordnung vertauscht die betroffenen Netzwerke. Eine gleichmäßige Betroffenheit aller vier Netzwerke übergeht diese Selektivität. Dass gar keine Intranetzwerkunterschiede vorlagen, trifft nicht zu – zusätzlich fand sich allerdings auch eine reduzierte Trennung zwischen DMN und CEN."
     },
     {
@@ -342,11 +330,11 @@
       "question": "Ein Patient beschreibt, er könne eigene Gedanken nicht mehr sicher von äußeren Wahrnehmungen unterscheiden. Welcher Konnektivitätsbefund lässt sich zur Erklärung solcher Ich-Störungen am ehesten heranziehen?",
       "options": [
         "Eine deutlich verstärkte funktionelle Trennung zwischen Default-Mode-Netzwerk und zentralexekutivem Netzwerk",
-        "Eine verminderte funktionelle Trennung zwischen Default-Mode-Netzwerk und zentralexekutivem Netzwerk",
+        "Eine verminderte funktionelle Trennung zwischen Salienznetzwerk und zentralexekutivem Netzwerk",
         "Eine verstärkte funktionelle Trennung zwischen Salienznetzwerk und dorsalem Aufmerksamkeitsnetzwerk",
-        "Eine verminderte funktionelle Trennung zwischen Salienznetzwerk und zentralexekutivem Netzwerk"
+        "Eine verminderte funktionelle Trennung zwischen Default-Mode-Netzwerk und zentralexekutivem Netzwerk"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Bei den Patienten zeigten sich funktionelle Verbindungen zwischen dem posterioren zingulären Kortex – einem Hauptknotenpunkt des DMN – und frontalen Regionen, die normalerweise zum zentralexekutiven Netzwerk gehören; die funktionelle Segregation zwischen beiden Netzwerken ist also reduziert, wobei nur noch der mittlere temporale Gyrus eine klare Trennung zeigte. Genau diese verschwommene Grenze zwischen internen Prozessen und externer Wahrnehmung wird zur Erklärung von Ich-Störungen herangezogen. Eine verstärkte Trennung kehrt den Befund um, und die Paarungen mit dem Salienznetzwerk entsprechen nicht dem berichteten Ergebnis."
     },
     {
@@ -354,24 +342,24 @@
       "hard": true,
       "question": "Was ergab die Untersuchung der aufgabeninduzierten Deaktivierung während der n-back-Aufgabe?",
       "options": [
+        "Gruppenunterschiede im medialen PFC; eine deutliche Deaktivierung zeigte sich nur bei den Kontrollen, nicht bei Patienten und Angehörigen",
         "Gruppenunterschiede im primären visuellen Kortex; alle drei Gruppen zeigten dabei eine vergleichbare Deaktivierung",
         "Gruppenunterschiede im medialen PFC; eine deutliche Deaktivierung zeigte sich nur bei den Patienten, nicht bei Kontrollen und Angehörigen",
-        "Keinerlei Gruppenunterschiede, da die Deaktivierung des DMN von der Aufgabenschwierigkeit unabhängig ist",
-        "Gruppenunterschiede im medialen PFC; eine deutliche Deaktivierung zeigte sich nur bei den Kontrollen, nicht bei Patienten und Angehörigen"
+        "Keinerlei Gruppenunterschiede, da die Deaktivierung des DMN von der Aufgabenschwierigkeit unabhängig ist"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Die Gruppenunterschiede in der aufgabeninduzierten Deaktivierung lagen im medialen präfrontalen Kortex; die paarweisen Vergleiche zeigten eine deutliche Deaktivierung bei den Kontrollen, nicht aber bei den Patienten und deren erstgradigen Angehörigen, und die Stärke der Deaktivierung korrelierte positiv mit der Anzahl korrekter Antworten. Eine Deaktivierung allein bei den Patienten kehrt den Befund um. Der primäre visuelle Kortex war nicht der Ort des Gruppenunterschieds. Ein Fehlen jeglicher Unterschiede widerspricht dem Kernergebnis."
     },
     {
       "topic": "Netzwerkkonnektivität",
       "question": "Welcher Befund zur Antikorrelation zwischen DMN und CEN wurde berichtet, und in welcher Region zeigte sich der Gruppenunterschied?",
       "options": [
-        "Eine verminderte Antikorrelation bei Patienten und Angehörigen, mit signifikantem Gruppenunterschied im dorsolateralen PFC",
         "Eine verstärkte Antikorrelation bei Patienten und deren Angehörigen, mit einem signifikanten Gruppenunterschied im Precuneus",
         "Eine verminderte Antikorrelation ausschließlich bei den Patienten, mit Gruppenunterschied im Hippocampus",
+        "Eine verminderte Antikorrelation bei Patienten und Angehörigen, mit signifikantem Gruppenunterschied im dorsolateralen PFC",
         "Eine unveränderte Antikorrelation in allen Gruppen, mit Unterschieden allein in der Aufgabenleistung"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Berichtet wird eine verminderte Antikorrelation zwischen Default-Mode-Netzwerk und zentralexekutivem Netzwerk bei Patienten und deren Angehörigen, sowohl während der Ruheblöcke als auch während der Aufgabe, mit signifikantem Gruppenunterschied im dorsolateralen präfrontalen Kortex. Eine verstärkte Antikorrelation kehrt den Befund um. Eine Beschränkung auf die Patienten übergeht die ebenfalls betroffenen Angehörigen. Eine unveränderte Antikorrelation widerspricht dem Ergebnis."
     },
     {
@@ -379,13 +367,26 @@
       "transfer": true,
       "question": "Bei einer Patientin fällt eine besonders starke Konnektivität zwischen medialem präfrontalem und posteriorem zingulärem Kortex auf. Was ist damit nach der Vorlesung am ehesten verbunden?",
       "options": [
+        "Eine besonders gute Leistung in der n-back-Aufgabe",
         "Eine geringere Wahrscheinlichkeit für Ich-Störungen",
-        "Eine besonders stabile Trennung von DMN und CEN",
         "Eine ausgeprägtere Symptomschwere",
-        "Eine besonders gute Leistung in der n-back-Aufgabe"
+        "Eine besonders stabile Trennung von DMN und CEN"
       ],
       "answer": 2,
       "explanation": "Berichtet wird ein positiver Zusammenhang zwischen der Symptomschwere und der Konnektivität zwischen medialem präfrontalem Kortex und posteriorem zingulärem Kortex; Patienten und Angehörige zeigten insgesamt eine stärkere Intranetzwerk-Konnektivität im DMN. Eine besonders gute n-back-Leistung ging dagegen mit einer stärkeren aufgabeninduzierten Deaktivierung einher, die bei Patienten gerade fehlt. Eine stabile Trennung von DMN und CEN widerspricht der berichteten reduzierten Segregation. Eine geringere Wahrscheinlichkeit für Ich-Störungen kehrt den klinischen Zusammenhang um."
+    },
+    {
+      "topic": "Übertragung auf das Netzwerkmodell",
+      "hard": true,
+      "question": "Wie lassen sich die Konnektivitätsbefunde der Schizophrenie auf das Triple Network Model beziehen?",
+      "options": [
+        "Betroffen sind vor allem die Trennung von DMN und CEN sowie die Konnektivität innerhalb des CEN, während das Salienznetzwerk intranetzwerk unauffällig blieb",
+        "Keines der drei Netzwerke zeigte Auffälligkeiten, die Befunde beschränkten sich auf umschriebene subkortikale Kerngebiete",
+        "Betroffen ist vor allem die Konnektivität innerhalb des Salienznetzwerks, während DMN und CEN in ihrer Trennung und Binnenkonnektivität unauffällig blieben",
+        "Betroffen ist allein die Binnenkonnektivität des DMN, während die Beziehungen zwischen den drei Netzwerken vollständig erhalten bleiben"
+      ],
+      "answer": 0,
+      "explanation": "Die Resting-State-Studie fand Unterschiede der Intranetzwerkkonnektivität im dorsalen Aufmerksamkeitsnetzwerk und im zentralexekutiven Netzwerk sowie eine reduzierte funktionelle Trennung zwischen Default-Mode-Netzwerk und zentralexekutivem Netzwerk, während das Salienznetzwerk intranetzwerk keine Unterschiede zeigte; die zweite Studie ergänzt eine verminderte Antikorrelation zwischen DMN und CEN und eine erhöhte Binnenkonnektivität im DMN. Eine primäre Betroffenheit des Salienznetzwerks kehrt den Befund um. Eine Beschränkung auf die DMN-Binnenkonnektivität übergeht die reduzierte Segregation zwischen den Netzwerken, die gerade zur Erklärung der Ich-Störungen dient. Dass keines der Netzwerke betroffen sei, widerspricht den Ergebnissen beider Studien."
     }
   ]
 }
