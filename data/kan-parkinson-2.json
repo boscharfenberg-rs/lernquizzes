@@ -1,0 +1,388 @@
+{
+  "id": "kan-parkinson-2",
+  "title": "Morbus Parkinson II – Psychose-Spektrum, Darm-Hirn-Achse, Umweltfaktoren",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson II: Kontinuum der Parkinson-Psychose von Illusionen und Passage-Halluzinationen bis zu Wahn und Einsichtsverlust, kortikale Atrophiemuster, genetische Prädisposition, Darm-Hirn-Achse mit Mikrobiom- und Vagus-Studien, Schädel-Hirn-Trauma und Mikroglia, MPTP und Methamphetamin sowie Koffein und DAT-Bildgebung. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Parkinson-Psychose: Symptome",
+      "transfer": true,
+      "question": "Ein Patient berichtet, er sehe seit einigen Monaten immer wieder kurz eine Katze am Rand seines Gesichtsfelds vorbeihuschen; wendet er den Blick dorthin, ist nichts zu sehen. Welches Phänomen liegt am ehesten vor?",
+      "options": [
+        "Eine komplexe visuelle Halluzination.",
+        "Eine Passage-Halluzination.",
+        "Eine Präsenz-Halluzination.",
+        "Eine Pareidolie."
+      ],
+      "answer": 1,
+      "explanation": "Passage-Halluzinationen sind definiert als kurz im peripheren Gesichtsfeld vorbeiziehend gesehene Tiere oder unbestimmte Objekte – genau das beschreibt der Patient. Eine Präsenz-Halluzination wäre das Gefühl, dass jemand in der Nähe ist, ohne visuellen Eindruck. Eine Pareidolie setzt einen realen, formlosen Reiz voraus, in den Gesichter oder Objekte hineingesehen werden. Und komplexe visuelle Halluzinationen sind geformte, länger bestehende Bilder typischerweise von Tieren oder Menschen, die erst später im Verlauf auftreten."
+    },
+    {
+      "topic": "Parkinson-Psychose: Symptome",
+      "trap": "Pareidolie meint das Hineinsehen von Gesichtern oder Objekten in formlose Reize – das Anwesenheitsgefühl ist die Präsenz-Halluzination.",
+      "question": "Welche Zuordnung der leichten Positivsymptome bei der Parkinson-Krankheit trifft **NICHT** zu?",
+      "options": [
+        "Passage-Halluzinationen sind kurz im peripheren Gesichtsfeld vorbeiziehende Tiere oder Objekte.",
+        "Als Pareidolie bezeichnet man das Gefühl, dass sich eine weitere Person in der Nähe aufhält.",
+        "Eine Illusion liegt vor, wenn beispielsweise der Ast eines Baumes als Katze gesehen wird.",
+        "Pareidolien kommen auch bei Gesunden vor, sind aber bei Parkinson und Lewy-Körperchen-Demenz gehäuft."
+      ],
+      "answer": 1,
+      "explanation": "Das Gefühl, dass jemand in der Nähe ist, beschreibt die Präsenz-Halluzination – nicht die Pareidolie; damit ist diese Zuordnung die gesuchte, unzutreffende. Pareidolie meint vielmehr eine spezielle Klasse von Illusionen, bei der Gesichter oder Objekte in formlosen Reizen wie Wolken, Flammen und Baumrinde oder in geometrischen Mustern wie Teppichen und Tapeten gesehen werden. Zutreffend sind der Baumast, der als Katze gesehen wird, als Beispiel einer Illusion, die Definition der Passage-Halluzination und das gehäufte Auftreten von Pareidolien bei Morbus Parkinson und verwandten Erkrankungen."
+    },
+    {
+      "topic": "Parkinson-Psychose: Symptome",
+      "question": "Wie verändern sich die psychotischen Symptome im Verlauf der Parkinson-Krankheit?",
+      "options": [
+        "Komplexe visuelle Halluzinationen stehen am Anfang, leichte Phänomene wie Illusionen kommen erst im Endstadium hinzu.",
+        "Der kognitive Abbau verläuft unabhängig vom Verlust der Einsicht und vom Fortschreiten der psychotischen Symptome.",
+        "Später treten komplexe visuelle Halluzinationen auf; die Einsicht bleibt zunächst erhalten und geht dann verloren.",
+        "Die Einsicht fehlt von Beginn an, weshalb Wahnvorstellungen bereits die frühe Phase der Erkrankung bestimmen."
+      ],
+      "answer": 2,
+      "explanation": "Nach den leichten Phänomenen treten später komplexe (geformte) visuelle Halluzinationen auf, typischerweise von Tieren oder Menschen; die Einsicht – das Erkennen, dass es sich um Halluzinationen handelt – bleibt in diesem Stadium zunächst erhalten und geht mit dem Fortschreiten verloren, wobei Wahnvorstellungen und multimodale Halluzinationen hinzukommen. Die umgekehrte Abfolge mit komplexen Halluzinationen am Anfang widerspricht dem Kontinuum. Ein Fehlen der Einsicht von Beginn an trifft ebenfalls nicht zu. Und kognitiver Abbau und Einsichtsverlust verlaufen ausdrücklich parallel zum Fortschreiten der Symptome, nicht unabhängig davon."
+    },
+    {
+      "topic": "Parkinson-Psychose: Mechanismen",
+      "question": "Welche Zuordnung von psychotischem Symptom und assoziiertem Faktor trifft am ehesten zu?",
+      "options": [
+        "Illusionen zeigen keinerlei Zusammenhang zu Somnolenz oder zur motorischen Symptomschwere.",
+        "Komplexe visuelle Halluzinationen hängen vor allem mit der Hirnstamm-Augenbewegungskontrolle zusammen.",
+        "Passage-Halluzinationen werden auf eine weit verbreitete kortikale Lewy-Körper-Pathologie zurückgeführt.",
+        "Präsenzhalluzinationen wurden mit der Schlafregulation und mit Somnolenz-Scores in Verbindung gebracht."
+      ],
+      "answer": 3,
+      "explanation": "Leichte und komplexe Halluzinationen sind mit unterschiedlichen Risikofaktoren verbunden: Präsenzhalluzinationen wurden mit der Schlafregulation und Somnolenz-Scores assoziiert. Eine weit verbreitete kortikale Lewy-Körper-Pathologie wird dagegen erst multimodalen Halluzinationen, Wahnvorstellungen und dem Einsichtsverlust zugeordnet, nicht den Passage-Halluzinationen. Dysfunktionale Hirnstamm-Augenbewegungs-Kontrollmechanismen und dorsale Bahnen im visuellen Parietallappen werden gerade für Passage-Halluzinationen diskutiert, nicht für die komplexen visuellen Halluzinationen, die mit Kognition, visueller Funktion und Affekt zusammenhängen. Und Illusionen sind ausdrücklich mit Somnolenz und motorischen Schwere-Scores verbunden."
+    },
+    {
+      "topic": "Parkinson-Psychose: Mechanismen",
+      "hard": true,
+      "question": "Welche neuroanatomische Staffelung entlang des Psychose-Kontinuums nimmt der Übersichtsartikel am ehesten an?",
+      "options": [
+        "Hirnstamm bei leichten Phänomenen, basales Vorderhirn mit cholinergen Projektionen bei visuellen Halluzinationen, kortikale Lewy-Pathologie bei Wahn.",
+        "Zuerst eine Degeneration des Bulbus olfactorius, danach der Amygdala und zuletzt der cholinergen Kerngebiete des Hirnstamms.",
+        "Zuerst eine weit verbreitete kortikale Lewy-Pathologie, dann ein Rückzug der Veränderungen auf das basale Vorderhirn und zuletzt auf den Hirnstamm.",
+        "Ausschließlich striatale Dopamindefizite, deren Ausmaß den Schweregrad der psychotischen Symptome über alle Stadien hinweg vollständig erklärt."
+      ],
+      "answer": 0,
+      "explanation": "Die Progression beginnt mit isolierten geringfügigen Erfahrungen und weist damit auf eine Hirnstammpathologie und deren Auswirkung auf subkortikale und kortikale Bewegungs- und Augenbewegungskontrollnetzwerke einschließlich des visuellen Parietallappens hin. Das anschließende Auftreten visueller Halluzinationen bei erhaltener Einsicht deutet auf eine Beteiligung des basalen Vorderhirns und seiner kortikalen cholinergen Projektionen, insbesondere zum ventralen okzipitotemporalen Kortex. Multimodale Halluzinationen, Wahn und Einsichtsverlust sprechen schließlich für eine weit verbreitete kortikale Lewy-Körper-Pathologie. Die umgekehrte Reihenfolge kehrt genau diese Staffelung um. Rein striatale Dopamindefizite als vollständige Erklärung stehen im Widerspruch zur angenommenen kortikalen und cholinergen Beteiligung. Und die Abfolge Bulbus olfactorius – Amygdala – Hirnstamm beschreibt Ausbreitungsmodelle der Grundpathologie, nicht die Staffelung der Psychose."
+    },
+    {
+      "topic": "Parkinson-Psychose: Mechanismen",
+      "hard": true,
+      "question": "In welchen Regionen wurde kortikale Atrophie bei Parkinsonpatienten mit psychotischen Symptomen berichtet?",
+      "options": [
+        "Ausschließlich im primär-motorischen Kortex und im Putamen beider Hemisphären, ohne parietale Beteiligung.",
+        "Ausschließlich im Hirnstamm und im Kleinhirn, während kortikale Regionen unauffällig blieben.",
+        "Überwiegend im orbitofrontalen Kortex und in der Insula, bei ausgesparten okzipitotemporalen Arealen.",
+        "Superior- und lateralparietal, lateral-frontal, lateral und ventral okzipitotemporal sowie hippocampal."
+      ],
+      "answer": 3,
+      "explanation": "Berichtet wurden Atrophien superior- und lateralparietal, lateral-frontal, lateral und ventral okzipitotemporal, hippocampal sowie zerebellär – ausdrücklich als Zusammenschau einzelner Studien, nicht als Metaanalyse. Eine Beschränkung auf primär-motorischen Kortex und Putamen trifft nicht zu, ebenso wenig eine Beschränkung auf Hirnstamm und Kleinhirn ohne kortikale Beteiligung. Und orbitofrontaler Kortex und Insula bei ausgesparten okzipitotemporalen Arealen widerspricht dem Befund doppelt, da gerade die okzipitotemporalen Regionen betroffen sind."
+    },
+    {
+      "topic": "Genetische Faktoren",
+      "question": "Welche Aussage zur genetischen Grundlage des Parkinson-Syndroms trifft **NICHT** zu?",
+      "options": [
+        "Mutationen in assoziierten Genen führen zu einer abnormalen striatalen dopaminergen Neurotransmission.",
+        "Autosomal vererbte Formen sind häufig und erklären die Mehrzahl aller Parkinson-Erkrankungen.",
+        "Genetische Parkinson-Syndrome werden immer wieder als Krankheitsmodelle für sporadische Formen herangezogen.",
+        "Mutationen gehen auch mit regionalen Veränderungen der Hirnstruktur und veränderter Hirnfunktion einher."
+      ],
+      "answer": 1,
+      "explanation": "Die autosomal vererbten Formen sind ausdrücklich sehr selten – die Behauptung, sie erklärten die Mehrzahl der Erkrankungen, ist damit die gesuchte, unzutreffende Aussage. Zutreffend ist dagegen, dass genetische Parkinson-Syndrome als Krankheitsmodelle für die sporadischen Formen dienen und dass Mutationen in den assoziierten Genen nicht nur eine abnormale striatale dopaminerge Neurotransmission und regionale Veränderungen der Hirnstruktur, sondern auch eine veränderte Funktionsweise des Gehirns nach sich ziehen."
+    },
+    {
+      "topic": "Genetische Faktoren",
+      "transfer": true,
+      "question": "Ein Patient mit idiopathischem Parkinson-Syndrom fragt, ob seine Kinder die Erkrankung mit Sicherheit erben werden. Welche Antwort entspricht am ehesten dem Stand der Vorlesung?",
+      "options": [
+        "Die Erkrankung folgt einem autosomal-dominanten Erbgang, sodass etwa die Hälfte der Kinder sicher erkranken wird.",
+        "Autosomal vererbte Formen sind sehr selten; die Ursachen des idiopathischen Syndroms gelten weiterhin als ungeklärt.",
+        "Da genetische Formen als Krankheitsmodelle dienen, ist jedes idiopathische Syndrom letztlich monogenetisch bedingt.",
+        "Eine genetische Beteiligung ist ausgeschlossen, weil ausschließlich Umweltgifte und das Mikrobiom die Ursache bilden."
+      ],
+      "answer": 1,
+      "explanation": "Die autosomal vererbten Formen sind sehr selten, und die Ursachen des idiopathischen Parkinson-Syndroms sind aktuell noch ungeklärt – eine sichere Vererbung lässt sich daher nicht in Aussicht stellen. Ein durchgängig autosomal-dominanter Erbgang mit 50 % Erkrankungsrisiko der Kinder gilt gerade nicht für das idiopathische Syndrom. Eine genetische Beteiligung ist umgekehrt auch nicht ausgeschlossen: Es existieren monogenetische Formen, sie sind nur selten. Und dass genetische Syndrome als Modelle für sporadische Formen dienen, macht das idiopathische Syndrom nicht selbst monogenetisch."
+    },
+    {
+      "topic": "Darm-Hirn-Achse",
+      "question": "Welcher Weg gehört **NICHT** zu den in der Vorlesung genannten Kommunikationswegen zwischen Darm und Gehirn?",
+      "options": [
+        "Die enteroendokrine Signalübertragung, bei der bakterielle Nebenprodukte enteroendokrine Zellen stimulieren.",
+        "Die immunologische Signalübertragung über Zytokine und Interferone mit Bezug zu den Stresssystemen.",
+        "Die direkte Diffusion ganzer Darmbakterien durch die Blut-Hirn-Schranke in das Mittelhirn.",
+        "Der Nervus vagus mit sympathischer und vagaler Regulation zwischen ZNS und enterischem Nervensystem."
+      ],
+      "answer": 2,
+      "explanation": "Genannt werden vier Kommunikationswege: der Nervus vagus, die enteroendokrine Signalübertragung, der Serotonin- und Tryptophan-Stoffwechsel sowie die immunologische Signalübertragung. Eine direkte Diffusion ganzer Bakterien durch die Blut-Hirn-Schranke gehört nicht dazu und ist damit die gesuchte Antwort. Die drei übrigen Wege sind korrekt wiedergegeben, einschließlich der starken Interaktion zwischen Immun- und Stresssystemen bei der immunologischen Signalübertragung."
+    },
+    {
+      "topic": "Darm-Hirn-Achse",
+      "question": "Welche Rolle spielt der Serotonin- und Tryptophan-Stoffwechsel in der Darm-Hirn-Kommunikation?",
+      "options": [
+        "Die über die Nahrung verfügbare Tryptophanmenge liefert die Vorstufe für zentrales Serotonin.",
+        "Serotonin wird ausschließlich im Hirnstamm gebildet und über den Nervus vagus in den Darm transportiert.",
+        "Serotonin bindet an Adenosinrezeptoren des Darmepithels und reguliert dort die Dopaminfreisetzung.",
+        "Tryptophan wirkt als Zytokin, das die Mikroglia aktiviert und dadurch Entzündungsprozesse anstößt."
+      ],
+      "answer": 0,
+      "explanation": "Als Kommunikationsweg wird der Serotonin- und Tryptophan-Stoffwechsel genannt, insbesondere die über die Nahrung bestimmte Tryptophan-Verfügbarkeit als Vorläufer zentralen Serotonins. Ein ausschließlicher Serotonintransport vom Hirnstamm in den Darm kehrt diese Richtung um. Tryptophan ist eine Aminosäure und kein Zytokin – die Mikroglia-Aktivierung läuft in der Vorlesung über bakterielle Stoffwechselprodukte und die immunologische Signalübertragung. Und Adenosinrezeptoren tauchen im Zusammenhang mit Koffein auf, nicht als Bindungsstelle für Serotonin im Darmepithel."
+    },
+    {
+      "topic": "Mikrobiom im Tiermodell",
+      "question": "Was zeigte der Vergleich gentechnisch veränderter Mäuse mit α-Synuclein-Überproduktion in normaler und in keimfreier Umgebung?",
+      "options": [
+        "Tiere in keimfreier Umgebung hatten weniger α-Synuclein-Fasern im Gehirn und weniger Bewegungsdefizite.",
+        "Nur die Tiere in keimfreier Umgebung entwickelten Lewy-Körperchen in der Substantia nigra.",
+        "Tiere in keimfreier Umgebung zeigten mehr α-Synuclein-Fasern im Gehirn, blieben motorisch aber unauffällig.",
+        "Beide Gruppen unterschieden sich weder in den Proteinablagerungen noch in den motorischen Leistungen."
+      ],
+      "answer": 0,
+      "explanation": "Die Tiere in der keimfreien Umgebung wiesen weniger α-Synuclein-Proteinfasern im Gehirn und weniger Bewegungsdefizite auf als die Tiere in normaler Umgebung – das war der Anlass, dem Mikrobiom eine Rolle zuzuschreiben. Die Umkehrung mit mehr Fasern bei keimfreien Tieren widerspricht dem Befund ebenso wie die Behauptung, es habe keine Gruppenunterschiede gegeben. Und von Lewy-Körperchen ausschließlich bei keimfreien Tieren ist nicht die Rede; untersucht wurden α-Synuclein-Fasern und Bewegungsdefizite."
+    },
+    {
+      "topic": "Mikrobiom im Tiermodell",
+      "question": "Welche beiden Befunde stützen die Rolle der Mikroben besonders deutlich?",
+      "options": [
+        "Kot von Patienten und von Gesunden löste bei sterilen Mäusen gleichermaßen rasch eine Parkinsonsymptomatik aus.",
+        "Nach Antibiotikagabe verschlechterten sich die Bewegungsstörungen; Kot gesunder Menschen löste bei sterilen Mäusen Symptome aus.",
+        "Nach Antibiotikagabe normalisierten sich die Bewegungsstörungen; Kot von Parkinsonpatienten löste bei sterilen Mäusen Symptome aus.",
+        "Eine Antibiotikagabe blieb ohne Effekt, während erst eine zusätzliche Levodopagabe die Motorik normalisierte."
+      ],
+      "answer": 2,
+      "explanation": "Nach der Antibiotikabehandlung der Mäuse in normaler Umgebung normalisierten sich die Bewegungsstörungen, und in einem weiteren Versuch löste der in den Darm steriler Mäuse gespritzte Kot von Parkinsonpatienten – nicht aber der von Gesunden – schnell eine Parkinsonsymptomatik aus. Eine Verschlechterung unter Antibiotika oder eine Symptomauslösung durch den Kot Gesunder kehrt diese Befunde um. Dass beide Kotproben gleichermaßen wirkten, widerspricht genau der entscheidenden Kontrollbedingung. Und ein fehlender Antibiotikaeffekt mit Levodopa als eigentlichem Wirkfaktor wird nicht berichtet."
+    },
+    {
+      "topic": "Mikrobiom im Tiermodell",
+      "hard": true,
+      "question": "Über welchen Mechanismus wirken die Mikroben nach der in der Vorlesung genannten Vermutung?",
+      "options": [
+        "Sie bilden selbst α-Synuclein, das über die Blutbahn in die Substantia nigra gelangt und dort die dopaminergen Neurone zerstört.",
+        "Ihre Stoffwechselprodukte – kurzkettige Fettsäuren – aktivieren die Mikroglia und begünstigen die α-Synuclein-Anhäufung.",
+        "Sie zerstören direkt die Myelinscheiden des Nervus vagus und unterbrechen so die Signalübertragung zum Hirnstamm.",
+        "Sie hemmen im Darm die Aufnahme von Levodopa, sodass die dopaminerge Substitution wirkungslos bleibt."
+      ],
+      "answer": 1,
+      "explanation": "Wahrscheinlich setzen die Mikroben erkrankter Tiere Stoffwechselprodukte frei – kurzkettige Fettsäuren –, die zu einer Aktivierung der Mikroglia mit Entzündungsreaktion und zu einer Anhäufung von α-Synuclein führen. Dass Bakterien selbst α-Synuclein bilden und über das Blut in die Substantia nigra bringen, wird nicht angenommen; α-Synuclein ist ein körpereigenes Protein. Eine gehemmte Levodopa-Aufnahme betrifft die Therapie, nicht die Krankheitsentstehung im Tiermodell. Und eine Demyelinisierung des Nervus vagus wird nirgends beschrieben – der Vagus dient als Transportweg, nicht als Ziel der Schädigung."
+    },
+    {
+      "topic": "Mikrobiom im Tiermodell",
+      "transfer": true,
+      "question": "Eine Patientin berichtet, sie habe schon lange vor den motorischen Symptomen unter Verdauungsproblemen gelitten, und fragt, ob ihr Darm die Ursache ihrer Erkrankung sei. Welche Antwort entspricht am ehesten dem Stand der Vorlesung?",
+      "options": [
+        "Ein Zusammenhang ist ausgeschlossen, da α-Synuclein-Verklumpungen ausschließlich im Gehirn vorkommen.",
+        "Der Zusammenhang gilt beim Menschen als bewiesen, weshalb eine Stuhltransplantation die Therapie der Wahl ist.",
+        "Die Befunde stammen aus dem Mausmodell; ob sie auf den Menschen übertragbar sind, bleibt fraglich.",
+        "Verdauungsprobleme sind eine reine Folge der dopaminergen Medikation und mit der Ursache nicht verknüpft."
+      ],
+      "answer": 2,
+      "explanation": "Im Tiermodell konnte erstmals ein Zusammenhang zwischen Mikrobiom und Parkinsonsymptomen hergestellt werden; unterstützt wird das durch die Beobachtung, dass Patienten oft schon zehn Jahre vor Ausbruch über Verdauungsprobleme klagen. Ob die Mäusebefunde auf den Menschen übertragbar sind, bleibt jedoch ausdrücklich fraglich. Von einem bewiesenen Zusammenhang und einer Stuhltransplantation als Therapie der Wahl ist deshalb nicht die Rede. Verdauungsprobleme als bloße Medikamentenfolge widerspricht ihrem Auftreten lange vor Behandlungsbeginn. Und α-Synuclein-Verklumpungen sind bekanntermaßen nicht nur im Gehirn, sondern auch im Darm nachweisbar."
+    },
+    {
+      "topic": "Darm-Hirn-Achse: Vagus-Studie",
+      "question": "Welche Annahme prüfte die Injektionsstudie an Mäusen?",
+      "options": [
+        "Kurzkettige Fettsäuren aus dem Darm überwinden die Blut-Hirn-Schranke und falten dort körpereigene Proteine um.",
+        "Veränderte α-Synuclein-Proteine entstehen im Bulbus olfactorius und gelangen über das Blut in den enterischen Nervenplexus.",
+        "Die dopaminergen Neurone der Substantia nigra sezernieren α-Synuclein, das absteigend das Darmepithel schädigt.",
+        "Veränderte α-Synuclein-Proteine entstehen in Darmschleimhautzellen und gelangen über den Nervus vagus in den Hirnstamm."
+      ],
+      "answer": 3,
+      "explanation": "Die geprüfte Annahme lautet, dass die Parkinson-Krankheit ihren Ursprung in den Schleimhautzellen des Darms haben könnte: Äußere Einflüsse verändern dort die räumliche Struktur und Faltung von α-Synuclein, die veränderten Proteine gelangen über den Nervus vagus in den Hirnstamm und steigen von dort weiter auf, wobei sie im Gehirn möglicherweise andere Proteine zur Veränderung anregen. Ein Ursprung im Bulbus olfactorius mit Transport über das Blut in den Darm entspricht nicht dem geprüften Modell. Eine Sekretion von α-Synuclein durch nigrale Neurone mit absteigender Schädigung des Darms war nicht der Untersuchungsgegenstand. Und kurzkettige Fettsäuren gehören zum Mikrobiom-Befund, nicht zur Injektionsstudie."
+    },
+    {
+      "topic": "Darm-Hirn-Achse: Vagus-Studie",
+      "hard": true,
+      "question": "In welcher Reihenfolge breiteten sich die in die Darmwand injizierten α-Synuclein-Proteine bei den Mäusen aus?",
+      "options": [
+        "Nach 1 Monat Substantia nigra, nach 3 Monaten präfrontaler Kortex, nach 7 Monaten Hirnstamm, nach 10 Monaten Hypothalamus.",
+        "Nach 1 Monat Hippocampus, nach 3 Monaten Hirnstamm, nach 7 Monaten Bulbus olfactorius, nach 10 Monaten Substantia nigra.",
+        "Nach 1 Monat Bulbus olfactorius, nach 3 Monaten Hippocampus, nach 7 Monaten Amygdala und Hypothalamus, nach 10 Monaten der Hirnstamm.",
+        "Nach 1 Monat Hirnstamm, nach 3 Monaten Substantia nigra und Amygdala, nach 7 Monaten Hippocampus, nach 10 Monaten Bulbus olfactorius."
+      ],
+      "answer": 3,
+      "explanation": "Die markierten Proteine erreichten nach einem Monat den Hirnstamm, nach drei Monaten Substantia nigra, Amygdala, Hypothalamus und präfrontalen Kortex, nach sieben Monaten den Hippocampus – begleitet vom Abbau der dopaminergen Neurone in der Substantia nigra – und nach zehn Monaten den Bulbus olfactorius. Die drei anderen Reihenfolgen widersprechen dem aufsteigenden Muster: Sie beginnen im Bulbus olfactorius, in der Substantia nigra oder im Hippocampus und setzen den Hirnstamm ans Ende oder in die Mitte, obwohl er als erste Station erreicht wurde."
+    },
+    {
+      "topic": "Darm-Hirn-Achse: Vagus-Studie",
+      "hard": true,
+      "question": "Welche Kontrollbedingungen der Injektionsstudie stützen den angenommenen Übertragungsweg?",
+      "options": [
+        "Nur die Knock-out-Mäuse entwickelten Symptome, während die Vagotomie ohne jeden Einfluss auf den Verlauf blieb.",
+        "Weder nach Durchtrennung des Vagusnervs noch bei α-Synuclein-Knock-out-Mäusen traten Symptome auf.",
+        "Nach Durchtrennung des Vagusnervs traten die Symptome früher auf, bei Knock-out-Mäusen dagegen unverändert.",
+        "Beide Kontrollgruppen entwickelten dieselben Symptome, allerdings ohne Abbau dopaminerger Neurone."
+      ],
+      "answer": 1,
+      "explanation": "Wurde der Vagusnerv direkt nach der Injektion durchtrennt, traten keine Symptome auf; ebenso blieben α-Synuclein-Knock-out-Mäuse symptomfrei. Beides stützt den Weg über den Nervus vagus und die Rolle des Proteins. Ein früheres Auftreten nach Vagotomie widerspricht dem Transportweg. Symptome ausschließlich bei Knock-out-Tieren kehren die Rolle des Proteins um. Und identische Symptome in beiden Kontrollgruppen würden gerade zeigen, dass weder Vagus noch α-Synuclein nötig wären."
+    },
+    {
+      "topic": "Darm-Hirn-Achse: Vagus-Studie",
+      "trap": "Ein Transport entlang des Vagus belegt die Richtung nicht – der Weg vom Gehirn zum Darm bleibt ebenso möglich.",
+      "question": "Welche Einschränkung nennt die Vorlesung bei der Interpretation der Vagus-Studie?",
+      "options": [
+        "Die Symptome der Tiere beschränkten sich auf Bewegungsstörungen, sodass Rückschlüsse unmöglich sind.",
+        "Die Befunde gelten nur für Tiere ohne α-Synuclein, da lediglich Knock-out-Mäuse untersucht wurden.",
+        "Die Ausbreitung ließ sich nur deshalb nachweisen, weil das Färbemittel Tryptanblau selbst neurotoxisch gewirkt hat.",
+        "Auch der umgekehrte Weg vom Gehirn zum Darm wäre möglich, ein Ursprung im Gehirn ist nicht ausgeschlossen."
+      ],
+      "answer": 3,
+      "explanation": "Eine Verbreitung vom Darm zum Hirn über den Vagusnerv kann angenommen werden; allerdings wäre auch der Weg vom Hirn zum Darm möglich, sodass ein Ursprung im Gehirn nicht gänzlich auszuschließen ist. Das Färbemittel diente nur der Markierung, eine Neurotoxizität wird nicht behauptet. Die Knock-out-Tiere waren eine Kontrollgruppe und nicht die Untersuchungsgruppe. Und die Tiere zeigten neben Bewegungsstörungen auch depressive Symptome, Ängstlichkeit und kognitive Defizite."
+    },
+    {
+      "topic": "Krankheitsphasen: body-first & brain-first",
+      "hard": true,
+      "question": "Welche Zuordnung zum body-first-Modell trifft am ehesten zu?",
+      "options": [
+        "REM-Schlaf-Störungen gehen auf Veränderungen in der Pons zurück, Herzrhythmusstörungen auf Veränderungen im Hirnstamm.",
+        "Beide Modelle bleiben über den gesamten Verlauf getrennt und lassen sich klinisch jederzeit sicher unterscheiden.",
+        "Beim body-first-Typ geht α-Synuclein vom Bulbus olfactorius und der Amygdala auf die übrigen Hirnregionen über.",
+        "Der body-first-Typ ist durch eine asymmetrische Störung des Dopaminsystems und früh einsetzende motorische Symptome gekennzeichnet."
+      ],
+      "answer": 0,
+      "explanation": "Beim body-first-Typ beginnt die α-Synuclein-Kumulation im enterischen Nervensystem und steigt über den Nervus vagus auf; die REM-Schlaf-Verhaltensstörungen werden auf Veränderungen in der Pons, die Herzrhythmusstörungen auf Veränderungen im Hirnstamm zurückgeführt – und zwar vor den motorischen Symptomen. Asymmetrische Dopaminstörung mit früh einsetzender Motorik sowie der Ausgang von Bulbus olfactorius und Amygdala kennzeichnen dagegen den brain-first-Typ. Und die beiden Modelle laufen im Verlauf der Krankheit ausdrücklich zusammen, sind also gerade nicht dauerhaft trennscharf."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma & Mikroglia",
+      "trap": "„Sekundär“ meint nicht ein zweites Trauma, sondern die nachfolgende, potenziell chronifizierende Entzündungsreaktion.",
+      "question": "Wie unterscheidet die Vorlesung primären und sekundären Schaden nach einer starken Erschütterung des Gehirns?",
+      "options": [
+        "Primär sind Knochen-, Gefäß- und Axonschäden, sekundär die anschließende, potenziell chronifizierende Entzündung.",
+        "Primär sind die motorischen Ausfälle unmittelbar nach dem Trauma, sekundär die erst Jahre später auftretende Demenz.",
+        "Primär ist das erste Trauma, sekundär jedes weitere Trauma, das im Verlauf der Sportlerkarriere hinzukommt.",
+        "Primär ist die Aktivierung der Mikroglia, sekundär das Abreißen von Nervenzellfortsätzen und das Platzen von Blutgefäßen."
+      ],
+      "answer": 0,
+      "explanation": "Als primärer Schaden gelten die unmittelbaren Folgen der Erschütterung: beschädigter Schädelknochen, geplatzte Blutgefäße und abgerissene Nervenzellfortsätze. Der sekundäre Schaden ist die anschließend einsetzende Entzündungsreaktion mit Aktivierung der Mikroglia, die chronifizieren, gesunde Nervenzellen schädigen und so einen Risikofaktor für Parkinson darstellen kann. Die Mikroglia-Aktivierung als primären Schaden zu bezeichnen kehrt diese Zuordnung um. Motorische Ausfälle und eine spätere Demenz beschreiben Symptome, nicht die beiden Schadensarten. Und „sekundär“ meint nicht ein weiteres Trauma, sondern die Folgereaktion auf dasselbe Ereignis."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma & Mikroglia",
+      "question": "Welche Aussage über Mikrogliazellen trifft **NICHT** zu?",
+      "options": [
+        "Sie scannen das Gewebe, lokalisieren Schäden und reparieren oder verhindern Gewebsschäden.",
+        "Nach einem Schädel-Hirn-Trauma und bei Alkoholabhängigkeit lassen sich Veränderungen der Mikroglia beobachten.",
+        "Sie sind die Makrophagen des Gehirns und dienen dort der Immunabwehr.",
+        "Sie bilden im ZNS die Myelinscheiden und behalten auch bei starker Aktivierung ihre Form unverändert bei."
+      ],
+      "answer": 3,
+      "explanation": "Mikrogliazellen bilden kein Myelin – das ist Aufgabe der Oligodendrozyten – und sie verändern bei starken Schädigungen oder Infektionen ausdrücklich ihre Form; die Aussage ist damit doppelt falsch und die gesuchte. Zutreffend sind dagegen ihre Rolle als Makrophagen des Gehirns in der Immunabwehr, das „Scannen“ des Gewebes mit Lokalisation und Reparatur von Schäden sowie die beobachtbaren Veränderungen nach Schädel-Hirn-Trauma und bei Alkoholabhängigkeit."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma & Mikroglia",
+      "hard": true,
+      "question": "Was zeigte das Tierexperiment zum Zusammenhang von Schädel-Hirn-Trauma und Parkinson?",
+      "options": [
+        "60 Tage nach dem Trauma fanden sich Veränderungen im Mittelhirn, in der Mikroglia und im α-Synuclein-Vorkommen.",
+        "Bereits 60 Minuten nach dem Trauma degenerierten die dopaminergen Neurone der Substantia nigra vollständig.",
+        "60 Tage nach dem Trauma waren alle Veränderungen vollständig abgeklungen, einschließlich der Mikroglia-Aktivierung.",
+        "Nur im Kleinhirn zeigten sich Veränderungen, während Mittelhirn und α-Synuclein-Vorkommen unauffällig blieben."
+      ],
+      "answer": 0,
+      "explanation": "Im Tierexperiment zeigten sich 60 Tage nach dem Schädel-Hirn-Trauma Veränderungen im Mittelhirn, in der Mikroglia und im α-Synuclein-Vorkommen; die Überexpression von α-Synuclein fungiert dabei als pathologische Verbindung zwischen Trauma und Parkinsonsymptomen, mit abweichender Anhäufung in Neuronen, Mikroglia und Astrozyten, was zur Verbreitung der Neurodegeneration beiträgt. Ein vollständiges Abklingen nach 60 Tagen widerspricht dem Befund. Eine vollständige Degeneration binnen einer Stunde wird nicht beschrieben. Und Veränderungen ausschließlich im Kleinhirn treffen nicht zu – gerade Mittelhirn und α-Synuclein standen im Mittelpunkt."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma & Mikroglia",
+      "question": "Welcher Zeitverlauf der Mikroglia-Aktivierung wurde in Humanstudien nach einem Schädel-Hirn-Trauma berichtet?",
+      "options": [
+        "Aktivierte Zellen waren nur in den ersten Stunden nachweisbar und normalisierten sich noch am Aufnahmetag.",
+        "Die Aktivierung setzte erst Jahre nach dem Trauma ein und blieb dann lebenslang unverändert bestehen.",
+        "Aktivierte Zellen waren noch Monate nachweisbar; erst Jahre später kehrten die Werte auf Normalniveau zurück.",
+        "Eine Aktivierung ließ sich beim Menschen gar nicht nachweisen, sondern nur im Tiermodell beobachten."
+      ],
+      "answer": 2,
+      "explanation": "Auch in Humanstudien waren aktivierte Mikrogliazellen noch Monate nach dem Trauma nachweisbar, und erst Jahre später kehrten die Werte auf ein Normallevel zurück. Eine Normalisierung binnen Stunden widerspricht dem ebenso wie ein erst nach Jahren einsetzender Beginn. Und dass sich beim Menschen gar keine Aktivierung nachweisen ließe, trifft nicht zu – genau diese Humanbefunde werden berichtet."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma & Mikroglia",
+      "transfer": true,
+      "question": "Ein ehemaliger Amateurboxer mit vielen Kopftreffern fragt, warum gerade er ein erhöhtes Parkinsonrisiko haben soll. Welche Erklärung entspricht am ehesten der Vorlesung?",
+      "options": [
+        "Das Risiko entsteht ausschließlich durch die begleitende Dehydrierung und den Gewichtsverlust im Leistungssport.",
+        "Jeder einzelne Schlag zerstört unmittelbar dopaminerge Neurone der Substantia nigra, ohne dass Entzündungen beteiligt wären.",
+        "Häufig wiederholte Traumata halten die Immunreaktion aufrecht, sodass die Entzündung chronifiziert und Neurone schädigt.",
+        "Ein erhöhtes Risiko besteht nur nach einem einzelnen schweren Trauma, nicht nach wiederholten leichten Erschütterungen."
+      ],
+      "answer": 2,
+      "explanation": "Auch leichte Traumata können Entzündungen auslösen, wenn sie wiederholt auftreten; häufige Wiederholungen führen dazu, dass die Immunreaktion nicht abklingt, chronifiziert und gesunde Nervenzellen schädigt – Boxer und andere Sportler mit häufigen Gehirnerschütterungen, etwa Fußballer wegen der Kopfbälle, entwickeln daher mit höherer Wahrscheinlichkeit Parkinson. Eine unmittelbare Zerstörung dopaminerger Neurone durch jeden Schlag ohne Entzündungsbeteiligung entspricht nicht dem beschriebenen Mechanismus. Dehydrierung und Gewichtsverlust spielen dabei keine Rolle. Und gerade die wiederholten leichten Erschütterungen sind der beschriebene Risikoweg."
+    },
+    {
+      "topic": "Drogen als Auslöser",
+      "hard": true,
+      "question": "Wie kam es in den 1970er-Jahren zu Fällen einer nahezu vollständigen Parkinsonsymptomatik nach Drogenkonsum?",
+      "options": [
+        "Aus dem Heroinderivat MPPP entstand bei zu großer Kälte MPP+, das die GABAergen Zellen der Pars reticularis zerstört.",
+        "Aus dem Heroinderivat MPPP entstand bei zu großer Hitze MPTP, dessen Metabolit MPP+ dopaminerge Zellen zerstört.",
+        "Verunreinigtes Kokain führte über eine direkte Blockade der D2-Rezeptoren zu einer irreversiblen Akinese der Konsumenten.",
+        "Eine Überdosierung von Levodopa löste über eine Übererregung des Striatums eine dauerhafte Symptomatik aus."
+      ],
+      "answer": 1,
+      "explanation": "Es handelte sich um das synthetische Heroinderivat MPPP; wurde bei der Herstellung zu viel Wärme verwendet, entstand MPTP, dessen Metabolit MPP+ etwa 7–10 Tage nach dem Konsum zum programmierten Zelltod (Apoptose) dopaminerger Zellen der Substantia nigra führt. Kälte spielt dabei keine Rolle, und die Pars reticularis ist nicht das geschädigte Zielgebiet. Verunreinigtes Kokain mit D2-Blockade war nicht die Ursache dieser Fälle. Und eine Levodopa-Überdosierung wird als Auslöser nicht beschrieben – der Patient sprach im Gegenteil auf Levodopa an."
+    },
+    {
+      "topic": "Drogen als Auslöser",
+      "transfer": true,
+      "question": "Ein 23-jähriger Patient wird abgemagert, regungslos und kaum ansprechbar aufgefunden; die Arme zeigen wächserne Flexibilität und eine Steifigkeit wie ein Bleirohr, die Routinelabortests sind unauffällig. Welche Einordnung passt am ehesten?",
+      "options": [
+        "Ein durch ein verunreinigtes synthetisches Heroinderivat ausgelöstes Parkinson-Syndrom.",
+        "Ein idiopathisches Parkinson-Syndrom vom akinetisch-rigiden Typ mit ungewöhnlich frühem Beginn.",
+        "Ein atypisches Parkinson-Syndrom im Rahmen einer beginnenden Lewy-Körperchen-Demenz.",
+        "Eine akute Entzündung des Mittelhirns, wie sie nach wiederholten Schädel-Hirn-Traumata auftritt."
+      ],
+      "answer": 0,
+      "explanation": "Die Falldarstellung stammt aus der MPTP-Kasuistik: Nach Konsum des verunreinigten synthetischen Heroinderivats entwickelte der 23-Jährige binnen 7–10 Tagen eine nahezu vollständige Parkinsonsymptomatik; er sprach auf Levodopa an, einige Symptome bestanden über 15 Monate fort. Für ein idiopathisches Syndrom spricht weder das Alter noch der akute Beginn innerhalb von Tagen. Eine Lewy-Körperchen-Demenz erklärt weder den Zeitverlauf noch den Drogenbezug. Und eine Mittelhirnentzündung nach wiederholten Traumata beschreibt den anderen Risikoweg der Vorlesung, der hier nicht vorliegt."
+    },
+    {
+      "topic": "Drogen als Auslöser",
+      "trap": "Das MPTP-Modell erzeugt eine Parkinsonsymptomatik, deckt sich aber nicht vollständig mit dem idiopathischen Syndrom.",
+      "question": "Welche Aussage zum Einsatz von MPTP im Tiermodell trifft am ehesten zu?",
+      "options": [
+        "MPTP bzw. MPP+ erzeugen ein Modell, das dem idiopathischen Parkinson-Syndrom in allen Symptomen und im Verlauf exakt entspricht.",
+        "MPTP wirkt ausschließlich beim Menschen toxisch, weshalb es in Tiermodellen keine Anwendung findet.",
+        "MPTP wird im Tiermodell eingesetzt, um bereits bestehende Parkinsonsymptome zuverlässig rückgängig zu machen.",
+        "MPTP bzw. MPP+ dienen dazu, eine Parkinsonsymptomatik auszulösen, die dem idiopathischen Syndrom nicht vollständig entspricht."
+      ],
+      "answer": 3,
+      "explanation": "MPTP bzw. MPP+ werden im Tiermodell verwendet, um eine Parkinsonsymptomatik auszulösen; die Symptome entsprechen dabei ausdrücklich nicht hundertprozentig dem idiopathischen Parkinson-Syndrom. Eine exakte Übereinstimmung in allen Symptomen wird damit gerade verneint. Ein therapeutischer Einsatz zur Rückbildung von Symptomen widerspricht der neurotoxischen Wirkung. Und eine ausschließliche Wirkung beim Menschen trifft nicht zu – der Modellcharakter beruht ja auf der Wirkung im Tier."
+    },
+    {
+      "topic": "Drogen als Auslöser",
+      "question": "Welche Aussage zum Zusammenhang zwischen Methamphetaminkonsum und Parkinson trifft am ehesten zu?",
+      "options": [
+        "Ein Zusammenhang gilt als vollständig gesichert, da die Hirnschädigungen exakt denen bei Parkinson entsprechen.",
+        "Ein Zusammenhang ist ausgeschlossen, weil Methamphetamin das nigrostriatale System nachweislich unberührt lässt.",
+        "Die Effekte werden erst Jahre nach dem Konsum erwartet; etwa 30 % der Konsumierenden entwickeln Parkinsonsymptome.",
+        "Die Effekte treten regelhaft binnen 7–10 Tagen nach dem Konsum auf, ganz ähnlich wie beim MPTP-Metaboliten."
+      ],
+      "answer": 2,
+      "explanation": "Auch der Konsum von Methamphetaminen wurde mit der Entwicklung von Parkinson in Verbindung gebracht; die Effekte werden erst Jahre nach dem Konsum erwartet, und etwa 30 % der Konsumierenden entwickeln Parkinsonsymptome. Ein Auftreten binnen 7–10 Tagen beschreibt dagegen die Wirkung des MPTP-Metaboliten MPP+. Als vollständig gesichert gilt der Zusammenhang gerade nicht: Die Hirnschädigungen sind vielfältig, und ihre Vergleichbarkeit mit denen bei Parkinson wird diskutiert. Und ein Ausschluss widerspricht den Studien, die eine Schädigung des nigrostriatalen Systems berichten."
+    },
+    {
+      "topic": "Koffein",
+      "question": "Über welchen Mechanismus wird die Wirkung von Koffein auf das dopaminerge System erklärt?",
+      "options": [
+        "Koffein wirkt an Adenosinrezeptoren des enterischen Nervensystems und blockiert dort den Aufstieg von α-Synuclein.",
+        "Koffein wirkt an Adenosinrezeptoren, die mit Dopaminrezeptoren ko-lokalisiert sind und funktionell interagieren.",
+        "Koffein hemmt die Catechol-O-Methyltransferase und verlängert dadurch die Verfügbarkeit von Dopamin im Spalt.",
+        "Koffein bindet unmittelbar an die D2- und D3-Rezeptoren des Striatums und ersetzt dort die Wirkung des Dopamins."
+      ],
+      "answer": 1,
+      "explanation": "Koffein interagiert mit Adenosinrezeptoren, die mit Dopaminrezeptoren ko-lokalisiert sind und funktionell miteinander interagieren; beschrieben werden eine Hochregulation postsynaptischer D2/D3-Rezeptoren und möglicherweise eine verminderte präsynaptische Dopamin-Wiederaufnahme. Eine direkte Bindung an D2- und D3-Rezeptoren anstelle von Dopamin wird damit gerade nicht behauptet. Eine COMT-Hemmung beschreibt ein anderes pharmakologisches Prinzip. Und eine Blockade des α-Synuclein-Aufstiegs im enterischen Nervensystem gehört zur Darm-Hirn-Achse, nicht zur Koffeinwirkung."
+    },
+    {
+      "topic": "Koffein",
+      "transfer": true,
+      "trap": "Protektive Effekte in epidemiologischen Studien sind keine Therapieempfehlung – und bei den PD-typischen Schlafstörungen ist Koffein eher ungünstig.",
+      "question": "Ein Patient möchte gezielt sehr viel Kaffee trinken, um seine Parkinsonsymptome zu bessern. Was entspricht am ehesten der in der Vorlesung vorgestellten Studienlage?",
+      "options": [
+        "Die SPECT-Befunde sprechen für eine DAT-Rückregulation ohne Zusammenhang zur Symptomatik; eine Koffein-Therapie wird nicht empfohlen.",
+        "Die SPECT-Befunde zeigen eine Hochregulation des Dopamintransporters, die den Verlust dopaminerger Neurone weitgehend ausgleicht.",
+        "Die SPECT-Befunde belegen eine deutliche Symptomreduktion, weshalb hoher Koffeinkonsum inzwischen als Standardtherapie gilt.",
+        "Die SPECT-Befunde ergaben keinerlei Unterschiede, sodass Koffein für die Bildgebung des Dopaminsystems bedeutungslos ist."
+      ],
+      "answer": 0,
+      "explanation": "In der SPECT/CT-Studie an 163 Patienten und 40 Kontrollen deuteten die Ergebnisse auf eine Rückregulation des Dopamintransporters (DAT) hin, ohne Zusammenhang mit der Symptomatik; ausgesprochen wird ausdrücklich keine Koffein-Therapieempfehlung, und weitere Studien werden für nötig gehalten. Eine belegte Symptomreduktion und ein Standardtherapie-Status bestehen daher nicht. Eine Hochregulation des Transporters kehrt den Befund um – beschrieben wird eine Rückregulation, während die Hochregulation die postsynaptischen D2/D3-Rezeptoren betrifft. Und bedeutungslos ist der Befund keineswegs: Die DAT-Rückregulation durch Koffein soll grundsätzlich berücksichtigt werden, wenn das Dopaminsystem untersucht wird, etwa bei Substanzkonsum."
+    }
+  ]
+}

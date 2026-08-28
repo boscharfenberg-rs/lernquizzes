@@ -696,6 +696,13 @@
       "title": "Morbus Parkinson I – Symptome, Basalganglien, nichtmotorische Befunde",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson I: Kardinalsymptome und Syndromgruppen, α-Synuclein und Lewy-Körperchen, prä- und symptomatische Phasen mit body-first/brain-first, Substantia nigra und dopaminerge Bahnen, direkter und indirekter Weg der Basalganglienschleife, Nucleus subthalamicus und tiefe Hirnstimulation, nichtmotorische Symptome sowie kortikostriatales Remapping und DMN-Befunde. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-parkinson-2",
+      "file": "kan-parkinson-2.json",
+      "title": "Morbus Parkinson II – Psychose-Spektrum, Darm-Hirn-Achse, Umweltfaktoren",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson II: Kontinuum der Parkinson-Psychose von Illusionen und Passage-Halluzinationen bis zu Wahn und Einsichtsverlust, kortikale Atrophiemuster, genetische Prädisposition, Darm-Hirn-Achse mit Mikrobiom- und Vagus-Studien, Schädel-Hirn-Trauma und Mikroglia, MPTP und Methamphetamin sowie Koffein und DAT-Bildgebung. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }
