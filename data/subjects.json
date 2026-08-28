@@ -703,6 +703,13 @@
       "title": "Morbus Parkinson II – Psychose-Spektrum, Darm-Hirn-Achse, Umweltfaktoren",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Morbus Parkinson II: Kontinuum der Parkinson-Psychose von Illusionen und Passage-Halluzinationen bis zu Wahn und Einsichtsverlust, kortikale Atrophiemuster, genetische Prädisposition, Darm-Hirn-Achse mit Mikrobiom- und Vagus-Studien, Schädel-Hirn-Trauma und Mikroglia, MPTP und Methamphetamin sowie Koffein und DAT-Bildgebung. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-demenz-1",
+      "file": "kan-demenz-1.json",
+      "title": "Demenzen I – Alzheimer, Tangles & Plaques, DMN und Risikogene",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen I: Demenzbegriff und MCI, neurofibrilläre Tangles und Amyloid-Plaques, Tau und Mikrotubuli, struktureller Kern des Kortex und Default Mode Netzwerk, Hypometabolismus und Konnektivitätsstörungen, episodisches Gedächtnis und Hippocampus, Atrophiemuster zur Differenzialdiagnose, ApoE4 und Presenilin-1 als Risikogene, weiße Substanz als Biomarker sowie vaskuläre Demenz. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }

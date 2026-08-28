@@ -1,0 +1,388 @@
+{
+  "id": "kan-demenz-1",
+  "title": "Demenzen I – Alzheimer, Tangles & Plaques, DMN und Risikogene",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen I: Demenzbegriff und MCI, neurofibrilläre Tangles und Amyloid-Plaques, Tau und Mikrotubuli, struktureller Kern des Kortex und Default Mode Netzwerk, Hypometabolismus und Konnektivitätsstörungen, episodisches Gedächtnis und Hippocampus, Atrophiemuster zur Differenzialdiagnose, ApoE4 und Presenilin-1 als Risikogene, weiße Substanz als Biomarker sowie vaskuläre Demenz. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Demenzbegriff & Diagnostik",
+      "question": "Welche Aussage zur Demenz-Definition der ICD-10 trifft **NICHT** zu?",
+      "options": [
+        "Ein getrübtes Bewusstsein gehört zu den Kernmerkmalen und grenzt die Demenz vom Delir ab.",
+        "Es handelt sich um ein Syndrom als Folge einer meist chronischen oder fortschreitenden Krankheit des Gehirns.",
+        "Betroffen sind viele höhere kortikale Funktionen wie Gedächtnis, Denken, Orientierung, Sprache und Urteilsvermögen.",
+        "Die kognitiven Beeinträchtigungen werden gewöhnlich von Veränderungen der emotionalen Kontrolle, des Sozialverhaltens oder der Motivation begleitet."
+      ],
+      "answer": 0,
+      "explanation": "Die ICD-10-Definition hält ausdrücklich fest, dass das Bewusstsein bei der Demenz **nicht** getrübt ist – genau das grenzt sie vom Delir ab. Die Aussage kehrt dieses Kriterium um und ist damit die gesuchte. Zutreffend sind dagegen die Beschreibung als Syndrom infolge einer meist chronischen oder fortschreitenden Hirnkrankheit, die Störung vieler höherer kortikaler Funktionen einschließlich Gedächtnis, Denken, Orientierung, Auffassung, Rechnen, Lernfähigkeit, Sprache und Urteilsvermögen sowie die begleitenden Veränderungen von emotionaler Kontrolle, Sozialverhalten und Motivation, die gelegentlich sogar vorausgehen."
+    },
+    {
+      "topic": "Demenzbegriff & Diagnostik",
+      "transfer": true,
+      "question": "Eine 71-Jährige klagt über Merkfähigkeitsprobleme; die neuropsychologische Testung zeigt Einbußen, die über die physiologische Abnahme ihrer Altersstufe hinausgehen, ihre Alltagsselbstständigkeit ist jedoch erhalten. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als vaskuläre Demenz, da im höheren Alter Durchblutungsstörungen dominieren.",
+        "Als physiologische, altersentsprechende Abnahme der Gedächtnisleistung.",
+        "Als schwere neurokognitive Störung aufgrund einer Alzheimer-Erkrankung.",
+        "Als Mild Cognitive Impairment bzw. leichte neurokognitive Störung."
+      ],
+      "answer": 3,
+      "explanation": "Mild Cognitive Impairment bezeichnet erworbene Zustände der Minderung von Merkfähigkeit, Aufmerksamkeit oder Denkvermögen, die zwar über die physiologische Leistungsabnahme der jeweiligen Altersstufe hinausgehen, aber nicht den Grad einer Demenz erreichen – im DSM-5 die leichte neurokognitive Störung. Für eine schwere neurokognitive Störung müsste die Unabhängigkeit in der Alltagsbewältigung beeinträchtigt sein, was hier gerade nicht der Fall ist. Eine rein physiologische Altersabnahme scheidet aus, weil die Testung darüber hinausgehende Einbußen zeigt. Und eine vaskuläre Demenz setzt kardiovaskulär bedingten kognitiven Verfall auf Demenzniveau voraus, für den hier nichts spricht."
+    },
+    {
+      "topic": "Demenzbegriff & Diagnostik",
+      "question": "Worauf beruht die Diagnose der unterschiedlichen Demenzerkrankungen nach der Vorlesung?",
+      "options": [
+        "Ausschließlich auf dem post mortem erbrachten Nachweis von Tangles und Plaques im Gewebe.",
+        "Ausschließlich auf der genetischen Testung von ApoE- und Presenilin-Varianten der Betroffenen.",
+        "Ausschließlich auf der quantitativen Bestimmung der Hirnvolumina im Vergleich zur Altersnorm.",
+        "Auf dem Zeitverlauf und den jeweiligen Leitsymptomen der Erkrankung."
+      ],
+      "answer": 3,
+      "explanation": "Die Diagnose unterschiedlicher Demenzerkrankungen wird aufgrund des Zeitverlaufs und der jeweiligen Leitsymptome gestellt; die Entwicklung der In-vivo-Biomarker aus Liquordiagnostik und Bildgebung ergänzt dies zunehmend. Ein zwingender Post-mortem-Nachweis widerspricht der klinischen Diagnosestellung zu Lebzeiten. Eine genetische Testung erfasst nur Risiko- bzw. Hochrisikogene und ersetzt die klinische Einordnung nicht. Und eine reine Volumetrie ist ebenfalls kein alleiniges Diagnosekriterium, auch wenn Atrophiemuster differenzialdiagnostisch hilfreich sind."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "question": "Welche Zuordnung der beiden histopathologischen Kennzeichen der Alzheimer-Krankheit trifft zu?",
+      "options": [
+        "Tangles bestehen aus β-Amyloid, Plaques aus hyperphosphoryliertem Tau-Protein.",
+        "Beide bestehen aus β-Amyloid und unterscheiden sich lediglich in ihrer räumlichen Ausdehnung.",
+        "Tangles bestehen aus hyperphosphoryliertem Tau-Protein, Plaques aus β-Amyloid.",
+        "Beide bestehen aus Tau-Protein, das im einen Fall phosphoryliert und im anderen gespalten vorliegt."
+      ],
+      "answer": 2,
+      "explanation": "Neurofibrilläre Tangles sind Aggregate aus hyperphosphoryliertem Tau-Protein, amyloide Plaques bestehen aus β-Amyloid – jenem Fragment, das aus dem größeren Amyloid-Precursor-Protein (APP) herausgeschnitten wird. Die umgekehrte Zuordnung vertauscht beide Proteine. Und die Annahme, beide Ablagerungen bestünden aus demselben Protein – ob β-Amyloid oder Tau –, verkennt gerade die Unterscheidung, auf der die Beschreibung der beiden Kennzeichen beruht."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "question": "Welche Rolle spielt das Tau-Protein im gesunden Neuron?",
+      "options": [
+        "Es ist mit normalen Mikrotubuli assoziiert und trägt zur strukturellen Integrität des Neurons bei.",
+        "Es ist mit gepaarten helikalen Filamenten assoziiert und stabilisiert dadurch die Zellmembran.",
+        "Es wird aus dem Amyloid-Precursor-Protein herausgeschnitten und anschließend abtransportiert.",
+        "Es reguliert die Freisetzung synaptischer Vesikel und ist am Aufbau der Synapse beteiligt."
+      ],
+      "answer": 0,
+      "explanation": "Im gesunden Neuron ist das Tau-Protein mit normalen Mikrotubuli assoziiert – ausdrücklich nicht mit gepaarten helikalen Filamenten – und trägt so zur strukturellen Integrität des Neurons bei. Eine Assoziation mit helikalen Filamenten kennzeichnet dagegen das erkrankte Neuron. Aus dem Amyloid-Precursor-Protein wird β-Amyloid herausgeschnitten, nicht Tau. Und die vermutete Beteiligung am synaptischen Aufbau wird dem APP zugeschrieben, dessen Funktion weitgehend unbekannt ist."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "hard": true,
+      "question": "Welche Kette von Ereignissen beschreibt die Vorlesung für das erkrankte Neuron?",
+      "options": [
+        "Tau wird dephosphoryliert, bindet dadurch stärker an die Mikrotubuli und versteift so das gesamte Zytoskelett des Neurons.",
+        "β-Amyloid lagert sich zunächst im Zellkern ab und veranlasst das Neuron danach zur vermehrten Produktion von Mikrotubuli.",
+        "Tau wird hyperphosphoryliert, verliert die Bindung an die Mikrotubuli, diese zerfallen, und es bilden sich helikale Filamente.",
+        "Die Mikrotubuli zerfallen zuerst, wodurch Tau frei wird, sich anschließend an β-Amyloid bindet und daraus die Plaques entstehen."
+      ],
+      "answer": 2,
+      "explanation": "Im erkrankten Neuron wird das Tau-Protein hyperphosphoryliert; als Konsequenz verliert es seine Bindung an die Mikrotubuli, die zu zerfallen beginnen, und es bildet helikale Filamente, die sich als neurofibrilläre Tangles ablegen. Ein Zerfall der Mikrotubuli als erster Schritt mit anschließender Tau-Amyloid-Bindung kehrt die Reihenfolge um und vermischt beide Pathologien. Eine Dephosphorylierung mit stärkerer Bindung beschreibt das Gegenteil der beschriebenen Hyperphosphorylierung. Und eine Amyloidablagerung im Zellkern mit vermehrter Mikrotubuli-Produktion wird nirgends beschrieben."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "question": "Welche Aussage zum Amyloid-Precursor-Protein (APP) und zu β-Amyloid trifft **NICHT** zu?",
+      "options": [
+        "β-Amyloid ist das Fragment, das aus dem größeren Amyloid-Precursor-Protein herausgeschnitten wird.",
+        "Die Funktion des APP ist vollständig geklärt; es dient nachweislich dem Abtransport von Tau-Fragmenten.",
+        "Die Funktion des APP ist weitgehend unbekannt, vermutlich ist es am synaptischen Aufbau beteiligt.",
+        "Im gesunden Gehirn werden die Fragmente zersetzt und abtransportiert, bei der Alzheimer-Krankheit sammeln sie sich an."
+      ],
+      "answer": 1,
+      "explanation": "Die Funktion des APP gilt ausdrücklich als weitgehend unbekannt, und ein Abtransport von Tau-Fragmenten wird ihm nirgends zugeschrieben – die Aussage ist damit die gesuchte, unzutreffende. Richtig sind dagegen die Beschreibung von β-Amyloid als aus dem APP herausgeschnittenem Fragment, die vermutete Beteiligung des APP am synaptischen Aufbau sowie der Unterschied zwischen gesundem Gehirn, in dem die Fragmente zersetzt und abtransportiert werden, und der Alzheimer-Krankheit, bei der sie sich gehäuft ansammeln."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "trap": "Tangles liegen intrazellulär im Zellkörper und Axon, Plaques dagegen extrazellulär im Neuropil.",
+      "question": "Wo finden sich Tangles und Plaques im Gewebe des Alzheimer-Gehirns?",
+      "options": [
+        "Beide ausschließlich innerhalb der Neurone, wobei Plaques an die Zellmembran gebunden bleiben.",
+        "Beide ausschließlich in den Wänden der Hirngefäße, weshalb sie die Durchblutung unmittelbar drosseln.",
+        "Tangles im Neuropil zwischen den Zellen, Plaques ausschließlich im Zellkörper der Neurone.",
+        "Tangles im Zellkörper und im Axon, Plaques im Neuropil (Nervengeflecht)."
+      ],
+      "answer": 3,
+      "explanation": "Neurone mit neurofibrillären Tangles zeigen Bündel aus helikalen Filamenten im Zellkörper und im Axon, während sich amyloide Plaques im Neuropil, dem Nervengeflecht, finden – ein Plaque kann dabei einen angeschwollenen Dendriten umhüllen. Die vertauschte Zuordnung widerspricht dem. Eine Lokalisation beider Ablagerungen ausschließlich innerhalb der Neurone übersieht die extrazelluläre Lage der Plaques. Und eine Beschränkung auf Gefäßwände mit unmittelbarer Durchblutungsdrosselung beschreibt keinen der beiden Befunde – Durchblutungsstörungen sind das Thema der vaskulären Demenz."
+    },
+    {
+      "topic": "Tangles & Plaques",
+      "hard": true,
+      "question": "In welchen Regionen zeigt sich einer der Hauptbefunde der Alzheimer-Krankheit, die deutliche Anhäufung von Amyloid-Plaques?",
+      "options": [
+        "Im primär-motorischen Kortex und in den Basalganglien, insbesondere im Putamen beider Hemisphären.",
+        "Im orbitofrontalen Kortex und in der anterioren Insula, bei ausgesparten temporalen Arealen.",
+        "Im Kleinhirn und im Hirnstamm, von wo aus sich die Ablagerungen nach rostral ausbreiten.",
+        "Im posterioren zingulären Kortex und im mittleren temporalen Kortex."
+      ],
+      "answer": 3,
+      "explanation": "Einer der Hauptbefunde ist die deutliche Anhäufung von Amyloid-Plaques im posterioren zingulären Kortex (PCC) und im mittleren temporalen Kortex mit der Hippocampusformation. Der PCC ist dabei ein Hochassoziationsareal, das Informationen aus fast allen Hirnregionen integriert, und Teil des Default Mode Netzwerks. Motorischer Kortex und Putamen gehören nicht zu den bevorzugten Ablagerungsorten. Kleinhirn und Hirnstamm als Ausgangspunkt beschreiben keinen der genannten Befunde. Und eine Aussparung temporaler Areale widerspricht der Beteiligung der Hippocampusformation unmittelbar."
+    },
+    {
+      "topic": "Struktureller Kern & DMN",
+      "question": "Was zeigten die Konnektivitätsanalysen zum „strukturellen Kern“ des Kortex?",
+      "options": [
+        "Die Faserbahnen verbanden ausschließlich benachbarte Areale, sodass sich keine zentralen Knotenpunkte abzeichneten.",
+        "Die Hauptknotenpunkte mit der höchsten Zentralität lagen im posterioren medialen Kortex (PCC).",
+        "Die Hauptknotenpunkte lagen im primär-sensorischen Kortex, der die meisten Verbindungen zum übrigen Gehirn unterhält.",
+        "Die Zentralität war über alle kortikalen Regionen hinweg gleich verteilt, ohne bevorzugte Hauptknotenpunkte."
+      ],
+      "answer": 1,
+      "explanation": "Die Analysen zeigen stark verbundene Bereiche hoher Zentralität, deren Hauptknotenpunkte im Bereich des posterioren medialen Kortex (PCC) lagen – dieser Region kommen also die meisten Verbindungen zum Rest des Gehirns zu; sie ist zugleich in Ruhebedingungen hochaktiv, Teil des DMN und zeigt bei der Alzheimer-Krankheit deutliche Amyloidablagerungen. Der primär-sensorische Kortex ist gerade nicht dieser Hauptknotenpunkt. Dass nur benachbarte Areale verbunden wären, widerspricht dem dichten Netzwerk aus Faserbahnen, das alle Regionen des Kortex verbindet. Und eine gleichverteilte Zentralität würde den Befund eines strukturellen Kerns aufheben."
+    },
+    {
+      "topic": "Struktureller Kern & DMN",
+      "hard": true,
+      "question": "Wie erklärt die Metabolismushypothese von Buckner und Kollegen die bevorzugten Ablagerungen im DMN?",
+      "options": [
+        "Die DMN-Regionen sind besonders schwach durchblutet, sodass Abbauprodukte dort nur langsam abtransportiert werden.",
+        "Die DMN-Regionen sind während der Aufgabenbearbeitung besonders aktiv und verbrauchen dabei überdurchschnittlich viel Energie.",
+        "Die DMN-Regionen weisen eine hohe, lebenslang andauernde Plastizität und Stoffwechselaktivität auf.",
+        "Die DMN-Regionen enthalten besonders viele Mikrogliazellen, die das β-Amyloid aktiv in den Gewebespalten anreichern."
+      ],
+      "answer": 2,
+      "explanation": "Nach Buckner und Kollegen (2008) weisen die DMN-Regionen einschließlich Hippocampus und Parahippocampus eine hohe, lebenslang andauernde Plastizität auf, die mit einer hohen und andauernden Stoffwechselaktivität verbunden ist – und gerade Letztere macht sie für Plaqueablagerungen besonders vulnerabel. Eine schwache Durchblutung mit verlangsamtem Abtransport ist nicht die genannte Erklärung. Eine besondere Aktivität während der Aufgabenbearbeitung kehrt das Kennzeichen des DMN um, das gerade in Ruhebedingungen hochaktiv ist. Und eine aktive Anreicherung durch Mikroglia wird in dieser Hypothese nicht behauptet."
+    },
+    {
+      "topic": "Struktureller Kern & DMN",
+      "question": "Was ließ sich 2004 erstmals mit dem Radiotracer Pittsburgh Compound B (PiB) nachweisen?",
+      "options": [
+        "Dass die Amyloidablagerungen bevorzugt im primär-motorischen und im primär-visuellen Kortex auftreten.",
+        "Dass die neurofibrillären Tangles bereits vor den Amyloidplaques im Hippocampus nachweisbar sind.",
+        "Dass die Amyloidablagerungen bei allen Betroffenen gleichmäßig über den gesamten Kortex verteilt sind.",
+        "Dass die Amyloidablagerungen bevorzugt im Default Mode Netzwerk auftreten."
+      ],
+      "answer": 3,
+      "explanation": "Mit dem speziellen Radiotracer für Amyloidplaques, dem Pittsburgh Compound B, konnte 2004 erstmals nachgewiesen werden, dass diese Ablagerungen das DMN bevorzugen (Klunk et al.); inzwischen zeigen kombinierte Studien, dass sie die funktionelle Konnektivität des DMN beeinträchtigen und dass subtile Konnektivitätsstörungen sowie ein Hypometabolismus schon bei Amyloid-positiven, klinisch asymptomatischen Probanden nachweisbar sind. Motorischer und visueller Kortex sind nicht die bevorzugten Orte. Der Tracer bildet Amyloidplaques ab, nicht Tangles. Und eine gleichmäßige Verteilung über den Kortex widerspricht der nachgewiesenen Bevorzugung des DMN."
+    },
+    {
+      "topic": "Struktureller Kern & DMN",
+      "hard": true,
+      "question": "Was zeigte sich bei Alzheimerpatienten während der Bearbeitung einer kognitiven Aufgabe, etwa einer Wortklassifizierungsaufgabe?",
+      "options": [
+        "Das DMN wurde stärker unterdrückt als bei Gesunden, während parietale Regionen deutlich weniger aktiv waren.",
+        "Das DMN wurde nicht adäquat unterdrückt, zusätzlich nahm die Aktivität parietaler Regionen zu.",
+        "Das DMN zeigte ein unauffälliges Deaktivierungsmuster, allein die Reaktionszeiten waren verlängert.",
+        "Das DMN wurde durch die Aufgabe erstmals aktiviert, obwohl es bei Gesunden dabei völlig inaktiv bleibt."
+      ],
+      "answer": 1,
+      "explanation": "Während der Aufgabenbearbeitung wird das DMN bei Alzheimerpatienten nicht adäquat unterdrückt, und zusätzlich lässt sich eine Zunahme der Aktivität in parietalen Regionen beobachten; die Befunde deuten auf eine Störung der Large-Scale-Networks hin – die Hirnbereiche kommunizieren nicht mehr richtig miteinander und können ihre spezifische Rolle nicht mehr erfüllen. Eine stärkere Unterdrückung als bei Gesunden kehrt den Befund um. Ein unauffälliges Deaktivierungsmuster widerspricht ihm ebenso. Und die Behauptung, das DMN sei bei Gesunden während Aufgaben völlig inaktiv, verkennt, dass es dort geordnet deaktiviert, nicht abgeschaltet wird."
+    },
+    {
+      "topic": "Struktureller Kern & DMN",
+      "trap": "Nicht alles nimmt ab: frontal steigt die Konnektivität, parietal und okzipital sinkt sie.",
+      "question": "Welches Muster zeigten Netzwerkanalysen der regionalen Konnektivität bei Alzheimerpatienten?",
+      "options": [
+        "Eine erhöhte Synchronisation parietaler und okzipitaler Regionen bei abnehmender Konnektivität frontaler Regionen.",
+        "Eine gleichmäßige Zunahme der Konnektivität, die als erfolgreiche Kompensation der Atrophie gilt.",
+        "Eine erhöhte Synchronisation frontaler Regionen bei abnehmender Konnektivität parietal und okzipital.",
+        "Eine gleichmäßige Abnahme der Konnektivität über sämtliche kortikale Regionen des Gehirns hinweg."
+      ],
+      "answer": 2,
+      "explanation": "Die Netzwerkanalysen zeigten bei Alzheimerpatienten tatsächlich eine erhöhte Synchronisation frontaler Regionen und eine Abnahme der Konnektivität in parietalen und okzipitalen Regionen; in den Darstellungen stehen durchgezogene Linien für eine Zunahme und gestrichelte für eine Abnahme. Die vertauschte Richtung widerspricht dem Befund. Eine gleichmäßige Abnahme über alle Regionen übersieht die frontale Zunahme. Und eine gleichmäßige Zunahme als erfolgreiche Kompensation trifft weder auf das Muster noch auf dessen Deutung zu."
+    },
+    {
+      "topic": "Gedächtnis & Verlauf",
+      "transfer": true,
+      "question": "Angehörige berichten, eine 74-Jährige könne sich an Ereignisse der letzten Wochen kaum erinnern, während Wortschatz und Faktenwissen unauffällig wirken. Welche Einordnung entspricht am ehesten der Vorlesung?",
+      "options": [
+        "Schwierigkeiten im episodischen Gedächtnis gelten als typisches frühes Anzeichen einer Demenz bei Alzheimer-Krankheit.",
+        "Schwierigkeiten im semantischen Gedächtnis gelten als typisches frühes Anzeichen einer Demenz bei Alzheimer-Krankheit.",
+        "Ein solches Muster spricht für eine progressive nonfluente Aphasie mit führender Sprachproduktionsstörung.",
+        "Ein solches Muster ist unspezifisch und im Alter ohne jeden diagnostischen Hinweiswert."
+      ],
+      "answer": 0,
+      "explanation": "Besonders Schwierigkeiten im Bereich des episodischen Gedächtnisses gelten als typisches frühes Anzeichen einer Demenz bei Alzheimer-Krankheit; diese Funktion wird über kortikale Netzwerke aufrechterhalten, die neben dem medialen Temporallappen weite Teile des DMN umfassen. Das semantische Gedächtnis – Wortschatz und Faktenwissen – ist hier gerade unauffällig und steht eher bei der semantischen Demenz im Vordergrund. Eine progressive nonfluente Aphasie wäre durch eine Sprachproduktionsstörung gekennzeichnet, die nicht berichtet wird. Und unspezifisch ist das Muster keineswegs – es ist der typische Frühbefund."
+    },
+    {
+      "topic": "Gedächtnis & Verlauf",
+      "hard": true,
+      "trap": "Mehr Aktivierung heißt hier nicht bessere Funktion – im Prodromalstadium ist sie Ausdruck von Überkompensation.",
+      "question": "Wie unterscheiden sich Prodromalpatienten bzw. MCI-Patienten und Patienten mit manifester Alzheimer-Krankheit in der funktionellen Bildgebung?",
+      "options": [
+        "In beiden Gruppen bleiben die Aktivierungsmuster unauffällig, solange keine sichtbaren Gedächtnisdefizite bestehen.",
+        "Im Prodromalstadium finden sich zunächst Aktivitätszunahmen, bei manifester Erkrankung typischerweise Minderaktivierungen.",
+        "Im Prodromalstadium finden sich Minderaktivierungen, die sich bei manifester Erkrankung wieder auf Normalniveau normalisieren.",
+        "In beiden Gruppen finden sich gleichermaßen Aktivitätszunahmen, die mit dem Schweregrad linear weiter ansteigen."
+      ],
+      "answer": 1,
+      "explanation": "Bei Prodromalpatienten und MCI lassen sich zunächst Aktivitätszunahmen finden, die als Überkompensation von Fehlfunktionen einzelner Netzwerkmodule durch verstärkte Signalprozessierung gedeutet werden; bei Patienten mit Alzheimer-Krankheit bzw. schwerer neurokognitiver Störung sind in denselben Arealen typischerweise Minderaktivierungen zu finden. Die umgekehrte Reihenfolge mit anschließender Normalisierung widerspricht dem Verlauf. Ein linearer Anstieg über beide Gruppen hinweg übersieht den Umschlag ins Hypoaktive. Und unauffällige Muster ohne sichtbare Defizite widersprechen dem zentralen Punkt, dass die Abweichungen bereits vor manifesten Gedächtnisdefiziten nachweisbar sind."
+    },
+    {
+      "topic": "Gedächtnis & Verlauf",
+      "question": "Worin besteht die Hauptaufgabe des Hippocampus bei der episodischen Enkodierung?",
+      "options": [
+        "Bereits gefestigte semantische Inhalte dauerhaft im medialen Temporallappen zu speichern.",
+        "Die Aktivität des Default Mode Netzwerks während der Aufgabenbearbeitung zu unterdrücken.",
+        "Motorische Handlungsabläufe einzuschleifen und sie später automatisiert abzurufen.",
+        "Assoziationen zwischen ehemals unverbundenen Informationsinhalten zu schaffen."
+      ],
+      "answer": 3,
+      "explanation": "Die Hauptaufgabe des Hippocampus bei der episodischen Enkodierung besteht darin, Assoziationen zwischen ehemals unverbundenen Informationsinhalten zu schaffen. Die dauerhafte Speicherung gefestigter semantischer Inhalte beschreibt eine andere Gedächtnisform und nicht diese Enkodierungsleistung. Die Unterdrückung des DMN während Aufgaben ist ein Netzwerkphänomen, keine Hippocampusfunktion. Und das Einschleifen motorischer Abläufe gehört zum prozeduralen Gedächtnis, das hier nicht gemeint ist."
+    },
+    {
+      "topic": "Gedächtnis & Verlauf",
+      "question": "Welcher Befund zur Hirnatrophie im Verlauf von drei Jahren wird für einen Patienten mit Demenz berichtet?",
+      "options": [
+        "Ein besonders deutlicher Verlust grauer Substanz im Kleinhirn und in den okzipitalen Sehrindenarealen.",
+        "Eine Zunahme der grauen Substanz im Hippocampus als Ausdruck erfolgreicher kognitiver Kompensation.",
+        "Ein besonders deutlicher Verlust grauer Substanz im linken Hippocampus und in der linken Insula.",
+        "Ein Substanzverlust, der ausschließlich das Marklager betrifft und die graue Substanz vollständig ausspart."
+      ],
+      "answer": 2,
+      "explanation": "Im dargestellten Verlauf über drei Jahre ist besonders der Verlust grauer Substanz im Bereich des linken Hippocampus und der linken Insula zu erkennen. Kleinhirn und okzipitale Sehrinde sind nicht die hervorgehobenen Regionen. Eine Zunahme grauer Substanz widerspricht der progredienten Neurodegeneration. Und ein Verlust ausschließlich im Marklager trifft nicht zu – Schädigungen der weißen Substanz sind zwar ebenfalls häufig, treten aber unabhängig von der Schädigung der grauen Substanz auf."
+    },
+    {
+      "topic": "Demenzformen & Netzwerke",
+      "transfer": true,
+      "question": "In einer Gedächtnissprechstunde werden bei drei Patienten unterschiedliche, jeweils charakteristische Atrophiemuster gefunden. Wozu lassen sich solche Muster nach der Vorlesung nutzen?",
+      "options": [
+        "Zur Differenzialdiagnose zwischen verschiedenen Demenzformen wie Alzheimer-Demenz, bvFTD, semantischer Demenz oder kortikobasalem Syndrom.",
+        "Zur Unterscheidung von Demenz und Delir, da nur das Delir mit umschriebenen Atrophiemustern einhergeht.",
+        "Zur sicheren Vorhersage des exakten Erkrankungsbeginns, da das Ausmaß der Atrophie unmittelbar das Alter bei der Erstmanifestation bestimmt.",
+        "Zur alleinigen Bestimmung des ApoE-Genotyps, weil jede Atrophieform genau einer Genvariante entspricht."
+      ],
+      "answer": 0,
+      "explanation": "Die Atrophiemuster verschiedener Demenzformen – Alzheimer-Demenz, behaviorale frontotemporale Demenz, semantische Demenz, progressive nonfluente Aphasie und kortikobasales Syndrom – sind charakteristisch verschieden und eignen sich unter anderem zur Differenzialdiagnose; sie überlagern sich zudem mit den veränderten Konnektivitätsmustern. Eine exakte Vorhersage des Erkrankungsbeginns aus dem Atrophieausmaß wird nicht behauptet. Eine Eins-zu-eins-Zuordnung von Atrophieform und ApoE-Genotyp gibt es nicht; ApoE4 ist ein Risikofaktor, kein Muster. Und das Delir ist gerade nicht durch umschriebene Atrophiemuster gekennzeichnet."
+    },
+    {
+      "topic": "Demenzformen & Netzwerke",
+      "hard": true,
+      "question": "Welche Netzwerke sind vom progredienten Substanzabbau bei Alzheimerpatienten am deutlichsten betroffen?",
+      "options": [
+        "Vor allem die Netzwerke des Hirnstamms, von denen aus sich der Abbau nach kortikal ausbreitet.",
+        "Ausschließlich das Default Mode Netzwerk, während die übrigen Hauptnetzwerke vollständig verschont bleiben.",
+        "Das Default Mode Netzwerk, das frontoparietale Netzwerk und das Salienznetzwerk.",
+        "Vor allem die primär-sensomotorischen Netzwerke, während Assoziationsnetzwerke weitgehend intakt bleiben."
+      ],
+      "answer": 2,
+      "explanation": "Alzheimerpatienten zeigen einen progredienten Substanzabbau über das ganze Gehirn, am deutlichsten jedoch im Bereich des Default Mode Netzwerks, des frontoparietalen Netzwerks und des Salienznetzwerks. Eine Beschränkung allein auf das DMN übersieht die beiden anderen Netzwerke. Primär-sensomotorische Netzwerke stehen gerade nicht im Vordergrund, betroffen sind vor allem Assoziationsareale. Und ein vom Hirnstamm ausgehender Abbau beschreibt nicht das dargestellte Muster."
+    },
+    {
+      "topic": "Genetik & Risikogruppen",
+      "trap": "ApoE4 erhöht das Risiko deutlich, ist aber ein Risikogen – anders als die Presenilin-Mutation kein sicherer Krankheitsauslöser.",
+      "question": "Welche Aussage zum Apolipoprotein-E-Gen trifft am ehesten zu?",
+      "options": [
+        "Es kommt in drei Varianten vor; ε4-Homozygote tragen ein bis zu zehnfach höheres Lebenszeitrisiko als ε3-Homozygote.",
+        "Es kommt in drei Varianten vor, von denen die ε2-Variante mit dem höchsten Erkrankungsrisiko für Alzheimer verbunden ist.",
+        "Es beeinflusst allein den Zeitpunkt der Erstmanifestation, nicht aber die Wahrscheinlichkeit einer Erkrankung.",
+        "Es führt wie die E280A-Presenilin-1-Mutation zu einem unbedingten Ausbruch der Erkrankung im mittleren Lebensalter."
+      ],
+      "answer": 0,
+      "explanation": "Das Apolipoprotein-E-Gen kommt im Menschen in drei Varianten vor (ε2, ε3 und ε4); ε4 ist mit einem erhöhten Erkrankungsrisiko verbunden, und homozygote 4/4-Träger weisen ein bis zu zehnfach höheres Lebenszeitrisiko auf als homozygote 3/3-Träger. Nicht ε2, sondern ε4 ist die Risikovariante. Ein unbedingter Krankheitsausbruch kennzeichnet die E280A-Presenilin-1-Mutation, nicht das ApoE-Risikogen. Und ApoE4 verändert die Erkrankungswahrscheinlichkeit selbst, nicht bloß den Manifestationszeitpunkt."
+    },
+    {
+      "topic": "Genetik & Risikogruppen",
+      "question": "Über welchen Mechanismus wird die Risikoerhöhung durch die ApoE4-Isoform erklärt?",
+      "options": [
+        "Apolipoprotein E ist in Clearance-Mechanismen zum Abbau von β-Amyloid eingebunden; ApoE4 hat dabei die ungünstigsten Eigenschaften.",
+        "Apolipoprotein E bildet den Grundbaustein der senilen Plaques, die bei ApoE4-Trägern unmittelbar aus dem Genprodukt entstehen.",
+        "Apolipoprotein E reguliert die Durchblutung des Marklagers; die ApoE4-Isoform führt dort zu einer chronischen Hypoperfusion.",
+        "Apolipoprotein E phosphoryliert das Tau-Protein; die ApoE4-Isoform tut dies besonders stark und erzeugt so vermehrt Tangles."
+      ],
+      "answer": 0,
+      "explanation": "Apolipoprotein E ist Bestandteil bestimmter Lipoproteine und in Clearance-Mechanismen eingebunden, die dem Abbau von β-Amyloid-Ablagerungen dienen; die ApoE4-Isoform hat dabei die ungünstigsten Eigenschaften und steht mit einer stärkeren Ausbildung amyloider Plaques in Verbindung. Eine Phosphorylierung des Tau-Proteins durch ApoE wird nicht beschrieben – Plaques und Tangles sind verschiedene Pathologien. Grundbaustein der Plaques ist β-Amyloid, nicht Apolipoprotein E selbst. Und eine chronische Hypoperfusion des Marklagers gehört zur vaskulären Demenz, nicht zum ApoE-Mechanismus."
+    },
+    {
+      "topic": "Genetik & Risikogruppen",
+      "question": "Welcher Befund zeigte sich bei gesunden erwachsenen ApoE4-Trägern in einer Aufgabe zur Routenkodierung?",
+      "options": [
+        "Ein vollständiger Ausfall der Enkodierungsleistung, sodass keine Umgebungen wiedererkannt wurden.",
+        "Stärkere aufgabenbezogene Aktivierungen in ventralen visuellen Verarbeitungswegen während der Kodierungsphase.",
+        "Vollständig unauffällige Aktivierungsmuster, weil sich der Genotyp erst nach Krankheitsbeginn auswirkt.",
+        "Geringere aufgabenbezogene Aktivierungen in ventralen visuellen Verarbeitungswegen während der Kodierungsphase."
+      ],
+      "answer": 3,
+      "explanation": "In der Aufgabe, in der sich die Probanden Umgebungen aus Straßen- oder Kartenperspektive einprägen und später wiedererkennen sollten, wiesen ApoE4-Träger während der Kodierungsphase geringere aufgabenbezogene Aktivierungen in ventralen visuellen Verarbeitungswegen auf. Eine stärkere Aktivierung beschreibt den umgekehrten Befund – die Mehraktivierung als Kompensation zeigte sich bei den Presenilin-Mutationsträgern. Unauffällige Muster widersprechen dem Kernpunkt, dass der Genotyp auch bei Gesunden mit veränderten Hirnfunktionen einhergeht. Und ein vollständiger Leistungsausfall wird nicht berichtet."
+    },
+    {
+      "topic": "Genetik & Risikogruppen",
+      "hard": true,
+      "question": "Welcher Befund zeigte sich bei jungen, kognitiv gesunden Trägern der E280A-Presenilin-1-Genmutation?",
+      "options": [
+        "Geringere Aktivierungen im rechten anterioren Hippocampus, begleitet von deutlich schlechteren Gedächtnisleistungen.",
+        "Höhere Aktivierungen im rechten anterioren Hippocampus beim Enkodieren von Gesichter-Name-Assoziationen.",
+        "Höhere Aktivierungen im primär-visuellen Kortex, die als Ausdruck einer gesteigerten Reizverarbeitung gelten.",
+        "Unauffällige Aktivierungen, da sich Unterschiede erst nach dem klinischen Krankheitsbeginn zeigen lassen."
+      ],
+      "answer": 1,
+      "explanation": "Träger der E280A-Presenilin-1-Mutation, die zu einer familiären Alzheimer-Demenz mit frühem Beginn und einem unbedingten Krankheitsausbruch führt, zeigten während der Enkodierung von Gesichter-Name-Assoziationen höhere Aktivierungen im rechten anterioren Hippocampus; das wird als Kompensationsmechanismus gedeutet – sie müssen mehr Ressourcen aktivieren, um eine mit der Vergleichsgruppe vergleichbare Leistung zu erreichen. Geringere Aktivierungen mit schlechterer Leistung widersprechen sowohl dem Befund als auch der vergleichbaren Leistung. Unauffällige Muster stehen im Widerspruch dazu, dass sich die Befunde bereits Jahre vor Krankheitsausbruch zeigen. Und der primär-visuelle Kortex war nicht die berichtete Region."
+    },
+    {
+      "topic": "Genetik & Risikogruppen",
+      "transfer": true,
+      "question": "Eine Arbeitsgruppe findet bei klinisch völlig unauffälligen Risikogenträgern veränderte Aktivierungsmuster. Wie ist dieser Befundtyp nach der Vorlesung am ehesten einzuordnen?",
+      "options": [
+        "Als Endophänotyp – funktionelle Veränderungen sind bereits lange vor dem klinischen Beginn nachweisbar.",
+        "Als Nachweis, dass allein die neuropsychologischen Verhaltensleistungen die Hirnaktivität bestimmen.",
+        "Als Messartefakt, da funktionelle Auffälligkeiten ohne Symptome methodisch nicht interpretierbar sind.",
+        "Als Beleg dafür, dass die Erkrankung bei diesen Personen bereits klinisch manifest geworden ist."
+      ],
+      "answer": 0,
+      "explanation": "Die Studien an Hochrisikogruppen zeigen, dass nicht nur neuropsychologische Verhaltensleistungen, sondern auch genetische Faktoren die Hirnaktivität beeinflussen können, und dass funktionelle Veränderungen bereits lange vor dem klinischen Beginn einer Demenz bei Alzheimer-Krankheit im Sinne eines Endophänotyps nachweisbar sind. Ein Messartefakt widerspricht der konsistenten Befundlage in mehreren Hochrisikogruppen. Eine bereits manifeste Erkrankung ist ausgeschlossen, da die Personen klinisch unauffällig sind. Und dass allein die Verhaltensleistungen die Hirnaktivität bestimmten, verkehrt die Aussage ins Gegenteil – gerade der genetische Einfluss wird betont."
+    },
+    {
+      "topic": "Weiße Substanz & Biomarker",
+      "question": "Welche Aussage zu Schädigungen der weißen Substanz bei Alzheimer-Demenz trifft **NICHT** zu?",
+      "options": [
+        "Schädigungen der weißen Substanz sind eine häufige Beobachtung bei Patienten mit Alzheimer-Demenz.",
+        "Sie treten stets erst als Folge des Untergangs grauer Substanz auf und sind ohne diesen nicht nachweisbar.",
+        "Assoziationen zwischen Substanzverlust und ApoE4-Status zeigen sich in Querschnittsstudien nur inkonsistent.",
+        "Dominant sind dabei Veränderungen im parietalen und im temporalen Marklager."
+      ],
+      "answer": 1,
+      "explanation": "Die Schädigungen der weißen Substanz können ausdrücklich unabhängig von der Schädigung der grauen Substanz auftreten – die Behauptung einer zwingenden Abhängigkeit ist damit die gesuchte, unzutreffende Aussage. Zutreffend sind dagegen ihre Häufigkeit bei Alzheimer-Demenz, die dominanten Veränderungen im parietalen und temporalen Marklager sowie der Umstand, dass sich Assoziationen zum ApoE4-Status in Querschnittsstudien nur inkonsistent zeigen und erst im Längsschnitt deutlicher werden sollten."
+    },
+    {
+      "topic": "Weiße Substanz & Biomarker",
+      "hard": true,
+      "trap": "Der Zusammenhang wurde erst über die Zeit sichtbar – in der Einzelmessung zeigte sich keiner.",
+      "question": "Was ergab die DTI-Untersuchung der fraktionellen Anisotropie (FA) bei klinisch unauffälligen, genotypisierten Probanden mit PET-bestimmter β-Amyloid-Last?",
+      "options": [
+        "Auch über zwei Messzeitpunkte hinweg ließ sich keinerlei Zusammenhang mit der β-Amyloid-Last nachweisen.",
+        "Der Zusammenhang bestand ausschließlich im primär-motorischen Marklager und war an den Verlust grauer Substanz gekoppelt.",
+        "Ein Zusammenhang zwischen β-Amyloid-Last und FA zeigte sich über die Zeit in parahippocampal-zingulären Bereichen.",
+        "Ein Zusammenhang zwischen β-Amyloid-Last und FA zeigte sich bereits eindeutig in der ersten Einzelmessung."
+      ],
+      "answer": 2,
+      "explanation": "Die FA wurde zweimal im Abstand von etwa 2,6 Jahren bestimmt; ein Zusammenhang zwischen β-Amyloid-Last und FA zeigte sich über die Zeit in parahippocampal-zingulären Bereichen. Bezog man nur die erste Messung ein, ergab sich dagegen kein Zusammenhang – die Behauptung eines bereits eindeutigen Querschnittsbefunds ist daher falsch, ebenso wie die Aussage, es habe sich auch längsschnittlich nichts gezeigt. Und die Region war nicht das primär-motorische Marklager; zudem scheinen Akkumulation kortikalen β-Amyloids und Veränderungen der weißen Substanz unabhängig von Veränderungen der grauen Substanz zu sein, was sie als potenziellen Biomarker interessant macht."
+    },
+    {
+      "topic": "Vaskuläre Demenz",
+      "transfer": true,
+      "question": "Ein 68-Jähriger mit Bluthochdruck, Diabetes, Übergewicht und langjährigem Nikotinkonsum entwickelt einen schrittweisen kognitiven Abbau. An welche Form ist nach der Vorlesung am ehesten zu denken?",
+      "options": [
+        "An ein kortikobasales Syndrom, das typischerweise durch metabolische Risikofaktoren ausgelöst wird.",
+        "An eine vaskuläre neurokognitive Störung auf dem Boden zerebraler Durchblutungsstörungen.",
+        "An eine semantische Demenz, da die genannten Faktoren vor allem den Temporalpol schädigen.",
+        "An eine familiäre Alzheimer-Demenz mit frühem Beginn aufgrund einer Presenilin-1-Mutation."
+      ],
+      "answer": 1,
+      "explanation": "Die vaskuläre Demenz ist definiert als neurodegenerative Erkrankung mit kognitivem Verfall, die auf kardiovaskuläre Faktoren zurückzuführen ist; ursächlich sind Durchblutungsstörungen des Gehirns, und zu den Risikofaktoren zählen Übergewicht, Rauchen, Bluthochdruck, Herzerkrankungen, Diabetes und Bewegungsmangel – genau dieses Profil liegt hier vor. Die semantische Demenz ist nicht durch kardiovaskuläre Risikofaktoren definiert. Eine familiäre Alzheimer-Demenz beruht auf einer Genmutation mit frühem Beginn, nicht auf dem Risikoprofil. Und das kortikobasale Syndrom wird nicht durch metabolische Risikofaktoren ausgelöst."
+    },
+    {
+      "topic": "Vaskuläre Demenz",
+      "question": "Welche Folge einer chronisch-zerebralen Hypoperfusion wird in der Vorlesung **NICHT** genannt?",
+      "options": [
+        "Eine vermehrte Bildung von Myelin, die die Leitgeschwindigkeit im Marklager dauerhaft erhöht.",
+        "Störungen im Neurotransmittersystem und eine mitochondriale Dysfunktion.",
+        "Oxidativer Stress und Neuroinflammation als Teil einer Kette gestörter homöostatischer Interaktionen.",
+        "Veränderungen im Lipidmetabolismus und in den Wachstumsfaktoren."
+      ],
+      "answer": 0,
+      "explanation": "Eine vermehrte Myelinbildung mit erhöhter Leitgeschwindigkeit gehört nicht zu den beschriebenen Folgen und ist damit die gesuchte Aussage – die Kaskade mündet im Gegenteil in neuronale Schäden, Marklagerläsionen, Gliaaktivierung und eine Störung der Blut-Hirn-Schranke. Zutreffend genannt werden dagegen oxidativer Stress und Neuroinflammation, Störungen im Neurotransmittersystem und mitochondriale Dysfunktion sowie Veränderungen im Lipidmetabolismus und in den Wachstumsfaktoren; zahlreiche Studien zeigen zudem einen Zusammenhang der Hypoperfusion mit Beginn und Verlauf der vaskulären Demenz."
+    },
+    {
+      "topic": "Vaskuläre Demenz",
+      "transfer": true,
+      "question": "Zwei Bildgebungsbefunde werden verglichen: Bei einer Patientin zeigen sich Infarkte im Marklager, bei einer zweiten eine charakteristische Degeneration der grauen Substanz. Welche Zuordnung ist am ehesten zutreffend?",
+      "options": [
+        "Beide Befunde erlauben keinerlei Zuordnung, da bildgebende Verfahren bei Demenzen grundsätzlich unspezifisch sind.",
+        "Die Infarkte im Marklager sprechen für eine vaskuläre Demenz, die Degeneration grauer Substanz für eine Alzheimer-Demenz.",
+        "Beide Befunde sind gleichbedeutend, weil jede Demenzform am Ende dasselbe Schädigungsmuster hervorbringt.",
+        "Die Infarkte im Marklager sprechen für eine Alzheimer-Demenz, die Degeneration grauer Substanz für eine vaskuläre Demenz."
+      ],
+      "answer": 1,
+      "explanation": "In den Einzelfalldarstellungen zeigt die vaskuläre Demenz Infarkte im Marklager, während für die Alzheimer-Demenz die charakteristische Degeneration der grauen Substanz kennzeichnend ist. Die vertauschte Zuordnung widerspricht dem unmittelbar. Dass beide Formen dasselbe Schädigungsmuster hervorbrächten, verkennt genau diesen Unterschied. Und eine grundsätzliche Unspezifität der Bildgebung steht im Widerspruch dazu, dass sich die Atrophie- und Läsionsmuster ausdrücklich zur Differenzialdiagnose eignen."
+    }
+  ]
+}
