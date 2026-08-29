@@ -710,6 +710,13 @@
       "title": "Demenzen I – Alzheimer, Tangles & Plaques, DMN und Risikogene",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen I: Demenzbegriff und MCI, neurofibrilläre Tangles und Amyloid-Plaques, Tau und Mikrotubuli, struktureller Kern des Kortex und Default Mode Netzwerk, Hypometabolismus und Konnektivitätsstörungen, episodisches Gedächtnis und Hippocampus, Atrophiemuster zur Differenzialdiagnose, ApoE4 und Presenilin-1 als Risikogene, weiße Substanz als Biomarker sowie vaskuläre Demenz. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kan-uebungsquiz",
+      "file": "kan-uebungsquiz.json",
+      "title": "Übungsquiz",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "1:1-Übernahme der eindeutig gelösten Single-Choice-Fragen aus der Neuro-Altklausur-/Fragenpool-Referenz – Original-Wortlaut von Frage und Antwortoptionen, jede Frage nur einmal. Kein generierter Fragetext; die Erklärung nennt jeweils den Referenzeintrag und die dort markierte Lösung."
     }
   ]
 }

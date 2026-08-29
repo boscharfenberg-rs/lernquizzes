@@ -1,0 +1,645 @@
+{
+  "id": "kan-uebungsquiz",
+  "title": "Übungsquiz",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "1:1-Übernahme der eindeutig gelösten Single-Choice-Fragen aus der Neuro-Altklausur-/Fragenpool-Referenz – Original-Wortlaut von Frage und Antwortoptionen, jede Frage nur einmal. Kein generierter Fragetext; die Erklärung nennt jeweils den Referenzeintrag und die dort markierte Lösung.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Einführung & Analyseebenen",
+      "question": "Wie viele Neurone gibt es ungefähr im menschlichen Gehirn?",
+      "options": [
+        "86 000 000 000 000",
+        "86 000",
+        "86 000 000 000",
+        "86 000 000"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-01-04 (Quelle A#4, Frequenz ★★). Im Original ist „86 000 000 000\" als richtige Antwort markiert (Lehrbuch S. 846); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Zellen & Neurotransmitter",
+      "question": "Welche der folgenden Zellarten ist ausschließlich im zentralen Nervensystem zu finden?",
+      "options": [
+        "Schwan- Zellen",
+        "Satellitenzellen",
+        "Mikrogliazellen",
+        "Neuronen"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-02-02 (Quelle A#10, Frequenz ★★). Im Original ist „Mikrogliazellen\" als richtige Antwort markiert (Lehrbuch S. 48); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Zellen & Neurotransmitter",
+      "question": "Welche der folgenden Zellarten ist an der Bildung der Blut-Hirn-Schranke beteiligt?",
+      "options": [
+        "Mikroglia",
+        "Astrozyten",
+        "Schwann-Zellen",
+        "Oligodendrozyten"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-02-03 (Quelle A#11, Frequenz ★★). Im Original ist „Astrozyten\" als richtige Antwort markiert (Lehrbuch S. 48); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Zellen & Neurotransmitter",
+      "question": "Welche der folgenden Zellarten ist für die Myelinisierung von Axonen im zentralen Nervensystem (ZNS) verantwortlich?",
+      "options": [
+        "Astrozyten",
+        "Oligodendrozyten",
+        "Mikroglia",
+        "Schwann-Zellen"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-02-04 (Quelle A#12, Frequenz ★★★). Im Original ist „Oligodendrozyten\" als richtige Antwort markiert (Lehrbuch S. 52); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Zellen & Neurotransmitter",
+      "question": "Aufgrund empirischer Befunde wurden 4 Kriterien festgelegt, die bestimmen ab wann eine Substanz als Neurotransmitter bezeichnet werden kann. Welches der unten genannten Beispiele entspricht nicht einem der vier Kriterien?",
+      "options": [
+        "Ein Neurotransmitter wird im präsynaptischen Neuron synthetisiert",
+        "Ein Neurotransmitter wird im postsynaptischen Neuron metabolisiert",
+        "Ein Neurotransmitter wird im präsynaptischen Neuron gespeichert vom postsynaptischen Neuron freigesetzt und führt zu einer spezifischen Reaktion am Effektorgan",
+        "Im Vergleich zu endogener Wirkung löst ein Neurotransmitter bei exogener Anwendung im Experiment, eine gegenteilige Reaktion am postsynaptischen Neuron aus"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-02-06 (Quelle A#14, Frequenz ★★★★★). Im Original ist „Ein Neurotransmitter wird im präsynaptischen Neuron gespeichert vom postsynaptischen Neuron freigesetzt und führt zu einer spezifischen Reaktion am Effektorgan\" als richtige Antwort markiert (Lehrbuch S. 72); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Der Nervus terminalis innerviert ein kleines Organ, dem ganz spezifische Eigenschaften nachgewiesen werden. Wie heißt dieses Organ und welche Eigenschaften werden ihm zugesprochen?",
+      "options": [
+        "Es handelt sich um Vomeronasalorgan, das mit der Verarbeitung von Pheromonen in Verbindung gebracht wird",
+        "Es handelt sich um das Septum pellueideum, dass mit der Verarbeitung von Pheromonen in Verbindung gebracht wird",
+        "Es handelt sich um das Vomeronasalorgan, das in die Verarbeitung von chemischen Gefahrensignalen eingebunden ist und im Gegensatz zum Riechepithel keine Habituation aufweist",
+        "Es handelt sich um das Septum pelluciudum, dessen Neurone in der Riechschleimhaut regenerieren können"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-03-01 (Quelle A#17, Frequenz ★★★). Im Original ist „Es handelt sich um Vomeronasalorgan, das mit der Verarbeitung von Pheromonen in Verbindung gebracht wird\" als richtige Antwort markiert (Lehrbuch S. 88); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Sowohl der Bulbus ofactorius als auch der Nervus opticus zählen zu den Hirnnerven, obwohl sie im engeren Sinne keine Hirnnerven sind? Warum ist das so?",
+      "options": [
+        "Der Bulbus olfactorius und der Nervus opticus weisen im Gegensatz zu den anderen Hirnnerven spezifische Gliazellen auf, die nur in der der Peripherie vorkomen",
+        "Der Bulbus olfactorius und der Nervus Opticus verlassen das Gehirn nicht, sondern sind Ausstülpungen des Großhirns bzw. des Zwischenhirns. Beide weisen nur ZNS spezifische Zellen auf",
+        "Der Bulbus olfactorius und der Nervus opticus treten erst unterhalb der Schädelbasis in das Gehirn ein",
+        "Der Bulbus olfactorius und der Nervus opticus verlassen das Gehirn bereits oberhalb der Schädelbasis"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-03-02 (Quelle A#18, Frequenz ★★★★). Im Original ist „Der Bulbus olfactorius und der Nervus Opticus verlassen das Gehirn nicht, sondern sind Ausstülpungen des Großhirns bzw. des Zwischenhirns. Beide weisen nur ZNS spezifische Zellen auf\" als richtige Antwort markiert (Lehrbuch S. 74/79); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Der nervus opticus zählt zu den Hirnnerven obwohl er im engeren Sinne kein Hirnnerv ist, sondern ein vorgestülpter Teil des:",
+      "options": [
+        "Mittelhirns",
+        "Zwischenhirns",
+        "Hirnstamms",
+        "Großhirns"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-03-03 (Quelle A#19, Frequenz ★★★). Im Original ist „Zwischenhirns\" als richtige Antwort markiert (Lehrbuch S. 79); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Welche Struktur wird dem dopaminergen Belohnungssystem zugeordnet?",
+      "options": [
+        "Nucleus accumbens",
+        "Fasciculus arcuatus",
+        "Fasciculus aberrans",
+        "Gyrus angularis"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-03-06 (Quelle A#23, Frequenz ★★★★★). Im Original ist „Nucleus accumbens\" als richtige Antwort markiert (Lehrbuch S. 14/471); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Der dorsomediale präfrontale Kortex befindet sich …?",
+      "options": [
+        "An der oberen Außenseite des vorderen Frontallappens",
+        "An der oberen Innenseite des vorderen Frontallappens",
+        "An der unteren Innenseite des vorderen Frontallappens",
+        "An der unteren Außenseite des vorderen Frontallappens"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-03-07 (Quelle A#25, E#8, Frequenz ★★★★★). Im Original ist „An der oberen Innenseite des vorderen Frontallappens\" als richtige Antwort markiert (Lehrbuch S. 61/62); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Der ventromediale präfrontale Kortex befindet sich…?",
+      "options": [
+        "An der oberen Außenseite des vorderen Frontallappens",
+        "An der oberen Innenseite des vorderen Frontallappens",
+        "An der unteren Außenseite des vorderen Frontallappens",
+        "An der unteren Innenseite des vorderen Frontallappens"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-03-08 (Quelle A#26, Frequenz ★★★★★). Im Original ist „An der unteren Innenseite des vorderen Frontallappens\" als richtige Antwort markiert (Lehrbuch S. 61/62); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Der ventrolaterale präfrontale Kortex befindet sich…?",
+      "options": [
+        "An der oberen Innenseite des vorderen Frontallappens",
+        "An der oberen Außenseite des vorderen Frontallappens",
+        "An der unteren Außenseite des vorderen Frontallappens",
+        "An der oberen Innenseite des vorderen Frontallappens"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-03-09 (Quelle A#27, Frequenz ★★★★★). Im Original ist „An der unteren Außenseite des vorderen Frontallappens\" als richtige Antwort markiert (Lehrbuch S. 61/62); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Bis heute gibt es keine allgemein anerkannte Definition wodurch sich ein Hirnareal auszeichnet. Die meisten Konzepte gehen jedoch von drei Eigenschaften aus? Welche sind das?",
+      "options": [
+        "heterogene Konnektivität, anatomische Flexibilität, unterscheidbare Funktionalität",
+        "funktionelle Diversität, geringe Konnektivität, anatomische Unterscheidbarkeit",
+        "vergleichbare Anatomie, funktionelle Homogenität, gerichtete Konnektivität",
+        "unterscheidbare Anatomie, spezifische Konnektivität, funktionelle Spezifität"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-03-10 (Quelle A#28, E#9, Frequenz ★★★★). Im Original ist „unterscheidbare Anatomie, spezifische Konnektivität, funktionelle Spezifität\" als richtige Antwort markiert (Lehrbuch S. 44); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Welcher Aussage zum Thalamus können Sie zustimmen?",
+      "options": [
+        "Der Thalamus besteht ausschließlich aus unspezifischen Kernen",
+        "Absteigende Bahnen aus dem Kortex ziehen im Allgemeinen durch den Thalamus",
+        "Der Thalamus besteht ausschließlich aus spezifischen Kernen",
+        "Absteigende Bahnen aus dem Kortex ziehen im Allgemeinen nicht durch den Thalamus"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-03-11 (Quelle A#29, Frequenz ★★★★). Im Original ist „Absteigende Bahnen aus dem Kortex ziehen im Allgemeinen nicht durch den Thalamus\" als richtige Antwort markiert (Lehrbuch S. 96); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Erfüllt Liquor eine Versorgungsfunktion im Gehirn?",
+      "options": [
+        "Nein, im Liquor finden sich wenig Zellen und wenig Eiweiß deshalb ist eine Versorgungsfunktion unwahrscheinlich",
+        "Ja, Liquor umspült das Gehirn und das Rückenmark was für eine Versorgungsfunktion spricht",
+        "Nein, Liquor befindet sich nur in den Ventrikeln was gegen eine Versorgungsfunktion spricht",
+        "Ja, im Liquor findet sich wenig Zellen aber viel Eiweiß was für eine Versorgungsfunktion spricht"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-03-12 (Quelle A#30, Frequenz ★★). Im Original ist „Nein, im Liquor finden sich wenig Zellen und wenig Eiweiß deshalb ist eine Versorgungsfunktion unwahrscheinlich\" als richtige Antwort markiert (Lehrbuch S. 113); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Neuroanatomie: Hirnnerven, Belohnungssystem, Kortexareale",
+      "question": "Die anteriore Insula ist ein Knotenpunkt im Salienznetzwerk. Welche Funktionen werden diesem Knotenpunkt zugeschrieben?",
+      "options": [
+        "Zuweisung belohnungsbezogener Salienz",
+        "Detektion verhaltensrelevanter Stimuli und Einbindung nachfolgender Netzwerke (ist das so? auf eigene Gefahr)",
+        "Detektieren von Fehlern und Unstimmigkeiten (auch homöostatische)",
+        "Reaktionswahl und Konfliktüberwachung"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-03-13 (Quelle A#31, E#19, Frequenz ★★★). Im Original ist „Zuweisung belohnungsbezogener Salienz\" als richtige Antwort markiert (Lehrbuch S. 121); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Was sind bildgebende Methoden? Methoden, die es erlauben…?",
+      "options": [
+        "Metabolische Prozesse im lebenden Organismus zu visualisieren",
+        "Nicht invasive Aufnahmen anzufertigen",
+        "Anatomische Strukturen präzise zu visualisieren und ihnen ein dreidimensionales Koordinatensystem zuzuordnen",
+        "Physiologische Prozesse zeitlich präzise zu visualisieren und spektralanalytisch zu analysieren"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-04-01 (Quelle A#32, Frequenz ★). Im Original ist „Anatomische Strukturen präzise zu visualisieren und ihnen ein dreidimensionales Koordinatensystem zuzuordnen\" als richtige Antwort markiert (Lehrbuch S. 145); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Welcher Fehler könnte vorliegen, wenn ein fMRT-Signal im Gehirn eines toten Lachses gemessen wurde, dem emotionale menschliche Gesichtsausdrücke gezeigt wurden?",
+      "options": [
+        "Die elektromagnetische Strahlung des MR-Tomographen führte zu einer Wiederbelebung des Lachses (Induktion von Stromimpulsen)",
+        "Der Lachs lebte in einem Aquarium und war an menschliche Gesichtsausdrücke gewöhnt (zwischenartliche perspektivische Übernahme)",
+        "Die Zeitspanne zwischen dem Tod des Lachs und der Messung war zu gering, sodass es noch neurale Aktivität gab (postmortale Nachentladungen)",
+        "Bei der Auswertung wurde nicht für multiples Testen korrigiert (Es handelt sich nur um Signalrauschen)"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-04-04 (Quelle A#37, E#12, Frequenz ★★★). Im Original ist „Bei der Auswertung wurde nicht für multiples Testen korrigiert (Es handelt sich nur um Signalrauschen)\" als richtige Antwort markiert (Lehrbuch S. 178); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Welchen Vorteil bildgebender Studien nutzen quantitative koordinatenbasierte Metaanalysen?",
+      "options": [
+        "Die Kontextabhängigkeit der Befunde",
+        "Die Diffusion von Wasserstoffatomen",
+        "Die räumliche Nähe zwischen zeitgleichen neurophysiologischen Ereignissen",
+        "Das Berichten der Daten in standardisierten Referenzräumen"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-04-06 (Quelle A#39, E#13, Frequenz ★★). Im Original ist „Das Berichten der Daten in standardisierten Referenzräumen\" als richtige Antwort markiert (Lehrbuch S. 191); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Was ist die Grundlage des Diffusions-Trensor-Imaging (DTI)?",
+      "options": [
+        "Der Blood Oxygen Level Dependence (BOLD) Effekt",
+        "Die Brownsche Molekularbewegung",
+        "Die neurovaskuläre Kopplung",
+        "Die Halbwertszeit von Radionukliden"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-04-07 (Quelle A#40, Frequenz ★★). Im Original ist „Die Brownsche Molekularbewegung\" als richtige Antwort markiert (Lehrbuch S. 159/162); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Die Detektoren eines Positronen-Emissions-Tomographen (PET) detektieren …?",
+      "options": [
+        "Das gleichzeitige eintreffen eines Positrons und eines Elektrons",
+        "Gammawellen die durch synchrone neuronale Aktivität verstärken",
+        "Positronen, die sich in die oberen Kortexschichten bewegen und dort zu positiven Feldpotenzialen führen",
+        "Gammastrahlen die durch die Kollision eines Positrons mit einem Elektron entstehen"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-04-10 (Quelle A#44, Frequenz ★★). Im Original ist „Gammastrahlen die durch die Kollision eines Positrons mit einem Elektron entstehen\" als richtige Antwort markiert (Lehrbuch S. 216); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Bildgebende Methoden",
+      "question": "Die Fraktionelle Anisotropie (FA) ist ein häufig verwendetes Maß der strukturellen Konnektivität. Was bedeutet es?",
+      "options": [
+        "FA ist das Maß der Gerichtetheit der Diffusion von Wasserstoffatomen",
+        "FA ist das Maß der Dichte der Dendriten einer Faserbahn",
+        "FA ist das Maß der gewichteten mittleren Diffusivität von Wasserstoffionen",
+        "FA ist ein Maß für die Länge der Axone in einer Faserbahn"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-04-12 (Quelle A#46, Frequenz ★★★★). Im Original ist „FA ist das Maß der Gerichtetheit der Diffusion von Wasserstoffatomen\" als richtige Antwort markiert (Lehrbuch S. 162); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Large-Scale Brain Networks",
+      "question": "In der Geschichte der Erforschung der funktionellen Netzwerkarchitektur des Gehirns war die Entdeckung intrinsischer Netzwerke von besonderer Bedeutung. Was wird unter intrinsisch in diesem Zusammenhang verstanden?",
+      "options": [
+        "Fluktuationen der Hirnaktivität in Abwesenheit extrinsischer Stimulation",
+        "Die willentliche Beeinflussung der Hirnaktivität durch extrinsische Motivation",
+        "Fluktuationen der Hirnaktivität durch Anwesenheit extrinsischer Stimulation",
+        "Die willentliche Beeinflussung der Hirnaktivität durch intrinsische Motivation"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-05-02 (Quelle A#48, E#17, Frequenz ★★★★). Im Original ist „Fluktuationen der Hirnaktivität in Abwesenheit extrinsischer Stimulation\" als richtige Antwort markiert (Lehrbuch S. 237); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Large-Scale Brain Networks",
+      "question": "Wie wurde das Default Mode Netzwerk (DMN) entdeckt?",
+      "options": [
+        "Verschiedene Studien, die identische Aufgaben zum autobiografischen Gedächtnisabruf durchführten, zeigten eine Übereinstimmung der Hirnaktivität in hippocampalen und parahippocampalen Regionen (aufgabeninduzierte Aktivierung)",
+        "Verschiedenen Studien, die unterschiedliche kognitive Aufgaben verwendeten, war gemein, dass in allen eine Abnahme der metabolischen Aktivität in medial -präfrontalen und posterior-parietalen Regionen zu finden war (aufgabeninduzierte Deaktivierung)",
+        "Patienten bei denen medial-präfrontale und posterior-parietale Hirnregionen geschädigt waren, zeigten Probleme im selbstreferentiellen Denken und autobiografischem Gedächtnisabruf",
+        "Patienten mit einer generalisierten Angststörung zeigten über verschiedene Studien hinweg eine verminderte Aktivierung in medial-präfrontalen und posterior-parietalen Regionen (angstinduzierte Deaktivierung)"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-05-06 (Quelle A#52, Frequenz ★★★). Im Original ist „Verschiedenen Studien, die unterschiedliche kognitive Aufgaben verwendeten, war gemein, dass in allen eine Abnahme der metabolischen Aktivität in medial -präfrontalen und posterior-parietalen Regionen zu finden war (aufgabeninduzierte Deaktivierung)\" als richtige Antwort markiert (Lehrbuch S. 268); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Angst, Amygdala & Interozeption",
+      "question": "Welcher Aussage über die Amygdala können Sie zustimmen?",
+      "options": [
+        "Die Amygdala ist das Zentrum der Emotionsregulation",
+        "Die Amygdala empfängt visuelle Infos bereits nach ca. 15 ms",
+        "Die Amygdala wird den Basalganglien zugeordnet",
+        "Die Amygdala verarbeitet nur unbewusste Reize"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-06-02 (Quelle A#56, E#22, Frequenz ★★★★). Im Original ist „Die Amygdala empfängt visuelle Infos bereits nach ca. 15 ms\" als richtige Antwort markiert (Lehrbuch S. 288); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Angst, Amygdala & Interozeption",
+      "question": "Welchen Ansatz beschreiben Joseph LeDoux und Daniel Pine in ihrem „, Two Systems Framework\"? Die Kontrolle der behavioralen und physiologischen Reaktionen und die die Erzeugung bewusster Gefühle…?",
+      "options": [
+        "werden zu 80% dem Furchtsystem zugeordnet und zu 20% dem Belohnungssystem zugeordnet",
+        "werden zwei identischen Systemen zugeordnet",
+        "werden zwei unterschiedlichen Systemen zugeordnet",
+        "werden zu gleichen Teilen dem Furchtsystem zugeordnet"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-06-03 (Quelle A#57, E#24, Frequenz ★★). Im Original ist „werden zwei unterschiedlichen Systemen zugeordnet\" als richtige Antwort markiert (Lehrbuch S. 294); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Angst, Amygdala & Interozeption",
+      "question": "Welche der folgenden Strukturen steht mit der Empfindung von Unsicherheit (diffuser Bedrohung) in Verbindung?",
+      "options": [
+        "Nucleus accumbens",
+        "Bett nucleus der stria terminalis",
+        "Pulvinar",
+        "Amygdala"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-06-06 (Quelle A#61, E#25, Frequenz ★★★★★). Im Original ist „Bett nucleus der stria terminalis\" als richtige Antwort markiert (Lehrbuch S. 298); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Stress, HHNA & Trauma",
+      "question": "Welche Aussage zum negativen Feedback-System der Hypothalamus-Hypophysen- Nebennierenachse (HHNA) ist richtig?",
+      "options": [
+        "Kortisol ist Blut-Hirnschranken gängig und führt durch die Bindung an spezifische Rezeptoren dazu, dass die Aktivität der HHNA wieder gedrosselt wird",
+        "Das negative Feedback-System dient der interozeptiven Kommunikation und meldet über den Nervus vagus stressbedingte kardiovaskuläre Veränderungen an das zentrale Nervensystem zurück",
+        "Das negative Feedback-System führt zu Vermeidungsverhalten, welches den Organismus vor bedrohlichen Situationen schützen soll",
+        "Das negative Feedbacksystem ist ein zellulärer Mechanismus, der vor Schädigungen durch erhöhte Kortisolspiegel warnt"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-07-04 (Quelle A#69, Frequenz ★★★★). Im Original ist „Kortisol ist Blut-Hirnschranken gängig und führt durch die Bindung an spezifische Rezeptoren dazu, dass die Aktivität der HHNA wieder gedrosselt wird\" als richtige Antwort markiert (Lehrbuch S. 341); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Stress, HHNA & Trauma",
+      "question": "Laut Martin Teicher können Misshandlungserfahrungen in der Kindheit die Struktur und Funktion des Gehirns spezifisch verändern. Wie?",
+      "options": [
+        "Die Verarbeitung bewusster aversiver Reize wird vermindert und die Verarbeitung unbewusster Gefahrensignale verstärkt",
+        "Die Verarbeitung bewusster aversiver Reize und die Verarbeitung unbewusster Gefahrensignale wird verstärkt",
+        "Die Verarbeitung bewusster aversiver Reize und die Verarbeitung unbewusster Gefahrensignale wird vermindert",
+        "Die Verarbeitung bewusster aversiver Reize wird verstärkt und die Verarbeitung unbewusster Gefahrensignale wird vermindert"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-07-05 (Quelle A#71, E#30, Frequenz ★★★). Im Original ist „Die Verarbeitung bewusster aversiver Reize wird vermindert und die Verarbeitung unbewusster Gefahrensignale verstärkt\" als richtige Antwort markiert (Lehrbuch S. 407); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Stress, HHNA & Trauma",
+      "question": "Martin Teicher führte unterschiedliche Arten traumatischer Erfahrungen mit spezifischen Veränderungen in der Hirnsubstanz von Wahrnehmungsarealen zusammen. Welche Annahme leitete er daraus ab?",
+      "options": [
+        "Es könnte sich um eine adaptive Anpassung handeln, die zu einer gesteigerten Gedächtniskonsolidierung führt",
+        "Es könnte sich um eine adaptive Anpassung handeln, die über eine verstärkte, bewusste Wahrnehmung aversiver Reize das Leid intensiviert",
+        "Es könnte sich um eine adaptive Anpassung handeln, die über eine verminderte, bewusste Wahrnehmung aversiver Reize das Leid reduziert",
+        "Es könnte sich um eine adaptive Anpassung handeln, die zu einer verminderten Gedächtniskonsolidierung führt"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-07-06 (Quelle A#72, Frequenz ★★★★). Im Original ist „Es könnte sich um eine adaptive Anpassung handeln, die über eine verminderte, bewusste Wahrnehmung aversiver Reize das Leid reduziert\" als richtige Antwort markiert (Lehrbuch S. 407); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Stress, HHNA & Trauma",
+      "question": "Eine durch traumatische Erfahrungen veränderte Entwicklung des Belohnungssystems und der Angst-und Stresssysteme kann direkte Auswirkungen auf das Verhalten haben. Welche?",
+      "options": [
+        "Verschiebung der Balance zwischen selektiver Aufmerksamkeit und kognitiver Flexibilität in Richtung kognitiver Flexibilität",
+        "Verschiebung der Balance zwischen Annäherungs- und Vermeidungsverhalten in Richtung Vermeidung",
+        "Verschiebung der Balance zwischen sozialer Verträglichkeit und Aggressivität in Richtung Aggressivität",
+        "Verschiebung der Balance zwischen offenem und verdecktem Verhalten in Richtung verdecktes Verhalten"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-07-07 (Quelle A#73, E#31, Frequenz ★★). Im Original ist „Verschiebung der Balance zwischen Annäherungs- und Vermeidungsverhalten in Richtung Vermeidung\" als richtige Antwort markiert (Lehrbuch S. 410); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Stress, HHNA & Trauma",
+      "question": "Welcher Aussage zu Interaktion von Stress und Alkoholkonsum können Sie zustimmen?",
+      "options": [
+        "Alkohol verstärkt die Wirkung von Gamma- Aminobuttersäure und wirkt somit stressdämpfend",
+        "Alkohol deaktiviert die Hypothalamus- Hypophysen Nebennierenrinden Achse und wirkt somit stresslösend",
+        "Stress vermindert das Belohnungssignal, dass von Alkohol ausgelöst wird",
+        "Stress stimuliert den enzymatischen Abbau von Alkohol"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-07-08 (Quelle A#74, E#32, Frequenz ★★★★). Im Original ist „Alkohol verstärkt die Wirkung von Gamma- Aminobuttersäure und wirkt somit stressdämpfend\" als richtige Antwort markiert (Lehrbuch S. 422); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Sucht & Belohnungssystem",
+      "question": "Welche Annahme mach das Reward Deficiency Syndrome?",
+      "options": [
+        "Stress verstärkt das Belohnungssignal, dass von psychotropen Substanzen ausgelöst wird",
+        "Substanzkonsum führt zu einer Steigerung des Verlangens „wanting“ ohne dass notwendigerweise Genuss oder Glücksgefühle „liking“ entstehen",
+        "Die verminderte Fähigkeit Belohnungen als angenehm zu erleben, führt zu einer erhöhten Motivation die Substanz zu erhalten und zu konsumieren. Die Anhedonie wächst mit der Dauer des Substanzkonsums",
+        "Menschen mit verminderter Fähigkeit Belohnungen zu empfinden, suchen sich „extremere“ Arten der Belohnung wie Substanzkonsum oder Glücksspiel"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-08-01 (Quelle A#76, Frequenz ★). Im Original ist „Menschen mit verminderter Fähigkeit Belohnungen zu empfinden, suchen sich „extremere“ Arten der Belohnung wie Substanzkonsum oder Glücksspiel\" als richtige Antwort markiert (Lehrbuch S. 478); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Sucht & Belohnungssystem",
+      "question": "Welche Annahme macht das Opponent-Process Modell der Abhängigkeit?",
+      "options": [
+        "Menschen mit verminderter Fähigkeit Belohnungen zu empfinden, suchen sich „extremere\" Arten der Belohnung wie Substanzkonsum oder Glücksspiel",
+        "Substanzkonsum führt zu einer Steigerung des Verlangens »wanting«, ohne dass notwendigerweise Genuss oder Glücksgefühle »liking« entstehen",
+        "Substanzkonsum führt zu einer Steigerung des Verlangens »wanting« bei gleichzeitiger Steigerung des Genusses »liking«, was das Verlangen zum Konsum überproportional verstärkt",
+        "Die verminderte Fähigkeit Belohnungen als angenehm zu erleben, führt zu einer erhöhten Motivation die Substanz zu erhalten und zu konsumieren. Die Anhedonie wächst mit der Dauer des Substanzkonsums"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-08-02 (Quelle A#77, Frequenz ★★). Im Original ist „Die verminderte Fähigkeit Belohnungen als angenehm zu erleben, führt zu einer erhöhten Motivation die Substanz zu erhalten und zu konsumieren. Die Anhedonie wächst mit der Dauer des Substanzkonsums\" als richtige Antwort markiert (Lehrbuch S. 478); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Sucht & Belohnungssystem",
+      "question": "Welche Modellvorhersage mach die „Incentive-Sensitisations-Theory“?",
+      "options": [
+        "Substanzkonsum führt zu einer Steigerung des Verlangens „WANTING“, ohne das notwendigerweise Genuss oder Glücksgefühle „LIKING“ entstehen",
+        "Die verminderte Fähigkeit, Belohnungen als angenehm zu erleben, führt zu einer erhöhten Motivation die Substanz zu erhalten",
+        "Stress verstärkt das Belohnungssignal, das von psychotropen Substanzen ausgelöst wird",
+        "Menschen mit verminderte Fähigkeit Belohnungen zu empfinden, suchen sich „extremere“ Arten der Belohnung wie Substanzkonsum oder Glücksspiel"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-08-03 (Quelle A#78, Frequenz ★★). Im Original ist „Substanzkonsum führt zu einer Steigerung des Verlangens „WANTING“, ohne das notwendigerweise Genuss oder Glücksgefühle „LIKING“ entstehen\" als richtige Antwort markiert (Lehrbuch S. 479); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Sucht & Belohnungssystem",
+      "question": "Wie können interozeptive Prozesse die Motivation zum Substanzkonsum erklären?",
+      "options": [
+        "Interozeptive Effekte des Substanzkonsums unterdrücken die dopaminerge Transmission im Belohnungssystem was ein erhöhtes Substanzverlangen „craving“ auslöst",
+        "Interozeptive Effekte des Substanzkonsums werden im ventromedialen Präfrontalen Kortex gespeichert und über die Insula an den dorsolateralen PFC weitergeleitet, welcher einen erneuten Substanzkonsum initiiert",
+        "Interozeptive Effekte des Substanzkonsums werden im Belohnungssystem repräsentiert und führen über eine Erhöhung der dopaminergen Transmission zu einer Neu-initiierung des Konsumverhaltens",
+        "Interozeptive Effekte des Substanzkonsums werden in der posterioren insula repräsentiert. Durch Umgebungsreize werden diese Empfindungen reaktiviert und begünstigen somit den erneuten Substanzkonsum"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-08-05 (Quelle A#80, Frequenz ★★★). Im Original ist „Interozeptive Effekte des Substanzkonsums werden in der posterioren insula repräsentiert. Durch Umgebungsreize werden diese Empfindungen reaktiviert und begünstigen somit den erneuten Substanzkonsum\" als richtige Antwort markiert (Lehrbuch S. 494/495); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Emotionsregulation & Depression",
+      "question": "In welcher Weise werden die Habenulae mit depressiver Symptomatik in Verbindung gebracht?",
+      "options": [
+        "Unterdrückung emotionaler Komponenten",
+        "Unterdrückung motorischer Komponenten",
+        "Unterdrückung kognitiver Komponenten",
+        "Unterdrückung motivationaler Komponenten"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-09-02 (Quelle A#83, E#36, Frequenz ★★★★). Im Original ist „Unterdrückung motorischer Komponenten\" als richtige Antwort markiert (Lehrbuch S. 650); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "ADHS & Hirnreifung",
+      "question": "Welche Hirnregion wird mit willentlicher Verhaltensinhibition in Verbindung gebracht und zeigt funktionelle Auffälligkeiten bei der Aufmerksamkeits-Defizit- Hyperaktivitätsstörung ADHS?",
+      "options": [
+        "Der rechte inferiore pariertale Kortex",
+        "Der rechte superiore temporale Kortex",
+        "Der rechte inferiore präfrontale Korex",
+        "Der rechte superiore prämotorische Kortex"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-10-01 (Quelle A#84, Frequenz ★★★). Im Original ist „Der rechte inferiore präfrontale Korex\" als richtige Antwort markiert (Lehrbuch S. 33); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "ADHS & Hirnreifung",
+      "question": "Was besagt die Dopamin-Transfer-Defizit Hypothese der ADHS?",
+      "options": [
+        "Die phasiche Aktivität dopaminerger Neurone halbiert sich nach einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone verdoppelt sich nach der Ankündigung einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone zeigt keine Verlagerung nach der Ankündigung einer Belohnung",
+        "Die phasische Aktivität dopaminerger Neurone zeigt keine Verlagerung nach einer Belohnung"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-10-02 (Quelle A#85, E#49, Frequenz ★★). Im Original ist „Die phasische Aktivität dopaminerger Neurone zeigt keine Verlagerung nach der Ankündigung einer Belohnung\" als richtige Antwort markiert (Lehrbuch S. 570); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "ADHS & Hirnreifung",
+      "question": "Ein häufig verwendetes Medikament zur Behandlung der Aufmerksamkeits-Defizit- Hyperaktivitätsstörung (ADHS) ist das Ritalin, was eine amphetaminähnliche Wirkung aufweist. Warum ist die Wirkung des Medikamentes dennoch nicht mit illegalen Stimulantien wie „Speed“ vergleichbar?",
+      "options": [
+        "Die Dosis, Wirkungsdauer und Anflutung sind deutlich geringer. Es ist ungeeignet einen „Kick“ auszulösen",
+        "Ein Hauptbefund der ADHS ist eine Veränderung der dopaminergen und noradrenergen Rezeptoren. Ritalin bindet nur an diese veränderten Rezeptoren, die Bindung ist zu gering, um einen „Kick“ auszulösen",
+        "Aufgrund der dauerhaften Einnahme kommt es zu Habituationseffekten, die nach kurzer Zeit keinen „Kick“ mehr auslösen. Eine Gefahr der Abhängigkeit besteht deshalb nicht mehr",
+        "Die Dosis, Wirkungsdauer und Anflutung sind deutlich höher als bei illegalen Stimulantien. Da bei der ADHS aber ein dopaminerges und noradrenergen Defizit besteht, löst es bei richtiger Dosierung keinen „Kick“ aus"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-10-04 (Quelle A#87, Frequenz ★★). Im Original ist „Die Dosis, Wirkungsdauer und Anflutung sind deutlich geringer. Es ist ungeeignet einen „Kick“ auszulösen\" als richtige Antwort markiert (Lehrbuch S. 568); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Essstörungen",
+      "question": "Welche Veränderungen im Belohnungssystem konnten bei anorektischen Patienten im Vergleich zu gesunden beobachtet werden?",
+      "options": [
+        "Verminderte Belohnungssensitivität und erhöhte Bestrafungssensitivität",
+        "Erhöhte Belohnungssensitivität und verminderte Bestrafungssensitivität",
+        "Erhöhte Belohnungs- und Bestrafungssensitivität",
+        "Verminderte Belohnungs- und Bestrafungssensitivität"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-11-01 (Quelle A#90, Frequenz ★★★). Im Original ist „Verminderte Belohnungssensitivität und erhöhte Bestrafungssensitivität\" als richtige Antwort markiert (Lehrbuch S. 525); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Essstörungen",
+      "question": "Was sollte bei der Vermessung von Hirnvolumina bei Patienten mit Anorexia Nervosa beachtet werden?",
+      "options": [
+        "Der Elektrolytmangel im Blut reduziert die Signalstärke des Blood-Oxygen-Level- Dependent (BOLD)-Effekts und führt zu einer massiven Reduktion der Datenqualität",
+        "Es gibt nichts zu beachten. Das Streben nach Perfektion und Selbstkontrolle der Patientinnen führt zu einer hervorragenden Compliance während der Untersuchtung",
+        "Die hohe Impulsivität und gesteigerte motorische Aktivität führen zu starken Bewegungsartefakten und somit zu einer massiven Reduktion der Datenqualität",
+        "Oft zeigen sich globale Effekte, die auf die Dehydration und Mangelernährung zurückzuführen sind, aber nicht das eigentliche neurale Korelat der Störung darstellen"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-11-02 (Quelle A#91, Frequenz ★★★). Im Original ist „Oft zeigen sich globale Effekte, die auf die Dehydration und Mangelernährung zurückzuführen sind, aber nicht das eigentliche neurale Korelat der Störung darstellen\" als richtige Antwort markiert (Lehrbuch S. 536); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Essstörungen",
+      "question": "Der orbitofrontale Kortex ist ein Hochassoziationsareal. Mit welcher Funktion wurde er im Kontext der Nahrungsaufnahme in Verbindung gebracht?",
+      "options": [
+        "Interozeptive Wahrnehmung",
+        "Belohnungs- und Bestrafungssensitivität",
+        "Wahrnehmungsspezifische Sättigung",
+        "Interospektive Gedanken"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-11-03 (Quelle A#92, Frequenz ★★★★). Im Original ist „Wahrnehmungsspezifische Sättigung\" als richtige Antwort markiert (Lehrbuch S. 537); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Schizophrenie",
+      "question": "Welche Aussage trifft am ehesten auf die Dopaminhypothese der Schizophrenie zu?",
+      "options": [
+        "Frontal-dopaminerge Hyperaktivität und mesolimbisch-dopaminerge Hypoaktivität",
+        "Frontal-dopaminerge Hypoaktivität und mesolimbisch-dopaminerge Hyperaktivität",
+        "Frontal- und mesolimbisch-dopaminerge Hypoaktivität",
+        "Frontal- und mesolimbisch-dopaminerge Hyperaktivität"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-12-01 (Quelle A#94, Frequenz ★★★★). Im Original ist „Frontal-dopaminerge Hypoaktivität und mesolimbisch-dopaminerge Hyperaktivität\" als richtige Antwort markiert (Lehrbuch S. 613); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Schizophrenie",
+      "question": "Welche Besonderheit der funktionellen Internetzwerkkonnektivität konnte bei Patienten mit Schizophreniediagnose gezeigt werden und kann gut zur Erklärung der Ich- Störungen herangezogen werden?",
+      "options": [
+        "Verstärkte räumliche Trennung zwischen dem Default Mode Netzwerk (DMN) und dem zentral-Exekutiven Netzwerk (CEN)",
+        "Verstärkte räumliche Trennung zwischen dem Salienznetzwerk (SN) und dem zentral Exekutiven Netzwerk (CEN)",
+        "Verminderte räumliche Trennung zwischen dem Salienznetzwerk (SN) und dem zentral-Exekutiven Netzwerk (CEN)",
+        "Verminderte räumliche Trennung zwischen dem Default Mode Netzwerk und dem zentral-Exekutiven Netzwerk (CEN)"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-12-04 (Quelle A#97, Frequenz ★★★★). Im Original ist „Verminderte räumliche Trennung zwischen dem Default Mode Netzwerk und dem zentral-Exekutiven Netzwerk (CEN)\" als richtige Antwort markiert (Lehrbuch S. 630); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Demenz & Alzheimer",
+      "question": "Wie ist es zu erklären, dass es in den Frühphasen demenzieller Erkrankungen zu Aktivitätszunahmen in bestimmten Hirnregionen kommt?",
+      "options": [
+        "Es ist im Sinne eines Substitutionsmechanismus zu interpretieren, Die Regionen in denen bestimmte Informationen verarbeitet werden verändern sich (zerebrales Re-Mapping)",
+        "Es ist im Sinne eines Reduktionsmechanismus zu interpretieren. Die Informationsverarbeitung beschränkt sich nur noch auf wenige Bereiche des Gehirns",
+        "Es ist im Sinne eines Kompensationsmechanismus zu interpretieren, Die aktivieren Regionen gleichen Fehlfunktionen in anderen Netzwerkmodulen aus",
+        "Es ist im Sinne eines Reaktionsmechanismus zu interpretieren. Die gesteigerte Unsicherheit der Patienten bei der Durchführung kognitiver Aufgaben führt zu Stress und damit zu einem generellen Anstieg der Hirnaktivität"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-13-02 (Quelle A#101, Frequenz ★). Im Original ist „Es ist im Sinne eines Kompensationsmechanismus zu interpretieren, Die aktivieren Regionen gleichen Fehlfunktionen in anderen Netzwerkmodulen aus\" als richtige Antwort markiert (Lehrbuch S. 789); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Demenz & Alzheimer",
+      "question": "Welche Folgen hat die Hyperphosporylierung der Tau-Proteine?",
+      "options": [
+        "Sie verhindert die Bindung mit den Mikrotubuli, die daraufhin zu zerfallen beginnen",
+        "Sie verstärkt die Bindung zu den Mikrotubuli, die daraufhin zu verklumpen beginnen",
+        "Sie verstärkt die Bindung an die helikale Struktur der Desoxyribonukleinsäure (DNS) und schädigt diese nachhaltig",
+        "Sie bildet amyloide Plaques, die sich nicht im neuropilem Nervengeflecht ansammeln"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-13-03 (Quelle A#102, E#46, Frequenz ★★★★). Im Original ist „Sie verhindert die Bindung mit den Mikrotubuli, die daraufhin zu zerfallen beginnen\" als richtige Antwort markiert (Lehrbuch S. 765); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Demenz & Alzheimer",
+      "question": "Was könnte eine Erklärung dafür sein, dass sich die ß-Amyloid Plaques bevorzugt in Regionen des Default Mode Netzwerks (DMN) ansammeln?",
+      "options": [
+        "Die Regionen weisen eine besonders hohe Dichte an dopaminergen Rezeptoren auf, wodurch mehr Dopamin gebunden wird und ß-Amyloid als metabolisches Abfallprodukt hinterlässt",
+        "Die Regionen weisen eine hohe Plastizität und metabolische Aktivität auf. Somit können sich auch viele metabolische Abfallprodukte u.a. B-Amyloid ansammeln",
+        "Die Regionen weisen eine niedrige Plastizität und metabolische Aktivität auf. Somit können metabolische Abfallprodukte u.a. B-Amyloid schlechter abtransportiert werden",
+        "Die Regionen weisen eine besonders hohe Dichte an ß-Amyloid-Rezeptoren auf, wodurch sich das ß-Amyloid bevorzugt anlagert"
+      ],
+      "answer": 1,
+      "explanation": "Referenzeintrag NEURO-13-04 (Quelle A#103, Frequenz ★★★). Im Original ist „Die Regionen weisen eine hohe Plastizität und metabolische Aktivität auf. Somit können sich auch viele metabolische Abfallprodukte u.a. B-Amyloid ansammeln\" als richtige Antwort markiert (Lehrbuch S. 778); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Parkinson & Basalganglien",
+      "question": "In welcher Struktur sammelt sich bei Morbus Parkinson vermehrt das Alpha- Synuclein in Form von Lewy Körperchen an?",
+      "options": [
+        "Substantia nigra pars retikularis",
+        "Substantia nigra pars cerebralis",
+        "Substantia nigra pars compacta",
+        "Substantia nigra pars intermedia"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-14-01 (Quelle A#106, Frequenz ★★★). Im Original ist „Substantia nigra pars compacta\" als richtige Antwort markiert (Lehrbuch S. 687); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Parkinson & Basalganglien",
+      "question": "Welche Struktur ist das häufigste Ziel einer Tiefen-Hirnstimulation bei Pat. mit Morbus Parkinson?",
+      "options": [
+        "Durch die Stimulation kann die dopaminerge Medikation reduziert werden",
+        "Je nach Krankheitsbild werden auch andere Stimulationsorte empfohlen (z.B. Globus pallidus oder Nucleus ventralis intermedius des Thalamus)",
+        "Die tiefe Hirnstimulation ist ein etabliertes Verfahren des IPS und wird heute bei der überwiegenden Zahl der Patienten im Nucleus subthalamicus vorgenommen",
+        "Der Ncl. Subthalmicus ist u.a. Zielgebiet für die Tiefenhirnstimulation bei Parkinsonpatienten"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-14-03 (Quelle A#108, Frequenz ★★). Im Original ist „Der Ncl. Subthalmicus ist u.a. Zielgebiet für die Tiefenhirnstimulation bei Parkinsonpatienten\" als richtige Antwort markiert (Lehrbuch S. 699); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Parkinson & Basalganglien",
+      "question": "Die Wirkungen des Dopamins in den Basalganglien sind exzitatorisch teils inhibitorisch. Wie ist das zu erklären?",
+      "options": [
+        "Nicht der Neurotransmitter bestimmt die Wirkung, sondern der spezifische Rezeptor, an den der Neurotransmitter bindet",
+        "Dopamin wirkt immer exzitatorisch, die Hemmung der Basalganglien wird über die GABAerge Neurone",
+        "Die Funktion des Dopamins folgt einer umgedrehten U-Kurve. Mittlere Level wirken exzitatorisch, niedrige und hohe Level inhibitorisch",
+        "Es gibt zwei gesonderte Isoformen von Dopamin. Die Isoform EF wirkt exzitatorisch; die Isoform IF wirkt inhibitorisch"
+      ],
+      "answer": 0,
+      "explanation": "Referenzeintrag NEURO-14-04 (Quelle A#109, Frequenz ★★★). Im Original ist „Nicht der Neurotransmitter bestimmt die Wirkung, sondern der spezifische Rezeptor, an den der Neurotransmitter bindet\" als richtige Antwort markiert (Lehrbuch S. 687); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Parkinson & Basalganglien",
+      "question": "Welche Prozesse nach einem Schädel-Hirn-Trauma stehen im Verdacht die Entstehung von Parkinsonkrankheiten zu begünstigen?",
+      "options": [
+        "Anhäufung des Amyloid Precurser Proteins (APP) und Aktivierung von a- Synuclein",
+        "Reduktion der Mikroglia und Anhäufung amyloider Plagues",
+        "Anhäufung der Mikroglia und Reduktion von a- Synuclein",
+        "Aktivierung der Mikroglia und Anhäufung von a- Synuclein"
+      ],
+      "answer": 3,
+      "explanation": "Referenzeintrag NEURO-14-05 (Quelle A#110, E#47, Frequenz ★★★★). Im Original ist „Aktivierung der Mikroglia und Anhäufung von a- Synuclein\" als richtige Antwort markiert (Lehrbuch S. 740); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    },
+    {
+      "topic": "Transdiagnostisch & Sonstiges",
+      "question": "Welche beiden Psychischen Störungen zeigen hinsichtlich des Delay Discountings, also der Abwertung künftiger Belohnungen, ein gegensätzliches Muster?",
+      "options": [
+        "Bipolare Störungen und ADHS",
+        "Depressive Störungen und Bipolare Störungen",
+        "ADHS & Anorexia Nervosa",
+        "Schizophrene Störungen & Depressive Störungen"
+      ],
+      "answer": 2,
+      "explanation": "Referenzeintrag NEURO-15-04 (Quelle A#114, Frequenz ★). Im Original ist „ADHS & Anorexia Nervosa\" als richtige Antwort markiert (Lehrbuch S. 570); die drei übrigen Optionen sind dort als Distraktoren gekennzeichnet."
+    }
+  ]
+}
