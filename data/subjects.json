@@ -717,6 +717,13 @@
       "title": "Übungsquiz",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "1:1-Übernahme der eindeutig gelösten Single-Choice-Fragen aus der Neuro-Altklausur-/Fragenpool-Referenz – Original-Wortlaut von Frage und Antwortoptionen, jede Frage nur einmal. Kein generierter Fragetext; die Erklärung nennt jeweils den Referenzeintrag und die dort markierte Lösung."
+    },
+    {
+      "id": "kan-demenz-2",
+      "file": "kan-demenz-2.json",
+      "title": "Demenzen II – Modifizierbare Risikofaktoren (Lancet Commission 2024)",
+      "subject": "Kognitiv-affektive Neurowissenschaften",
+      "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen II: die 14 modifizierbaren Risikofaktoren des Lancet-Commission-Berichts 2024 über die Lebensspanne, kognitive Reserve und Bildung, Hörverlust, Depression, Schädel-Hirn-Trauma, kardiovaskuläre Faktoren und kombinierte Gesundheitsscores, LDL-Cholesterin, Bewegung, Diabetes, Alkohol, sozialer Kontakt und COVID-19, Luftschadstoffe, Sehverlust, Schlaf und glymphatisches System, Ernährung sowie das Verhältnis von relativem Risiko und populationsattributablem Anteil. Inklusive Anwendungs-/Transferfragen."
     }
   ]
 }

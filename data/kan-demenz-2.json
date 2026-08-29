@@ -1,0 +1,388 @@
+{
+  "id": "kan-demenz-2",
+  "title": "Demenzen II – Modifizierbare Risikofaktoren (Lancet Commission 2024)",
+  "subject": "Kognitiv-affektive Neurowissenschaften",
+  "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen II: die 14 modifizierbaren Risikofaktoren des Lancet-Commission-Berichts 2024 über die Lebensspanne, kognitive Reserve und Bildung, Hörverlust, Depression, Schädel-Hirn-Trauma, kardiovaskuläre Faktoren und kombinierte Gesundheitsscores, LDL-Cholesterin, Bewegung, Diabetes, Alkohol, sozialer Kontakt und COVID-19, Luftschadstoffe, Sehverlust, Schlaf und glymphatisches System, Ernährung sowie das Verhältnis von relativem Risiko und populationsattributablem Anteil. Inklusive Anwendungs-/Transferfragen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Lancet Commission 2024",
+      "answer": 0,
+      "question": "Welche Aussage zu den Zielen und Kernbotschaften der Lancet standing Commission 2024 trifft **NICHT** zu?",
+      "options": [
+        "Für eine wirksame Prävention ist der Beginn nur bis zum mittleren Lebensalter sinnvoll, danach ist es zu spät.",
+        "Die Veränderung von 14 Risikofaktoren könnte bis zu 45 % der Demenzerkrankungen verhindern oder verzögern.",
+        "In Ländern mit niedrigem und mittlerem Einkommen sowie bei sozioökonomisch schwächeren Gruppen ist das Potenzial zur Risikominderung größer.",
+        "Interventionen nach der Diagnose können die körperliche Gesundheit maximieren, die Lebensqualität verbessern und Krankenhausaufenthalte reduzieren."
+      ],
+      "explanation": "Die Kommission betont ausdrücklich, dass es „nie zu früh und niemals zu spät“ ist, mit der Demenzprävention zu beginnen – die Behauptung, nach der Lebensmitte sei es zu spät, ist damit die gesuchte, unzutreffende Aussage. Zutreffend sind dagegen das Präventionspotenzial von bis zu 45 % über 14 modifizierbare Risikofaktoren, das größere Minderungspotenzial in Ländern mit niedrigem und mittlerem Einkommen sowie bei Minderheiten und sozioökonomisch schwächeren Gruppen – dort tritt die Demenz auch früher auf – und der Nutzen von Interventionen nach der Diagnose."
+    },
+    {
+      "topic": "Lancet Commission 2024",
+      "hard": true,
+      "answer": 1,
+      "question": "Welche Zuordnung von Risikofaktor und Lebensabschnitt entspricht der Einteilung der Kommission?",
+      "options": [
+        "Hörverlust, Depression und Diabetes werden der Kindheit und Jugend bis zum 18. Lebensjahr zugeordnet.",
+        "Soziale Isolation, Luftverschmutzung und Verlust der Sehfähigkeit werden dem höheren Lebensalter ab 65 Jahren zugeordnet.",
+        "Schlechte Bildung wird dem höheren Lebensalter zugeordnet, weil dort die kognitive Reserve aufgebraucht wird.",
+        "Soziale Isolation, Luftverschmutzung und Verlust der Sehfähigkeit werden dem mittleren Lebensabschnitt zwischen 18 und 65 Jahren zugeordnet."
+      ],
+      "explanation": "Die Kommission ordnet soziale Isolation, Luftverschmutzung und den Verlust der Sehfähigkeit dem höheren Lebensalter ab 65 Jahren zu. Dem mittleren Lebensabschnitt von 18 bis 65 Jahren gehören dagegen Hörverlust, hohes LDL-Cholesterin, Depression, Schädel-Hirn-Trauma, physische Inaktivität, Diabetes, Rauchen, Bluthochdruck, Übergewicht und exzessiver Alkoholkonsum an – daher ist sowohl die Verschiebung der Spätfaktoren in die Lebensmitte als auch die Einordnung von Hörverlust, Depression und Diabetes in die Kindheit falsch. Der Kindheit und Jugend bis 18 Jahre ist allein die schlechte Bildung zugeordnet, nicht dem höheren Lebensalter."
+    },
+    {
+      "topic": "Lancet Commission 2024",
+      "trap": "Ein genetisches Risiko schließt die Modifizierbarkeit nicht aus – beide Wege wirken nebeneinander.",
+      "answer": 3,
+      "question": "Welche Aussage zum Verhältnis von modifizierbaren Risikofaktoren und genetischem APOE-Status trifft am ehesten zu?",
+      "options": [
+        "Der APOE-Status ersetzt die Betrachtung der 14 Risikofaktoren, weil er das Erkrankungsrisiko vollständig bestimmt.",
+        "Bei Trägern der ungünstigen APOE-Variante ist eine Beeinflussung des Risikos durch Lebensstilfaktoren praktisch ausgeschlossen.",
+        "Modifizierbare Faktoren wirken ausschließlich bei Personen mit der protektiven APOE-Variante, bei allen anderen nicht.",
+        "Das Risiko ist unabhängig vom genetischen APOE-Status modifizierbar."
+      ],
+      "explanation": "Die Kommission hält ausdrücklich fest, dass sich das Risiko unabhängig vom genetischen APOE-Status modifizieren lässt – genetische Belastung und Prävention schließen einander also nicht aus. Ein Ausschluss der Beeinflussbarkeit bei Trägern der ungünstigen Variante widerspricht dem unmittelbar, ebenso wie eine Wirksamkeit allein bei der protektiven Variante. Und dass der APOE-Status das Erkrankungsrisiko vollständig bestimmen würde, verkennt seinen Charakter als Risikogen: ApoE2 wirkt protektiv, ApoE3 neutral und ApoE4 schädigend auf Neurone, aber keine Variante legt die Erkrankung fest."
+    },
+    {
+      "topic": "Lancet Commission 2024",
+      "hard": true,
+      "answer": 0,
+      "question": "Über welche Wirkwege sollen die Maßnahmen gegen die Risikofaktoren nach dem Modell der Kommission die Demenz verhindern oder verzögern?",
+      "options": [
+        "Weniger vaskuläre Schädigung, weniger Demenz-Neuropathologie, weniger Stress und Entzündung sowie Aufbau kognitiver Reserve.",
+        "Über eine direkte genetische Umprogrammierung, die die Bildung von β-Amyloid und Tau dauerhaft unterbindet.",
+        "Ausschließlich über den Aufbau kognitiver und Hirnreserve, da die übrigen Wege bislang nicht empirisch belegt sind.",
+        "Ausschließlich über die Verringerung vaskulärer Schädigung, weil alle 14 Faktoren letztlich kardiovaskulär vermittelt sind."
+      ],
+      "explanation": "Die zusammenfassende Darstellung führt die Maßnahmen über vier Wege zusammen: Verringerung vaskulärer Schädigung, Verringerung der Demenz-Neuropathologie, Verringerung von Stress und Entzündung sowie Aufbau kognitiver und Hirnreserve. Eine Beschränkung auf die kognitive Reserve übergeht die drei übrigen Wege, ebenso wie die Beschränkung auf vaskuläre Schädigung – Faktoren wie Bildung, Hörverlust oder sozialer Kontakt wirken gerade nicht kardiovaskulär. Und eine genetische Umprogrammierung ist weder Teil des Modells noch verfügbar."
+    },
+    {
+      "topic": "Bildung & kognitive Reserve",
+      "answer": 1,
+      "question": "Wie ist der Begriff der kognitiven Reserve definiert?",
+      "options": [
+        "Als Fähigkeit des Gehirns, bereits entstandene Amyloid-Plaques und Tangles wieder vollständig abzubauen.",
+        "Als Fähigkeit, die Neuropathologie zu überstehen, bevor Symptome einer Demenz auftreten.",
+        "Als Geschwindigkeit, mit der nach einer Demenzdiagnose neue Nervenzellen nachgebildet werden können.",
+        "Als Menge an grauer Substanz, die im höheren Lebensalter über der Altersnorm zur Verfügung steht."
+      ],
+      "explanation": "Als kognitive Reserve wird die Fähigkeit bezeichnet, die Neuropathologie zu überstehen, bevor Symptome einer Demenz auftreten – eine gute Bildung in der Kindheit baut sie auf. Ein vollständiger Abbau bereits entstandener Plaques und Tangles ist damit nicht gemeint und auch nicht beschrieben. Eine reine Volumenangabe der grauen Substanz erfasst den funktionellen Charakter des Konzepts nicht. Und eine Neubildung von Nervenzellen nach der Diagnose ist nicht Teil der Definition."
+    },
+    {
+      "topic": "Bildung & kognitive Reserve",
+      "transfer": true,
+      "answer": 2,
+      "question": "Ein 64-Jähriger überlegt, vorzeitig in den Ruhestand zu gehen, und fragt, ob das seiner geistigen Fitness schaden könnte. Was entspricht am ehesten den Befunden der Vorlesung?",
+      "options": [
+        "Ein früher Ruhestand wirkt protektiv, weil dadurch berufsbedingter Stress und die damit verbundene Neuroinflammation wegfallen.",
+        "Der Zeitpunkt des Ruhestands ist für den kognitiven Verlauf ohne Bedeutung, weil die kognitive Reserve bereits in der Kindheit festgelegt wird.",
+        "Menschen im Ruhestand zeigen einen starken Verfall kognitiver Fähigkeiten; in Ländern mit früherem Ruhestand fällt die Leistung im Alter schneller ab.",
+        "Nur körperliche, nicht aber kognitiv anspruchsvolle Tätigkeit im höheren Alter steht mit einem verringerten Demenzrisiko in Verbindung."
+      ],
+      "explanation": "Unter dem Stichwort „Use it or lose it“ wird berichtet, dass Menschen im Ruhestand einen starken Verfall kognitiver Fähigkeiten zeigen und dass in Ländern mit früherem Ruhestandsalter die kognitive Leistungsfähigkeit im hohen Alter schneller abfällt. Der Zeitpunkt ist also gerade nicht bedeutungslos, und die kognitive Reserve lässt sich auch im mittleren und höheren Alter noch beeinflussen. Ein protektiver Effekt des frühen Ruhestands über wegfallenden Stress wird nicht berichtet. Und kognitiv anspruchsvolle Beschäftigung im hohen Alter kann das Demenzrisiko ausdrücklich reduzieren."
+    },
+    {
+      "topic": "Schwerhörigkeit",
+      "answer": 1,
+      "question": "Über welche Mechanismen wird der Zusammenhang zwischen Hörverlust und Demenzrisiko erklärt?",
+      "options": [
+        "Über eine direkte Ablagerung von β-Amyloid im Innenohr, die sich von dort entlang des Hörnervs bis in den auditorischen Kortex ausbreitet.",
+        "Über eine Reduktion auditiver Hirnregionen und damit der kognitiven Prozessierung sowie über verhinderten sozialen Austausch.",
+        "Über eine Zunahme der Hörschwelle, die zwar messbar ist, aber ohne jeden Einfluss auf kognitive Leistungen bleibt.",
+        "Über eine Schädigung des Hörnervs, die unmittelbar zum Untergang dopaminerger Neurone der Substantia nigra führt."
+      ],
+      "explanation": "Der Zusammenhang wird darüber erklärt, dass eine Reduktion der auditiven Hirnregionen mit einer Reduktion der kognitiven Prozessierung einhergeht und dass der Hörverlust sozialen Austausch und kognitive Stimulation verhindert; berichtet wird eine Abnahme der kognitiven Leistungsfähigkeit je 10 dB Hörverlust, was etwa einer Halbierung der wahrgenommenen Lautstärke entspricht. Eine Amyloidablagerung im Innenohr wird nirgends beschrieben. Ein Untergang dopaminerger Neurone der Substantia nigra betrifft das Parkinson-Syndrom, nicht den Hörverlust. Und ein fehlender Einfluss auf die Kognition widerspricht dem Befund unmittelbar."
+    },
+    {
+      "topic": "Schwerhörigkeit",
+      "transfer": true,
+      "answer": 3,
+      "question": "Eine 58-jährige Patientin mit deutlicher Schwerhörigkeit lehnt ein Hörgerät als „Alterszeichen“ ab. Welche Beratung entspricht am ehesten der Vorlesung?",
+      "options": [
+        "Da Hörverlust dem höheren Lebensalter zugeordnet wird, ist in ihrem Alter noch keine Maßnahme angezeigt.",
+        "Ein Gehörschutz in lauter Umgebung ersetzt bei bereits bestehender Schwerhörigkeit die Versorgung mit einem Hörgerät.",
+        "Hörgeräte verbessern zwar das Hören, haben auf den kognitiven Verfall aber keinen nachweisbaren Einfluss.",
+        "Hörgeräte sind bei Schwerhörigkeit der stärkste Faktor, um dem kognitiven Verfall entgegenzuwirken."
+      ],
+      "explanation": "Hörgeräte gelten als der stärkste Faktor, um bei Schwerhörigkeit dem kognitiven Verfall entgegenzuwirken – die Ablehnung ist daher gerade in dieser Situation ungünstig. Ein fehlender Einfluss auf den kognitiven Verfall widerspricht diesem Befund. Gehörschutz ist eine Maßnahme der Prävention, etwa gegen Schalldruck in der Diskothek, und ersetzt bei bestehendem Hörverlust keine Versorgung. Und Hörverlust zählt zu den Faktoren des mittleren Lebensabschnitts von 18 bis 65 Jahren, betrifft die 58-Jährige also unmittelbar."
+    },
+    {
+      "topic": "Depression",
+      "hard": true,
+      "trap": "Der Zusammenhang ist in beide Richtungen deutbar – die Depression kann auch Frühsymptom der Neuropathologie sein.",
+      "answer": 2,
+      "question": "Wie ist der Zusammenhang zwischen Depression und Demenz nach der Kommission am ehesten zu bewerten?",
+      "options": [
+        "Ein Zusammenhang besteht nur im höheren Lebensalter, während Depressionen in der Lebensmitte ohne Bedeutung bleiben.",
+        "Ein Zusammenhang besteht ausschließlich für die vaskuläre Demenz, alle anderen Demenzformen sind davon unberührt.",
+        "Eine umgekehrte Verursachung ist möglich, da depressive Symptome aus der Neuropathologie Jahre vor der klinischen Demenz resultieren können.",
+        "Die Depression ist als gesicherte alleinige Ursache der Demenz anzusehen, eine umgekehrte Wirkrichtung ist nach heutigem Kenntnisstand ausgeschlossen."
+      ],
+      "explanation": "Depressionen sind mit dem Auftreten von Demenz assoziiert, sind aber zugleich Teil des Prodroms und der frühen Stadien; eine umgekehrte Ursache ist möglich, wobei depressive Symptome aus einer Demenz-Neuropathologie resultieren, die Jahre vor der klinischen Demenz auftritt. Eine gesicherte alleinige Verursachung lässt sich daraus gerade nicht ableiten. Depressionen begünstigen ausdrücklich alle Demenzformen, nicht nur die vaskuläre. Und sie werden dem mittleren Lebensabschnitt zugeordnet, gelten also gerade dort als relevant."
+    },
+    {
+      "topic": "Depression",
+      "answer": 1,
+      "question": "Was lässt sich über den Einfluss antidepressiver Medikation auf das Demenzrisiko sagen?",
+      "options": [
+        "Antidepressiva erhöhen das Demenzrisiko konsistent, weshalb bei Älteren von ihrem Einsatz abgeraten wird.",
+        "Die Befundlage ist uneinheitlich; ob eine antidepressive Behandlung das Demenzrisiko mindert, bleibt ungeklärt.",
+        "Der Einfluss von Antidepressiva wurde bislang in keiner einzigen Studie zum Demenzrisiko untersucht.",
+        "Die Befundlage ist eindeutig; eine antidepressive Behandlung senkt das Demenzrisiko in allen vorliegenden Studien."
+      ],
+      "explanation": "Antidepressive Medikation reduzierte das Risiko in einigen Studien, in anderen nicht; ob eine antidepressive Behandlung das Demenzrisiko mindert, bleibt somit ungeklärt. Eine eindeutig risikosenkende Wirkung in allen Studien überzeichnet die Befundlage. Eine konsistente Risikoerhöhung mit entsprechender Abratungsempfehlung wird ebenfalls nicht berichtet. Und dass gar keine Studien vorlägen, widerspricht der ausdrücklich als gemischt beschriebenen Datenlage."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma",
+      "answer": 0,
+      "question": "Welche Aussage zum Schädel-Hirn-Trauma als Demenzrisikofaktor trifft **NICHT** zu?",
+      "options": [
+        "Nur ein einzelnes schweres Trauma erhöht das Risiko, während die Anzahl der Ereignisse ohne Bedeutung bleibt.",
+        "Das Risiko steigt mit der Anzahl und der Schwere der Traumata, wobei Männer ein höheres Risiko tragen.",
+        "Das Schädel-Hirn-Trauma ist mit einer pathologischen Hyperphosphorylierung des Tau-Proteins assoziiert.",
+        "Militärveteranen haben ein hohes Risiko für berufsbedingte Schädel-Hirn-Traumata."
+      ],
+      "explanation": "Das Demenzrisiko steigt ausdrücklich mit der Anzahl und der Schwere der Traumata – die Behauptung, allein ein einzelnes schweres Ereignis zähle, ist damit die gesuchte, unzutreffende Aussage. Zutreffend sind die Assoziation mit einer pathologischen Tau-Hyperphosphorylierung, das mit Anzahl und Schwere steigende Risiko mit höherem Risiko bei Männern und bei frühen Traumata vor dem 65. Lebensjahr sowie das hohe berufsbedingte Risiko von Militärveteranen."
+    },
+    {
+      "topic": "Schädel-Hirn-Trauma",
+      "transfer": true,
+      "answer": 2,
+      "question": "In einer Kohorte ehemaliger Profifußballer zeigt eine Position ein besonders hohes Demenzrisiko. Welche Erklärung entspricht am ehesten der Vorlesung?",
+      "options": [
+        "Torhüter tragen das höchste Risiko, weil sie am häufigsten mit dem Kopf voran in Zweikämpfe gehen.",
+        "Stürmer tragen das höchste Risiko, weil sie die intensivsten Ausdauerbelastungen zu bewältigen haben.",
+        "Abwehrspieler wiesen die meisten Kopfbälle auf und damit die höchste Belastung durch wiederholte Traumata.",
+        "Die Position ist ohne Bedeutung, da im Fußball insgesamt kein erhöhtes Demenzrisiko nachweisbar ist."
+      ],
+      "explanation": "Fußballspieler zeigten ein höheres Demenzrisiko, und unter ihnen wiesen die Abwehrspieler die meisten Kopfbälle auf – die kumulierte Kopfballbelastung ist die berichtete Erklärung. Für Torhüter oder Stürmer wird kein solcher Zusammenhang berichtet, und Ausdauerbelastung ist ohnehin kein Mechanismus des Traumarisikos. Und dass im Fußball insgesamt kein erhöhtes Risiko bestünde, widerspricht dem Befund unmittelbar."
+    },
+    {
+      "topic": "Kardiovaskuläre Faktoren",
+      "answer": 3,
+      "question": "Warum ist der Zusammenhang zwischen Rauchen und Demenzrisiko methodisch mit einer Unsicherheit behaftet?",
+      "options": [
+        "Der Zusammenhang lässt sich nur im Tiermodell prüfen, weil Rauchen beim Menschen nicht erhoben werden kann.",
+        "Nikotin wirkt an denselben Rezeptoren wie die Antidementiva, sodass sich beide Effekte gegenseitig aufheben.",
+        "Rauchende werden in Kohortenstudien systematisch überrepräsentiert, wodurch das Risiko regelhaft überschätzt wird.",
+        "Rauchende sterben häufiger vorzeitig, bevor sie das Alter erreichen, in dem sie eine Demenz entwickeln könnten."
+      ],
+      "explanation": "Rauchende haben nicht nur ein höheres Demenzrisiko als Nichtrauchende, sondern auch ein höheres Risiko eines vorzeitigen Todes vor dem Alter, in dem sie eine Demenz entwickeln könnten – daraus ergibt sich eine gewisse Verzerrung und Unsicherheit. Eine systematische Überrepräsentation Rauchender in Kohorten wird nicht als Grund genannt. Rauchen lässt sich beim Menschen selbstverständlich erheben, ein Tiermodell ist nicht erforderlich. Und eine wechselseitige Aufhebung von Nikotin- und Antidementiva-Wirkung wird nirgends beschrieben; ursächlich sind hauptsächlich kardiovaskuläre Faktoren, und ein Rauchstopp senkt das Risiko auch im Alter."
+    },
+    {
+      "topic": "Kardiovaskuläre Faktoren",
+      "trap": "Hypertonie schlägt sich strukturell und vaskulär nieder – nicht in vermehrtem β-Amyloid.",
+      "answer": 0,
+      "question": "Womit ist eine Hypertonie im mittleren Lebensalter assoziiert?",
+      "options": [
+        "Mit reduziertem Hirnvolumen und Hyperintensitäten der weißen Substanz, nicht aber mit erhöhtem β-Amyloid-Vorkommen.",
+        "Mit erhöhtem β-Amyloid-Vorkommen, während Hirnvolumen und weiße Substanz unverändert bleiben.",
+        "Mit einem verringerten Risiko für Demenzen im späten Lebensalter, sofern der Druck dauerhaft erhöht bleibt.",
+        "Mit einer Zunahme des Hirnvolumens, die als kompensatorische Reaktion auf den erhöhten Perfusionsdruck gilt."
+      ],
+      "explanation": "Eine anhaltende Hypertonie im mittleren Lebensalter geht mit einem erhöhten Demenzrisiko im späten Lebensalter einher und ist mit reduziertem Hirnvolumen sowie Hyperintensitäten der weißen Substanz assoziiert – ausdrücklich aber nicht mit erhöhtem β-Amyloid-Vorkommen. Die Umkehrung mit erhöhtem Amyloid bei unveränderter Struktur widerspricht dem. Eine Volumenzunahme als Kompensation wird nicht berichtet. Und ein verringertes Risiko bei dauerhaft erhöhtem Druck kehrt den Befund vollständig um."
+    },
+    {
+      "topic": "Kardiovaskuläre Faktoren",
+      "hard": true,
+      "answer": 0,
+      "question": "Welche Beobachtung zum Blutdruck im höheren Lebensalter hebt die Vorlesung als bemerkenswert hervor?",
+      "options": [
+        "Der Blutdruck sinkt im höheren Alter, und dieser Rückgang steht mit der Entwicklung einer Demenz in Verbindung.",
+        "Der Blutdruck sinkt im höheren Alter, was durchgehend als günstiges Zeichen einer erfolgreichen Behandlung gilt.",
+        "Der Blutdruck bleibt im höheren Alter konstant, weshalb er als Risikofaktor jenseits von 65 Jahren keine Rolle spielt.",
+        "Der Blutdruck steigt im höheren Alter weiter an, und allein dieser Anstieg erklärt die Demenzentwicklung vollständig."
+      ],
+      "explanation": "Bemerkenswert ist, dass der Blutdruck im höheren Lebensalter sinkt und dieser Rückgang mit der Entwicklung einer Demenz in Verbindung steht und möglicherweise sogar dadurch verursacht wird. Ein weiterer Anstieg als vollständige Erklärung widerspricht dieser Beobachtung. Ein konstant bleibender Blutdruck ohne Bedeutung im Alter trifft ebenfalls nicht zu. Und den Rückgang durchgehend als günstiges Behandlungszeichen zu lesen, verkennt genau den Punkt: Er kann Folge der beginnenden Erkrankung sein."
+    },
+    {
+      "topic": "Kardiovaskuläre Faktoren",
+      "answer": 2,
+      "question": "Woraus setzt sich der kardiovaskuläre Gesundheitsscore zusammen, der mit einem verringerten Demenzrisiko einherging?",
+      "options": [
+        "Ausschließlich aus verhaltensbezogenen Angaben, weil Laborwerte im höheren Alter kaum noch aussagekräftig sind.",
+        "Aus drei verhaltensbezogenen Messwerten und vier biologischen, darunter Nüchternglukose, Cholesterin, Blutdruck und APOE-Status.",
+        "Aus vier verhaltensbezogenen Messwerten – Rauchen, Ernährung, körperliche Aktivität und BMI – und drei biologischen.",
+        "Ausschließlich aus biologischen Laborwerten, weil verhaltensbezogene Angaben als zu unzuverlässig eingestuft wurden."
+      ],
+      "explanation": "Der Score beruhte auf vier verhaltensbezogenen Messwerten – Rauchen, Ernährung, körperliche Aktivität und BMI – sowie drei biologischen: Nüchternglukose, Blutcholesterin und Blutdruck; ein besserer Wert ging mit einem verringerten Demenzrisiko und zudem mit größerem Hippocampus- und Gesamthirnvolumen einher. Die Zahlen vertauscht anzugeben und den APOE-Status hinzuzunehmen trifft nicht zu – der Genotyp ist nicht Bestandteil des Scores. Und eine Beschränkung auf ausschließlich biologische oder ausschließlich verhaltensbezogene Werte widerspricht dem kombinierten Ansatz, der gerade den Kern der Untersuchung ausmacht."
+    },
+    {
+      "topic": "Übergewicht & Cholesterin",
+      "trap": "Die Kommission trennt Adipositas von bloßem Übergewicht – nicht jeder erhöhte BMI zählt hier gleich.",
+      "answer": 0,
+      "question": "Welche Aussage zu Körpergewicht und Demenzrisiko trifft am ehesten zu?",
+      "options": [
+        "Adipositas, nicht aber Übergewicht, konnte mit einem erhöhten Demenzrisiko in Verbindung gebracht werden.",
+        "Ein Zusammenhang zwischen Körpergewicht und Demenzrisiko ließ sich in keiner Untersuchung nachweisen.",
+        "Übergewicht, nicht aber Adipositas, konnte mit einem erhöhten Demenzrisiko in Verbindung gebracht werden.",
+        "Ein Gewichtsverlust ging in den Untersuchungen durchgehend mit einer Verschlechterung der Gedächtnisleistung einher."
+      ],
+      "explanation": "Berichtet wird, dass Adipositas, nicht aber bloßes Übergewicht, mit einem erhöhten Demenzrisiko in Verbindung gebracht werden konnte; andere Studien zeigen zudem einen Risikoanstieg mit steigendem BMI. Die vertauschte Zuordnung widerspricht dem. Ein Gewichtsverlust von 2 kg oder mehr bei Probanden mit einem BMI über 25 und einem Alter um 50 Jahre war gerade mit einer Verbesserung der Aufmerksamkeits- und Gedächtnisleistung assoziiert, nicht mit einer Verschlechterung. Und ein völlig fehlender Zusammenhang widerspricht der Aufnahme des Übergewichts unter die 14 Risikofaktoren."
+    },
+    {
+      "topic": "Übergewicht & Cholesterin",
+      "hard": true,
+      "answer": 2,
+      "question": "Welche Aussage zu LDL- und HDL-Cholesterin und Demenzrisiko trifft am ehesten zu?",
+      "options": [
+        "LDL-Cholesterin wirkt ausschließlich über den APOE-Status, weshalb bei ε3-Homozygoten kein Zusammenhang besteht.",
+        "Ein hoher LDL-Spiegel ist mit einem verringerten Demenzrisiko verbunden, während HDL-Cholesterin das Risiko erhöht.",
+        "Ein hoher LDL-Spiegel geht mit höherem Demenz- und Schlaganfallrisiko sowie mit β-Amyloid- und Tau-Deposition einher.",
+        "Unter einer Medikation mit Lipidsenkern zeigte sich ein deutlich erhöhtes Demenzrisiko gegenüber Unbehandelten."
+      ],
+      "explanation": "Zahlreiche Studien und Metaanalysen verweisen auf ein höheres Demenzrisiko bei hohem LDL-Cholesterinspiegel, verbunden mit höherem Schlaganfallrisiko sowie β-Amyloid- und Tau-Proteindeposition. Die Umkehrung von LDL und HDL widerspricht dem: Einzelne Studien verweisen gerade auf einen protektiven Effekt hoher HDL-Werte, die erhöhtes Cholesterin senken und negativ mit der β-Amyloid-Deposition assoziiert sind. Unter Lipidsenkern zeigte sich kein erhöhtes Demenzrisiko. Und der Zusammenhang besteht zum Teil ausdrücklich unabhängig vom APOE-Status."
+    },
+    {
+      "topic": "Bewegung & Diabetes",
+      "transfer": true,
+      "answer": 3,
+      "question": "Ein bislang völlig unsportlicher 60-Jähriger fragt, welches Sportprogramm die Kommission 2024 zur Demenzprävention empfiehlt. Welche Antwort entspricht am ehesten der Vorlesung?",
+      "options": [
+        "Bewegung wirkt nur bei bereits sportlich Aktiven weiter protektiv; ein später Einstieg bringt keinen messbaren Zusatznutzen.",
+        "Empfohlen wird ausschließlich ein exakt definiertes Ausdauerprogramm mit fester Wochendauer, da allein dieses Format in den Metaanalysen protektiv wirkte.",
+        "Bewegung schützt nach den Metaanalysen nur vor der vaskulären Demenz, während sie bei der Alzheimer-Demenz ohne Wirkung bleibt.",
+        "Konkrete Dauer und Sportarten werden nicht mehr genannt; jegliche Bewegung ist besser als keine, gerade bei extrem Inaktiven."
+      ],
+      "explanation": "Im Bericht 2024 werden konkrete Dauer und Sportarten – anders als im Report von 2020 – nicht mehr genannt; jegliche Bewegung gilt als besser als keine, und die Effekte waren am größten bei extrem inaktiven Personen, die zur Aktivität übergegangen sind. Ein exakt definiertes Ausdauerprogramm als alleinige Empfehlung widerspricht dieser Öffnung. Dass ein später Einstieg nichts brächte, kehrt genau den stärksten Befund um. Und Metaanalysen verweisen auf einen protektiven Effekt für alle Demenzarten, nicht nur für die vaskuläre Form."
+    },
+    {
+      "topic": "Bewegung & Diabetes",
+      "answer": 1,
+      "question": "Welche Mechanismen werden für den Zusammenhang zwischen Typ-2-Diabetes und Demenz diskutiert?",
+      "options": [
+        "Eine direkte Zerstörung der Betazellen des Pankreas durch die im Gehirn gebildeten Amyloid-Plaques und neurofibrillären Tangles.",
+        "Insulinresistenz mit verändertem Hirnmetabolismus, gesteigerte β-Amyloid-Toxizität, Tau-Hyperphosphorylierung und Neuroinflammation.",
+        "Ein durchgehend belegter Schutzeffekt der antidiabetischen Medikation, der das Demenzrisiko zuverlässig normalisiert.",
+        "Ein rein zufälliger Zusammenhang, da Typ-2-Diabetes nicht zu den 14 modifizierbaren Risikofaktoren zählt."
+      ],
+      "explanation": "Diskutiert werden mikro- und makrovaskuläre Komplikationen einschließlich Schlaganfallrisiko sowie Insulinresistenzen, die die Insulin-Signaltransduktion und damit den Hirnmetabolismus verändern, ferner gesteigerte β-Amyloid-Toxizität, Tau-Hyperphosphorylierung, oxidativer Stress und Neuroinflammation. Eine Zerstörung der Betazellen durch zerebrale Ablagerungen kehrt die Wirkrichtung um. Die Daten zur medikamentösen Diabetesbehandlung sind ausdrücklich gemischt, ein zuverlässiger Schutzeffekt ist nicht belegt. Und Diabetes zählt sehr wohl zu den 14 modifizierbaren Risikofaktoren des mittleren Lebensabschnitts."
+    },
+    {
+      "topic": "Alkohol & sozialer Kontakt",
+      "trap": "Auch „gar kein Alkohol“ erschien risikoerhöht – vermutlich durch ehemals exzessiv Trinkende in dieser Gruppe.",
+      "answer": 2,
+      "question": "Welche Aussage zum Alkoholkonsum und Demenzrisiko trifft am ehesten zu?",
+      "options": [
+        "Der Zusammenhang verläuft streng linear: Je weniger Alkohol pro Woche konsumiert wird, desto geringer fällt das Demenzrisiko in allen Studien aus.",
+        "Alkoholkonsumstörungen erhöhen zwar das Risiko, sind aber mit einem deutlich späteren Erkrankungsbeginn verbunden.",
+        "Auch gar kein Alkoholkonsum wurde mit erhöhtem Risiko assoziiert, möglicherweise durch ehemals exzessiv Trinkende in dieser Gruppe.",
+        "Für die Schwellenwerte des Konsums liegt ein einheitlicher, in allen Studien übereinstimmender Grenzwert vor."
+      ],
+      "explanation": "Neben dem klaren Risiko durch hohen Konsum wurde auch gar kein Alkoholkonsum mit einem erhöhten Demenzrisiko assoziiert – möglicherweise, weil in dieser Gruppe Personen sind, die zuvor exzessiv getrunken und den Konsum dann aufgegeben haben. Ein streng linearer Zusammenhang lässt sich daraus gerade nicht ableiten. Alkoholkonsumstörungen sind ausdrücklich mit einem früheren, nicht späteren Erkrankungsbeginn assoziiert. Und einheitliche Schwellenwerte fehlen: Genannt werden weniger als 21 Einheiten pro Woche, zugleich aber auch Studien mit abweichenden Schwellen."
+    },
+    {
+      "topic": "Alkohol & sozialer Kontakt",
+      "answer": 2,
+      "question": "Welche Aussage zum sozialen Kontakt als Schutzfaktor trifft **NICHT** zu?",
+      "options": [
+        "Sozialer Kontakt schützt die kognitive Reserve, fördert gesundheitsförderndes Verhalten und reduziert Entzündungen.",
+        "Soziale Interventionen wie Diskussionsgruppen konnten mit besseren kognitiven Fähigkeiten und größerem Hirnvolumen assoziiert werden.",
+        "Soziale Isolation und gefühlte Einsamkeit werden gleichgesetzt, weil sie dasselbe Konstrukt beschreiben.",
+        "Fehlende soziale Kontakte erhöhen das Demenzrisiko, können aber auch Folge der Demenz sein."
+      ],
+      "explanation": "Soziale Isolation und gefühlte Einsamkeit werden ausdrücklich differenziert und gerade nicht gleichgesetzt – das ist die gesuchte, unzutreffende Aussage. Zutreffend sind dagegen die Schutzwirkung sozialen Kontakts auf die kognitive Reserve samt Förderung gesundheitsförderlichen Verhaltens und Reduktion von Entzündungen, die mögliche Umkehrung der Wirkrichtung – fehlende Kontakte können auch Folge der Demenz sein – sowie die Assoziation sozialer Interventionen mit besseren kognitiven Fähigkeiten und größerem Hirnvolumen."
+    },
+    {
+      "topic": "Alkohol & sozialer Kontakt",
+      "transfer": true,
+      "answer": 3,
+      "question": "Eine Pflegeeinrichtung erwägt, Gruppenangebote dauerhaft zu streichen, um Infektionsrisiken zu senken. Was ist nach den Erfahrungen aus der COVID-19-Pandemie zu bedenken?",
+      "options": [
+        "Die Folgen betrafen ausschließlich die Bewohnenden, während pflegende Angehörige unbelastet blieben.",
+        "Die Isolation blieb ohne messbare Folgen für die Kognition, da der Krankheitsverlauf primär neuropathologisch bestimmt wird.",
+        "Die Isolation wirkte sich günstig aus, weil die Reizüberflutung durch Gruppenangebote entfiel.",
+        "Die Isolation ließ die kognitive Leistung rapide absinken und verschlechterte den Krankheitsverlauf dramatisch."
+      ],
+      "explanation": "Die pandemiebedingte Isolation älterer Menschen verhinderte sozialen Kontakt und damit körperliche wie kognitive Aktivität; die kognitive Leistung sank rapide ab, und der Krankheitsverlauf verschlechterte sich dramatisch – Menschen mit Demenz verloren zudem die Unterstützung durch Kunst-, Musik- und Bewegungsgruppen. Ein Ausbleiben messbarer Folgen widerspricht dem unmittelbar. Ein günstiger Effekt durch weniger Reize wird nirgends berichtet. Und auch pflegende Angehörige hatten keine Anlaufmöglichkeiten mehr, was bis zur Aufgabe der familiären Pflege führen konnte – deshalb sind besucherfreundliche Konzepte wie Luftfilter, Lüftung und Schnelltests ausdrücklich gefordert."
+    },
+    {
+      "topic": "Luftschadstoffe & Sehverlust",
+      "answer": 0,
+      "question": "Über welche Wege wirken Luftschadstoffe nach der Vorlesung auf das Demenzrisiko?",
+      "options": [
+        "Feinstaub kann Blutgefäße schädigen, die β-Amyloid-Last erhöhen und das Gehirn über den Bulbus olfactorius erreichen.",
+        "Stickstoffdioxid wirkt nachweislich protektiv und hebt die schädlichen Effekte des Feinstaubs weitgehend auf.",
+        "Feinstaub wirkt ausschließlich über die Lunge und erreicht weder Blutgefäße noch Strukturen des Zentralnervensystems.",
+        "Die Effekte von Feinstaub und Stickstoffdioxid lassen sich klar voneinander trennen und heben einander gegenseitig auf."
+      ],
+      "explanation": "Feinstaubpartikel können Blutgefäße auch im ZNS schädigen, Herz-Kreislauf-Erkrankungen auslösen, die β-Amyloid-Last im Gehirn erhöhen und das Gehirn zudem über den Bulbus olfactorius erreichen. Eine Beschränkung auf die Lunge widerspricht dem. Stickstoffdioxid wirkt ebenfalls schädlich und keineswegs protektiv – wie auch Kohlenstoffmonoxid und Feinstaub ist es mit erhöhtem Demenzrisiko assoziiert. Und die Effekte von Stickstoffdioxid und Feinstaub sind kaum voneinander zu trennen und addieren sich vermutlich, statt sich aufzuheben."
+    },
+    {
+      "topic": "Luftschadstoffe & Sehverlust",
+      "transfer": true,
+      "answer": 3,
+      "question": "Bei einer 78-Jährigen besteht seit Jahren ein unbehandelter Grauer Star. Wie ist das im Hinblick auf ihr Demenzrisiko einzuordnen?",
+      "options": [
+        "Wegen der noch geringen Zahl verfügbarer Studien hat die Kommission den Verlust der Sehfähigkeit nicht in ihre Faktorenliste aufgenommen.",
+        "Sehverlust ist für das Demenzrisiko ohne Bedeutung, da allein der Hörverlust die kognitive Stimulation beeinflusst.",
+        "Ein Zusammenhang besteht nur bei diabetesbedingten Augenschädigungen, nicht aber beim Grauen Star.",
+        "Unbehandelter Sehverlust wurde mit allen Demenzformen assoziiert, unter anderem über verminderte Stimulation und kognitive Prozessierung."
+      ],
+      "explanation": "Der unbehandelte Verlust der Sehfähigkeit konnte in Metaanalysen mit allen Demenzformen assoziiert werden; als Mechanismus gilt die verminderte Stimulation und kognitive Prozessierung, und gerade der Graue Star wird in Ländern mit geringem Einkommen kaum behandelt. Eine Beschränkung der Stimulationswirkung auf das Hören trifft nicht zu. Auch diabetesbedingte Augenschädigungen können das Risiko erhöhen – der Zusammenhang ist also nicht auf sie beschränkt, sondern schließt sie ein. Und obwohl bislang nur wenige Studien vorliegen, sah die Kommission den Sehverlust ausdrücklich als wichtigen Risikofaktor und nahm ihn in die Liste auf."
+    },
+    {
+      "topic": "Schlaf & glymphatisches System",
+      "answer": 1,
+      "question": "Welche Aussage zum Zusammenhang von Schlaf und Demenzrisiko trifft **NICHT** zu?",
+      "options": [
+        "Die genauen Mechanismen sind weitgehend ungeklärt, weshalb der Schlaf als Risikofaktor mit unzureichender Evidenz geführt wird.",
+        "Erst Schlafdauern unter fünf Stunden sind riskant, während eine sehr lange Schlafdauer durchgehend protektiv wirkt.",
+        "Schlafstörungen sind mit einer erhöhten β-Amyloid-Last und einem erhöhten Tau-Proteinvorkommen assoziiert.",
+        "Schlafstörungen gehen mit niederschwelligen Entzündungen, kardiovaskulären Erkrankungen und Hypoxie einher."
+      ],
+      "explanation": "Sowohl Schlafdauern unter fünf Stunden als auch solche über zehn Stunden wurden mit einem erhöhten Demenzrisiko assoziiert – eine durchgehende Schutzwirkung sehr langen Schlafs ist damit die gesuchte, unzutreffende Aussage. Zutreffend sind die Assoziationen mit erhöhter β-Amyloid-Last und erhöhtem Tau-Vorkommen, mit niederschwelligen Entzündungen, kardiovaskulären Erkrankungen und Hypoxie sowie mit einer schlechteren glymphatischen Reinigung – und der Umstand, dass der Schlaf wegen weitgehend ungeklärter Mechanismen nur als Risikofaktor mit unzureichender Evidenz geführt wird."
+    },
+    {
+      "topic": "Schlaf & glymphatisches System",
+      "hard": true,
+      "answer": 0,
+      "question": "Wie funktioniert das glymphatische System des Gehirns?",
+      "options": [
+        "Zerebrospinalflüssigkeit tritt am arteriellen Kapillarabschnitt aus, die Interstitialflüssigkeit tritt am venösen Teil wieder ein.",
+        "Das Gehirn verfügt über ein eigenes Lymphsystem, das die Stoffwechselendprodukte wie in der Peripherie abtransportiert.",
+        "Zerebrospinalflüssigkeit tritt am venösen Kapillarabschnitt aus, die Interstitialflüssigkeit tritt am arteriellen Teil wieder ein.",
+        "Die Abfallprodukte werden über die Blut-Hirn-Schranke unmittelbar in die Blutbahn filtriert, ohne Beteiligung von Flüssigkeitsräumen."
+      ],
+      "explanation": "Da das Gehirn – anders als die Peripherie – kein Lymphsystem besitzt, werden Stoffwechselendprodukte über die Zerebrospinalflüssigkeit abtransportiert: Diese tritt im arteriellen Teil des Kapillarsystems aus, am venösen Teil tritt die Interstitialflüssigkeit wieder ein; genau das bezeichnet man als glymphatisches System. Die vertauschte Richtung widerspricht dem. Ein eigenes Lymphsystem des Gehirns wird ausdrücklich verneint – das ist ja der Grund für diesen Umweg. Und eine unmittelbare Filtration über die Blut-Hirn-Schranke ohne Flüssigkeitsräume beschreibt den Mechanismus nicht."
+    },
+    {
+      "topic": "Schlaf & glymphatisches System",
+      "hard": true,
+      "answer": 3,
+      "question": "Was ergab die Untersuchung des CSF-Einstroms bei Mäusen in Wach-, Schlaf- und Anästhesiephasen?",
+      "options": [
+        "Nur unter Anästhesie kam der Einstrom vollständig zum Erliegen, während Schlaf und Wachzustand sich nicht unterschieden.",
+        "Im Wachzustand war der Einstrom deutlich größer als im Schlaf, weil die höhere neuronale Aktivität die Durchspülung des Interstitialraums antreibt.",
+        "Der Einstrom war in allen drei Bedingungen gleich, sodass der Schlaf-Wach-Rhythmus für die Reinigung ohne Bedeutung ist.",
+        "Im Wachzustand war der Einstrom deutlich geringer als im Schlaf oder unter Anästhesie, vermutlich durch Kontraktion des Interstitialraums."
+      ],
+      "explanation": "Während der Wachphasen war der CSF-Einstrom in den Interstitialraum deutlich geringer als in Schlafphasen oder unter Anästhesie – vermutlich durch eine Kontraktion des Interstitialraums, wodurch die Flüssigkeit die Zellen schlechter umspülen kann; verantwortlich ist wahrscheinlich die im Schlaf reduzierte noradrenerge Transmission, denn die Infusion eines Noradrenalin-Antagonisten erzeugte ein dem Schlaf vergleichbares Ausbreitungsmuster. Ein größerer Einstrom im Wachzustand kehrt den Befund um. Gleiche Werte in allen Bedingungen widersprechen ihm ebenso. Und ein Erliegen unter Anästhesie trifft nicht zu – dort war der Einstrom gerade hoch, und β-Amyloid wurde im Schlaf doppelt so schnell entfernt wie im Wachzustand."
+    },
+    {
+      "topic": "Ernährung & Mikrobiom",
+      "answer": 1,
+      "question": "Welche Aussage zu Ernährung, Mikrobiom und Demenzrisiko trifft **NICHT** zu?",
+      "options": [
+        "Die Wirkung könnte über einen besseren kardiovaskulären Status vermittelt sein; die genauen Mechanismen bleiben ungeklärt.",
+        "Die WHO empfiehlt die Supplementierung von Vitamin B und E sowie mehrfach ungesättigten Fettsäuren zur Risikosenkung.",
+        "Zum Zusammenhang von Darmmikrobiom und Demenz liegen bislang nur wenige Studien vor, Schlussfolgerungen sind noch nicht möglich.",
+        "Mediterrane oder ähnliche nordische Ernährung könnte den kognitiven Verfall und das Demenzrisiko reduzieren."
+      ],
+      "explanation": "Die WHO-Richtlinien empfehlen zwar eine mediterrane Ernährung, kommen aber ausdrücklich zu dem Schluss, dass die Supplementierung von Vitamin B und E, mehrfach ungesättigten Fettsäuren und Multikomplexen **nicht** empfohlen werden sollte – die Aussage ist damit die gesuchte. Zutreffend sind der mögliche Nutzen mediterraner oder nordischer Ernährung, die eher als einzelne Mikronährstoffe wirkt, die Vermittlung über einen besseren kardiovaskulären Status bei weitgehend ungeklärten Mechanismen sowie die dünne Studienlage zum Darmmikrobiom, die noch keine Schlussfolgerungen erlaubt."
+    },
+    {
+      "topic": "Risikomaße: RR & PAF",
+      "hard": true,
+      "answer": 1,
+      "question": "Die Depression weist mit einem relativen Risiko von 2,2 den höchsten Wert aller 14 Faktoren auf, trägt aber nur etwa 3 % zum gewichteten populationsattributablen Anteil bei. Wie ist das am ehesten zu erklären?",
+      "options": [
+        "Das relative Risiko misst den Bevölkerungsanteil, der Anteil dagegen die individuelle Risikoerhöhung – beide Maße sind vertauscht.",
+        "Der populationsattributable Anteil hängt zusätzlich von der Prävalenz ab, und diese ist bei der Depression vergleichsweise niedrig.",
+        "Der populationsattributable Anteil ist bei der Depression niedrig, weil ihr relatives Risiko in der Tabelle fehlerhaft überschätzt wurde.",
+        "Ein hohes relatives Risiko geht regelhaft mit einem niedrigen attributablen Anteil einher, weil sich beide Maße gegenseitig ausschließen."
+      ],
+      "explanation": "Der populationsattributable Anteil (PAF) hängt nicht nur vom relativen Risiko, sondern auch von der Häufigkeit des Faktors in der Bevölkerung ab: Die Depression hat zwar das höchste relative Risiko, ist mit rund 7 % aber vergleichsweise selten, weshalb ihr gewichteter Anteil klein bleibt. Umgekehrt tragen Hörverlust und hohes LDL-Cholesterin trotz moderater relativer Risiken je etwa 7 % bei, weil sie sehr verbreitet sind. Ein Rechenfehler in der Tabelle ist nicht die Erklärung. Die beiden Maße sind auch nicht vertauscht – das relative Risiko beschreibt die individuelle Risikoerhöhung, der PAF den Bevölkerungsanteil. Und ein regelhafter Gegensatz beider Maße besteht nicht; sie schließen einander keineswegs aus."
+    }
+  ]
+}
