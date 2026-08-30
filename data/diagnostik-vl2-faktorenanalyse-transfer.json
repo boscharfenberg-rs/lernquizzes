@@ -1,0 +1,347 @@
+{
+  "id": "diagnostik-vl2-faktorenanalyse-transfer",
+  "title": "VL2 – Faktorenanalyse: Verständnis & Transfer (Sitzung 8)",
+  "subject": "Psychologische Diagnostik",
+  "description": "Empirische Überprüfung inkl. Revision(en) III: Faktorenanalyse. Verständnis- und Transferfragen zu Extraktion (PCA/PFA), Eignung (KMO, Bartlett), Faktorenzahl (Kaiser, Scree, Parallelanalyse), Rotation (Varimax/Oblimin, Einfachstruktur), Kennwerten (Eigenwert, Kommunalität, Faktorwert) sowie faktorieller Validität.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Rotation",
+      "question": "Ein Forscher rotiert eine 2-Faktoren-Lösung von unrotiert auf Varimax. Welche Kennwerte ändern sich dadurch nicht?",
+      "options": [
+        "Die prozentual aufgeklärte Varianz pro Faktor",
+        "Die Eigenwerte der einzelnen Faktoren",
+        "Die Anzahl der Primärladungen über .50",
+        "Die Kommunalitäten der Items und die insgesamt aufgeklärte Varianz",
+        "Die Faktorladungen der einzelnen Items"
+      ],
+      "answer": 3,
+      "explanation": "Die Rotation dreht nur das Koordinatensystem, sie ändert nichts an der Lage der Variablen zueinander. Die Kommunalität eines Items (= Anteil seiner Varianz, der durch alle Faktoren gemeinsam aufgeklärt wird) bleibt deshalb konstant, ebenso die Gesamtvarianzaufklärung. Was sich ändert, ist die Verteilung dieser Varianz auf die einzelnen Faktoren — also Ladungen, Eigenwerte und % Varianz pro Faktor.",
+      "trap": "Rotation lässt Kommunalität und Gesamtvarianz unverändert – nur die Verteilung auf die Faktoren (Ladungen, Eigenwerte) ändert sich.",
+      "transfer": true
+    },
+    {
+      "topic": "Extraktion: PCA vs. latente Variablen",
+      "question": "Warum sind Hauptkomponenten (PCA) im strengen Sinne keine latenten Variablen?",
+      "options": [
+        "Weil sie immer orthogonal zueinander stehen",
+        "Weil sie erst nach der Rotation interpretierbar werden",
+        "Weil sie nur bei metrischen Variablen berechnet werden dürfen",
+        "Weil ihre Eigenwerte nicht größer als 1 werden können",
+        "Weil sie die gesamte Varianz der Variablen inklusive Messfehler enthalten und damit nichts \"erklären\" können"
+      ],
+      "answer": 4,
+      "explanation": "Die PCA setzt die Kommunalität auf 1, nimmt also implizit messfehlerfreie Messung an. Die gesamte beobachtete Varianz gilt als wahre Varianz und wandert in die Komponenten — der Messfehler wird mit eingebunden. Eine latente Variable soll aber genau das erklären, was den manifesten Variablen gemeinsam und wahr zugrunde liegt. Eine Komponente ist deshalb eine reine Datenzusammenfassung, keine erklärende Größe.",
+      "hard": true
+    },
+    {
+      "topic": "Eignung: KMO & Bartlett",
+      "question": "Eine Studie mit N = 2000 berichtet: Bartlett-Test χ²(190) = 4312.7, p < .001; Gesamt-KMO = .47. Wie ist das zu bewerten?",
+      "options": [
+        "Die Matrix ist geeignet, sofern anschließend oblique rotiert wird",
+        "Es lässt sich ohne Angabe der Kommunalitäten nichts sagen",
+        "Die Matrix ist geeignet, weil der Bartlett-Test das strengere Kriterium ist",
+        "Beide Kriterien sprechen für eine Faktorenanalyse",
+        "Die Matrix ist ungeeignet; der signifikante Bartlett-Test ist bei diesem N wenig aussagekräftig"
+      ],
+      "answer": 4,
+      "explanation": "Die Prüfgröße des Bartlett-Tests ist höchst stichprobenabhängig — je größer N, desto eher wird er signifikant, auch bei trivialen Korrelationen. Bei N = 2000 ist die Signifikanz daher fast erwartbar und trägt kaum Information. Das KMO von .47 liegt dagegen unter dem absoluten Mindestwert von .50 (wünschenswert wären .80). Die Matrix ist ungeeignet.",
+      "hard": true,
+      "trap": "Ein signifikanter Bartlett-Test bei großem N sagt wenig; das KMO (.47 < .50) entscheidet – Matrix ungeeignet.",
+      "transfer": true
+    },
+    {
+      "topic": "Eignung: KMO-Logik",
+      "question": "Das KMO-Kriterium setzt Korrelationen ins Verhältnis zu Partialkorrelationen. Was genau ist die inhaltliche Logik dahinter?",
+      "options": [
+        "Wenn ein gemeinsamer Faktor existiert, sollte die Korrelation zweier Variablen nach Auspartialisierung aller anderen weitgehend verschwinden",
+        "Hohe Partialkorrelationen belegen, dass die Faktoren oblique rotiert werden müssen",
+        "Partialkorrelationen sind messfehlerbereinigt und daher die genaueren Schätzer",
+        "Das Verhältnis entspricht der Kommunalität der jeweiligen Variablen",
+        "Partialkorrelationen zeigen an, ob die Variablen normalverteilt sind"
+      ],
+      "answer": 0,
+      "explanation": "Läuft der Zusammenhang zweier Items über einen gemeinsamen Faktor, dann ist er weg, sobald man alle übrigen Variablen (die denselben Faktor mitmessen) kontrolliert. Kleine Partialkorrelationen im Nenner treiben MSA gegen 1. Bleiben die Partialkorrelationen dagegen hoch, hängen die Variablen paarweise und nicht über eine gemeinsame Struktur zusammen — dann gibt es nichts zu bündeln.",
+      "hard": true
+    },
+    {
+      "topic": "Faktorenzahl: Kaiser-Kriterium",
+      "question": "Warum überschätzt das Kaiser-Kriterium die Faktorenzahl besonders bei vielen Variablen?",
+      "options": [
+        "Weil bei vielen Variablen die Rotation nicht mehr konvergiert",
+        "Weil der Bartlett-Test dann immer signifikant wird",
+        "Weil die Faktorwerte dann nicht mehr z-standardisiert sind",
+        "Weil der maximal mögliche Eigenwert mit der Variablenzahl steigt und rein zufällige Korrelationen leichter Eigenwerte über 1 erzeugen",
+        "Weil bei vielen Variablen die Kommunalitäten systematisch sinken"
+      ],
+      "answer": 3,
+      "explanation": "Die Grenze \"Eigenwert > 1\" ist ein absoluter Schwellenwert, aber die Gesamtvarianz im System entspricht der Variablenzahl. Bei 60 Items verteilt sich viel mehr Varianz, und schon zufällige Korrelationsmuster erzeugen Faktoren, die knapp über 1 landen. Genau diese Scheinfaktoren sind das Argument für die Parallelanalyse.",
+      "hard": true
+    },
+    {
+      "topic": "Faktorenzahl: Parallelanalyse",
+      "question": "Was ist der eigentliche Grundgedanke der Parallelanalyse (Horn, 1965)?",
+      "options": [
+        "Man erzeugt unkorrelierte Zufallsdaten gleicher Größe und behält nur Faktoren, deren Eigenwerte über den Zufallseigenwerten liegen",
+        "Man prüft, ob der Scree-Knick in beiden Extraktionsmethoden an derselben Stelle liegt",
+        "Man rechnet PCA und PFA parallel und behält die übereinstimmenden Faktoren",
+        "Man rotiert orthogonal und oblique parallel und vergleicht die Einfachstruktur",
+        "Man vergleicht die Lösung mit einer zweiten, unabhängigen Stichprobe"
+      ],
+      "answer": 0,
+      "explanation": "Auch in Daten ohne jede echte Struktur entstehen durch Zufall Korrelationen und damit Eigenwerte über 1 — Scheinfaktoren. Die Parallelanalyse erzeugt genau diesen Nullfall (gleiche Variablen- und Fallzahl) als Vergleichsmaßstab. Nur Faktoren, die diesen Zufallsboden überragen, gelten als bedeutsam."
+    },
+    {
+      "topic": "Einfachstruktur: Doppelladung",
+      "question": "Ein Item hat in der rotierten Lösung eine Ladung von .45 auf Faktor 1 und .42 auf Faktor 2, Kommunalität h² = .38. Wie ist damit im Rahmen einer Testkonstruktion umzugehen?",
+      "options": [
+        "Es wird Faktor 1 zugeordnet, da die Ladung höher ist",
+        "Es wird beibehalten, da beide Ladungen über .30 liegen",
+        "Es wird eliminiert, da es keine eindeutige Zuordnung erlaubt und die Einfachstruktur verletzt",
+        "Es wird beibehalten, sofern die Faktoren oblique rotiert wurden",
+        "Es wird beibehalten, aber in beiden Skalen verrechnet"
+      ],
+      "answer": 2,
+      "explanation": "Ziel der Rotation ist die Einfachstruktur: eine hohe Primärladung, alle übrigen nahe null. Eine Doppelladung von .45 / .42 heißt, dass das Item beide Konstrukte gleichzeitig anspricht — es lässt sich keinem Faktor eindeutig zuordnen. Dazu kommt die Kommunalität von .38, die unter dem Mindestwert von .40 liegt. Nicht eindeutig zuzuordnende Items sprechen gegen die Konstruktvalidität und werden eliminiert.",
+      "trap": "Doppelladung + h² < .40: Item eliminieren – die höhere Ladung allein rechtfertigt keine Zuordnung.",
+      "transfer": true
+    },
+    {
+      "topic": "Rotation: Varimax vs. Oblimin",
+      "question": "Eine Forscherin nimmt theoretisch an, dass Ängstlichkeit und Depressivität zusammenhängen, rotiert ihre 2-Faktoren-Lösung aber Varimax. Welche Konsequenz hat diese Entscheidung?",
+      "options": [
+        "Die Eigenwerte können nicht mehr sinnvoll interpretiert werden",
+        "Die Kommunalitäten werden künstlich erhöht",
+        "Sie erzwingt Unkorreliertheit der Faktoren und bildet ihre eigene Theorie damit nicht ab; die Einfachstruktur fällt tendenziell unschärfer aus",
+        "Der Bartlett-Test wird ungültig",
+        "Keine, Rotationsverfahren sind rein rechnerische Konventionen"
+      ],
+      "answer": 2,
+      "explanation": "Varimax hält die Faktorachsen im rechten Winkel und schreibt damit r = 0 zwischen den Faktoren fest. Wenn die Konstrukte theoretisch (und empirisch) korrelieren, ist das eine falsche Restriktion: die gemeinsame Varianz muss irgendwo hin und schlägt sich in erhöhten Nebenladungen nieder. Oblimin wäre hier das theoriekonforme Verfahren.",
+      "transfer": true
+    },
+    {
+      "topic": "Rotation: oblique Interkorrelation",
+      "question": "Im Folienbeispiel beträgt die Faktorinterkorrelation nach Oblimin r = .43. Womit ist dieser Wert geometrisch identisch?",
+      "options": [
+        "Mit der Wurzel aus der gemeinsamen Kommunalität beider Faktoren",
+        "Mit dem Verhältnis der beiden Eigenwerte",
+        "Mit dem MSA-Wert der Gesamtmatrix",
+        "Mit der mittleren Nebenladung über alle Items",
+        "Mit dem Cosinus des Winkels zwischen den beiden Faktorachsen"
+      ],
+      "answer": 4,
+      "explanation": "Faktoren sind Achsen im Variablenraum, Korrelation entspricht dem Cosinus des eingeschlossenen Winkels. Bei orthogonaler Rotation stehen die Achsen bei 90°, cos(90°) = 0 — daher die erzwungene Unkorreliertheit. Bei .43 sind die Achsen um rund 65° geneigt.",
+      "hard": true
+    },
+    {
+      "topic": "Extraktion: PCA vs. PFA",
+      "question": "Eine PCA und eine PFA werden auf denselben Datensatz angewendet. Die PFA liefert durchgehend niedrigere Eigenwerte und Kommunalitäten. Was ist die korrekte Erklärung?",
+      "options": [
+        "Die PFA konvergiert schlechter und liefert daher konservativere Schätzer",
+        "Die PFA klärt nur die geschätzte wahre Varianz auf und lässt die Messfehlervarianz außen vor",
+        "Die PFA rotiert automatisch oblique",
+        "Die PFA verwendet eine andere Korrelationsformel",
+        "Die PFA extrahiert weniger Faktoren als die PCA"
+      ],
+      "answer": 1,
+      "explanation": "Die PFA trägt in die Hauptdiagonale der Korrelationsmatrix nicht Einsen ein, sondern geschätzte Reliabilitäten (quadrierte multiple Korrelation jeder Variablen mit allen anderen). Sie arbeitet damit von vornherein mit weniger Varianz. Das ist kein Nachteil, sondern der Punkt: Messfehlervarianz soll nicht als aufgeklärt ausgewiesen werden.",
+      "hard": true
+    },
+    {
+      "topic": "Kennwerte: Eigenwert < 1",
+      "question": "Ein Faktor hat einen Eigenwert von 0.85. Was bedeutet das inhaltlich?",
+      "options": [
+        "Er klärt 85 % der Gesamtvarianz auf",
+        "Seine mittlere Ladung liegt bei .85",
+        "Er klärt weniger Varianz auf als eine einzelne standardisierte Ausgangsvariable und gilt daher als unbedeutend",
+        "85 % seiner Varianz sind wahre Varianz",
+        "Er korreliert zu .85 mit dem ersten Faktor"
+      ],
+      "answer": 2,
+      "explanation": "Bei z-standardisierten Variablen trägt jede Variable exakt 1 Varianzeinheit bei. Ein Faktor mit Eigenwert < 1 bündelt also weniger Information, als ein einzelnes Item allein liefert — er reduziert nichts und wird als trivial verworfen. Genau darauf beruht das Kaiser-Kriterium."
+    },
+    {
+      "topic": "Kennwerte: % aufgeklärte Varianz",
+      "question": "In einer Lösung mit 8 Variablen hat Faktor 1 den Eigenwert 4.67. Wie hoch ist die durch ihn aufgeklärte Varianz?",
+      "options": [
+        "Nicht bestimmbar ohne die Kommunalitäten",
+        "58.39 %",
+        "4.67 %",
+        "46.7 %",
+        "67.0 %"
+      ],
+      "answer": 1,
+      "explanation": "% aufgeklärte Varianz = Eigenwert ÷ Anzahl Variablen × 100 = 4.67 ÷ 8 × 100 = 58.39 %. Die Bezugsgröße ist immer die Gesamtvarianz aller Variablen, und die entspricht bei Standardisierung der Variablenzahl.",
+      "transfer": true
+    },
+    {
+      "topic": "Kennwerte: Kommunalität vs. Eigenwert",
+      "question": "Kommunalität und Eigenwert werden beide aus quadrierten Faktorladungen berechnet. Worin liegt der Unterschied?",
+      "options": [
+        "Die Kommunalität summiert über alle Personen, der Eigenwert über alle Items",
+        "Die Kommunalität summiert über alle Faktoren hinweg für ein Item, der Eigenwert über alle Items hinweg für einen Faktor",
+        "Die Kommunalität verwendet rotierte, der Eigenwert unrotierte Ladungen",
+        "Die Kommunalität ist ein Anteilswert, der Eigenwert eine Korrelation",
+        "Die Kommunalität wird bei PCA, der Eigenwert bei PFA berechnet"
+      ],
+      "answer": 1,
+      "explanation": "Beide Kennwerte greifen auf dieselbe Ladungsmatrix zu, nur in unterschiedlicher Richtung. Kommunalität h²_i = zeilenweise Summe (ein Item über alle Faktoren). Eigenwert Eig(F_k) = spaltenweise Summe (ein Faktor über alle Items).",
+      "hard": true,
+      "trap": "Kommunalität = Zeilensumme (Item über Faktoren); Eigenwert = Spaltensumme (Faktor über Items)."
+    },
+    {
+      "topic": "Validität: Trennschärfe vs. Dimensionalität",
+      "question": "Warum reicht die Trennschärfe aus der Klassischen Testtheorie nicht aus, um die Dimensionalität eines Tests zu prüfen?",
+      "options": [
+        "Weil sie nur den Zusammenhang eines Items mit dem Gesamtwert abbildet, aber nicht zeigt, ob mehrere Skalen empirisch trennbar sind",
+        "Weil Trennschärfen stichprobenabhängig sind, Faktorladungen dagegen nicht",
+        "Weil Trennschärfen keine Messfehlervarianz berücksichtigen",
+        "Weil Trennschärfen nur bei normalverteilten Items berechnet werden dürfen",
+        "Weil Trennschärfen erst nach der Normierung interpretierbar sind"
+      ],
+      "answer": 0,
+      "explanation": "Ein Item kann eine hohe Trennschärfe zum Gesamtwert haben und trotzdem auf einem anderen Faktor liegen als angenommen — insbesondere wenn die Subskalen korrelieren. Die Trennschärfe sagt nichts darüber, ob alle Items dasselbe Merkmal messen und ob sich mehrere Skalen empirisch voneinander trennen lassen. Genau diese Lücke prüft die Faktorenanalyse (faktorielle Validität)."
+    },
+    {
+      "topic": "Konstruktionsstrategie: induktiv vs. deduktiv",
+      "question": "Zwei Forschungsvorhaben: (I) Alle personenbeschreibenden Adjektive aus dem Wörterbuch werden faktorenanalysiert, um die Struktur von Persönlichkeit zu finden. (II) Ein Affektfragebogen mit zwei geplanten Subskalen wird faktorenanalysiert, um die Zuordnung der Items zu prüfen. Wie ordnet man diese Vorhaben zu?",
+      "options": [
+        "I = EFA, II = zwingend CFA",
+        "I = induktiv/faktorenanalytisch, II = deduktiv/rational",
+        "Beide sind deduktiv, da beide auf Konstruktvalidität abzielen",
+        "I = deduktiv, II = induktiv",
+        "Beide sind induktiv, da beide eine EFA verwenden"
+      ],
+      "answer": 1,
+      "explanation": "In Fall I existiert keine Strukturhypothese, die Dimensionen fallen aus den Daten heraus (lexikographischer Ansatz → Big Five): induktive/faktorenanalytische Konstruktionsstrategie. In Fall II steht die Struktur theoretisch fest und wird geprüft: deduktive/rationale Konstruktionsstrategie. Achtung: Die Aussage „Fall II ist zwingend eine CFA“ ist falsch – auch Fall II kann mit einer EFA bearbeitet werden; der Unterschied liegt in der Konstruktionsstrategie, nicht automatisch im Verfahren.",
+      "trap": "Auch Fall II lässt sich mit einer EFA bearbeiten – der Unterschied liegt in der Konstruktionsstrategie, nicht zwingend im Verfahren (EFA vs. CFA)."
+    },
+    {
+      "topic": "EFA vs. CFA",
+      "question": "Wann ist der Einsatz einer EFA (statt einer CFA) angezeigt?",
+      "options": [
+        "Wenn ausschließlich orthogonal rotiert werden soll",
+        "Immer wenn die Stichprobe unter N = 200 liegt",
+        "Nur wenn zuvor eine Parallelanalyse durchgeführt wurde",
+        "Wenn die Anzahl zugrunde liegender Faktoren analysiert werden soll, ohne dass Zuordnungshypothesen vorhanden sind oder modelliert werden sollen",
+        "Wenn die Faktoren als korreliert angenommen werden"
+      ],
+      "answer": 3,
+      "explanation": "Entscheidend ist der Hypothesenstatus, nicht die Stichprobengröße oder das Rotationsverfahren. Die EFA fragt \"welche Struktur liegt vor?\", die CFA \"lässt sich die angenommene Struktur bestätigen?\". Auch wer eine Vermutung hat, kann sie bewusst nicht modellieren und explorativ vorgehen."
+    },
+    {
+      "topic": "Stichprobengröße",
+      "question": "Ein Fragebogen mit 24 Items soll faktorenanalytisch geprüft werden. Welche Stichprobe erfüllt die genannten Mindestanforderungen gerade so?",
+      "options": [
+        "N = 100",
+        "N = 50",
+        "N = 120",
+        "N = 24",
+        "N = 240"
+      ],
+      "answer": 2,
+      "explanation": "Drei Regeln müssen gleichzeitig erfüllt sein: mehr Fälle als Variablen, mindestens N = 50, mindestens 5 Fälle pro Variable. Die letzte Regel ist hier bindend: 24 × 5 = 120. N = 100 erfüllt zwar die absolute Untergrenze von 50, nicht aber das 5:1-Verhältnis.",
+      "transfer": true
+    },
+    {
+      "topic": "Faktorwerte: Berechnung",
+      "question": "Ein Faktorwert wird als f_kv = Σ(x_iv × λ_ik) berechnet. Was folgt daraus für Variablen mit niedriger Ladung auf diesem Faktor?",
+      "options": [
+        "Sie werden durch ihre Kommunalität ersetzt",
+        "Sie werden aus der Berechnung ausgeschlossen",
+        "Sie senken den Faktorwert systematisch ab",
+        "Sie erhalten ein negatives Gewicht",
+        "Sie gehen mit ein, tragen aber wegen des kleinen Gewichts kaum zum Faktorwert bei"
+      ],
+      "answer": 4,
+      "explanation": "Die Faktorladung wirkt als Gewichtungskoeffizient. Alle Variablen gehen in die Summe ein, aber ihr Beitrag ist proportional zur Ladung. Im Folienbeispiel dominieren die vier Längenmaße (λ ≈ .90) den Faktorwert für \"Länge\", während die Füllemaße (λ = .11 bis .25) nur marginal beitragen."
+    },
+    {
+      "topic": "Validität: unerwartete Ladung",
+      "question": "Bei der Prüfung eines PANAS-artigen Fragebogens lädt ein Item, das negativen Affekt messen sollte, mit .61 auf dem Faktor \"Positiver Affekt\". Was ist die diagnostisch korrekte Schlussfolgerung?",
+      "options": [
+        "Der Faktor \"Positiver Affekt\" wurde falsch benannt und muss umbenannt werden",
+        "Das Item spricht gegen die Konstruktvalidität des Instruments und ist zu eliminieren oder zu revidieren",
+        "Das Item ist unproblematisch, solange seine Kommunalität über .50 liegt",
+        "Die Rotation war fehlerhaft, sie ist orthogonal zu wiederholen",
+        "Es liegt ein Verstoß gegen die Inhaltsvalidität vor, nicht gegen die Konstruktvalidität"
+      ],
+      "answer": 1,
+      "explanation": "Ein Item, das empirisch einem anderen Faktor zugeordnet wird als dem erwarteten, widerspricht der angenommenen Struktur. Das ist ein Befund gegen die faktorielle Validität und damit gegen die Konstruktvalidität. Eine hohe Kommunalität hilft nicht — sie besagt nur, dass das Item gut aufgeklärt wird, nicht, dass es am richtigen Ort liegt.",
+      "transfer": true
+    },
+    {
+      "topic": "Kennwerte: Kommunalität h²",
+      "question": "Ein Item hat h² = .22. Was sagt das aus und was folgt daraus?",
+      "options": [
+        "Nur 22 % der Itemvarianz werden durch alle Faktoren gemeinsam aufgeklärt; das Item liegt unter dem Mindestwert von .40 und ist zu prüfen bzw. zu eliminieren",
+        "22 % der Faktorvarianz gehen auf dieses Item zurück; das Item ist ausreichend",
+        "Das Item korreliert zu .22 mit dem Gesamtwert",
+        "22 % der Itemvarianz sind Messfehler",
+        "Das Item lädt zu .22 auf seinem Primärfaktor"
+      ],
+      "answer": 0,
+      "explanation": "Die Kommunalität ist der Anteil der Itemvarianz, den die Faktorenlösung insgesamt abbildet. Bei .22 bleiben 78 % unerklärt — das Item hat mit der gefundenen Struktur wenig zu tun. Richtwert: mindestens .40, besser .50. Achtung: die Blickrichtung „Anteil an der Faktorvarianz geht auf das Item zurück“ ist die des Eigenwerts, nicht der Kommunalität.",
+      "trap": "h² blickt vom Item auf alle Faktoren (Zeilensumme); die Sicht \"Anteil an der Faktorvarianz\" ist die des Eigenwerts."
+    },
+    {
+      "topic": "Faktorenzahl: Kaiser vs. Scree",
+      "question": "In einem Scree-Plot fallen die Eigenwerte 4.8, 2.1, 0.9, 0.7, 0.6, 0.5, 0.4, 0.3. Kaiser-Kriterium und Scree-Test führen hier zum selben Ergebnis. Was wäre ein realistischer Fall, in dem sie auseinanderfallen, und in welche Richtung?",
+      "options": [
+        "Das Kaiser-Kriterium extrahiert dann weniger Faktoren, weil es Zufallsfaktoren ausschließt",
+        "Der Scree-Test wird ungültig, sobald mehr als zwei Eigenwerte über 1 liegen",
+        "Der Scree-Test extrahiert dann mehr Faktoren als das Kaiser-Kriterium",
+        "Das Kaiser-Kriterium extrahiert dann mehr Faktoren, weil mehrere Faktoren knapp über 1 liegen können, während der Knick früher auftritt",
+        "Beide Kriterien können prinzipiell nicht auseinanderfallen"
+      ],
+      "answer": 3,
+      "explanation": "Typischer Konfliktfall: Eigenwerte 5.2, 2.4, 1.2, 1.1, 1.05, 0.8 … Kaiser behält fünf Faktoren, der Knick liegt aber schon nach dem zweiten. Der Scree-Test liefert in der Regel deutlich weniger Faktoren als das Kaiser-Kriterium, das systematisch zur Überschätzung neigt.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Extraktion: PFA für Testitems",
+      "question": "Warum ist die PFA für die Analyse von Testitems die theoretisch angemessenere Methode, obwohl die PCA meist mehr Varianz aufklärt?",
+      "options": [
+        "Weil nur die PFA Eigenwerte liefert",
+        "Weil die PCA nur bei mehr als 10 Variablen zulässig ist",
+        "Weil Testitems messfehlerbehaftet sind und die Annahme fehlerfreier Messung der PCA damit verletzt ist",
+        "Weil die PCA keine Rotation erlaubt",
+        "Weil die PFA immer zu einer klareren Einfachstruktur führt"
+      ],
+      "answer": 2,
+      "explanation": "Höhere Varianzaufklärung ist hier kein Gütekriterium, sondern ein Artefakt der Annahme: die PCA klärt auch Messfehler mit \"auf\". Da Items in der Testkonstruktion prinzipiell fehlerbehaftet sind, ist das Modell der PFA (wahre Varianz + Messfehlervarianz) das passende. Faustregel: PCA für reine Datenreduktion, PFA für die Suche nach latenten Merkmalen.",
+      "hard": true
+    },
+    {
+      "topic": "Validität: faktorielle Validität",
+      "question": "Welche Aussage zur faktoriellen Validität ist falsch?",
+      "options": [
+        "Sie kann durch Items mit unerwarteter Faktorzuordnung infrage gestellt werden",
+        "Ihre Prüfung ist Teil des Schrittes \"Empirische Überprüfung inkl. Revision(en)\"",
+        "Sie wird über die Dimensionalität eines Instruments bestimmt",
+        "Sie wird mittels Multitrait-Multimethod-Analyse geprüft",
+        "Sie ist ein Aspekt der Konstruktvalidität"
+      ],
+      "answer": 3,
+      "explanation": "Die MTMM-Analyse prüft die konvergente und diskriminante Validität, nicht die faktorielle. Die faktorielle Validität wird über die Faktorenanalyse geprüft. Beide sind Unteraspekte der Konstruktvalidität, aber mit unterschiedlichen Verfahren.",
+      "hard": true,
+      "trap": "MTMM prüft konvergente/diskriminante Validität – die faktorielle Validität prüft die Faktorenanalyse."
+    },
+    {
+      "topic": "Rotation: unrotierte Lösung",
+      "question": "Der unrotierte Faktorenraum des Körpermaß-Beispiels zeigt, dass alle acht Variablen hoch positiv auf Faktor 1 laden (.62 bis .86). Was ist daran das methodische Problem?",
+      "options": [
+        "Es liegt keine Einfachstruktur vor, der Faktorenraum ist inhaltlich nicht interpretierbar",
+        "Die Kommunalitäten sind dann zwangsläufig zu niedrig",
+        "Es müssen mehr Faktoren extrahiert werden",
+        "Die Stichprobe ist zu klein",
+        "Der Bartlett-Test wurde offenbar verletzt"
+      ],
+      "answer": 0,
+      "explanation": "Ein erster Faktor, auf dem alles hoch lädt, ist ein typisches Ergebnis der unrotierten Extraktion — er bildet das \"Gemeinsame aller Variablen\" ab und trennt nichts. Genau deshalb ist die Rotation kein kosmetischer Schritt, sondern die Voraussetzung für inhaltliche Interpretierbarkeit: erst danach zerfällt die Lösung in \"Länge\" und \"Fülle\".",
+      "transfer": true
+    }
+  ]
+}

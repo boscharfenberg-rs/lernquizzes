@@ -348,6 +348,13 @@
       "description": "Faktorenanalyse zur Prüfung der faktoriellen Validität: Grundbegriffe (Faktorladung, Kommunalität, Eigenwert, Faktorwert), Ablauf der EFA (Korrelationsmatrix, Bartlett/KMO, PCA vs. PFA, Faktorenzahl, Rotation) sowie Grundidee der konfirmatorischen Faktorenanalyse (CFA). Altklausur-Stil (A–E), mit Anwendungsfällen, Themenfilter und Note."
     },
     {
+      "id": "diagnostik-vl2-faktorenanalyse-transfer",
+      "file": "diagnostik-vl2-faktorenanalyse-transfer.json",
+      "title": "VL2 – Faktorenanalyse: Verständnis & Transfer (Sitzung 8)",
+      "subject": "Psychologische Diagnostik",
+      "description": "24 Verständnis- und Transferfragen (Single Choice, A–E) zur Faktorenanalyse: Extraktion (PCA/PFA), Eignung (KMO/Bartlett), Faktorenzahl (Kaiser/Scree/Parallelanalyse), Rotation (Varimax/Oblimin, Einfachstruktur), Kennwerte (Eigenwert, Kommunalität, Faktorwert) und faktorielle Validität. Ergänzt das EFA-&-CFA-Set um Rechen- und Fallbeispiele."
+    },
+    {
       "id": "diagnostik-vl2-mtmm",
       "file": "diagnostik-vl2-mtmm.json",
       "title": "VL2 – Empirische Überprüfung IV: Multitrait-Multimethod-Analyse (Sitzung 9)",
