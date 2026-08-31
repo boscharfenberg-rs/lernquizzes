@@ -731,6 +731,13 @@
       "title": "Demenzen II – Modifizierbare Risikofaktoren (Lancet Commission 2024)",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen II: die 14 modifizierbaren Risikofaktoren des Lancet-Commission-Berichts 2024 über die Lebensspanne, kognitive Reserve und Bildung, Hörverlust, Depression, Schädel-Hirn-Trauma, kardiovaskuläre Faktoren und kombinierte Gesundheitsscores, LDL-Cholesterin, Bewegung, Diabetes, Alkohol, sozialer Kontakt und COVID-19, Luftschadstoffe, Sehverlust, Schlaf und glymphatisches System, Ernährung sowie das Verhältnis von relativem Risiko und populationsattributablem Anteil. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "diagnostik-uebung-entscheiden-irt",
+      "file": "diagnostik-uebung-entscheiden-irt.json",
+      "title": "Übung – Entscheiden, Klassifizieren & Empirische Überprüfung (VL1 11–14 · VL2 06–13)",
+      "subject": "Psychologische Diagnostik",
+      "description": "Kumulatives Übungsquiz im Klausurformat (Single Choice, 4 Optionen): Einzelfalldiagnostik, Urteilsbildung, Entscheidungsmodelle & -strategien, Klassifikationskennwerte (Sensitivität/Spezifität, Basis-/Selektionsrate) sowie Itemanalysen (KTT), Faktorenanalyse (PCA/PFA, Scree), MTMM, Cut-Off (Angoff/ROC) und IRT (Guttman/Rasch). Mit Fallvignetten, Tabellen-/Scree-Ablesen, Themenfilter und Note."
     }
   ]
 }

@@ -137,7 +137,8 @@
       "group": "uebergreifend",
       "order": 14,
       "quizIds": [
-        "diagnostik-uebungsfragen-1"
+        "diagnostik-uebungsfragen-1",
+        "diagnostik-uebung-entscheiden-irt"
       ]
     }
   ],
