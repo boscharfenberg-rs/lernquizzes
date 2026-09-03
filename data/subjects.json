@@ -829,6 +829,13 @@
       "title": "A&O – Modelle & Ansätze differenzieren (übergreifend)",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Vorlesungsübergreifendes Quiz (Kernfolien): die Grundaussagen der zentralen A&O-Modelle/Ansätze richtig zuordnen und verwechselbare Modelle abgrenzen – Evaluation & Transfer, Stressmodelle, Führung, Organisationstheorien, Lewin, Schein, Competing Values Framework, Kommunikations- und Coaching-Modelle. Schwerpunkt: einordnen und differenzieren, auch bei gleichlautenden Begriffen."
+    },
+    {
+      "id": "auo-uebungsklausur-2",
+      "file": "auo-uebungsklausur-2.json",
+      "title": "A&O – Übungsklausur 2 (alle 12 Themen)",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Zweite Übungsklausur im Altklausur-Stil (Single Choice, 4 Optionen, 50 Items) über alle 12 Themen des Semesters – aus den Kernfolien, ohne Dublette zur Altklausur. Einstieg, Evaluation & Transfer, Arbeitsgestaltung, Personalentwicklung, Arbeit & Gesundheit, BGM, Team, Führung, Organisationsentwicklung, Organisationskultur, Kommunikation und Coaching. Mit Anwendungsfällen, NICHT-/FALSCH-Stämmen und Note."
     }
   ]
 }

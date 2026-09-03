@@ -153,6 +153,15 @@
       "quizIds": [
         "auo-modelle-differenzieren"
       ]
+    },
+    {
+      "id": "a_uebung2",
+      "label": "Übungsklausur 2 (alle Themen)",
+      "group": "quer",
+      "order": 21,
+      "quizIds": [
+        "auo-uebungsklausur-2"
+      ]
     }
   ]
 }

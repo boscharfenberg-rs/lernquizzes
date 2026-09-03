@@ -1,0 +1,643 @@
+{
+  "id": "auo-uebungsklausur-2",
+  "title": "A&O – Übungsklausur 2 (alle 12 Themen)",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Zweite Übungsklausur im Altklausur-Stil (Single Choice, 4 Optionen) über alle 12 Themen des Semesters – aus den Kernfolien, ohne Dublette zur Altklausur. Von Einstieg, Evaluation & Transfer, Arbeitsgestaltung, Personalentwicklung, Arbeit & Gesundheit und BGM über Team, Führung und Organisationsentwicklung bis Organisationskultur, Kommunikation und Coaching. Mit Anwendungsfällen, NICHT-/FALSCH-Stämmen und Note.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Einstieg",
+      "question": "Eine Psychologin entwickelt ein neues Verfahren zur Team- und Organisationsdiagnose. Welche Bearbeitungsperspektive der A&O steht im Vordergrund?",
+      "options": [
+        "Grundlagen (Theorie und Fragen)",
+        "Evaluation (Wirksamkeit prüfen)",
+        "Intervention (Maßnahmen entwickeln)",
+        "Diagnose"
+      ],
+      "answer": 3,
+      "explanation": "Die Entwicklung diagnostischer Methoden ist die Perspektive der Diagnose. Intervention entwickelt Maßnahmen, Evaluation prüft deren Wirkung, Grundlagen betreffen theoretische Konzepte.",
+      "transfer": true
+    },
+    {
+      "topic": "Einstieg",
+      "question": "Welche Zuordnung von Teilgebiet und Gegenstand trifft NICHT zu?",
+      "options": [
+        "Arbeitspsychologie – die Arbeitsaufgabe",
+        "Personalpsychologie – das Individuum als Mitarbeiter",
+        "Organisationspsychologie – die einzelne Arbeitsaufgabe",
+        "Organisationspsychologie – Dyade, Gruppe und Organisation"
+      ],
+      "answer": 2,
+      "explanation": "Falsch ist die erste Aussage: Die einzelne Arbeitsaufgabe ist Gegenstand der Arbeitspsychologie, nicht der Organisationspsychologie (diese betrachtet Gruppen/Organisationen). Die übrigen Zuordnungen stimmen.",
+      "trap": "Aufgabe = Arbeitspsychologie; Gruppe/Organisation = Organisationspsychologie."
+    },
+    {
+      "topic": "Evaluation & Transfer",
+      "question": "Welches Verfahren fasst viele Studien quantitativ zusammen und schätzt die typische Effektstärke sowie Moderatoren?",
+      "options": [
+        "Qualitative Überblicksarbeit ohne Kennwerte",
+        "Metaanalyse",
+        "Einzelfallstudie mit einer Person",
+        "Deskriptive Querschnittstudie"
+      ],
+      "answer": 1,
+      "explanation": "Die quantitative Integration mit Effektstärke, Variabilität und Moderatoren ist die Metaanalyse. Qualitative Überblicke integrieren subjektiv, Querschnitt- und Einzelfallstudien fassen keine Studien zusammen."
+    },
+    {
+      "topic": "Evaluation & Transfer",
+      "question": "Welche Aussage zu den Kirkpatrick-Ebenen trifft NICHT zu?",
+      "options": [
+        "Die Ebene Reaktionen erfasst das Erleben der Maßnahme",
+        "Die Ebene Resultate erfasst wirtschaftliche Konsequenzen",
+        "Die Ebene Resultate erfasst die Zufriedenheit der Teilnehmenden",
+        "Die Ebene Verhalten erfasst die Anwendung am Arbeitsplatz"
+      ],
+      "answer": 2,
+      "explanation": "Falsch: Die Zufriedenheit der Teilnehmenden gehört zur Ebene Reaktionen, nicht zu den Resultaten. Resultate erfassen die wirtschaftlichen Konsequenzen; Reaktionen das Erleben; Verhalten die Anwendung.",
+      "trap": "Zufriedenheit = Reaktionen (Ebene 1); Resultate = wirtschaftliche Konsequenzen (Ebene 4)."
+    },
+    {
+      "topic": "Evaluation & Transfer",
+      "question": "Eine Studie will kausal prüfen, ob ein Training wirkt, und dabei auch den Pretest-Effekt kontrollieren. Welcher Versuchsplan ist am ehesten geeignet?",
+      "options": [
+        "Prä-Post-Versuchsplan ohne Kontrollgruppe",
+        "Einfache Querschnittsbefragung",
+        "Reine Erhebung ohne Versuchsplan",
+        "Solomon-4-Gruppen-Versuchsplan"
+      ],
+      "answer": 3,
+      "explanation": "Nur der Solomon-4-Gruppen-Plan kontrolliert zusätzlich den Pretest-Effekt und macht den Treatmenteffekt eindeutig überprüfbar. Prä-Post ohne Kontrollgruppe, Querschnitt und planlose Erhebung leisten das nicht.",
+      "hard": true
+    },
+    {
+      "topic": "Evaluation & Transfer",
+      "question": "In einer Interventionsstudie beeinflusst die Versuchsleitung die Teilnehmenden unbeabsichtigt durch suggestive Fragen. Welche Quelle mangelnder Konstruktvalidität ist das?",
+      "options": [
+        "Fehlende Operationalisierung",
+        "Treatmentintensität",
+        "Versuchsleitereffekte",
+        "Reaktivität (bloße Tatsache der Intervention)"
+      ],
+      "answer": 2,
+      "explanation": "Unbeabsichtigte Beeinflussung durch die Leitung sind Versuchsleitereffekte. Reaktivität meint den Effekt der bloßen Teilnahme (Hawthorne), Treatmentintensität die Dosis, Operationalisierung die Frage, worauf sich ein Konzept bezieht.",
+      "transfer": true
+    },
+    {
+      "topic": "Evaluation & Transfer",
+      "question": "Was beschreibt das Transfermodell von Baldwin & Ford?",
+      "options": [
+        "Vier Ebenen der Evaluation von den Reaktionen bis zu den Resultaten",
+        "Inputs wirken über den Output auf die Transferbedingungen",
+        "Zwei Pfade von Anforderungen und Ressourcen",
+        "Drei Ebenen der Organisationskultur nach Schein"
+      ],
+      "answer": 1,
+      "explanation": "Das Modell von Baldwin & Ford verbindet Trainingsinputs (Person, Design, Arbeitsumgebung) über den Trainingsoutput mit den Transferbedingungen. Die anderen Aussagen gehören zu Kirkpatrick, zum JD-R-Modell bzw. zu Schein."
+    },
+    {
+      "topic": "Arbeitsgestaltung",
+      "question": "Ein Sachbearbeiter erhält zusätzliche, gleichartige Aufgaben auf derselben Anspruchsebene. Welches Gestaltungsprinzip ist das?",
+      "options": [
+        "Job Enrichment (vertikale Erweiterung)",
+        "Job Enlargement (horizontale Erweiterung)",
+        "Job Sharing (Arbeitsplatzteilung)",
+        "Job Rotation (systematischer Wechsel)"
+      ],
+      "answer": 1,
+      "explanation": "Gleichartige Aufgaben auf gleicher Ebene sind die horizontale/quantitative Erweiterung – Job Enlargement. Enrichment integriert höherwertige Aufgaben, Rotation wechselt die Aufgaben, Job Sharing teilt eine Stelle.",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeitsgestaltung",
+      "question": "Welches Kriterium humaner Arbeitsgestaltung ist erfüllt, wenn die Arbeit Spielraum für Lernen und Weiterentwicklung bietet?",
+      "options": [
+        "Ausführbarkeit der Tätigkeit",
+        "Schädigungslosigkeit der Arbeit",
+        "Beeinträchtigungsfreiheit des Wohlbefindens",
+        "Persönlichkeitsförderlichkeit"
+      ],
+      "answer": 3,
+      "explanation": "Weiterentwicklung und Erhaltung von Fähigkeiten ist die Persönlichkeitsförderlichkeit. Die übrigen Kriterien betreffen Durchführbarkeit, Gesundheitsschäden und Wohlbefinden."
+    },
+    {
+      "topic": "Arbeitsgestaltung",
+      "question": "Welches Merkmal gehört NICHT zu den fünf Tätigkeitsmerkmalen des Job-Characteristics-Modells?",
+      "options": [
+        "Entlohnung",
+        "Autonomie",
+        "Rückmeldung",
+        "Anforderungsvielfalt"
+      ],
+      "answer": 0,
+      "explanation": "Die fünf Merkmale sind Anforderungsvielfalt, Ganzheitlichkeit, Bedeutsamkeit, Autonomie und Rückmeldung. Die Entlohnung ist kein Tätigkeitsmerkmal des Modells.",
+      "trap": "Entlohnung ist kein Merkmal des Job-Characteristics-Modells."
+    },
+    {
+      "topic": "Arbeitsgestaltung",
+      "question": "Wodurch unterscheiden sich Job Enrichment und Job Rotation?",
+      "options": [
+        "Beide bezeichnen nur die Verkürzung der Arbeitszeit",
+        "Enrichment wechselt die Aufgaben, Rotation integriert höherwertige Aufgaben",
+        "Beide integrieren stets Planungs- und Kontrollaufgaben",
+        "Enrichment integriert höherwertige Aufgaben, Rotation wechselt die Aufgaben"
+      ],
+      "answer": 3,
+      "explanation": "Job Enrichment ist die vertikale/qualitative Erweiterung um höherwertige (Planungs-/Kontroll-)Aufgaben; Job Rotation ist der systematische Wechsel zwischen Aufgaben. Die Vertauschung und die Pauschalaussagen sind falsch."
+    },
+    {
+      "topic": "Personalentwicklung",
+      "question": "In einem Training wird ein Verhaltensmodell im Film gezeigt, anschließend im Rollenspiel geübt und rückgemeldet. Welche Methode ist das?",
+      "options": [
+        "Verhaltensmodellierung",
+        "Fehlermanagement-Training",
+        "Interkulturelles Orientierungstraining",
+        "Reines Wissenstraining per Vortrag"
+      ],
+      "answer": 0,
+      "explanation": "Modell zeigen, Rollenspiel und Rückmeldung kennzeichnen die Verhaltensmodellierung (Modelllernen). Fehlermanagement setzt auf Exploration mit bewussten Fehlern, die anderen Ansätze auf Länderwissen bzw. reine Wissensvermittlung.",
+      "transfer": true
+    },
+    {
+      "topic": "Personalentwicklung",
+      "question": "Ein Seminar will die Einstellung „Kundenorientierung“ fördern. Welche Art von Lernziel ist das?",
+      "options": [
+        "Deklaratives Lernziel",
+        "Affektives Lernziel",
+        "Kognitives Lernziel",
+        "Behaviorales Lernziel"
+      ],
+      "answer": 1,
+      "explanation": "Einstellungen und motivationale Dispositionen sind affektive Lernziele. Kognitive Ziele vermitteln Wissen, behaviorale modifizieren Verhalten; „deklarativ“ ist ein Wissensaspekt, keine eigene Zielkategorie.",
+      "transfer": true
+    },
+    {
+      "topic": "Personalentwicklung",
+      "question": "Welches gehört NICHT zu den vier Kompetenzfeldern der Personalentwicklung?",
+      "options": [
+        "Marktkompetenz",
+        "Sozialkompetenz",
+        "Methodenkompetenz",
+        "Fachkompetenz"
+      ],
+      "answer": 0,
+      "explanation": "Die vier Kompetenzfelder sind Fach-, Methoden-, Sozial- und Selbstkompetenz. Eine „Marktkompetenz“ gehört nicht dazu."
+    },
+    {
+      "topic": "Personalentwicklung",
+      "question": "Welche Analyse der Bedarfsanalyse klärt, welche Kompetenzen bei den Beschäftigten bereits vorhanden sind?",
+      "options": [
+        "Aufgabenanalyse",
+        "Personenanalyse",
+        "Organisationsanalyse",
+        "Marktanalyse"
+      ],
+      "answer": 1,
+      "explanation": "Die Frage nach vorhandenen Kompetenzen und Entwicklungspotenzialen ist die Personenanalyse. Die Aufgabenanalyse klärt die Anforderungen, die Organisationsanalyse die Unternehmensziele; eine Marktanalyse gehört nicht zur Bedarfsanalyse."
+    },
+    {
+      "topic": "Arbeit & Gesundheit",
+      "question": "Welche Zuordnung der Grundbegriffe trifft NICHT zu?",
+      "options": [
+        "Belastung – die von außen einwirkenden Einflüsse",
+        "Beanspruchung – die individuellen Auswirkungen der Belastung",
+        "Stressoren – Faktoren, die eine Stressreaktion auslösen",
+        "Beanspruchung – die von außen einwirkenden Einflüsse"
+      ],
+      "answer": 3,
+      "explanation": "Falsch: Die von außen einwirkenden Einflüsse sind die Belastung; die Beanspruchung sind deren individuelle Auswirkungen. Die übrigen Zuordnungen stimmen.",
+      "trap": "Belastung = äußere Einflüsse; Beanspruchung = individuelle Auswirkung."
+    },
+    {
+      "topic": "Arbeit & Gesundheit",
+      "question": "Eine Pflegekraft entwickelt zynische, gefühllose und distanzierte Haltungen gegenüber ihren Patient:innen. Welche Burnout-Dimension zeigt sich?",
+      "options": [
+        "Emotionale Stabilität",
+        "Reduzierte Leistungsfähigkeit",
+        "Depersonalisation",
+        "Emotionale Erschöpfung"
+      ],
+      "answer": 2,
+      "explanation": "Zynische, distanzierte Haltungen gegenüber Klient:innen sind die Depersonalisation. Emotionale Erschöpfung ist das Ausgelaugtsein, reduzierte Leistungsfähigkeit die negative Selbstbewertung; emotionale Stabilität ist keine Burnout-Dimension.",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeit & Gesundheit",
+      "question": "Welches Stressmodell beschreibt zwei Pfade: Arbeitsanforderungen fördern Burnout, Arbeitsressourcen fördern Engagement?",
+      "options": [
+        "Job-Demands-Resources-Modell",
+        "Job-Characteristics-Modell",
+        "Transaktionales Stressmodell (Lazarus)",
+        "Physiologisches Stressmodell (Selye)"
+      ],
+      "answer": 0,
+      "explanation": "Die zwei Pfade (Anforderungen → Burnout, Ressourcen → Engagement) sind das Job-Demands-Resources-Modell. Selye beschreibt Körperphasen, Lazarus die Bewertung, das JCM Tätigkeitsmerkmale.",
+      "hard": true
+    },
+    {
+      "topic": "Arbeit & Gesundheit",
+      "question": "Jemand lernt in der Freizeit bewusst Neues und stellt sich Herausforderungen. Welche Erholungserfahrung nach Sonnentag & Fritz ist das?",
+      "options": [
+        "Abschalten (Psychological Detachment)",
+        "Kontrolle in der arbeitsfreien Zeit",
+        "Entspannen bei ruhigen Tätigkeiten",
+        "Herausforderungen meistern (Mastery)"
+      ],
+      "answer": 3,
+      "explanation": "Neues lernen und Herausforderungen suchen ist die Mastery-Erfahrung. Abschalten meint das gedankliche Distanzieren, Entspannen ruhige Tätigkeiten, Kontrolle das selbstbestimmte Einteilen der Freizeit.",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeit & Gesundheit",
+      "question": "Eine Person hält Beruf und Privatleben strikt getrennt und verfolgt Ziele in beiden Bereichen unabhängig voneinander. Welche Boundary-Management-Präferenz ist das?",
+      "options": [
+        "Integration",
+        "Kompensation",
+        "Segmentation",
+        "Entgrenzung"
+      ],
+      "answer": 2,
+      "explanation": "Das unabhängige Verfolgen von Zielen in beiden Bereichen ist die Segmentation. Integration bezieht beide aufeinander, Entgrenzung lässt den Beruf das Privatleben bestimmen; Kompensation ist eine Hypothese zum Verhältnis der Lebensbereiche.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "BGM",
+      "question": "Ein Betrieb begleitet eine nach langer Krankheit zurückkehrende Person, um ihre Arbeitsunfähigkeit zu überwinden und den Arbeitsplatz zu erhalten. Welche BGM-Säule ist das?",
+      "options": [
+        "Gefährdungsbeurteilung psychischer Belastung",
+        "Arbeits- und Gesundheitsschutz",
+        "Betriebliches Eingliederungsmanagement (BEM)",
+        "Betriebliche Gesundheitsförderung (BGF)"
+      ],
+      "answer": 2,
+      "explanation": "Die Wiedereingliederung nach Erkrankung ist das BEM (tertiäre Prävention). Die BGF fördert Ressourcen präventiv, der Arbeitsschutz betrifft primäre/sekundäre Prävention, die Gefährdungsbeurteilung ist ein Erhebungsinstrument.",
+      "transfer": true
+    },
+    {
+      "topic": "BGM",
+      "question": "Welcher gehört NICHT zu den Merkmalsbereichen der Gefährdungsbeurteilung psychischer Belastung?",
+      "options": [
+        "Soziale Beziehungen im Betrieb",
+        "Entlohnungshöhe",
+        "Arbeitsinhalt und Arbeitsaufgabe",
+        "Arbeitsorganisation und Abläufe"
+      ],
+      "answer": 1,
+      "explanation": "Die Merkmalsbereiche sind Arbeitsinhalt/Aufgabe, Arbeitsorganisation, soziale Beziehungen und Arbeitsumgebung. Die Entlohnungshöhe gehört nicht dazu."
+    },
+    {
+      "topic": "BGM",
+      "question": "Welches ist KEIN Prinzip der Interventionsgestaltung in der betrieblichen Gesundheitsförderung?",
+      "options": [
+        "Verpflichtende Teilnahme aller Beschäftigten",
+        "Partizipative Steuerung durch die Beschäftigten",
+        "Proaktives Vorgehen für alle Beschäftigten",
+        "Ergebnisoffener, langfristiger Prozess"
+      ],
+      "answer": 0,
+      "explanation": "Die Prinzipien sind proaktiv, partizipativ, ergebnisoffen und freiwillige Teilnahme. Eine Teilnahmepflicht widerspricht dem Freiwilligkeitsprinzip."
+    },
+    {
+      "topic": "BGM",
+      "question": "Im Treiber-Indikatoren-Modell soll eine Größe der Ergebnisebene zugeordnet werden. Welche ist ein Ergebnis (kein Treiber)?",
+      "options": [
+        "Aufgabeninhalt und Entscheidungsfreiraum",
+        "Fehlzeiten und Ausfallkosten",
+        "Qualität der sozialen Beziehungen",
+        "Führungsqualität und gesunde Führung"
+      ],
+      "answer": 1,
+      "explanation": "Fehlzeiten und Ausfallkosten sind Ergebnisgrößen. Führungsqualität, Aufgabeninhalt und soziale Beziehungen sind Treiber, die über Indikatoren auf die Ergebnisse wirken.",
+      "trap": "Fehlzeiten = Ergebnis; Führung/Aufgabeninhalt = Treiber."
+    },
+    {
+      "topic": "Teamentwicklung",
+      "question": "Ein Teammitglied reduziert seine Anstrengung, weil ihm sein persönlicher Beitrag für das Gruppenergebnis unwichtig erscheint. Welcher Effekt ist das?",
+      "options": [
+        "Trittbrettfahren (free riding)",
+        "Soziales Faulenzen (social loafing)",
+        "Soziale Kompensation",
+        "Gimpel-Effekt (sucker effect)"
+      ],
+      "answer": 0,
+      "explanation": "Sinkende Anstrengung wegen empfundener Unwichtigkeit des Beitrags ist Trittbrettfahren. Soziales Faulenzen beruht auf fehlender Identifizierbarkeit, der Gimpel-Effekt auf Schutz vor Ausbeutung, soziale Kompensation ist ein Motivationsgewinn.",
+      "trap": "Unwichtig = free riding; nicht identifizierbar = loafing.",
+      "transfer": true
+    },
+    {
+      "topic": "Teamentwicklung",
+      "question": "Welcher gehört NICHT zu den Motivationsgewinnen in Teams?",
+      "options": [
+        "Soziale Kompensation",
+        "Soziale Unentbehrlichkeit",
+        "Sozialer Wettbewerb",
+        "Soziales Faulenzen"
+      ],
+      "answer": 3,
+      "explanation": "Motivationsgewinne sind soziale Kompensation, sozialer Wettbewerb und soziale Unentbehrlichkeit. Soziales Faulenzen ist ein Motivationsverlust."
+    },
+    {
+      "topic": "Teamentwicklung",
+      "question": "Was beschreibt der Faultline-Ansatz der Diversität?",
+      "options": [
+        "Die formale Hierarchieebene der Mitglieder",
+        "Trennlinien, die eine Gruppe in Subgruppen teilen",
+        "Die räumliche Anordnung der Arbeitsplätze im Raum",
+        "Die Zahl der Merkmale einer einzelnen Person"
+      ],
+      "answer": 1,
+      "explanation": "Faultlines sind hypothetische Trennlinien aus der Verteilung mehrerer Attribute, die eine Gruppe in Subgruppen teilen und eher negativ wirken. Die anderen Optionen treffen den Ansatz nicht.",
+      "hard": true
+    },
+    {
+      "topic": "Teamentwicklung",
+      "question": "Ein OP-Team mit hoher Verantwortung für Leben und Gesundheit trainiert die Nutzung aller Ressourcen und standardisierte Kommunikation. Welches Training ist das?",
+      "options": [
+        "Moderation eines Qualitätszirkels",
+        "Klassische Teamentwicklung mit Rollenklärung",
+        "Klassisches Sensitivitätstraining",
+        "Crew Resource Management-Training"
+      ],
+      "answer": 3,
+      "explanation": "Für High Responsibility Teams ist das Crew Resource Management-Training vorgesehen (Standardisierung von Abläufen/Kommunikation zur Fehlervermeidung). Klassische Teamentwicklung kommt für sie gerade nicht infrage.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Teamentwicklung",
+      "question": "Einer kleinen Einheit wird die eigenverantwortliche Erstellung eines kompletten Teilprodukts inklusive Planungs- und Kontrollaufgaben übertragen. Welche Gruppenarbeitsform ist das?",
+      "options": [
+        "Freiwilliger Qualitätszirkel",
+        "Temporäre Projektgruppe",
+        "Teilautonome Arbeitsgruppe",
+        "Ausführendes Montageteam"
+      ],
+      "answer": 2,
+      "explanation": "Die eigenverantwortliche Erstellung eines Teilprodukts mit Planungs-/Kontrollaufgaben kennzeichnet die teilautonome Arbeitsgruppe. Qualitätszirkel lösen freiwillig Probleme, Projekt- und Montageteams haben andere Zuschnitte."
+    },
+    {
+      "topic": "Führung",
+      "question": "Was ist das zentrale Ergebnis der Ohio-Studien zum Führungsverhalten?",
+      "options": [
+        "Zwei unabhängige Dimensionen (Aufgabe und Mitarbeiter)",
+        "Drei aufeinander aufbauende Führungsstufen",
+        "Eine einzige Dimension von autoritär bis demokratisch",
+        "Vier voneinander abhängige Charismafaktoren"
+      ],
+      "answer": 0,
+      "explanation": "Die Ohio-Studien fanden zwei orthogonale Dimensionen: Aufgabenorientierung (Initiating Structure) und Mitarbeiterorientierung (Consideration). Die anderen Modelle treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Führung",
+      "question": "Eine Führungskraft steuert das Verhalten über bedingte Belohnung und Zielvereinbarungen in einer Austauschbeziehung. Welcher Führungsstil ist das?",
+      "options": [
+        "Transaktionale Führung",
+        "Servant Leadership",
+        "Transformationale Führung",
+        "Authentic Leadership"
+      ],
+      "answer": 0,
+      "explanation": "Steuerung über Austausch und bedingte Belohnung ist die transaktionale Führung. Transformationale Führung wirkt über Vision, Servant und Authentic Leadership sind wertorientierte Konzepte."
+    },
+    {
+      "topic": "Führung",
+      "question": "Eine Führungskraft stellt zuerst die Entwicklung und das Wohlergehen der Mitarbeitenden in den Vordergrund, um langfristig die Organisationsziele zu erreichen. Welches Konzept ist das?",
+      "options": [
+        "Authentic Leadership",
+        "Ethical Leadership",
+        "Transaktionale Führung",
+        "Servant Leadership"
+      ],
+      "answer": 3,
+      "explanation": "Das Voranstellen der Entwicklung der Geführten ist Servant Leadership. Ethical Leadership betont normatives Verhalten, Authentic Leadership Selbstkenntnis/Integrität, transaktionale Führung den Austausch.",
+      "transfer": true
+    },
+    {
+      "topic": "Führung",
+      "question": "Welche Aussage zur transformationalen Führung trifft NICHT zu?",
+      "options": [
+        "Sie wirkt über Vision und intrinsische Anreize",
+        "Individualisierte Behandlung ist eine ihrer Komponenten",
+        "Sie steuert primär über bedingte materielle Belohnung",
+        "Idealisierter Einfluss ist eine ihrer Komponenten"
+      ],
+      "answer": 2,
+      "explanation": "Falsch: Die Steuerung über bedingte materielle Belohnung kennzeichnet die transaktionale Führung. Transformationale Führung wirkt über Vision/intrinsische Anreize; idealisierter Einfluss und individualisierte Behandlung sind ihre Komponenten.",
+      "trap": "Bedingte Belohnung = transaktional, nicht transformational."
+    },
+    {
+      "topic": "Führung",
+      "question": "Welches Personenmerkmal steht in Metaanalysen am stärksten mit Führungserfolg in Zusammenhang?",
+      "options": [
+        "Intelligenz",
+        "Betriebszugehörigkeit",
+        "Körpergröße",
+        "Lebensalter"
+      ],
+      "answer": 0,
+      "explanation": "Das wichtigste Personenmerkmal ist die Intelligenz; auch Persönlichkeitsmerkmale spielen eine Rolle. Körpergröße, Alter und Betriebszugehörigkeit sind keine zentralen Prädiktoren."
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "Eine Verwaltung ist durch feste Zuständigkeiten, strikte Amtshierarchie und schriftliche Aktenführung geprägt. Welche Organisationstheorie beschreibt das?",
+      "options": [
+        "Situativer Ansatz (Kieser)",
+        "Bürokratietheorie (Max Weber)",
+        "Human-Relations-Bewegung",
+        "Soziotechnische Systemtheorie"
+      ],
+      "answer": 1,
+      "explanation": "Feste Zuständigkeiten, Amtshierarchie und Aktenkundigkeit sind Merkmale der Bürokratie nach Weber. Human Relations betont soziale Faktoren, der situative Ansatz die Umweltanpassung, die soziotechnische Theorie die Systemkopplung.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "Welche Aussage zum Unterschied von Change Management (CM) und Organisationsentwicklung (OE) trifft NICHT zu?",
+      "options": [
+        "OE liefert fertige Lösungen durch externe Fachexperten",
+        "CM wird meist von Fachexperten und Managern getragen",
+        "OE ist langfristig auf Transformation angelegt",
+        "OE lässt Lösungen von den Mitarbeitenden erarbeiten"
+      ],
+      "answer": 0,
+      "explanation": "Falsch: Fertige Lösungen durch Fachexperten kennzeichnen das Change Management; die OE lässt Lösungen von den Betroffenen erarbeiten und ist langfristig angelegt."
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "Was besagt die soziotechnische Systemtheorie?",
+      "options": [
+        "Soziales und technisches System zusammen optimieren",
+        "Nur das technische System bestimmt allein den Erfolg",
+        "Die Kultur besteht aus genau drei Ebenen",
+        "Die Struktur folgt allein der Umwelt"
+      ],
+      "answer": 0,
+      "explanation": "Die soziotechnische Systemtheorie betont, dass soziales und technisches Subsystem nicht unabhängig sind und gemeinsam optimiert werden müssen. Die anderen Aussagen gehören zum situativen Ansatz bzw. zu Schein oder sind einseitig."
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "Ein Berater erhebt per Interview „das Beste“ der Organisation, lässt gemeinsam Visionen träumen und einen Zukunftsentwurf gestalten. Welche Methode ist das?",
+      "options": [
+        "Bürokratische Regelbindung nach Weber",
+        "Funktionale Reorganisation des Aufbaus",
+        "Diagnostische, problemorientierte OE",
+        "Wertschätzende Befragung (Appreciative Inquiry)"
+      ],
+      "answer": 3,
+      "explanation": "Das Erkunden des Besten (Discovery), Träumen (Dream) und Entwerfen sind die wertschätzende Befragung der dialogischen OE. Sie ist lösungs- statt problemorientiert."
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Eine Organisation ist extern fokussiert und stabil; Wettbewerb, klare Ziele und Marktanteil zählen. Welcher Kulturtyp des Competing Values Framework ist das?",
+      "options": [
+        "Clan (intern, flexibel)",
+        "Markt (extern, stabil)",
+        "Adhocracy (extern, flexibel)",
+        "Hierarchie (intern, stabil)"
+      ],
+      "answer": 1,
+      "explanation": "Externer Fokus plus Stabilität mit Wettbewerb und Zielorientierung ist der Markt-Typ. Clan ist intern/flexibel, Adhocracy extern/flexibel, Hierarchie intern/stabil.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Welches Modell erklärt, warum sich Mitarbeitende einer Organisation in ihrer Persönlichkeit oft ähneln?",
+      "options": [
+        "Boundary-Theory der Lebensbereiche",
+        "Job-Characteristics-Modell der Arbeit",
+        "Attraction-Selection-Attrition-Modell",
+        "Competing Values Framework der Kultur"
+      ],
+      "answer": 2,
+      "explanation": "Das Attraction-Selection-Attrition-Modell erklärt die Ähnlichkeit über Anziehung, Auswahl und Ausscheiden nicht passender Personen. Die anderen Modelle betreffen Kulturtypen, Tätigkeitsmerkmale bzw. Lebensbereichsgrenzen."
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Eine Bewerberin teilt die zentralen Werte und Ziele der Organisation. Welche Passungsform liegt vor?",
+      "options": [
+        "Needs-Supplies-Fit (Bedürfnisse)",
+        "Komplementärer Fit (Ergänzung)",
+        "Demands-Abilities-Fit (Fähigkeiten)",
+        "Supplementärer Fit (Ähnlichkeit)"
+      ],
+      "answer": 3,
+      "explanation": "Übereinstimmung in Werten/Zielen ist der supplementäre Fit (Ähnlichkeit). Der komplementäre Fit meint die Ergänzung von Bedarf und Angebot (Demands-Abilities, Needs-Supplies).",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Welche Aussage zu Organisationskultur und -klima trifft NICHT zu?",
+      "options": [
+        "Eine starke Kultur kann zu Selbstselektion führen",
+        "Die Kultur umfasst Artefakte, Werte und Grundannahmen",
+        "Das Organisationsklima ist das tief liegende, unbewusste Wertesystem",
+        "Das Klima ist die erlebte Qualität der inneren Umwelt"
+      ],
+      "answer": 2,
+      "explanation": "Falsch: Das tief liegende, unbewusste Wertesystem ist die Kultur (Grundannahmen). Das Klima ist die relativ überdauernde, erlebte Qualität der inneren Umwelt. Die übrigen Aussagen stimmen.",
+      "trap": "Klima = erlebte Qualität; das tiefe Wertesystem ist die Kultur."
+    },
+    {
+      "topic": "Kommunikation",
+      "question": "Jemand sagt bewusst nur, was er für wahr hält, und nichts Unbelegtes. Welche Konversationsmaxime nach Grice befolgt er?",
+      "options": [
+        "Maxime der Quantität",
+        "Maxime der Qualität",
+        "Maxime der Klarheit",
+        "Maxime der Relevanz"
+      ],
+      "answer": 1,
+      "explanation": "Nur Wahres und nichts Unbelegtes zu sagen ist die Maxime der Qualität. Quantität betrifft den Informationsgehalt, Relevanz die Themenbezogenheit, Klarheit die Verständlichkeit.",
+      "transfer": true
+    },
+    {
+      "topic": "Kommunikation",
+      "question": "Ein Gerücht wird beim Weitergeben immer kürzer, weniger detailliert und weniger komplex. Welcher Prozess ist das?",
+      "options": [
+        "Levelling",
+        "Assimilation",
+        "Sharpening",
+        "Interpunktion"
+      ],
+      "answer": 0,
+      "explanation": "Das Verkürzen und Vereinfachen ist das Levelling. Sharpening betont selektiv einzelne Aspekte, Assimilation verzerrt gemäß Vorurteilen; Interpunktion ist ein Watzlawick-Begriff."
+    },
+    {
+      "topic": "Kommunikation",
+      "question": "Was kennzeichnet Ostrazismus am Arbeitsplatz im Unterschied zu offener Aggression?",
+      "options": [
+        "Eine nachweisliche Förderung des Wohlbefindens",
+        "Verstärkung der Interaktion durch aktive Angriffe",
+        "Eine formale Anweisung durch die Leitung",
+        "Ausschluss durch das Unterlassen sozialer Handlungen"
+      ],
+      "answer": 3,
+      "explanation": "Ostrazismus unterbindet Interaktion durch Unterlassen angemessener sozialer Handlungen (Ignorieren). Aggression verstärkt Interaktion, Ostrazismus ist keine formale Anweisung und beeinträchtigt das Wohlbefinden negativ.",
+      "trap": "Ostrazismus = Ausschluss durch Unterlassen; Aggression verstärkt Interaktion."
+    },
+    {
+      "topic": "Kommunikation",
+      "question": "Welche gehört NICHT zu den drei Bedingungen gelingender Kommunikation nach Rogers?",
+      "options": [
+        "Direktivität",
+        "Empathie (einfühlendes Verstehen)",
+        "Positive Wertschätzung",
+        "Echtheit (Kongruenz)"
+      ],
+      "answer": 0,
+      "explanation": "Rogers nennt Empathie, positive Wertschätzung und Echtheit. Direktivität gehört nicht dazu – der Ansatz ist gerade non-direktiv."
+    },
+    {
+      "topic": "Coaching",
+      "question": "Ein Coach ist stark direktiv und vermittelt wie ein fachlicher Trainer eine konkrete Fertigkeit (z. B. Präsentieren). Welcher Coaching-Zieltyp ist das?",
+      "options": [
+        "Performance Coaching (Leistungs-Coaching)",
+        "Peer-Coaching unter Gleichgestellten",
+        "Skills Coaching (Kompetenz-Coaching)",
+        "Developmental Coaching (Entwicklungs-Coaching)"
+      ],
+      "answer": 2,
+      "explanation": "Hohe Direktivität und das Lernen einer Fertigkeit kennzeichnen das Skills Coaching. Performance Coaching arbeitet an messbaren Leistungszielen, Developmental Coaching an der Persönlichkeit; Peer-Coaching ist ein Setting.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching",
+      "question": "Ein Coach fragt: „Stellen Sie sich vor, über Nacht geschieht ein Wunder und Ihr Ziel ist erreicht – woran merken Sie das zuerst?“ Welcher Fragetyp ist das?",
+      "options": [
+        "Zielorientierte Frage",
+        "Wunderfrage",
+        "Zirkuläre Frage",
+        "Skalierungsfrage"
+      ],
+      "answer": 1,
+      "explanation": "Das imaginäre Wunder zur Exploration des Sollzustands ist die Wunderfrage. Skalierungsfragen nutzen Zahlen, zirkuläre Fragen den Perspektivwechsel über Dritte, zielorientierte Fragen präzisieren das Ziel.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching",
+      "question": "Welche Aussage zur Abgrenzung von Coaching trifft NICHT zu?",
+      "options": [
+        "Mentoring vermittelt Normen der Organisationskultur",
+        "Coaching richtet sich an psychisch gesunde Coachees",
+        "Coaching behandelt psychische Störungen wie eine Therapie",
+        "Coaching ist „Hilfe zur Selbsthilfe“ auf Augenhöhe"
+      ],
+      "answer": 2,
+      "explanation": "Falsch: Die Behandlung psychischer Störungen ist Aufgabe der Psychotherapie, nicht des Coachings. Coaching richtet sich an gesunde Coachees, ist Hilfe zur Selbsthilfe; Mentoring vermittelt Kulturnormen.",
+      "trap": "Störungen behandeln = Therapie; Coaching setzt einen gesunden Coachee voraus."
+    },
+    {
+      "topic": "Coaching",
+      "question": "Welcher Coaching-Ansatz stellt Wünsche, Ziele und vorhandene Ressourcen in den Mittelpunkt, statt das Problem vollständig zu analysieren?",
+      "options": [
+        "Systemischer Ansatz nach Kybernetik",
+        "Lösungs-/ressourcenorientierter Ansatz",
+        "Klientenzentrierter Ansatz nach Carl Rogers",
+        "Kognitiv-behavioraler Verhaltensansatz"
+      ],
+      "answer": 1,
+      "explanation": "Der Fokus auf Lösungen und Ressourcen statt vollständiger Problemanalyse ist der lösungs- und ressourcenorientierte Ansatz. Die anderen Ansätze setzen bei Kognitionen, dem sozialen System bzw. der Autonomie an."
+    }
+  ]
+}
