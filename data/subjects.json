@@ -759,6 +759,13 @@
       "title": "A&O – Arbeitsgestaltung: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zur Arbeitsgestaltung (Kernfolien): Kriterien humaner Arbeitsgestaltung, Arbeitsanalyse/-bewertung/-gestaltung, Verhältnis- vs. Verhaltensprävention, Arbeitsteilung (Job Rotation/Enlargement/Enrichment), Arbeitszeitgestaltung sowie das Job-Characteristics-Modell (Hackman & Oldham)."
+    },
+    {
+      "id": "auo-personalentwicklung-anwendung",
+      "file": "auo-personalentwicklung-anwendung.json",
+      "title": "A&O – Personalentwicklung: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zur Personalentwicklung (Kernfolien): Bedarfsanalyse (Organisations-/Aufgaben-/Personenanalyse, SOLL-IST), Kompetenzfelder, Lernziele, Orte der PE (into/on/off/out of the job), Verhaltensmodellierung, Fehlermanagement-Training, Quellen der Selbstwirksamkeit und interkulturelle Trainings."
     }
   ]
 }

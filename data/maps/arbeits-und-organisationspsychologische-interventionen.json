@@ -53,7 +53,8 @@
       "group": "individuum",
       "order": 1,
       "quizIds": [
-        "auo-personalentwicklung"
+        "auo-personalentwicklung",
+        "auo-personalentwicklung-anwendung"
       ]
     },
     {
