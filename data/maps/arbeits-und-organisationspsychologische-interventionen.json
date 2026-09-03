@@ -101,7 +101,8 @@
       "group": "interaktion",
       "order": 2,
       "quizIds": [
-        "auo-fuehrung-kernfolien"
+        "auo-fuehrung-kernfolien",
+        "auo-fuehrung-anwendung"
       ]
     },
     {
