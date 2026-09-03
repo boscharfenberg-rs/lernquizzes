@@ -91,7 +91,8 @@
       "group": "interaktion",
       "order": 1,
       "quizIds": [
-        "auo-teamentwicklung"
+        "auo-teamentwicklung",
+        "auo-teamentwicklung-anwendung"
       ]
     },
     {

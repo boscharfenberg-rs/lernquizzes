@@ -780,6 +780,13 @@
       "title": "A&O – BGM: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zum Betrieblichen Gesundheitsmanagement (Kernfolien): Säulen des BGM (Arbeitsschutz, BEM, BGF), Gefährdungsbeurteilung psychischer Belastung, Präventionskultur, Interventionsprinzipien, Treiber-Indikatoren-Modell und PICO-Schema."
+    },
+    {
+      "id": "auo-teamentwicklung-anwendung",
+      "file": "auo-teamentwicklung-anwendung.json",
+      "title": "A&O – Teamentwicklung: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zur Teamentwicklung (Kernfolien): Teamdefinition/Nutzen/Risiken, Wirkmechanismen (Brainstorming, Kohäsion), soziale Unterstützung, Motivationsgewinne und -verluste (Faulenzen, Trittbrettfahren, Gimpel-Effekt), Faultlines, Teamphasen (Tuckman), Teamentwicklungsprozess, Teamreflexivität, Gruppenarbeitsformen und Crew Resource Management."
     }
   ]
 }
