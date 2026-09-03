@@ -1,0 +1,267 @@
+{
+  "id": "auo-gesundheitsmanagement-anwendung",
+  "title": "A&O – BGM: Anwendung & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zum Betrieblichen Gesundheitsmanagement (Kernfolien): Säulen des BGM (Arbeitsschutz, BEM, BGF), Gefährdungsbeurteilung psychischer Belastung, Präventionskultur, Prinzipien der Interventionsgestaltung, Treiber-Indikatoren-Modell und PICO-Schema. Schwerpunkt: Anwendung an Fallbeispielen und Modellverständnis.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Säulen des BGM",
+      "question": "Ein Betrieb begleitet einen nach langer Krankheit zurückkehrenden Mitarbeiter, um seine Arbeitsunfähigkeit zu überwinden und den Arbeitsplatz zu erhalten. Welche Säule des BGM ist das?",
+      "options": [
+        "Betriebliche Gesundheitsförderung (BGF)",
+        "Betriebliches Eingliederungsmanagement (BEM)",
+        "Gefährdungsbeurteilung psychischer Belastung",
+        "Arbeits- und Gesundheitsschutz"
+      ],
+      "answer": 1,
+      "explanation": "Die Wiedereingliederung nach längerer Erkrankung ist das Betriebliche Eingliederungsmanagement (BEM, tertiäre Prävention). Die BGF fördert Ressourcen präventiv, der Arbeits- und Gesundheitsschutz betrifft primäre/sekundäre Prävention, die Gefährdungsbeurteilung ist ein Instrument des Arbeitsschutzes.",
+      "transfer": true
+    },
+    {
+      "topic": "Säulen des BGM",
+      "question": "Ein Unternehmen schafft für alle Beschäftigten gesundheitsförderliche Ressourcen in Aufgaben und Beziehungen, unabhängig von einer Erkrankung. Welche Säule des BGM ist das?",
+      "options": [
+        "Betriebliches Eingliederungsmanagement (BEM)",
+        "Gefährdungsbeurteilung psychischer Belastung",
+        "Betriebliche Gesundheitsförderung (BGF)",
+        "Wirksamkeitsevaluation nach PICO"
+      ],
+      "answer": 2,
+      "explanation": "Das präventive Schaffen von Ressourcen für alle ist die Betriebliche Gesundheitsförderung. Das BEM richtet sich an bereits erkrankte Beschäftigte, die Gefährdungsbeurteilung erhebt Belastungen, PICO ist ein Evaluationsschema.",
+      "transfer": true
+    },
+    {
+      "topic": "Gefährdungsbeurteilung",
+      "question": "In einer Gefährdungsbeurteilung werden unklare Zuständigkeiten und schlecht abgestimmte Arbeitsabläufe erfasst. Welchem Merkmalsbereich ist das zuzuordnen?",
+      "options": [
+        "Arbeitsinhalt/Arbeitsaufgabe",
+        "Soziale Beziehungen",
+        "Arbeitsumgebung",
+        "Arbeitsorganisation"
+      ],
+      "answer": 3,
+      "explanation": "Zuständigkeiten und Arbeitsabläufe betreffen die Arbeitsorganisation. Der Arbeitsinhalt meint die Aufgabe selbst, soziale Beziehungen das Miteinander, die Arbeitsumgebung physikalische Bedingungen wie Lärm oder Licht.",
+      "transfer": true
+    },
+    {
+      "topic": "Gefährdungsbeurteilung",
+      "question": "In der Gefährdungsbeurteilung zeigen sich wiederholte Konflikte mit dem Kollegium und fehlende Unterstützung. Welchem Merkmalsbereich ist das zuzuordnen?",
+      "options": [
+        "Arbeitsorganisation",
+        "Soziale Beziehungen",
+        "Arbeitsumgebung",
+        "Arbeitsinhalt/Arbeitsaufgabe"
+      ],
+      "answer": 1,
+      "explanation": "Konflikte und fehlende Unterstützung betreffen die sozialen Beziehungen. Arbeitsorganisation meint Abläufe/Zuständigkeiten, Arbeitsinhalt die Aufgabe, Arbeitsumgebung physikalische Bedingungen.",
+      "transfer": true
+    },
+    {
+      "topic": "Gefährdungsbeurteilung",
+      "question": "Erfasst werden Lärm, schlechte Beleuchtung und Hitze am Arbeitsplatz. Welchem Merkmalsbereich der Gefährdungsbeurteilung ist das zuzuordnen?",
+      "options": [
+        "Soziale Beziehungen",
+        "Arbeitsinhalt/Arbeitsaufgabe",
+        "Arbeitsumgebung",
+        "Arbeitsorganisation"
+      ],
+      "answer": 2,
+      "explanation": "Lärm, Beleuchtung und Klima sind physikalische Bedingungen der Arbeitsumgebung. Die anderen Bereiche betreffen Abläufe, das Miteinander bzw. die Aufgabe selbst.",
+      "transfer": true
+    },
+    {
+      "topic": "Treiber-Indikatoren-Modell",
+      "question": "Im Treiber-Indikatoren-Modell soll ein Kennwert einer Ergebnisgröße zugeordnet werden. Welche der folgenden Größen ist ein Ergebnis (nicht ein Treiber)?",
+      "options": [
+        "Fehlzeiten und Ausfallkosten",
+        "Qualität der sozialen Beziehungen",
+        "Führungsqualität und gesunde Führung",
+        "Aufgabeninhalt und Entscheidungsfreiraum"
+      ],
+      "answer": 0,
+      "explanation": "Fehlzeiten und Ausfallkosten sind Ergebnisgrößen des Modells. Führungsqualität, Aufgabeninhalt/Entscheidungsfreiraum und soziale Beziehungen sind Treiber, die über Indikatoren auf die Ergebnisse wirken.",
+      "hard": true,
+      "trap": "Fehlzeiten sind ein Ergebnis; Führung und Aufgabeninhalt sind Treiber.",
+      "transfer": true
+    },
+    {
+      "topic": "PICO-Schema",
+      "question": "Eine Evaluationsstudie legt fest, dass die Intervention mit einer Wartelisten-Gruppe verglichen wird. Welchem Buchstaben des PICO-Schemas entspricht diese Festlegung?",
+      "options": [
+        "I – Intervention (die eigentliche Maßnahme)",
+        "P – Population (die Zielgruppe)",
+        "C – Control (Vergleichsbedingung)",
+        "O – Outcome (die Zielgröße)"
+      ],
+      "answer": 2,
+      "explanation": "Die Vergleichsbedingung (z. B. Wartelisten-Gruppe) ist das C (Control) im PICO-Schema. P bezeichnet die Zielgruppe, I die Intervention selbst, O das Ergebnismerkmal, in dem sich der Nutzen zeigen soll.",
+      "transfer": true
+    },
+    {
+      "topic": "Interventionsprinzipien",
+      "question": "Eine Gesundheitsmaßnahme richtet sich bewusst an die gesamte Belegschaft, nicht nur an Risikogruppen. Welches Prinzip der Interventionsgestaltung ist das?",
+      "options": [
+        "Ergebnisoffen",
+        "Proaktiv",
+        "Partizipativ",
+        "Freiwillige Teilnahme"
+      ],
+      "answer": 1,
+      "explanation": "Maßnahmen für alle Beschäftigten statt nur für Risikogruppen sind das proaktive Prinzip. Ergebnisoffen meint den langfristigen Prozesscharakter, partizipativ die eigenständige Steuerung durch die Beschäftigten, Freiwilligkeit die bewusste Teilnahmeentscheidung.",
+      "transfer": true
+    },
+    {
+      "topic": "Präventionskultur",
+      "question": "Ein Beratungsprojekt betont: „Der Wille zählt – Führungskräfte müssen Sicherheit und Gesundheit wollen.“ Welchem Handlungsfeld der Präventionskultur entspricht das?",
+      "options": [
+        "Fehlerkultur",
+        "Betriebsklima",
+        "Führung",
+        "Beteiligung"
+      ],
+      "answer": 2,
+      "explanation": "Der Wille und das Vorbild der Führungskräfte für Sicherheit/Gesundheit ist das Handlungsfeld Führung. Beteiligung meint Kommunikation auf Augenhöhe, Fehlerkultur den Umgang mit Fehlern, Betriebsklima das Wohlfühlen im Betrieb.",
+      "transfer": true
+    },
+    {
+      "topic": "BEM",
+      "question": "Ein Verfahren zur Rückkehr nach Krankheit ist strikt freiwillig, transparent und hält den Datenschutz streng ein. Um welches Instrument handelt es sich?",
+      "options": [
+        "Betriebliches Eingliederungsmanagement (BEM)",
+        "Gefährdungsbeurteilung psychischer Belastung",
+        "Arbeits- und Gesundheitsschutz-Unterweisung",
+        "Betriebliche Gesundheitsförderung (BGF)"
+      ],
+      "answer": 0,
+      "explanation": "Freiwilligkeit, Transparenz, Vertrauen und strenger Datenschutz sind Grundprinzipien des BEM. BGF fördert Ressourcen präventiv, die Gefährdungsbeurteilung erhebt Belastungen, die Unterweisung informiert über Schutzmaßnahmen.",
+      "transfer": true
+    },
+    {
+      "topic": "Säulen des BGM",
+      "question": "Welche Zuordnung von BGM-Säule und Präventionsschwerpunkt ist FALSCH?",
+      "options": [
+        "Gesundheitsförderung – ausschließlich tertiäre Prävention",
+        "Eingliederungsmanagement – tertiäre Prävention",
+        "Gesundheitsförderung – verhaltensbezogene Prävention",
+        "Arbeits- und Gesundheitsschutz – primäre und sekundäre Prävention"
+      ],
+      "answer": 0,
+      "explanation": "Falsch ist die erste Aussage: Die Betriebliche Gesundheitsförderung ist verhaltensbezogen und nicht auf tertiäre Prävention beschränkt; tertiäre Prävention ist gerade das Eingliederungsmanagement. Die übrigen Zuordnungen stimmen.",
+      "trap": "Tertiäre Prävention = BEM; die Gesundheitsförderung ist verhaltensbezogen/primär."
+    },
+    {
+      "topic": "Arbeitsschutz",
+      "question": "Was hat sich mit der Neuorientierung des Arbeitsschutzes für die A&O-Psychologie ergeben?",
+      "options": [
+        "Kleinbetriebe sind generell von jeder Beurteilung befreit",
+        "Gefährdungsbeurteilungen sind seither rein freiwillig",
+        "Auch psychische Belastungen müssen beurteilt werden",
+        "Nur körperliche Gefährdungen sind noch zu beurteilen"
+      ],
+      "answer": 2,
+      "explanation": "Zentrale Neuerung ist, dass psychische Belastungen verpflichtend in die Gefährdungsbeurteilung einzubeziehen sind – ein Arbeitsauftrag an die A&O. Körperliche Gefährdungen sind nicht das Einzige, die Kleinbetriebsregelung entfällt, und die Beurteilung ist verpflichtend, nicht freiwillig.",
+      "hard": true
+    },
+    {
+      "topic": "Gefährdungsbeurteilung",
+      "question": "Welcher der folgenden ist KEIN Merkmalsbereich der Gefährdungsbeurteilung psychischer Belastung?",
+      "options": [
+        "Soziale Beziehungen im Betrieb",
+        "Arbeitsorganisation und Abläufe",
+        "Arbeitsinhalt und Arbeitsaufgabe",
+        "Entlohnungshöhe und Marktlage"
+      ],
+      "answer": 3,
+      "explanation": "Die Merkmalsbereiche sind Arbeitsinhalt/Aufgabe, Arbeitsorganisation, soziale Beziehungen und Arbeitsumgebung. Entlohnungshöhe und Marktlage gehören nicht dazu.",
+      "trap": "Merkmalsbereiche: Inhalt, Organisation, soziale Beziehungen, Umgebung – nicht die Entlohnung."
+    },
+    {
+      "topic": "Gefährdungsbeurteilung",
+      "question": "Welche Aussage zum Ablauf der Gefährdungsbeurteilung psychischer Belastung trifft am ehesten zu?",
+      "options": [
+        "Sie wird einmalig durchgeführt und anschließend nicht mehr aktualisiert",
+        "Sie ist ein kontinuierlicher Prozess mit Wirksamkeitskontrolle",
+        "Sie erfordert keine Dokumentation der Ergebnisse",
+        "Sie endet bereits mit der Ermittlung der Belastung"
+      ],
+      "answer": 1,
+      "explanation": "Die Gefährdungsbeurteilung ist ein kontinuierlicher Kreislauf: Planung, Ermittlung/Beurteilung, Maßnahmen, Wirksamkeitskontrolle, Aktualisierung und Dokumentation. Sie ist weder einmalig noch mit der Ermittlung beendet und muss dokumentiert werden."
+    },
+    {
+      "topic": "BEM",
+      "question": "Welches ist KEIN Grundprinzip des Betrieblichen Eingliederungsmanagements?",
+      "options": [
+        "Transparenz und gegenseitiges Vertrauen",
+        "Strenge Einhaltung des Datenschutzes",
+        "Freiwilligkeit der Teilnahme am Verfahren",
+        "Verpflichtende Teilnahme aller Erkrankten"
+      ],
+      "answer": 3,
+      "explanation": "Das BEM beruht auf Freiwilligkeit, Transparenz, Vertrauen, Offenheit und strengem Datenschutz. Eine verpflichtende Teilnahme widerspricht dem Freiwilligkeitsprinzip.",
+      "trap": "BEM ist freiwillig – eine Teilnahmepflicht widerspricht dem Grundprinzip."
+    },
+    {
+      "topic": "Interventionsprinzipien",
+      "question": "Welches ist KEIN Prinzip der Interventionsgestaltung in der betrieblichen Gesundheitsförderung?",
+      "options": [
+        "Verpflichtende Teilnahme aller Beschäftigten",
+        "Ergebnisoffener, langfristiger Prozess",
+        "Partizipative Steuerung durch die Beschäftigten",
+        "Proaktives Vorgehen für alle Beschäftigten"
+      ],
+      "answer": 0,
+      "explanation": "Die Prinzipien sind proaktiv, partizipativ, ergebnisoffen und freiwillige Teilnahme. Eine verpflichtende Teilnahme widerspricht dem Freiwilligkeitsprinzip und ist daher kein Prinzip.",
+      "trap": "Gesundheitsförderung setzt auf Freiwilligkeit, nicht auf Teilnahmepflicht."
+    },
+    {
+      "topic": "Treiber-Indikatoren-Modell",
+      "question": "Wie ist die Logik des Treiber-Indikatoren-Modells aufgebaut?",
+      "options": [
+        "Ergebnisse wirken über Indikatoren auf die Treiber",
+        "Treiber wirken über Indikatoren auf betriebliche Ergebnisse",
+        "Treiber und Ergebnisse sind identische Größen",
+        "Indikatoren wirken direkt und ohne Treiber auf nichts"
+      ],
+      "answer": 1,
+      "explanation": "Im Modell wirken Treiber (z. B. Arbeitsbedingungen, Führung, Kultur) über Indikatoren (z. B. Gesundheitszustand, Zufriedenheit) auf betriebliche Ergebnisse (z. B. Fehlzeiten, Produktivität). Die Umkehrung und die Gleichsetzung sind falsch."
+    },
+    {
+      "topic": "PICO-Schema",
+      "question": "Wofür steht das O im PICO-Schema der Wirksamkeitsevaluation?",
+      "options": [
+        "Outcome – die Zielgröße des Nutzens",
+        "Operationalisierung – die genaue Messvorschrift",
+        "Objektivität – die Auswertungsgüte",
+        "Organisation – die betroffene Abteilung"
+      ],
+      "answer": 0,
+      "explanation": "Das O steht für Outcome, also das Ergebnismerkmal, in dem sich der gesundheitliche Nutzen der Intervention zeigen soll. Organisation, Objektivität und Operationalisierung sind nicht gemeint."
+    },
+    {
+      "topic": "Evaluation verhältnispräventiver Maßnahmen",
+      "question": "Warum ist die Evaluation verhältnisorientierter Präventionsmaßnahmen besonders schwierig?",
+      "options": [
+        "Weil sie stets größere Effekte zeigen als verhaltensorientierte Maßnahmen",
+        "Weil für sie keinerlei Erfolgskriterien existieren",
+        "Weil sie ausschließlich am Individuum ansetzen",
+        "Weil sie in komplexe soziale Systeme eingreifen"
+      ],
+      "answer": 3,
+      "explanation": "Verhältnisorientierte Maßnahmen greifen in komplexe soziale Systeme ein, was standardisierte Designs erschwert; zudem sind ihre Effekte oft geringer und weniger untersucht. Sie zeigen nicht generell größere Effekte, setzen an den Bedingungen an und haben durchaus Erfolgskriterien.",
+      "hard": true
+    },
+    {
+      "topic": "Präventionskultur",
+      "question": "Welches gehört zu den Handlungsfeldern der Präventionskultur?",
+      "options": [
+        "Vollständige Vermeidung von Beteiligung der Beschäftigten",
+        "Verzicht auf jede Kommunikation zwischen Ebenen",
+        "Maximierung der Ausschüttung an die Anteilseigner",
+        "Fehlerkultur im Umgang mit Fehlern und Risiken"
+      ],
+      "answer": 3,
+      "explanation": "Die Fehlerkultur (Fehler und Risiken gezielt erfassen, „miteinander reden“) ist ein Handlungsfeld der Präventionskultur – neben Führung, Kommunikation, Beteiligung, Sicherheit/Gesundheit und Betriebsklima. Die übrigen Optionen widersprechen der Präventionskultur."
+    }
+  ]
+}

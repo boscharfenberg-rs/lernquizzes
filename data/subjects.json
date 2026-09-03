@@ -773,6 +773,13 @@
       "title": "A&O – Arbeit & Gesundheit: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zu Arbeit & Gesundheit (Kernfolien): Belastung/Beanspruchung/Stress, Burnout, physiologisches & transaktionales Stressmodell, Job-Demands-Resources-Modell, Ressourcen & Coping, Erholung & Erholungserfahrungen, Verhältnis der Lebensbereiche, Work-Family-Konflikt, Boundary Theory sowie Prävention."
+    },
+    {
+      "id": "auo-gesundheitsmanagement-anwendung",
+      "file": "auo-gesundheitsmanagement-anwendung.json",
+      "title": "A&O – BGM: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zum Betrieblichen Gesundheitsmanagement (Kernfolien): Säulen des BGM (Arbeitsschutz, BEM, BGF), Gefährdungsbeurteilung psychischer Belastung, Präventionskultur, Interventionsprinzipien, Treiber-Indikatoren-Modell und PICO-Schema."
     }
   ]
 }
