@@ -120,7 +120,8 @@
       "group": "organisation",
       "order": 1,
       "quizIds": [
-        "auo-organisationsentwicklung-kernfolien"
+        "auo-organisationsentwicklung-kernfolien",
+        "auo-organisationsentwicklung-anwendung"
       ]
     },
     {

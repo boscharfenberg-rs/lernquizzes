@@ -794,6 +794,13 @@
       "title": "A&O – Führung: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zur Führung (Kernfolien): Rahmenmodell, Charisma & personalistische Ansätze, Ohio-Studien (Aufgaben- vs. Mitarbeiterorientierung), transaktionale vs. transformationale Führung (die vier I), neuere Konzepte (Servant/Ethical/Authentic Leadership), Führung & Gesundheit sowie Führungskräfteentwicklung (Leader vs. Leadership Development)."
+    },
+    {
+      "id": "auo-organisationsentwicklung-anwendung",
+      "file": "auo-organisationsentwicklung-anwendung.json",
+      "title": "A&O – Organisationsentwicklung: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zu Organisation & OE (Kernfolien): Aufbau-/Ablauforganisation und Aufbauformen (funktional, divisional, Matrix), Organisationstheorien (Weber, Hawthorne, situativer Ansatz), Merkmale der OE, Change Management vs. OE, episodischer vs. kontinuierlicher Wandel, soziotechnische Systemtheorie, Lewin-Phasen und dialogische OE (Appreciative Inquiry)."
     }
   ]
 }

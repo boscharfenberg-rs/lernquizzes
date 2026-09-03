@@ -1,0 +1,320 @@
+{
+  "id": "auo-organisationsentwicklung-anwendung",
+  "title": "A&O – Organisationsentwicklung: Anwendung & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zu Organisation & Organisationsentwicklung (Kernfolien): Aufbau-/Ablauforganisation und Aufbauformen (funktional, divisional, Matrix), Organisationstheorien (Weber, Human Relations/Hawthorne, situativer Ansatz), Merkmale der OE, Change Management vs. OE, episodischer vs. kontinuierlicher Wandel, soziotechnische Systemtheorie, Lewin-Phasen sowie diagnostische vs. dialogische OE (Appreciative Inquiry).",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Aufbauorganisation",
+      "question": "Ein Unternehmen ist auf oberster Ebene nach Funktionen gegliedert: Forschung, Einkauf, Produktion und Marketing. Welche Aufbauform ist das?",
+      "options": [
+        "Divisionale Organisation (nach Sparten)",
+        "Funktionale Organisation",
+        "Reine Prozessorganisation ohne Struktur",
+        "Matrixorganisation (zweidimensional)"
+      ],
+      "answer": 1,
+      "explanation": "Die Gliederung nach betrieblichen Funktionen (F&E, Einkauf, Produktion, Marketing) ist die funktionale Organisation. Die divisionale gliedert nach Sparten/Produkten, die Matrix kombiniert beide Dimensionen; eine „reine Prozessorganisation ohne Struktur“ gibt es so nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Aufbauorganisation",
+      "question": "Ein Konzern ist an der Spitze nach Produktsparten (Sparte 1, Sparte 2) mit je eigener Produktion und Marketing gegliedert. Welche Aufbauform ist das?",
+      "options": [
+        "Divisionale Organisation",
+        "Soziotechnische Organisation",
+        "Funktionale Organisation (nach Funktionen)",
+        "Matrixorganisation (zweidimensional)"
+      ],
+      "answer": 0,
+      "explanation": "Die Gliederung nach Sparten/Produktbereichen mit eigenen Funktionen ist die divisionale Organisation. Die funktionale gliedert nach Funktionen, die Matrix nach beidem; „soziotechnisch“ ist eine Systemtheorie, keine Aufbauform.",
+      "transfer": true
+    },
+    {
+      "topic": "Aufbauorganisation",
+      "question": "Ein Flugzeug- und Fahrzeughersteller ordnet Mitarbeitende gleichzeitig nach Funktionen (Produktion, Marketing) und nach Sparten (Flugzeuge, Fahrzeuge) zu. Welche Aufbauform ist das?",
+      "options": [
+        "Ablauforganisation",
+        "Matrixorganisation",
+        "Divisionale Organisation",
+        "Funktionale Organisation"
+      ],
+      "answer": 1,
+      "explanation": "Die gleichzeitige Zuordnung nach Funktionen und Sparten ist die Matrixorganisation (zwei Weisungslinien). Funktionale und divisionale Formen sind eindimensional; die Ablauforganisation betrifft Prozesse, nicht die Struktur.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "Eine Verwaltung ist durch feste Zuständigkeiten, strikte Amtshierarchie, Regelbindung und schriftliche Aktenführung gekennzeichnet. Welche Organisationstheorie beschreibt das?",
+      "options": [
+        "Soziotechnische Systemtheorie",
+        "Human-Relations-Bewegung",
+        "Situativer Ansatz (Kieser)",
+        "Bürokratietheorie (Max Weber)"
+      ],
+      "answer": 3,
+      "explanation": "Feste Zuständigkeiten, Amtshierarchie, Regelbindung und Aktenkundigkeit sind Merkmale der Bürokratie nach Max Weber. Die Human-Relations-Bewegung betont soziale Faktoren, der situative Ansatz die Umweltanpassung, die soziotechnische Theorie die Kopplung von sozialem und technischem System.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "In einer klassischen Studie steigert bereits die bloße Beobachtung und Zuwendung der Forschenden die Arbeitsleistung – unabhängig von der Beleuchtung. Auf welche Strömung geht dieser Befund zurück?",
+      "options": [
+        "Human-Relations-Bewegung (Hawthorne)",
+        "Bürokratietheorie (Max Weber)",
+        "Verhaltenswissenschaftliche Entscheidungstheorie",
+        "Situativer Ansatz (Kieser)"
+      ],
+      "answer": 0,
+      "explanation": "Der Hawthorne-Effekt – Leistungssteigerung durch die soziale Situation und Zuwendung – begründete die Human-Relations-Bewegung. Bürokratietheorie, situativer Ansatz und Entscheidungstheorie erklären diesen Befund nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "Ein Unternehmen passt seine formale Struktur gezielt an die Eigenschaften seiner Umwelt und seines Kontexts an. Welche Organisationstheorie beschreibt dieses Prinzip?",
+      "options": [
+        "Bürokratietheorie (Max Weber)",
+        "Situativer Ansatz (Kieser)",
+        "Wertschätzende Befragung",
+        "Human-Relations-Bewegung"
+      ],
+      "answer": 1,
+      "explanation": "Die Anpassung der Struktur an die jeweilige Situation/den Kontext ist der Kern des situativen Ansatzes. Die Bürokratietheorie beschreibt feste Strukturen, Human Relations soziale Faktoren; die wertschätzende Befragung ist eine OE-Methode.",
+      "transfer": true
+    },
+    {
+      "topic": "Change Management vs. OE",
+      "question": "Externe Fachexperten liefern einer Firma für eine kurze Phase fertige Lösungen und passen sie an die Bedürfnisse an. Handelt es sich eher um Change Management oder Organisationsentwicklung?",
+      "options": [
+        "Soziotechnische Systemgestaltung",
+        "Change Management",
+        "Organisationsentwicklung",
+        "Dialogische Organisationsentwicklung"
+      ],
+      "answer": 1,
+      "explanation": "Kurzfristiger Einsatz von Fachexperten, die fertige Lösungen liefern, kennzeichnet Change Management. Organisationsentwicklung ist langfristig, wird von psychologisch geschulten Berater:innen begleitet und lässt Lösungen von den Mitarbeitenden erarbeiten.",
+      "hard": true,
+      "trap": "Fertige Lösungen kurzfristig = Change Management; Lösungen von den Betroffenen erarbeitet = OE.",
+      "transfer": true
+    },
+    {
+      "topic": "Prozess der OE (Lewin)",
+      "question": "Zu Beginn einer Organisationsentwicklung werden Betroffenheit erzeugt, Widerstände abgebaut und die Dringlichkeit dargelegt. Welche Lewin-Phase ist das?",
+      "options": [
+        "Kontrahieren (contract)",
+        "Stabilisieren (refreeze)",
+        "Auftauen (unfreeze)",
+        "Verändern (move)"
+      ],
+      "answer": 2,
+      "explanation": "Betroffenheit erzeugen, Akzeptanz schaffen und Widerstände abbauen gehören zur Phase des Auftauens (unfreeze). Das Verändern setzt Maßnahmen um, das Stabilisieren verankert sie; eine Phase „Kontrahieren“ ist kein eigener Lewin-Schritt.",
+      "transfer": true
+    },
+    {
+      "topic": "Soziotechnische Systemtheorie",
+      "question": "Bei einer Umstellung werden neue Technik und die soziale Zusammenarbeit bewusst gemeinsam gestaltet, statt nur die Technik einzuführen. Welcher Ansatz liegt dem zugrunde?",
+      "options": [
+        "Funktionale Organisation",
+        "Bürokratietheorie (Max Weber)",
+        "Soziotechnische Systemtheorie",
+        "Episodischer Wandel"
+      ],
+      "answer": 2,
+      "explanation": "Die gemeinsame Optimierung von sozialem und technischem System ist die soziotechnische Systemtheorie. Bürokratietheorie und funktionale Organisation betreffen Struktur, episodischer Wandel den Veränderungsverlauf.",
+      "transfer": true
+    },
+    {
+      "topic": "Dialogische OE",
+      "question": "Ein Berater erhebt per Interview „das Beste“ der Organisation, lässt gemeinsam Visionen träumen und einen Zukunftsentwurf gestalten. Welche Methode ist das?",
+      "options": [
+        "Bürokratische Regelbindung nach Weber",
+        "Funktionale Reorganisation des Aufbaus",
+        "Diagnostische, problemorientierte OE",
+        "Wertschätzende Befragung (Appreciative Inquiry)"
+      ],
+      "answer": 3,
+      "explanation": "Das Erkunden des Besten (Discovery), Träumen (Dream) und Entwerfen (Design/Destiny) ist die wertschätzende Befragung (Appreciative Inquiry) der dialogischen OE. Sie ist lösungs- statt problemorientiert – anders als die diagnostische OE.",
+      "transfer": true
+    },
+    {
+      "topic": "Aufbau- vs. Ablauforganisation",
+      "question": "Worin unterscheiden sich Aufbau- und Ablauforganisation?",
+      "options": [
+        "Beide bezeichnen dasselbe mit anderem Namen",
+        "Aufbau regelt die Prozesse, Ablauf strukturiert die Einheiten",
+        "Aufbau strukturiert Einheiten, Ablauf regelt Prozesse",
+        "Beide betreffen ausschließlich die Entlohnung"
+      ],
+      "answer": 2,
+      "explanation": "Die Aufbauorganisation strukturiert das Unternehmen in Einheiten (Stellen, Abteilungen, Organigramm); die Ablauforganisation legt die Arbeitsprozesse unter Berücksichtigung von Raum, Zeit und Personen fest. Die Vertauschung und die Gleichsetzung sind falsch.",
+      "trap": "Aufbau = Struktur/Einheiten; Ablauf = Prozesse."
+    },
+    {
+      "topic": "Aufbauorganisation",
+      "question": "Welche der folgenden ist KEINE der genannten Aufbauformen?",
+      "options": [
+        "Divisionale Organisation (nach Sparten)",
+        "Matrixorganisation (zweidimensional)",
+        "Soziotechnische Organisation",
+        "Funktionale Organisation (nach Funktionen)"
+      ],
+      "answer": 2,
+      "explanation": "Genannte Aufbauformen sind funktionale, divisionale und Matrixorganisation. „Soziotechnische Organisation“ ist keine Aufbauform, sondern verweist auf die soziotechnische Systemtheorie.",
+      "trap": "Soziotechnisch ist eine Systemtheorie, keine Aufbauform."
+    },
+    {
+      "topic": "Bürokratietheorie",
+      "question": "Welches ist KEIN strukturelles Merkmal der Bürokratie nach Max Weber?",
+      "options": [
+        "Selbstorganisation ohne feste Zuständigkeiten",
+        "Amtshierarchie (Über- und Unterordnung)",
+        "Aktenkundigkeit (schriftliche Vorgänge)",
+        "Arbeitsteilung mit festen Zuständigkeiten"
+      ],
+      "answer": 0,
+      "explanation": "Merkmale der Bürokratie sind Arbeitsteilung, Amtshierarchie, regelgebundene Amtsführung und Aktenkundigkeit. Selbstorganisation ohne feste Zuständigkeiten widerspricht dem Bürokratiemodell.",
+      "hard": true,
+      "trap": "Bürokratie beruht auf festen Zuständigkeiten – nicht auf Selbstorganisation."
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "Welche der folgenden gehört NICHT zu den behandelten Organisationstheorien?",
+      "options": [
+        "Die Bürokratietheorie von Max Weber",
+        "Der situative Ansatz",
+        "Die psychoanalytische Triebtheorie",
+        "Die Human-Relations-Bewegung"
+      ],
+      "answer": 2,
+      "explanation": "Behandelt werden Bürokratietheorie, Human-Relations-Bewegung, situativer Ansatz und die verhaltenswissenschaftliche Entscheidungstheorie. Die psychoanalytische Triebtheorie gehört nicht dazu.",
+      "trap": "Die psychoanalytische Triebtheorie ist keine Organisationstheorie dieser Vorlesung."
+    },
+    {
+      "topic": "Formale und informale Strukturen",
+      "question": "Was kennzeichnet informale Strukturen in Organisationen?",
+      "options": [
+        "Sie sind in Stellenbeschreibungen exakt geregelt",
+        "Sie ersetzen jede formale Struktur vollständig und dauerhaft",
+        "Sie werden im Organigramm offiziell festgelegt und geregelt",
+        "Sie entstehen ungeplant neben der formalen Organisation"
+      ],
+      "answer": 3,
+      "explanation": "Informale Strukturen bilden sich ungeplant (z. B. durch Sympathie, Status, Aufgabe) und wirken komplementär oder substituierend neben der formalen Organisation. Sie stehen gerade nicht im Organigramm und ersetzen die formale Struktur nicht vollständig."
+    },
+    {
+      "topic": "Merkmale der OE",
+      "question": "Welche Aussage über Organisationsentwicklung trifft NICHT zu?",
+      "options": [
+        "Die Betroffenen sind am Prozess beteiligt",
+        "Sie ist ein ungeplanter, kurzfristiger Wandel ohne Beteiligung",
+        "Sie ist geplant und langfristig angelegt",
+        "Sie zielt eher auf Lebensqualität als allein auf Produktivität"
+      ],
+      "answer": 1,
+      "explanation": "Falsch ist die erste Aussage: OE ist gerade ein geplanter, langfristiger Wandel mit Beteiligung der Betroffenen. Sie zielt weniger auf Produktivität als auf Lebensqualität und Problemlösefähigkeit.",
+      "trap": "OE ist geplant, langfristig und partizipativ – nicht ungeplant und kurzfristig."
+    },
+    {
+      "topic": "Change Management vs. OE",
+      "question": "Welche Zuordnung zu Change Management (CM) bzw. Organisationsentwicklung (OE) ist FALSCH?",
+      "options": [
+        "OE wird von psychologisch geschulten Berater:innen begleitet",
+        "CM wird meist von Fachexperten und Managern getragen",
+        "OE ist langfristig auf Transformation angelegt",
+        "CM lässt die Lösungen von den Mitarbeitenden selbst erarbeiten"
+      ],
+      "answer": 3,
+      "explanation": "Falsch ist die erste Aussage: Gerade die OE lässt Lösungen von den Mitarbeitenden erarbeiten (Berater als Katalysator); im CM liefern Fachexperten die Lösungen. Die übrigen Zuordnungen stimmen.",
+      "hard": true,
+      "trap": "Lösungen von den Mitarbeitenden = OE; fertige Lösungen von Experten = CM."
+    },
+    {
+      "topic": "Episodischer vs. kontinuierlicher Wandel",
+      "question": "Wie lässt sich episodischer von kontinuierlichem Wandel unterscheiden?",
+      "options": [
+        "Episodisch: seltene Unterbrechung; kontinuierlich: konstanter Wandel",
+        "Episodisch: konstanter Wandel; kontinuierlich: seltene Unterbrechung",
+        "Beide sind reine Metaphern ohne praktische Bedeutung",
+        "Beide verlaufen stets linear und zielorientiert"
+      ],
+      "answer": 0,
+      "explanation": "Episodischer Wandel ist eine seltene, geplante Unterbrechung des Gleichgewichts (linear, zielorientiert); kontinuierlicher Wandel ist konstant, zyklisch und prozessual. Die Vertauschung und Pauschalaussagen sind falsch."
+    },
+    {
+      "topic": "Prozess der OE (Lewin)",
+      "question": "In welcher Reihenfolge verläuft der Veränderungsprozess nach Lewin?",
+      "options": [
+        "Auftauen, Stabilisieren, Verändern",
+        "Verändern, Auftauen, Stabilisieren",
+        "Auftauen, Verändern, Stabilisieren",
+        "Stabilisieren, Verändern, Auftauen"
+      ],
+      "answer": 2,
+      "explanation": "Der Prozess verläuft von Auftauen (unfreeze) über Verändern (move) zu Stabilisieren (refreeze). Die anderen Reihenfolgen verdrehen diese Logik."
+    },
+    {
+      "topic": "Diagnostische vs. dialogische OE",
+      "question": "Worin unterscheiden sich diagnostische und dialogische Organisationsentwicklung?",
+      "options": [
+        "Beide verzichten auf jede Beteiligung der Betroffenen",
+        "Diagnostisch ist lösungsorientiert, dialogisch rein problemorientiert",
+        "Beide sind rein vergangenheitsorientiert",
+        "Diagnostisch ist problemorientiert, dialogisch lösungsorientiert"
+      ],
+      "answer": 3,
+      "explanation": "Die diagnostische OE ist problemorientiert, konvergent und auf den Ist-Zustand gerichtet; die dialogische OE ist lösungs-/zukunftsorientiert, divergent und konstruktivistisch. Die Vertauschung und die Pauschalaussagen sind falsch.",
+      "trap": "Diagnostisch = Problemfokus; dialogisch = Lösungs-/Zukunftsfokus."
+    },
+    {
+      "topic": "Wertschätzende Befragung",
+      "question": "In welcher Reihenfolge verlaufen die Phasen der wertschätzenden Befragung (Appreciative Inquiry)?",
+      "options": [
+        "Discovery, Dream, Design, Destiny",
+        "Destiny, Design, Dream, Discovery",
+        "Design, Destiny, Discovery, Dream",
+        "Dream, Discovery, Destiny, Design"
+      ],
+      "answer": 0,
+      "explanation": "Die vier Phasen sind Discovery (das Beste entdecken), Dream (Visionen träumen), Design (Zukunft entwerfen) und Destiny (umsetzen). Die anderen Reihenfolgen sind vertauscht."
+    },
+    {
+      "topic": "Prozessgestaltung",
+      "question": "Welche der folgenden ist KEINE genannte Möglichkeit der Prozessgestaltung?",
+      "options": [
+        "Zusammenfassen oder Aufteilen von Schritten",
+        "Hierarchisieren der Mitarbeitenden",
+        "Weglassen oder Hinzufügen von Schritten",
+        "Parallelisieren oder Reihenfolge ändern"
+      ],
+      "answer": 1,
+      "explanation": "Genannte Möglichkeiten sind Weglassen, Hinzufügen, Zusammenfassen, Aufteilen, Parallelisieren und Reihenfolge ändern. Das „Hierarchisieren der Mitarbeitenden“ gehört nicht dazu."
+    },
+    {
+      "topic": "Soziotechnische Systemtheorie",
+      "question": "Was ist die Kernaussage der soziotechnischen Systemtheorie?",
+      "options": [
+        "Soziales und technisches System gemeinsam optimieren",
+        "Nur das soziale System ist für die Leistung relevant",
+        "Beide Systeme sind vollständig unabhängig voneinander",
+        "Nur das technische System bestimmt den Erfolg"
+      ],
+      "answer": 0,
+      "explanation": "Die soziotechnische Systemtheorie betont, dass soziales und technisches Subsystem nicht unabhängig sind und daher immer gemeinsam optimiert werden müssen. Eine einseitige oder unabhängige Betrachtung widerspricht ihr."
+    },
+    {
+      "topic": "Aufgabenanalyse und -synthese",
+      "question": "Was beschreibt die Aufgabensynthese in der Organisationsgestaltung?",
+      "options": [
+        "Die reine Bewertung der Entlohnungshöhe",
+        "Die zeitliche Messung einzelner Handgriffe",
+        "Das Zerlegen einer Gesamtaufgabe in einzelne Teilaufgaben",
+        "Das Bündeln von Teilaufgaben zu Stellen"
+      ],
+      "answer": 3,
+      "explanation": "Die Aufgabensynthese fasst Teilaufgaben zu Stellen und Abteilungen zusammen; die Aufgabenanalyse zerlegt zuvor die Gesamtaufgabe in Teilaufgaben. Entlohnungsbewertung und Zeitmessung sind nicht gemeint.",
+      "trap": "Analyse = zerlegen; Synthese = zu Stellen bündeln."
+    }
+  ]
+}
