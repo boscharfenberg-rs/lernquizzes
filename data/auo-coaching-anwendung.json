@@ -1,0 +1,314 @@
+{
+  "id": "auo-coaching-anwendung",
+  "title": "A&O – Coaching: Anwendung & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zum Coaching (Kernfolien): Definition und Abgrenzung (Therapie, Mentoring), Zieltypen (Skills, Performance, Developmental), Coaching-Ansätze (klientenzentriert, systemisch, lösungs-/ressourcenorientiert, kognitiv-behavioral), Settings, Phasen des Coaching-Prozesses, Fragetypen (Wunder-, Skalierungs-, zirkuläre Fragen), aktives Zuhören/Paraphrasieren, kognitive vs. emotionale Empathie und der Forschungsstand.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Coaching-Zieltypen",
+      "question": "Ein Coach agiert wie ein Trainer, gibt fachlichen Input und ist stark direktiv, damit der Coachee eine konkrete Fertigkeit (z. B. Präsentieren) lernt. Welcher Coaching-Zieltyp ist das?",
+      "options": [
+        "Developmental Coaching (Entwicklungs-Coaching)",
+        "Skills Coaching (Kompetenz-Coaching)",
+        "Performance Coaching (Leistungs-Coaching)",
+        "Peer-Coaching unter Gleichgestellten"
+      ],
+      "answer": 1,
+      "explanation": "Hohe Direktivität, Coach als Experte und das Lernen einer spezifischen Fertigkeit kennzeichnen das Skills Coaching. Performance Coaching arbeitet an messbaren Leistungszielen, Developmental Coaching an der Persönlichkeitsentwicklung; Peer-Coaching ist ein Setting.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Zieltypen",
+      "question": "Coach und Coachee legen messbare Leistungsparameter und Teilziele fest und überprüfen die Zwischenziele regelmäßig über einen festen Zeitraum. Welcher Zieltyp ist das?",
+      "options": [
+        "Developmental Coaching (Entwicklungs-Coaching)",
+        "Selbst-Coaching des Coachees",
+        "Performance Coaching (Leistungs-Coaching)",
+        "Skills Coaching (Kompetenz-Coaching)"
+      ],
+      "answer": 2,
+      "explanation": "Messbare Leistungsparameter, Teilziele und regelmäßige Überprüfung kennzeichnen das Performance Coaching (begleitend-kontrollierende Rolle). Skills Coaching zielt auf eine Fertigkeit, Developmental Coaching auf Persönlichkeit; Selbst-Coaching ist ein Setting.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Zieltypen",
+      "question": "Ein Coach arbeitet non-direktiv und regt die Selbstreflexion an, damit der Coachee eigenständig Lösungen entwickelt und sich langfristig weiterentwickelt. Welcher Zieltyp ist das?",
+      "options": [
+        "Performance Coaching (Leistungs-Coaching)",
+        "Team-Coaching einer festen Gruppe",
+        "Developmental Coaching (Entwicklung)",
+        "Skills Coaching (Kompetenz-Coaching)"
+      ],
+      "answer": 2,
+      "explanation": "Non-direktives Vorgehen, Selbstreflexion und langfristige Persönlichkeitsentwicklung kennzeichnen das Developmental Coaching. Skills und Performance Coaching sind direktiver und auf Fertigkeit bzw. messbare Leistung ausgerichtet; Team-Coaching ist ein Setting.",
+      "hard": true,
+      "trap": "Non-direktiv + Persönlichkeitsentwicklung = Developmental; direktiv + Fertigkeit = Skills.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Ansätze",
+      "question": "Ein Coach dient nur als Reflexionsquelle; der Coachee gilt als Experte für seine Situation, und seine Autonomie wird betont. Welcher Coaching-Ansatz ist das?",
+      "options": [
+        "Lösungs- und ressourcenorientierter Ansatz",
+        "Systemischer Ansatz",
+        "Kognitiv-behavioraler Ansatz",
+        "Klientenzentrierter Ansatz"
+      ],
+      "answer": 3,
+      "explanation": "Der non-direktive Fokus auf Autonomie und den Coachee als Experten (Aktualisierungstendenz) kennzeichnet den klientenzentrierten Ansatz. Der systemische Ansatz betrachtet das soziale System, der kognitiv-behaviorale die Kognitionen, der lösungsorientierte die Ressourcen.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Ansätze",
+      "question": "Ein Coach betrachtet das Problem des Coachees vor dem Hintergrund seines sozialen Systems und geht von Zirkularität und Vernetzung aus. Welcher Ansatz ist das?",
+      "options": [
+        "Kognitiv-behavioraler Ansatz",
+        "Systemischer Ansatz",
+        "Klientenzentrierter Ansatz",
+        "Skills-Coaching-Ansatz"
+      ],
+      "answer": 1,
+      "explanation": "Die Betrachtung des Problems im sozialen System mit Prinzipien wie Zirkularität, Vernetzung und Konstruktivismus ist der systemische Ansatz. Der klientenzentrierte betont Autonomie, der kognitiv-behaviorale die Kognitionen; „Skills-Coaching“ ist ein Zieltyp.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Ansätze",
+      "question": "Ein Coach analysiert das Problem bewusst nicht vollständig, sondern stellt Wünsche, Ziele und vorhandene Ressourcen des Coachees in den Mittelpunkt. Welcher Ansatz ist das?",
+      "options": [
+        "Lösungs-/ressourcenorientierter Ansatz",
+        "Klientenzentrierter Ansatz nach Carl Rogers",
+        "Systemischer Ansatz nach Kybernetik",
+        "Kognitiv-behavioraler Verhaltensansatz"
+      ],
+      "answer": 0,
+      "explanation": "Der Fokus auf Lösungen und Ressourcen statt vollständiger Problemanalyse (Prinzipien u. a. Lösungsorientierung, Utilisation, Minimalintervention) kennzeichnet den lösungs- und ressourcenorientierten Ansatz. Die anderen Ansätze setzen andere Schwerpunkte.",
+      "transfer": true
+    },
+    {
+      "topic": "Fragetypen",
+      "question": "Ein Coach fragt: „Stellen Sie sich vor, über Nacht geschieht ein Wunder und Ihr Ziel ist erreicht – woran würden Sie das zuerst merken?“ Welcher Fragetyp ist das?",
+      "options": [
+        "Skalierungsfrage",
+        "Zielorientierte Frage",
+        "Wunderfrage",
+        "Zirkuläre Frage"
+      ],
+      "answer": 2,
+      "explanation": "Das imaginäre „Wunder“ zur Exploration des Sollzustands ist die Wunderfrage. Skalierungsfragen nutzen eine Zahlenskala, zirkuläre Fragen den Perspektivwechsel über Dritte, zielorientierte Fragen präzisieren die Zielstellung.",
+      "transfer": true
+    },
+    {
+      "topic": "Fragetypen",
+      "question": "Ein Coach fragt: „Auf einer Skala von 1 bis 100 % – wo stehen Sie gerade bei Ihrer Zielerreichung?“ Welcher Fragetyp ist das?",
+      "options": [
+        "Zirkuläre Frage",
+        "Skalierungsfrage",
+        "Zielorientierte Frage",
+        "Wunderfrage"
+      ],
+      "answer": 1,
+      "explanation": "Das Messbarmachen einer Situation über eine numerische Skala ist die Skalierungsfrage; auch kleine Fortschritte werden so sichtbar. Wunderfragen imaginieren die Zielerreichung, zirkuläre Fragen wechseln die Perspektive, zielorientierte präzisieren das Ziel.",
+      "transfer": true
+    },
+    {
+      "topic": "Fragetypen",
+      "question": "Ein Coach fragt: „Wenn ich Ihre besten Freunde nach Ihren größten Stärken fragen würde – was würden sie sagen?“ Welcher Fragetyp ist das?",
+      "options": [
+        "Zielorientierte Frage",
+        "Zirkuläre Frage",
+        "Wunderfrage",
+        "Skalierungsfrage"
+      ],
+      "answer": 1,
+      "explanation": "Der Perspektivwechsel über das, was Dritte über den Coachee denken, ist die zirkuläre Frage. Skalierungsfragen nutzen Zahlen, Wunderfragen ein imaginäres Wunder, zielorientierte Fragen präzisieren das Ziel.",
+      "transfer": true
+    },
+    {
+      "topic": "Techniken",
+      "question": "Ein Coach formuliert die Aussage des Coachees inhaltlich um und spiegelt ihm, wie er sie verstanden hat, ohne bloß zu wiederholen. Welche Technik ist das?",
+      "options": [
+        "Paraphrasieren",
+        "Skalierungsfrage",
+        "Konfrontation",
+        "Reframing"
+      ],
+      "answer": 0,
+      "explanation": "Das inhaltliche Umformulieren und Spiegeln einer Aussage ist das Paraphrasieren (Teil des aktiven Zuhörens). Skalierungsfragen messen, Reframing deutet um, Konfrontation stellt Widersprüche gegenüber.",
+      "transfer": true
+    },
+    {
+      "topic": "Definition",
+      "question": "Was kennzeichnet Coaching nach der Definition der Kernfolien?",
+      "options": [
+        "Eine dyadische Beziehung als „Hilfe zur Selbsthilfe“",
+        "Die fachliche Beratung ohne jede Selbstbeteiligung",
+        "Die einseitige Anweisung durch die vorgesetzte Person",
+        "Die Behandlung psychischer Störungen des Coachees"
+      ],
+      "answer": 0,
+      "explanation": "Coaching ist in der Regel eine dyadische Interaktion mit einem psychisch gesunden Coachee auf Augenhöhe; der Coach ist Prozesssteuerer, der Coachee Experte für sein Anliegen („Hilfe zur Selbsthilfe“). Störungsbehandlung ist Therapie, nicht Coaching."
+    },
+    {
+      "topic": "Abgrenzung",
+      "question": "Wodurch unterscheidet sich Coaching am ehesten von Psychotherapie?",
+      "options": [
+        "Coaching ist immer länger als jede Therapie",
+        "Coaching für Gesunde, Therapie behandelt Störungen",
+        "Coaching behandelt Störungen, Therapie fördert gesunde Personen",
+        "Beide sind vollständig identisch"
+      ],
+      "answer": 1,
+      "explanation": "Coaching setzt einen psychisch gesunden Coachee voraus und zielt auf Entwicklung/Zielerreichung; Psychotherapie behandelt psychische Störungen und stellt die psychische Gesundheit wieder her. Die Vertauschung, Gleichsetzung und Dauer-Aussage sind falsch.",
+      "trap": "Coaching = gesunde Personen/Entwicklung; Therapie = Behandlung von Störungen."
+    },
+    {
+      "topic": "Abgrenzung",
+      "question": "Was kennzeichnet Mentoring in Abgrenzung zum Coaching?",
+      "options": [
+        "Prozessbezogene „Hilfe zur Selbsthilfe“ für Führungskräfte",
+        "Außergerichtliche Beilegung eines Konflikts",
+        "Vermittlung von Kulturnormen an neue Mitglieder",
+        "Behandlung psychischer Störungen durch Fachpersonen"
+      ],
+      "answer": 2,
+      "explanation": "Mentoring vermittelt neuen oder jungen Organisationsmitgliedern Normen der Kultur und bindet sie (teils mit Karriereberatung). „Hilfe zur Selbsthilfe“ ist Coaching, Störungsbehandlung Therapie, Konfliktbeilegung Mediation."
+    },
+    {
+      "topic": "Coaching-Zieltypen",
+      "question": "Wie verhält sich die Direktivität des Coaches über die drei Zieltypen hinweg?",
+      "options": [
+        "In allen drei Zieltypen exakt gleich hoch",
+        "Am höchsten beim Developmental-, am geringsten beim Skills Coaching",
+        "Sie spielt für die Zieltypen keine Rolle",
+        "Am höchsten beim Skills-, am geringsten beim Developmental Coaching"
+      ],
+      "answer": 3,
+      "explanation": "Die Direktivität nimmt vom Skills Coaching (hoch, Coach als Experte) über das Performance Coaching (mittel) zum Developmental Coaching (non-direktiv) ab, während die Selbstverantwortung des Coachees zunimmt. Die anderen Aussagen sind falsch.",
+      "hard": true
+    },
+    {
+      "topic": "Klientenzentrierter Ansatz",
+      "question": "Welche drei Grundhaltungen kennzeichnen den klientenzentrierten Ansatz?",
+      "options": [
+        "Empathie, Akzeptanz und Kongruenz",
+        "Lösungsorientierung, Utilisation und Veränderung",
+        "Prozess, Struktur und Ergebnis",
+        "Konstruktivismus, Vernetzung und Zirkularität"
+      ],
+      "answer": 0,
+      "explanation": "Der klientenzentrierte Ansatz beruht auf Empathie, Akzeptanz (positive Wertschätzung) und Kongruenz (Echtheit). Die anderen Reihen gehören zum lösungsorientierten bzw. systemischen Ansatz oder zur Wirksamkeitsforschung."
+    },
+    {
+      "topic": "Systemischer Ansatz",
+      "question": "Welches Prinzip gehört NICHT zu den fünf Grundprinzipien des systemischen Denkens?",
+      "options": [
+        "Konstruktivismus im System",
+        "Zirkularität des Verhaltens",
+        "Vernetzung aller Systemteile",
+        "Aktualisierungstendenz"
+      ],
+      "answer": 3,
+      "explanation": "Die fünf systemischen Prinzipien sind Konstruktivismus, Selbsterhaltung des Systems, Vernetzung, Kybernetik 2. Ordnung und Zirkularität. Die Aktualisierungstendenz gehört zum klientenzentrierten (humanistischen) Ansatz.",
+      "trap": "Aktualisierungstendenz ist klientenzentriert, kein systemisches Prinzip."
+    },
+    {
+      "topic": "Lösungsorientierter Ansatz",
+      "question": "Was besagt das Prinzip der Minimalintervention im lösungs- und ressourcenorientierten Ansatz?",
+      "options": [
+        "Das Problem muss stets vollständig analysiert werden",
+        "Es werden ausschließlich Defizite bearbeitet",
+        "Der Coach gibt möglichst viele Anweisungen",
+        "Nur an vom Coachee benannten Zielen wird gearbeitet"
+      ],
+      "answer": 3,
+      "explanation": "Minimalintervention heißt, nur an den vom Coachee selbst benannten Zielen zu arbeiten. Der Ansatz verzichtet gerade auf vollständige Problemanalyse und Direktivität und fokussiert Ressourcen statt Defizite."
+    },
+    {
+      "topic": "Kognitiv-behavioraler Ansatz",
+      "question": "Auf welcher Grundannahme beruht der kognitiv-behaviorale Coaching-Ansatz?",
+      "options": [
+        "Bewertungen prägen das Verhalten und sind veränderbar",
+        "Nur das soziale System bestimmt das Verhalten",
+        "Kognitionen sind grundsätzlich nicht veränderbar",
+        "Verhalten ist unabhängig von jeder Bewertung festgelegt"
+      ],
+      "answer": 0,
+      "explanation": "Der kognitiv-behaviorale Ansatz nimmt an, dass kognitive Bewertungen das Verhalten beeinflussen, dass Kognitionen veränderbar sind und dass sich darüber das Verhalten ändern lässt. Die anderen Aussagen widersprechen diesen Prinzipien."
+    },
+    {
+      "topic": "Settings",
+      "question": "Worin unterscheidet sich Team-Coaching von Gruppen-Coaching?",
+      "options": [
+        "Team-Coaching coacht Einzelne, Gruppen-Coaching ganze Organisationen",
+        "Team-Coaching ist reine Wissensvermittlung",
+        "Team-Coaching: festes Team; Gruppen-Coaching: ähnliche Anliegen",
+        "Beide bezeichnen dasselbe Setting"
+      ],
+      "answer": 2,
+      "explanation": "Team-Coaching richtet sich an ein festes Arbeitsteam, Gruppen-Coaching an eine (nicht feste) Gruppe mit ähnlichem Anliegen – beides über gemeinsame Reflexion, nicht über Wissensvermittlung. Die anderen Aussagen sind falsch.",
+      "hard": true
+    },
+    {
+      "topic": "Coaching-Prozess",
+      "question": "In welcher Reihenfolge verlaufen die Phasen des Coaching-Prozesses?",
+      "options": [
+        "Kontrakt, Einstieg, Abschluss, Zielklärung, Intervention",
+        "Intervention, Zielklärung, Einstieg, Kontrakt, Abschluss",
+        "Zielklärung, Abschluss, Einstieg, Kontrakt, Intervention",
+        "Einstieg, Kontrakt, Zielklärung, Intervention/Evaluation, Abschluss"
+      ],
+      "answer": 3,
+      "explanation": "Der Prozess verläuft von der Akquisitions-/Einstiegsphase über die Kontraktphase und die Zielklärung (Ist/Soll) zur Lösungs-/Interventions- und Evaluationsphase und schließlich zum Abschluss. Die anderen Reihenfolgen sind verdreht."
+    },
+    {
+      "topic": "Fragetypen",
+      "question": "Welches Ziel verfolgt eine zirkuläre Frage im Coaching?",
+      "options": [
+        "Die Zielstellung des Coachees direkt zu präzisieren",
+        "Einen Perspektivwechsel über die Sicht Dritter anzuregen",
+        "Den Sollzustand über ein imaginäres Wunder zu erkunden",
+        "Eine Situation numerisch mess- und vergleichbar zu machen"
+      ],
+      "answer": 1,
+      "explanation": "Zirkuläre Fragen regen einen Perspektivwechsel an, indem sie danach fragen, was Menschen aus dem Umfeld über den Coachee denken. Das Messbarmachen ist die Skalierungsfrage, das imaginäre Wunder die Wunderfrage, die direkte Präzisierung die zielorientierte Frage."
+    },
+    {
+      "topic": "Aktives Zuhören",
+      "question": "Was ist das Ziel des Paraphrasierens beim aktiven Zuhören?",
+      "options": [
+        "Die Aussage des Coachees stark zu interpretieren und zu bewerten",
+        "Das Gesagte wortwörtlich als Echo zu wiederholen",
+        "Spiegeln, was angekommen ist, um Missverständnisse zu vermeiden",
+        "Dem Coachee die eigene Meinung des Coaches aufzudrängen"
+      ],
+      "answer": 2,
+      "explanation": "Paraphrasieren spiegelt inhaltlich, was beim Coach angekommen ist, sichert das Verständnis und lässt den Coachee sich verstanden fühlen. Ein reines Echo, starke Interpretation oder das Aufdrängen eigener Meinung sind gerade nicht gemeint."
+    },
+    {
+      "topic": "Empathie",
+      "question": "Wodurch unterscheidet sich kognitive von emotionaler Empathie?",
+      "options": [
+        "Kognitive Empathie = Perspektivübernahme, emotionale = Gefühlsreaktion",
+        "Beide bezeichnen exakt dasselbe",
+        "Beide sind für das Coaching ohne Bedeutung",
+        "Kognitive Empathie ist eine Gefühlsreaktion, emotionale eine Perspektivübernahme"
+      ],
+      "answer": 0,
+      "explanation": "Kognitive Empathie ist die mentale Perspektivübernahme (verstehen, warum jemand traurig ist), emotionale Empathie die emotionale Reaktion darauf (selbst Trauer empfinden). Die Vertauschung, Gleichsetzung und Bedeutungslosigkeit treffen nicht zu.",
+      "trap": "Kognitiv = Perspektive verstehen; emotional = mitfühlen."
+    },
+    {
+      "topic": "Coaching-Forschung",
+      "question": "Wie ist der Forschungsstand zur Wirksamkeit einzelner Coaching-Techniken einzuschätzen?",
+      "options": [
+        "Es existieren ausschließlich große randomisierte Studien",
+        "Coaching ist nachweislich vollständig wirkungslos",
+        "Jede einzelne Technik ist in ihrer Wirkung eindeutig belegt",
+        "Wenig ausgeprägt; Einzeleffekte schwer isolierbar"
+      ],
+      "answer": 3,
+      "explanation": "Die Coaching-Forschung ist noch wenig ausgeprägt (aus der Praxis entstanden); wegen der wechselseitigen Wirkung der Techniken lassen sich Effekte kaum isolieren, und Studien sind oft klein oder Einzelfälle. Eindeutige Belege je Technik oder ausschließlich große RCTs gibt es nicht."
+    }
+  ]
+}

@@ -815,6 +815,13 @@
       "title": "A&O – Kommunikation: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zur Kommunikation (Kernfolien): Kommunikationsmodelle (Shannon & Weaver, Grice, Rogers, Watzlawick), Schulz von Thun (vier Seiten), formale/informelle und vertikale/horizontale Kommunikation, Gerüchte (Levelling, Sharpening, Assimilation), Ostrazismus, Knowledge Hiding, Bad-News-Training und Working Out Loud."
+    },
+    {
+      "id": "auo-coaching-anwendung",
+      "file": "auo-coaching-anwendung.json",
+      "title": "A&O – Coaching: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zum Coaching (Kernfolien): Definition & Abgrenzung, Zieltypen (Skills/Performance/Developmental), Ansätze (klientenzentriert, systemisch, lösungs-/ressourcenorientiert, kognitiv-behavioral), Settings, Phasen des Coaching-Prozesses, Fragetypen (Wunder-, Skalierungs-, zirkuläre Fragen), aktives Zuhören/Paraphrasieren und Empathie."
     }
   ]
 }
