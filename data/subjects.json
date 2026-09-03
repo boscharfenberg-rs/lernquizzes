@@ -801,6 +801,13 @@
       "title": "A&O – Organisationsentwicklung: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zu Organisation & OE (Kernfolien): Aufbau-/Ablauforganisation und Aufbauformen (funktional, divisional, Matrix), Organisationstheorien (Weber, Hawthorne, situativer Ansatz), Merkmale der OE, Change Management vs. OE, episodischer vs. kontinuierlicher Wandel, soziotechnische Systemtheorie, Lewin-Phasen und dialogische OE (Appreciative Inquiry)."
+    },
+    {
+      "id": "auo-organisationskultur-anwendung",
+      "file": "auo-organisationskultur-anwendung.json",
+      "title": "A&O – Organisationskultur & -klima: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zu Organisationskultur & -klima (Kernfolien): drei Ebenen nach Schein, Funktionen und Symptome der Kultur, Competing Values Framework (Clan, Adhocracy, Markt, Hierarchie), Attraction-Selection-Attrition, Person-Organization-Fit (supplementär/komplementär), Kulturwandel sowie Organisationsklima und spezifische Klimakonzepte."
     }
   ]
 }
