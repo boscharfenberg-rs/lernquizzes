@@ -1,0 +1,298 @@
+{
+  "id": "auo-arbeitsgestaltung-anwendung",
+  "title": "A&O – Arbeitsgestaltung: Anwendung & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zur Arbeitsgestaltung (Kernfolien): Kriterien humaner Arbeitsgestaltung, Arbeitsanalyse/-bewertung/-gestaltung, Verhältnis- vs. Verhaltensprävention, Arbeitsteilung (Job Rotation/Enlargement/Enrichment), Arbeitszeitgestaltung (Schicht, Pausen) sowie das Job-Characteristics-Modell (Hackman & Oldham). Schwerpunkt: Anwendung an Fallbeispielen und Modellverständnis.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Arbeitsteilung",
+      "question": "In einer Fertigung wechseln die Beschäftigten systematisch und geplant zwischen mehreren Tätigkeiten, um Monotonie und einseitige Belastung zu verringern. Welches Prinzip liegt vor?",
+      "options": [
+        "Job Enrichment (Arbeitsbereicherung)",
+        "Job Enlargement (Arbeitserweiterung)",
+        "Job Rotation (Arbeitswechsel)",
+        "Job Sharing (Arbeitsplatzteilung)"
+      ],
+      "answer": 2,
+      "explanation": "Der systematische, geplante Wechsel zwischen Aufgaben ist Job Rotation; Ziele sind Kompetenzerweiterung, weniger Monotonie und geringere einseitige Belastung. Job Enlargement fügt gleichartige Aufgaben hinzu, Job Enrichment höherwertige (Planung/Kontrolle); Job Sharing teilt eine Stelle auf mehrere Personen.",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeitsteilung",
+      "question": "Eine Sachbearbeiterin bekommt zusätzliche, gleichartige Aufgaben auf derselben Anspruchsebene übertragen (mehr vom Gleichen). Welches Gestaltungsprinzip ist das?",
+      "options": [
+        "Job Enlargement (horizontale, quantitative Erweiterung)",
+        "Verhaltensprävention (personenbezogene Ressourcen)",
+        "Job Enrichment (vertikale, qualitative Erweiterung)",
+        "Job Rotation (systematischer Aufgabenwechsel)"
+      ],
+      "answer": 0,
+      "explanation": "Das Hinzufügen gleichartiger Aufgaben auf gleicher Ebene ist die horizontale bzw. quantitative Erweiterung – Job Enlargement. Job Enrichment integriert höherwertige Aufgaben (vertikal/qualitativ), Job Rotation wechselt die Aufgaben, Verhaltensprävention betrifft nicht die Aufgabengestaltung.",
+      "trap": "Mehr gleichartige Aufgaben = Enlargement (horizontal); höherwertige Aufgaben = Enrichment (vertikal).",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeitsteilung",
+      "question": "Ein Team übernimmt künftig auch Planungs-, Kontroll- und Entscheidungsaufgaben, die zuvor die Vorgesetzten hatten; der Handlungsspielraum wächst. Welches Prinzip ist das?",
+      "options": [
+        "Verhältnisprävention (Gestaltung der Verhältnisse)",
+        "Job Rotation (systematischer Aufgabenwechsel)",
+        "Job Enrichment (vertikale, qualitative Erweiterung)",
+        "Job Enlargement (horizontale, quantitative Erweiterung)"
+      ],
+      "answer": 2,
+      "explanation": "Die Integration von Planungs-, Kontroll- und Entscheidungskompetenzen aus höheren Hierarchieebenen ist die vertikale/qualitative Erweiterung – Job Enrichment; sie vergrößert den Handlungsspielraum. Enlargement bleibt auf gleicher Ebene, Rotation wechselt nur die Aufgaben.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Kriterien humaner Arbeitsgestaltung",
+      "question": "Ein Arbeitsplatz wird so gestaltet, dass keine psychosomatischen Beschwerden und keine Beeinträchtigungen von Gesundheit und Wohlbefinden entstehen. Welches Kriterium humaner Arbeitsgestaltung wird angesprochen?",
+      "options": [
+        "Schädigungslosigkeit (ohne Gesundheitsschäden)",
+        "Persönlichkeitsförderlichkeit (Fähigkeiten entwickeln)",
+        "Beeinträchtigungsfreiheit (Wohlbefinden gewahrt)",
+        "Ausführbarkeit (uneingeschränkt und zuverlässig durchführbar)"
+      ],
+      "answer": 2,
+      "explanation": "Das Vermeiden von Beeinträchtigungen von Gesundheit und Wohlbefinden (z. B. psychosomatische Beschwerden) ist die Beeinträchtigungsfreiheit. Ausführbarkeit meint die zuverlässige Durchführbarkeit, Schädigungslosigkeit das Vermeiden von Gesundheitsschäden, Persönlichkeitsförderlichkeit die Weiterentwicklung von Fähigkeiten.",
+      "hard": true,
+      "trap": "Beeinträchtigungsfreiheit (Wohlbefinden) ist eine Stufe höher als Schädigungslosigkeit (keine Gesundheitsschäden).",
+      "transfer": true
+    },
+    {
+      "topic": "Kriterien humaner Arbeitsgestaltung",
+      "question": "Ein Betrieb bietet Spielraum für Lernen und Weiterentwicklung, damit Beschäftigte ihre Fähigkeiten erhalten und ausbauen. Welches Kriterium ist damit erfüllt?",
+      "options": [
+        "Schädigungslosigkeit (ohne Gesundheitsschäden)",
+        "Ausführbarkeit (uneingeschränkt und zuverlässig durchführbar)",
+        "Beeinträchtigungsfreiheit (Wohlbefinden bleibt gewahrt)",
+        "Persönlichkeitsförderlichkeit (Fähigkeiten entwickeln)"
+      ],
+      "answer": 3,
+      "explanation": "Weiterentwicklung und Erhaltung von Fähigkeiten (Spielraum für Lernen) ist die Persönlichkeitsförderlichkeit – das anspruchsvollste Kriterium. Die übrigen drei betreffen Durchführbarkeit, Gesundheitsschäden und Wohlbefinden, nicht die Entwicklung.",
+      "transfer": true
+    },
+    {
+      "topic": "Prävention",
+      "question": "Ein Unternehmen gestaltet Arbeitsaufgaben belastungsärmer und schafft zusätzliche arbeitsbezogene Ressourcen. Um welche Präventionsart handelt es sich?",
+      "options": [
+        "Verhaltensprävention",
+        "Persönlichkeitsförderlichkeit",
+        "Sekundärprävention am Individuum",
+        "Verhältnisprävention"
+      ],
+      "answer": 3,
+      "explanation": "Das Ansetzen an den Arbeitsverhältnissen (belastungsarme Aufgaben, Ressourcen schaffen) ist Verhältnisprävention. Verhaltensprävention setzt am Verhalten der Beschäftigten an (z. B. personenbezogene Ressourcen stärken). Die anderen Optionen sind hier keine passenden Kategorien.",
+      "transfer": true
+    },
+    {
+      "topic": "Prävention",
+      "question": "Ein Betrieb schult einzelne Beschäftigte in Stressbewältigung, um ihre personenbezogenen Ressourcen zu stärken. Welche Präventionsart liegt vor?",
+      "options": [
+        "Arbeitsbewertung",
+        "Verhaltensprävention",
+        "Job Enrichment",
+        "Verhältnisprävention"
+      ],
+      "answer": 1,
+      "explanation": "Maßnahmen am Verhalten und an den personenbezogenen Ressourcen der Beschäftigten sind Verhaltensprävention. Verhältnisprävention würde stattdessen die Arbeitsbedingungen selbst verändern. Arbeitsbewertung und Job Enrichment sind keine Präventionsarten.",
+      "trap": "Am Verhalten der Person ansetzen = Verhaltensprävention; an den Bedingungen = Verhältnisprävention.",
+      "transfer": true
+    },
+    {
+      "topic": "Job-Characteristics-Modell",
+      "question": "Ein Job wird so umgestaltet, dass die Beschäftigten deutlich mehr Autonomie erhalten. Welchen psychischen Erlebniszustand soll das laut Job-Characteristics-Modell besonders fördern?",
+      "options": [
+        "Erlebte Verantwortung für die Arbeitsergebnisse",
+        "Wissen um die tatsächlichen Arbeitsresultate",
+        "Erlebte Zufriedenheit mit dem Arbeitskontext",
+        "Erlebte Bedeutsamkeit der eigenen Arbeitstätigkeit"
+      ],
+      "answer": 0,
+      "explanation": "Im Job-Characteristics-Modell wirkt Autonomie vor allem auf die erlebte Verantwortung für die Ergebnisse. Die erlebte Bedeutsamkeit speist sich aus Anforderungsvielfalt, Ganzheitlichkeit und Wichtigkeit; das Wissen um Resultate entsteht durch Rückmeldung. Kontextzufriedenheit ist ein Moderator, kein Erlebniszustand.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Job-Characteristics-Modell",
+      "question": "Zwei Beschäftigte erhalten dieselbe angereicherte Aufgabe. Bei der Person mit hohem Bedürfnis nach persönlicher Entfaltung wirkt sich die Umgestaltung stärker auf die Zufriedenheit aus. Was beschreibt das im Modell?",
+      "options": [
+        "Die Moderatorwirkung des Wachstumsbedürfnisses",
+        "Die Kausalrichtung vom Ergebnis zum Merkmal",
+        "Einen reinen Methodeneffekt der Befragung",
+        "Einen direkten Effekt der Rückmeldung"
+      ],
+      "answer": 0,
+      "explanation": "Das Wachstumsbedürfnis (Bedürfnis nach persönlicher Entfaltung) ist im JCM eine Moderatorvariable: Bei hoher Ausprägung ist der Zusammenhang zwischen Arbeitsmerkmalen und Zufriedenheit stärker. Rückmeldung ist ein Tätigkeitsmerkmal, die Kausalrichtung ist nicht umgekehrt, ein Methodeneffekt ist nicht gemeint.",
+      "transfer": true
+    },
+    {
+      "topic": "Arbeitszeit",
+      "question": "In einem Betrieb wechseln die Beschäftigten in einem festen Rhythmus zwischen Früh-, Spät- und Nachtschicht. Welches Arbeitszeitsystem ist das?",
+      "options": [
+        "Gleitzeit-System",
+        "Wechselschicht-System",
+        "Einschicht-Betrieb",
+        "Mehrschicht-System ohne Wechsel"
+      ],
+      "answer": 1,
+      "explanation": "Der regelmäßige Wechsel des Schichteinsatzes (z. B. Früh-/Spät-/Nachtschicht) ist das Wechselschicht-System. Der Einschicht-Betrieb hat nur eine Schicht, das Mehrschicht-System besetzt einen Arbeitsplatz nacheinander (ohne dass dieselbe Person wechseln muss), Gleitzeit betrifft flexible Lage, nicht Schichten.",
+      "transfer": true
+    },
+    {
+      "topic": "Kriterien humaner Arbeitsgestaltung",
+      "question": "Welches der folgenden Kriterien gehört NICHT zu den vier Kriterien humaner Arbeitsgestaltung?",
+      "options": [
+        "Schädigungslosigkeit",
+        "Wirtschaftlichkeit",
+        "Persönlichkeitsförderlichkeit",
+        "Ausführbarkeit"
+      ],
+      "answer": 1,
+      "explanation": "Die vier Kriterien sind Ausführbarkeit, Schädigungslosigkeit, Beeinträchtigungsfreiheit und Persönlichkeitsförderlichkeit. Wirtschaftlichkeit gehört nicht dazu – sie ist ein betriebliches, kein arbeitspsychologisches Humankriterium.",
+      "trap": "Wirtschaftlichkeit ist KEIN Kriterium humaner Arbeitsgestaltung."
+    },
+    {
+      "topic": "Arbeitsteilung",
+      "question": "Worin unterscheiden sich Job Enlargement und Job Enrichment?",
+      "options": [
+        "Beide integrieren stets Planungs- und Kontrollaufgaben",
+        "Enlargement erweitert vertikal/qualitativ, Enrichment horizontal/quantitativ",
+        "Beide bezeichnen nur den systematischen Wechsel der Aufgaben",
+        "Enlargement erweitert horizontal/quantitativ, Enrichment vertikal/qualitativ"
+      ],
+      "answer": 3,
+      "explanation": "Job Enlargement ist die horizontale (quantitative) Erweiterung um gleichartige Aufgaben; Job Enrichment die vertikale (qualitative) Erweiterung um höherwertige Planungs-/Kontroll-/Entscheidungsaufgaben. Die Vertauschung ist falsch; der systematische Wechsel ist Job Rotation.",
+      "hard": true,
+      "trap": "Enlargement = horizontal/quantitativ; Enrichment = vertikal/qualitativ."
+    },
+    {
+      "topic": "Job-Characteristics-Modell",
+      "question": "Welches Merkmal gehört NICHT zu den fünf Tätigkeitsmerkmalen des Job-Characteristics-Modells?",
+      "options": [
+        "Autonomie",
+        "Entlohnung",
+        "Anforderungsvielfalt",
+        "Rückmeldung"
+      ],
+      "answer": 1,
+      "explanation": "Die fünf Tätigkeitsmerkmale sind Anforderungsvielfalt, Ganzheitlichkeit, Bedeutsamkeit (Wichtigkeit), Autonomie und Rückmeldung. Die Entlohnung ist kein Tätigkeitsmerkmal des Modells.",
+      "trap": "Entlohnung ist kein Merkmal des Job-Characteristics-Modells."
+    },
+    {
+      "topic": "Job-Characteristics-Modell",
+      "question": "Welche drei psychischen Erlebniszustände vermitteln im Job-Characteristics-Modell zwischen Merkmalen und Arbeitsergebnissen?",
+      "options": [
+        "Wachstumsbedürfnis, Wissen und Kontextzufriedenheit",
+        "Intrinsische Motivation, Zufriedenheit und Effektivität",
+        "Erlebte Bedeutsamkeit, Verantwortung und Wissen um die Resultate",
+        "Anforderungsvielfalt, Ganzheitlichkeit, Autonomie und Rückmeldung"
+      ],
+      "answer": 2,
+      "explanation": "Die drei vermittelnden Erlebniszustände sind erlebte Bedeutsamkeit, erlebte Verantwortung und Wissen um die tatsächlichen Resultate. Die zweite Reihe nennt Tätigkeitsmerkmale, die dritte die Arbeitsergebnisse, die vierte die Moderatoren.",
+      "hard": true
+    },
+    {
+      "topic": "Job-Characteristics-Modell",
+      "question": "Was zeigen die empirischen Befunde zum Job-Characteristics-Modell am ehesten?",
+      "options": [
+        "Alle fünf Merkmale hängen positiv mit der Zufriedenheit zusammen, kaum mit objektiver Leistung",
+        "Die Merkmale hängen mit nichts systematisch zusammen",
+        "Alle fünf Merkmale hängen vor allem mit objektiven Leistungsmaßen zusammen, nicht mit Zufriedenheit",
+        "Nur die Autonomie zeigt überhaupt Zusammenhänge mit Zufriedenheit"
+      ],
+      "answer": 0,
+      "explanation": "Metaanalytisch zeigen alle fünf Merkmale positive Zusammenhänge mit Arbeitszufriedenheit und subjektiven Leistungsmaßen, aber kaum mit objektiven Leistungsmaßen. Die Aussage zur objektiven Leistung ist damit falsch, ebenso die Beschränkung auf Autonomie oder das Fehlen jeglichen Zusammenhangs.",
+      "trap": "JCM-Merkmale hängen stark mit Zufriedenheit, kaum mit objektiver Leistung zusammen."
+    },
+    {
+      "topic": "Arbeitsgestaltung: Grundbegriffe",
+      "question": "Was leistet die Arbeitsbewertung im Dreischritt Arbeitsanalyse – Arbeitsbewertung – Arbeitsgestaltung?",
+      "options": [
+        "Sie erhebt die Tätigkeit mittels Interview, systematischer Beobachtung und Fragebogen",
+        "Sie bewertet die Arbeit anhand von Kriterien und Maßstäben",
+        "Sie berechnet die Entlohnungshöhe rein nach der Marktlage",
+        "Sie verändert technische und organisatorische Bedingungen aktiv"
+      ],
+      "answer": 1,
+      "explanation": "Die Arbeitsbewertung ordnet den Analysebefunden eine Bewertung anhand von Maßstäben/Kriterien zu (etwa den Kriterien humaner Arbeitsgestaltung). Das Erheben ist Aufgabe der Arbeitsanalyse (Diagnostik), das aktive Verändern die Arbeitsgestaltung; eine reine Marktlogik ist nicht gemeint."
+    },
+    {
+      "topic": "Arbeitsgestaltung: Definition",
+      "question": "Welche Aussage zur Definition und zu den Zielen der Arbeitsgestaltung trifft NICHT zu?",
+      "options": [
+        "Sie verfolgt auch Leistungs- und Effizienzziele",
+        "Sie passt den Menschen möglichst vollständig an vorgegebene technische Abläufe an",
+        "Sie verändert technische, organisatorische und soziale Bedingungen systematisch",
+        "Sie dient der Gesundheit und der Persönlichkeitsentwicklung des arbeitenden Menschen"
+      ],
+      "answer": 1,
+      "explanation": "Falsch ist die erste Aussage: Arbeitsgestaltung passt die Bedingungen an die Leistungsvoraussetzungen des Menschen an – nicht umgekehrt den Menschen an die Technik. Die systematische Veränderung der Bedingungen, Gesundheits-/Persönlichkeitsförderung und Effizienzziele sind korrekt.",
+      "hard": true,
+      "trap": "Arbeitsgestaltung passt die Bedingungen an den Menschen an, nicht den Menschen an die Technik."
+    },
+    {
+      "topic": "Prävention",
+      "question": "Welche Zuordnung von Maßnahme und Präventionsart ist FALSCH?",
+      "options": [
+        "Belastungsarme Aufgaben gestalten – Verhältnisprävention",
+        "Verhalten der Beschäftigten ändern – Verhaltensprävention",
+        "Arbeitsbezogene Ressourcen schaffen – Verhältnisprävention",
+        "Personenbezogene Ressourcen stärken – Verhältnisprävention"
+      ],
+      "answer": 3,
+      "explanation": "Falsch ist die erste Zuordnung: Das Stärken personenbezogener Ressourcen ist Verhaltensprävention (sie setzt an der Person an). Belastungsarme Aufgaben und arbeitsbezogene Ressourcen sind Verhältnisprävention; Verhaltensänderung ist Verhaltensprävention.",
+      "trap": "Personenbezogene Ressourcen = Verhaltens-, nicht Verhältnisprävention."
+    },
+    {
+      "topic": "Arbeitszeit",
+      "question": "Welches Ziel der Arbeitszeitgestaltung ist am ehesten ein Ziel der Beschäftigten (nicht der Unternehmensleitung)?",
+      "options": [
+        "Vermeidung von Leerzeiten und Überstunden im Betrieb",
+        "Optimale Ausnutzung der betrieblichen Betriebsmittel",
+        "Abstimmung der Arbeitszeit mit familiären Interessen (Work-Life-Balance)",
+        "Anpassung des Mitarbeiterpotenzials an stark schwankende betriebliche Kapazitäten"
+      ],
+      "answer": 2,
+      "explanation": "Die Abstimmung der Arbeitszeit mit persönlichen/familiären Interessen (Work-Life-Balance) ist ein Ziel der Beschäftigten. Betriebsmittelausnutzung, Kapazitätsanpassung und Vermeidung von Leerzeiten sind Ziele der Unternehmensleitung."
+    },
+    {
+      "topic": "Arbeitszeit: Pausen",
+      "question": "Wie werden arbeitsbedingte Unterbrechungen ohne Erholungswert (Zwangspausen) in der Systematik der Pausen eingeordnet?",
+      "options": [
+        "Als spontane, selbst gewählte Arbeitsunterbrechungen",
+        "Als versteckte Pausen zur heimlichen Erholung",
+        "Als gesetzlich vorgeschriebene Pausen mit vollem Erholungswert",
+        "Als arbeitsbedingte Unterbrechungen ohne Erholungswert"
+      ],
+      "answer": 3,
+      "explanation": "Zwangspausen ohne Erholungswert zählen zu den arbeitsbedingten Unterbrechungen. Vorgeschriebene Pausen sind geplant und erholungswirksam, spontane Unterbrechungen und versteckte Pausen sind selbst herbeigeführt – anders als die erzwungene Unterbrechung."
+    },
+    {
+      "topic": "Arbeitszeit: Folgen",
+      "question": "Welche Aussage zu den Folgen ungünstiger Arbeitszeitanforderungen (lange Zeiten, Schichtarbeit) trifft am ehesten zu?",
+      "options": [
+        "Sie stören über die innere Uhr den Schlaf und fördern Erkrankungen",
+        "Sie wirken sich ausschließlich kurzfristig auf die momentane Stimmung aus",
+        "Sie sind für praktisch alle Beschäftigten gleichermaßen unbedenklich",
+        "Sie betreffen ausschließlich die Produktivität, nicht die Gesundheit"
+      ],
+      "answer": 0,
+      "explanation": "Ungünstige Arbeitszeiten führen über verlängerte Belastungsexposition und Desynchronisation der inneren Uhr kurzfristig zu Schlafproblemen und Erschöpfung, langfristig zu psychischen/physischen Erkrankungen und mehr Unfällen. Die Wirkungen sind also nicht nur kurzfristig, nicht rein produktivitätsbezogen und individuell verschieden."
+    },
+    {
+      "topic": "Modelle der Arbeitsgestaltung",
+      "question": "Welches Modell stammt von Hackman & Oldham und beschreibt Merkmale von Arbeitsaufgaben?",
+      "options": [
+        "Das Job-Characteristics-Modell",
+        "Das Modell beruflicher Gratifikationskrisen (Siegrist)",
+        "Das Job-Demands-Resources-Modell (Demerouti et al.)",
+        "Das Job-Demands-Control-Modell (Karasek)"
+      ],
+      "answer": 0,
+      "explanation": "Das Job-Characteristics-Modell (Hackman & Oldham) beschreibt fünf Tätigkeitsmerkmale und ihre Wirkung. Das Anforderungs-Kontroll-Modell stammt von Karasek, das Gratifikationskrisenmodell von Siegrist, das JD-R-Modell von Demerouti und Kolleg:innen – sie gehören eher zu Stress/Gesundheit."
+    }
+  ]
+}

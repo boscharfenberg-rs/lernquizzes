@@ -43,7 +43,8 @@
       "group": "arbeit",
       "order": 1,
       "quizIds": [
-        "auo-arbeitsgestaltung"
+        "auo-arbeitsgestaltung",
+        "auo-arbeitsgestaltung-anwendung"
       ]
     },
     {

@@ -752,6 +752,13 @@
       "title": "A&O – Evaluation & Transfer: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zu Evaluation & Transfer (Kernfolien): Metaanalyse vs. Überblicksarbeit, Evaluations-Teilfragestellungen, Kirkpatrick-Ebenen, Evaluationsdesigns & Versuchspläne (Solomon u. a.), Konstruktvalidität sowie das Transfermodell von Baldwin & Ford. Schwerpunkt Anwendung und Modellverständnis."
+    },
+    {
+      "id": "auo-arbeitsgestaltung-anwendung",
+      "file": "auo-arbeitsgestaltung-anwendung.json",
+      "title": "A&O – Arbeitsgestaltung: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zur Arbeitsgestaltung (Kernfolien): Kriterien humaner Arbeitsgestaltung, Arbeitsanalyse/-bewertung/-gestaltung, Verhältnis- vs. Verhaltensprävention, Arbeitsteilung (Job Rotation/Enlargement/Enrichment), Arbeitszeitgestaltung sowie das Job-Characteristics-Modell (Hackman & Oldham)."
     }
   ]
 }
