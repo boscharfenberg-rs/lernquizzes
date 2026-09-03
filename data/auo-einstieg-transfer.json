@@ -1,0 +1,206 @@
+{
+  "id": "auo-einstieg-transfer",
+  "title": "A&O – Einstieg: Transfer & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zur Einstiegs-Vorlesung (Kernfolien): Teilgebiete der A&O (Arbeits-, Personal-, Organisationspsychologie mit Gegenstand & Grundlagen), die vier Bearbeitungsperspektiven (Grundlagen, Diagnose, Intervention, Evaluation) und das Ebenen-Modell der Intervention (Arbeit, Individuum, Interaktion, Organisation). Schwerpunkt: Zuordnung und Anwendung an Fallbeispielen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "A&O-Teilgebiete",
+      "question": "Ein Betrieb lässt die Arbeitsaufgaben an einem Fließband neu zuschneiden, um einseitige Belastung zu verringern. Welchem Teilgebiet der A&O-Psychologie ist das am ehesten zuzuordnen?",
+      "options": [
+        "Organisationspsychologie",
+        "Differentielle Psychologie",
+        "Personalpsychologie",
+        "Arbeitspsychologie"
+      ],
+      "answer": 3,
+      "explanation": "Gegenstand der Arbeitspsychologie ist die Arbeitsaufgabe; Arbeitsanalyse und -gestaltung sind ihr Anwendungsfeld. Die Personalpsychologie betrachtet das Individuum als Mitarbeiter (z. B. Auswahl), die Organisationspsychologie Dyaden/Gruppen/Organisationen. Die Differentielle Psychologie ist eine Grundlagendisziplin, kein Teilgebiet der A&O.",
+      "transfer": true
+    },
+    {
+      "topic": "A&O-Teilgebiete",
+      "question": "Eine Kanzlei wählt aus mehreren Bewerber:innen anhand von Eignungstests die passendste Person aus. Welchem Teilgebiet entspricht diese Tätigkeit?",
+      "options": [
+        "Personalpsychologie",
+        "Arbeitspsychologie",
+        "Organisationspsychologie",
+        "Sozialpsychologie"
+      ],
+      "answer": 0,
+      "explanation": "Personalauswahl und Personaldiagnostik sind Anwendungsfelder der Personalpsychologie, die das Individuum in seiner Rolle als Mitarbeiter betrachtet. Die Arbeitspsychologie zielt auf die Aufgabe, die Organisationspsychologie auf Gruppen/Organisationen. Sozialpsychologie ist die Grundlagendisziplin der Organisationspsychologie, kein Teilgebiet.",
+      "transfer": true
+    },
+    {
+      "topic": "A&O-Teilgebiete",
+      "question": "Ein Unternehmen führt eine Mitarbeiterbefragung durch, um Strukturen und Abläufe zwischen Abteilungen zu verändern. Welchem Teilgebiet ist das am ehesten zuzuordnen?",
+      "options": [
+        "Arbeitspsychologie",
+        "Organisationspsychologie",
+        "Personalpsychologie",
+        "Allgemeine Psychologie"
+      ],
+      "answer": 1,
+      "explanation": "Organisationsdiagnose und -entwicklung (inkl. Mitarbeiterbefragung) sowie Struktur- und Prozessmerkmale sind Gegenstand der Organisationspsychologie. Die Arbeitspsychologie betrifft die Aufgabe, die Personalpsychologie das einzelne Individuum. Die Allgemeine Psychologie ist die Grundlage der Arbeitspsychologie.",
+      "transfer": true
+    },
+    {
+      "topic": "Ebenen der Intervention",
+      "question": "Eine Führungskraft nimmt an einem Führungskräftetraining zum Umgang mit Konflikten im Team teil. Auf welcher Interventionsebene setzt diese Maßnahme an?",
+      "options": [
+        "Organisation (Strukturen und Prozesse)",
+        "Interaktion (Team und Führung)",
+        "Individuum (einzelne Person)",
+        "Arbeit (Aufgabe und Arbeitszeit)"
+      ],
+      "answer": 1,
+      "explanation": "Team, Führung sowie Kommunikation und Konflikt liegen auf der Ebene der Interaktion; Konfliktmanagement und Führungskräftetraining sind dort verortete Interventionen. Die Individuumsebene meint z. B. Personalentwicklung einer einzelnen Person, die Organisationsebene Strukturen/Kultur, die Arbeitsebene die Aufgabengestaltung.",
+      "hard": true,
+      "trap": "Führungskräftetraining setzt an der Interaktions-, nicht an der Individuumsebene an.",
+      "transfer": true
+    },
+    {
+      "topic": "Ebenen der Intervention",
+      "question": "Ein Mitarbeiter durchläuft ein Training zur Kompetenzentwicklung für seine persönliche Weiterqualifikation. Auf welcher Ebene liegt diese Intervention?",
+      "options": [
+        "Organisation (Strukturen und Prozesse)",
+        "Interaktion (Team und Führung)",
+        "Individuum (einzelne Person)",
+        "Arbeit (Aufgabe und Arbeitszeit)"
+      ],
+      "answer": 2,
+      "explanation": "Personalentwicklung, Training und Kompetenzentwicklung einer einzelnen Person liegen auf der Individuumsebene. Die Interaktionsebene beträfe Team/Führung, die Organisationsebene Strukturen/Kultur, die Arbeitsebene die Gestaltung der Aufgabe selbst.",
+      "transfer": true
+    },
+    {
+      "topic": "Ebenen der Intervention",
+      "question": "In einem Betrieb werden Aufgaben neu strukturiert und die Arbeitszeit umgestaltet. Welcher Interventionsebene ist das zuzuordnen?",
+      "options": [
+        "Interaktion (Team und Führung)",
+        "Organisation (Strukturen und Prozesse)",
+        "Arbeit (Aufgabe und Arbeitszeit)",
+        "Individuum (einzelne Person)"
+      ],
+      "answer": 2,
+      "explanation": "Aufgabenstrukturierung und Arbeitszeitgestaltung setzen an der Aufgabe an – das ist die Ebene der Arbeit. Die Individuumsebene meint die Person (z. B. Training), die Interaktionsebene Team/Führung, die Organisationsebene übergreifende Strukturen und Kultur.",
+      "transfer": true
+    },
+    {
+      "topic": "Ebenen der Intervention",
+      "question": "Ein Beratungsteam begleitet eine Organisationsentwicklung und verändert übergreifende Strukturen und Prozesse des Unternehmens. Auf welcher Ebene liegt diese Maßnahme?",
+      "options": [
+        "Individuum (einzelne Person)",
+        "Arbeit (Aufgabe und Arbeitszeit)",
+        "Interaktion (Team und Führung)",
+        "Organisation (Strukturen und Prozesse)"
+      ],
+      "answer": 3,
+      "explanation": "Organisationsstrukturen und -prozesse sowie Organisationskultur/-klima liegen auf der Organisationsebene; Organisationsentwicklung und Mitarbeiterbefragung sind dort verortet. Interaktion beträfe Team/Führung, Individuum die einzelne Person, Arbeit die Aufgabe.",
+      "transfer": true
+    },
+    {
+      "topic": "Bearbeitungsperspektiven",
+      "question": "Ein Forschungsteam entwickelt ein neues Verfahren zur Arbeitsanalyse und Teamdiagnose. Welche Bearbeitungsperspektive der A&O steht hier im Vordergrund?",
+      "options": [
+        "Intervention (Maßnahmen entwickeln)",
+        "Diagnose (Methoden entwickeln)",
+        "Evaluation (Wirksamkeit prüfen)",
+        "Grundlagen (Theorie und Fragen)"
+      ],
+      "answer": 1,
+      "explanation": "Die Entwicklung diagnostischer Methoden (z. B. zur Arbeitsanalyse oder Team-/Organisationsdiagnose) ist die Perspektive der Diagnose. Intervention entwickelt Maßnahmen zur Veränderung, Evaluation prüft deren Wirksamkeit, Grundlagen betreffen theoretische Konzepte und Fragen.",
+      "transfer": true
+    },
+    {
+      "topic": "Bearbeitungsperspektiven",
+      "question": "Nach Einführung eines Trainings wird systematisch überprüft, ob es die beabsichtigte Wirkung erzielt hat. Welche Bearbeitungsperspektive liegt vor?",
+      "options": [
+        "Intervention (Maßnahmen entwickeln)",
+        "Grundlagen (Theorie und Fragen)",
+        "Evaluation (Wirksamkeit prüfen)",
+        "Diagnose (Methoden entwickeln)"
+      ],
+      "answer": 2,
+      "explanation": "Die Überprüfung der Wirksamkeit von Interventionsmaßnahmen (und die Qualitätssicherung) ist die Perspektive der Evaluation. Diagnose entwickelt Erhebungsmethoden, Intervention die Maßnahmen selbst, Grundlagen die theoretischen Konzepte.",
+      "hard": true,
+      "trap": "Wirksamkeit prüfen = Evaluation; die Maßnahme selbst zu entwickeln wäre Intervention.",
+      "transfer": true
+    },
+    {
+      "topic": "Bearbeitungsperspektiven",
+      "question": "Ein Team entwirft eine Maßnahme, um Gruppenprozesse in einer Abteilung gezielt zu optimieren. Welche Bearbeitungsperspektive steht im Vordergrund?",
+      "options": [
+        "Evaluation (Wirksamkeit prüfen)",
+        "Intervention (Maßnahmen entwickeln)",
+        "Grundlagen (Theorie und Fragen)",
+        "Diagnose (Methoden entwickeln)"
+      ],
+      "answer": 1,
+      "explanation": "Die Entwicklung von Konzepten und Maßnahmen zur Veränderung/Optimierung von Arbeits-, Gruppen- und Organisationsprozessen ist die Perspektive der Intervention. Diagnose erhebt, Evaluation prüft die Wirkung, Grundlagen klären theoretische Fragen.",
+      "transfer": true
+    },
+    {
+      "topic": "Gegenstand & Grundlagen",
+      "question": "Welche Zuordnung von Teilgebiet und Gegenstand trifft NICHT zu?",
+      "options": [
+        "Arbeitspsychologie – das Individuum als Mitarbeiter",
+        "Arbeitspsychologie – die Arbeitsaufgabe und ihre Bedingungen",
+        "Personalpsychologie – das Individuum in seiner Mitarbeiterrolle",
+        "Organisationspsychologie – Dyade, Gruppe, Organisation, Netzwerk"
+      ],
+      "answer": 0,
+      "explanation": "Falsch ist die erste Aussage: Gegenstand der Arbeitspsychologie ist die Arbeitsaufgabe, nicht das Individuum als Mitarbeiter – Letzteres ist der Gegenstand der Personalpsychologie. Die übrigen Zuordnungen sind korrekt.",
+      "trap": "Gegenstand der Arbeitspsychologie = Aufgabe; das Individuum als Mitarbeiter ist Personalpsychologie."
+    },
+    {
+      "topic": "Gegenstand & Grundlagen",
+      "question": "Auf welcher Grundlagendisziplin baut die Organisationspsychologie laut Kernfolien am ehesten auf?",
+      "options": [
+        "Differentielle Psychologie und Diagnostik",
+        "Klinische Psychologie",
+        "Sozialpsychologie",
+        "Allgemeine Psychologie"
+      ],
+      "answer": 2,
+      "explanation": "Die Organisationspsychologie (Gegenstand: Dyade, Gruppe, Organisation) stützt sich auf die Sozialpsychologie. Die Allgemeine Psychologie ist Grundlage der Arbeitspsychologie, die Differentielle Psychologie/Diagnostik Grundlage der Personalpsychologie. Die Klinische Psychologie zählt nicht zu den genannten Grundlagen."
+    },
+    {
+      "topic": "Definitionen",
+      "question": "Wie wird die Personalpsychologie in den Kernfolien am ehesten definiert?",
+      "options": [
+        "Das Individuum als Mitarbeiter: Verhalten, Befinden, Leistung, Entwicklung",
+        "Erleben und Verhalten von Menschen in Organisationen und deren Strukturmerkmalen",
+        "Untersuchung interindividueller Unterschiede unabhängig vom Arbeitskontext",
+        "Analyse und Gestaltung der Arbeitsaufgabe und der Arbeitsbedingungen"
+      ],
+      "answer": 0,
+      "explanation": "Die Personalpsychologie betrachtet das Individuum in seinen Verhaltens-, Befindens-, Leistungs- und Entwicklungszusammenhängen, besonders in der Rolle als Mitarbeiter. Die zweite Option beschreibt die Organisationspsychologie, die dritte die Arbeitspsychologie, die vierte die (nicht arbeitsbezogene) Differentielle Psychologie."
+    },
+    {
+      "topic": "Definitionen",
+      "question": "Welche Beschreibung trifft die Organisationspsychologie am besten?",
+      "options": [
+        "Erleben und Verhalten in Organisationen samt Struktur- und Prozessmerkmalen",
+        "Betrachtung des einzelnen Mitarbeiters in Leistung, Befinden und Entwicklung",
+        "Analyse und Gestaltung der Arbeitsaufgabe und der konkreten Arbeitszeit",
+        "Entwicklung diagnostischer Verfahren zur individuellen Eignungsbeurteilung"
+      ],
+      "answer": 0,
+      "explanation": "Die Organisationspsychologie befasst sich mit Erleben und Verhalten von Menschen in Organisationen, auch in Abhängigkeit organisationaler Wirkgrößen (Struktur-, Prozess-, Zielcharakteristika). Die zweite Option ist Personalpsychologie, die dritte Arbeitspsychologie, die vierte ein Aspekt der Personaldiagnostik."
+    },
+    {
+      "topic": "Bearbeitungsperspektiven",
+      "question": "Welche Aussage zu den vier Bearbeitungsperspektiven der A&O (Grundlagen, Diagnose, Intervention, Evaluation) ist FALSCH?",
+      "options": [
+        "Die Intervention entwickelt Maßnahmen zur Veränderung von Arbeits- und Organisationsprozessen",
+        "Die Grundlagen betreffen theoretische Konzepte und Fragen, etwa zur Bedeutung von Arbeit",
+        "Die Evaluation umfasst auch die Qualitätssicherung diagnostischer Instrumente",
+        "Die Diagnose überprüft die Wirksamkeit bereits durchgeführter Interventionsmaßnahmen"
+      ],
+      "answer": 3,
+      "explanation": "Falsch ist die erste Aussage: Die Überprüfung der Wirksamkeit ist Aufgabe der Evaluation, nicht der Diagnose. Die Diagnose entwickelt Erhebungsmethoden. Die übrigen Aussagen sind korrekt.",
+      "hard": true,
+      "trap": "Wirksamkeit prüfen ist Evaluation; die Diagnose entwickelt Erhebungsmethoden."
+    }
+  ]
+}

@@ -124,6 +124,15 @@
       "quizIds": [
         "auo-organisationskultur-klima-kernfolien"
       ]
+    },
+    {
+      "id": "a_einstieg",
+      "label": "Einstieg & Überblick",
+      "group": "quer",
+      "order": 0,
+      "quizIds": [
+        "auo-einstieg-transfer"
+      ]
     }
   ]
 }

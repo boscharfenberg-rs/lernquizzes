@@ -738,6 +738,13 @@
       "title": "Übung – Entscheiden, Klassifizieren & Empirische Überprüfung (VL1 11–14 · VL2 06–13)",
       "subject": "Psychologische Diagnostik",
       "description": "Kumulatives Übungsquiz im Klausurformat (Single Choice, 4 Optionen): Einzelfalldiagnostik, Urteilsbildung, Entscheidungsmodelle & -strategien, Klassifikationskennwerte (Sensitivität/Spezifität, Basis-/Selektionsrate) sowie Itemanalysen (KTT), Faktorenanalyse (PCA/PFA, Scree), MTMM, Cut-Off (Angoff/ROC) und IRT (Guttman/Rasch). Mit Fallvignetten, Tabellen-/Scree-Ablesen, Themenfilter und Note."
+    },
+    {
+      "id": "auo-einstieg-transfer",
+      "file": "auo-einstieg-transfer.json",
+      "title": "A&O – Einstieg: Transfer & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zur Einstiegs-Vorlesung (Kernfolien): Teilgebiete der A&O (Arbeits-, Personal-, Organisationspsychologie mit Gegenstand & Grundlagen), die vier Bearbeitungsperspektiven (Grundlagen, Diagnose, Intervention, Evaluation) und das Ebenen-Modell der Intervention. Schwerpunkt: Zuordnung/Anwendung an Fallbeispielen."
     }
   ]
 }
