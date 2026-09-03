@@ -766,6 +766,13 @@
       "title": "A&O – Personalentwicklung: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zur Personalentwicklung (Kernfolien): Bedarfsanalyse (Organisations-/Aufgaben-/Personenanalyse, SOLL-IST), Kompetenzfelder, Lernziele, Orte der PE (into/on/off/out of the job), Verhaltensmodellierung, Fehlermanagement-Training, Quellen der Selbstwirksamkeit und interkulturelle Trainings."
+    },
+    {
+      "id": "auo-arbeit-gesundheit-anwendung",
+      "file": "auo-arbeit-gesundheit-anwendung.json",
+      "title": "A&O – Arbeit & Gesundheit: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zu Arbeit & Gesundheit (Kernfolien): Belastung/Beanspruchung/Stress, Burnout, physiologisches & transaktionales Stressmodell, Job-Demands-Resources-Modell, Ressourcen & Coping, Erholung & Erholungserfahrungen, Verhältnis der Lebensbereiche, Work-Family-Konflikt, Boundary Theory sowie Prävention."
     }
   ]
 }
