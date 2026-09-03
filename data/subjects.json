@@ -745,6 +745,13 @@
       "title": "A&O – Einstieg: Transfer & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zur Einstiegs-Vorlesung (Kernfolien): Teilgebiete der A&O (Arbeits-, Personal-, Organisationspsychologie mit Gegenstand & Grundlagen), die vier Bearbeitungsperspektiven (Grundlagen, Diagnose, Intervention, Evaluation) und das Ebenen-Modell der Intervention. Schwerpunkt: Zuordnung/Anwendung an Fallbeispielen."
+    },
+    {
+      "id": "auo-evaluation-transfer-anwendung",
+      "file": "auo-evaluation-transfer-anwendung.json",
+      "title": "A&O – Evaluation & Transfer: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zu Evaluation & Transfer (Kernfolien): Metaanalyse vs. Überblicksarbeit, Evaluations-Teilfragestellungen, Kirkpatrick-Ebenen, Evaluationsdesigns & Versuchspläne (Solomon u. a.), Konstruktvalidität sowie das Transfermodell von Baldwin & Ford. Schwerpunkt Anwendung und Modellverständnis."
     }
   ]
 }
