@@ -144,6 +144,15 @@
       "quizIds": [
         "auo-einstieg-transfer"
       ]
+    },
+    {
+      "id": "a_modelle",
+      "label": "Modelle & Ansätze (übergreifend)",
+      "group": "quer",
+      "order": 20,
+      "quizIds": [
+        "auo-modelle-differenzieren"
+      ]
     }
   ]
 }

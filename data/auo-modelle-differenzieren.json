@@ -1,0 +1,389 @@
+{
+  "id": "auo-modelle-differenzieren",
+  "title": "A&O – Modelle & Ansätze differenzieren (übergreifend)",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Vorlesungsübergreifendes Quiz (Kernfolien): die Grundaussagen der zentralen A&O-Modelle und -Ansätze richtig zuordnen und verwechselbare Modelle voneinander abgrenzen – von Kirkpatrick, Baldwin & Ford und dem Job-Characteristics-Modell über die Stressmodelle (Selye, Lazarus, Karasek, Siegrist, JD-R), Führung (Ohio, transaktional/transformational, Servant/Ethical/Authentic), Organisationstheorien (Weber, Hawthorne, Kieser), Lewin, Schein und das Competing Values Framework bis zu den Kommunikations- und Coaching-Modellen. Schwerpunkt: Modelle einordnen und differenzieren, auch bei gleichlautenden Begriffen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Führung vs. Stress",
+      "question": "Eine Führungskraft steuert ihre Mitarbeitenden über bedingte Belohnung und Zielvereinbarungen in einer Austauschbeziehung. Welches Konzept beschreibt das?",
+      "options": [
+        "Job-Demands-Resources-Modell",
+        "Transaktionale Führung",
+        "Transformationale Führung",
+        "Transaktionales Stressmodell (Lazarus)"
+      ],
+      "answer": 1,
+      "explanation": "Steuerung über Austausch und bedingte Belohnung ist die transaktionale Führung. Das transaktionale Stressmodell trägt zwar denselben Namensbestandteil, meint aber die kognitive Bewertung von Stress; transformationale Führung wirkt über Vision, JD-R über Anforderungen/Ressourcen.",
+      "hard": true,
+      "trap": "„Transaktional“ meint bei Führung den Austausch, beim Stressmodell die Bewertung – nicht verwechseln.",
+      "transfer": true
+    },
+    {
+      "topic": "Stressmodelle",
+      "question": "Eine Person bewertet eine Situation erst als bedrohlich und prüft dann, ob ihre Ressourcen zur Bewältigung ausreichen. Welches Modell beschreibt das?",
+      "options": [
+        "Transaktionales Stressmodell (Lazarus)",
+        "Transaktionale Führung",
+        "Physiologisches Stressmodell (Selye)",
+        "Modell beruflicher Gratifikationskrisen (Siegrist)"
+      ],
+      "answer": 0,
+      "explanation": "Die Abfolge von primärer und sekundärer Bewertung ist das transaktionale Stressmodell (Lazarus). Das physiologische Modell (Selye) beschreibt Körperphasen, die transaktionale Führung eine Austauschbeziehung, das Gratifikationskrisenmodell ein Ungleichgewicht von Verausgabung und Belohnung.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "Ein Unternehmen passt seine formale Struktur gezielt an die Eigenschaften seiner Umwelt an. Welche Theorie beschreibt dieses Prinzip?",
+      "options": [
+        "Bürokratietheorie (Weber)",
+        "Soziotechnische Systemtheorie",
+        "Situativer Ansatz (Kieser)",
+        "Human-Relations-Bewegung"
+      ],
+      "answer": 2,
+      "explanation": "Die Anpassung der Struktur an die Situation/den Kontext ist der situative Ansatz. Die Bürokratietheorie beschreibt feste Regeln/Hierarchie, Human Relations soziale Faktoren, die soziotechnische Theorie die Kopplung von sozialem und technischem System.",
+      "transfer": true
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "In einer Studie steigert allein die Beobachtung durch Forschende die Arbeitsleistung – unabhängig von der Beleuchtung. Auf welche Strömung geht das zurück?",
+      "options": [
+        "Bürokratietheorie nach Max Weber",
+        "Soziotechnische Systemtheorie",
+        "Situativer Ansatz nach Kieser",
+        "Human-Relations-Bewegung"
+      ],
+      "answer": 3,
+      "explanation": "Der Hawthorne-Effekt (Leistungssteigerung durch die soziale Situation) begründete die Human-Relations-Bewegung. Die anderen Theorien erklären diesen Befund nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Teamphasen",
+      "question": "Ein neues Team streitet über Aufgaben und Rollen und steckt sein „Revier“ ab. Welche Phase nach Tuckman ist das?",
+      "options": [
+        "Storming",
+        "Performing",
+        "Forming",
+        "Norming"
+      ],
+      "answer": 0,
+      "explanation": "Die Konfliktphase um Aufgaben und Rollen ist das Storming. Forming ist das Kennenlernen, Norming das Festlegen von Regeln, Performing die Arbeitsphase.",
+      "transfer": true
+    },
+    {
+      "topic": "Coaching-Ansätze",
+      "question": "Ein Coach arbeitet non-direktiv, sieht den Coachee als Experten seiner Situation und betont dessen Autonomie. Welcher Ansatz ist das?",
+      "options": [
+        "Klientenzentrierter Ansatz",
+        "Lösungsorientierter Ansatz",
+        "Systemischer Ansatz",
+        "Kognitiv-behavioraler Ansatz"
+      ],
+      "answer": 0,
+      "explanation": "Non-direktiv, Coachee als Experte und Autonomie (Aktualisierungstendenz) kennzeichnen den klientenzentrierten Ansatz. Der systemische betrachtet das soziale System, der kognitiv-behaviorale die Kognitionen, der lösungsorientierte die Ressourcen.",
+      "transfer": true
+    },
+    {
+      "topic": "Stress & Ressourcen",
+      "question": "Ein Modell erklärt, dass Arbeitsanforderungen über Beanspruchung zu Burnout und Arbeitsressourcen über Motivation zu Engagement führen. Welches Modell ist das?",
+      "options": [
+        "Job-Characteristics-Modell (Hackman & Oldham)",
+        "Physiologisches Stressmodell (Selye)",
+        "Transaktionales Stressmodell (Lazarus)",
+        "Job-Demands-Resources-Modell (Demerouti)"
+      ],
+      "answer": 3,
+      "explanation": "Die zwei Pfade (Anforderungen → Burnout, Ressourcen → Engagement) sind das Job-Demands-Resources-Modell. Das JCM beschreibt Tätigkeitsmerkmale, die Stressmodelle von Selye und Lazarus körperliche Phasen bzw. Bewertung.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Evaluation",
+      "question": "Welches Modell gliedert die Evaluation in die vier Ebenen Reaktionen, Lernen, Verhalten und Resultate?",
+      "options": [
+        "Evaluationsmodell nach Kirkpatrick",
+        "Competing Values Framework",
+        "Job-Characteristics-Modell",
+        "Transfermodell nach Baldwin & Ford"
+      ],
+      "answer": 0,
+      "explanation": "Die vier Ebenen Reaktionen, Lernen, Verhalten und Resultate stammen von Kirkpatrick. Baldwin & Ford beschreiben den Trainingstransfer, das CVF Kulturtypen, das JCM Tätigkeitsmerkmale."
+    },
+    {
+      "topic": "Transfer",
+      "question": "Welches Modell unterscheidet Trainingsinputs, Trainingsoutput und Transferbedingungen des Lerntransfers?",
+      "options": [
+        "Attraction-Selection-Attrition-Modell",
+        "Transfermodell nach Baldwin & Ford",
+        "Evaluationsmodell nach Kirkpatrick",
+        "Job-Demands-Resources-Modell"
+      ],
+      "answer": 1,
+      "explanation": "Trainingsinputs (Person, Design, Arbeitsumgebung) → Output (Lernen, Behalten) → Transferbedingungen kennzeichnen das Transfermodell von Baldwin & Ford. Kirkpatrick evaluiert, JD-R betrifft Stress, ASA die Personenähnlichkeit."
+    },
+    {
+      "topic": "Arbeitsgestaltung",
+      "question": "Welche Kernaussage gehört zum Job-Characteristics-Modell?",
+      "options": [
+        "Fünf Merkmale wirken über Erlebniszustände auf Ergebnisse",
+        "Kultur besteht aus Artefakten, Werten und Grundannahmen",
+        "Anforderungen und Ressourcen erklären Burnout und Engagement",
+        "Stress verläuft in Alarm-, Widerstands- und Erschöpfungsphase"
+      ],
+      "answer": 0,
+      "explanation": "Das Job-Characteristics-Modell (Hackman & Oldham) verbindet fünf Tätigkeitsmerkmale über psychische Erlebniszustände mit Arbeitsergebnissen. Die anderen Aussagen gehören zum JD-R-Modell, zum physiologischen Stressmodell bzw. zu Schein.",
+      "hard": true
+    },
+    {
+      "topic": "Stressmodelle",
+      "question": "Welches Modell beschreibt Stress als Abfolge von Alarmreaktion, Widerstands- und Erschöpfungsphase?",
+      "options": [
+        "Job-Demands-Resources-Modell",
+        "Modell beruflicher Gratifikationskrisen",
+        "Transaktionales Stressmodell (Lazarus)",
+        "Physiologisches Stressmodell (Selye)"
+      ],
+      "answer": 3,
+      "explanation": "Die drei Körperphasen stammen aus dem physiologischen Stressmodell (Selye). Das transaktionale Modell betont die Bewertung, JD-R die Anforderungen/Ressourcen, das Gratifikationskrisenmodell das Ungleichgewicht von Verausgabung und Belohnung."
+    },
+    {
+      "topic": "Stressmodelle",
+      "question": "Wodurch unterscheidet sich das transaktionale vom physiologischen Stressmodell am ehesten?",
+      "options": [
+        "Transaktional betont die Bewertung, physiologisch die Körperreaktion",
+        "Transaktional betont die Körperreaktion, physiologisch die Bewertung",
+        "Beide verzichten auf jede Rolle der Person",
+        "Beide beschreiben ausschließlich hormonelle Prozesse"
+      ],
+      "answer": 0,
+      "explanation": "Das transaktionale Modell (Lazarus) stellt die kognitive Bewertung von Situation und Ressourcen in den Mittelpunkt; das physiologische Modell (Selye) beschreibt die körperlichen Reaktionsphasen. Die Vertauschung und die Pauschalaussagen sind falsch.",
+      "trap": "Transaktional = Bewertung (Lazarus); physiologisch = Körperphasen (Selye)."
+    },
+    {
+      "topic": "Stressmodelle",
+      "question": "Welches Modell erklärt Fehlbeanspruchung durch ein Ungleichgewicht von Verausgabung und erhaltener Belohnung?",
+      "options": [
+        "Job-Characteristics-Modell (Hackman & Oldham)",
+        "Boundary-Theory der Lebensbereiche",
+        "Job-Demands-Control-Modell (Karasek)",
+        "Gratifikationskrisenmodell (Siegrist)"
+      ],
+      "answer": 3,
+      "explanation": "Das Ungleichgewicht von Verausgabung und Belohnung ist das Gratifikationskrisenmodell (Siegrist). Karasek stellt Anforderungen und Kontrolle gegenüber, das JCM Tätigkeitsmerkmale, die Boundary-Theory die Grenzen zwischen Lebensbereichen.",
+      "hard": true
+    },
+    {
+      "topic": "Work-Life",
+      "question": "Welches Modell beschreibt, wie Personen die Grenzen zwischen Arbeit und Privatleben ziehen (Integrators vs. Segmenters)?",
+      "options": [
+        "Job-Demands-Resources-Modell",
+        "Competing Values Framework",
+        "Attraction-Selection-Attrition-Modell",
+        "Boundary-Theory"
+      ],
+      "answer": 3,
+      "explanation": "Die Unterscheidung von Integrators und Segmenters sowie die Durchlässigkeit von Grenzen ist die Boundary-Theory. JD-R betrifft Stress, CVF Kulturtypen, ASA die Personenähnlichkeit."
+    },
+    {
+      "topic": "Work-Life",
+      "question": "Wenn sich schlechte Stimmung aus der Arbeit auf die Freizeit überträgt, spricht man vom Spill-over. Welche Hypothese zum Verhältnis der Lebensbereiche ist das?",
+      "options": [
+        "Kompensationshypothese (Ausgleich)",
+        "Neutralitätshypothese (kein Bezug)",
+        "Generalisationshypothese (Spill-over)",
+        "Kongruenzhypothese (Drittvariablen)"
+      ],
+      "answer": 2,
+      "explanation": "Die Übertragung von einem Bereich auf den anderen ist die Generalisations- bzw. Spill-over-Hypothese. Kompensation meint Ausgleich, Neutralität keinen Zusammenhang, Kongruenz Drittvariablen als gemeinsame Ursache."
+    },
+    {
+      "topic": "Führung",
+      "question": "Was ist das zentrale Ergebnis der Ohio-Studien zum Führungsverhalten?",
+      "options": [
+        "Vier abhängige Faktoren des Charismas",
+        "Zwei unabhängige Dimensionen (Aufgabe/Mitarbeiter)",
+        "Drei aufeinander aufbauende Führungsstufen",
+        "Eine einzige Dimension von autoritär bis demokratisch"
+      ],
+      "answer": 1,
+      "explanation": "Die Ohio-Studien fanden zwei orthogonale Dimensionen: Aufgabenorientierung (Initiating Structure) und Mitarbeiterorientierung (Consideration). Ein eindimensionales, charismabasiertes oder dreistufiges Modell trifft nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Führung",
+      "question": "Wodurch unterscheidet sich transformationale von transaktionaler Führung?",
+      "options": [
+        "Beide wirken ausschließlich über materielle Prämien",
+        "Beide verzichten auf jede Rückmeldung",
+        "Transformational wirkt über Austausch, transaktional über Vision",
+        "Transformational über Vision, transaktional über Austausch"
+      ],
+      "answer": 3,
+      "explanation": "Transformationale Führung wirkt über Vision, Identifikation und intrinsische Anreize (die vier I); transaktionale Führung über bedingte Belohnung und Zielvereinbarungen. Die Vertauschung und die Pauschalaussagen sind falsch.",
+      "trap": "Vision/intrinsisch = transformational; Austausch/Belohnung = transaktional."
+    },
+    {
+      "topic": "Führung",
+      "question": "Welches neuere Führungskonzept stellt zuerst die Entwicklung und das Wohlergehen der Geführten in den Vordergrund?",
+      "options": [
+        "Servant Leadership",
+        "Ethical Leadership",
+        "Authentic Leadership",
+        "Transaktionale Führung"
+      ],
+      "answer": 0,
+      "explanation": "Das Voranstellen der Entwicklung der Geführten ist Servant Leadership. Ethical Leadership betont normativ angemessenes Verhalten, Authentic Leadership Selbstkenntnis und Integrität, transaktionale Führung den Austausch."
+    },
+    {
+      "topic": "Führungskräfteentwicklung",
+      "question": "Wodurch unterscheiden sich Leader Development und Leadership Development?",
+      "options": [
+        "Beide betreffen nur technische Fachkompetenzen",
+        "Beide betreffen nur die unterste Ebene",
+        "Leader intrapersonal, Leadership interpersonal",
+        "Leader ist interpersonal, Leadership intrapersonal"
+      ],
+      "answer": 2,
+      "explanation": "Leader Development entwickelt intrapersonale Kompetenzen einzelner Personen (Humankapital), Leadership Development interpersonale/soziale Kompetenzen (Sozialkapital). Die Vertauschung und Verkürzungen sind falsch.",
+      "hard": true,
+      "trap": "Leader = intrapersonal/Humankapital; Leadership = interpersonal/Sozialkapital."
+    },
+    {
+      "topic": "Organisationstheorien",
+      "question": "Welche Merkmale kennzeichnen die Bürokratie nach Max Weber?",
+      "options": [
+        "Anpassung der Struktur an die jeweilige Umwelt",
+        "Selbstorganisation ohne feste Zuständigkeiten",
+        "Gemeinsame Optimierung von sozialem und technischem System",
+        "Arbeitsteilung, Amtshierarchie, Regeln und Akten"
+      ],
+      "answer": 3,
+      "explanation": "Weber nennt Arbeitsteilung mit festen Zuständigkeiten, Amtshierarchie, regelgebundene Amtsführung und Aktenkundigkeit. Selbstorganisation, Umweltanpassung (situativer Ansatz) und die soziotechnische Kopplung gehören zu anderen Theorien."
+    },
+    {
+      "topic": "Organisationsgestaltung",
+      "question": "Was besagt die soziotechnische Systemtheorie?",
+      "options": [
+        "Struktur folgt allein der Umwelt",
+        "Nur das technische System bestimmt allein den Erfolg",
+        "Soziales und technisches System gemeinsam optimieren",
+        "Kultur besteht aus drei Ebenen"
+      ],
+      "answer": 2,
+      "explanation": "Die soziotechnische Systemtheorie betont, dass soziales und technisches Subsystem nicht unabhängig sind und gemeinsam optimiert werden müssen. Die anderen Aussagen gehören zum situativen Ansatz bzw. zu Schein oder sind einseitig."
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "In welcher Reihenfolge verläuft der Veränderungsprozess nach Lewin?",
+      "options": [
+        "Auftauen, Verändern, Stabilisieren",
+        "Stabilisieren, Auftauen, Verändern",
+        "Verändern, Auftauen, Stabilisieren",
+        "Auftauen, Stabilisieren, Verändern"
+      ],
+      "answer": 0,
+      "explanation": "Lewin beschreibt die Phasen Auftauen (unfreeze), Verändern (move) und Stabilisieren (refreeze). Die anderen Reihenfolgen sind vertauscht."
+    },
+    {
+      "topic": "Change vs. OE",
+      "question": "Was unterscheidet Change Management (CM) von Organisationsentwicklung (OE)?",
+      "options": [
+        "CM lässt Lösungen erarbeiten, OE liefert fertige Lösungen",
+        "CM liefert fertige Lösungen, OE lässt sie erarbeiten",
+        "Beide sind stets kurzfristig angelegt",
+        "Beide verzichten auf jede Beteiligung"
+      ],
+      "answer": 1,
+      "explanation": "Im CM liefern Fachexperten kurzfristig Lösungen; die OE ist langfristig, wird psychologisch begleitet und lässt die Lösungen von den Mitarbeitenden erarbeiten. Die Vertauschung und Pauschalaussagen sind falsch.",
+      "trap": "Fertige Lösungen von Experten = CM; von den Betroffenen erarbeitet = OE."
+    },
+    {
+      "topic": "Organisationsentwicklung",
+      "question": "Was kennzeichnet die dialogische (statt diagnostische) Organisationsentwicklung, etwa die wertschätzende Befragung?",
+      "options": [
+        "Rein bürokratische Regelbindung",
+        "Ausschluss der Betroffenen vom Prozess",
+        "Lösungs- und zukunftsorientiertes Vorgehen",
+        "Strikte Orientierung am vergangenen Problem"
+      ],
+      "answer": 2,
+      "explanation": "Die dialogische OE (z. B. Appreciative Inquiry mit Discovery/Dream/Design/Destiny) ist lösungs- und zukunftsorientiert und konstruktivistisch. Die diagnostische OE ist dagegen problem- und gegenwartsorientiert."
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Welche drei Ebenen unterscheidet das Kulturmodell nach Schein?",
+      "options": [
+        "Clan, Adhocracy, Markt und Hierarchie",
+        "Artefakte, Werte und Normen, Grundannahmen",
+        "Reaktionen, Lernen und Verhalten",
+        "Anforderungen, Ressourcen und Beanspruchung"
+      ],
+      "answer": 1,
+      "explanation": "Schein unterscheidet Artefakte (sichtbar), Werte und Normen sowie grundlegende Annahmen (unbewusst). Die anderen Reihen gehören zum JD-R-Modell, zu Kirkpatrick bzw. zum Competing Values Framework.",
+      "hard": true
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Welche zwei Dimensionen spannen das Competing Values Framework auf?",
+      "options": [
+        "Digitale versus analoge Modalität",
+        "Interner/externer Fokus × Flexibilität/Stabilität",
+        "Aufgaben- versus Mitarbeiterorientierung der Führung",
+        "Verausgabung versus erhaltene Belohnung"
+      ],
+      "answer": 1,
+      "explanation": "Das CVF wird durch die Achsen interner/externer Fokus und Flexibilität/Stabilität aufgespannt (Typen: Clan, Adhocracy, Markt, Hierarchie). Die anderen Dimensionspaare gehören zu den Ohio-Studien, zum Gratifikationskrisenmodell bzw. zu Watzlawick."
+    },
+    {
+      "topic": "Organisationskultur",
+      "question": "Welches Modell erklärt, warum sich Mitarbeitende einer Organisation in ihrer Persönlichkeit oft ähneln?",
+      "options": [
+        "Job-Characteristics-Modell der Arbeit",
+        "Competing Values Framework der Kultur",
+        "Attraction-Selection-Attrition-Modell",
+        "Boundary-Theory der Lebensbereiche"
+      ],
+      "answer": 2,
+      "explanation": "Das Attraction-Selection-Attrition-Modell erklärt die Ähnlichkeit über Anziehung, Auswahl und Ausscheiden nicht passender Personen. CVF beschreibt Kulturtypen, JCM Tätigkeitsmerkmale, Boundary-Theory Lebensbereichsgrenzen."
+    },
+    {
+      "topic": "Person-Organization-Fit",
+      "question": "Wodurch unterscheiden sich supplementärer und komplementärer Person-Organization-Fit?",
+      "options": [
+        "Beide bezeichnen dasselbe",
+        "Beide beruhen nur auf finanziellen Anreizen",
+        "Supplementär beruht auf Ähnlichkeit, komplementär auf Ergänzung",
+        "Supplementär beruht auf Ergänzung, komplementär auf Ähnlichkeit"
+      ],
+      "answer": 2,
+      "explanation": "Der supplementäre Fit beruht auf Ähnlichkeit (gemeinsame Werte/Ziele), der komplementäre auf Ergänzung (Demands-Abilities, Needs-Supplies). Die Vertauschung und Gleichsetzung sind falsch.",
+      "trap": "Supplementär = Ähnlichkeit; komplementär = Ergänzung."
+    },
+    {
+      "topic": "Kommunikationsmodelle",
+      "question": "Welches Kommunikationsmodell besagt „Man kann nicht nicht kommunizieren“?",
+      "options": [
+        "Modell nach Shannon & Weaver",
+        "Modell nach Watzlawick",
+        "Modell nach Schulz von Thun",
+        "Maximen nach Grice"
+      ],
+      "answer": 1,
+      "explanation": "Das Axiom „Man kann nicht nicht kommunizieren“ stammt aus Watzlawicks fünf Axiomen. Schulz von Thun beschreibt vier Seiten einer Nachricht, Shannon & Weaver das Encoder-Decoder-Modell, Grice die Konversationsmaximen."
+    },
+    {
+      "topic": "Kommunikationsmodelle",
+      "question": "Welches Modell unterscheidet an einer Nachricht Sachinhalt, Selbstoffenbarung, Beziehung und Appell?",
+      "options": [
+        "Kommunikationsregeln nach Rogers",
+        "Modell nach Schulz von Thun",
+        "Konversationsmaximen nach Grice",
+        "Fünf Axiome nach Watzlawick"
+      ],
+      "answer": 1,
+      "explanation": "Die vier Seiten einer Nachricht (Sachinhalt, Selbstoffenbarung, Beziehung, Appell) stammen von Schulz von Thun. Watzlawick formuliert Axiome, Grice Konversationsmaximen, Rogers Bedingungen gelingender Kommunikation."
+    }
+  ]
+}
