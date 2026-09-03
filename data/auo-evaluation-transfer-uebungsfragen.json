@@ -348,31 +348,6 @@
       "transfer": true
     },
     {
-      "question": "Der Vorgesetzte möchte bei gleichbleibender Mitarbeiterzahl die Produktivität steigern und die Kosten senken. Die Mitarbeiter arbeiten am Limit und wünschen sich Entlastung; zudem gibt es eklatante Gehaltsunterschiede. Welche Arten von Konflikten werden ausgetragen?",
-      "options": [
-        "Beziehungskonflikte, Rollenkonflikte",
-        "Wertekonflikte, Zielkonflikte",
-        "Zielkonflikte, Verteilungskonflikte",
-        "Soziale Konflikte, Bewertungskonflikte"
-      ],
-      "answer": 2,
-      "explanation": "Gegensätzliche Ziele (mehr Produktivität vs. Entlastung) sind Zielkonflikte; die ungleiche Verteilung (Gehalt) sind Verteilungskonflikte. Beziehungs-/Rollen- oder Wertekonflikte passen zur Fallbeschreibung nicht.",
-      "topic": "Konflikt",
-      "transfer": true
-    },
-    {
-      "question": "X- und Y-Theorie von McGregor (1960): Der Mensch sucht unter geeigneten Arbeitsbedingungen nach Verantwortung, durch Commitment und Identifikation mit den Organisationszielen erreicht er Motivationssteigerung; Partizipation ist erwünscht. Das sind die Annahmen welcher Theorie?",
-      "options": [
-        "Annahmen der YW-Theorie",
-        "Annahmen der Y-Theorie",
-        "Annahmen der XZ-Theorie",
-        "Annahmen der X-Theorie"
-      ],
-      "answer": 1,
-      "explanation": "Das positive Menschenbild (sucht Verantwortung, ist intrinsisch motivierbar, Partizipation) ist die Y-Theorie. Die X-Theorie unterstellt Arbeitsunlust und Kontrollbedarf; „YW\"/„XZ\" existieren nicht.",
-      "topic": "Organisation & Motivation"
-    },
-    {
       "question": "Was ist kein Anlass zur Teamentwicklung?",
       "options": [
         "Dem Team fehlen Regeln oder Strukturen.",
@@ -396,18 +371,6 @@
       "explanation": "Teamfähigkeit heißt, fremde Leistungen anzuerkennen ohne Selbstabwertung und auf Rivalität zu verzichten. Die übrigen Optionen beschreiben team-hinderliche Verhaltensweisen.",
       "topic": "Team",
       "transfer": true
-    },
-    {
-      "question": "E. Berne formulierte im Strukturmodell drei Ich-Zustände. Zu welchem Ich-Zustand gehört: Fühlen, denken und sprechen, wie es sich durch die Nutzung des eigenen Verstandes in gegenwärtiger Situation ergibt – Rationalität, Vernunft und logisches Denken?",
-      "options": [
-        "Kind-Ich-Zustand",
-        "Eltern-Ich-Zustand",
-        "Erwachsenen-Ich-Zustand",
-        "Rationales-Ich-Zustand"
-      ],
-      "answer": 2,
-      "explanation": "Rationalität, Vernunft und situationsangemessenes Denken kennzeichnen den Erwachsenen-Ich-Zustand. Eltern-Ich = übernommene Normen/Fürsorge, Kind-Ich = Gefühle/Impulse; ein „Rationales-Ich\" gibt es im Strukturmodell nicht.",
-      "topic": "Transaktionsanalyse"
     },
     {
       "question": "Welche Methoden gehören zur Teamentwicklung?",
@@ -470,44 +433,6 @@
       "topic": "Team"
     },
     {
-      "question": "Was ist keine Voraussetzung für eine Konfliktbewältigung?",
-      "options": [
-        "Lösungen vereinbaren",
-        "Kompromissbereitschaft fordern",
-        "Direkte Kommunikation herstellen",
-        "Emotionen offenlegen & Vergangenheit bewältigen"
-      ],
-      "answer": 1,
-      "explanation": "Direkte Kommunikation, das Offenlegen von Emotionen und das Vereinbaren von Lösungen sind Voraussetzungen; Kompromissbereitschaft lässt sich nicht „fordern\" (erzwingen) – daher gesucht. Fachlich unsicher: Steht im Skript „fördern\", bitte gegenprüfen.",
-      "topic": "Konflikt",
-      "trap": "Skript-/definitionsabhängig – bitte gegenlesen."
-    },
-    {
-      "question": "Welche Aussage ist die Grundanschauung der Transaktionsanalyse nach Eric Berne?",
-      "options": [
-        "Jeder Mensch hat die Fähigkeit zu denken. Die Menschen sind trotz ihrer Fehler in Ordnung und im Wesentlichen gut. Der Mensch kann über sein eigenes konkretes Verhalten entscheiden und diese Entscheidungen bewusst in einzelnen Situationen ändern.",
-        "Das Denken und Fühlen sind keine Voraussetzung für Veränderungen.",
-        "Jeder Mensch hat die Fähigkeit zu denken. Es ist nicht wichtig, ob ein Mensch gut oder schlecht ist. Entscheidungen können unbewusst geändert werden.",
-        "Menschen müssen lernen, die Ratschläge und Vorgaben des Beraters anzunehmen."
-      ],
-      "answer": 0,
-      "explanation": "Die TA-Grundanschauung: Menschen sind „in Ordnung\", denkfähig und können ihr Verhalten bewusst entscheiden und ändern. Die übrigen Optionen verzerren dies (unbewusste Änderung, Belehrungshaltung, Denken/Fühlen irrelevant).",
-      "topic": "Transaktionsanalyse"
-    },
-    {
-      "question": "Welches sind die VIER Phasen der Konfliktbildung (Dramaturgie der Konfliktbildung)?",
-      "options": [
-        "Diskussion, Überlagerung, Eskalation, Verhärtung",
-        "Diskussion, Kontrollverlust, Eskalation, Stille",
-        "Dialog, Überlagerung, Emotionen, Verhärtung",
-        "Diskussion, Meinungsverschiedenheit, Emotionen, Abbruch"
-      ],
-      "answer": 0,
-      "explanation": "Die vier Phasen: Diskussion, Überlagerung, Eskalation, Verhärtung. Fachlich unsicher: skriptspezifische Phasenbezeichnungen – bitte gegen die Vorlesungsfolie zur „Dramaturgie der Konfliktbildung\" prüfen (konsistent mit Frage 43).",
-      "topic": "Konflikt",
-      "trap": "Skript-/definitionsabhängig – bitte gegenlesen."
-    },
-    {
       "question": "Das Konzept der drei Ebenen der Organisationskultur nach Edgar Schein: Strategische Ziele und Unternehmensphilosophien, als Verhaltensstandards beschrieben, teils bewusst, teils unbewusst gelebt. Beispiel: Toleranz, respektvoller Umgang. Welche Ebene ist gemeint?",
       "options": [
         "Grundlegende Annahmen über Menschen und Umwelt",
@@ -518,20 +443,6 @@
       "answer": 1,
       "explanation": "Verhaltensstandards, Philosophien und propagierte Werte (z. B. Toleranz) sind die Ebene der Werthaltungen und Normen. Artefakte sind das Sichtbare, Grundannahmen das unbewusst Vorausgesetzte.",
       "topic": "Organisationskultur"
-    },
-    {
-      "question": "Welche Phase der Konfliktbildung wird im Text erläutert? Entstehung einer kritischen Situation, Argumente werden gegenübergestellt und nicht akzeptiert, der Widerstand wächst, Eigennutz, Taktik und Unaufrichtigkeit werden wichtiger, es kommt zur Unterstellung; Gefühl der Abwertung, über den Tisch gezogen zu werden.",
-      "options": [
-        "Kontrollverlust",
-        "Diskussion",
-        "Eskalation",
-        "Überlagerung"
-      ],
-      "answer": 3,
-      "explanation": "Der Übergang von sachlicher Auseinandersetzung zur persönlichen Ebene (Taktik, Unterstellung, Abwertung) ist die Überlagerung. Fachlich unsicher: skriptspezifisch – bitte mit der Phasen-Folie abgleichen.",
-      "topic": "Konflikt",
-      "transfer": true,
-      "trap": "Skript-/definitionsabhängig – bitte gegenlesen."
     },
     {
       "question": "Seelisches Axiom: „Ich bin voll von chaotischen, sündhaften und unvernünftigen Impulsen – nur wenn ich mich an strenge Regeln halte, kann ich ein anständiger Mensch bleiben, Kontrolle behalten.\" „Ich weiß, was richtig ist!\" – nervöses, zorniges Auftreten, wenn nicht alles wie geplant verläuft. Welcher Kommunikationsstil?",
@@ -557,19 +468,6 @@
       "answer": 0,
       "explanation": "Berater brauchen soziale, Kommunikations- und Methodenkompetenz und leisten Prozessberatung (nicht Inhaltsberatung). Die übrigen Optionen überhöhen den Berater als allwissenden Steuerer/„Macher\".",
       "topic": "Organisationsentwicklung"
-    },
-    {
-      "question": "Folgende Beschreibung ist charakteristisch für einen der funktionalen Ich-Zustände: frei und spontan, ohne die kritische Beobachtung durch die Eltern, kreativ, phantasievoll und voller Energie, an den eigenen Bedürfnissen orientiert; positiv: furchtlos, neugierig; negativ: rücksichtsloses, gefährdendes Verhalten. Welcher funktionale Ich-Zustand?",
-      "options": [
-        "Nährend-fürsorglich-Eltern-Ich-Zustand",
-        "Natürlich-verspielt (freies) Kind-Ich-Zustand",
-        "Angepasst-ängstlich-Kind-Ich-Zustand",
-        "Rebellisch-trotzig-Kind-Ich-Zustand"
-      ],
-      "answer": 1,
-      "explanation": "Frei, spontan, kreativ und bedürfnisorientiert kennzeichnet das natürlich-verspielte (freie) Kind-Ich. Das angepasste und das rebellische Kind-Ich reagieren dagegen auf elterliche Vorgaben; das Eltern-Ich ist fürsorglich/normierend.",
-      "topic": "Transaktionsanalyse",
-      "transfer": true
     },
     {
       "question": "Welches ist kein Anlass für Organisationsentwicklung?",
