@@ -111,7 +111,8 @@
       "group": "interaktion",
       "order": 3,
       "quizIds": [
-        "auo-kommunikation-kernfolien"
+        "auo-kommunikation-kernfolien",
+        "auo-kommunikation-anwendung"
       ]
     },
     {

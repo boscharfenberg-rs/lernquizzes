@@ -808,6 +808,13 @@
       "title": "A&O – Organisationskultur & -klima: Anwendung & Modelle",
       "subject": "Arbeits- und organisationspsychologische Interventionen",
       "description": "Transfer- und Verständnisfragen zu Organisationskultur & -klima (Kernfolien): drei Ebenen nach Schein, Funktionen und Symptome der Kultur, Competing Values Framework (Clan, Adhocracy, Markt, Hierarchie), Attraction-Selection-Attrition, Person-Organization-Fit (supplementär/komplementär), Kulturwandel sowie Organisationsklima und spezifische Klimakonzepte."
+    },
+    {
+      "id": "auo-kommunikation-anwendung",
+      "file": "auo-kommunikation-anwendung.json",
+      "title": "A&O – Kommunikation: Anwendung & Modelle",
+      "subject": "Arbeits- und organisationspsychologische Interventionen",
+      "description": "Transfer- und Verständnisfragen zur Kommunikation (Kernfolien): Kommunikationsmodelle (Shannon & Weaver, Grice, Rogers, Watzlawick), Schulz von Thun (vier Seiten), formale/informelle und vertikale/horizontale Kommunikation, Gerüchte (Levelling, Sharpening, Assimilation), Ostrazismus, Knowledge Hiding, Bad-News-Training und Working Out Loud."
     }
   ]
 }

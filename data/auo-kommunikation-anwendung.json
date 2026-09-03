@@ -1,0 +1,317 @@
+{
+  "id": "auo-kommunikation-anwendung",
+  "title": "A&O – Kommunikation: Anwendung & Modelle",
+  "subject": "Arbeits- und organisationspsychologische Interventionen",
+  "description": "Transfer- und Verständnisfragen zur Kommunikation (Kernfolien): Kommunikationsmodelle (Shannon & Weaver, Grice, Rogers, Watzlawick), Schulz von Thun (vier Seiten), formale/informelle und vertikale/horizontale Kommunikation, Gerüchte (Levelling, Sharpening, Assimilation), Ostrazismus, Knowledge Hiding, Bad-News-Training und Working Out Loud.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Schulz von Thun",
+      "question": "Der Beifahrer sagt zum Fahrer: „Die Ampel ist grün.“ Auf welcher Seite der Nachricht liegt die gemeinte Aufforderung „Fahr los!“ nach Schulz von Thun?",
+      "options": [
+        "Appell",
+        "Beziehung",
+        "Selbstoffenbarung",
+        "Sachinhalt"
+      ],
+      "answer": 0,
+      "explanation": "Die Aufforderung „Fahr los!“ ist der Appell (was du tun sollst). Der Sachinhalt wäre die reine Information über die Ampelfarbe, die Selbstoffenbarung zeigte etwas über den Sprecher, die Beziehungsseite das Verhältnis zueinander.",
+      "transfer": true
+    },
+    {
+      "topic": "Schulz von Thun",
+      "question": "In derselben Aussage steckt auch „Ich bin ungeduldig“. Welcher Seite der Nachricht entspricht das nach Schulz von Thun?",
+      "options": [
+        "Beziehungsebene",
+        "Selbstoffenbarung",
+        "Sachinhalt der Aussage",
+        "Appell an den Fahrer"
+      ],
+      "answer": 1,
+      "explanation": "Was der Sprecher über sich selbst zeigt (Ungeduld), ist die Selbstoffenbarung. Der Sachinhalt ist die reine Information, der Appell die Handlungsaufforderung, die Beziehungsseite das Verhältnis der Gesprächspartner.",
+      "transfer": true
+    },
+    {
+      "topic": "Grice-Maximen",
+      "question": "Jemand sagt bewusst nur, was er für wahr hält, und nichts, wofür ihm die Grundlage fehlt. Welche Konversationsmaxime nach Grice befolgt er?",
+      "options": [
+        "Maxime der Klarheit",
+        "Maxime der Quantität",
+        "Maxime der Relevanz",
+        "Maxime der Qualität"
+      ],
+      "answer": 3,
+      "explanation": "Nur Wahres zu sagen und nichts Unbelegtes ist die Maxime der Qualität. Die Quantität betrifft den nötigen Informationsgehalt, die Relevanz die Themenbezogenheit, die Klarheit die Verständlichkeit des Ausdrucks.",
+      "transfer": true
+    },
+    {
+      "topic": "Grice-Maximen",
+      "question": "Eine Person hält ihren Beitrag genau so informativ wie nötig und vermeidet überflüssige Zusätze. Welche Grice-Maxime befolgt sie?",
+      "options": [
+        "Maxime der Relevanz",
+        "Maxime der Qualität",
+        "Maxime der Quantität",
+        "Maxime der Klarheit"
+      ],
+      "answer": 2,
+      "explanation": "Den nötigen (aber nicht übermäßigen) Informationsgehalt zu liefern ist die Maxime der Quantität. Qualität betrifft die Wahrheit, Relevanz die Themenbezogenheit, Klarheit die Eindeutigkeit.",
+      "transfer": true
+    },
+    {
+      "topic": "Rogers",
+      "question": "Ein Berater versucht, sich in sein Gegenüber einzufühlen und diesem mitzuteilen, was er verstanden hat. Welche Rogers-Bedingung ist das?",
+      "options": [
+        "Selbstoffenbarung",
+        "Einfühlendes Verstehen (Empathie)",
+        "Echtheit (Kongruenz)",
+        "Emotionale positive Wertschätzung"
+      ],
+      "answer": 1,
+      "explanation": "Sich einfühlen und das Verstandene rückmelden ist das einfühlende Verstehen (Empathie). Positive Wertschätzung meint die wohlwollende Haltung, Echtheit die Kongruenz des Beraters; Selbstoffenbarung gehört zu Schulz von Thun.",
+      "transfer": true
+    },
+    {
+      "topic": "Watzlawick",
+      "question": "Ein Mitarbeiter schweigt in einer Besprechung und schaut demonstrativ weg. Welches Watzlawick-Axiom greift hier?",
+      "options": [
+        "Kommunikation ist symmetrisch oder komplementär",
+        "Kommunikation ist digital und analog zugleich",
+        "Man kann nicht nicht kommunizieren",
+        "Jede Kommunikation hat Inhalts- und Beziehungsaspekt"
+      ],
+      "answer": 2,
+      "explanation": "Auch Schweigen und Wegschauen übermitteln eine Botschaft – das ist das Axiom „Man kann nicht nicht kommunizieren“. Die anderen Axiome betreffen Inhalts-/Beziehungsaspekt, digitale/analoge Modalität und die Beziehungsform.",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "topic": "Gerüchte",
+      "question": "Ein Gerücht wird beim Weitergeben immer kürzer, weniger detailliert und weniger komplex. Welcher Prozess ist das?",
+      "options": [
+        "Levelling",
+        "Assimilation",
+        "Interpunktion",
+        "Sharpening"
+      ],
+      "answer": 0,
+      "explanation": "Das Verkürzen und Vereinfachen eines Gerüchts ist das Levelling. Sharpening betont selektiv einzelne Aspekte, Assimilation verzerrt es passend zu Vorurteilen; Interpunktion ist ein Watzlawick-Begriff.",
+      "transfer": true
+    },
+    {
+      "topic": "Gerüchte",
+      "question": "Beim Weitergeben eines Gerüchts werden bestimmte Aspekte selektiv hervorgehoben und übertrieben. Welcher Prozess ist das?",
+      "options": [
+        "Ostrazismus",
+        "Sharpening",
+        "Levelling",
+        "Assimilation"
+      ],
+      "answer": 1,
+      "explanation": "Das selektive Betonen und Übertreiben einzelner Aspekte ist das Sharpening. Levelling verkürzt, Assimilation verzerrt gemäß Vorurteilen; Ostrazismus ist sozialer Ausschluss, kein Gerüchteprozess.",
+      "transfer": true
+    },
+    {
+      "topic": "Ostrazismus",
+      "question": "Ein Team bezieht einen Kollegen systematisch nicht in Gespräche ein und ignoriert ihn – ohne offene Aggression, nur durch Unterlassen. Welches Phänomen ist das?",
+      "options": [
+        "Ostrazismus",
+        "Komplementäre Kommunikation",
+        "Sharpening eines Gerüchts",
+        "Knowledge Hiding"
+      ],
+      "answer": 0,
+      "explanation": "Sozialer Ausschluss durch das Unterlassen angemessener sozialer Handlungen (Ignorieren) ist Ostrazismus. Knowledge Hiding meint das Zurückhalten von Wissen, Sharpening einen Gerüchteprozess; komplementäre Kommunikation ist eine Beziehungsform.",
+      "trap": "Ausschluss durch Unterlassen = Ostrazismus; offene Aggression verstärkt Interaktion dagegen.",
+      "transfer": true
+    },
+    {
+      "topic": "Knowledge Hiding",
+      "question": "Eine Kollegin stellt sich bei einer Wissensanfrage absichtlich ahnungslos, obwohl sie die Antwort kennt. Welche Form des Knowledge Hiding ist das?",
+      "options": [
+        "Levelling",
+        "Evasive hiding (ausweichende Reaktion)",
+        "Rationalized hiding (rationalisiertes Verstecken)",
+        "Playing dumb (sich dumm stellen)"
+      ],
+      "answer": 3,
+      "explanation": "Sich absichtlich ahnungslos zu geben ist „playing dumb“. Evasive hiding weicht aus oder vertröstet, rationalized hiding begründet die Zurückhaltung scheinbar plausibel; Levelling ist ein Gerüchteprozess.",
+      "transfer": true
+    },
+    {
+      "topic": "Schulz von Thun",
+      "question": "Welche gehört NICHT zu den vier Seiten einer Nachricht nach Schulz von Thun?",
+      "options": [
+        "Selbstoffenbarung",
+        "Appell",
+        "Sachinhalt",
+        "Kongruenzseite"
+      ],
+      "answer": 3,
+      "explanation": "Die vier Seiten sind Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Eine „Kongruenzseite“ gehört nicht dazu (Kongruenz/Echtheit stammt von Rogers).",
+      "trap": "Vier Seiten: Sache, Selbstoffenbarung, Beziehung, Appell – keine „Kongruenzseite“."
+    },
+    {
+      "topic": "Grice-Maximen",
+      "question": "Welche gehört NICHT zu den vier Konversationsmaximen nach Grice?",
+      "options": [
+        "Maxime der Relevanz",
+        "Maxime der Qualität",
+        "Maxime der Höflichkeit",
+        "Maxime der Quantität"
+      ],
+      "answer": 2,
+      "explanation": "Die vier Maximen sind Qualität, Quantität, Relevanz und Klarheit. Eine „Maxime der Höflichkeit“ gehört nicht dazu.",
+      "trap": "Grice: Qualität, Quantität, Relevanz, Klarheit – nicht „Höflichkeit“."
+    },
+    {
+      "topic": "Rogers",
+      "question": "Welche drei Bedingungen gelingender Kommunikation nennt Rogers?",
+      "options": [
+        "Empathie, Wertschätzung und Echtheit",
+        "Qualität, Quantität und Relevanz",
+        "Sachinhalt, Appell und Beziehung",
+        "Levelling, Sharpening und die Assimilation"
+      ],
+      "answer": 0,
+      "explanation": "Rogers nennt einfühlendes Verstehen (Empathie), emotionale positive Wertschätzung und Echtheit (Kongruenz). Die anderen Reihen gehören zu Grice, Schulz von Thun bzw. den Gerüchteprozessen."
+    },
+    {
+      "topic": "Watzlawick",
+      "question": "Welche Aussage ist KEINES der fünf Axiome nach Watzlawick?",
+      "options": [
+        "Man kann nicht nicht kommunizieren",
+        "Kommunikation ist symmetrisch oder komplementär",
+        "Kommunikation ist immer sachlich und störungsfrei",
+        "Jede Kommunikation hat Inhalts- und Beziehungsaspekt"
+      ],
+      "answer": 2,
+      "explanation": "Die Axiome umfassen u. a. „Man kann nicht nicht kommunizieren“, den Inhalts-/Beziehungsaspekt, die Interpunktion, digitale/analoge Modalität und symmetrische/komplementäre Beziehung. „Immer sachlich und störungsfrei“ ist kein Axiom.",
+      "hard": true
+    },
+    {
+      "topic": "Kommunikationsmodelle",
+      "question": "Welche Zuordnung von Modelltyp und Beispiel ist korrekt?",
+      "options": [
+        "Perspektivübernahme-Modell – Grice",
+        "Intentionsorientiertes Modell – Watzlawick",
+        "Dialog-Modell – Shannon & Weaver",
+        "Encoder-/Decoder-Modell – Shannon & Weaver"
+      ],
+      "answer": 3,
+      "explanation": "Das Encoder-/Decoder-Modell (Ver- und Entschlüsselung) wird durch Shannon & Weaver vertreten. Intentionsorientiert sind Grice' Maximen, Dialog-Modelle Watzlawick, Perspektivübernahme Rogers – die drei anderen Zuordnungen sind vertauscht.",
+      "hard": true
+    },
+    {
+      "topic": "Kommunikationsrichtung",
+      "question": "Was kennzeichnet horizontale Kommunikation in Organisationen?",
+      "options": [
+        "Kommunikation ausschließlich mit externen Kunden",
+        "Austausch zwischen Personen der gleichen Ebene",
+        "Kommunikation von oben nach unten in der Hierarchie",
+        "Kommunikation von unten nach oben in der Hierarchie"
+      ],
+      "answer": 1,
+      "explanation": "Horizontale Kommunikation findet zwischen Personen derselben Hierarchieebene statt. Der Austausch nach oben oder unten ist vertikale Kommunikation; der Kontakt zu Externen ist keine der beiden Richtungen."
+    },
+    {
+      "topic": "Formale vs. informelle Kommunikation",
+      "question": "Ein Gespräch findet spontan in der Kaffeeküche statt, ist unverbindlich und die Quelle bleibt unklar. Welche Kommunikationsform ist das?",
+      "options": [
+        "Vertikale Anweisungskommunikation",
+        "Formale Kommunikation über den Dienstweg",
+        "Bad-News-Kommunikation",
+        "Informelle Kommunikation"
+      ],
+      "answer": 3,
+      "explanation": "Spontane, unverbindliche Gespräche in „Randzonen“ mit unklarer Quelle sind informelle Kommunikation. Formale Kommunikation läuft über vorgesehene Kanäle (Dienstweg), ist verbindlich und quellenklar.",
+      "transfer": true
+    },
+    {
+      "topic": "Gerüchte",
+      "question": "Welcher der folgenden Prozesse gehört NICHT zur Weitergabe von Gerüchten?",
+      "options": [
+        "Levelling",
+        "Kongruenz",
+        "Assimilation",
+        "Sharpening"
+      ],
+      "answer": 1,
+      "explanation": "Bei der Gerüchteweitergabe wirken Levelling (Verkürzen), Sharpening (selektives Betonen) und Assimilation (Verzerren gemäß Vorurteilen). „Kongruenz“ gehört nicht dazu (Rogers).",
+      "trap": "Gerüchteprozesse: Levelling, Sharpening, Assimilation – nicht „Kongruenz“."
+    },
+    {
+      "topic": "Ostrazismus",
+      "question": "Was kennzeichnet Ostrazismus am Arbeitsplatz im Unterschied zu offener Aggression?",
+      "options": [
+        "Interaktion wird durch aktive Angriffe gezielt verstärkt",
+        "Es fördert nachweislich das Wohlbefinden der Betroffenen",
+        "Interaktion wird durch Unterlassen unterbunden",
+        "Es handelt sich um eine formale Anweisung von oben"
+      ],
+      "answer": 2,
+      "explanation": "Ostrazismus unterbindet Interaktion durch das Unterlassen angemessener sozialer Handlungen (Ignorieren, Ausschluss). Aggression verstärkt Interaktion dagegen; Ostrazismus ist keine formale Anweisung und beeinträchtigt das Wohlbefinden negativ.",
+      "trap": "Ostrazismus = Ausschluss durch Unterlassen; Aggression verstärkt Interaktion."
+    },
+    {
+      "topic": "Knowledge Hiding",
+      "question": "Welche der folgenden ist KEINE Form des Knowledge Hiding?",
+      "options": [
+        "Working Out Loud",
+        "Playing dumb",
+        "Rationalized hiding",
+        "Evasive hiding"
+      ],
+      "answer": 0,
+      "explanation": "Formen des Knowledge Hiding sind playing dumb, evasive hiding und rationalized hiding. Working Out Loud ist gerade das Gegenteil – das sichtbare Teilen der eigenen Arbeit.",
+      "trap": "Working Out Loud teilt Wissen sichtbar – es ist kein Knowledge Hiding."
+    },
+    {
+      "topic": "Bad-News-Training",
+      "question": "Welches Ziel verfolgt ein Bad-News-Training?",
+      "options": [
+        "Wissen gezielt vor Kolleginnen und Kollegen zu verbergen",
+        "Schlechte Nachrichten fair und einfühlsam übermitteln",
+        "Konflikte durch bewusste Ausgrenzung zu lösen",
+        "Gerüchte möglichst wirksam im Betrieb zu verbreiten"
+      ],
+      "answer": 1,
+      "explanation": "Ein Bad-News-Training übt, schlechte Nachrichten (z. B. eine Kündigung) fair zu übermitteln und auf die Gefühle des Gegenübers einzugehen. Gerüchte streuen, Wissen verbergen oder ausgrenzen sind keine Trainingsziele."
+    },
+    {
+      "topic": "Nonverbales Verhalten",
+      "question": "Welche Funktion nonverbalen Verhaltens in Organisationen wird in den Kernfolien genannt?",
+      "options": [
+        "Die technische Wartung von Arbeitsmitteln",
+        "Die formale Festlegung von Stellenbeschreibungen",
+        "Ausübung von Dominanz und Begründung von Hierarchie",
+        "Die exakte Berechnung von Unternehmenskennzahlen"
+      ],
+      "answer": 2,
+      "explanation": "Nonverbales Verhalten dient u. a. der Darstellung persönlicher Attribute, der Ausübung von Dominanz/Hierarchie, der Beförderung sozialer Abläufe, der Beziehungsförderung und der Gefühlsdarstellung. Kennzahlen, Stellenbeschreibungen und Wartung sind nicht gemeint."
+    },
+    {
+      "topic": "Working Out Loud",
+      "question": "Was beschreibt „Working Out Loud“?",
+      "options": [
+        "Kolleginnen und Kollegen gezielt ausgrenzen",
+        "Wissen bewusst vor anderen zurückhalten",
+        "Ausschließlich über den formalen Dienstweg zu kommunizieren",
+        "Die eigene Arbeit sichtbar machen und teilen"
+      ],
+      "answer": 3,
+      "explanation": "Working Out Loud verbindet sichtbare Arbeit mit dem Erzählen der eigenen Arbeit, damit alle gemeinsam lernen (Prinzipien u. a. Beziehungen, Großzügigkeit, sichtbare Arbeit). Wissen zurückhalten, ausgrenzen oder rein formal kommunizieren widerspricht dem."
+    },
+    {
+      "topic": "Interaktion",
+      "question": "Was kennzeichnet soziale Interaktion nach der Definition der Kernfolien?",
+      "options": [
+        "Die wechselseitige Einwirkung von Personen – auch ohne Absicht",
+        "Nur die schriftliche Übermittlung von Informationen",
+        "Nur die Kommunikation über den formalen Dienstweg",
+        "Ausschließlich die absichtsvolle, geplante Beeinflussung anderer"
+      ],
+      "answer": 0,
+      "explanation": "Soziale Interaktion ist die Einwirkung von Personen aufeinander, wobei weder Absicht noch Wissen über die wechselseitige Einwirkung vorausgesetzt sind. Sie ist damit weder auf absichtsvolles Handeln noch auf schriftliche oder formale Kanäle beschränkt."
+    }
+  ]
+}
