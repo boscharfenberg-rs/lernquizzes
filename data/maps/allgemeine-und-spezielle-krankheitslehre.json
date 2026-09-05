@@ -82,28 +82,45 @@
       "label": "Affektive Störungen",
       "group": "speziell",
       "order": 2,
-      "quizIds": []
+      "quizIds": [
+        "kl-zuordnung-affektive"
+      ]
     },
     {
       "id": "kl_s3",
       "label": "Essstörungen",
       "group": "speziell",
       "order": 3,
-      "quizIds": []
+      "quizIds": [
+        "kl-zuordnung-essstoerungen"
+      ]
     },
     {
       "id": "kl_s4",
       "label": "PTBS/Dissoziation",
       "group": "speziell",
       "order": 4,
-      "quizIds": []
+      "quizIds": [
+        "kl-zuordnung-persoenlichkeit-trauma"
+      ]
     },
     {
       "id": "kl_s5",
       "label": "Borderline & Persönlichkeitsstörungen",
       "group": "speziell",
       "order": 5,
-      "quizIds": []
+      "quizIds": [
+        "kl-zuordnung-persoenlichkeit-trauma"
+      ]
+    },
+    {
+      "id": "kl_s6",
+      "label": "Übergreifend differenzieren (Zuordnen & Fehler finden)",
+      "group": "speziell",
+      "order": 6,
+      "quizIds": [
+        "kl-zuordnung-uebergreifend"
+      ]
     }
   ]
 }

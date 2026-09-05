@@ -389,6 +389,38 @@
       "title": "Demenzen II – Modifizierbare Risikofaktoren (Lancet Commission 2024)",
       "subject": "Kognitiv-affektive Neurowissenschaften",
       "description": "30 Single-Choice-Fragen im Stil des KAN-Fragenkatalogs zur Vorlesung Demenzen II: die 14 modifizierbaren Risikofaktoren des Lancet-Commission-Berichts 2024 über die Lebensspanne, kognitive Reserve und Bildung, Hörverlust, Depression, Schädel-Hirn-Trauma, kardiovaskuläre Faktoren und kombinierte Gesundheitsscores, LDL-Cholesterin, Bewegung, Diabetes, Alkohol, sozialer Kontakt und COVID-19, Luftschadstoffe, Sehverlust, Schlaf und glymphatisches System, Ernährung sowie das Verhältnis von relativem Risiko und populationsattributablem Anteil. Inklusive Anwendungs-/Transferfragen."
+    },
+    {
+      "id": "kl-zuordnung-uebergreifend",
+      "file": "kl-zuordnung-uebergreifend.json",
+      "type": "zuordnung",
+      "title": "Störungsgruppen übergreifend differenzieren",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Vorlesungsübergreifend: Kernmerkmale, Fälle und psychopathologische Grundbegriffe den richtigen Störungen zuordnen und die eingebauten differenzialdiagnostischen Fehler finden. Deckt Psychose, affektive Störungen, Persönlichkeit, Trauma und Essstörungen ab."
+    },
+    {
+      "id": "kl-zuordnung-affektive",
+      "file": "kl-zuordnung-affektive.json",
+      "type": "zuordnung",
+      "title": "Affektive Störungen differenzieren",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Verlaufs- und Störungsformen der affektiven Störungen sowie die Abgrenzung zu schizophren-psychotischen Bildern. Ordne Merkmale und Fälle der richtigen Diagnose zu und finde die differenzialdiagnostischen Fehler."
+    },
+    {
+      "id": "kl-zuordnung-persoenlichkeit-trauma",
+      "file": "kl-zuordnung-persoenlichkeit-trauma.json",
+      "type": "zuordnung",
+      "title": "Persönlichkeit, Trauma & Dissoziation differenzieren",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Persönlichkeitsstörungen, Borderline-Abgrenzungen sowie das Trauma- und Dissoziationsspektrum. Ordne Merkmale und Fälle der richtigen Störung zu und finde die differenzialdiagnostischen Fehler."
+    },
+    {
+      "id": "kl-zuordnung-essstoerungen",
+      "file": "kl-zuordnung-essstoerungen.json",
+      "type": "zuordnung",
+      "title": "Essstörungen differenzieren",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "Anorexie (restriktiv/bulimisch), Bulimie, Binge-Eating und angrenzende Bilder. Ordne Merkmale und Fälle der richtigen Diagnose zu und finde die differenzialdiagnostischen Fehler – Schwerpunkt auf den entscheidenden Abgrenzungsmerkmalen."
     }
   ]
 }

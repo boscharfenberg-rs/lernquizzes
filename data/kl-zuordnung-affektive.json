@@ -1,0 +1,124 @@
+{
+  "id": "kl-zuordnung-affektive",
+  "type": "zuordnung",
+  "title": "Affektive Störungen differenzieren",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Verlaufs- und Störungsformen der affektiven Störungen sowie die Abgrenzung zu schizophren-psychotischen Bildern. Ordne Merkmale und Fälle der richtigen Diagnose zu und finde die differenzialdiagnostischen Fehler.",
+  "showGrade": false,
+  "tasks": [
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Verlaufsmerkmale sind einer affektiven Störung zugeordnet. Finde die falschen Zuordnungen und korrigiere sie.",
+      "labels": [
+        "Bipolar-I-Störung",
+        "Bipolar-II-Störung",
+        "Depressive Episode (einzeln)",
+        "Dysthymie",
+        "Rezidivierende depressive Störung",
+        "Zyklothymie"
+      ],
+      "rows": [
+        {
+          "text": "Mindestens zwei getrennte depressive Episoden im Verlauf, aber nie eine manische oder hypomane Phase.",
+          "assigned": "Rezidivierende depressive Störung",
+          "correct": "Rezidivierende depressive Störung"
+        },
+        {
+          "text": "Über mindestens zwei Jahre wechselnde subsyndromale depressive und hypomane Symptome, nie voll ausgeprägte Episoden.",
+          "assigned": "Dysthymie",
+          "correct": "Zyklothymie",
+          "explanation": "Der Wechsel subsyndromaler depressiver UND hypomaner Symptome kennzeichnet die Zyklothymie. Die Dysthymie umfasst nur anhaltende depressive Symptome ohne hypomane Anteile."
+        },
+        {
+          "text": "Mindestens eine voll ausgeprägte manische Episode (≥ 1 Woche), meist zusätzlich depressive Episoden.",
+          "assigned": "Bipolar-I-Störung",
+          "correct": "Bipolar-I-Störung"
+        },
+        {
+          "text": "Depressive Episoden im Wechsel mit mindestens einer hypomanen, aber nie einer voll ausgeprägten manischen Episode.",
+          "assigned": "Bipolar-I-Störung",
+          "correct": "Bipolar-II-Störung",
+          "explanation": "Hypomanie plus Depression – ohne je eine volle Manie – definiert die Bipolar-II-Störung. Bipolar I verlangt mindestens eine voll ausgeprägte manische Episode."
+        },
+        {
+          "text": "Erste und bisher einzige depressive Episode, keine früheren Episoden und nie eine (hypo)manische Phase.",
+          "assigned": "Depressive Episode (einzeln)",
+          "correct": "Depressive Episode (einzeln)"
+        },
+        {
+          "text": "Über mindestens zwei Jahre anhaltende depressive Symptome, die durchgehend unterhalb der Schwelle einer depressiven Episode bleiben.",
+          "assigned": "Dysthymie",
+          "correct": "Dysthymie"
+        }
+      ]
+    },
+    {
+      "kind": "fall-diagnose",
+      "prompt": "Fälle mit psychotischen Merkmalen sind einer Diagnose zugeordnet. Finde die falschen Zuordnungen und wähle die richtige Diagnose.",
+      "labels": [
+        "Bipolar-I-Störung mit psychotischen Symptomen",
+        "Major Depression mit psychotischen Symptomen",
+        "Schizoaffektive Störung",
+        "Schizophrenie"
+      ],
+      "rows": [
+        {
+          "text": "Stimmungskongruenter (synthymer) Schuld- und Verarmungswahn, der klar an eine mittelgradige bis schwere depressive Episode gebunden ist.",
+          "assigned": "Schizophrenie",
+          "correct": "Major Depression mit psychotischen Symptomen",
+          "explanation": "Ein synthymer, an die affektive Schwere gebundener Wahn spricht für eine psychotische Depression. Bei der Schizophrenie ist der Wahn typischerweise bizarr und nicht an die Stimmungslage gebunden."
+        },
+        {
+          "text": "Anhaltende bizarre Wahninhalte und Halluzinationen, die unabhängig von jeder affektiven Auslenkung bestehen.",
+          "assigned": "Schizophrenie",
+          "correct": "Schizophrenie"
+        },
+        {
+          "text": "Gehobene, überschwängliche Stimmung mit Größenwahn und Verfolgungsideen, die ausschließlich während einer manischen Episode auftreten.",
+          "assigned": "Bipolar-I-Störung mit psychotischen Symptomen",
+          "correct": "Bipolar-I-Störung mit psychotischen Symptomen"
+        },
+        {
+          "text": "Über mindestens zwei Wochen bizarrer Wahn und Halluzinationen auch unabhängig von der affektiven Symptomatik, gemeinsam mit einer affektiven Episode.",
+          "assigned": "Schizoaffektive Störung",
+          "correct": "Schizoaffektive Störung"
+        }
+      ]
+    },
+    {
+      "kind": "fall-diagnose",
+      "prompt": "Fälle sind einer Diagnose zugeordnet. Achte besonders auf die Abgrenzung unipolar/bipolar und zur normalen Trauer.",
+      "labels": [
+        "Bipolar-I-Störung",
+        "Bipolar-II-Störung",
+        "Dysthymie",
+        "Major Depression (unipolar)",
+        "Normale Trauer"
+      ],
+      "rows": [
+        {
+          "text": "Wiederholte schwere depressive Episoden über Jahre, jedoch nie eine hypomane oder manische Phase.",
+          "assigned": "Major Depression (unipolar)",
+          "correct": "Major Depression (unipolar)"
+        },
+        {
+          "text": "Zunächst als unipolare Depression behandelt; im Verlauf tritt erstmals eine klar hypomane (nie voll manische) Phase auf.",
+          "assigned": "Major Depression (unipolar)",
+          "correct": "Bipolar-II-Störung",
+          "explanation": "Das spätere Auftreten einer Hypomanie macht aus der vermeintlich unipolaren Depression eine Bipolar-II-Störung – der Diagnosewechsel ist im Verlauf nicht selten."
+        },
+        {
+          "text": "Eine Woche durchgehend gehobene Stimmung mit Größenideen, riskanten Ausgaben und deutlicher Funktionsbeeinträchtigung bis zur Klinikbedürftigkeit.",
+          "assigned": "Bipolar-II-Störung",
+          "correct": "Bipolar-I-Störung",
+          "explanation": "Eine voll ausgeprägte, funktionsbeeinträchtigende manische Episode definiert Bipolar I. Bipolar II kennt nur Hypomanien ohne diese Schwere."
+        },
+        {
+          "text": "Nach dem Tod des Partners: Traurigkeit in Wellen und Sehnsucht nach der Person, Selbstwert weitgehend erhalten, allmähliche Besserung über Wochen.",
+          "assigned": "Normale Trauer",
+          "correct": "Normale Trauer"
+        }
+      ]
+    }
+  ]
+}

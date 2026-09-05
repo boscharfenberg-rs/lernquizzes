@@ -1,0 +1,137 @@
+{
+  "id": "kl-zuordnung-uebergreifend",
+  "type": "zuordnung",
+  "title": "Störungsgruppen übergreifend differenzieren",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Vorlesungsübergreifend: Kernmerkmale, Fälle und psychopathologische Grundbegriffe den richtigen Störungen zuordnen und die eingebauten differenzialdiagnostischen Fehler finden. Deckt Psychose, affektive Störungen, Persönlichkeit, Trauma und Essstörungen ab.",
+  "showGrade": false,
+  "tasks": [
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Leitmerkmale sind einer Störung zugeordnet. Einige Zuordnungen sind falsch – finde sie und wähle die richtige Störung.",
+      "labels": [
+        "Anorexia nervosa",
+        "Bipolare Störung",
+        "Borderline-Persönlichkeitsstörung",
+        "Posttraumatische Belastungsstörung",
+        "Schizophrenie",
+        "Zwangsstörung"
+      ],
+      "rows": [
+        {
+          "text": "Sich aufdrängende, als eigen und unsinnig erlebte Gedanken (erhaltene Einsicht), gegen die Widerstand geleistet und die durch Neutralisierungshandlungen beruhigt werden.",
+          "assigned": "Schizophrenie",
+          "correct": "Zwangsstörung",
+          "explanation": "Ich-dystone, als unsinnig erkannte Gedanken mit erhaltener Realitätsprüfung sind Zwangsgedanken. Bei Schizophrenie läge ein Wahn vor – ich-synton, unkorrigierbar und ohne Einsicht in den Trugcharakter."
+        },
+        {
+          "text": "Nach einem extrem bedrohlichen Ereignis: unwillkürliche Flashbacks, Vermeidung von Erinnerungsreizen und anhaltend erhöhte Bedrohungswahrnehmung.",
+          "assigned": "Posttraumatische Belastungsstörung",
+          "correct": "Posttraumatische Belastungsstörung"
+        },
+        {
+          "text": "Im Kern eine Störung von Affektregulation, Identität, Impulskontrolle und sozialer Interaktion; Selbstverletzung dient der Spannungsreduktion.",
+          "assigned": "Borderline-Persönlichkeitsstörung",
+          "correct": "Borderline-Persönlichkeitsstörung"
+        },
+        {
+          "text": "Mindestens eine Woche durchgehend gehobene oder gereizte Stimmung mit deutlich vermindertem Schlafbedürfnis und Größenideen.",
+          "assigned": "Borderline-Persönlichkeitsstörung",
+          "correct": "Bipolare Störung",
+          "explanation": "Eine mindestens einwöchige manische Episode mit vermindertem Schlafbedürfnis kennzeichnet die bipolare Störung. Die Stimmungswechsel bei Borderline sind rasch (Stunden), situativ ausgelöst und gehen nicht mit einer echten manischen Episode einher."
+        },
+        {
+          "text": "Selbst herbeigeführtes Untergewicht, überwertige Idee, zu dick zu sein, und eine Körperschemastörung.",
+          "assigned": "Anorexia nervosa",
+          "correct": "Anorexia nervosa"
+        },
+        {
+          "text": "Reizunabhängige Wahrnehmung mit Realitätsverlust (Halluzination) zusammen mit Negativsymptomatik wie flachem Affekt.",
+          "assigned": "Schizophrenie",
+          "correct": "Schizophrenie"
+        }
+      ]
+    },
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Psychopathologische Grundbegriffe sind einer Definition zugeordnet. Finde die falschen Zuordnungen und korrigiere sie.",
+      "labels": [
+        "Halluzination",
+        "Illusion",
+        "Intrusion / Flashback",
+        "Wahn",
+        "Zwangsgedanke"
+      ],
+      "rows": [
+        {
+          "text": "Sich aufdrängendes, als eigen erkanntes und als sinnlos erlebtes Gedankeninhalt, gegen den Widerstand geleistet wird.",
+          "assigned": "Wahn",
+          "correct": "Zwangsgedanke",
+          "explanation": "Der erhaltene Einsichts- und Widerstandscharakter macht dies zum Zwangsgedanken. Ein Wahn ist unkorrigierbar und wird nicht als eigen-unsinnig erlebt."
+        },
+        {
+          "text": "Verkennung eines tatsächlich vorhandenen äußeren Sinnesreizes.",
+          "assigned": "Illusion",
+          "correct": "Illusion"
+        },
+        {
+          "text": "Ungewolltes, lebhaftes Wiedererleben eines Traumas mit Hier-und-Jetzt-Charakter, durch Trigger ausgelöst.",
+          "assigned": "Intrusion / Flashback",
+          "correct": "Intrusion / Flashback"
+        },
+        {
+          "text": "Beweisunabhängige, unkorrigierbare und inhaltlich unmögliche Überzeugung, die als Privatwirklichkeit erlebt wird.",
+          "assigned": "Wahn",
+          "correct": "Wahn"
+        },
+        {
+          "text": "Reizunabhängige Wahrnehmung, die als real erlebt wird (aufgehobene Realitätsprüfung).",
+          "assigned": "Intrusion / Flashback",
+          "correct": "Halluzination",
+          "explanation": "Eine reizunabhängige, als real erlebte Wahrnehmung ist eine Halluzination. Eine Intrusion/Flashback ist ein wiedererlebtes Trauma-Erinnerungsbild mit Hier-und-Jetzt-Charakter, kein Wahrnehmungsphänomen ohne Reiz."
+        }
+      ]
+    },
+    {
+      "kind": "fall-diagnose",
+      "prompt": "Kurze Fälle sind einer Diagnose zugeordnet. Finde die falschen Zuordnungen und wähle die richtige Diagnose.",
+      "labels": [
+        "Akute Belastungsreaktion",
+        "Anorexia nervosa (bulimischer Typus)",
+        "Anpassungsstörung",
+        "Bulimia nervosa",
+        "Dissoziative Identitätsstörung",
+        "Posttraumatische Belastungsstörung"
+      ],
+      "rows": [
+        {
+          "text": "Zwei Monate nach einem schweren Verkehrsunfall: wiederkehrende Flashbacks, Vermeidung des Unfallorts, Schreckhaftigkeit, deutliche Beeinträchtigung im Alltag.",
+          "assigned": "Posttraumatische Belastungsstörung",
+          "correct": "Posttraumatische Belastungsstörung"
+        },
+        {
+          "text": "Wiederkehrende Erinnerungslücken und mindestens zwei deutlich getrennte Identitätszustände mit desintegriertem autobiografischem Gedächtnis.",
+          "assigned": "Dissoziative Identitätsstörung",
+          "correct": "Dissoziative Identitätsstörung"
+        },
+        {
+          "text": "Starkes Untergewicht bei einer Person, die zusätzlich Essanfälle mit anschließendem Erbrechen zeigt; höchste Gefahr durch Elektrolytentgleisung.",
+          "assigned": "Bulimia nervosa",
+          "correct": "Anorexia nervosa (bulimischer Typus)",
+          "explanation": "Das entscheidende Abgrenzungsmerkmal ist das Untergewicht: bei Untergewicht liegt eine Anorexie (bulimischer Typus) vor, nicht eine Bulimie (dort meist Normalgewicht)."
+        },
+        {
+          "text": "Wenige Wochen nach einem belastenden, aber nicht lebensbedrohlichen Ereignis (Kündigung): niedergedrückte Stimmung und Sorgen, die in Wochen abklingen; keine Flashbacks.",
+          "assigned": "Posttraumatische Belastungsstörung",
+          "correct": "Anpassungsstörung",
+          "explanation": "Ohne Trauma-Kriterium und ohne Flashbacks, mit zeitnaher, begrenzter Reaktion auf ein alltägliches belastendes Ereignis handelt es sich um eine Anpassungsstörung, nicht um eine PTBS."
+        },
+        {
+          "text": "Unmittelbar (Minuten bis Stunden) nach einer Katastrophe: Betäubung, Desorientierung und Rückzug, die sich innerhalb von Stunden bis wenigen Tagen zurückbilden.",
+          "assigned": "Akute Belastungsreaktion",
+          "correct": "Akute Belastungsreaktion"
+        }
+      ]
+    }
+  ]
+}

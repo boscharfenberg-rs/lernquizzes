@@ -77,6 +77,17 @@ async function loadQuiz(file) {
       window.renderCloze(q, { onBack: back });
       return;
     }
+        // Zuordnungs-Sets tragen "type":"zuordnung" und werden an zuordnung.js delegiert;
+    // MC-Engine und cloze.js bleiben unberührt.
+    if (q.type === "zuordnung") {
+      if (typeof window.renderZuordnung !== "function") throw new Error("Zuordnungs-Render (zuordnung.js) fehlt.");
+      quiz = null;
+      view = "quiz";
+      currentSubject = currentSubject || q.subject || null;
+      const back = quizReturn || (() => renderSets(currentSubject));
+      window.renderZuordnung(q, { onBack: back });
+      return;
+    }
     if (!q.questions || !q.questions.length) throw new Error("Quiz enthält keine Fragen.");
     quiz = q;
     view = "quiz";
@@ -216,7 +227,8 @@ async function startRandomQuiz(subject) {
     const loaded = await Promise.all(sets.map((s) => loadQuizFile(s.file)));
     const pool = [];
     loaded.forEach((q) => {
-      if (q.type === "lueckentext") return;       // Lückentexte gehören nicht in den MC-Pool
+      if (q.type === "lueckentext") return;
+      if (q.type === "zuordnung") return;       // Zuordnungs-Sets gehören nicht in den MC-Pool       // Lückentexte gehören nicht in den MC-Pool
       (q.questions || []).forEach((item) => {
         const { topic, ...rest } = item;           // Thema (und damit das Fach) verbergen
         pool.push(rest);
@@ -307,6 +319,8 @@ function rfNodeHtml(node) {
     const isLt = q.type === "lueckentext";
     const badge = isLt
       ? `<span class="rf-badge lt">Lückentext</span>`
+      : q.type === "zuordnung"
+      ? `<span class="rf-badge zo">Zuordnen</span>`
       : `<span class="rf-badge mc">MC</span>`;
     return `<button class="rf-quiz" data-file="${escapeHtml(q.file)}">
       <span class="rf-quiz-title">${escapeHtml(q.title || q.file)}</span>${badge}

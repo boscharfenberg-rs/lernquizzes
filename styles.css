@@ -416,3 +416,104 @@ button { font: inherit; cursor: pointer; }
 .rf-group { margin-bottom: 22px; }
 .rf-group-nodes { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
 .rf-group-title { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.4px; color: var(--muted); margin: 0 0 10px; }
+
+/* Zuordnen & Fehler finden (zuordnung.js) */
+.zoTop {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; margin-bottom: 14px;
+}
+.zoType {
+  font-size: 0.8rem; font-weight: 600; letter-spacing: 0.04em;
+  text-transform: uppercase; color: var(--muted);
+}
+.zo-card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); box-shadow: var(--shadow);
+  padding: 20px 20px 16px;
+}
+.zoIntro { margin: 0 0 10px; color: var(--ink); }
+.zoHowto {
+  margin: 0 0 18px; padding: 10px 12px; font-size: 0.92rem;
+  color: var(--muted); background: var(--accent-soft);
+  border-radius: 10px;
+}
+.zoTask { margin: 0 0 22px; }
+.zoTask:last-of-type { margin-bottom: 6px; }
+.zoTaskHead { margin-bottom: 6px; }
+.zoKind {
+  display: inline-block; font-size: 0.72rem; font-weight: 700;
+  letter-spacing: 0.03em; text-transform: uppercase;
+  padding: 3px 9px; border-radius: 999px; color: #fff;
+}
+.zoKind.kMerk { background: #5B6BA8; }
+.zoKind.kFall { background: #2E8F86; }
+.zoPrompt { margin: 4px 0 12px; font-weight: 600; color: var(--ink); }
+
+.zoRows { list-style: none; margin: 0; padding: 0; }
+.zoRow {
+  position: relative; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;
+  padding: 12px 40px 12px 12px; margin-bottom: 10px;
+  border: 1px solid var(--border); border-radius: 12px;
+  background: #fbfcfe;
+}
+.zoRowBody { flex: 1; min-width: 0; }
+.zoRowText { display: block; color: var(--ink); line-height: 1.5; }
+.zoAssign {
+  display: inline-block; margin-top: 8px; font-size: 0.85rem;
+  color: var(--muted);
+}
+.zoAssign strong { color: var(--ink); }
+.zoRowCtl {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  margin-top: 10px;
+}
+.zoFlag {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.88rem; color: var(--ink); cursor: pointer;
+  user-select: none;
+}
+.zoFlag input { width: 16px; height: 16px; cursor: pointer; }
+.zoChoice {
+  font: inherit; font-size: 0.9rem; padding: 6px 10px;
+  border: 1px solid var(--border); border-radius: 8px;
+  background: var(--card); color: var(--ink); max-width: 100%;
+}
+.zoChoice:disabled { opacity: 0.7; }
+
+.zoMark {
+  position: absolute; top: 10px; right: 12px;
+  font-weight: 800; font-size: 1.1rem; line-height: 1;
+}
+.zoRow.isCorrect { border-color: var(--correct); background: var(--correct-soft); }
+.zoRow.isWrong { border-color: var(--wrong); background: var(--wrong-soft); }
+.zoRow.isCorrect .zoMark { color: var(--correct); }
+.zoRow.isWrong .zoMark { color: var(--wrong); }
+
+.zoSol {
+  flex-basis: 100%; margin-top: 8px; padding-top: 8px;
+  border-top: 1px dashed var(--border);
+  display: flex; flex-direction: column; gap: 4px;
+  font-size: 0.9rem;
+}
+.zoSol[hidden] { display: none; }   /* hidden-Attribut schlägt das display:flex oben */
+.solNo { color: var(--wrong); }
+.solOk2 { color: var(--correct); }
+.solWhy { color: var(--ink); line-height: 1.5; }
+.solChosen { color: var(--muted); font-size: 0.85rem; }
+
+.zoActions {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  margin-top: 18px;
+}
+.zoScore { font-weight: 700; }
+.zoScore.scoreGood { color: var(--correct); }
+.zoScore.scoreMid { color: #b0842f; }
+.zoScore.scoreLow { color: var(--wrong); }
+
+.rf-badge.zo { background: #5B6BA8; color: #fff; }
+
+@media (max-width: 560px) {
+  .zoRow { padding-right: 34px; }
+  .zoRowCtl { gap: 8px; }
+  .zoChoice { width: 100%; }
+}

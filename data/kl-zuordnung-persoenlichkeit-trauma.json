@@ -1,0 +1,117 @@
+{
+  "id": "kl-zuordnung-persoenlichkeit-trauma",
+  "type": "zuordnung",
+  "title": "Persönlichkeit, Trauma & Dissoziation differenzieren",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Persönlichkeitsstörungen, Borderline-Abgrenzungen sowie das Trauma- und Dissoziationsspektrum. Ordne Merkmale und Fälle der richtigen Störung zu und finde die differenzialdiagnostischen Fehler.",
+  "showGrade": false,
+  "tasks": [
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Merkmale sind einer Persönlichkeitsstörung (bzw. Zwangsstörung) zugeordnet. Finde die falschen Zuordnungen und korrigiere sie.",
+      "labels": [
+        "Borderline-Persönlichkeitsstörung",
+        "Dissoziale (antisoziale) Persönlichkeitsstörung",
+        "Schizoide Persönlichkeitsstörung",
+        "Zwanghafte (anankastische) Persönlichkeitsstörung",
+        "Zwangsstörung"
+      ],
+      "rows": [
+        {
+          "text": "Missachtung der Rechte und Gefühle anderer bei reduzierter Empathie, manipulatives und aggressives Verhalten.",
+          "assigned": "Dissoziale (antisoziale) Persönlichkeitsstörung",
+          "correct": "Dissoziale (antisoziale) Persönlichkeitsstörung"
+        },
+        {
+          "text": "Ich-dystone, als unsinnig erlebte, sich aufdrängende Gedanken und Neutralisierungshandlungen bei erhaltener Einsicht.",
+          "assigned": "Zwanghafte (anankastische) Persönlichkeitsstörung",
+          "correct": "Zwangsstörung",
+          "explanation": "Die ich-dystone Zwangssymptomatik mit Einsicht ist die Zwangsstörung. Die zwanghafte Persönlichkeitsstörung ist ein ich-syntones, überdauerndes Muster aus Perfektionismus, Rigidität und Regelorientierung – ohne eigentliche Zwangshandlungen."
+        },
+        {
+          "text": "Instabilität von Affektregulation, Identität, Impulskontrolle und Beziehungen; unter den Persönlichkeitsstörungen eine Ausnahme, da das Erleben nicht durchgängig ich-synton ist.",
+          "assigned": "Borderline-Persönlichkeitsstörung",
+          "correct": "Borderline-Persönlichkeitsstörung"
+        },
+        {
+          "text": "Rigidität, Perfektionismus, exzessive Beschäftigung mit Regeln und Ordnung; das Verhalten wird als stimmig (ich-synton) erlebt.",
+          "assigned": "Zwanghafte (anankastische) Persönlichkeitsstörung",
+          "correct": "Zwanghafte (anankastische) Persönlichkeitsstörung"
+        },
+        {
+          "text": "Interpersonelle und emotionale Distanz, kaum Freundschaften, reduzierter emotionaler Ausdruck.",
+          "assigned": "Schizoide Persönlichkeitsstörung",
+          "correct": "Schizoide Persönlichkeitsstörung"
+        }
+      ]
+    },
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Abgrenzungsmerkmale rund um die Borderline-Störung. Finde die falschen Zuordnungen und korrigiere sie.",
+      "labels": [
+        "Bipolar-II-Störung",
+        "Borderline-Persönlichkeitsstörung",
+        "Dissoziative Identitätsstörung",
+        "Schizophrenie"
+      ],
+      "rows": [
+        {
+          "text": "Verschiedene Selbstanteile sind wenig integriert und das Ich-Erleben ist instabil, aber es besteht ein einheitliches autobiografisches Gedächtnis.",
+          "assigned": "Borderline-Persönlichkeitsstörung",
+          "correct": "Borderline-Persönlichkeitsstörung"
+        },
+        {
+          "text": "Rasche, situativ ausgelöste Stimmungswechsel innerhalb von Stunden ohne echte, tagelang anhaltende hypomane Episoden.",
+          "assigned": "Bipolar-II-Störung",
+          "correct": "Borderline-Persönlichkeitsstörung",
+          "explanation": "Stundenweise, reaktive Affektschwankungen sind Borderline-typisch. Die Bipolar-II-Störung verlangt echte, mindestens mehrere Tage anhaltende hypomane Episoden."
+        },
+        {
+          "text": "Mehrere desintegrierte, situativ triggerbare Identitätszustände mit Amnesien und desintegriertem autobiografischem Gedächtnis.",
+          "assigned": "Dissoziative Identitätsstörung",
+          "correct": "Dissoziative Identitätsstörung"
+        },
+        {
+          "text": "Kurze, pseudopsychotische Sinnestäuschungen, bei denen die Person Einsicht in den Trugcharakter behält.",
+          "assigned": "Schizophrenie",
+          "correct": "Borderline-Persönlichkeitsstörung",
+          "explanation": "Die erhaltene Einsicht in den Trugcharakter kennzeichnet pseudopsychotisches Erleben bei Borderline. Bei der Schizophrenie ist die Realitätsprüfung aufgehoben."
+        }
+      ]
+    },
+    {
+      "kind": "fall-diagnose",
+      "prompt": "Fälle aus dem Trauma- und Dissoziationsspektrum sind einer Diagnose zugeordnet. Finde die falschen Zuordnungen.",
+      "labels": [
+        "Akute Belastungsreaktion",
+        "Anpassungsstörung",
+        "Dissoziative Amnesie",
+        "Komplexe PTBS",
+        "Posttraumatische Belastungsstörung"
+      ],
+      "rows": [
+        {
+          "text": "Nach jahrelanger Misshandlung: Flashbacks, Vermeidung und Übererregung PLUS anhaltende Affektregulationsstörung, negatives Selbstbild und Beziehungsstörungen.",
+          "assigned": "Komplexe PTBS",
+          "correct": "Komplexe PTBS"
+        },
+        {
+          "text": "Plötzliche Unfähigkeit, sich an ein belastendes Ereignis zu erinnern, ohne organische Ursache.",
+          "assigned": "Dissoziative Amnesie",
+          "correct": "Dissoziative Amnesie"
+        },
+        {
+          "text": "Unmittelbar nach einem Zugunglück: Betäubung und Desorientierung, die sich innerhalb von Stunden bis wenigen Tagen zurückbilden.",
+          "assigned": "Akute Belastungsreaktion",
+          "correct": "Akute Belastungsreaktion"
+        },
+        {
+          "text": "Drei Monate nach einem einmaligen Überfall: Flashbacks, Vermeidung und Schreckhaftigkeit; Selbstbild und Beziehungen sind im Kern intakt.",
+          "assigned": "Komplexe PTBS",
+          "correct": "Posttraumatische Belastungsstörung",
+          "explanation": "Ohne die Selbstorganisationsstörungen (Affektregulation, Selbstbild, Beziehungen) liegt eine klassische PTBS vor. Die komplexe PTBS verlangt zusätzlich genau diese drei Zusatzkriterien."
+        }
+      ]
+    }
+  ]
+}

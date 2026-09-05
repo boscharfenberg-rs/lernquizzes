@@ -1,0 +1,96 @@
+{
+  "id": "kl-zuordnung-essstoerungen",
+  "type": "zuordnung",
+  "title": "Essstörungen differenzieren",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Anorexie (restriktiv/bulimisch), Bulimie, Binge-Eating und angrenzende Bilder. Ordne Merkmale und Fälle der richtigen Diagnose zu und finde die differenzialdiagnostischen Fehler – Schwerpunkt auf den entscheidenden Abgrenzungsmerkmalen.",
+  "showGrade": false,
+  "tasks": [
+    {
+      "kind": "merkmal-stoerung",
+      "prompt": "Kernmerkmale sind einer Essstörung zugeordnet. Finde die falschen Zuordnungen und korrigiere sie.",
+      "labels": [
+        "Anorexia nervosa (bulimischer Typus)",
+        "Anorexia nervosa (restriktiver Typus)",
+        "ARFID (vermeidend-restriktive Essstörung)",
+        "Binge-Eating-Störung",
+        "Bulimia nervosa",
+        "Pica"
+      ],
+      "rows": [
+        {
+          "text": "Wiederholtes Essen nicht zum Verzehr geeigneter Stoffe über mindestens einen Monat.",
+          "assigned": "Pica",
+          "correct": "Pica"
+        },
+        {
+          "text": "Wiederkehrende Essanfälle mit Kontrollverlust und anschließenden gegensteuernden Maßnahmen (Erbrechen, Abführen); Gewicht meist im Normalbereich.",
+          "assigned": "Bulimia nervosa",
+          "correct": "Bulimia nervosa"
+        },
+        {
+          "text": "Deutlich zu geringe Nahrungszufuhr durch Desinteresse an Nahrung oder sensorische Aversion – ohne Angst vor Gewichtszunahme und ohne Körperschemastörung.",
+          "assigned": "Anorexia nervosa (restriktiver Typus)",
+          "correct": "ARFID (vermeidend-restriktive Essstörung)",
+          "explanation": "Fehlende Gewichtsphobie und fehlende Körperschemastörung unterscheiden ARFID von der Anorexie – dort steht gerade die überwertige Angst vor Gewichtszunahme im Zentrum."
+        },
+        {
+          "text": "Untergewicht bei einer Person, die zusätzlich Essanfälle und selbstinduziertes Erbrechen zeigt.",
+          "assigned": "Bulimia nervosa",
+          "correct": "Anorexia nervosa (bulimischer Typus)",
+          "explanation": "Das entscheidende Abgrenzungsmerkmal ist das Untergewicht: bei Untergewicht bleibt die Diagnose Anorexie (bulimischer Typus). Die Bulimie setzt in der Regel Normalgewicht voraus."
+        },
+        {
+          "text": "Wiederkehrende Essanfälle mit Kontrollverlust OHNE regelmäßige gegensteuernde Maßnahmen, häufig verbunden mit Übergewicht.",
+          "assigned": "Binge-Eating-Störung",
+          "correct": "Binge-Eating-Störung"
+        },
+        {
+          "text": "Selbst herbeigeführtes Untergewicht überwiegend durch Nahrungsrestriktion und übermäßige körperliche Aktivität, ohne regelhafte Essanfälle.",
+          "assigned": "Anorexia nervosa (restriktiver Typus)",
+          "correct": "Anorexia nervosa (restriktiver Typus)"
+        }
+      ]
+    },
+    {
+      "kind": "fall-diagnose",
+      "prompt": "Fälle sind einer Diagnose zugeordnet. Finde die falschen Zuordnungen und wähle die richtige Diagnose.",
+      "labels": [
+        "Anorexia nervosa (bulimischer Typus)",
+        "Anorexia nervosa (restriktiver Typus)",
+        "Binge-Eating-Störung",
+        "Bulimia nervosa",
+        "Körperdysmorphe Störung"
+      ],
+      "rows": [
+        {
+          "text": "Junge Frau, BMI 15, große Angst zuzunehmen, empfindet sich trotz Untergewicht als zu dick, isst hochselektiv, keine Essanfälle.",
+          "assigned": "Anorexia nervosa (restriktiver Typus)",
+          "correct": "Anorexia nervosa (restriktiver Typus)"
+        },
+        {
+          "text": "Normalgewichtige Person mit heimlichen Essanfällen und anschließendem selbstinduziertem Erbrechen, mehrmals pro Woche.",
+          "assigned": "Bulimia nervosa",
+          "correct": "Bulimia nervosa"
+        },
+        {
+          "text": "Wiederkehrende Essanfälle mit Kontrollverlust und starkem Leidensdruck, aber ohne gegensteuernde Maßnahmen; die Person ist übergewichtig.",
+          "assigned": "Binge-Eating-Störung",
+          "correct": "Binge-Eating-Störung"
+        },
+        {
+          "text": "Untergewichtige Person mit Essanfällen und Erbrechen; höchste Gefahr geht von der Elektrolytentgleisung aus.",
+          "assigned": "Bulimia nervosa",
+          "correct": "Anorexia nervosa (bulimischer Typus)",
+          "explanation": "Untergewicht plus Purging ergibt die Anorexie (bulimischer Typus) mit der höchsten Mortalität durch Elektrolytentgleisung – nicht die (meist normalgewichtige) Bulimie."
+        },
+        {
+          "text": "Mann mit exzessivem Muskelaufbau, rigidem Umgang mit Eiweiß und Kalorien und Medikamentenmissbrauch; er empfindet sich als zu schmächtig.",
+          "assigned": "Anorexia nervosa (restriktiver Typus)",
+          "correct": "Körperdysmorphe Störung",
+          "explanation": "Die auf Muskelaufbau zentrierte Störung wird nach ICD-11 als körperdysmorphe Störung eingeordnet, nicht als Essstörung."
+        }
+      ]
+    }
+  ]
+}
