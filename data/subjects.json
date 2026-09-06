@@ -421,6 +421,13 @@
       "title": "Essstörungen differenzieren",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "Anorexie (restriktiv/bulimisch), Bulimie, Binge-Eating und angrenzende Bilder. Ordne Merkmale und Fälle der richtigen Diagnose zu und finde die differenzialdiagnostischen Fehler – Schwerpunkt auf den entscheidenden Abgrenzungsmerkmalen."
+    },
+    {
+      "id": "kl-fragenpool-63",
+      "file": "kl-fragenpool-63.json",
+      "title": "Krankheitslehre – Übungsquiz II (Fragenpool)",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "58 Fragen aus dem Fragenpool des Moduls, Single Best Answer mit 5 Optionen A–E."
     }
   ]
 }
