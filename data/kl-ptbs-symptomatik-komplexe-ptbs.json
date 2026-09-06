@@ -1,0 +1,423 @@
+{
+  "id": "kl-ptbs-symptomatik-komplexe-ptbs",
+  "title": "PTBS II: Symptomatik, Klassifikation & komplexe PTBS",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu den drei Symptomgruppen, den ICD-11-Verschärfungen (was nicht mehr zählt), DSM-5-Subtypen, komplexer PTBS (Störungen der Selbstorganisation) und Verlauf. Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Symptomgruppen",
+      "question": "Aus welchen drei Kern-Symptomgruppen setzt sich die PTBS zusammen?",
+      "options": [
+        "Wiedererleben, Vermeidung und anhaltende Wahrnehmung erhöhter gegenwärtiger Bedrohung",
+        "Manie, Depression und Mischzustand",
+        "Zwangsgedanken, Zwangshandlungen und Kontrollzwänge",
+        "Wahn, Halluzination und Ich-Störung",
+        "Positivsymptomatik, Negativsymptomatik und Desorganisation als die drei Kerndomänen des Störungsbildes"
+      ],
+      "answer": 0,
+      "explanation": "Die drei Kern-Symptomgruppen sind Wiedererleben, Vermeidung und die anhaltende Wahrnehmung einer erhöhten gegenwärtigen Bedrohung (früher Hyperarousal). Wahn/Halluzination/Ich-Störung gehören zur Psychose, Manie/Depression/Mischzustand zu affektiven Störungen, Zwänge zur Zwangsstörung und die vier Domänen zur Schizophrenie."
+    },
+    {
+      "topic": "Wiedererleben",
+      "question": "Was ist das Kernkriterium der Symptomgruppe 'Wiedererleben'?",
+      "options": [
+        "Die anhaltende Schreckhaftigkeit und übermäßige Wachsamkeit",
+        "Die aktive, bewusste Vermeidung von Erinnerungen an das Trauma",
+        "Das bloße, traurig-intrusive und unwillkürliche Sich-Erinnern an das Ereignis, das ganz ohne Flashback auskommt",
+        "Flashbacks und Alpträume, erlebt über Sinnesmodalitäten mit überwältigenden Emotionen",
+        "Die durchgehend gedrückte Stimmung mit Interessenverlust"
+      ],
+      "answer": 3,
+      "explanation": "Kernkriterium des Wiedererlebens sind Flashbacks und Alpträume, die über Sinnesmodalitäten mit überwältigenden Emotionen (Angst, Entsetzen) erlebt werden. Das bloße traurige Sich-Erinnern zählt in der ICD-11 gerade nicht mehr; aktive Vermeidung und Schreckhaftigkeit sind andere Symptomgruppen, und die gedrückte Stimmung gehört zur Depression."
+    },
+    {
+      "topic": "Wiedererleben - ICD-11",
+      "hard": true,
+      "trap": "ICD-11: bloßes trauriges intrusives Sich-Erinnern zählt nicht mehr zum Wiedererleben (zu unspezifisch).",
+      "question": "Welche frühere Form des Wiedererlebens zählt in der ICD-11 NICHT mehr als Kriterium?",
+      "options": [
+        "Der Alptraum mit Traumainhalt",
+        "Das bloße traurige, intrusive und unwillkürliche Sich-Erinnern an das Ereignis",
+        "Der Flashback mit überwältigender Angst und starken körperlichen Empfindungen, der weiterhin zum Kern zählt",
+        "Das Hier-und-Jetzt-Erleben in einer Triggersituation",
+        "Das Wiedererleben über mehrere Sinnesmodalitäten"
+      ],
+      "answer": 1,
+      "explanation": "Das bloße traurige, intrusive Sich-Erinnern (in der ICD-10 als Intrusion definiert) zählt nicht mehr - es ist zu unspezifisch und grenzt schlecht gegen resiliente Traumaüberlebende oder Depressive ab. Flashbacks mit Angst/körperlichen Empfindungen, Alpträume mit Traumainhalt, multisensorisches Wiedererleben und das Hier-und-Jetzt-Erleben bleiben Kern des Wiedererlebens."
+    },
+    {
+      "topic": "Vermeidung",
+      "question": "Was ist das Kernkriterium der Symptomgruppe 'Vermeidung' in der ICD-11?",
+      "options": [
+        "Die allgemeine Abflachung der Reagibilität (numbing)",
+        "Die unwillkürliche Amnesie für zentrale Teile des Ereignisses ohne jede aktive Komponente",
+        "Die aktive, selbst reflektierte Vermeidung von Erinnerungen, Gedanken oder Situationen",
+        "Der Flashback als sensorisches Wiedererleben",
+        "Das Gefühl einer eingeschränkten Zukunft"
+      ],
+      "answer": 2,
+      "explanation": "Kernkriterium der Vermeidung ist die aktive, selbst reflektierte Vermeidung von Erinnerungen, Gedanken oder auslösenden Situationen. Amnesien, das Gefühl eingeschränkter Zukunft und das numbing zählen in der ICD-11 nicht mehr zur Vermeidung (es sind DSM-5-Symptome); der Flashback gehört zum Wiedererleben."
+    },
+    {
+      "topic": "Vermeidung - ICD-11",
+      "hard": true,
+      "trap": "Numbing, Entfremdung, eingeschränkte Zukunft sind DSM-5-Symptome - in der ICD-11 nicht mehr Kriterium der Vermeidung.",
+      "question": "Was wird nach ICD-11 am ehesten NICHT mehr als Kriterium der Vermeidung gewertet?",
+      "options": [
+        "Das selbst reflektierte Meiden traumaassoziierter Gedanken",
+        "Das aktive Vermeiden von Gesprächen über das Ereignis",
+        "Emotionale Taubheit und das Gefühl von Entfremdung (numbing)",
+        "Das bewusste Meiden von Orten, die an das Trauma erinnern",
+        "Das gezielte Ausweichen vor Menschen, die mit dem Trauma verbunden sind"
+      ],
+      "answer": 2,
+      "explanation": "Emotionale Taubheit/Entfremdung (numbing) sowie Interessenverminderung und das Gefühl eingeschränkter Zukunft sind DSM-5-Symptome und zählen in der ICD-11 nicht mehr zur Vermeidung, weil sie schlecht gegen depressive Begleitsymptome abgrenzen. Das aktive, bewusste Meiden von Orten, Gesprächen, Personen und Gedanken bleibt dagegen Kern der Vermeidung."
+    },
+    {
+      "topic": "Bedrohungswahrnehmung",
+      "question": "Wie ist die dritte Symptomgruppe (früher Hyperarousal) in der ICD-11 neu definiert, und was ist ihr Kernkriterium?",
+      "options": [
+        "Als anhaltend gedrückte Stimmung mit Antriebslosigkeit und Freudlosigkeit, wie sie für die depressive Episode kennzeichnend ist",
+        "Als sensorisches Wiedererleben in Form von Flashbacks",
+        "Als aktive Vermeidung traumaassoziierter Situationen",
+        "Als vollständige emotionale Taubheit und sozialer Rückzug",
+        "Als anhaltende Wahrnehmung erhöhter gegenwärtiger Bedrohung mit Schreckhaftigkeit und übermäßiger Wachsamkeit"
+      ],
+      "answer": 4,
+      "explanation": "Die dritte Gruppe ist neu als anhaltende Wahrnehmung einer erhöhten gegenwärtigen Bedrohung definiert; Kernkriterium sind Schreckhaftigkeit und übermäßige Wachsamkeit. Gedrückte Stimmung, emotionale Taubheit, Vermeidung und Flashbacks beschreiben andere Symptomgruppen bzw. eine Depression."
+    },
+    {
+      "topic": "Bedrohungswahrnehmung - ICD-11",
+      "hard": true,
+      "trap": "Reizbarkeit, Konzentrations-/Schlafstörungen, selbstzerstörerisches Verhalten sind zu unspezifisch - kein Kernkriterium mehr.",
+      "question": "Welches frühere Hyperarousal-Symptom wird in der ICD-11 wegen Unspezifität am ehesten NICHT mehr als Kriterium gewertet?",
+      "options": [
+        "Die ständige, angespannte Wachsamkeit gegenüber möglicher Gefahr, die weiterhin als Kernkriterium gilt",
+        "Die übermäßige Schreckhaftigkeit bei unerwarteten Reizen",
+        "Das Gefühl einer anhaltend erhöhten gegenwärtigen Bedrohung",
+        "Das Zusammenzucken bei plötzlichen lauten Geräuschen",
+        "Erhöhte Reizbarkeit sowie Konzentrations- und Schlafschwierigkeiten"
+      ],
+      "answer": 4,
+      "explanation": "Erhöhte Reizbarkeit, selbstzerstörerisches Verhalten sowie Konzentrations- und Schlafschwierigkeiten sind zu unspezifisch und zählen nicht mehr zum Kernkriterium. Schreckhaftigkeit, übermäßige Wachsamkeit, das Gefühl erhöhter gegenwärtiger Bedrohung und das Zusammenzucken bei lauten Geräuschen bleiben kennzeichnend."
+    },
+    {
+      "topic": "Vermeidung - Anwendung",
+      "hard": true,
+      "transfer": true,
+      "trap": "Numbing/emotionale Taubheit ist ein DSM-5-, kein ICD-11-Vermeidungskriterium.",
+      "question": "Nachdem Lara sexuell missbraucht wurde, kann sie kein Gefühl von Liebe mehr empfinden (emotionale Taubheit). Was gilt dafür nach ICD-11 am ehesten?",
+      "options": [
+        "Es schließt eine PTBS-Diagnose vollständig aus",
+        "Es zählt in der ICD-11 eindeutig zur Gruppe der Bedrohungswahrnehmung",
+        "Es wird nach ICD-11 am ehesten NICHT mehr als Vermeidungskriterium gewertet, da es ein DSM-5-Symptom ist",
+        "Es ist das zentrale und wichtigste Vermeidungskriterium der ICD-11 überhaupt und darf keinesfalls weggelassen werden",
+        "Es ist ein klassisches Wiedererlebenssymptom im Sinne eines Flashbacks"
+      ],
+      "answer": 2,
+      "explanation": "Emotionale Taubheit/numbing ist ein DSM-5-Symptom und wird in der ICD-11 nicht mehr als Vermeidungskriterium gewertet (schlechte Abgrenzung zur Depression). Es ist also weder das zentrale Vermeidungskriterium noch ein Wiedererlebens- oder Bedrohungssymptom, und es schließt eine PTBS nicht aus."
+    },
+    {
+      "topic": "Hyperarousal - Anwendung",
+      "transfer": true,
+      "question": "Ein Patient kann nie zur Ruhe kommen und muss ständig die Umgebung 'scannen', ob alles in Ordnung ist. Welcher Symptomgruppe entspricht das am ehesten?",
+      "options": [
+        "Der dissoziativen Amnesie",
+        "Dem Wiedererleben in Form von Flashbacks",
+        "Der anhaltenden Wahrnehmung erhöhter gegenwärtiger Bedrohung (übermäßige Wachsamkeit)",
+        "Der aktiven, selbst reflektierten Vermeidung von Erinnerungen, Gedanken und auslösenden Situationen",
+        "Der depressiven Antriebsminderung"
+      ],
+      "answer": 2,
+      "explanation": "Das ständige 'Scannen' der Umgebung ist übermäßige Wachsamkeit - Ausdruck der anhaltenden Wahrnehmung erhöhter gegenwärtiger Bedrohung. Es ist kein Wiedererleben, keine Vermeidung, keine Amnesie und keine depressive Antriebsminderung."
+    },
+    {
+      "topic": "Wiedererleben - Anwendung",
+      "transfer": true,
+      "question": "Mia hat über Jahre familiäre Gewalt erlebt. Bei der 'heilen' Familie ihres Freundes denkt sie ununterbrochen darüber nach, warum ihr das passiert ist und wie ungerecht das war, und kann diese Gedanken nicht abschütteln. Wie ist das nach ICD-11 am ehesten zu werten?",
+      "options": [
+        "Als eindeutiges Kernkriterium des Wiedererlebens nach ICD-11",
+        "Als klassischer Flashback mit vollem sensorischem Wiedererleben und ausgeprägtem Hier-und-Jetzt-Erleben in der Triggersituation",
+        "Als aktive, selbst reflektierte Vermeidung des Themas",
+        "Am ehesten nicht als Wiedererleben, da es ein grüblerisches Nachdenken ohne sensorischen Flashback-Charakter ist",
+        "Als übermäßige Wachsamkeit im Sinne der Bedrohungswahrnehmung"
+      ],
+      "answer": 3,
+      "explanation": "Grüblerisches, kognitives Nachdenken ohne sensorisches Hier-und-Jetzt-Erleben entspricht nicht dem ICD-11-Wiedererleben (das Flashbacks/Alpträume mit sensorischen und emotionalen Anteilen fordert). Es ist kein sensorischer Flashback, keine Wachsamkeit und keine Vermeidung - und gerade deshalb kein Kernkriterium des Wiedererlebens."
+    },
+    {
+      "topic": "DSM-5 vs. ICD-11",
+      "question": "Welches Kriterium wurde als neues Symptom im DSM-5 (nicht in der ICD-11-Kernsymptomatik) aufgenommen?",
+      "options": [
+        "Die anhaltende Wahrnehmung erhöhter Bedrohung",
+        "Anhaltende dysfunktionale Kognitionen und negative Emotionen",
+        "Die aktive Vermeidung traumaassoziierter Reize und auslösender Situationen im Alltag",
+        "Die Flashbacks als sensorisches Wiedererleben",
+        "Die übermäßige Schreckhaftigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Anhaltende dysfunktionale Kognitionen und negative Emotionen sind ein neues DSM-Kriterium. Flashbacks, Schreckhaftigkeit, Vermeidung und erhöhte Bedrohungswahrnehmung sind dagegen Bestandteile der Kernsymptomatik, die in beiden Systemen (bzw. gerade in der ICD-11) zentral sind."
+    },
+    {
+      "topic": "DSM-5-Subtypen",
+      "question": "Welche zwei Subtypen der PTBS lassen sich nach DSM-5 differenzieren?",
+      "options": [
+        "Die akute Belastungsreaktion und die PTBS",
+        "Der Typ-1- und der Typ-2-Subtyp",
+        "Der intrusive und der dissoziative Subtyp",
+        "Der syndromale und der subsyndromale Subtyp",
+        "Der interpersonelle und der akzidentelle Subtyp"
+      ],
+      "answer": 2,
+      "explanation": "Das DSM-5 unterscheidet einen intrusiven und einen dissoziativen Subtyp. Typ 1/Typ 2 und interpersonell/akzidentell sind Traumatypen (keine PTBS-Subtypen), die akute Belastungsreaktion ist eine eigene Diagnose, und syndromal/subsyndromal beschreibt die Ausprägung der Kriterien (relevant bei der komplexen PTBS), nicht die DSM-5-Subtypen."
+    },
+    {
+      "topic": "Klassifikation ICD-11",
+      "question": "Wie werden die traumaassoziierten Störungen in der ICD-11 klassifikatorisch eingeordnet?",
+      "options": [
+        "Als reine Unterform der depressiven Störungen",
+        "In einem eigenen Kapitel für belastungsassoziierte Störungen statt im früheren unspezifischen Kapitel",
+        "Als eigenständige Gruppe innerhalb der Psychosen",
+        "Weiterhin verstreut über sämtliche Kapitel ohne jede Bündelung wie schon in den früheren Klassifikationssystemen",
+        "Als Teil der neurokognitiven Störungen"
+      ],
+      "answer": 1,
+      "explanation": "Die ICD-11 fasst die traumaassoziierten Störungen in einem eigenen Kapitel für spezifisch belastungsassoziierte Störungen zusammen (statt wie früher im unspezifischen Neurosen-/Belastungskapitel). Sie sind weder über alle Kapitel verstreut noch eine Unterform der Depression, der Psychosen oder der neurokognitiven Störungen."
+    },
+    {
+      "topic": "Verschärfte Kriterien - Ziel",
+      "question": "Welches Ziel verfolgen die schärfer definierten PTBS-Kriterien der ICD-11 am ehesten?",
+      "options": [
+        "Die Gleichsetzung von PTBS und Depression",
+        "Die Abschaffung des Traumakriteriums insgesamt",
+        "Eine möglichst breite Diagnosestellung bei möglichst vielen Menschen ohne Rücksicht auf die Abgrenzung",
+        "Die vollständige Angleichung an die neurokognitiven Störungen",
+        "Eine bessere differenzialdiagnostische Abgrenzung gegenüber anderen Störungen"
+      ],
+      "answer": 4,
+      "explanation": "Die schärferen Kriterien sollen eine bessere differenzialdiagnostische Abgrenzung ermöglichen (z. B. gegen Depression). Eine möglichst breite Diagnosestellung, eine Angleichung an neurokognitive Störungen, die Abschaffung des Traumakriteriums oder eine Gleichsetzung mit der Depression sind nicht das Ziel."
+    },
+    {
+      "topic": "Verschärfte Kriterien - Prävalenz",
+      "trap": "Strengere Kriterien führen nicht zu höheren PTBS-Prävalenzen.",
+      "question": "Welche Aussage zu den Folgen der verschärften ICD-11-Kriterien trifft NICHT zu?",
+      "options": [
+        "Die Prävalenz der PTBS-Diagnose wird durch die strengeren Kriterien höher ausfallen als unter der ICD-10",
+        "Die Kriterien sind schärfer definiert als die Vorgängerkriterien",
+        "Die Änderungen sollen eine trennschärfere Diagnostik ermöglichen",
+        "Veränderte Kriterien ziehen Veränderungen epidemiologischer Daten nach sich, was sich in den Prävalenzschätzungen niederschlägt",
+        "Die Abgrenzung gegenüber depressiven Begleitsymptomen wird verbessert"
+      ],
+      "answer": 0,
+      "explanation": "Strengere, trennschärfere Kriterien führen nicht zu höheren, sondern eher zu niedrigeren bzw. veränderten Prävalenzen - die Behauptung höherer Prävalenzen ist die gesuchte falsche Aussage. Zutreffend sind die trennschärfere Diagnostik, die schärfere Definition, die epidemiologischen Auswirkungen und die bessere Abgrenzung gegen depressive Symptome."
+    },
+    {
+      "topic": "Funktionsbeeinträchtigung",
+      "question": "Welche Rolle spielt die psychosoziale Funktionsbeeinträchtigung für die PTBS-Diagnose?",
+      "options": [
+        "Sie ist ein notwendiges Kriterium; die Funktion ist beeinträchtigt oder nur mit erheblicher zusätzlicher Anstrengung aufrechtzuerhalten",
+        "Sie ist für die Diagnose einer PTBS vollkommen unerheblich",
+        "Sie liegt definitionsgemäß nur bei der komplexen, nicht bei der klassischen PTBS vor und ist für die klassische Diagnose ohne jede Bedeutung",
+        "Sie ist nur bei Kindern, nicht bei Erwachsenen gefordert",
+        "Sie ersetzt vollständig das Erfordernis einer traumatischen Erfahrung"
+      ],
+      "answer": 0,
+      "explanation": "Die Störung muss zu einer erheblichen Beeinträchtigung wichtiger Funktionsbereiche führen - oder die Funktion ist nur durch erhebliche zusätzliche Anstrengung aufrechtzuerhalten. Sie ist also nicht unerheblich, ersetzt nicht das Traumakriterium, gilt nicht nur für Kinder und nicht nur für die komplexe PTBS."
+    },
+    {
+      "topic": "PTBS bei Kindern",
+      "transfer": true,
+      "question": "Ein traumatisiertes Kind spielt das belastende Ereignis immer wieder nach und erlebt allgemeine Angstträume. Wie ist das im Rahmen des kindlichen PTBS-Subtyps am ehesten zu werten?",
+      "options": [
+        "Als übermäßige Wachsamkeit gegenüber Gefahr",
+        "Als aktive, selbst reflektierte Vermeidung des Themas",
+        "Als sicherer Beleg gegen eine PTBS, da Kinder keine PTBS entwickeln können und für Traumafolgen grundsätzlich unempfänglich sind",
+        "Als reine Verhaltensstörung ohne jeden Traumabezug",
+        "Als altersspezifisches Wiedererleben: Reinszenierung im Spiel und Angstträume können als Intrusion gelten"
+      ],
+      "answer": 4,
+      "explanation": "Beim kindlichen Subtyp kann statt szenischer Alpträume mit Traumainhalt jeder Angsttraum als Intrusion gewertet werden, und die Reinszenierung des Traumas im Spiel gilt als Wiedererleben. Kinder können sehr wohl eine PTBS entwickeln; es ist weder eine bloße Verhaltensstörung noch Vermeidung oder Wachsamkeit."
+    },
+    {
+      "topic": "Komplexe PTBS",
+      "question": "Wodurch unterscheidet sich die komplexe PTBS (ICD-11) von der klassischen PTBS?",
+      "options": [
+        "Durch den ausschließlichen Bezug auf ein einmaliges Typ-1-Trauma",
+        "Durch eine grundsätzlich bessere Prognose als die klassische PTBS",
+        "Durch das Fehlen jeder Funktionsbeeinträchtigung",
+        "Durch das vollständige Fehlen jeglicher Wiedererlebens- oder Vermeidungssymptome bei ausschließlich körperlicher Symptomatik",
+        "Durch drei Zusatzkriterien, die Störungen der Selbstorganisation, zusätzlich zu den klassischen PTBS-Kriterien"
+      ],
+      "answer": 4,
+      "explanation": "Die komplexe PTBS umfasst die klassischen PTBS-Kriterien (syndromal oder subsyndromal) plus drei Zusatzkriterien - die Störungen der Selbstorganisation. Sie ist nicht durch das Fehlen der Kernsymptome, einen Bezug auf ein einmaliges Trauma, fehlende Funktionsbeeinträchtigung oder eine bessere Prognose gekennzeichnet."
+    },
+    {
+      "topic": "Komplexe PTBS - DSO",
+      "hard": true,
+      "question": "Welche drei Bereiche umfassen die 'Störungen der Selbstorganisation' bei der komplexen PTBS?",
+      "options": [
+        "Affektregulation, interpersonelle Schwierigkeiten und negative Selbstwahrnehmung",
+        "Neurokognitive Defizite, Desorganisation und Negativsymptomatik",
+        "Wahn, Halluzination und Ich-Störung",
+        "Zwangsgedanken, Zwangshandlungen und Kontrollzwänge",
+        "Antriebssteigerung, Ideenflucht und vermindertes Schlafbedürfnis im Sinne einer manischen Episode"
+      ],
+      "answer": 0,
+      "explanation": "Die Störungen der Selbstorganisation umfassen Störungen der Affektregulation, interpersonelle Schwierigkeiten und eine negative Selbstwahrnehmung. Die anderen Trias gehören zur Psychose, zur Zwangsstörung, zur Manie bzw. zur Schizophrenie."
+    },
+    {
+      "topic": "Komplexe PTBS - Affektregulation",
+      "question": "Wie äußert sich die gestörte Affektregulation bei der komplexen PTBS?",
+      "options": [
+        "Eine euphorisch-gehobene Stimmung mit gesteigertem Selbstwertgefühl",
+        "Ein völliges Fehlen jeglicher emotionaler Reaktion",
+        "Erhöhte Erregbarkeit und Ärger, eingeschränkte Feinabstufung von Gefühlen, teils selbstschädigendes Verhalten",
+        "Eine durchgehend flache, gleichbleibende Stimmung ganz ohne Erregbarkeit und ohne jede selbstschädigende Impulsivität",
+        "Eine ausschließlich positive, überschwängliche Affektlage"
+      ],
+      "answer": 2,
+      "explanation": "Die gestörte Affektregulation zeigt sich in erhöhter Erregbarkeit/Ärger, eingeschränkter Feinabstufung von Gefühlsausdrücken und teils selbstschädigendem Verhalten. Eine durchgehend flache, euphorische, fehlende oder rein positive Affektlage beschreibt das gerade nicht."
+    },
+    {
+      "topic": "Komplexe PTBS - Selbstwahrnehmung",
+      "question": "Wie ist die negative Selbstwahrnehmung als Zusatzkriterium der komplexen PTBS zu verstehen?",
+      "options": [
+        "Als anhaltende Überzeugung, ein beschädigtes, nicht reparierbares Leben zu führen, mit Scham- und Schuldgefühlen",
+        "Als rein körperbezogene Fehlwahrnehmung der eigenen Figur",
+        "Als wahnhafte Überzeugung, von anderen verfolgt zu werden",
+        "Als überhöhtes, grandioses Selbstbild mit Größenideen",
+        "Als vollständig stabiles und unbeeinträchtigtes Selbstwertgefühl ganz ohne jegliche Scham-, Schuld- oder Minderwertigkeitsgefühle"
+      ],
+      "answer": 0,
+      "explanation": "Die negative Selbstwahrnehmung meint anhaltende Minderwertigkeits-, Scham- und Schuldgefühle bis zur Überzeugung, ein beschädigtes, nicht mehr reparierbares Leben zu führen. Ein grandioses Selbstbild, ein stabiles Selbstwertgefühl, eine körperbezogene Fehlwahrnehmung oder ein Verfolgungswahn treffen nicht zu."
+    },
+    {
+      "topic": "Komplexe PTBS - subsyndromal",
+      "hard": true,
+      "question": "Warum können die klassischen PTBS-Kriterien bei der komplexen PTBS auch nur subsyndromal vorliegen?",
+      "options": [
+        "Weil subsyndromal bedeutet, dass gar keine Symptome vorliegen",
+        "Weil die komplexe PTBS ausschließlich aus den Zusatzkriterien besteht",
+        "Weil die komplexe PTBS keine Traumavorgeschichte voraussetzt",
+        "Weil die klassischen Kriterien bei der komplexen PTBS grundsätzlich völlig fehlen dürfen und entbehrlich sind",
+        "Weil z. B. Intrusionen nach langer vergangener Zeit nicht mehr voll ausgeprägt sein müssen"
+      ],
+      "answer": 4,
+      "explanation": "Die klassischen Kriterien müssen syndromal oder subsyndromal vorliegen, weil z. B. Intrusionen nach langer Zeit nicht immer noch voll vorhanden sind. Das heißt nicht, dass sie völlig fehlen dürfen, dass die komplexe PTBS nur aus Zusatzkriterien besteht, dass subsyndromal 'keine Symptome' bedeutet oder dass keine Traumavorgeschichte nötig ist."
+    },
+    {
+      "topic": "Komplexe PTBS - Anwendung",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine Patientin mit langjähriger Missbrauchsgeschichte zeigt PTBS-Symptome plus ausgeprägte Probleme, Beziehungen aufzubauen, starke Selbstabwertung und Schwierigkeiten, ihre Gefühle zu regulieren. Welche Diagnose ist am ehesten zu erwägen?",
+      "options": [
+        "Eine reine akute Belastungsreaktion",
+        "Eine ausschließlich depressive Episode ohne Traumabezug",
+        "Eine klassische PTBS ohne jede zusätzliche Symptomatik",
+        "Eine komplexe PTBS mit Störungen der Selbstorganisation",
+        "Eine Schizophrenie mit Negativsymptomatik"
+      ],
+      "answer": 3,
+      "explanation": "PTBS-Symptome plus die drei Störungen der Selbstorganisation (Affektregulation, interpersonelle Schwierigkeiten, negative Selbstwahrnehmung) nach langandauernder Traumatisierung sprechen für eine komplexe PTBS. Eine klassische PTBS hätte diese Zusatzsymptome nicht, eine akute Belastungsreaktion wäre kurzfristig, und weder eine rein depressive Episode noch eine Schizophrenie erklären das Bild."
+    },
+    {
+      "topic": "Verlauf",
+      "hard": true,
+      "trap": "Die PTBS hat eine beachtliche Chronifizierungsneigung - nicht jede remittiert von selbst.",
+      "question": "Was ist für den Verlauf der PTBS charakteristisch?",
+      "options": [
+        "Eine PTBS verschlechtert sich ausnahmslos immer weiter, eine Besserung ist ausgeschlossen und sie chronifiziert in jedem Fall",
+        "Der Verlauf ist bei allen Betroffenen identisch und exakt vorhersagbar",
+        "Praktisch alle Betroffenen sind binnen weniger Wochen vollständig beschwerdefrei",
+        "Ein Teil remittiert, es besteht aber eine beachtliche Chronifizierungsneigung mit teils jahrelanger Persistenz",
+        "Eine Chronifizierung kommt bei der PTBS grundsätzlich nicht vor"
+      ],
+      "answer": 3,
+      "explanation": "Ein Teil der Betroffenen wird beschwerdefrei, doch es besteht eine beachtliche Chronifizierungsneigung - bei einem Teil persistiert die Symptomatik noch Jahre. Eine vollständige Remission bei allen binnen Wochen, ein grundsätzliches Fehlen von Chronifizierung, ein für alle identischer Verlauf oder eine ausnahmslose Verschlechterung treffen nicht zu."
+    },
+    {
+      "topic": "Verlauf - Prädiktoren",
+      "hard": true,
+      "trap": "Je komplexer die Traumatisierung, desto ungünstiger der Verlauf.",
+      "question": "Welche Faktoren sprechen für einen eher UNGÜNSTIGEN Verlauf einer (komplexen) PTBS?",
+      "options": [
+        "Eine tragfähige soziale Unterstützung",
+        "Ein sehr schweres Trauma, mehrere Traumata und ein junges Alter bei Traumatisierung",
+        "Ein spätes Erwachsenenalter mit stabilen Ressourcen und tragfähiger sozialer Unterstützung",
+        "Ein einmaliges, leichtes und akzidentelles Trauma",
+        "Eine gute Fähigkeit zur Emotionsregulation"
+      ],
+      "answer": 1,
+      "explanation": "Ungünstig sind ein sehr schweres Trauma, mehrere Traumata und ein junges Alter bei Traumatisierung - je komplexer die Traumatisierung, desto ungünstiger der Verlauf. Gute Emotionsregulation, soziale Unterstützung, ein einmaliges leichtes Trauma und stabile Ressourcen wirken dagegen eher schützend."
+    },
+    {
+      "topic": "Verlauf - Schutzfaktoren",
+      "question": "Welcher Faktor wirkt sich günstig auf den Verlauf einer PTBS aus?",
+      "options": [
+        "Eine gute Fähigkeit zur Emotionsregulation und tragfähige soziale Unterstützung",
+        "Ein sehr junges Alter zum Zeitpunkt des Traumas",
+        "Eine besonders schwere und mehrfache Traumatisierung über einen langen Zeitraum hinweg",
+        "Eine ausgeprägte Störung der Affektregulation",
+        "Das vollständige Fehlen jeder sozialen Bindung"
+      ],
+      "answer": 0,
+      "explanation": "Günstig sind eine gute Emotionsregulationsfähigkeit und soziale Unterstützung. Eine schwere/mehrfache Traumatisierung, ein sehr junges Alter, fehlende soziale Bindung und eine gestörte Affektregulation sind dagegen ungünstige Faktoren."
+    },
+    {
+      "topic": "Akute Belastungsreaktion",
+      "transfer": true,
+      "question": "Unmittelbar nach einem Überfall ist ein Mann für einige Tage stark aufgewühlt, schreckhaft und fahrig; nach gut einer Woche klingt das weitgehend ab. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als eindeutige Schizophrenie mit akuter Symptomatik",
+        "Am ehesten als akute Belastungsreaktion, nicht als PTBS",
+        "Als voll ausgebildete komplexe PTBS mit Störungen der Selbstorganisation",
+        "Als chronifizierte PTBS mit jahrelanger Persistenz",
+        "Als dissoziative Identitätsstörung"
+      ],
+      "answer": 1,
+      "explanation": "Eine unmittelbar nach dem Ereignis auftretende, kurzdauernde und rasch abklingende Belastungssymptomatik entspricht am ehesten einer akuten Belastungsreaktion; eine PTBS setzt eine länger anhaltende Symptomatik voraus. Eine komplexe oder chronifizierte PTBS, eine dissoziative Identitätsstörung oder eine Schizophrenie passen nicht zum kurzen, selbstlimitierenden Verlauf."
+    },
+    {
+      "topic": "Wiedererleben - Abgrenzung",
+      "transfer": true,
+      "question": "In einer Triggersituation sieht ein Patient plötzlich im Gegenüber den Täter von damals und beginnt panisch zu schreien. Welchem Symptom entspricht das am ehesten?",
+      "options": [
+        "Einer dissoziativen Amnesie für den Täter",
+        "Einer übermäßigen Wachsamkeit ohne jeden Wiedererlebensanteil gegenüber möglicher Gefahr",
+        "Einer aktiven, bewussten Vermeidung der Situation",
+        "Einem Flashback im Sinne des Wiedererlebens mit Hier-und-Jetzt-Charakter",
+        "Einer rein depressiven Reaktion ohne Traumabezug"
+      ],
+      "answer": 3,
+      "explanation": "Das triggerausgelöste, überwältigende Wiedererleben, bei dem der Täter 'im Hier und Jetzt' gesehen wird, ist ein Flashback (Wiedererleben). Es ist keine Vermeidung, keine rein depressive Reaktion, keine Amnesie und mehr als bloße Wachsamkeit - der Wiedererlebensanteil steht im Vordergrund."
+    },
+    {
+      "topic": "Vermeidung - Anwendung",
+      "transfer": true,
+      "question": "Nach einem Überfall im Park verlässt Paul aus Angst kaum noch die Wohnung und meidet konsequent alle Orte, die ihn an das Ereignis erinnern könnten. Welchem PTBS-Symptom entspricht das am ehesten?",
+      "options": [
+        "Einem Flashback im Sinne des sensorischen Wiedererlebens",
+        "Der aktiven, selbst reflektierten Vermeidung",
+        "Einer dissoziativen Amnesie für das Ereignis",
+        "Einer rein depressiven Antriebsminderung",
+        "Der anhaltenden Wahrnehmung einer erhöhten gegenwärtigen Bedrohung mit ständiger Wachsamkeit und Schreckhaftigkeit gegenüber jeder möglichen Gefahr"
+      ],
+      "answer": 1,
+      "explanation": "Das bewusste Meiden von Orten und Situationen, die an das Trauma erinnern, ist die aktive, selbst reflektierte Vermeidung. Ständige Wachsamkeit/Schreckhaftigkeit gehört zur Bedrohungswahrnehmung, ein Flashback zum Wiedererleben, eine Amnesie ist ein Erinnerungsverlust, und eine depressive Antriebsminderung hätte keinen traumaspezifischen Vermeidungscharakter."
+    },
+    {
+      "topic": "Komplexe PTBS - interpersonell",
+      "question": "Wie äußern sich die interpersonellen Schwierigkeiten als Zusatzkriterium der komplexen PTBS?",
+      "options": [
+        "In einem gesteigerten, überschwänglichen Kontaktbedürfnis mit besonders leicht gelingendem und stabilem Beziehungsaufbau zu praktisch allen Menschen",
+        "In rein körperlichen Symptomen ganz ohne sozialen Bezug",
+        "In einer völlig unbeeinträchtigten, stabilen Beziehungsgestaltung",
+        "In einer Unfähigkeit zu vertrauen und Schwierigkeiten, tragfähige Beziehungen aufzubauen und zu halten",
+        "In wahnhaften Verfolgungsideen gegenüber allen Bezugspersonen"
+      ],
+      "answer": 3,
+      "explanation": "Die interpersonellen Schwierigkeiten zeigen sich in einer Unfähigkeit zu vertrauen, einer Anfälligkeit für überspannte Ansichten und erschwerten, instabilen Beziehungen. Ein gesteigertes, mühelos gelingendes Kontaktverhalten, wahnhafte Verfolgungsideen, eine unbeeinträchtigte Beziehungsgestaltung oder rein körperliche Symptome beschreiben das Kriterium nicht."
+    }
+  ]
+}

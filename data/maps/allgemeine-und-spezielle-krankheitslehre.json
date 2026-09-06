@@ -94,6 +94,9 @@
       "group": "speziell",
       "order": 4,
       "quizIds": [
+        "kl-ptbs-trauma-grundlagen",
+        "kl-ptbs-symptomatik-komplexe-ptbs",
+        "kl-ptbs-dissoziation-dd-therapie",
         "kl-zuordnung-persoenlichkeit-trauma"
       ]
     },
