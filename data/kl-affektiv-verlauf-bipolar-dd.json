@@ -1,0 +1,422 @@
+{
+  "id": "kl-affektiv-verlauf-bipolar-dd",
+  "title": "Affektive Störungen II: Verlaufsformen, Bipolar & Differenzialdiagnostik",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Dysthymie/Zyklothymie/persistierender depressiver Störung/Double Depression, psychotischer Depression, Manie/Hypomanie/Bipolar I und II, Rapid Cycling sowie der Abgrenzung schizoaffektiv/psychotisch-affektiv/schizophren und Trauer. Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Chronische Verläufe",
+      "question": "Wie groß ist der Anteil der Depressionen, die einen chronischen Verlauf nehmen?",
+      "options": [
+        "Etwa 20-30 %",
+        "Praktisch keine, chronische Verläufe kommen nicht vor",
+        "Genau 50 % aller Depressionen",
+        "Ausschließlich die psychotischen Depressionen",
+        "Die überwiegende Mehrheit von mehr als 80 %"
+      ],
+      "answer": 0,
+      "explanation": "Etwa 20-30 % aller Depressionen nehmen einen chronischen Verlauf. Ein völliges Fehlen chronischer Verläufe, eine Mehrheit über 80 %, exakt die Hälfte oder eine Beschränkung auf psychotische Depressionen treffen nicht zu."
+    },
+    {
+      "topic": "Dysthymie",
+      "hard": true,
+      "trap": "Dysthymie: min. 2 Jahre depressive Symptome, die die Kriterien einer Major Depression NICHT erfüllen.",
+      "question": "Was kennzeichnet die Dysthymie?",
+      "options": [
+        "Kurze, schwere depressive Episoden mit vollständiger Remission dazwischen",
+        "Über mindestens zwei Jahre depressive Symptome, die die Kriterien einer Major Depression nicht erfüllen",
+        "Eine einzelne schwere depressive Episode mit psychotischen Symptomen",
+        "Ein Wechsel von depressiven und manischen Episoden",
+        "Über mindestens zwei Jahre durchgehend voll erfüllte Kriterien einer Major Depression ohne jede Unterbrechung"
+      ],
+      "answer": 1,
+      "explanation": "Die Dysthymie besteht aus mindestens zwei Jahren depressiver Symptome, die die Kriterien einer Major Depression gerade nicht erfüllen (unterschwellig-chronisch). Anhaltend voll erfüllte MD-Kriterien beschreiben die persistierende depressive Störung; kurze schwere Episoden, ein depressiv-manischer Wechsel oder eine einzelne psychotische Episode sind etwas anderes."
+    },
+    {
+      "topic": "Zyklothymie",
+      "question": "Wie lässt sich die Zyklothymie am ehesten beschreiben?",
+      "options": [
+        "Als rein depressive chronische Symptomatik ganz ohne gehobene Phasen",
+        "Als psychotische Störung mit bizarrem Wahn",
+        "Als Wechsel voll ausgeprägter manischer und schwerer depressiver Episoden mit vollständiger Gesundung in den Intervallen dazwischen",
+        "Als einzelne hypomane Episode ohne jede depressive Phase",
+        "Als chronische Stimmungsschwankung mit unterschwelligen depressiven und hypomanen Phasen unterhalb der vollen Schwellen"
+      ],
+      "answer": 4,
+      "explanation": "Die Zyklothymie ist das Pendant zur Dysthymie im bipolaren Spektrum: chronische Schwankungen mit unterschwelligen depressiven und (noch nicht voll hypomanen) gehobenen Phasen. Voll ausgeprägte Episoden (Bipolar I), eine rein depressive Symptomatik (Dysthymie), eine einzelne Hypomanie oder eine psychotische Störung treffen nicht zu."
+    },
+    {
+      "topic": "Dysthymie als Risikofaktor",
+      "hard": true,
+      "question": "Welche Aussage zur Dysthymie als Risikofaktor trifft zu?",
+      "options": [
+        "Sie bleibt in aller Regel dauerhaft eine reine, isolierte Dysthymie",
+        "Sie geht ausnahmslos in eine bipolare Störung über",
+        "Sie hat mit dem Risiko für eine Major Depression nichts zu tun",
+        "Sie ist ein Schutzfaktor, der eine spätere Major Depression verhindert und das Erkrankungsrisiko deutlich senkt",
+        "Sie ist ein Risikofaktor für eine Major Depression; eine reine Dysthymie bleibt die Ausnahme"
+      ],
+      "answer": 4,
+      "explanation": "Die Dysthymie ist ein Risikofaktor für die Major Depression (wie auch Residualsymptome nach Therapie); eine reine Dysthymie ist die Ausnahme, da über zehn Jahre über 95 % eine depressive Episode entwickeln. Sie ist kein Schutzfaktor, bleibt selten isoliert, ist nicht risikoneutral und geht nicht zwingend in eine bipolare Störung über."
+    },
+    {
+      "topic": "Double Depression",
+      "transfer": true,
+      "question": "Eine Patientin hat seit Jahren eine unterschwellige chronische depressive Symptomatik und entwickelt nun zusätzlich eine voll ausgeprägte depressive Episode. Wie wird das bezeichnet?",
+      "options": [
+        "Als bipolare Störung",
+        "Als Double Depression",
+        "Als persistierende depressive Störung",
+        "Als Zyklothymie",
+        "Als reine Dysthymie"
+      ],
+      "answer": 1,
+      "explanation": "Eine Dysthymie plus zusätzlich aufgesetzte Major Depression ist die Double Depression. Die persistierende depressive Störung meint anhaltend voll erfüllte Episodenkriterien, die reine Dysthymie hätte keine aufgesetzte MD, eine bipolare Störung erforderte eine (hypo-)manische Episode, und die Zyklothymie gehört ins bipolare Spektrum."
+    },
+    {
+      "topic": "Persistierende depressive Störung",
+      "hard": true,
+      "trap": "Persistierende depressive Störung: Kriterien einer Episode ANHALTEND ≥ 2 Jahre erfüllt - Unterschied zur Dysthymie (unterschwellig).",
+      "question": "Worin unterscheidet sich die persistierende depressive Störung von der Dysthymie?",
+      "options": [
+        "Sie dauert definitionsgemäß höchstens einige Wochen",
+        "Bei ihr sind die Kriterien einer depressiven Episode anhaltend über mindestens zwei Jahre erfüllt",
+        "Sie tritt ausschließlich mit psychotischen Symptomen auf",
+        "Bei ihr bleiben die Symptome dauerhaft unterhalb der Schwelle einer Major Depression wie bei der Dysthymie",
+        "Sie ist durch einen Wechsel mit hypomanen Phasen gekennzeichnet"
+      ],
+      "answer": 1,
+      "explanation": "Bei der persistierenden depressiven Störung sind die Kriterien einer depressiven Episode anhaltend über mindestens zwei Jahre erfüllt - das ist der Unterschied zur unterschwelligen Dysthymie. Ein dauerhaftes Unterschwellig-Bleiben beschreibt die Dysthymie; eine Dauer von Wochen, hypomane Phasen oder obligate psychotische Symptome treffen nicht zu."
+    },
+    {
+      "topic": "Persistierend - DSM/ICD",
+      "question": "Worin unterscheiden sich DSM-5 und ICD-11 bei den chronischen depressiven Subtypen?",
+      "options": [
+        "Das DSM-5 kennt überhaupt keine persistierende depressive Störung",
+        "Die ICD-11 fasst wie das DSM-5 alle chronischen depressiven Subtypen in einer einzigen einheitlichen Kategorie mit identischer Kennzeichnung zusammen",
+        "Die ICD-11 fasst die chronischen Subtypen nicht zusammen; die Kennzeichnung gilt dort nur für depressive Episoden ohne Remission",
+        "Beide Systeme behandeln chronische Depressionen exakt identisch",
+        "Die ICD-11 kennt gar keine chronischen depressiven Verläufe"
+      ],
+      "answer": 2,
+      "explanation": "Im Unterschied zum DSM-5 fasst die ICD-11 die chronischen Subtypen (einschließlich Dysthymie und rezidivierender Depression mit partieller Remission) nicht zusammen; die Kennzeichnung 'persistierende depressive Episode' gilt dort ausschließlich für depressive Episoden ohne Remission. Eine Zusammenfassung wie im DSM, ein Fehlen der Diagnose im DSM, eine identische Behandlung oder ein Fehlen chronischer Verläufe in der ICD-11 treffen nicht zu.",
+      "hard": true
+    },
+    {
+      "topic": "Psychotische Depression - Wahnformen",
+      "question": "Welche Wahnformen sind bei der psychotischen Depression am häufigsten?",
+      "options": [
+        "Größenwahn, Abstammungswahn und Beziehungswahn im Rahmen einer gehobenen Stimmung",
+        "Ausschließlich der nihilistische Wahn",
+        "Bizarrer Wahn ohne jeden Stimmungsbezug",
+        "Schuldwahn, Verarmungswahn und hypochondrischer Wahn",
+        "Verfolgungswahn im Rahmen getriebener Erregung"
+      ],
+      "answer": 3,
+      "explanation": "Häufige synthyme depressive Wahnformen sind Schuld-, Verarmungs- und hypochondrischer Wahn (seltener nihilistischer und Verkleinerungswahn). Größen-, Abstammungs-, Beziehungs- und Verfolgungswahn gehören zur Manie, der bizarre stimmungsunabhängige Wahn zur Schizophrenie, und der nihilistische Wahn ist bei der Depression eher selten."
+    },
+    {
+      "topic": "Synthymer Wahn",
+      "hard": true,
+      "trap": "Affektive Wahnformen sind zu ca. 90 % synthym (stimmungskongruent), nur ca. 10 % dysthym.",
+      "question": "Wie verteilen sich die Wahnformen bei affektiven Störungen auf synthym und dysthym?",
+      "options": [
+        "Ausschließlich dysthym, synthyme Formen kommen nicht vor",
+        "Etwa 90 % synthym (stimmungskongruent), etwa 10 % dysthym",
+        "Sie sind stets bizarr und lassen sich nicht als synthym oder dysthym einordnen",
+        "Genau zur Hälfte synthym und zur Hälfte dysthym",
+        "Etwa 90 % dysthym, etwa 10 % synthym"
+      ],
+      "answer": 1,
+      "explanation": "Etwa 90 % der affektiven Wahnformen sind synthym (stimmungskongruent), nur etwa 10 % dysthym - das passt zur Abgrenzung von der Schizophrenie. Eine umgekehrte Verteilung, eine hälftige Aufteilung, ausschließlich dysthyme Formen oder eine grundsätzliche Bizarrheit treffen nicht zu."
+    },
+    {
+      "topic": "Synthyme Halluzinationen",
+      "question": "Was gilt für Halluzinationen bei der psychotischen Depression?",
+      "options": [
+        "Es treten typischerweise szenische optische Halluzinationen ganz ohne inhaltlichen Bezug zum jeweiligen Wahnthema auf",
+        "Halluzinationen kommen bei der Depression grundsätzlich nicht vor",
+        "Die Halluzinationen sind stets bizarr und stimmungsinkongruent",
+        "Es können synthyme akustische Halluzinationen auftreten, die zum Wahnthema passen ('du bist schuldig')",
+        "Es handelt sich ausschließlich um imperative Stimmen ohne inhaltlichen Bezug"
+      ],
+      "answer": 3,
+      "explanation": "Bei der psychotischen Depression können synthyme akustische Halluzinationen auftreten, die zum Wahnthema passen (z. B. 'du bist schuldig', 'du wirst sterben'). Szenische optische Halluzinationen ohne Bezug, ein grundsätzliches Fehlen, stets bizarre/inkongruente oder rein imperative Stimmen treffen nicht zu."
+    },
+    {
+      "topic": "Psychotische Depression - Kodierbarkeit",
+      "question": "Ab welchem Schweregrad ist die psychotische Depression kodierbar?",
+      "options": [
+        "In beiden Systemen bereits bei leichter Depression",
+        "In der ICD-11 nur bei leichter Depression",
+        "Ausschließlich bei der Dysthymie",
+        "Psychotische Symptome sind bei der Depression grundsätzlich nicht kodierbar und kommen dort nie vor",
+        "In der ICD-10 nur bei schwerer, in der ICD-11 bei mittlerer und schwerer Depression"
+      ],
+      "answer": 4,
+      "explanation": "Die psychotische Depression ist in der ICD-10 nur bei schwerer, in der ICD-11 bei mittlerer und schwerer Depression kodierbar. Eine Kodierung schon bei leichter Depression, eine Bindung an die Dysthymie, eine Beschränkung auf leichte Depression in der ICD-11 oder eine grundsätzliche Nicht-Kodierbarkeit sind falsch."
+    },
+    {
+      "topic": "Psychotische Symptome bei Depression",
+      "question": "Welche Aussage zu psychotischen Symptomen bei der Depression trifft zu?",
+      "options": [
+        "Als psychotische Symptome sind nur Wahn und Halluzinationen gelistet; das Katatonie-Kriterium (depressiver Stupor) wurde eliminiert",
+        "Psychotische Symptome sind bei der Depression definitionsgemäß ausgeschlossen",
+        "Der depressive Stupor ist das wichtigste psychotische Kriterium der Depression",
+        "Ich-Störungen sind ein Kernmerkmal der psychotischen Depression",
+        "Zu den psychotischen Symptomen zählen auch formale Denkstörungen wie Neologismen, ausgeprägte Ich-Störungen und deutlich zerfahrenes Denken"
+      ],
+      "answer": 0,
+      "explanation": "Als psychotische Symptome der Depression sind nur Wahn und Halluzinationen gelistet; das Katatonie-Kriterium (depressiver Stupor) wurde eliminiert. Der Stupor ist damit nicht das Kernkriterium, formale Denkstörungen und Ich-Störungen gehören nicht dazu, und psychotische Symptome sind bei schwerer (bzw. mittlerer) Depression gerade nicht ausgeschlossen."
+    },
+    {
+      "topic": "Manie - Zeitkriterium",
+      "question": "Welche Mindestdauer gilt für eine manische Episode?",
+      "options": [
+        "Mindestens 14 Tage",
+        "Mindestens 2 Stunden",
+        "Mindestens 4 Tage",
+        "Mindestens 7 Tage",
+        "Mindestens 6 Monate"
+      ],
+      "answer": 3,
+      "explanation": "Die manische Episode fordert mindestens 7 Tage (oder einen Krankenhausaufenthalt), die hypomanische mindestens 4 Tage. 14 Tage gelten für die depressive Episode; zwei Stunden oder sechs Monate sind keine Manie-Zeitkriterien."
+    },
+    {
+      "topic": "Manie mit psychotischen Symptomen",
+      "question": "Welche Wahnformen treten typischerweise bei der Manie mit psychotischen Symptomen auf?",
+      "options": [
+        "Schuldwahn, Verarmungswahn und hypochondrischer Wahn",
+        "Nihilistischer Wahn und Verkleinerungswahn",
+        "Gar keine Wahnformen, da die Manie nie psychotisch verläuft und immer ohne psychotische Symptome bleibt",
+        "Größenwahn, Abstammungswahn und - bei stark getriebenen Zuständen - Verfolgungswahn",
+        "Ausschließlich bizarrer Wahn ohne Stimmungsbezug"
+      ],
+      "answer": 3,
+      "explanation": "Bei der Manie treten synthym Größen-, Abstammungs- und Beziehungswahn auf, bei stark getriebenen Zuständen auch Verfolgungswahn. Schuld-/Verarmungs-/hypochondrischer sowie nihilistischer/Verkleinerungswahn sind depressive Formen, ein rein bizarrer Wahn spricht für Schizophrenie, und die Manie kann sehr wohl psychotisch verlaufen."
+    },
+    {
+      "topic": "Hypomanie",
+      "question": "Wodurch unterscheidet sich die Hypomanie von der Manie?",
+      "options": [
+        "Sie ist kürzer und leichter, ohne ausgeprägte Funktionsbeeinträchtigung und ohne psychotische Symptome",
+        "Sie ist mit einer schweren beruflichen und sozialen Beeinträchtigung verbunden und erfordert meist einen Krankenhausaufenthalt",
+        "Sie erfordert stets einen Krankenhausaufenthalt",
+        "Sie ist schwerer und länger als die Manie und geht mit Wahn einher",
+        "Sie ist definitionsgemäß immer mit psychotischen Symptomen verbunden"
+      ],
+      "answer": 0,
+      "explanation": "Die Hypomanie ist kürzer (min. 4 Tage) und leichter, ohne ausgeprägte Funktionsbeeinträchtigung, ohne Krankenhausbedürftigkeit und ohne psychotische Symptome. Sie ist damit nicht schwerer/länger, erfordert keinen Klinikaufenthalt, ist nicht psychotisch und geht nicht mit schwerer Beeinträchtigung einher."
+    },
+    {
+      "topic": "Bipolar - Diagnosestellung",
+      "trap": "Ab der ersten manischen Episode wird eine bipolare Störung diagnostiziert - eine rezidivierende Manie gibt es nicht.",
+      "transfer": true,
+      "question": "Ein Patient mit mehreren zurückliegenden depressiven Episoden erleidet nun erstmals eine voll ausgeprägte manische Episode. Was gilt für die Diagnose?",
+      "options": [
+        "Nur wenn manische und depressive Episoden exakt gleich häufig auftreten und sich regelmäßig abwechseln",
+        "Ab der ersten manischen Episode; eine rezidivierende manische Störung gibt es nicht",
+        "Erst nach mindestens drei manischen Episoden",
+        "Ausschließlich bei gleichzeitigem Vorliegen psychotischer Symptome",
+        "Erst wenn ein Rapid Cycling nachgewiesen ist"
+      ],
+      "answer": 1,
+      "explanation": "Bereits ab der ersten manischen Episode (auch nach vorherigen Depressionen, ebenso nach der zweiten Manie ohne Depression) wird eine bipolare Störung diagnostiziert - eine rezidivierende manische Störung gibt es nicht (es wird ein rezidivierender Verlauf angenommen). Drei Episoden, gleiche Häufigkeit, psychotische Symptome oder Rapid Cycling sind nicht Voraussetzung."
+    },
+    {
+      "topic": "Bipolar I vs. II",
+      "question": "Worin unterscheiden sich Bipolar I und Bipolar II?",
+      "options": [
+        "Bipolar I umfasst voll ausgeprägte manische Episoden, Bipolar II hypomane Episoden plus depressive Episoden",
+        "Bipolar I verläuft ausschließlich depressiv, Bipolar II ausschließlich manisch, ohne dass sich beide je überschneiden",
+        "Bipolar I tritt nur bei Männern, Bipolar II nur bei Frauen auf",
+        "Beide Typen sind identisch und werden nur unterschiedlich benannt",
+        "Bipolar I umfasst nur Hypomanien, Bipolar II voll ausgeprägte Manien"
+      ],
+      "answer": 0,
+      "explanation": "Bipolar I ist durch voll ausgeprägte manische Episoden gekennzeichnet, Bipolar II durch hypomane plus depressive Episoden (ohne voll ausgeprägte Manie). Die Umkehrung, ein rein depressiver/manischer Verlauf, eine Gleichsetzung oder eine strikte Geschlechtszuordnung sind falsch.",
+      "hard": true
+    },
+    {
+      "topic": "Rapid Cycling",
+      "hard": true,
+      "trap": "Rapid Cycling: min. 4 Stimmungswechsel/Jahr; 15-20 %, häufiger Bipolar II, Frauen:Männer 2:1, hohes Suizidrisiko.",
+      "question": "Was kennzeichnet das Rapid Cycling?",
+      "options": [
+        "Höchstens einen Stimmungswechsel pro Jahr mit besonders günstiger Prognose und geringem Suizidrisiko",
+        "Stimmungswechsel ausschließlich innerhalb weniger Minuten",
+        "Ein Verlauf ganz ohne erhöhtes Suizidrisiko",
+        "Mindestens vier Stimmungswechsel pro Jahr, häufiger bei Bipolar II und mit hohem Suizidrisiko",
+        "Ausschließlich bei Bipolar I und nur bei Männern"
+      ],
+      "answer": 3,
+      "explanation": "Rapid Cycling bedeutet mindestens vier Stimmungswechsel pro Jahr, betrifft 15-20 % der bipolaren Patienten, ist häufiger bei Bipolar II (Frauen:Männer 2:1) und geht mit hohem Suizidrisiko und schlechterer Prognose einher; behandelt wird mit Stimmungsstabilisatoren. Ein einziger Wechsel, eine Bindung nur an Bipolar I/Männer, Minutenwechsel (das wäre Ultra-Ultra-Rapid-Cycling) oder ein fehlendes Suizidrisiko treffen nicht zu."
+    },
+    {
+      "topic": "Rapid-Cycling-Varianten",
+      "question": "Wie werden die schnelleren Varianten des Rapid Cycling bezeichnet?",
+      "options": [
+        "Manie ersten und zweiten Grades",
+        "Bipolar III und Bipolar IV",
+        "Dysthymie und Zyklothymie",
+        "Double Cycling und Triple Cycling sowie ein sogenanntes Quadruple und Quintuple Cycling im Jahresverlauf",
+        "Ultra-Rapid-Cycling (Wechsel binnen Tagen) und Ultra-Ultra- bzw. ultradianes Cycling (binnen Stunden)"
+      ],
+      "answer": 4,
+      "explanation": "Schnellere Varianten sind das Ultra-Rapid-Cycling (Stimmungswechsel innerhalb weniger Tage) und das ultradiane bzw. Ultra-Ultra-Rapid-Cycling (Schwankungen innerhalb weniger Stunden). Bipolar III/IV, Dysthymie/Zyklothymie, 'Double/Triple Cycling' oder 'Manie ersten/zweiten Grades' sind keine gültigen Bezeichnungen."
+    },
+    {
+      "topic": "Unklare Hypomanie",
+      "trap": "Trennkriterium: Bei echter Hypomanie fehlt der erklärende Grund für die Euphorie.",
+      "transfer": true,
+      "question": "Ein Patient wirkt kurz nach Abklingen einer schweren depressiven Episode auffallend gehoben und tatendurstig. Wie ist dieser Zustand am ehesten einzuordnen?",
+      "options": [
+        "Als Rapid Cycling allein aufgrund des Stimmungswechsels",
+        "Zwingend als echte hypomane Episode einer bipolaren Störung, die eine sofortige phasenprophylaktische Behandlung erfordert",
+        "Am ehesten als 'Erleichterung' (postdepressiver Switch) mit erklärbarem Grund, nicht zwingend als echte Hypomanie",
+        "Als manische Episode mit psychotischen Symptomen",
+        "Als schizoaffektive Psychose"
+      ],
+      "answer": 2,
+      "explanation": "Eine gehobene Stimmung mit erklärbarem Grund (Erleichterung nach abgeklungener Depression, postdepressiver Switch) ist nicht zwingend eine echte Hypomanie - bei echter Hypomanie fehlt der erklärende Grund für die Euphorie. Eine zwingende Hypomanie, eine psychotische Manie, ein Rapid Cycling oder eine schizoaffektive Psychose lassen sich daraus nicht ableiten."
+    },
+    {
+      "topic": "Unklare Hypomanie - Medikation",
+      "question": "Welche weitere Ursache einer hypomanen Anmutung wird ausdrücklich als CAVE genannt?",
+      "options": [
+        "Eine hypomane Anmutung als Nebenwirkung einer antidepressiven Therapie",
+        "Eine hypomane Anmutung als Ausdruck eines somatischen Syndroms",
+        "Eine hypomane Anmutung als Nebenwirkung einer Lichttherapie",
+        "Eine hypomane Anmutung als typisches Symptom einer Dysthymie",
+        "Eine hypomane Anmutung als sicheres Zeichen einer beginnenden Schizophrenie"
+      ],
+      "answer": 0,
+      "explanation": "Als CAVE gilt, dass eine hypomane Anmutung Nebenwirkung einer antidepressiven Therapie sein kann (neben dem postdepressiven Switch). Ein Schizophreniezeichen, ein Dysthymie- oder somatisches Symptom oder eine Lichttherapie-Nebenwirkung sind hier nicht gemeint."
+    },
+    {
+      "topic": "Bipolar vs. Borderline",
+      "question": "Wie lässt sich eine bipolare Störung von einer emotional instabilen Persönlichkeitsstörung (Borderline) abgrenzen?",
+      "options": [
+        "Die bipolare Störung geht immer mit einer gestörten Identität einher, während es bei der BPS solche Symptome nie gibt",
+        "Die bipolare Störung ist definitionsgemäß auf das Kindesalter beschränkt",
+        "Bei der Borderline-Störung kommen zusätzliche Symptome bei Identität und sozialer Interaktion hinzu",
+        "Beide sind klinisch nicht zu unterscheiden",
+        "Die BPS zeigt ausschließlich manische Episoden über mehrere Wochen"
+      ],
+      "answer": 2,
+      "explanation": "Das Trennkriterium ist, dass bei der Borderline-Störung zusätzliche Symptome im Bereich Identität und soziale Interaktion hinzukommen. Eine Umkehrung, eine grundsätzliche Ununterscheidbarkeit, wochenlange Manien bei der BPS oder eine Beschränkung der bipolaren Störung aufs Kindesalter treffen nicht zu."
+    },
+    {
+      "topic": "Bipolar - Behandlung",
+      "transfer": true,
+      "question": "Bei einem Patienten mit bipolarer Störung steht die medikamentöse Behandlung an. Warum sind SSRI hier nicht die erste Wahl?",
+      "options": [
+        "Weil Phasenprophylaktika bei bipolaren Patienten kontraindiziert sind",
+        "Weil SSRI die einzige zugelassene Therapie der Manie sind",
+        "Wegen des Switch-Risikos; sie sollten mit Phasenprophylaktika behandelt werden",
+        "Weil bipolare Patienten grundsätzlich überhaupt nicht medikamentös behandelt werden dürfen",
+        "Weil SSRI bei bipolaren Patienten gar nicht wirken"
+      ],
+      "answer": 2,
+      "explanation": "SSRI bergen bei bipolaren Patienten ein Switch-Risiko (Umschlagen in eine Manie); daher werden Phasenprophylaktika bevorzugt. SSRI sind nicht generell wirkungslos, nicht die Manie-Therapie der Wahl, Phasenprophylaktika sind gerade indiziert, und eine grundsätzliche Nichtbehandlung ist falsch."
+    },
+    {
+      "topic": "Bipolar - Verlauf",
+      "question": "Was gilt für Erstmanifestation und Verlauf der bipolaren Störung?",
+      "options": [
+        "Die Erstmanifestation ist meist eine depressive Episode; im Verlauf überwiegen die depressiven gegenüber den manischen Episoden",
+        "Die Erstmanifestation ist immer eine voll ausgeprägte Manie",
+        "Im Verlauf überwiegen deutlich die manischen Episoden",
+        "Depressive Episoden kommen bei der bipolaren Störung nicht vor",
+        "Die bipolare Störung beginnt regelhaft erst im höheren Lebensalter jenseits des sechzigsten Lebensjahres und praktisch nie in der Jugend"
+      ],
+      "answer": 0,
+      "explanation": "Die Erstmanifestation einer bipolaren Störung ist meist eine depressive Episode, und im Verlauf überwiegen die depressiven gegenüber den (hypo-)manischen Episoden. Eine erste voll ausgeprägte Manie, ein Überwiegen manischer Episoden, ein Fehlen depressiver Episoden oder ein später Beginn treffen nicht zu."
+    },
+    {
+      "topic": "Schizoaffektive Störung",
+      "hard": true,
+      "trap": "Schizoaffektiv: schizophrene + affektive Symptome in derselben Episode, Wahn eindeutig bizarr, nicht an affektive Schwere gebunden.",
+      "question": "Was kennzeichnet die schizoaffektive Störung?",
+      "options": [
+        "Ausschließlich schizophrene Symptome ohne jede affektive Komponente",
+        "Eindeutig schizophrene und affektive Symptome gleichzeitig oder wenige Tage getrennt in derselben Episode, mit teils bizarrem Wahn",
+        "Eine leichte Depression mit gelegentlichen psychotischen Symptomen",
+        "Ausschließlich affektive Symptome ohne jedes schizophrene Symptom",
+        "Psychotische Symptome, die streng an die Schwere der affektiven Störung gebunden sind und ausnahmslos niemals unabhängig davon auftreten"
+      ],
+      "answer": 1,
+      "explanation": "Bei der schizoaffektiven Störung bestehen eindeutig schizophrene und affektive Symptome gleichzeitig oder wenige Tage getrennt innerhalb derselben Episode; der Wahn kann eindeutig bizarr sein und ist nicht an die Schwere der affektiven Störung gebunden. Rein affektive oder rein schizophrene Bilder, eine strikte Bindung an die affektive Schwere oder eine leichte Depression mit Psychose treffen nicht zu."
+    },
+    {
+      "topic": "Psychotische affektive Störung",
+      "hard": true,
+      "question": "Was gilt für die psychotische affektive Störung (Depression/Manie mit psychotischen Symptomen)?",
+      "options": [
+        "Auch bei der Hypomanie sind psychotische Symptome typisch",
+        "Auch bei leichter Depression treten regelhaft psychotische Symptome auf",
+        "Die psychotischen Symptome sind völlig unabhängig von der Schwere der affektiven Störung und treten bei leichter wie schwerer Ausprägung gleichermaßen auf",
+        "Der Wahn ist stets bizarr und stimmungsinkongruent",
+        "Die psychotischen Symptome sind an einen schweren affektiven Zustand gebunden; keine leichte Depression und keine Hypomanie mit psychotischen Symptomen"
+      ],
+      "answer": 4,
+      "explanation": "Bei psychotischen affektiven Störungen sind die psychotischen Symptome an einen schweren (bei Manie: Bipolar-I-)Zustand gebunden und synthym; eine leichte Depression oder eine Hypomanie mit psychotischen Symptomen gibt es nicht. Eine völlige Unabhängigkeit von der Schwere, Psychosen bei leichter Depression/Hypomanie oder ein bizarrer inkongruenter Wahn kennzeichnen dagegen die schizoaffektive bzw. schizophrene Psychose."
+    },
+    {
+      "topic": "Schizophrener vs. affektiver Wahn",
+      "question": "Wie unterscheidet sich der Wahn bei der Schizophrenie vom Wahn bei affektiven Störungen?",
+      "options": [
+        "Er ist immer stimmungskongruent und niemals bizarr",
+        "Er ist stets synthym und streng an eine schwere affektive Störung gebunden und in keinem Fall bizarr ausgestaltet",
+        "Er beschränkt sich auf Schuld- und Verarmungswahn",
+        "Er tritt ausschließlich zusammen mit einer manischen Episode auf",
+        "Er ist charakteristisch bizarr, in allen Wahntypen möglich und nicht an eine affektive Symptomatik gebunden"
+      ],
+      "answer": 4,
+      "explanation": "Der Wahn der Schizophrenie ist charakteristisch bizarr, in allen Wahntypen denkbar und nicht an eine affektive Symptomatik gebunden. Ein synthymer, an die affektive Schwere gebundener, auf Schuld/Verarmung beschränkter, nur manisch auftretender oder stets kongruenter Wahn beschreibt gerade die affektive Psychose, nicht die Schizophrenie."
+    },
+    {
+      "topic": "Depression und Trauer",
+      "question": "Was merkt die ICD-11 zum Verhältnis von Trauer und Depression an?",
+      "options": [
+        "Trauer wird ausschließlich als bipolare Störung klassifiziert",
+        "Jede Trauerreaktion ist automatisch als depressive Episode zu kodieren",
+        "Etwa sechs Monate nach einem Trauerfall auftretende depressive Symptome sollen nicht als depressive Episode gewertet werden",
+        "Nach einem Trauerfall ist eine Depression in den ersten Jahren definitionsgemäß vollständig und auf Dauer sicher ausgeschlossen",
+        "Trauer und Depression sind grundsätzlich nicht unterscheidbar"
+      ],
+      "answer": 2,
+      "explanation": "Die ICD-11 merkt an, dass etwa sechs Monate nach einem Trauerfall auftretende depressive Symptome nicht als depressive Episode gewertet werden sollen. Weder ist jede Trauer eine Depression, noch sind beide grundsätzlich ununterscheidbar, noch ist eine Depression nach Trauer ausgeschlossen, noch ist Trauer eine bipolare Störung."
+    },
+    {
+      "topic": "Persistierende komplexe Trauerstörung",
+      "hard": true,
+      "question": "Wie lässt sich die persistierende komplexe Trauerstörung von einer Major Depression abgrenzen?",
+      "options": [
+        "Die Major Depression ist immer an einen konkreten Verlust gebunden",
+        "Bei der Trauerstörung steht eine grundlose, verlustunabhängige Traurigkeit im Vordergrund",
+        "Die Trauerstörung ist definitionsgemäß mit psychotischen Symptomen verbunden",
+        "Bei der Trauer steht der Verlust im Vordergrund und der normale Trauerprozess stagniert",
+        "Beide sind identisch, seit das DSM-5 die Trauerreaktion als Depression definiert"
+      ],
+      "answer": 3,
+      "explanation": "Bei der Trauer steht der Verlust im Vordergrund, und der normale Trauerprozess (Verleugnung, Wut, Trauer, Reorientierung) stagniert - das grenzt sie von der Major Depression ab. Das DSM-5 hat lediglich die Trauerreaktion als Ausschluss einer MD aufgehoben (nicht beide gleichgesetzt); eine verlustunabhängige Traurigkeit, obligate Psychosen oder eine zwingende Verlustbindung der MD treffen nicht zu."
+    },
+    {
+      "topic": "Disruptive Stimmungsdysregulation",
+      "trap": "Disruptive Stimmungsdysregulationsstörung (Kinder): Gereiztheit KONTINUIERLICH, nicht episodisch wie bei bipolar.",
+      "transfer": true,
+      "question": "Ein 10-jähriges Kind zeigt wiederholte schwere Wutausbrüche und ist durchgehend gereizt. Welche Diagnose ist am ehesten zu erwägen und wie grenzt sie sich von der bipolaren Störung ab?",
+      "options": [
+        "Zyklothymie - regelmäßiger Wechsel hypomaner und depressiver Phasen",
+        "Bipolar I - die Wutausbrüche sind klar abgegrenzte manische Episoden",
+        "Disruptive Stimmungsdysregulationsstörung - die Gereiztheit ist kontinuierlich, nicht episodisch wie bei der bipolaren Störung",
+        "Schizoaffektive Störung mit bizarrem Wahn",
+        "Persistierende depressive Störung mit durchgehend gedrückter Stimmung über einen ununterbrochenen Zeitraum von mindestens zwei Jahren"
+      ],
+      "answer": 2,
+      "explanation": "Wiederholte Wutausbrüche mit durchgehender Gereiztheit bei einem Kind sprechen für die disruptive Stimmungsdysregulationsstörung; das Abgrenzungskriterium zur bipolaren Störung ist die kontinuierliche (nicht episodische) Gereiztheit. Klar abgegrenzte manische Episoden (Bipolar I), ein hypoman-depressiver Wechsel (Zyklothymie), eine durchgehend gedrückte Stimmung oder ein bizarrer Wahn treffen nicht zu."
+    }
+  ]
+}

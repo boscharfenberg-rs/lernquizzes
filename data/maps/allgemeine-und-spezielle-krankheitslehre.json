@@ -76,6 +76,9 @@
       "group": "speziell",
       "order": 2,
       "quizIds": [
+        "kl-affektiv-depression-klassifikation",
+        "kl-affektiv-verlauf-bipolar-dd",
+        "kl-affektiv-epidemiologie-aetiologie-therapie",
         "kl-zuordnung-affektive"
       ]
     },
