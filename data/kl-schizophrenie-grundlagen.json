@@ -1,0 +1,424 @@
+{
+  "id": "kl-schizophrenie-grundlagen",
+  "title": "Schizophrenie I: Grundlagen & Psychopathologie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zum Psychose-Begriff, den drei Konzeptnamen, den vier Domänen und der Psychopathologie (Wahn, Halluzination, Ich- und Denkstörungen). Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Psychose-Begriff",
+      "hard": true,
+      "question": "Was kennzeichnet den Oberbegriff 'Psychose' in seiner Minimaldefinition am ehesten?",
+      "options": [
+        "Ein Sammelbegriff für Störungen mit ausgeprägter Negativsymptomatik, aber ohne jeden Realitätsverlust",
+        "Eine leichtere Vorstufe der Schizophrenie, die definitionsgemäß ohne Halluzinationen verläuft",
+        "Ein Zustand, der per Definition immer substanzinduziert ist und nach Abstinenz vollständig remittiert",
+        "Eine Symptomkonstellation aus Wahn und Negativsymptomatik, die ausschließlich bei der Schizophrenie vorkommt",
+        "Eine schwere Störung mit Realitätsverlust, deren Kernsymptome Wahn und Halluzinationen sind"
+      ],
+      "answer": 4,
+      "explanation": "Die Minimaldefinition der Psychose lautet: schwere Geisteskrankheit mit Realitätsverlust, Kernsymptome sind Wahn und Halluzinationen. Falsch ist, die Psychose mit der Schizophrenie gleichzusetzen - sie ist der Oberbegriff. Auch die Bindung an Negativsymptomatik ohne Realitätsverlust verfehlt den Kern (gerade der Realitätsverlust ist konstitutiv). Eine 'Vorstufe ohne Halluzinationen' widerspricht der Definition, und die Festlegung auf substanzinduziert ist eine unzulässige Verengung: Psychosen sind auch organisch, affektiv oder schizophren bedingt."
+    },
+    {
+      "topic": "Psychose vs. Schizophrenie",
+      "hard": true,
+      "trap": "Psychose ist der Oberbegriff - vereinzelte psychotische Symptome sind noch keine Schizophrenie.",
+      "question": "Welche Aussage zum Verhältnis von Psychose und Schizophrenie trifft NICHT zu?",
+      "options": [
+        "Psychose ist der Oberbegriff, die Schizophrenie eine spezifische Form innerhalb dieses Spektrums",
+        "Auch bei der Borderline- und der paranoiden Persönlichkeitsstörung können psychotische Symptome vorkommen",
+        "Psychotische Symptome können auch bei organisch bedingten und bei drogeninduzierten Psychosen auftreten",
+        "Systematisch lassen sich affektive Psychosen von schizophrenen Psychosen unterscheiden",
+        "Bereits vereinzelte psychotische Symptome beweisen das Vorliegen einer Schizophrenie"
+      ],
+      "answer": 4,
+      "explanation": "Vereinzelte psychotische Symptome treten bei vielen nicht-schizophrenen Störungen auf und beweisen daher gerade keine Schizophrenie - das ist die gesuchte falsche Aussage. Zutreffend sind dagegen: psychotische Symptome bei organischen und drogeninduzierten Psychosen, die Trennung affektiver von schizophrenen Psychosen, das Vorkommen bei Borderline- und paranoider Persönlichkeitsstörung sowie die Einordnung der Schizophrenie als eine Form unter dem Oberbegriff Psychose."
+    },
+    {
+      "topic": "Pseudohalluzination",
+      "trap": "Pseudohalluzination vs. Halluzination: entscheidend ist der erhaltene Realitätsbezug.",
+      "transfer": true,
+      "question": "Eine Patientin hört gelegentlich eine Stimme, die ihren Namen ruft, weiß dabei aber sicher, dass diese Wahrnehmung nicht der Realität entspricht. Wie ist das Phänomen am ehesten einzuordnen?",
+      "options": [
+        "Als echte akustische Halluzination, weil eine Stimme ohne äußeren Reiz wahrgenommen wird",
+        "Als Ich-Störung, weil die Grenze zwischen innen und außen betroffen ist",
+        "Als Wahnwahrnehmung, weil einer Sinneswahrnehmung eine besondere Bedeutung gegeben wird",
+        "Als Pseudohalluzination, weil der Realitätsbezug erhalten bleibt",
+        "Als Illusion, weil ein real vorhandener Sinnesreiz verkannt wird"
+      ],
+      "answer": 3,
+      "explanation": "Bei der Pseudohalluzination bleibt der Realitätsbezug erhalten: die Person weiß, dass das Wahrgenommene nicht real ist - genau das liegt hier vor. Eine echte Halluzination ginge mit fehlender Realitätsprüfung einher. Eine Wahnwahrnehmung setzt einen realen Reiz voraus, dem wahnhaft Bedeutung zugeschrieben wird; das ist hier nicht der Fall. Eine Ich-Störung betrifft das Erleben von Gedankenbeeinflussung, nicht das bloße Stimmenhören mit Realitätseinsicht. Eine Illusion wäre die Verkennung eines tatsächlich vorhandenen Sinnesreizes."
+    },
+    {
+      "topic": "Konzeptgeschichte",
+      "question": "Emil Kraepelin prägte den Begriff 'Dementia praecox'. Was stand bei seinem Konzept im Vordergrund?",
+      "options": [
+        "Der Konstruktcharakter der Diagnose als bloßes 'Idealbild zur Suchorientierung'",
+        "Die Erstrangsymptome mit klarem Schwerpunkt auf der Positivsymptomatik, wie sie später Kurt Schneider formulierte",
+        "Ein verlaufs- und prognoseorientiertes Bild mit Schwerpunkt auf der Negativsymptomatik",
+        "Die Gleichsetzung von guter Prognose und gleichartiger Symptomatologie",
+        "Die vier Grundsymptome (die 'vier A') als Kern der Störung"
+      ],
+      "answer": 2,
+      "explanation": "Kraepelins 'Dementia praecox' war verlaufs- und prognoseorientiert (früher Beginn, fortschreitender Verfall) und betonte die Negativsymptomatik. Die Positivsymptomatik und die Erstrangsymptome gehen auf Schneider zurück. Die 'vier A' sind Bleulers Grundsymptome. Die Betonung, dass gleichartige Symptomatik unabhängig von der Prognose zusammengefasst gehört, ist Bleulers Argument. Das 'Idealbild zur Suchorientierung' stammt von Jaspers."
+    },
+    {
+      "topic": "Konzeptgeschichte",
+      "hard": true,
+      "question": "Eugen Bleuler ersetzte 'Dementia praecox' durch 'Schizophrenie'. Welche Einteilung geht auf ihn zurück?",
+      "options": [
+        "Die Unterscheidung von psychosefernen Basissymptomen und psychosenahen attenuierten Symptomen",
+        "Erstrangsymptome (u. a. Wahnwahrnehmung, Ich-Störungen und leibliches Beeinflussungserleben) versus Zweitrangsymptome wie Zönästhesien",
+        "Grundsymptome (die 'vier A': Assoziationslockerung, Affektstörung, Autismus, Ambivalenz) versus akzessorische Symptome",
+        "Positivsymptomatik versus Negativsymptomatik als die beiden allein maßgeblichen Domänen",
+        "Die Einteilung der Psychosen in eine Einheits- und eine Zerfallspsychose"
+      ],
+      "answer": 2,
+      "explanation": "Bleuler unterschied Grundsymptome (die 'vier A': Assoziationslockerung, Affektstörung, Autismus, Ambivalenz) von akzessorischen Symptomen wie Wahn und Halluzination und betonte damit die Negativsymptomatik. Die Erst-/Zweitrangsymptome stammen von Schneider. Die reine Positiv-/Negativ-Dichotomie ist keine Bleuler-Systematik. Einheits- und Zerfallspsychose sind historische Konzepte, die hier nicht gemeint sind. Basis- und attenuierte Symptome gehören zur modernen Früherkennung, nicht zu Bleuler."
+    },
+    {
+      "topic": "Konzeptgeschichte",
+      "hard": true,
+      "trap": "Merkachse: Kraepelin und Bleuler = Negativsymptomatik, Schneider = Positivsymptomatik.",
+      "question": "Ordnet man den drei zentralen Konzeptautoren ihren Symptomschwerpunkt zu, welche Zuordnung ist richtig?",
+      "options": [
+        "Alle drei Autoren stellten übereinstimmend die Positivsymptomatik in den Vordergrund",
+        "Kraepelin und Bleuler betonten die Negativsymptomatik, Schneider die Positivsymptomatik",
+        "Kraepelin betonte die Positiv-, Bleuler und Schneider die Negativsymptomatik",
+        "Alle drei Autoren stellten übereinstimmend die Negativsymptomatik in den Vordergrund",
+        "Kraepelin und Bleuler betonten die Positivsymptomatik, Schneider die Negativsymptomatik"
+      ],
+      "answer": 1,
+      "explanation": "Die zu merkende Achse lautet: Kraepelin und Bleuler = Negativsymptomatik, Schneider = Positivsymptomatik (Erstrangsymptome wie akustische Halluzinationen, Ich-Störungen, Wahnwahrnehmung). Die anderen Kombinationen kehren diese Zuordnung ganz oder teilweise um und sind damit falsch."
+    },
+    {
+      "topic": "Konzeptgeschichte",
+      "question": "Kurt Schneider lieferte das erste moderne Konzept. Was zählt zu seinen Erstrangsymptomen?",
+      "options": [
+        "Assoziationslockerung, Affektstörung, Autismus und Ambivalenz als Grundsymptome",
+        "Der Wahneinfall, die Zönästhesien und sonstige nicht-akustische Halluzinationen, die Schneider ausdrücklich den Zweitrangsymptomen zuordnete",
+        "Die neurokognitiven Defizite als früh auftretende und prognostisch bedeutsamste Gruppe",
+        "Akustische Halluzinationen, Ich-Störungen und körperliches Beeinflussungserleben sowie Wahnwahrnehmungen",
+        "Anhedonie, Antriebslosigkeit und Affektverflachung als Kern der Störung"
+      ],
+      "answer": 3,
+      "explanation": "Schneiders Erstrangsymptome sind akustische Halluzinationen, Ich-Störungen, körperliches Beeinflussungserleben und Wahnwahrnehmungen. Wahneinfall und Zönästhesien zählte er zu den Zweitrangsymptomen. Die 'vier A' sind Bleulers Grundsymptome. Die neurokognitiven Defizite und die genannten Negativsymptome sind keine Schneiderschen Erstrangsymptome."
+    },
+    {
+      "topic": "Konzeptgeschichte",
+      "question": "Warum wurden die klassischen Subtypen der Schizophrenie aufgegeben?",
+      "options": [
+        "Weil die neurokognitiven Defizite als einziges gültiges Diagnosekriterium anerkannt wurden",
+        "Weil sich die Subtypen als trennscharfe, biologisch klar unterscheidbare Krankheitseinheiten mit je eigener Behandlung erwiesen haben",
+        "Weil die verschiedenen Symptombereiche unabhängig voneinander auftreten können und sich nicht zu festen Typen bündeln lassen",
+        "Weil die Positivsymptomatik im Verlauf regelhaft in eine Negativsymptomatik übergeht",
+        "Weil die Subtypen ausschließlich auf historischen Jahreszahlen und nicht auf Symptomen beruhten"
+      ],
+      "answer": 2,
+      "explanation": "Die Subtypen wurden abgeschafft, weil bei einer Psychose alle Symptombereiche eingeordnet werden und diese unabhängig voneinander - gemeinsam oder eben nicht - auftreten können; feste Typen bilden das nicht ab. Gerade das Gegenteil trennscharfer Einheiten war der Fall. Ein regelhafter Übergang von Positiv- zu Negativsymptomatik ist nicht der Grund. Jahreszahlen spielen keine Rolle, und die Neurokognition ist kein Diagnosekriterium."
+    },
+    {
+      "topic": "Vier Domänen",
+      "question": "Mit welchen vier Domänen wird das schizophrene Störungsbild heute beschrieben?",
+      "options": [
+        "Grundsymptome, akzessorische Symptome, Erstrang- und Zweitrangsymptome",
+        "Positivsymptomatik, Negativsymptomatik, Desorganisation und neurokognitive Defizite",
+        "Basissymptome, attenuierte Symptome, BLIPS und Prodromalsymptome",
+        "Positivsymptomatik, Negativsymptomatik, Katatonie und affektive Begleitstörung als die vier maßgeblichen Kerndomänen",
+        "Wahn, Halluzination, Ich-Störung und formale Denkstörung"
+      ],
+      "answer": 1,
+      "explanation": "Heute arbeitet man mit vier Domänen: Positivsymptomatik, Negativsymptomatik, Desorganisation und neurokognitive Defizite. Katatonie und affektive Störung sind keine der vier Domänen. Grund-/akzessorische bzw. Erst-/Zweitrangsymptome sind historische Systematiken. Wahn, Halluzination usw. sind einzelne Symptome innerhalb der Domänen, nicht die Domänen selbst. Basissymptome/attenuierte Symptome/BLIPS gehören zur Früherkennung."
+    },
+    {
+      "topic": "Neurokognitive Defizite",
+      "hard": true,
+      "trap": "'Prognostisch am wichtigsten, diagnostisch irrelevant' - beides gilt zugleich.",
+      "question": "Was macht die neurokognitiven Defizite zu einer Symptomgruppe mit Sonderstellung?",
+      "options": [
+        "Sie sind schon vor der ersten Episode präsent, verlaufen episodenunabhängig stabil und haben hohen prädiktiven Wert, sind aber kein Diagnosekriterium",
+        "Sie sprechen von allen Symptomgruppen am besten auf Antipsychotika an",
+        "Sie sind identisch mit den affektiven Störungen und deshalb schwer abzugrenzen",
+        "Sie sind das wichtigste Diagnosekriterium der Schizophrenie und zugleich prognostisch bedeutungslos",
+        "Sie treten erst nach der ersten Episode auf und verlaufen wie die Positivsymptome deutlich episodisch, weshalb sie zwischen den Krankheitsphasen regelhaft vollständig verschwinden"
+      ],
+      "answer": 0,
+      "explanation": "Neurokognitive Defizite sind bereits vor der ersten Episode präsent, verlaufen episodenunabhängig stabil (Unterschied zu affektiven Störungen) und sagen das soziorehabilitative Outcome stark voraus - sind aber kein Diagnosekriterium. Sie treten also nicht erst nach der Episode auf und verlaufen nicht episodisch. Sie sind gerade nicht das Diagnosekriterium, sondern diagnostisch irrelevant. Ein besonders gutes Ansprechen auf Medikation gilt für sie nicht, und identisch mit affektiven Störungen sind sie nicht."
+    },
+    {
+      "topic": "Positiv- vs. Negativsymptomatik",
+      "question": "Worin besteht die Grundlogik der Unterscheidung von Positiv- und Negativsymptomatik?",
+      "options": [
+        "Bei Positivsymptomen kommt etwas zum Erleben Gesunder hinzu, bei Negativsymptomen fällt etwas weg",
+        "Positivsymptome betreffen das Denken, Negativsymptome ausschließlich die Wahrnehmung",
+        "Positivsymptome sind grundsätzlich gut behandelbar, während Negativsymptome per Definition unbehandelbar sind und sich niemals zurückbilden",
+        "Positivsymptome treten nur bei Männern auf, Negativsymptome nur bei Frauen",
+        "Positivsymptome sind biologisch bedingt, Negativsymptome ausschließlich psychosozial"
+      ],
+      "answer": 0,
+      "explanation": "Die Logik ist einfach: Positivsymptome sind ein Hinzukommen zum normalen Erleben (Wahn, Halluzination), Negativsymptome ein Wegfallen (Anhedonie, Antriebslosigkeit, Affektverflachung). Die anderen Aussagen führen sachfremde Kriterien ein - Behandelbarkeit, Geschlecht, Ätiologie oder eine Denken/Wahrnehmung-Trennung - die die Positiv-/Negativ-Unterscheidung nicht definieren."
+    },
+    {
+      "topic": "Formale Denkstörungen",
+      "hard": true,
+      "trap": "Fangfrage: Formale Denkstörungen verteilen sich je nach Richtung auf Positiv- UND Negativsymptomatik.",
+      "question": "Wie sind formale Denkstörungen den beiden Symptompolen zuzuordnen?",
+      "options": [
+        "Sie sind ausnahmslos den Negativsymptomen zuzurechnen",
+        "Sie gehören definitionsgemäß zu den neurokognitiven Defiziten",
+        "Sie bilden zusammen mit der Katatonie eine eigene, fünfte Domäne",
+        "Sie verteilen sich auf beide Seiten: beschleunigtes/assoziativ gelockertes Denken positiv, verlangsamtes/gehemmtes Denken negativ",
+        "Sie sind ausnahmslos den Positivsymptomen zuzurechnen, weil gestörtes Denken stets ein Hinzukommen zum normalen Erleben und nie einen Wegfall darstellt"
+      ],
+      "answer": 3,
+      "explanation": "Formale Denkstörungen verteilen sich je nach Richtung auf beide Pole: beschleunigtes und assoziativ gelockertes Denken zählt zu den Positiv-, verlangsamtes und gehemmtes Denken zu den Negativsymptomen - eine klassische Fangfrage. Die pauschale Zuordnung zu nur einem Pol ist deshalb falsch. Eine fünfte Domäne oder die Gleichsetzung mit der Neurokognition gibt es nicht."
+    },
+    {
+      "topic": "Desorganisation",
+      "question": "Was meint die Domäne der Desorganisation?",
+      "options": [
+        "Die vegetative Entgleisung mit Fieber und Tachykardie im Rahmen der Katatonie",
+        "Zerfahrenes, unkoordiniertes Denken, das zielgerichtete Sprache und Handlung verhindert",
+        "Die früh auftretenden, stabil verlaufenden Gedächtnis- und Konzentrationsstörungen",
+        "Den Verlust von Antrieb, Freude und affektiver Schwingungsfähigkeit, wie er die Negativsymptomatik kennzeichnet",
+        "Das Hinzutreten von Wahn und Halluzinationen zum normalen Erleben"
+      ],
+      "answer": 1,
+      "explanation": "Desorganisation bezeichnet zerfahrenes, unkoordiniertes Denken, das zielgerichtete Sprache und Handlung verhindert - und lässt sich oft nicht eindeutig Positiv- oder Negativsymptomatik zuordnen. Antriebs-/Freudeverlust ist Negativsymptomatik, das Hinzutreten von Wahn/Halluzination Positivsymptomatik, Gedächtnis-/Konzentrationsstörungen sind neurokognitive Defizite, und die vegetative Entgleisung gehört zur (hier nicht gemeinten) perniziösen Katatonie."
+    },
+    {
+      "topic": "Wahn - Modell",
+      "hard": true,
+      "question": "Wie beschreibt das Modell des 'Überstiegs' den psychologischen Kern des Wahns?",
+      "options": [
+        "Die Person wechselt bewusst und flexibel zwischen mehreren Bezugssystemen, überprüft ihre Überzeugungen jederzeit an der Realität und lässt sich durch Gegenargumente vollständig korrigieren",
+        "Der Überstieg meint den geglückten Übergang von der Wahnwelt zurück in die geteilte Wirklichkeit",
+        "Der Wechsel in die Dritte-Person-Perspektive gelingt nicht mehr; die Welt wird Ich-zentriert erlebt und die Person bleibt unkorrigierbar in ihrem Bezugssystem",
+        "Der Wahn entsteht allein durch einen Dopaminüberschuss ohne jede psychologische Komponente",
+        "Es handelt sich um einen normalen Perspektivwechsel, der bei Gesunden und Betroffenen gleich abläuft"
+      ],
+      "answer": 2,
+      "explanation": "Gesunde schaffen den 'Überstieg' in die Dritte-Person-Perspektive; gelingt das nicht mehr, wird alles aus der Ersten-Person-Perspektive auf sich bezogen - die Welt wird Ich-zentriert, die Person unkorrigierbar und im eigenen Bezugssystem gefangen. Ein flexibler, korrigierbarer Wechsel widerspricht dem Wahn. Der Wahn ist nicht rein dopaminerg (Neurotransmitter sind assoziiert, nicht ursächlich). Der Überstieg meint nicht die Rückkehr aus der Wahnwelt, und gerade der misslungene Perspektivwechsel unterscheidet Betroffene von Gesunden."
+    },
+    {
+      "topic": "Wahn - Modell",
+      "question": "Welche Begriffe bezeichnet das Modell des Überstiegs als die zugrunde liegende gesunde Fähigkeit?",
+      "options": [
+        "Apophänie und Apokalypse nach dem Modell von Konrad",
+        "Zönästhesie und Akoasmus",
+        "Anhedonie und Ambivalenz",
+        "Katalepsie und Negativismus",
+        "Mentalisieren und Metakognition"
+      ],
+      "answer": 4,
+      "explanation": "Die gesunde Fähigkeit hinter dem Überstieg wird mit Mentalisieren und Metakognition beschrieben - die Welt mit den Augen eines anderen betrachten zu können. Anhedonie/Ambivalenz sind Negativsymptome, Apophänie/Apokalypse gehören zum Wahnentwicklungsmodell nach Konrad, Zönästhesie/Akoasmus sind Halluzinationsformen und Katalepsie/Negativismus katatone Phänomene."
+    },
+    {
+      "topic": "Wahn - Charakteristika",
+      "hard": true,
+      "question": "Welches Merkmal beschreibt die 'doppelte Buchführung' beim Wahn?",
+      "options": [
+        "Der schrittweise Aufbau eines in sich logischen Wahnsystems durch Wahnarbeit",
+        "Wahnwelt und Realität können nebeneinander bestehen, sodass die Person zeitweise 'tun als ob' kann",
+        "Die erfahrungsunabhängige, innere Gewissheit, mit der der Wahn ganz ohne jeden Erfahrungsbezug für absolut wahr gehalten wird",
+        "Die emotionale Beteiligung, mit der der Wahn dynamisch aufrechterhalten wird",
+        "Die vollständige Trennung von Innen- und Außenwelt ohne jede Realitätswahrnehmung"
+      ],
+      "answer": 1,
+      "explanation": "'Doppelte Buchführung' meint die Koexistenz von Wahnwelt und Realität, sodass Betroffene zeitweise 'tun als ob' können. Die erfahrungsunabhängige innere Gewissheit ist die apriorische Evidenz, die emotionale Beteiligung die Wahndynamik. Eine vollständige Trennung von Innen- und Außenwelt beschreibt die Aussage überzeichnend falsch, und der Aufbau des Wahnsystems ist die Wahnarbeit."
+    },
+    {
+      "topic": "Wahn - Wahnstimmung",
+      "question": "Was gilt für die Wahnstimmung im Rahmen der psychotischen Entwicklung?",
+      "options": [
+        "Sie tritt ausschließlich bei affektiven Psychosen, nie bei der Schizophrenie auf",
+        "Sie steht am Ende der Wahnentwicklung als vollständig ausgeformtes Wahnsystem",
+        "Sie ist definitionsgemäß durch einen bereits bizarren, voll ausgestalteten Wahn gekennzeichnet",
+        "Sie ist thematisch noch unbestimmt und geht der inhaltlichen Ausgestaltung des Wahns voraus",
+        "Sie ist ein rein kognitiver Vorgang ohne jede emotionale Komponente"
+      ],
+      "answer": 3,
+      "explanation": "Die Wahnstimmung ist thematisch noch unbestimmt ('es liegt etwas in der Luft') und geht der inhaltlichen Ausgestaltung voraus. Am Ende der Entwicklung steht das Wahnsystem, nicht die Wahnstimmung. Ein bereits bizarrer, ausgestalteter Wahn widerspricht der Unbestimmtheit. Die Wahnstimmung ist affektiv getönt, also nicht rein kognitiv, und sie ist nicht auf affektive Psychosen beschränkt."
+    },
+    {
+      "topic": "Wahn - Wahnarbeit",
+      "question": "Was bezeichnet der Begriff 'Wahnarbeit'?",
+      "options": [
+        "Den absichtsvollen Denkprozess, in dem nach Erklärungen für Wahrnehmungen und Einfälle gesucht wird",
+        "Die Zuschreibung wahnhafter Bedeutung zu einem realen Sinnesreiz",
+        "Die noch inhaltlich unbestimmte, bedrohliche Grundstimmung vor dem Wahn",
+        "Das plötzliche, unvermittelte Auftreten einer wahnhaften Überzeugung ohne jeden erkennbaren äußeren Anlass",
+        "Die dauerhafte Unbeeinflussbarkeit des fertigen Wahnsystems durch Argumente"
+      ],
+      "answer": 0,
+      "explanation": "Wahnarbeit ist der absichtsvolle Denkprozess, die Suche nach Erklärungen, wie Wahrnehmungen und Einfälle zusammenhängen; ihr Abschluss ist das Wahnsystem. Das plötzliche Auftreten einer Überzeugung ist der Wahneinfall, die Bedeutungszuschreibung zu einem realen Reiz die Wahnwahrnehmung, die unbestimmte Grundstimmung die Wahnstimmung und die Argumentresistenz ein Merkmal des fertigen Wahns."
+    },
+    {
+      "topic": "Wahn - Wahnwahrnehmung",
+      "transfer": true,
+      "question": "Ein Patient sieht eine rote Ampel und ist daraufhin überzeugt, dies sei ein an ihn gerichtetes Zeichen, dass er sofort seinen Job kündigen müsse. Welches Phänomen liegt am ehesten vor?",
+      "options": [
+        "Eine Wahnwahrnehmung, weil einem realen Reiz eine wahnhafte Bedeutung gegeben wird",
+        "Eine Illusion, weil ein realer Reiz lediglich verkannt, aber nicht bedeutungshaft umgedeutet wird",
+        "Ein Wahneinfall, weil die Überzeugung ohne jeden äußeren Anlass entsteht",
+        "Eine Pseudohalluzination, weil der Realitätsbezug erhalten bleibt",
+        "Eine Halluzination, weil ohne realen Reiz eine Wahrnehmung entsteht"
+      ],
+      "answer": 0,
+      "explanation": "Einem realen Reiz (die rote Ampel) wird hier eine wahnhafte, ich-bezogene Bedeutung zugeschrieben - das ist die Wahnwahrnehmung. Ein Wahneinfall entstünde ohne äußeren Anlass. Eine Halluzination läge ohne realen Reiz vor. Bei einer Pseudohalluzination bliebe die Realitätseinsicht erhalten. Eine Illusion ist die bloße Verkennung eines Reizes ohne die wahnhafte Bedeutungszuschreibung."
+    },
+    {
+      "topic": "Halluzinationen",
+      "question": "Welche Halluzinationsform ist für die Schizophrenie am typischsten?",
+      "options": [
+        "Gustatorische Halluzinationen beim Essen",
+        "Olfaktorische Halluzinationen mit Fäulnisgeruch",
+        "Ausschließlich taktile Halluzinationen der Haut",
+        "Akustische Halluzinationen, insbesondere Stimmenhören",
+        "Optische Halluzinationen mit ausgeprägt lebhaftem, szenischem Charakter"
+      ],
+      "answer": 3,
+      "explanation": "Am typischsten sind akustische Halluzinationen, vor allem das Stimmenhören (daneben Akoasmen und Zönästhesien). Optische Halluzinationen sind bei Schizophrenie selten und weisen eher auf eine organische Ursache hin. Olfaktorische Halluzinationen mit Fäulnisgeruch sind eher bei der (synthymen) Depression beschrieben; rein gustatorische oder ausschließlich taktile Halluzinationen sind nicht das typische Bild."
+    },
+    {
+      "topic": "Halluzinationen",
+      "hard": true,
+      "trap": "Optische Halluzinationen sind bei Schizophrenie selten und deuten eher auf eine organische Störung.",
+      "transfer": true,
+      "question": "Ein Patient berichtet über lebhafte, szenische optische Halluzinationen. Woran sollte differenzialdiagnostisch am ehesten gedacht werden?",
+      "options": [
+        "An eine organische Ursache, da optische Halluzinationen bei der Schizophrenie selten sind",
+        "An eine reine Negativsymptomatik ohne weitere Abklärung",
+        "An eine dissoziative Störung, weil optische Halluzinationen dort obligat sind",
+        "An eine typische Erstmanifestation der Schizophrenie, da optische Halluzinationen ihr Leitsymptom sind",
+        "An eine Pseudohalluzination, weil szenische Bilder immer realitätsnah bleiben"
+      ],
+      "answer": 0,
+      "explanation": "Optische Halluzinationen sind bei der Schizophrenie selten und lenken den Verdacht eher auf eine organische (z. B. delirante oder substanzbedingte) Ursache. Sie sind kein Leitsymptom der Schizophrenie und keine typische Erstmanifestation. Mit Negativsymptomatik haben Halluzinationen nichts zu tun, bei dissoziativen Störungen sind optische Halluzinationen nicht obligat, und 'szenisch = immer realitätsnah' ist sachlich falsch."
+    },
+    {
+      "topic": "Halluzinationen",
+      "transfer": true,
+      "question": "Eine Patientin hört mehrere Stimmen, die in der dritten Person miteinander über sie reden und ihr Verhalten fortlaufend beurteilen. Wie werden solche Stimmen bezeichnet?",
+      "options": [
+        "Als Akoasmen, weil es sich um ungeformte Geräusche handelt",
+        "Als kommentierende bzw. dialogische Stimmen",
+        "Als imperative Stimmen, weil sie Handlungsbefehle geben",
+        "Als Zönästhesien, weil der Körper betroffen ist",
+        "Als Gedankenlautwerden, weil die eigenen Gedanken hörbar werden"
+      ],
+      "answer": 1,
+      "explanation": "Stimmen, die in der dritten Person über die Person reden und ihr Handeln beurteilen, sind kommentierend/dialogisch. Imperative Stimmen erteilen Befehle (mit besonderer Gefahr bei Handlungsdruck). Akoasmen sind ungeformte Geräusche wie Rauschen oder Klopfen, Zönästhesien sind Körperhalluzinationen, und Gedankenlautwerden ist eine Ich-Störung, kein Über-die-Person-Reden mehrerer Stimmen."
+    },
+    {
+      "topic": "Ich-Störungen",
+      "question": "Was zählt zu den Ich-Störungen und wie sind sie einzuordnen?",
+      "options": [
+        "Anhedonie und Affektverflachung; sie zählen zu den Negativsymptomen als Ausdruck des Wegfalls von Erleben",
+        "Wahnstimmung und Wahneinfall; sie zählen zu den inhaltlichen Denkstörungen",
+        "Katalepsie und Mutismus; sie zählen zu den katatonen Symptomen",
+        "Gedankeneingebung, -entzug, -ausbreitung und -lautwerden; sie zählen zu den Positivsymptomen",
+        "Zerfahrenheit und Neologismen; sie zählen zu den formalen Denkstörungen"
+      ],
+      "answer": 3,
+      "explanation": "Ich-Störungen umfassen Gedankeneingebung, -entzug, -ausbreitung und -lautwerden sowie Fremdbeeinflussungserleben und zählen zu den Positivsymptomen. Anhedonie/Affektverflachung sind Negativsymptome, Zerfahrenheit/Neologismen formale Denkstörungen, Wahnstimmung/Wahneinfall inhaltliche Denkstörungen und Katalepsie/Mutismus katatone Symptome."
+    },
+    {
+      "topic": "Ich-Störungen vs. Dissoziation",
+      "hard": true,
+      "trap": "Depersonalisation/Derealisation gibt es bei beiden - der Unterschied liegt in ich-dyston/Schutzmechanismus vs. biologische Pathologie.",
+      "question": "Sowohl Ich-Störungen als auch dissoziative Störungen kennen Depersonalisation und Derealisation. Worin liegt der entscheidende Unterschied?",
+      "options": [
+        "Ich-Störungen betreffen die Wahrnehmung, Dissoziation ausschließlich das Gedächtnis",
+        "Dissoziation ist psychologisch begründbar und ich-dyston (Schutzmechanismus), während bei Ich-Störungen eher eine biologische Pathologie angenommen wird",
+        "Dissoziation tritt nur bei der Schizophrenie auf, Ich-Störungen nur bei Traumafolgestörungen",
+        "Beide sind gleichbedeutend und lassen sich klinisch nicht unterscheiden",
+        "Ich-Störungen sind ich-dyston und ein psychologisch begründbarer Schutzmechanismus, während die Dissoziation als rein biologisch verursachte Pathologie ohne Schutzfunktion gilt"
+      ],
+      "answer": 1,
+      "explanation": "Dissoziation ist psychologisch begründbar und ich-dyston - ein Schutzmechanismus -, während Ich-Störungen eher als biologische Pathologie verstanden werden. Die Umkehrung dieser Zuordnung ist falsch. Beide sind nicht gleichbedeutend. Die Zuordnung Dissoziation = nur Schizophrenie / Ich-Störung = nur Trauma stimmt nicht, und die Wahrnehmung-vs-Gedächtnis-Trennung trifft den Kern nicht."
+    },
+    {
+      "topic": "Formale vs. inhaltliche Denkstörung",
+      "trap": "Formale (Ablauf des Denkens) vs. inhaltliche Denkstörung (Wahn als Inhalt).",
+      "question": "Welches Phänomen ist eine formale Denkstörung?",
+      "options": [
+        "Zerfahrenheit ohne roten Faden mit Gedankenabreißen und Neologismen",
+        "Der hypochondrische Wahn körperlicher Erkrankung",
+        "Der Beziehungswahn, alles werde auf die eigene Person bezogen",
+        "Der Verfolgungswahn als feste, argumentresistente und für die Person vollkommen unkorrigierbare Überzeugung",
+        "Der Größenwahn mit ich-bezogener Bedeutungszuschreibung"
+      ],
+      "answer": 0,
+      "explanation": "Formale Denkstörungen betreffen den Ablauf des Denkens - z. B. Zerfahrenheit, Gedankenabreißen, Neologismen. Verfolgungs-, Größen-, hypochondrischer und Beziehungswahn sind dagegen inhaltliche Denkstörungen: hier ist der Inhalt der Überzeugung gestört, nicht die formale Struktur des Gedankengangs."
+    },
+    {
+      "topic": "Wahninhalt",
+      "question": "Was gilt für den Inhalt des Wahns?",
+      "options": [
+        "Er wird mit steigender Intelligenz stets einfacher und weniger ausgestaltet",
+        "Er ist stets synthym, also vollständig stimmungskongruent",
+        "Er ist bei allen Betroffenen identisch und unabhängig von Kultur und Lebensgeschichte ein für alle Mal fest vorgegeben",
+        "Er tritt bei Frauen typischerweise als Größenwahn, bei Männern als Liebeswahn auf",
+        "Er ist kulturell und lebensgeschichtlich geprägt; bei Männern häufiger Größenwahn, bei Frauen häufiger Liebeswahn"
+      ],
+      "answer": 4,
+      "explanation": "Der Wahninhalt ist kulturell und lebensgeschichtlich geprägt, bei Männern häufiger Größenwahn, bei Frauen häufiger Liebeswahn. Ein für alle identischer Inhalt widerspricht dem. Höhere Intelligenz führt zu einem komplexeren (nicht einfacheren) Wahnsystem. Die Geschlechterzuordnung ist in der Distraktorvariante vertauscht. Synthymie (Stimmungskongruenz) ist ein Merkmal des Wahns bei affektiven Störungen, nicht des Wahns generell."
+    },
+    {
+      "topic": "Symptomhäufigkeit",
+      "trap": "Häufigstes/Kardinalsymptom der Psychose ist die fehlende Krankheitseinsicht - nicht Wahn oder Halluzination.",
+      "question": "Welches Merkmal ist das häufigste bzw. das Kardinalsymptom der Schizophrenie?",
+      "options": [
+        "Die Affektverflachung",
+        "Der Verfolgungswahn",
+        "Die Gedankeneingebung als Ich-Störung",
+        "Die akustische Halluzination in Form von Stimmenhören",
+        "Der Mangel an Krankheitseinsicht"
+      ],
+      "answer": 4,
+      "explanation": "Das häufigste Merkmal und Kardinalsymptom ist die fehlende Krankheitseinsicht - sie liegt praktisch immer vor. Verfolgungswahn, Stimmenhören, Affektverflachung und Gedankeneingebung sind zwar häufig, aber seltener als die fehlende Krankheitseinsicht und nicht das Kardinalsymptom."
+    },
+    {
+      "topic": "Affekt",
+      "transfer": true,
+      "question": "Ein Patient lächelt breit, während er vom Tod eines nahen Angehörigen berichtet; sein Gefühlsausdruck passt nicht zur Situation. Welches psychopathologische Merkmal beschreibt das am ehesten?",
+      "options": [
+        "Ambivalenz",
+        "Anhedonie",
+        "Parathymer Affekt",
+        "Affektlabilität",
+        "Affektverflachung"
+      ],
+      "answer": 2,
+      "explanation": "Ein Gefühlsausdruck, der nicht zur Situation passt, ist ein parathymer Affekt. Affektverflachung wäre eine Verarmung des Ausdrucks, Ambivalenz das gleichzeitige Nebeneinander gegensätzlicher Gefühle, Anhedonie der Verlust von Freude und Affektlabilität ein rascher, unangemessener Stimmungswechsel - hier geht es aber um die Inkongruenz von Ausdruck und Anlass."
+    },
+    {
+      "topic": "Halluzinationen",
+      "question": "Welche Aussage zu Halluzinationen bei Schizophrenie trifft NICHT zu?",
+      "options": [
+        "Imperative Stimmen sind besonders gefährlich, wenn Handlungsdruck erlebt wird",
+        "Akustische Halluzinationen sprechen vergleichsweise gut auf Medikation an",
+        "Jeder Mensch, der Stimmen hört, leidet zwangsläufig an einer Schizophrenie",
+        "Zönästhesien sind Körperhalluzinationen wie Brennen oder Elektrisierung",
+        "Akoasmen sind ungeformte akustische Wahrnehmungen wie Rauschen oder Klopfen"
+      ],
+      "answer": 2,
+      "explanation": "Nicht alle Menschen, die Stimmen hören, sind schizophren - die pauschale Gleichsetzung ist die gesuchte falsche Aussage. Zutreffend sind das vergleichsweise gute Ansprechen akustischer Halluzinationen auf Medikation, die Definition der Zönästhesien als Körperhalluzinationen, die besondere Gefahr imperativer Stimmen bei Handlungsdruck und die Definition der Akoasmen als ungeformte Geräusche."
+    },
+    {
+      "topic": "Halluzination vs. Illusion",
+      "trap": "Sinnestäuschung: Illusion = realer Reiz wird verkannt; Halluzination = kein äußerer Reiz.",
+      "question": "Worin unterscheidet sich eine Illusion von einer Halluzination?",
+      "options": [
+        "Bei der Illusion fehlt jeder äußere Reiz, während bei der Halluzination ein realer Reiz lediglich verkannt wird",
+        "Die Illusion ist ein Positivsymptom, die Halluzination dagegen ein Negativsymptom",
+        "Beide setzen zwingend einen vollständigen Realitätsverlust voraus und lassen sich klinisch grundsätzlich nicht voneinander trennen",
+        "Die Illusion ist immer akustisch, die Halluzination immer optisch",
+        "Bei der Illusion wird ein real vorhandener Sinnesreiz verkannt, bei der Halluzination fehlt ein äußerer Reiz ganz"
+      ],
+      "answer": 4,
+      "explanation": "Bei der Illusion wird ein tatsächlich vorhandener Sinnesreiz verkannt (z. B. ein Schatten als Person), bei der Halluzination fehlt ein äußerer Reiz vollständig. Die Umkehrung dieser Definitionen ist falsch. Beide lassen sich sehr wohl trennen - der Unterschied ist gerade das Vorhandensein bzw. Fehlen des realen Reizes. Die Bindung an eine feste Sinnesmodalität (akustisch/optisch) ist frei erfunden, und die Zuordnung zu Positiv-/Negativsymptomatik trifft nicht zu."
+    }
+  ]
+}

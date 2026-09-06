@@ -48,74 +48,25 @@
       "description": "Reines Begriffs- und Definitionsquiz: Fachbegriffe der Epidemiologie (Prävalenz, Inzidenz, Mediator/Moderator u. a.) sowie des Krankheitsverlaufs, der Symptomstärke und der Prognose (akut/chronisch, latent, Remission/Recovery, Rückfall/Rezidiv u. a.)."
     },
     {
-      "id": "kl-schizophrenie-symptome",
-      "file": "kl-schizophrenie-symptome.json",
-      "title": "Schizophrenie: Symptome im Überblick",
+      "id": "kl-schizophrenie-grundlagen",
+      "file": "kl-schizophrenie-grundlagen.json",
+      "title": "Schizophrenie I: Grundlagen & Psychopathologie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Symptomatik der Schizophrenie: Psychose-Definition, die vier Domänen, historische Konzepte (Kraepelin, Bleulers vier A, Schneider), formale Denk-, Affekt- und katatone Symptome."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zum Psychose-Begriff, den drei Konzeptnamen, den vier Domänen und der Psychopathologie (Wahn, Halluzination, Ich- und Denkstörungen). Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-schizophrenie-wahn",
-      "file": "kl-schizophrenie-wahn.json",
-      "title": "Schizophrenie: Wahn",
+      "id": "kl-schizophrenie-frueherkennung-verlauf",
+      "file": "kl-schizophrenie-frueherkennung-verlauf.json",
+      "title": "Schizophrenie II: Früherkennung, Verlauf & Epidemiologie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Der Wahn: Definition, Überstieg (Conrad), bizarr vs. synthym, Wahndynamik/doppelte Buchführung, Stufen der Wahnentwicklung und Wahnthemen."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Klassifikation, Frühsignalen (Basissymptome, attenuierte Symptome, BLIPS), Prodromalphase, Verlauf, Verlaufsprädiktoren und Epidemiologie. Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-schizophrenie-halluzinationen",
-      "file": "kl-schizophrenie-halluzinationen.json",
-      "title": "Schizophrenie: Halluzinationen",
+      "id": "kl-schizophrenie-aetiologie-dd-therapie",
+      "file": "kl-schizophrenie-aetiologie-dd-therapie.json",
+      "title": "Schizophrenie III: Ätiologie, Differenzialdiagnostik & Therapie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Halluzinationen: Abgrenzung (Illusion, Pseudohalluzination, Wahn), Modalitäten, akustische Formen (Akoasmen/Phoneme, imperativ/dialogisch/kommentierend), Zönästhesien."
-    },
-    {
-      "id": "kl-schizophrenie-ich-stoerungen",
-      "file": "kl-schizophrenie-ich-stoerungen.json",
-      "title": "Schizophrenie: Ich-Störungen",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Ich-Störungen: die fünf Dimensionen nach Scharfetter, Gedanken-Ich-Störungen als Erstrangsymptome, Abgrenzung zur Dissoziation, Depersonalisation/Derealisation."
-    },
-    {
-      "id": "kl-schizophrenie-frueherkennung",
-      "file": "kl-schizophrenie-frueherkennung.json",
-      "title": "Schizophrenie: Früherkennung",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Früherkennung: Frühwarnzeichen, Prodrom vs. Risikozustand (Übergangsraten), psychoseferne Basissymptome und psychosenahe Symptome (attenuiert, BLIPS), familiäre Belastung."
-    },
-    {
-      "id": "kl-schizophrenie-aetiologie",
-      "file": "kl-schizophrenie-aetiologie.json",
-      "title": "Schizophrenie: Ätiologie",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Ätiologie: Vulnerabilitäts-Stress-Bewältigungs-Modell (Cannabis), Dopaminhypothese und dopaminerge Bahnen, weitere Transmitter, Genetik (Polygenie, GWAS), C4/Overpruning, Prädiktoren."
-    },
-    {
-      "id": "kl-schizophrenie-epidemiologie-komorbiditaet",
-      "file": "kl-schizophrenie-epidemiologie-komorbiditaet.json",
-      "title": "Schizophrenie: Epidemiologie & Komorbidität",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Epidemiologie und Komorbidität der Schizophrenie: Prävalenz, Geschlecht und Ersterkrankungsalter, Suizidalität und verkürzte Lebenszeit, Vergleich mit affektiven Störungen sowie Komorbidität mit Zwangsstörung, Sucht (Doppeldiagnose) und PTBS."
-    },
-    {
-      "id": "kl-schizophrenie-verlauf",
-      "file": "kl-schizophrenie-verlauf.json",
-      "title": "Schizophrenie: Verlauf",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Verlauf der Schizophrenie: 3/3-Regel und Verlaufstypen (Wyatt) mit Residuum, Dauer der unbehandelten Psychose (DUP), Rückfallgefahr je nach Behandlung sowie günstige und ungünstige Verlaufsprädiktoren (Beginn, Kognition, Compliance, Cannabis, Expressed Emotions)."
-    },
-    {
-      "id": "kl-schizophrenie-differenzialdiagnostik",
-      "file": "kl-schizophrenie-differenzialdiagnostik.json",
-      "title": "Schizophrenie: Differenzialdiagnostik",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Differenzialdiagnostik der Schizophrenie: Abgrenzung gegen organische Störungen (Delir, Demenzen, NMDAR-Enzephalitis), substanzinduzierte Psychosen, andere psychotische Störungen (schizotyp, wahnhaft, akut vorübergehend, schizoaffektiv), affektive Psychosen sowie Angst-, Zwangs-, PTBS-, Ess- und Persönlichkeitsstörungen."
-    },
-    {
-      "id": "kl-schizophrenie-therapie",
-      "file": "kl-schizophrenie-therapie.json",
-      "title": "Schizophrenie: Therapie",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Therapie der Schizophrenie: Pharmakotherapie (Antipsychotika-Generationen, Cariprazin/Paliperidon, Rezeptorprofile, Behandlungsdauer, D2-Blockade, Overshooting, Supersensitivität), EKT sowie Psychotherapie (dimensionale Sicht, Mono-PT-Evidenz, KVT, Familieninterventionen, Psychoedukation, ACT)."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Vulnerabilitäts-Stress-Modell, Genetik/Dopamin, Komorbidität, differenzialdiagnostischer Abgrenzung (v. a. affektive Störungen) und Therapie. Prüfungsrelevanz-basiert, DD-Schwerpunkt."
     },
     {
       "id": "kl-ptbs-trauma-symptomatik",

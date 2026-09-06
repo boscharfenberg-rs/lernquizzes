@@ -1,0 +1,423 @@
+{
+  "id": "kl-schizophrenie-aetiologie-dd-therapie",
+  "title": "Schizophrenie III: Ätiologie, Differenzialdiagnostik & Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Vulnerabilitäts-Stress-Modell, Genetik/Dopamin, Komorbidität, differenzialdiagnostischer Abgrenzung (v. a. affektive Störungen) und Therapie. Prüfungsrelevanz-basiert, DD-Schwerpunkt.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Ätiologie - Vulnerabilitäts-Stress-Modell",
+      "question": "Wie wirken Vulnerabilität, Stress und Drogenkonsum im erweiterten Vulnerabilitäts-Stress-Modell zusammen?",
+      "options": [
+        "Interaktiv: Die Schwelle kann durch hohe Vulnerabilität allein oder durch hinzukommende Stressoren bzw. Drogen überschritten werden",
+        "Nur über die Vulnerabilität, die als einzig relevanter Faktor gilt",
+        "Ausschließlich über die Drogen, während Vulnerabilität und Stress keine Rolle spielen",
+        "Rein additiv, indem sich die Einzelrisiken stets nur linear aufsummieren, ohne einander jemals zu verstärken oder in irgendeiner Weise zu beeinflussen",
+        "Völlig unabhängig voneinander, da keiner der Faktoren die Wirkung eines anderen beeinflusst"
+      ],
+      "answer": 0,
+      "explanation": "Die Faktoren wirken interaktiv: Es gibt eine Schwelle zur Psychose, die durch hohe Vulnerabilität allein oder durch hinzukommende Stressoren bzw. Drogenkonsum überschritten werden kann. Ein rein additives, unabhängiges oder auf nur einen Faktor reduziertes Modell widerspricht dem interaktiven Zusammenwirken."
+    },
+    {
+      "topic": "Ätiologie - Stressoren",
+      "question": "Welcher psychosoziale Stressor wird im Modell besonders hervorgehoben?",
+      "options": [
+        "Ein früher, geregelter Berufseinstieg mit klarer Tagesstruktur",
+        "Eine ruhige, emotional zurückhaltende und wenig konflikthafte Familienatmosphäre ohne Kritik",
+        "Ein Klima hoher 'Expressed Emotions', also stark emotionalisierte Kommunikation",
+        "Ein hohes Bildungsniveau der Eltern und eine anregende schulische Umgebung",
+        "Eine ausgeprägte körperliche Aktivität und sportliche Betätigung"
+      ],
+      "answer": 2,
+      "explanation": "Besonders hervorgehoben wird das High-Expressed-Emotion-Klima - stark emotionalisierte, kritisch-überinvolvierte Kommunikation - als psychosozialer Stressor. Eine ruhige Atmosphäre, hohe Bildung, Sport oder eine geregelte Struktur sind gerade keine Risikostressoren, sondern eher neutral bis protektiv."
+    },
+    {
+      "topic": "Ätiologie - Cannabis/Pruning",
+      "question": "Über welchen Mechanismus erhöht Cannabiskonsum in der Adoleszenz das Psychoserisiko?",
+      "options": [
+        "Über eine reine Verstärkung der protektiven Faktoren",
+        "Über ein Overpruning: Es werden zu viele Synapsen abgebaut, was zu einem Verlust an Plastizität führt",
+        "Über eine direkte Zerstörung dopaminerger Zellkörper im Hirnstamm",
+        "Über eine Blockade der Östrogenrezeptoren im gesamten Gehirn",
+        "Über eine massive Neubildung von Synapsen, die das Gehirn dauerhaft überlastet und übererregbar macht"
+      ],
+      "answer": 1,
+      "explanation": "Cannabis wirkt in der Adoleszenz auf das in dieser Phase stattfindende Pruning im Sinne eines Overprunings - zu viele Synapsen werden abgebaut, es kommt zu einem Plastizitätsverlust. Eine massive Synapsen-Neubildung ist das Gegenteil, eine direkte Zerstörung dopaminerger Zellen oder eine Östrogenrezeptor-Blockade sind nicht der beschriebene Mechanismus, und protektive Faktoren werden nicht verstärkt."
+    },
+    {
+      "topic": "Ätiologie - Genetik (C4)",
+      "question": "Welches Gen sticht in den genetischen Analysen besonders heraus, und was ist seine Funktion?",
+      "options": [
+        "Ein Gen, das allein für die Östrogenausschüttung in der Menopause verantwortlich ist",
+        "Ein Gen, das ausschließlich die Dopaminproduktion im mesolimbischen System steuert",
+        "Ein Gen, das die Störung sicher verhindert, sofern es vorhanden ist",
+        "Das Gen C4, das das Pruning initialisiert - also genau den bei Schizophrenie übersteigerten Prozess",
+        "Ein einzelnes 'Schizophrenie-Gen', das die Störung monogen und vollständig determiniert und ihren Ausbruch mit Sicherheit vorhersagt"
+      ],
+      "answer": 3,
+      "explanation": "Aus den vielen über GWAS gefundenen Risikogenen sticht C4 heraus: Es initialisiert das Pruning, also genau den bei Schizophrenie übersteigerten Prozess. Ein monogen determinierendes 'Schizophrenie-Gen' gibt es nicht, C4 steuert nicht spezifisch die mesolimbische Dopaminproduktion, verhindert die Störung nicht und ist nicht das Östrogen-Gen."
+    },
+    {
+      "topic": "Ätiologie - Dopaminhypothese",
+      "hard": true,
+      "trap": "Neurotransmitter sind nicht ursächlich - die Dopaminhypothese ist als Ursache widerlegt, nur assoziiert.",
+      "question": "Welche Aussage zur Rolle von Dopamin bei der Schizophrenie trifft zu?",
+      "options": [
+        "Dopamin ist nicht die Ursache; die Dopaminhypothese ist als Ursache widerlegt und nur assoziiert",
+        "Ein Dopaminüberschuss ist der ätiologisch bedeutsamste und gesicherte Auslöser der Schizophrenie",
+        "Alle wirksamen Antipsychotika wirken ausschließlich über einen Dopaminüberschuss",
+        "Ein Dopaminmangel im mesolimbischen System erzeugt die Positivsymptomatik",
+        "Dopamin spielt nachweislich überhaupt keine Rolle im Krankheitsgeschehen"
+      ],
+      "answer": 0,
+      "explanation": "Neurotransmitter sind nicht ursächlich; die Dopaminhypothese ist als Ursache widerlegt und nur noch assoziiert. Ein Dopaminüberschuss ist also nicht der gesicherte Auslöser. Zugleich spielt Dopamin sehr wohl eine (assoziierte) Rolle, ist also nicht bedeutungslos. Der Überschuss (nicht Mangel) in mesolimbischen Arealen ist mit Positivsymptomen assoziiert, und Antipsychotika wirken über Dopamin-Antagonismus, nicht über einen Überschuss."
+    },
+    {
+      "topic": "Ätiologie - Dopaminhypothese",
+      "question": "Wie verteilt sich die angenommene dopaminerge Dysfunktion auf die Symptomatik?",
+      "options": [
+        "Eine Verteilung, die ausschließlich die neurokognitiven Defizite betrifft",
+        "Ein gleichmäßiger Überschuss im gesamten Gehirn, der alle Symptome gleichermaßen erzeugt und dabei keinerlei regionale Unterschiede aufweist",
+        "Überschuss präfrontal (Positivsymptome), Mangel mesolimbisch (Negativsymptome)",
+        "Überschuss mesolimbisch (Positivsymptome), Mangel präfrontal (kognitive Defizite und Negativsymptome)",
+        "Ein durchgängiger Mangel in allen Hirnregionen ohne jede regionale Differenzierung"
+      ],
+      "answer": 3,
+      "explanation": "Angenommen wird ein Überschuss in mesolimbischen Arealen (Positivsymptome) und ein Mangel in präfrontalen Regionen (kognitive Defizite und Negativsymptome). Die Umkehrung ist falsch, ebenso ein gleichmäßiger Überschuss, ein durchgängiger Mangel oder eine nur die Neurokognition betreffende Verteilung."
+    },
+    {
+      "topic": "Ätiologie - Nebenwirkungen",
+      "question": "Warum entstehen unter Blockade des mesolimbischen Dopaminsystems motorische Nebenwirkungen?",
+      "options": [
+        "Weil die Blockade zusätzlich das serotonerge System vollständig ausschaltet und dadurch die gesamte Motorik lahmlegt",
+        "Weil Antipsychotika die Muskulatur direkt und unmittelbar schädigen",
+        "Weil dadurch ausschließlich präfrontale Areale überaktiviert werden",
+        "Weil die Blockade den Östrogenhaushalt und darüber die Motorik verändert",
+        "Weil dasselbe dopaminerge System auch für die Bewegungskoordination zuständig ist"
+      ],
+      "answer": 4,
+      "explanation": "Wird das dopaminerge System blockiert, sinken die Positivsymptome; weil dasselbe System aber auch für die Bewegungskoordination zuständig ist, entstehen zugleich motorische Nebenwirkungen. Ein serotonerges Ausschalten, eine direkte Muskelschädigung, ein Östrogenmechanismus oder eine präfrontale Überaktivierung erklären das nicht."
+    },
+    {
+      "topic": "Ätiologie - frühes Trauma",
+      "trap": "Frühes Trauma ist ein unspezifischer Risikofaktor - nicht schizophreniespezifisch.",
+      "question": "Wie ist ein frühes Trauma als Risikofaktor einzuordnen?",
+      "options": [
+        "Als protektiver Faktor, der das Erkrankungsrisiko senkt",
+        "Als Faktor völlig ohne jeden Bezug zu psychischen Störungen",
+        "Als hochspezifischer Faktor, der ausschließlich zur Schizophrenie führt und für keine andere psychische Störung ein Risiko darstellt",
+        "Als alleinige und hinreichende Ursache jeder Schizophrenie",
+        "Als unspezifischer Risikofaktor für viele psychische Störungen, nicht nur für die Schizophrenie"
+      ],
+      "answer": 4,
+      "explanation": "Frühes Trauma ist ein unspezifischer Risikofaktor für psychische Störungen allgemein - es erhöht das Risiko für vieles, nicht nur für Schizophrenie. Es ist damit weder schizophreniespezifisch, noch protektiv, noch bedeutungslos, und schon gar keine alleinige hinreichende Ursache."
+    },
+    {
+      "topic": "Ätiologie - Grundproblem",
+      "question": "Was ist das Grundproblem der Ätiologieforschung zur Schizophrenie?",
+      "options": [
+        "Die Tatsache, dass jeder Mensch mit Risikoprofil sicher erkrankt",
+        "Hohe Heterogenität der Symptomatik, uneindeutige Vulnerabilitätsfaktoren und in weiten Teilen nur Hypothesen",
+        "Ein durchgängig homogenes Störungsbild mit einheitlichem Verlauf",
+        "Das völlige Fehlen jeglicher genetischer Befunde und Kandidatengene",
+        "Eine bereits vollständig geklärte, monokausale und für alle Fälle einheitliche Ursache, die keinerlei offene Forschungsfragen mehr lässt"
+      ],
+      "answer": 1,
+      "explanation": "Das Grundproblem ist die hohe Variabilität und Heterogenität der Symptomatik, uneindeutige Vulnerabilitätsfaktoren (viele mit Risikoprofil erkranken nie) und dass vieles nur Hypothese bleibt. Eine geklärte monokausale Ursache, fehlende genetische Befunde, ein sicheres Erkranken bei Risikoprofil oder ein homogenes Bild treffen gerade nicht zu."
+    },
+    {
+      "topic": "Komorbidität - Erklärung",
+      "question": "Warum treten bei Schizophrenie so häufig weitere psychische Störungen auf?",
+      "options": [
+        "Weil komorbide Störungen ausschließlich zufällig und ohne jeden Zusammenhang auftreten und niemals einer gemeinsamen Ursache folgen",
+        "Weil Komorbiditäten immer allein durch die Medikation verursacht werden",
+        "Weil andere Störungen die Schizophrenie regelhaft vollständig heilen",
+        "Weil Vulnerabilität offenbar eine sehr globale, nicht störungsspezifische Veranlagung ist",
+        "Weil eine Schizophrenie andere Störungen definitionsgemäß vollständig ausschließt"
+      ],
+      "answer": 3,
+      "explanation": "Die hohe Komorbidität erklärt sich daraus, dass Vulnerabilität eine sehr globale, nicht störungsspezifische Veranlagung ist - sonst wäre das stark erhöhte Risiko für diverse andere Störungen nicht erklärbar. Ein Ausschluss anderer Störungen, reine Zufälligkeit, eine ausschließliche Medikationsursache oder eine heilende Wirkung widersprechen dem."
+    },
+    {
+      "topic": "Komorbidität - psychologische Erklärung",
+      "transfer": true,
+      "question": "Ein schizophrener Patient konsumiert regelmäßig Substanzen, um seine unerträgliche innere Anspannung zu dämpfen. Welche Erklärungsrichtung der Komorbidität beschreibt das am ehesten?",
+      "options": [
+        "Eine Nebenwirkung der antipsychotischen Medikation ohne jede eigene Funktion",
+        "Die psychologische Erklärung, bei der die zweite Störung eine Funktion erfüllt (Selbstmedikation)",
+        "Ein Hinweis darauf, dass gar keine echte Komorbidität vorliegt",
+        "Ein reiner Zufallsbefund ohne jeden funktionalen oder biologischen Zusammenhang",
+        "Die rein biologische Erklärung über eine gemeinsame genetische Veranlagung der beiden Störungen, die ganz ohne funktionalen Bezug auskommt"
+      ],
+      "answer": 1,
+      "explanation": "Die Substanzeinnahme zur Dämpfung von Anspannung ist die psychologische Erklärungsrichtung: Die zweite Störung erfüllt eine Funktion (Selbstmedikation) im Rahmen der ersten. Die biologische Erklärung würde auf gemeinsame Gene abheben, nicht auf eine Funktion. Zufall, reine Medikationsnebenwirkung oder das Fehlen einer echten Komorbidität treffen den beschriebenen Funktionsaspekt nicht."
+    },
+    {
+      "topic": "Komorbidität - Sucht",
+      "question": "Was gilt für die komorbide Suchterkrankung bei Schizophrenie?",
+      "options": [
+        "Der Substanzkonsum hat mit der Affektregulation nachweislich nichts zu tun",
+        "Sucht tritt bei Schizophrenie seltener auf als in der Allgemeinbevölkerung",
+        "Substanzen dienen oft der Affektregulation und verschlechtern die Therapie",
+        "Eine Suchterkrankung schließt eine Schizophrenie sicher aus",
+        "Substanzkonsum verbessert den Therapieerfolg und beschleunigt die Genesung"
+      ],
+      "answer": 2,
+      "explanation": "Bei komorbider Sucht dienen Substanzen (besonders Cannabis) häufig der Affektregulation und verschlechtern die Therapie. Ein verbesserter Therapieerfolg, ein Ausschluss durch Sucht, eine seltenere Suchtrate oder ein fehlender Bezug zur Affektregulation sind falsch."
+    },
+    {
+      "topic": "DD - affektive Störungen",
+      "hard": true,
+      "trap": "Wahn bei Depression ist synthym (stimmungskongruent); bei Schizophrenie am bizarrsten.",
+      "question": "Worin unterscheidet sich der Wahn bei einer schweren Depression vom Wahn bei einer Schizophrenie?",
+      "options": [
+        "Beide Wahnformen sind grundsätzlich identisch und lassen sich klinisch nicht unterscheiden",
+        "Der schizophrene Wahn ist stets nihilistisch und der depressive stets ein Größenwahn",
+        "Der depressive Wahn ist synthym, also stimmungskongruent; bei der Schizophrenie ist der Wahn am bizarrsten",
+        "Der depressive Wahn ist besonders bizarr, der schizophrene Wahn dagegen immer stimmungskongruent und niemals bizarr ausgestaltet",
+        "Der depressive Wahn geht stets mit ausgeprägten Ich-Störungen einher"
+      ],
+      "answer": 2,
+      "explanation": "Der Wahn bei der Depression ist synthym (stimmungskongruent: Verarmung, Schuld, Nihilismus), während der Wahn bei der Schizophrenie am bizarrsten ist. Die Umkehrung ist falsch, beide sind unterscheidbar, und affektive Störungen gehen gerade nicht mit Ich-Störungen einher. Die feste Zuordnung nihilistisch/Größenwahn trifft so nicht zu."
+    },
+    {
+      "topic": "DD - affektive Störungen",
+      "hard": true,
+      "trap": "Bei affektiven Störungen gibt es KEINE Ich-Störungen - ein zentraler Trennpunkt.",
+      "question": "Welches Merkmal spricht am ehesten GEGEN eine rein affektive Störung und für eine Schizophrenie?",
+      "options": [
+        "Eine deutlich niedergedrückte Stimmung mit Antriebsminderung",
+        "Eine im Rahmen einer Manie auftretende Euphorie",
+        "Ein stimmungskongruenter Schuld- oder Verarmungswahn",
+        "Olfaktorische Halluzinationen mit dem Erleben von Fäulnisgeruch, die als synthymes Symptom zur depressiven Stimmung passen",
+        "Das Vorliegen von Ich-Störungen wie Gedankeneingebung oder Gedankenentzug"
+      ],
+      "answer": 4,
+      "explanation": "Bei affektiven Störungen gibt es keine Ich-Störungen - deren Vorliegen (Gedankeneingebung, -entzug) spricht daher gegen eine rein affektive Störung. Niedergedrückte Stimmung, ein synthymer Schuld-/Verarmungswahn, eine manische Euphorie und synthyme olfaktorische Halluzinationen sind dagegen mit einer affektiven Störung vereinbar."
+    },
+    {
+      "topic": "DD - substanzinduzierte Psychose",
+      "trap": "Substanzinduzierte Psychose: in der Regel keine Negativsymptome, im Querschnitt aber schwer abgrenzbar.",
+      "question": "Was ist für die substanzinduzierte Psychose charakteristisch?",
+      "options": [
+        "Ausgeprägte Negativsymptomatik, die sie eindeutig von der Schizophrenie abgrenzt und bei dieser niemals vorkommt",
+        "In der Regel keine Negativsymptome; im Querschnitt aber kaum von einer Schizophrenie zu unterscheiden",
+        "Eine dauerhafte Symptomatik, die auch bei vollständiger Abstinenz nie zurückgeht",
+        "Das obligate Fehlen jeglicher Positivsymptome",
+        "Ein ausschließlich im höheren Lebensalter auftretendes Bild"
+      ],
+      "answer": 1,
+      "explanation": "Die substanzinduzierte Psychose zeigt in der Regel keine Negativsymptome, ist aber im Querschnitt kaum von einer Schizophrenie zu unterscheiden und bei Abstinenz meist rückläufig. Ausgeprägte Negativsymptomatik, eine trotz Abstinenz dauerhafte Symptomatik, ein rein spätes Auftreten oder ein Fehlen von Positivsymptomen treffen nicht zu."
+    },
+    {
+      "topic": "DD - wahnhafte Störung",
+      "question": "Wodurch unterscheidet sich die wahnhafte Störung von der Schizophrenie?",
+      "options": [
+        "Sie tritt ausschließlich als Folge von Substanzkonsum auf",
+        "Es besteht das volle Bild aus Wahn, Halluzinationen, Ich-Störungen und Negativsymptomatik",
+        "Sie ist durch eine besonders schwere Desorganisation des Denkens gekennzeichnet",
+        "Sie verläuft immer nur wenige Stunden und remittiert dann spontan",
+        "Es besteht nur ein Wahn, der weniger bizarr ist, bei ansonsten normalem Funktionsniveau"
+      ],
+      "answer": 4,
+      "explanation": "Die wahnhafte Störung ist durch einen einzelnen, weniger bizarren Wahn bei ansonsten normalem Funktionsniveau gekennzeichnet. Das volle schizophrene Bild, eine schwere Desorganisation, ein nur stundenlanger Verlauf oder eine ausschließlich substanzbedingte Genese beschreiben sie nicht."
+    },
+    {
+      "topic": "DD - schizotype Störung",
+      "question": "Was kennzeichnet die schizotype Störung in Abgrenzung zur Schizophrenie?",
+      "options": [
+        "Eine ausschließlich medikamentös ausgelöste, rasch reversible Symptomatik",
+        "Das Vorliegen ausgeprägter Ich-Störungen und eines bizarren Wahnsystems",
+        "Ein regelhaft tödlicher Verlauf innerhalb weniger Wochen",
+        "Ein akuter, klar datierbarer Beginn mit voll ausgeprägter Positivsymptomatik",
+        "Kein klarer Beginn, langandauernd und insgesamt weniger ausgeprägte Symptome"
+      ],
+      "answer": 4,
+      "explanation": "Die schizotype Störung hat keinen klaren Beginn, ist langandauernd und zeigt insgesamt weniger ausgeprägte Symptome (sonderbare Menschen, seltsame Mimik/Gestik). Ein akuter Beginn mit voller Positivsymptomatik, ein tödlicher Verlauf, ausgeprägte Ich-Störungen mit bizarrem Wahn oder eine rein medikamentöse Auslösung passen nicht."
+    },
+    {
+      "topic": "DD - Anorexia nervosa",
+      "hard": true,
+      "trap": "Die Angst vor dem Dicksein bei Anorexie hat den Charakter einer überwertigen Idee - nicht eines Wahns.",
+      "transfer": true,
+      "question": "Eine Patientin mit Anorexie hält trotz starken Untergewichts unbeirrbar an der Angst fest, zu dick zu sein, und ist für Argumente nicht erreichbar. Wie ist dieses Merkmal am ehesten einzuordnen?",
+      "options": [
+        "Als überwertige Idee, die argumentresistent ist, aber keinen bizarren Wahn darstellt",
+        "Als Ich-Störung im Sinne einer Gedankeneingebung",
+        "Als bizarrer Wahn im Sinne einer manifesten schizophrenen Psychose",
+        "Als akustische Halluzination mit imperativem Charakter",
+        "Als vollständig korrigierbare, rein rationale Fehleinschätzung ohne klinische Bedeutung"
+      ],
+      "answer": 0,
+      "explanation": "Die tief verwurzelte Angst vor dem Dicksein hat den Charakter einer überwertigen Idee: argumentresistent, aber nicht bizarr-wahnhaft - deshalb überlegt man bei Anorexie, ob etwas Psychotisches vorliegt. Ein bizarrer Wahn, eine Halluzination oder eine Ich-Störung liegen nicht vor, und als bloß rationale, korrigierbare Fehleinschätzung ist die Argumentresistenz gerade nicht zu verstehen."
+    },
+    {
+      "topic": "DD - Persönlichkeitsstörungen",
+      "hard": true,
+      "trap": "Symmetrie: schizoid = abgeschwächte Negativsymptomatik, schizotyp = abgeschwächte Positivsymptomatik.",
+      "question": "Welche Zuordnung im Bereich der Persönlichkeitsstörungen ist richtig?",
+      "options": [
+        "Die paranoide PS ist typischerweise durch einen Liebeswahn gekennzeichnet",
+        "Schizoide PS entspricht einer abgeschwächten Negativ-, schizotype PS einer abgeschwächten Positivsymptomatik",
+        "Keine Persönlichkeitsstörung kann jemals mit psychotischen Symptomen einhergehen",
+        "Schizoide PS entspricht einer abgeschwächten Positiv-, schizotype PS einer abgeschwächten Negativsymptomatik",
+        "Beide Persönlichkeitsstörungen sind mit einer voll ausgeprägten Positivsymptomatik verbunden"
+      ],
+      "answer": 1,
+      "explanation": "Die zu merkende Symmetrie: schizoide PS = abgeschwächte Negativsymptomatik, schizotype PS = abgeschwächte Positivsymptomatik. Die Umkehrung ist falsch, eine volle Positivsymptomatik trifft nicht zu, für die paranoide PS ist der Eifersuchtswahn (nicht Liebeswahn) typisch, und bei vielen Persönlichkeitsstörungen können psychotische Symptome durchaus auftreten."
+    },
+    {
+      "topic": "DD - paranoide PS",
+      "question": "Welches wahnhafte Thema ist für die paranoide Persönlichkeitsstörung typisch?",
+      "options": [
+        "Der nihilistische Verarmungswahn der Depression",
+        "Der Größenwahn im Rahmen einer Manie",
+        "Der hypochondrische Wahn körperlicher Erkrankung",
+        "Der Liebeswahn als Erstrangsymptom",
+        "Der Eifersuchtswahn"
+      ],
+      "answer": 4,
+      "explanation": "Für die paranoide Persönlichkeitsstörung ist der Eifersuchtswahn typisch. Der manische Größenwahn, der depressiv-nihilistische Verarmungswahn, ein Liebeswahn (kein Erstrangsymptom) und der hypochondrische Wahn gehören zu anderen Störungsbildern."
+    },
+    {
+      "topic": "DD - Zwangsstörung",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Patient mit Zwangsgedanken verliert zunehmend die Einsicht in die Unsinnigkeit seiner Befürchtungen. Wie verändert sich damit die differenzialdiagnostische Nähe zum Wahn?",
+      "options": [
+        "Je geringer die Einsicht, desto sicherer ist eine Zwangsstörung ausgeschlossen",
+        "Die Einsicht hat mit der Abgrenzung zum Wahn grundsätzlich nichts zu tun",
+        "Mit sinkender Einsicht entfernt sich das Bild zunehmend vom Wahn",
+        "Je geringer die Einsicht, desto stärker nähert sich das Bild dem Wahn an",
+        "Eine geringe Einsicht beweist stets eine substanzinduzierte Psychose"
+      ],
+      "answer": 3,
+      "explanation": "Bei Zwangsstörungen besteht normalerweise Einsicht in die Unsinnigkeit; je geringer diese Einsicht wird, desto mehr nähert sich das Bild dem Wahn an. Ein Ausschluss der Zwangsstörung, eine Irrelevanz der Einsicht, eine Entfernung vom Wahn oder ein Beweis für eine Substanzpsychose sind falsch."
+    },
+    {
+      "topic": "DD - PTBS/Dissoziation",
+      "trap": "Bei PTBS sind es triggerausgelöste Flashbacks; Dissoziation ist ich-dyston (Schutzmechanismus).",
+      "question": "Wie lassen sich psychoseähnliche Phänomene bei PTBS und dissoziativen Störungen von einer akuten Psychose abgrenzen?",
+      "options": [
+        "Die Phänomene sind stets ich-synton und werden als angenehm erlebt",
+        "Bei der PTBS handelt es sich um triggerausgelöste Flashbacks, die Dissoziation ist ein ich-dystoner Schutzmechanismus",
+        "Sie lassen sich von einer Psychose grundsätzlich überhaupt nicht unterscheiden",
+        "Sie gehen regelhaft mit ausgeprägten Ich-Störungen und bizarrem Wahn einher",
+        "Es handelt sich um dauerhaft bestehende, nicht auslösbare psychotische Zustände wie bei der Schizophrenie, die keinerlei Bezug zu Triggern haben"
+      ],
+      "answer": 1,
+      "explanation": "Bei der PTBS sind es triggerausgelöste Flashbacks, und die Dissoziation ist ein ich-dystoner Schutzmechanismus - beides ist von einer dauerhaften Psychose abgrenzbar. Dauerhaft nicht-auslösbare Zustände, ein ich-syntones angenehmes Erleben, obligate Ich-Störungen mit bizarrem Wahn oder eine grundsätzliche Nichtunterscheidbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "DD - organische Ursachen",
+      "transfer": true,
+      "question": "Bei einem Patienten mit neu aufgetretenen psychotischen Symptomen wird eine Epilepsie festgestellt. Welche Einordnung ist am ehesten angemessen?",
+      "options": [
+        "Psychotische Symptome schließen eine organische Ursache wie eine Epilepsie sicher aus und machen jede weitere Abklärung überflüssig",
+        "Psychotische Symptome bei Epilepsie sind immer dauerhaft und irreversibel",
+        "Eine Epilepsie kann temporär psychotische Symptome erzeugen und ist als organische Ursache zu bedenken",
+        "Eine Epilepsie beweist zweifelsfrei das Vorliegen einer primären Schizophrenie",
+        "Organische Ursachen spielen bei psychotischen Symptomen grundsätzlich keine Rolle"
+      ],
+      "answer": 2,
+      "explanation": "Eine Epilepsie (ebenso Autoimmunerkrankungen) kann temporär psychotische Symptome erzeugen und gehört zu den organischen Ursachen, die man bedenken muss. Ein Ausschluss organischer Ursachen, der Beweis einer primären Schizophrenie, eine grundsätzliche Irrelevanz des Organischen oder eine obligate Dauerhaftigkeit sind falsch."
+    },
+    {
+      "topic": "Therapie - Wirksamkeit",
+      "hard": true,
+      "question": "Welche Aussage zur Wirksamkeit der Therapieformen trifft am ehesten zu?",
+      "options": [
+        "Nur die Pharmakotherapie ist wirksam, während Psychotherapie bei Schizophrenie nachweislich nichts bewirkt und daher grundsätzlich unterbleiben sollte",
+        "Die Medikation beseitigt bei praktisch allen Patienten sämtliche Positivsymptome vollständig",
+        "Die Psychotherapie ist ähnlich wirksam wie die Pharmakotherapie; bei der KVT reicht die Evidenz für eine alleinige Therapie",
+        "Die Akzeptanz der Psychopharmakotherapie ist durchweg sehr hoch",
+        "Eine Kombination beider Verfahren ist grundsätzlich kontraindiziert"
+      ],
+      "answer": 2,
+      "explanation": "Die Psychotherapie hat offenbar ähnliche Effektivität wie die Pharmakotherapie, und bei der KVT reicht die Evidenz so weit, dass sie als alleinige Therapie ausreichen kann. Dass nur Medikation wirke, dass sie bei allen alle Positivsymptome beseitige (rund 20 % haben persistierende Positivsymptome), eine hohe Akzeptanz oder eine Kontraindikation der Kombination sind falsch."
+    },
+    {
+      "topic": "Therapie - dimensionale Perspektive",
+      "question": "Was besagt die neue, dimensionale Perspektive auf die Schizophrenie?",
+      "options": [
+        "Schizophrenie ist eine übersteigerte Ausprägung normalpsychologischer Prozesse, nicht ein kategorial andersartiges Geschehen",
+        "Schizophrenie ist ein kategorial völlig andersartiges Geschehen ohne jeden Bezug zu normalen Prozessen und mit gesunder Psychologie in keiner Weise verbunden",
+        "Schizophrenie unterscheidet sich von Gesundheit allein in der Zahl der Chromosomen",
+        "Schizophrenie lässt sich ausschließlich über exakte biologische Grenzwerte definieren",
+        "Schizophrenie ist ein rein soziales Konstrukt ohne jede klinische Realität"
+      ],
+      "answer": 0,
+      "explanation": "Die dimensionale Perspektive versteht Schizophrenie als übersteigerte Ausprägung normalpsychologischer Prozesse, nicht als kategorial andersartiges Geschehen - Grundlage für Psychoedukation und reguläre Psychotherapie. Ein kategorialer Bruch, eine rein biologische Grenzwertdefinition, ein reines Sozialkonstrukt oder eine chromosomale Erklärung entsprechen dem nicht."
+    },
+    {
+      "topic": "Therapie - Pharmakotherapie",
+      "hard": true,
+      "question": "Was charakterisiert die erste und die zweite Generation der Antipsychotika?",
+      "options": [
+        "Die zweite Generation wirkt ausschließlich über eine Verstärkung des Dopamins",
+        "Beide Generationen wirken über eine vollständige Blockade des Östrogensystems",
+        "Erste Generation: reine Serotonin-Agonisten; zweite Generation: ausschließlich Dopamin-Agonisten ohne jede Wirkung auf weitere Rezeptorsysteme",
+        "Erste Generation: Dopamin-Antagonisten (Chlorpromazin); zweite Generation: 'Dirty Drugs' (Clozapin) mit breiterem Rezeptorprofil",
+        "Beide Generationen sind pharmakologisch identisch und unterscheiden sich nur im Namen"
+      ],
+      "answer": 3,
+      "explanation": "Die erste Generation sind Dopamin-Antagonisten (z. B. Chlorpromazin), die zweite Generation die 'Dirty Drugs' mit breiterem Rezeptorprofil (z. B. Clozapin). Reine Serotonin-/Dopamin-Agonisten, eine Östrogenblockade, eine Wirkung über Dopaminverstärkung oder eine pharmakologische Identität beider Generationen sind falsch."
+    },
+    {
+      "topic": "Therapie - Leitlinie",
+      "hard": true,
+      "trap": "Leitlinie 'start low, go slow' - die klinische Realität weicht maximal davon ab.",
+      "question": "Was besagt die Leitlinie 'start low, go slow', und wie sieht die klinische Realität aus?",
+      "options": [
+        "Leitlinie: nach festem Schema für eine fixe Dauer behandeln; die Realität dosiert stets zu niedrig und bleibt durchweg unter der empfohlenen Dosis",
+        "Leitlinie: möglichst hoch und früh dosieren; die Realität hält sich exakt daran",
+        "Leitlinie: niedrig starten, langsam und individuell dosieren; die Realität weicht mit Overshooting und Polypharmazie stark ab",
+        "Leitlinie und Realität stimmen vollständig überein, Abweichungen gibt es nicht",
+        "Leitlinie: Medikation grundsätzlich vermeiden; die Realität setzt gar keine Antipsychotika ein"
+      ],
+      "answer": 2,
+      "explanation": "'Start low, go slow' meint eine niedrige Startdosis, langsames und individuelles Eindosieren (so wenig und so kurz wie möglich); die klinische Realität weicht mit Overshooting, Polypharmazie und schnellem Aufdosieren maximal davon ab. Eine 'hoch und früh'-Leitlinie, eine vollständige Übereinstimmung, ein generelles Medikationsverbot oder ein festes Schema mit durchweg zu niedriger Dosierung sind falsch."
+    },
+    {
+      "topic": "Therapie - Langzeiteffekt",
+      "question": "Wie ist der Langzeiteffekt der antipsychotischen Medikation einzuschätzen?",
+      "options": [
+        "Nur etwa ein Drittel hat einen klinisch relevanten Effekt, und die Wirksamkeit nimmt im Verlauf ab",
+        "Die Medikation wirkt ausschließlich auf die neurokognitiven Defizite",
+        "Die Wirksamkeit nimmt im Verlauf immer weiter zu, unter anderem durch Down-Regulation",
+        "Ein Langzeiteffekt lässt sich grundsätzlich nicht beurteilen",
+        "Praktisch alle Patienten profitieren dauerhaft und in vollem Umfang von der Medikation und bleiben zeitlebens beschwerdefrei"
+      ],
+      "answer": 0,
+      "explanation": "Nur etwa ein Drittel der Patienten hat einen klinisch relevanten Medikationseffekt, und die Wirksamkeit nimmt im Verlauf ab (u. a. durch Up-Regulation). Ein dauerhafter voller Nutzen bei allen, eine zunehmende Wirksamkeit durch Down-Regulation, eine ausschließliche Wirkung auf die Neurokognition oder eine grundsätzliche Unbeurteilbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "DD - affektive Psychose",
+      "transfer": true,
+      "question": "Ein Patient ist im Rahmen einer manischen Episode getrieben und größenwahnhaft, zeigt jedoch keinerlei Ich-Störungen. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Am ehesten eine affektive Psychose, da bei affektiven Störungen keine Ich-Störungen auftreten",
+        "Sicher eine substanzinduzierte Psychose, die sich stets durch einen ausgeprägt stimmungsinkongruenten Wahn auszeichnet",
+        "Eindeutig eine Schizophrenie, weil ein Größenwahn ausschließlich bei ihr und niemals im Rahmen einer manischen Episode vorkommen kann",
+        "Gar nicht einzuordnen, weil Größenwahn und Manie keinerlei diagnostische Bedeutung besitzen",
+        "Eine wahnhafte Störung, weil ein Größenwahn definitionsgemäß immer mit einem völlig normalen Funktionsniveau einhergeht"
+      ],
+      "answer": 0,
+      "explanation": "Da keine Ich-Störungen vorliegen und die Symptomatik im Rahmen einer Manie auftritt, passt am ehesten eine affektive Psychose - bei affektiven Störungen gibt es gerade keine Ich-Störungen. Ein Größenwahn kommt sehr wohl bei der Manie vor, ein stimmungsinkongruenter Wahn ist nicht das Kennzeichen einer Substanzpsychose, das normale Funktionsniveau ist ein Merkmal der wahnhaften Störung (nicht jedes Größenwahns), und Manie und Größenwahn sind sehr wohl diagnostisch bedeutsam."
+    },
+    {
+      "topic": "DD - substanzinduzierte Psychose",
+      "transfer": true,
+      "question": "Nach wochenlangem intensivem Substanzkonsum entwickelt ein Patient psychotische Symptome ohne Negativsymptomatik, die sich unter Abstinenz allmählich zurückbilden. Welche Einordnung ist am ehesten zutreffend?",
+      "options": [
+        "Sicher eine chronische Schizophrenie, da einmal aufgetretene psychotische Symptome grundsätzlich niemals wieder zurückgehen",
+        "Eine affektive Psychose, weil ein Substanzkonsum ausschließlich stimmungskongruente Symptome erzeugt",
+        "Eine wahnhafte Störung, weil diese definitionsgemäß immer durch Substanzkonsum ausgelöst wird",
+        "Am ehesten eine substanzinduzierte Psychose, da Negativsymptome fehlen und die Symptomatik bei Abstinenz zurückgeht",
+        "Eine schizotype Störung, die typischerweise akut nach Substanzkonsum beginnt und rasch remittiert"
+      ],
+      "answer": 3,
+      "explanation": "Das Fehlen von Negativsymptomen und der Rückgang unter Abstinenz sprechen am ehesten für eine substanzinduzierte Psychose. Eine chronische Schizophrenie widerspricht der Rückbildung, die wahnhafte Störung ist nicht substanzdefiniert, die schizotype Störung hat gerade keinen klaren akuten Beginn, und ein Substanzkonsum erzeugt nicht ausschließlich stimmungskongruente Symptome."
+    }
+  ]
+}

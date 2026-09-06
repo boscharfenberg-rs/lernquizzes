@@ -65,16 +65,9 @@
       "group": "speziell",
       "order": 1,
       "quizIds": [
-        "kl-schizophrenie-symptome",
-        "kl-schizophrenie-wahn",
-        "kl-schizophrenie-halluzinationen",
-        "kl-schizophrenie-ich-stoerungen",
-        "kl-schizophrenie-frueherkennung",
-        "kl-schizophrenie-aetiologie",
-        "kl-schizophrenie-epidemiologie-komorbiditaet",
-        "kl-schizophrenie-verlauf",
-        "kl-schizophrenie-differenzialdiagnostik",
-        "kl-schizophrenie-therapie"
+        "kl-schizophrenie-grundlagen",
+        "kl-schizophrenie-frueherkennung-verlauf",
+        "kl-schizophrenie-aetiologie-dd-therapie"
       ]
     },
     {
