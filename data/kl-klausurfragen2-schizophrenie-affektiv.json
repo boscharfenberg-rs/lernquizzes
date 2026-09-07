@@ -57,11 +57,11 @@
         "Indem Betroffene nicht mehr das soziale Bezugssystem wechseln können (in die Dritte-Person-Perspektive), beziehen sie Ereignisse in ihrer Umgebung verstärkt auf sich",
         "Betroffenen gelingt der Überstieg von der Dritten-Person-Perspektive in die Erste-Person-Perspektive nicht mehr"
       ],
-      "answer": 1,
-      "explanation": "Conrad beschreibt den verlorenen Überstieg als Unfähigkeit, die eigene, wahnhaft gefärbte Perspektive zu verlassen und die gemeinsam geteilte Wirklichkeit wieder einzunehmen. Die Richtung 'dritte zu erste Person' ist vertauscht; die Eigenbeziehungs-Deutung beschreibt die Folge, nicht die Definition; ein 'unsystematischer' Perspektivwechsel trifft es nicht, und der Wechsel in die Wahnwirklichkeit hinein ist die Umkehrung des Gemeinten.",
+      "answer": 3,
+      "explanation": "Der 'Überstieg' meint bei Conrad die Fähigkeit, die eigene Perspektive zu verlassen und sich in ein übergeordnetes, mitmenschlich geteiltes Bezugssystem zu stellen. Fällt dieser Perspektivwechsel weg, bleibt alles auf die eigene Person bezogen - Ereignisse der Umgebung werden zu Zeichen, die einen selbst meinen (Eigenbeziehung, Wahnwahrnehmung). Die Formulierung, Betroffene könnten aus der Wahnwirklichkeit nicht mehr in die geteilte Wirklichkeit zurück, beschreibt das Ergebnis eines bereits fixierten Wahns statt des von Conrad gemeinten Mechanismus; der Wechsel IN die Wahnwirklichkeit hinein kehrt die Richtung um; ebenso die Variante von der Dritten- in die Erste-Person-Perspektive, denn verloren geht gerade der Weg zur Dritten-Person-Perspektive; und ein 'unsystematischer' Perspektivwechsel ist keine Definition, sondern eine unscharfe Umschreibung.",
       "topic": "Wahn",
       "hard": true,
-      "trap": "Der Überstieg meint den Weg zurück in die geteilte Wirklichkeit - nicht den Weg in den Wahn hinein."
+      "trap": "Verloren geht der Schritt heraus aus der Ich-Perspektive in das gemeinsame Bezugssystem - nicht der Weg zurück aus einem fertigen Wahn."
     },
     {
       "question": "Welchen diagnostischen Schluss erlaubt die Information am ehesten, dass ein männlicher Patient hoch emotional berichtet, er stehe unter dem Einfluss fremder Mächte, die dafür sorgen, dass in ihm eine Gebärmutter wachse, und er in wenigen Monaten einen neuen Heiland zur Welt bringen werde? Bezüglich des Inhalts ist der Patient nicht korrigierbar.",
