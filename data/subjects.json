@@ -111,27 +111,6 @@
       "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zur Borderline-Psychopathologie (Anspannungsmodell, Selbstverletzung, Identitätsstörung, Nähe-Distanz-Konflikt) und zur Behandlung (DBT, MBT, Schematherapie, TFP, Äquivalenzparadox, Netzwerk-Metaanalyse). Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-bps-affekt-impuls-identitaet",
-      "file": "kl-bps-affekt-impuls-identitaet.json",
-      "title": "BPS: Affektregulation, Impulsivität & Identität",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Borderline-Psychopathologie im Altklausur-Stil: die vier Kernbereiche und Leitsymptome, Borderline als historische Restkategorie und klinische Typen, dysfunktionale Affektregulation und Anspannungskurve, neurobiologische Befunde, Motive der Selbstverletzung sowie die Identitätsstörung im Modell der strukturellen Dissoziation."
-    },
-    {
-      "id": "kl-bps-interaktion-epidemiologie-verlauf",
-      "file": "kl-bps-interaktion-epidemiologie-verlauf.json",
-      "title": "BPS: Soziale Interaktion, Epidemiologie & Verlauf",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Borderline-Störung im Altklausur-Stil: Nähe-Distanz-Konflikt und Spaltung, das Ballspiel-Experiment zum sozialen Ausschluss und Ostrazismus, das zentrale Einsamkeitsgefühl sowie Epidemiologie, Suizidalität, Langzeitverlauf und Komorbidität."
-    },
-    {
-      "id": "kl-bps-aetiologie-differenzial-therapie",
-      "file": "kl-bps-aetiologie-differenzial-therapie.json",
-      "title": "BPS: Ätiologie, Differenzialdiagnostik & Therapie",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Borderline-Störung im Altklausur-Stil: genetische Vulnerabilität und Umweltfaktoren, invalidierendes Umfeld und Validierung als Intervention, Differenzialdiagnostik gegenüber Schizophrenie, kPTBS und anderen PS sowie die vier störungsspezifischen Verfahren, Leitlinien und symptomorientierte Pharmakotherapie."
-    },
-    {
       "id": "kl-affektiv-depression-klassifikation",
       "file": "kl-affektiv-depression-klassifikation.json",
       "title": "Affektive Störungen I: Depression - Klassifikation & Psychopathologie",
