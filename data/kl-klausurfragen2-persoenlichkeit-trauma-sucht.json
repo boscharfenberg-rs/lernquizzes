@@ -2,7 +2,7 @@
   "id": "kl-klausurfragen2-persoenlichkeit-trauma-sucht",
   "title": "Klausurfragen KL 2 (III): Persönlichkeit, Trauma, Essstörungen & Sucht",
   "subject": "Allgemeine und spezielle Krankheitslehre",
-  "description": "Teil 3 der gesammelten Klausurfragen (Dokument 'KL 2'), 1:1 übernommen: Borderline und Persönlichkeitsstörungen, Trauma/PTBS und Dissoziation, Essstörungen, Cannabis und Sucht sowie Suizidalität. Single Best Answer mit 5 Optionen A-E.",
+  "description": "32 Fragen aus der Sammlung 'Gesammelt Klausurfragen KL 2', 1:1 uebernommen: Borderline und Persoenlichkeitsstoerungen, Trauma/PTBS und Dissoziation, Essstoerungen. Nicht behandelte Inhalte (Cannabis/Sucht, Suizidforschung) sind entfernt. 5 Optionen A-E.",
   "showGrade": true,
   "questions": [
     {
@@ -364,120 +364,6 @@
       "hard": true
     },
     {
-      "question": "Ein Cannabiskonsument mit ziemlich starkem und regelmäßigem Konsum wird von seinem Behandler als antriebs-, motivations- und initiativlos sowie affektflach beschrieben. Es scheint ihm alles irgendwie egal zu sein. Er bezeichnet den Zustand als entweder chronisch depressiv oder als amotivationales Syndrom (aS), welches als Cannabiskonsum-Langzeitfolge beschrieben ist. Welche Aussage zum aS ist falsch?",
-      "options": [
-        "Das aS wird explizit für Cannabiskonsum beschrieben, nicht für andere Substanzen",
-        "Das aS weist auf eine enge neurobiologische Beziehung zwischen Cannabis und Depression hin",
-        "Abstinenz ist die effektivste Behandlung des Zustandes",
-        "Differenzialdiagnostisch könnte es sich dabei auch um einen chronischen Intoxikationszustand handeln",
-        "Die Existenz des aS wird kritisch diskutiert"
-      ],
-      "answer": 1,
-      "explanation": "Aus der Ähnlichkeit der Erscheinungsbilder auf eine enge neurobiologische Verwandtschaft von Cannabiswirkung und Depression zu schließen, ist nicht gedeckt - das ist die gesuchte falsche Aussage. Richtig sind die anhaltende Kontroverse um die Existenz des Syndroms, die Differenzialdiagnose eines chronischen Intoxikationszustands, Abstinenz als wirksamste Maßnahme und die begriffliche Bindung an Cannabis.",
-      "topic": "Sucht & Cannabis",
-      "hard": true,
-      "trap": "Phänomenologische Ähnlichkeit ist kein Beleg für einen gemeinsamen neurobiologischen Mechanismus."
-    },
-    {
-      "question": "Es gibt Phytocannabinoide, Endocannabinoide und synthetische Cannabinoide. Welche Aussage dazu ist richtig?",
-      "options": [
-        "Nur Phytocannabinoide wirken über direkte Affinität zu Cannabinoidrezeptoren",
-        "Synthetische Cannabinoide entfalten ihre Wirkung über ein spezifisches eigenes Rezeptorsystem (sog. SynCan-Rezeptor-Affinität)",
-        "Alle Cannabinoide wirken über eine direkte Affinität zu Cannabinoidrezeptoren",
-        "Cannabinoide können auch über indirekte Affinität zu den Cannabinoidrezeptoren wirksam werden",
-        "Synthetische Cannabinoide sind relativ zu pflanzlichen Cannabinoiden weniger psychoaktiv wirksam"
-      ],
-      "answer": 3,
-      "explanation": "Neben direkten Rezeptoragonisten gibt es indirekte Wirkmechanismen, etwa über die Beeinflussung endocannabinoider Abbauwege - CBD ist das bekannteste Beispiel. 'Alle wirken direkt' und 'nur Phytocannabinoide wirken direkt' sind daher beide falsch; ein eigenes Rezeptorsystem für synthetische Cannabinoide existiert nicht; und synthetische Cannabinoide sind im Gegenteil oft deutlich stärker psychoaktiv.",
-      "topic": "Sucht & Cannabis",
-      "hard": true
-    },
-    {
-      "question": "Auf welchen beiden Transmittersystemen ist das endocannabinoide System verortet?",
-      "options": [
-        "Serotonin",
-        "GABA und Glutamat",
-        "Dopamin",
-        "Adrenalin",
-        "Dopamin und Serotonin"
-      ],
-      "answer": 1,
-      "explanation": "Endocannabinoide wirken als retrograde Botenstoffe vor allem an GABAergen und glutamatergen Synapsen und modulieren dort Hemmung und Erregung. Dopamin und Serotonin werden dadurch indirekt beeinflusst, bilden aber nicht die Basis des Systems; die Einzelnennungen von Adrenalin, Dopamin oder Serotonin erfüllen zudem nicht die Vorgabe zweier Systeme.",
-      "topic": "Sucht & Cannabis"
-    },
-    {
-      "question": "Welche Aussage zur Beziehung zwischen Cannabiskonsum und dem Pruningprozess ist nach aktueller Forschungslage am ehesten angemessen?",
-      "options": [
-        "Cannabiskonsum hat vermutlich keinen Effekt hinsichtlich des Pruningprozesses",
-        "Die Evidenz hinsichtlich der Beziehung zwischen Cannabiskonsum und Pruning basiert lediglich auf Expertenstatements",
-        "Cannabiskonsum erzeugt ein sogenanntes Overpruning und erhöht dadurch das Schizophrenie-Risiko",
-        "Cannabiskonsum stört über die Beeinflussung des Endocannabinoidsystems das natürliche synaptische Pruning",
-        "Cannabiskonsum reduziert den Pruningprozess über Hemmung der Ausschüttung von GABA und Glutamat"
-      ],
-      "answer": 3,
-      "explanation": "Angemessen ist die zurückhaltende Formulierung einer Störung des adoleszenten Pruning über das Endocannabinoidsystem. Die Festlegung auf gerichtetes 'Overpruning' und die auf eine reine Reduktion sind jeweils spezifischer, als die Datenlage hergibt; ein fehlender Effekt widerspricht den Befunden; und die Evidenz stützt sich auf Studien, nicht bloß auf Expertenmeinungen.",
-      "topic": "Sucht & Cannabis",
-      "hard": true
-    },
-    {
-      "question": "Cannabis konsumierende Patienten mit Schizophrenie (SCH+CAN) zeigen in Studien häufig bessere neurokognitive Leistungen als abstinente Patienten. Welche Aussage dazu ist falsch?",
-      "options": [
-        "Entsprechend der Vulnerabilitätshypothese führt Cannabiskonsum auch bei Psychosen zu neurokognitiven Defiziten",
-        "Die höheren neurokognitiven Leistungen bei SCH+CAN sind entsprechend der Vulnerabilitätshypothese nur indirekt mit dem Cannabiskonsum assoziiert",
-        "Entsprechend der Vulnerabilitätshypothese erklärt der Befund keine Leistungssteigerung durch Cannabis bei Psychosen",
-        "Entsprechend der Vulnerabilitätshypothese führt Cannabiskonsum bei sehr gering vulnerablen Patienten zu einer direkten Verbesserung der Neurokognition",
-        "Der Befund ist erstaunlich, da es bei gesunden Konsumenten von Cannabis umgekehrt ist"
-      ],
-      "answer": 3,
-      "explanation": "Die Vulnerabilitätshypothese behauptet gerade keine direkte Leistungsverbesserung durch Cannabis - deshalb ist diese Aussage falsch und die Lösung. Erklärt wird der Befund über Selektion: Wer trotz geringer Vulnerabilität erkrankt, brauchte einen starken Auslöser wie Cannabis und startet von einem höheren kognitiven Niveau. Damit sind die Aussagen zur Umkehrung bei Gesunden, zum Fehlen einer echten Leistungssteigerung, zu weiterhin bestehenden Defiziten und zur nur indirekten Assoziation zutreffend.",
-      "topic": "Sucht & Cannabis",
-      "hard": true,
-      "trap": "Der Zusammenhang ist ein Selektionseffekt, keine Wirkung von Cannabis auf die Kognition."
-    },
-    {
-      "question": "Warum lohnt es sich entsprechend der Vulnerabilitätshypothese zur Erklärung besserer neurokognitiver Funktionen für Cannabis konsumierende Patienten mit Schizophrenie (SCH+CAN) in besonderem Maße, den Cannabiskonsum zu beenden?",
-      "options": [
-        "Die Frage ist falsch, denn SCH+CAN sind entsprechend der Vulnerabilitätshypothese eine spezielle Subgruppe, bei welcher der Cannabiskonsum bessere Leistungen erzeugt",
-        "Bei Abstinenz können SCH+CAN entsprechend der Hypothese wegen durchschnittlich sehr geringer Vulnerabilität eine besonders günstige Prognose des schizophrenen Krankheitsverlaufs aufweisen",
-        "Möglicherweise sollten SCH+CAN-Patienten entsprechend der Hypothese sogar ganz besonders viel Cannabis konsumieren, um ihre Leistungen zu steigern",
-        "Entsprechend der Hypothese sind SCH+CAN-Patienten ausschließlich wegen des Cannabiskonsums schizophren erkrankt, sodass sie bei Abstinenz vollständig remittieren",
-        "Die Vulnerabilitätshypothese erlaubt keine Annahme bezüglich der Prognose des schizophrenen Krankheitsverlaufs"
-      ],
-      "answer": 1,
-      "explanation": "Geringe Grundvulnerabilität plus Wegfall des auslösenden Faktors ergibt eine besonders günstige Prognose - das ist der Kern des Arguments. Eine vollständige Remission allein durch Abstinenz behauptet die Hypothese nicht; die Annahme einer leistungssteigernden Wirkung des Konsums widerspricht ihr; die Empfehlung von mehr Konsum ist deren Umkehrung ins Absurde; und Prognoseaussagen erlaubt sie sehr wohl.",
-      "topic": "Sucht & Cannabis",
-      "hard": true
-    },
-    {
-      "question": "Welche Aussage zur Beziehung zwischen Cannabinoiden und der Posttraumatischen Belastungsstörung (PTBS) ist entsprechend aktueller Studienlage falsch?",
-      "options": [
-        "Die Qualität und Aussagekraft vorliegender Studien zum Thema ist bislang sehr gering",
-        "Cannabiskonsum senkt vor dem Erleben eines Traumas die PTBS-Vulnerabilität",
-        "Cannabiskonsumenten haben ein erhöhtes PTBS-Risiko nach traumatischem Ereignis",
-        "Cannabiskonsum kann eine vorliegende PTBS-Symptomatik lindern",
-        "Cannabiskonsum kann therapeutische Effekte bei der PTBS-Behandlung steigern"
-      ],
-      "answer": 1,
-      "explanation": "Eine präventive Schutzwirkung vor dem Trauma ist nicht belegt - im Gegenteil steigt das Risiko; deshalb ist diese Aussage die gesuchte falsche. Zutreffend sind das erhöhte PTBS-Risiko bei Konsumenten, mögliche symptomlindernde Effekte bei bestehender PTBS, denkbare Verstärkung therapeutischer Effekte und die insgesamt schwache Studienqualität.",
-      "topic": "Sucht & Cannabis",
-      "trap": "Symptomlinderung nach dem Trauma und Schutz vor dem Trauma sind zwei völlig verschiedene Behauptungen."
-    },
-    {
-      "question": "Welche Aussage zur Beziehung zwischen dem endocannabinoiden System und der Behandlung angstassoziierter Störungen ist entsprechend aktueller Studienlage falsch?",
-      "options": [
-        "THC, aber auch CBD, haben in Studien positive Effekte hinsichtlich der Angstverarbeitung gezeigt",
-        "Das Thema verdeutlicht, wie wichtig es ist, dass Therapeuten Forschungsliteratur lesen, damit sie scheinbar plausible Mythen oder Fehlinformationen nicht verbreiten",
-        "Der Cannabinoidrezeptor 1 (CB1) scheint assoziiert mit der Verarbeitung von Angst und aversiven Erinnerungen",
-        "Es dürften alle Substanzen, die eine direkte oder indirekte CB1-Aktivierung erzeugen, positive Effekte hinsichtlich der Angstverarbeitung haben",
-        "Die Wahrscheinlichkeit ist dennoch hoch, dass es sich bei dem CB1-assoziierten angstverarbeitenden Effekt um eine Scheinkorrelation handelt"
-      ],
-      "answer": 4,
-      "explanation": "Die Annahme einer Scheinkorrelation ist nicht gedeckt - der Zusammenhang zwischen CB1 und Angstverarbeitung ist experimentell gut belegt; damit ist diese Aussage die gesuchte falsche. Richtig sind die Assoziation von CB1 mit Angst und aversiven Erinnerungen, positive Effekte von THC und CBD in Studien, die Mahnung zur Literaturkenntnis und die aus dem Mechanismus abgeleitete Erwartung an CB1-aktivierende Substanzen.",
-      "topic": "Sucht & Cannabis",
-      "hard": true,
-      "trap": "Diese Frage lebt vom Unterschied zwischen 'Wirkmechanismus unklar' und 'Zusammenhang wahrscheinlich unecht'."
-    },
-    {
       "question": "Was trifft zu auf Parasuizidalität?",
       "options": [
         "Stets suizidale Handlungen mit interaktionell manipulativem Charakter",
@@ -491,72 +377,6 @@
       "topic": "Suizidalität",
       "hard": true,
       "trap": "Entscheidend ist die fehlende Sterbeabsicht, nicht der Ausgang der Handlung."
-    },
-    {
-      "question": "Welche Aussage zur Suizidalität ist FALSCH?",
-      "options": [
-        "Bei akuter Suizidalität muss ein Patient stets stationär eingewiesen werden",
-        "Chronisch suizidale Patienten sind nicht chronisch eingewiesen im stationären Setting",
-        "Suizidalität kann nicht immer verhindert werden, selbst wenn der Diagnostiker verantwortungsbewusst handelt",
-        "Suizide können bilanziert geplant erfolgen, werden häufig aber dennoch in den letzten Minuten aktiv getriggert",
-        "Im Falle eines Suizids hat der Behandler etwas übersehen, trägt also immer eine gewisse Mitschuld"
-      ],
-      "answer": 4,
-      "explanation": "Eine pauschale Mitschuld des Behandlers ist fachlich wie ethisch nicht haltbar - auch sorgfältiges Handeln kann einen Suizid nicht immer verhindern; das ist die gesuchte falsche Aussage. Zutreffend sind die Grenzen der Verhinderbarkeit, die häufige situative Triggerung auch geplanter Suizide, die Einweisungspflicht bei akuter Suizidalität und die ambulante Führung chronisch suizidaler Patienten.",
-      "topic": "Suizidalität"
-    },
-    {
-      "question": "Was gilt NICHT für die sog. 'Hot-Spots' im Rahmen der Suizidforschung?",
-      "options": [
-        "Kenntnisse über Hot-Spots ermöglichen diverse suizidpräventive Maßnahmen",
-        "Hot-Spots beweisen, dass der klassische Bilanzsuizid nicht existiert",
-        "Es sind Orte mit Triggerfunktion hinsichtlich suizidaler Handlungen",
-        "Auch nach lange geplanten Suiziden erfolgt die finale Handlung oft getriggert durch die sogenannten Hot-Spots innerhalb von wenigen Minuten",
-        "Häufig sind es hohe Brücken oder bestimmte Bahnstrecken"
-      ],
-      "answer": 1,
-      "explanation": "Aus der Ortsgebundenheit vieler Suizide lässt sich nicht folgern, dass es keine bilanzierten Suizide gäbe - dieser Beweisanspruch ist die gesuchte falsche Aussage. Richtig sind die typischen Örtlichkeiten wie Brücken und Bahnstrecken, die kurzfristige Triggerung auch geplanter Suizide, der präventive Nutzen dieses Wissens und die Definition als Orte mit Triggerfunktion.",
-      "topic": "Suizidalität"
-    },
-    {
-      "question": "Welches ist keine Gemeinsamkeit von Suizidalität und einer psychischen Störung (PS)?",
-      "options": [
-        "Für Suizidalität und PS gibt es biologische Therapien",
-        "Für Suizidalität und PS existieren ätiologisch betrachtet bio-psycho-soziale Vulnerabilitäts- und Risikofaktoren",
-        "Suizidalität und PS sind kategoriale Diagnosen in den gängigen Diagnosesystemen",
-        "Suizidalität und PS können enormen Leidensdruck bei Betroffenen erzeugen",
-        "Für Suizidalität und PS besteht eine Indikation für Psychotherapie"
-      ],
-      "answer": 2,
-      "explanation": "Suizidalität ist keine eigenständige kategoriale Diagnose, sondern ein transdiagnostisches Zustandsbild - genau darin liegt der Unterschied und damit die Lösung. Gemeinsam sind dagegen das bio-psycho-soziale Ätiologiemodell, die psychotherapeutische Indikation, biologische Behandlungsoptionen und der erhebliche Leidensdruck.",
-      "topic": "Suizidalität",
-      "hard": true
-    },
-    {
-      "question": "Was bedeutet es, wenn bei einem Patienten Risikofaktoren für hohe Suizidalität diagnostiziert werden?",
-      "options": [
-        "Zwangsläufig genau überprüfen, ob sich der Patient vom suizidalen Handlungsdruck noch distanzieren kann",
-        "Der Patient wird sofort stationär eingewiesen",
-        "Der Patient ist definitiv noch nicht akut gefährdet",
-        "Keine genannte Antwort ist richtig",
-        "Das weitere Handeln hängt im Wesentlichen davon ab, ob der Patient deutlich depressiv ist"
-      ],
-      "answer": 0,
-      "explanation": "Risikofaktoren begründen keine Diagnose, sondern eine Prüfpflicht: Es folgt die sorgfältige Abklärung der Absprache- und Distanzierungsfähigkeit. Eine automatische Einweisung überspringt genau diese Abklärung; die Depressivität ist nur einer von vielen Faktoren; eine Entwarnung ist unzulässig; und da eine richtige Option vorliegt, scheidet die Verneinung aus.",
-      "topic": "Suizidalität"
-    },
-    {
-      "question": "Welche der folgenden drei Symptome zählen zum sog. präsuizidalen Syndrom nach Ringel: (1) Aggression gegen die eigene Person, (2) Einengung der sozialen und psychischen Lebensbereiche, (3) Suizidfantasien, die sich zunehmend automatisieren?",
-      "options": [
-        "Alle drei genannten Symptome",
-        "Nur die Aggression gegen die eigene Person und die Einengung",
-        "Nur die Einengung und die sich automatisierenden Suizidfantasien",
-        "Nur die Aggression gegen die eigene Person und die Suizidfantasien",
-        "Nur die Einengung der sozialen und psychischen Lebensbereiche"
-      ],
-      "answer": 0,
-      "explanation": "Ringels präsuizidales Syndrom besteht aus genau diesen drei Komponenten: Einengung, gegen das Selbst gewendete Aggression und zunehmend automatisierte Suizidfantasien. Jede Auswahl von nur einem oder zwei Elementen ist daher unvollständig.",
-      "topic": "Suizidalität"
     }
   ]
 }

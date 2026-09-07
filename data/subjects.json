@@ -376,16 +376,16 @@
     {
       "id": "kl-klausurfragen2-persoenlichkeit-trauma-sucht",
       "file": "kl-klausurfragen2-persoenlichkeit-trauma-sucht.json",
-      "title": "Klausurfragen KL 2 (III): Persönlichkeit, Trauma, Essstörungen & Sucht",
+      "title": "Klausurfragen KL 2 (III): Persönlichkeit, Trauma & Essstörungen",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "40 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Borderline und Persönlichkeitsstörungen, Trauma/PTBS und Dissoziation, Essstörungen, Cannabis und Sucht sowie Suizidalität. 5 Optionen A–E."
+      "description": "32 Fragen aus der Sammlung 'Gesammelt Klausurfragen KL 2', 1:1 uebernommen: Borderline und Persoenlichkeitsstoerungen, Trauma/PTBS und Dissoziation, Essstoerungen. Nicht behandelte Inhalte (Cannabis/Sucht, Suizidforschung) sind entfernt. 5 Optionen A-E."
     },
     {
       "id": "kl-klausurfragen2-befund-fallvignetten",
       "file": "kl-klausurfragen2-befund-fallvignetten.json",
       "title": "Klausurfragen KL 2 (IV): AMDP-Befund, Zeitkriterien & Fallvignetten",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "39 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund und der große Block diagnostischer Fallvignetten. 4 Optionen A–D."
+      "description": "36 Fragen aus der Sammlung 'Gesammelt Klausurfragen KL 2', 1:1 uebernommen: Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund und diagnostische Fallvignetten. Nicht behandelte Inhalte (standalone Angststoerungen, Demenz) sind entfernt. 4 Optionen A-D."
     }
   ]
 }

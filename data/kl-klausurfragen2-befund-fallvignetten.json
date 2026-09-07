@@ -2,7 +2,7 @@
   "id": "kl-klausurfragen2-befund-fallvignetten",
   "title": "Klausurfragen KL 2 (IV): AMDP-Befund, Zeitkriterien & Fallvignetten",
   "subject": "Allgemeine und spezielle Krankheitslehre",
-  "description": "Teil 4 der gesammelten Klausurfragen (Dokument 'KL 2'), 1:1 übernommen: partizipative Entscheidungsfindung, Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund sowie der große Block diagnostischer Fallvignetten. Single Best Answer mit 4 Optionen A-D.",
+  "description": "36 Fragen aus der Sammlung 'Gesammelt Klausurfragen KL 2', 1:1 uebernommen: Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund und diagnostische Fallvignetten. Nicht behandelte Inhalte (standalone Angststoerungen, Demenz) sind entfernt. 4 Optionen A-D.",
   "showGrade": true,
   "questions": [
     {
@@ -352,19 +352,6 @@
       "transfer": true
     },
     {
-      "question": "Markus ist ein 35-jähriger Ingenieur, der sich seit einiger Zeit ständig Sorgen über seine Arbeit, seine Gesundheit und die Sicherheit seiner Familie macht. Er kann nicht aufhören, über alle möglichen negativen Szenarien nachzudenken, die eintreten könnten. Markus hat Schwierigkeiten, sich zu entspannen, und fühlt sich oft nervös und angespannt. Er hat auch körperliche Symptome wie Muskelverspannungen und Schlafstörungen. Welche psychiatrische Störung hat Markus wahrscheinlich?",
-      "options": [
-        "Bipolare Störung",
-        "Schizophrenie",
-        "Depression",
-        "Generalisierte Angststörung"
-      ],
-      "answer": 3,
-      "explanation": "Frei flottierende Sorgen über mehrere Lebensbereiche mit Anspannung, Unruhe und körperlichen Begleitsymptomen kennzeichnen die generalisierte Angststörung. Für eine Schizophrenie fehlen psychotische Symptome; für eine Depression stehen Stimmung und Antrieb nicht im Vordergrund; und für eine bipolare Störung fehlt jede manische oder hypomane Episode.",
-      "topic": "Fallvignetten",
-      "transfer": true
-    },
-    {
       "question": "Max ist ein 42-jähriger Geschäftsmann. In den letzten Wochen fühlte er sich sehr niedergeschlagen, zog sich zurück und hatte Schwierigkeiten, alltägliche Aufgaben zu erledigen. Jetzt fühle er sich ungewöhnlich glücklich und euphorisch und hat das Gefühl, alles tun zu können. Er hat eine Menge Energie und schläft nur sehr wenig. Er hat auch sehr viele neue Ideen und startet viele Projekte, ohne darüber nachzudenken, ob er sie wirklich zu Ende führen kann. Max hat in letzter Zeit auch viel Geld ausgegeben und impulsiv Entscheidungen getroffen. Welche psychiatrische Störung hat Max wahrscheinlich?",
       "options": [
         "Bipolare Störung (manische Episode)",
@@ -433,19 +420,6 @@
       "transfer": true
     },
     {
-      "question": "Jan ist ein 25-jähriger Mann, der seit seiner Jugend unter starken Ängsten leidet. Er hat Schwierigkeiten, neue Menschen kennenzulernen und öffentlich zu sprechen. Jan hat auch Angst davor, in Gruppen zu essen oder zu trinken, da er befürchtet, dass andere ihn beurteilen oder kritisieren könnten. Jan vermeidet oft soziale Situationen oder erträgt sie mit großer Anspannung und Angst. Jan weiß, dass seine Ängste irrational sind, aber er kann nicht anders, als sie zu fühlen. Welche psychiatrische Störung hat Jan wahrscheinlich?",
-      "options": [
-        "Soziale Angststörung",
-        "Agoraphobie",
-        "Generalisierte Angststörung",
-        "Zwangsstörung"
-      ],
-      "answer": 0,
-      "explanation": "Die Angst bezieht sich spezifisch auf Bewertung durch andere in sozialen Situationen - das ist die soziale Angststörung. Die Agoraphobie fürchtet Orte ohne Fluchtmöglichkeit, nicht die Bewertung; die generalisierte Angststörung besteht aus frei flottierenden Sorgen ohne situativen Fokus; und für eine Zwangsstörung fehlen Zwangsgedanken und -handlungen.",
-      "topic": "Fallvignetten",
-      "transfer": true
-    },
-    {
       "question": "Max ist ein 30-jähriger Mann, der seit etwa einem Jahr ungewöhnliche Wahrnehmungen und Gedanken hat. Er hört Stimmen, die ihm Dinge sagen oder Befehle geben, und glaubt, dass diese Stimmen von außen kommen. Max glaubt auch, dass er von Geheimdiensten und Außerirdischen verfolgt wird und dass seine Gedanken von anderen kontrolliert werden. Er hat Schwierigkeiten, seine Gedanken zu ordnen und zu konzentrieren. Max hat sich von seinen Freunden und seiner Familie zurückgezogen und vermeidet soziale Kontakte. Welche psychiatrische Störung hat Max wahrscheinlich?",
       "options": [
         "Borderline-Persönlichkeitsstörung",
@@ -471,20 +445,6 @@
       "topic": "Fallvignetten",
       "hard": true,
       "trap": "Misstrauen wird zur wahnhaften Störung, sobald es unkorrigierbare Gewissheit erreicht - ohne dass die Schizophreniekriterien erfüllt sind.",
-      "transfer": true
-    },
-    {
-      "question": "Herr Schmidt ist ein 70-jähriger Mann, der seit einem Schlaganfall vor ein paar Monaten Gedächtnisprobleme hat. Er hat Schwierigkeiten, sich an Namen, Ereignisse und Gespräche zu erinnern. Er hat auch Schwierigkeiten, Entscheidungen zu treffen und komplexe Aufgaben auszuführen. Herr Schmidt hat auch Veränderungen in seiner Persönlichkeit und Stimmung bemerkt, einschließlich Reizbarkeit und Depressionen. Welche psychiatrische Störung hat Herr Schmidt wahrscheinlich?",
-      "options": [
-        "Vaskuläre Demenz",
-        "Alzheimer-Krankheit",
-        "Parkinson-Krankheit",
-        "Schizophrenie"
-      ],
-      "answer": 0,
-      "explanation": "Der zeitliche Zusammenhang mit einem Schlaganfall, exekutive Defizite und Persönlichkeits- bzw. Affektveränderungen sprechen für eine vaskuläre Demenz. Die Alzheimer-Demenz beginnt schleichend ohne fassbares zerebrovaskuläres Ereignis; die Parkinson-Krankheit wäre durch motorische Kardinalsymptome gekennzeichnet; und für eine Schizophrenie fehlen psychotische Symptome.",
-      "topic": "Fallvignetten",
-      "trap": "Der Zeitpunkt des Beginns entscheidet: abrupt nach Schlaganfall spricht gegen Alzheimer.",
       "transfer": true
     },
     {
