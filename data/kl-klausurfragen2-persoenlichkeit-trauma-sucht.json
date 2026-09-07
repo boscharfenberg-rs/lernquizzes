@@ -70,11 +70,11 @@
         "Die allgemeine Lebenszufriedenheit wird besser",
         "Lebensqualität verschlechtert sich"
       ],
-      "answer": 4,
-      "explanation": "Die Langzeitstudien zeigen eine Verbesserung des subjektiven Befindens - eine sich verschlechternde Lebensqualität ist damit die falsche und gesuchte Aussage. Zutreffend sind: deutlicher Rückgang verhaltensnaher Symptome wie Selbstverletzung und Suizidversuche, weitgehend stabile temperamentsnahe Merkmale, steigende Lebenszufriedenheit und dennoch eine sich verschlechternde soziale Integration.",
+      "answer": 3,
+      "explanation": "Die Langzeitstudien zeigen ein auseinanderlaufendes Bild: Symptomatisch bessert sich vieles, das Ergehen der Betroffenen aber nicht. Eine steigende allgemeine Lebenszufriedenheit ist damit die falsche Aussage und die gesuchte Loesung. Zutreffend und daher keine Loesung sind: der deutliche Rueckgang verhaltensnaher Symptome wie Selbstverletzung und Suizidversuchen, die weitgehend stabil bleibenden temperamentsnahen Merkmale sowie die sich verschlechternde Lebensqualitaet und soziale Integration.",
       "topic": "Borderline-Persönlichkeitsstörung",
       "hard": true,
-      "trap": "Symptomatisch bessert sich vieles, die soziale Integration aber nicht - subjektives Befinden und psychosoziales Funktionsniveau laufen auseinander."
+      "trap": "Symptomremission ist bei der BPS die Regel - psychosoziale Erholung nicht. Weniger Symptome bedeuten hier gerade nicht mehr Lebenszufriedenheit."
     },
     {
       "question": "Die Affektivität und Regulation von Affekten bei BPS unterscheiden sich von gesunden Kontrollen entsprechend des sog. 'Porsche- vs. Polo'-Modells. Welche Aussage dazu ist falsch?",
