@@ -28,8 +28,8 @@
         "Psychosenahe Risikosymptome",
         "Kurz andauernde Psychosesymptome"
       ],
-      "answer": 2,
-      "explanation": "BLIPS sind bereits im Querschnitt an ihrer geringen Intensität erkennbar - die Aussage, man könne sie nur über den Zeitverlauf abgrenzen, ist deshalb falsch und die gesuchte Lösung. Zutreffend und daher keine Lösung sind: geringe Intensität, kurze Dauer, Einordnung als psychosenahe Risikosymptome und die in der Regel spontane Remission.",
+      "answer": 0,
+      "explanation": "BLIPS sind voll ausgeprägte, echte Psychosesymptome - nur kurz andauernd und intermittierend, mit in der Regel spontaner Remission. 'Nur von geringer Intensität' ist deshalb falsch und die gesuchte Lösung: Geringe Intensität kennzeichnet die attenuierten (abgeschwächten) Symptome (APS), nicht die BLIPS. Zutreffend und daher keine Lösung sind: kurze Dauer, spontane Remission, die Einordnung als psychosenahe Risikosymptome sowie dass sie im Querschnitt wie echte Psychosesymptome erscheinen und sich nur im Zeitverlauf abgrenzen lassen.",
       "topic": "Früherkennung & Prodrom",
       "hard": true
     },
