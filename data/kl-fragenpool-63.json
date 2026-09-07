@@ -6,59 +6,6 @@
   "showGrade": true,
   "questions": [
     {
-      "topic": "Suizidalität",
-      "question": "Was gilt NICHT für die sog. „Hot-Spots“ im Rahmen der Suizidforschung?",
-      "options": [
-        "Häufig sind es hohe Brücken oder bestimmte Bahnstrecken",
-        "Kenntnisse über Hot-Spots ermöglichen diverse suizidpräventive Maßnahmen",
-        "Auch nach lange geplanten Suiziden erfolgt die finale Handlung oft durch die Hot-Spots getriggert innerhalb weniger Minuten",
-        "Es sind Orte mit Triggerfunktion hinsichtlich suizidaler Handlungen",
-        "Hot-Spots beweisen, dass der klassische Bilanzsuizid nicht existiert"
-      ],
-      "answer": 4,
-      "explanation": "Hot-Spots widerlegen den Bilanzsuizid nicht – beides schließt sich gerade nicht aus: Auch ein lange bilanzierend geplanter Suizid wird am Ort selbst final getriggert. Zutreffend sind dagegen die Beschreibung als hohe Brücken oder bestimmte Bahnstrecken, die Triggerfunktion für suizidale Handlungen, der Ablauf der finalen Handlung innerhalb weniger Minuten und die daraus ableitbaren Präventionsmaßnahmen (z. B. bauliche Sicherung)."
-    },
-    {
-      "topic": "Suizidalität",
-      "trap": "Der Impuls, im Suizidfall immer ein Behandlerversäumnis anzunehmen, ist fachlich falsch – nicht jede Suizidalität ist verhinderbar.",
-      "question": "Welche Aussage zur Suizidalität ist falsch?",
-      "options": [
-        "Suizide können bilanziert geplant erfolgen, werden häufig aber dennoch in den letzten Minuten aktiv getriggert",
-        "Im Falle eines Suizids hat der Behandler etwas übersehen, trägt also immer eine gewisse Mitschuld",
-        "Suizidalität kann nicht immer verhindert werden, selbst wenn der Diagnostiker verantwortungsbewusst handelt",
-        "Bei akuter Suizidalität muss ein Patient stets stationär eingewiesen werden",
-        "Chronisch suizidale Patienten sind nicht chronisch eingewiesen im stationären Setting"
-      ],
-      "answer": 1,
-      "explanation": "Eine pauschale Mitschuld des Behandlers ist falsch: Suizidalität ist auch bei sorgfältigem, verantwortungsbewusstem Vorgehen nicht immer verhinderbar. Richtig sind dagegen die stationäre Einweisung bei akuter Suizidalität, die Kombination aus bilanzierter Planung und finaler Triggerung, die ambulante Führung chronisch suizidaler Patienten und die grundsätzliche Grenze der Verhinderbarkeit."
-    },
-    {
-      "topic": "Suizidalität",
-      "question": "Welches ist keine Gemeinsamkeit von Suizidalität und einer psychischen Störung (PS)?",
-      "options": [
-        "Suizidalität und PS sind kategoriale Diagnosen in den gängigen Diagnosesystemen",
-        "Für Suizidalität und PS existieren ätiologisch betrachtet bio-psycho-soziale Vulnerabilitäts- und Risikofaktoren",
-        "Suizidalität und PS können enormen Leidensdruck bei Betroffenen erzeugen",
-        "Für Suizidalität und PS gibt es biologische Therapien",
-        "Für Suizidalität und PS besteht eine Indikation für Psychotherapie"
-      ],
-      "answer": 0,
-      "explanation": "Suizidalität ist in ICD und DSM keine eigene kategoriale Diagnose, sondern ein transdiagnostisches Syndrom – genau darin unterscheidet sie sich von einer psychischen Störung. Die übrigen Merkmale teilen beide: bio-psycho-soziale Risikofaktoren, Psychotherapieindikation, biologische Behandlungsoptionen und erheblicher Leidensdruck."
-    },
-    {
-      "topic": "Suizidalität",
-      "question": "Was bedeutet es, wenn bei einem Patienten Risikofaktoren für hohe Suizidalität diagnostiziert werden?",
-      "options": [
-        "Der Patient ist sofort stationär einzuweisen",
-        "Keine genannte Antwort ist richtig",
-        "Das weitere Handeln hängt im Wesentlichen davon ab, ob der Patient deutlich depressiv ist",
-        "Der Patient ist definitiv noch nicht akut gefährdet",
-        "Zwingend genau überprüfen, ob sich der Patient vom suizidalen Handlungsdruck noch distanzieren kann"
-      ],
-      "answer": 4,
-      "explanation": "Risikofaktoren erhöhen die statistische Wahrscheinlichkeit, ersetzen aber nicht die Einzelfallprüfung: Entscheidend ist die Frage nach der Distanzierungsfähigkeit vom suizidalen Handlungsdruck. Eine sofortige Einweisung allein aufgrund von Risikofaktoren ist nicht indiziert, das Vorliegen einer Depression ist nur einer von vielen Faktoren, und der Umkehrschluss auf fehlende akute Gefährdung ist unzulässig; damit trifft auch die Auffangoption nicht zu."
-    },
-    {
       "topic": "Trauma & PTBS",
       "question": "Dissoziation während eines Traumas kann sich als automatisiert auftretender Schutzmechanismus einstellen. Welche Aussage dazu ist richtig?",
       "options": [
@@ -88,7 +35,7 @@
       "topic": "Trauma & PTBS",
       "question": "Welche zwei Subtypen der PTBS können nach DSM-5 differenziert werden?",
       "options": [
-        "Intensiver und dissoziativer Subtyp",
+        "Intrusiver und dissoziativer Subtyp",
         "Alle der genannten Subtypen der PTBS lassen sich nach DSM-5 differenzieren",
         "Typ-1- und Typ-2-Trauma",
         "Interpersonell und akzidentell",
@@ -239,19 +186,6 @@
       "explanation": "Die emotionale Intensität einer Erinnerung sagt nichts über ihren Wahrheitsgehalt aus – auch zutreffende Erinnerungen sind hoch emotional, weshalb sie kein Warnhinweis ist. Verdächtig sind dagegen eine gerichtete Erwartungshaltung, ein langgezogener Wiedererinnerungsprozess, eine diskontinuierliche Erinnerung und die aktive, explizite Suche nach dem Ereignis, weil all das Suggestionseffekte begünstigt."
     },
     {
-      "topic": "Trauma & PTBS",
-      "question": "Welche Aussage zur Beziehung zwischen Cannabinoiden und der Posttraumatischen Belastungsstörung (PTBS) ist entsprechend aktueller Studienlage richtig?",
-      "options": [
-        "Traumatisierten Menschen sollte man dazu raten, Cannabis zu konsumieren",
-        "Cannabiskonsum scheint insbesondere nach Typ-2-Trauma die PTBS-Symptomatik zu erhöhen",
-        "Die Qualität vorliegender Studien ist bislang so gering, dass keine belastbaren generalisierbaren Aussagen möglich sind",
-        "Es kann als eindeutig erwiesen gelten, dass Cannabiskonsum die therapeutischen Effekte bei PTBS-Behandlungen steigert",
-        "Cannabiskonsumenten haben ein geringeres PTBS-Risiko nach einem traumatischen Ereignis"
-      ],
-      "answer": 2,
-      "explanation": "Die Datenlage ist methodisch schwach, sodass sich weder ein protektiver noch ein schädigender Effekt generalisierbar belegen lässt. Genau deshalb sind alle inhaltlich zugespitzten Aussagen unzulässig: die behauptete Symptomverstärkung nach Typ-2-Trauma, die Konsumempfehlung, der angeblich erwiesene Therapieeffekt und das angeblich verringerte PTBS-Risiko."
-    },
-    {
       "topic": "Dissoziation & Ich-Integration",
       "question": "Was ist NICHT mit erhöhter Dissoziationsneigung assoziiert?",
       "options": [
@@ -305,19 +239,6 @@
       "explanation": "Ein traumatischer Hintergrund ist keine notwendige Bedingung – Ich-Störungen bei Schizophrenie etwa entstehen ohne Traumatisierung, und auch nicht-pathologische Dissoziationen treten ohne Trauma auf. Zutreffend sind dagegen die Zuordnung von Dissoziation und schizophrener Ich-Störung zur gestörten Ich-Integration, das fluktuierende Auftreten bei PTBS und Borderline, die dimensionale Verortung auf einem Kontinuum und die offene Debatte über qualitative Differenzierung versus gemeinsames Kontinuum."
     },
     {
-      "topic": "Trauma & PTBS",
-      "question": "Welche Aussage zur Beziehung zwischen Cannabinoiden und der PTBS ist entsprechend aktueller Studienlage falsch?",
-      "options": [
-        "Cannabiskonsum kann therapeutische Effekte bei der PTBS-Behandlung steigern",
-        "Cannabiskonsumenten haben ein erhöhtes PTBS-Risiko nach traumatischem Ereignis",
-        "Cannabiskonsum kann eine vorliegende PTBS-Symptomatik lindern",
-        "Die Qualität und Aussagekraft vorliegender Studien zum Thema sind bislang sehr gering",
-        "Cannabiskonsum senkt vor dem Erleben eines Traumas die PTBS-Vulnerabilität"
-      ],
-      "answer": 4,
-      "explanation": "Eine protektive, vulnerabilitätssenkende Wirkung vor dem Trauma ist nicht belegt – im Gegenteil finden sich Hinweise auf ein erhöhtes Risiko bei Konsumenten. Zutreffend sind die schwache Studienqualität, das erhöhte PTBS-Risiko nach Traumatisierung sowie die diskutierten symptomlindernden und therapieunterstützenden Effekte."
-    },
-    {
       "topic": "Dissoziation & Ich-Integration",
       "trap": "Im Fragenpool war dieses Item mit zwei richtigen Antworten vorgesehen; hinterlegt ist die dort markierte Lösung.",
       "question": "Was ist „pseudopsychotisch“?",
@@ -343,21 +264,6 @@
       ],
       "answer": 3,
       "explanation": "Die spezifische Phobie ist durch objektbezogene Angst und Vermeidung gekennzeichnet, nicht durch Störungen der Ich-Integration. Bei Schizophrenie, Borderline-Persönlichkeitsstörung und (komplexer) PTBS gehört Derealisations- und Depersonalisationserleben zum typischen Spektrum, und bei den dissoziativen Störungen ist es definierend."
-    },
-    {
-      "topic": "Dissoziation & Ich-Integration",
-      "hard": true,
-      "trap": "Die Depersonalisations-/Derealisationsstörung klingt nach F44, steht in der ICD-10 aber unter F48.1.",
-      "question": "Welche Störung ist nach ICD-10 NICHT den dissoziativen Störungen (F44) zugeordnet?",
-      "options": [
-        "Dissoziative Krampfanfälle als Pseudoanfälle",
-        "Depersonalisations- und Derealisationsstörung",
-        "Dissoziative Fugue mit zielgerichteter Ortsveränderung",
-        "Dissoziative Amnesie für belastende Ereignisse",
-        "Dissoziativer Stupor ohne körperliche Ursache"
-      ],
-      "answer": 1,
-      "explanation": "Die Depersonalisations- und Derealisationsstörung wird in der ICD-10 unter F48.1 („andere neurotische Störungen“) geführt und gehört damit gerade nicht zu F44. Dissoziative Amnesie (F44.0), Fugue (F44.1), Stupor (F44.2) und Krampfanfälle (F44.5) sind dagegen Bestandteil der F44-Gruppe, ebenso Trance- und Besessenheitszustände sowie dissoziative Bewegungs- und Sensibilitätsstörungen."
     },
     {
       "topic": "Dissoziation & Ich-Integration",
@@ -548,21 +454,6 @@
       "explanation": "Je länger das Beobachtungsfenster, desto mehr Störungen können im selben Zeitraum zusammentreffen – die Komorbiditätsrate steigt also mit dem Prävalenzzeitraum. Der Zeitrahmen hat damit sehr wohl Einfluss, Punktprävalenzen erfassen weniger statt mehr Komorbidität, die Lebenszeitprävalenz führt zur Über- und nicht zur Unterschätzung, und ein Wechsel auf die Inzidenz löst das Problem nicht."
     },
     {
-      "topic": "Angst- & Zwangsstörungen",
-      "hard": true,
-      "trap": "Vermeidung ist zwar zentral für die Aufrechterhaltung, gehört bei Clark und Wells aber nicht zu den Kernelementen des kognitiven Modells.",
-      "question": "Welches Element ist kein Kernelement des kognitiven Modells nach Clark und Wells zur Erklärung der sozialen Angst?",
-      "options": [
-        "Sicherheitsverhalten innerhalb der sozialen Situation",
-        "Vermeidung der sozialen Situation",
-        "Nachträgliche Fehlinterpretation der Situation (Post-Event-Processing)",
-        "Erhöhte Selbstaufmerksamkeit während der Situation",
-        "Negative kognitive Repräsentation des Selbst"
-      ],
-      "answer": 1,
-      "explanation": "Das Modell erklärt gerade, warum die Angst auch dann bestehen bleibt, wenn die Situation aufgesucht wird – im Zentrum stehen die inneren Prozesse, nicht die Vermeidung. Kernelemente sind das negative Selbstbild, die nach innen gerichtete Selbstaufmerksamkeit, das Sicherheitsverhalten und die nachträgliche verzerrte Verarbeitung der Situation."
-    },
-    {
       "topic": "Essstörungen",
       "trap": "Leptin wird im Fettgewebe gebildet – bei Untergewicht sinkt es, es steigt nicht an.",
       "question": "Was ist keine typische Folge des Untergewichts bei Anorexia nervosa?",
@@ -601,33 +492,6 @@
       ],
       "answer": 3,
       "explanation": "Der Unterschied liegt nicht allein in der Verarbeitung: Menschen mit BPS erleben Affekte häufiger und intensiver als Gesunde – die Gleichsetzung der Affekthäufigkeit ist daher falsch. Zutreffend sind die erhöhte Grundaffektivität, die verzögerte Rückkehr zum Ausgangszustand, das Fehlen nicht-selbstschädigender Regulationsstrategien oberhalb einer bestimmten Intensität und die stärkere Reaktivität."
-    },
-    {
-      "topic": "Angst- & Zwangsstörungen",
-      "question": "Warum besteht bei Zwangsstörungen eine ungewöhnlich lange Latenz zwischen Symptombeginn und dem Beginn einer psychotherapeutischen Behandlung?",
-      "options": [
-        "Wegen ausgeprägter Schamgefühle gegenüber der eigenen Symptomatik",
-        "Weil es für Zwangsstörungen bislang keine wirksamen Behandlungsverfahren gibt",
-        "Weil die Symptome von Betroffenen anfangs nicht als belastend erlebt werden",
-        "Weil die Diagnosekriterien eine Mindestdauer von mehreren Jahren verlangen",
-        "Weil Zwangsstörungen zunächst episodisch verlaufen und häufig spontan remittieren"
-      ],
-      "answer": 0,
-      "explanation": "Betroffene erleben ihre Zwangsgedanken und -handlungen als absurd oder beschämend und verheimlichen sie oft über Jahre – Scham ist der wesentliche Grund für die Behandlungslatenz. Zwangsstörungen verlaufen typischerweise chronisch statt spontan remittierend, sie werden als hoch belastend erlebt, mit der Exposition mit Reaktionsverhinderung existiert ein sehr wirksames Verfahren, und eine mehrjährige Mindestdauer ist nicht gefordert."
-    },
-    {
-      "topic": "Angst- & Zwangsstörungen",
-      "hard": true,
-      "question": "Was trifft auf das Phänomen „Thought-Action-Fusion“ (TAF) bei Patienten mit Zwangsstörungen zu?",
-      "options": [
-        "TAF erklärt die bei Zwängen typische Abfolge von Zwangsgedanken und angstneutralisierenden Zwangshandlungen",
-        "Gedanken müssen zwanghaft in Handlungen überführt werden, weil sonst ein Unglück geschieht",
-        "Bei Zwangspatienten mit TAF und fremdaggressiven Gedanken ist Vorsicht geboten, da es unbehandelt leicht zu aggressiven Handlungen kommt",
-        "Aufkommenden Gedanken wird eine implizite Handlungsrelevanz unterstellt („wenn ich fremdaggressive Gedanken habe, bin ich für andere gefährlich“)",
-        "TAF ist als überwertige Idee zu verstehen und tritt bei Patienten des Subtyps „mit wenig Einsicht“ auf"
-      ],
-      "answer": 3,
-      "explanation": "TAF meint die Gleichsetzung von Gedanke und Handlung: Der Gedanke wird moralisch oder in seiner Wahrscheinlichkeit so bewertet, als sei er bereits die Tat. Es handelt sich nicht um eine überwertige Idee eines eigenen Subtyps, TAF erklärt die Bewertung der Gedanken und nicht die Handlungsabfolge, ein Zwang zur Ausführung besteht gerade nicht, und ein erhöhtes reales Fremdgefährdungsrisiko ist bei Zwangspatienten ausdrücklich nicht gegeben."
     },
     {
       "topic": "Biologische Therapie",
