@@ -72,86 +72,6 @@
       "topic": "Klassifikationssysteme (ICD-10)"
     },
     {
-      "question": "Welche Aussage zur ICD-11 trifft am ehesten NICHT zu?",
-      "options": [
-        "Bei einigen Störungen wurden Subtypen abgeschafft, etwa bei der Schizophrenie.",
-        "Es gibt ganz neue Diagnosen wie die anhaltende Trauerstörung und die Katatonie.",
-        "Psychische Störungen finden sich in Kapitel 06 („Mental, behavioural or neurodevelopmental disorders“).",
-        "Die ICD-11 behält die vertraute F0–F9-Kodierung der psychischen Störungen unverändert bei.",
-        "Die ICD-11 erscheint nicht mehr als Printversion und wird laufend online aktualisiert."
-      ],
-      "answer": 3,
-      "explanation": "Gesucht ist die falsche Aussage: Die ICD-11 behält die F-Codes NICHT bei, sondern nutzt eine neue Systematik (Kapitel 06, Codes 6A–6E). Richtig sind dagegen: psychische Störungen in Kapitel 06; neue Diagnosen (anhaltende Trauerstörung, Katatonie); Abschaffung von Subtypen (z. B. Schizophrenie); keine Printversion, laufende Online-Aktualisierung.",
-      "topic": "Klassifikationssysteme (ICD-11)",
-      "trap": "F-Codes gehören zur ICD-10; die ICD-11 nutzt eine neue alphanumerische Systematik."
-    },
-    {
-      "question": "Welche Störungsgruppe ist in der ICD-11 am ehesten NICHT im Kapitel für psychische Störungen (Kapitel 06) angesiedelt?",
-      "options": [
-        "Schizophrenie und andere primär psychotische Störungen mit Wahn und Halluzinationen.",
-        "Affektive Störungen wie depressive und bipolare Episoden unterschiedlichen Schweregrads.",
-        "Angst- und furchtbezogene Störungen einschließlich phobischer Störungsbilder.",
-        "Schlaf-Wach-Störungen, die ein eigenes Kapitel erhalten (neben dem eigenen System ICSD).",
-        "Persönlichkeitsstörungen, die nun dimensional nach Schweregrad beschrieben werden."
-      ],
-      "answer": 3,
-      "explanation": "Schlaf-Wach-Störungen sind in der ICD-11 aus dem Kapitel der psychischen Störungen ausgelagert (eigenes Kapitel, zusätzlich das eigene System ICSD) – daher gesucht. Schizophrenie, affektive, Angst- und Persönlichkeitsstörungen bleiben dagegen im Kapitel 06 und sind somit nicht gesucht.",
-      "topic": "Klassifikationssysteme (ICD-11)"
-    },
-    {
-      "question": "Tic-Störungen bzw. das Tourette-Syndrom sind in der ICD-11 am ehesten wie eingeordnet?",
-      "options": [
-        "den substanzbezogenen Störungen zugeordnet, mit Querverweis zu den Angststörungen.",
-        "den neurologischen Erkrankungen zugeordnet, mit Querverweis zum Zwangsspektrum.",
-        "den affektiven Störungen zugeordnet, mit Querverweis zu den Belastungsstörungen.",
-        "den Persönlichkeitsstörungen zugeordnet, mit Querverweis zu den Impulskontrollstörungen.",
-        "den somatoformen Störungen zugeordnet, mit Querverweis zu den dissoziativen Störungen."
-      ],
-      "answer": 1,
-      "explanation": "Tic/Tourette sind in der ICD-11 den neurologischen Krankheiten zugeordnet, mit Querverweis zum Zwangsspektrum (gemeinsame Ätiologie über Basalganglien/fronto-striatalen Regelkreis). Die anderen Zuordnungen (substanzbezogen, Persönlichkeit, affektiv, somatoform) treffen nicht zu.",
-      "topic": "Klassifikationssysteme (ICD-11)",
-      "hard": true
-    },
-    {
-      "question": "Welcher Bereich wurde in der ICD-11 am ehesten NICHT aus dem Kapitel der psychischen Störungen ausgelagert bzw. verschoben?",
-      "options": [
-        "die schizophrenen und wahnhaften Störungen.",
-        "die Schlaf-Wach-Störungen.",
-        "die sexuellen Dysfunktionen.",
-        "die Geschlechtsdysphorie bzw. Genderinkongruenz.",
-        "die Tic-Störungen einschließlich Tourette."
-      ],
-      "answer": 0,
-      "explanation": "Schizophrene/wahnhafte Störungen bleiben Kernbestand des psychischen Störungskapitels – daher gesucht. Geschlechtsdysphorie/Genderinkongruenz, sexuelle Dysfunktionen, Schlaf-Wach-Störungen und Tic/Tourette wurden dagegen ausgelagert bzw. anderen Kapiteln zugeordnet.",
-      "topic": "Klassifikationssysteme (ICD-11)"
-    },
-    {
-      "question": "Welche Störungen gehören am ehesten zu den neurodevelopmentalen Störungen der ICD-11?",
-      "options": [
-        "posttraumatische Belastungsstörung sowie sonstige Anpassungs- und Belastungsstörungen.",
-        "Schizophrenie, wahnhafte Störung und schizotype Störung im engeren Sinn.",
-        "Autismus-Spektrum, ADHS, Intelligenzminderung und umschriebene Entwicklungsstörungen.",
-        "Depression, bipolare Störung und anhaltende affektive Störungen.",
-        "Anorexie, Bulimie und Binge-Eating-Störung als Gruppe der Essstörungen."
-      ],
-      "answer": 2,
-      "explanation": "Neurodevelopmentale Störungen umfassen u. a. Autismus-Spektrum, ADHS, Intelligenzminderung, Sprach- und Lernstörungen sowie motorische/stereotype Störungen. Psychotische, affektive, belastungsbezogene und Essstörungen bilden jeweils eigene Störungsgruppen und zählen nicht zu den neurodevelopmentalen Störungen.",
-      "topic": "Klassifikationssysteme (ICD-11)"
-    },
-    {
-      "question": "Wie werden Persönlichkeitsstörungen in der ICD-11 am ehesten beschrieben?",
-      "options": [
-        "ausschließlich über den Nachweis biologischer Marker der Persönlichkeit.",
-        "allein über das Lebensalter beim erstmaligen Auftreten der Auffälligkeiten.",
-        "über feste kategoriale Subtypen wie in der klassischen Cluster-A/B/C-Einteilung.",
-        "gar nicht mehr, da sie in der ICD-11 vollständig gestrichen wurden.",
-        "nach Schweregrad und dimensionalen Stilen statt über kategoriale Subtypen."
-      ],
-      "answer": 4,
-      "explanation": "Die ICD-11 beschreibt Persönlichkeitsstörungen dimensional nach Schweregrad und Stilmerkmalen (inkl. eines Borderline-Musters) und rückt von kategorialen Subtypen ab. Sie wurden nicht gestrichen, beruhen nicht auf Biomarkern und werden nicht allein über das Ersterkrankungsalter definiert.",
-      "topic": "Klassifikationssysteme (ICD-11)"
-    },
-    {
       "question": "Das Kriterium der „klinischen Bedeutsamkeit“ (DSM-5) ist am ehesten erfüllt, wenn Symptome …",
       "options": [
         "Leiden ODER Beeinträchtigungen in wichtigen sozialen bzw. beruflichen Funktionsbereichen verursachen.",
@@ -263,21 +183,6 @@
       "trap": "Nicht der sozialpsychologische Attributionsfehler – gemeint ist „Name für Sache halten“."
     },
     {
-      "question": "Ein Lehrbuch beschreibt Schizophrenie als symptomorientierten Sammelbegriff, weil gleiche Symptome unterschiedlich ausgehen können. Auf wen geht diese Sicht (anstelle von „Dementia praecox“) am ehesten zurück?",
-      "options": [
-        "Karl Jaspers, der Diagnosen als „Idealbilder zur Suchorientierung“ verstand.",
-        "Eugen Bleuler, der 1911 den Begriff „Schizophrenie“ (Spaltungsirresein) einführte.",
-        "Philippe Pinel, der die formale Klassifikation der Geisteskrankheiten begründete.",
-        "Emil Kraepelin, der den verlaufsorientierten Begriff „Dementia praecox“ prägte.",
-        "Wilhelm Griesinger, der eine symptomatologische Einteilung ohne Hirnanatomie vertrat."
-      ],
-      "answer": 1,
-      "explanation": "Der symptomorientierte Sammelbegriff „Schizophrenie“ (Spaltungsirresein) stammt von Eugen Bleuler (1911) und löste Kraepelins verlaufs-/prognoseorientierte „Dementia praecox“ ab. Kraepelin steht gerade für den ersetzten Begriff; Jaspers, Pinel und Griesinger stehen für andere Beiträge (Idealbilder, formale Klassifikation, symptomatologische Einteilung).",
-      "topic": "Konstruktcharakter der Diagnose",
-      "transfer": true,
-      "hard": true
-    },
-    {
       "question": "Wie ist „Wahn“ am ehesten definiert?",
       "options": [
         "eine reizunabhängige Sinneswahrnehmung ganz ohne einen entsprechenden äußeren Sinnesreiz in der tatsächlichen Umgebung.",
@@ -362,19 +267,6 @@
       "hard": true
     },
     {
-      "question": "Welche Aussage zur wissenschaftlichen Einordnung der Klinischen Psychologie trifft am ehesten NICHT zu?",
-      "options": [
-        "Sie baut auf nahezu allen Grundlagenfächern auf und greift u. a. auf Forschungsmethoden und Statistik (Epidemiologie, Therapieevaluation) zurück.",
-        "Zu ihren Nachbardisziplinen zählen unter anderem Medizin, Soziologie und die Rechtswissenschaften (z. B. Zwangsinterventionen).",
-        "Sozialpsychologische Grundlagen sind etwa für Gruppentherapie und biopsychosoziale Ätiologiemodelle bedeutsam.",
-        "Sie stützt sich allein auf die Biopsychologie und hat keine Bezüge zu anderen Grundlagenfächern.",
-        "Bindungstheorien der Entwicklungspsychologie (z. B. Ainsworth, Bowlby) liefern Bezugspunkte für klinische Konzepte und Verfahren."
-      ],
-      "answer": 3,
-      "explanation": "Falsch (und daher gesucht) ist die Aussage, die Klinische Psychologie stütze sich allein auf die Biopsychologie: Sie baut auf nahezu allen Grundlagenfächern auf. Richtig und damit nicht gesucht sind die Bezüge zu Forschungsmethoden/Statistik, zu entwicklungspsychologischen Bindungstheorien, zu sozialpsychologischen Grundlagen sowie die Nennung der Nachbardisziplinen Medizin, Soziologie und Rechtswissenschaften.",
-      "topic": "Einordnung der Klinischen Psychologie"
-    },
-    {
       "question": "Eine Ärztin beurteilt eine depressive Symptomatik nach der DSM-Logik. Welche Aussage entspricht am ehesten der Kriterienstruktur der Major Depression?",
       "options": [
         "Beliebige fünf Symptome, die irgendwann im zurückliegenden Jahr aufgetreten sein können, ganz unabhängig von einem der beiden Kernsymptome.",
@@ -388,19 +280,6 @@
       "topic": "Diagnosekriterien (DSM)",
       "transfer": true,
       "hard": true
-    },
-    {
-      "question": "Wie charakterisierte Karl Jaspers (1913) psychiatrische Diagnosen am ehesten?",
-      "options": [
-        "Als verlaufsorientierte Prognosekategorien, die sich ausschließlich am zu erwartenden Krankheitsausgang bemessen.",
-        "Als „Idealbilder zur Suchorientierung“, nicht als strikt valide, objektiv abgegrenzte Krankheitsentitäten.",
-        "Als exakt validierte Naturentitäten mit scharfen, biologisch eindeutig bestimmbaren Grenzen zwischen den Störungen.",
-        "Als rein statistische Kennwerte, die den Schweregrad einer Störung unmittelbar und exakt in Zahlen ausdrücken.",
-        "Als juristische Etiketten ohne jede wissenschaftliche oder klinische Funktion im Behandlungsprozess."
-      ],
-      "answer": 1,
-      "explanation": "Jaspers verstand Diagnosen als „Idealbilder zur Suchorientierung“ – nützliche Orientierungshilfen, aber keine strikt validen Entitäten. Falsch sind daher: die Deutung als objektive Naturentität mit scharfen biologischen Grenzen (das widerspricht gerade dem Konstruktcharakter); als verlaufsorientierte Prognosekategorie (das entspricht Kraepelins Denken, nicht Jaspers); als statistischer Schwere-Messwert; und als bloß juristisches Etikett ohne klinische Funktion.",
-      "topic": "Konstruktcharakter der Diagnose"
     },
     {
       "question": "Wodurch unterscheidet sich eine Pseudohalluzination am ehesten von einer echten Halluzination?",

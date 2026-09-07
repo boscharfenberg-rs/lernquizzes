@@ -86,20 +86,6 @@
       "transfer": true
     },
     {
-      "question": "Welche Aussage zur historischen Entwicklung des ätiologischen Denkens trifft am ehesten NICHT zu?",
-      "options": [
-        "Die Phrenologie Galls suchte Ursachen in Schädel- bzw. Hirnformen.",
-        "Griesinger legte mit der „nervösen Konstitution als Disposition“ einen Grundstein für Vulnerabilitäts-Stress-Modelle.",
-        "Nach Griesinger dominierte zeitweise eine polarisierende Hirnpsychiatrie (somatisch vs. psychisch).",
-        "Griesinger vertrat ein enges, rein hirnanatomisches Ursachenmodell ohne psychische oder soziale Anteile.",
-        "Die Leib-Seele-Debatte stellte dualistische und materialistische Positionen einander gegenüber."
-      ],
-      "answer": 3,
-      "explanation": "Falsch (gesucht): Griesinger vertrat gerade KEIN rein hirnanatomisches Modell – er verstand die nervöse Konstitution als bloße Disposition, zu der weitere Ursachen hinzutreten müssen (Vorläufer der Vulnerabilitäts-Stress-Modelle). Richtig sind: die Leib-Seele-Debatte (Dualismus vs. Materialismus), Griesingers Dispositionsgedanke, die spätere Hirnpsychiatrie-Polarisierung und Galls Phrenologie.",
-      "topic": "Menschenbilder & Schulenstreit",
-      "trap": "Griesinger wird oft auf „Geisteskrankheiten sind Gehirnkrankheiten“ verkürzt – seine Sicht war differenzierter."
-    },
-    {
       "question": "Was kennzeichnet das rein „medizinische Krankheitsmodell“ im Kontrast zum bio-psycho-sozialen Modell am ehesten?",
       "options": [
         "die gleichgewichtige Integration biologischer, psychologischer und sozialer Faktoren.",

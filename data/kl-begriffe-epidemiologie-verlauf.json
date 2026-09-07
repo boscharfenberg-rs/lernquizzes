@@ -126,19 +126,6 @@
       "explanation": "Komorbidität ist die gleichzeitige Diagnose mehrerer Erkrankungen in einem definierten Zeitraum – ohne dass damit eine Ursachenbeziehung behauptet wird. Tödliche Fälle betreffen die Letalität/Mortalität; die übrigen Beschreibungen treffen andere Sachverhalte."
     },
     {
-      "topic": "Epidemiologie: Ursprung",
-      "question": "Wer gilt als Begründer der systematischen Epidemiologie (Cholera-Ausbruch, Broad Street)?",
-      "options": [
-        "Sigmund Freud, der Begründer der psychoanalytischen Neurosenlehre.",
-        "John Snow.",
-        "Carl Rogers, der Begründer der klientenzentrierten Gesprächstherapie.",
-        "Philippe Pinel, ein früher Reformer der Klassifikation psychischer Störungen.",
-        "Emil Kraepelin, der Begründer der modernen psychiatrischen Klassifikation."
-      ],
-      "answer": 1,
-      "explanation": "John Snow untersuchte den Londoner Cholera-Ausbruch (Broad Street, 1848/49) und gilt als Begründer der systematischen Epidemiologie. Kraepelin und Pinel stehen für die psychiatrische Klassifikation, Freud für die Psychoanalyse, Rogers für die Gesprächstherapie."
-    },
-    {
       "topic": "Variablen: Mediator",
       "question": "Was ist eine „Mediatorvariable“?",
       "options": [

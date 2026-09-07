@@ -88,19 +88,6 @@
       "trap": "EKT verursacht keine strukturelle Hirnschädigung – die kognitiven Effekte sind überwiegend reversibel."
     },
     {
-      "topic": "EKT: Geschichte",
-      "question": "Welcher Schritt machte die EKT ab 1951 von einem „mittelalterlichen Spektakel“ zur modernen Therapie?",
-      "options": [
-        "Der Verzicht auf jeglichen Krampfanfall zugunsten einer reinen niederfrequenten Reizung.",
-        "Der Einsatz von Muskelrelaxanzien (später kombiniert mit Kurznarkose).",
-        "Die Umstellung von elektrisch ausgelösten auf rein medikamentös induzierte Krampfanfälle.",
-        "Die Beschränkung der Anwendung ausschließlich auf sehr junge Patienten ohne Vorerkrankung.",
-        "Die Verlagerung der Behandlung aus der Klinik in eine rein ambulante häusliche Versorgung."
-      ],
-      "answer": 1,
-      "explanation": "Der Einsatz von Muskelrelaxanzien (ab 1951), später mit Kurznarkose, reduzierte Nebenwirkungen und Stress erheblich und markiert den Übergang zur modernen EKT. Medikamentös induzierte Anfälle waren die frühere, schlechter steuerbare Form; ambulante Verlagerung, Verzicht auf den Anfall oder eine Altersbeschränkung beschreiben den Schritt nicht."
-    },
-    {
       "topic": "Hirnstimulation: Lobotomie",
       "question": "Was kennzeichnete die (historische) frontale Lobotomie?",
       "options": [
@@ -258,19 +245,6 @@
       "answer": 4,
       "explanation": "FGA basieren auf der Dopaminhypothese und wirken vorrangig als D2-Antagonisten; SGA erweitern dieses Profil und wirken an mehreren Rezeptortypen (umgangssprachlich „dirty drugs“). Die anderen Optionen kehren dies um, behaupten Nebenwirkungsfreiheit, verengen die Indikation falsch oder leugnen den Unterschied.",
       "hard": true
-    },
-    {
-      "topic": "Psychopharmaka: Meilensteine",
-      "question": "Welches Medikament gilt als das erste Antipsychotikum?",
-      "options": [
-        "Imipramin, das kurz darauf als Antidepressivum eingeführt wurde.",
-        "Lithium, das zuvor als wirksames Mittel gegen manische Zustände beschrieben wurde.",
-        "Chlorpromazin (um 1952).",
-        "Chlordiazepoxid, das erste Benzodiazepin aus der Gruppe der Tranquilizer.",
-        "Clozapin, ein später eingeführtes Second-Generation-Antipsychotikum."
-      ],
-      "answer": 2,
-      "explanation": "Chlorpromazin (Laborit/Deray, um 1952) war das erste Antipsychotikum (FGA). Imipramin war das erste Antidepressivum, Chlordiazepoxid das erste Benzodiazepin, Lithium das erste Antimanikum und Clozapin ein deutlich späteres SGA."
     },
     {
       "topic": "Psychopharmaka: Wirkstoffgruppen",

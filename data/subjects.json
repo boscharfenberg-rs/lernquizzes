@@ -10,7 +10,7 @@
       "file": "kl-klassifikation-psychopathologie.json",
       "title": "Klassifikation & Psychopathologie (KliPs Teil 1)",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Grundlagen der psychiatrischen Klassifikation und allgemeine Psychopathologie (KliPs Teil 1): Einordnung der Klinischen Psychologie, deskriptiv-atheoretischer Ansatz, ICD-10/ICD-11, allgemeine Störungskriterien, Konstruktcharakter, Kernbegriffe (Wahn, Halluzination, synton/synthym u. a.). 30 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen. Keine Code-Werte (z. B. F32) abgefragt."
+      "description": "Grundlagen der psychiatrischen Klassifikation und allgemeine Psychopathologie (KliPs Teil 1): Einordnung der Klinischen Psychologie, deskriptiv-atheoretischer Ansatz, ICD-10/ICD-11, allgemeine Störungskriterien, Konstruktcharakter, Kernbegriffe (Wahn, Halluzination, synton/synthym u. a.). 21 Fragen im Altklausur-Stil (5 Optionen A–E), inkl. Anwendungsfällen. Keine Code-Werte (z. B. F32) abgefragt."
     },
     {
       "id": "kl-psychopathologie-amdp",
@@ -24,7 +24,7 @@
       "file": "kl-aetiologie-biopsychosozial.json",
       "title": "Ätiologie psychischer Störungen (bio-psycho-sozial)",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Ätiologie psychischer Störungen (KliPs Teil 1, bis „Doppeldiagnose Psychose und Sucht“): Grundbegriffe, Menschenbilder & Schulenstreit, medizinisches vs. bio-psycho-soziales Modell, Vulnerabilität und Risikofaktoren, Vulnerabilitäts-Stress-Modell, Genetik sowie Gen-Umwelt-Interaktion und Epigenetik. 30 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
+      "description": "Ätiologie psychischer Störungen (KliPs Teil 1, bis „Doppeldiagnose Psychose und Sucht“): Grundbegriffe, Menschenbilder & Schulenstreit, medizinisches vs. bio-psycho-soziales Modell, Vulnerabilität und Risikofaktoren, Vulnerabilitäts-Stress-Modell, Genetik sowie Gen-Umwelt-Interaktion und Epigenetik. 29 Fragen im Altklausur-Stil (A–E), inkl. Anwendungsfällen."
     },
     {
       "id": "kl-therapie-biologisch-somatisch",
