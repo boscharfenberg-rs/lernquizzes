@@ -1,0 +1,518 @@
+{
+  "id": "kl-klausurfragen2-befund-fallvignetten",
+  "title": "Klausurfragen KL 2 (IV): AMDP-Befund, Zeitkriterien & Fallvignetten",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Teil 4 der gesammelten Klausurfragen (Dokument 'KL 2'), 1:1 übernommen: partizipative Entscheidungsfindung, Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund sowie der große Block diagnostischer Fallvignetten. Single Best Answer mit 4 Optionen A-D.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Was bedeutet das Konzept der partizipativen Entscheidungsfindung (engl. Shared Decision Making, SDM)?",
+      "options": [
+        "Entscheidungen werden zwischen Patient und Therapeut aufgeteilt, sodass jeder seinen eigenen Arbeitsbereich definieren kann",
+        "Es leitet sich ab aus dem klassischen paternalistischen Arzt-Patient-Verhältnis",
+        "Es ist eine Abkehr vom klassischen paternalistischen Arzt-Patient-Verhältnis, indem relevante Entscheidungen einzig beim Patienten liegen sollen",
+        "Es definiert die Beziehung zwischen Arzt und Patient als möglichst gleichberechtigt in Entscheidungen"
+      ],
+      "answer": 3,
+      "explanation": "SDM meint eine gemeinsame Entscheidung auf Augenhöhe: Fachwissen und Patientenpräferenzen fließen zusammen. Eine Aufteilung in getrennte Zuständigkeitsbereiche ist gerade nicht gemeint; abgeleitet ist das Konzept nicht aus dem Paternalismus, sondern als dessen Gegenentwurf; und die Verlagerung der Entscheidung 'einzig' auf den Patienten wäre das andere Extrem und ebenfalls nicht partizipativ.",
+      "topic": "Behandlungsbeziehung",
+      "trap": "Weder Arzt allein noch Patient allein - der Kern ist die geteilte Entscheidung."
+    },
+    {
+      "question": "Wie lange muss eine manische Episode mindestens vorliegen, um eine Manie bzw. bipolare Störung zu diagnostizieren?",
+      "options": [
+        "1 Monat",
+        "2 Monate",
+        "1 Woche",
+        "2 Wochen"
+      ],
+      "answer": 2,
+      "explanation": "Für die manische Episode fordert die Klassifikation mindestens eine Woche (bei stationärer Behandlungsnotwendigkeit auch kürzer). Zwei Wochen sind das Zeitkriterium der depressiven Episode; ein Monat entspricht dem Schizophreniekriterium; zwei Monate sind für keine dieser Diagnosen vorgesehen.",
+      "topic": "Zeit- & Klassifikationskriterien",
+      "trap": "Manie 1 Woche, Depression 2 Wochen - die beiden Zeitkriterien werden gern vertauscht."
+    },
+    {
+      "question": "Bei depressiven Episoden unterscheidet die ICD-10 zwischen sog. Haupt- und Zusatzsymptomen. Welches der folgenden Symptome zählt nicht zu den Hauptsymptomen?",
+      "options": [
+        "Gedrückte depressive Stimmung",
+        "Antriebsmangel / erhöhte Ermüdbarkeit",
+        "Interessenverlust / Freudlosigkeit",
+        "Schlafstörungen"
+      ],
+      "answer": 3,
+      "explanation": "Schlafstörungen gehören zu den Zusatzsymptomen und sind damit die gesuchte Lösung. Die drei Hauptsymptome der ICD-10 sind gedrückte Stimmung, Interessen- bzw. Freudverlust und Antriebsminderung mit erhöhter Ermüdbarkeit.",
+      "topic": "Zeit- & Klassifikationskriterien"
+    },
+    {
+      "question": "Welches Zeitkriterium benennt die ICD-10 mindestens, um eine depressive Episode diagnostizieren zu können?",
+      "options": [
+        "2 Wochen",
+        "2 Monate",
+        "1 Monat",
+        "1 Woche"
+      ],
+      "answer": 0,
+      "explanation": "Die depressive Episode verlangt mindestens zwei Wochen durchgehende Symptomatik. Eine Woche ist das Kriterium der manischen Episode, ein Monat das der Schizophrenie, und zwei Monate sind kein Kriterium der affektiven Störungen.",
+      "topic": "Zeit- & Klassifikationskriterien"
+    },
+    {
+      "question": "Wie lange dauert durchschnittlich die Prodromalphase der Schizophrenie?",
+      "options": [
+        "2 Jahre",
+        "10 Jahre",
+        "1 Jahr",
+        "5 Jahre"
+      ],
+      "answer": 3,
+      "explanation": "Im Mittel liegen etwa fünf Jahre zwischen den ersten unspezifischen Auffälligkeiten und der ersten akutpsychotischen Episode. Ein bis zwei Jahre unterschätzen diese Spanne deutlich; zehn Jahre entsprechen eher dem Extrembereich einzelner Verläufe, nicht dem Durchschnitt.",
+      "topic": "Zeit- & Klassifikationskriterien"
+    },
+    {
+      "question": "Welche Aussagen zur Bipolar-1- und Bipolar-2-Störung charakterisieren deren Unterschied am genauesten?",
+      "options": [
+        "Bipolar 1 kann nur schwer depressive sowie manische Episoden entwickeln. Bipolar 2 kann dagegen Episoden in allen Schweregraden entwickeln",
+        "Bipolar 1 kann leicht, mittel und schwer depressive sowie hypomanische und manische Episoden entwickeln. Bipolar 2 kann diese Episoden auch entwickeln, nur nicht die manische Ausprägung",
+        "Bipolar 1 kann nur schwer depressive und manische Episoden entwickeln. Bipolar 2 kann dagegen nur leicht- und mittelgradige depressive sowie hypomanische Episoden entwickeln",
+        "Bipolar 1 kann leicht, mittel und schwer depressive sowie hypomanische und manische Episoden entwickeln. Bipolar 2 kann diese Episoden auch entwickeln, nur nicht die manische und die schwer depressive Ausprägung"
+      ],
+      "answer": 1,
+      "explanation": "Der einzige definitorische Unterschied ist die manische Episode: Sie kommt bei Bipolar 1 vor, bei Bipolar 2 nicht - dort bleibt es bei Hypomanie. Depressive Episoden aller Schweregrade sind bei beiden möglich, weshalb der zusätzliche Ausschluss schwerer Depressionen falsch ist; ebenso falsch sind die Varianten, die Bipolar 1 auf schwere Ausprägungen beschränken.",
+      "topic": "Zeit- & Klassifikationskriterien",
+      "hard": true,
+      "trap": "Nur die Manie trennt die beiden Typen - depressive Schweregrade tun es nicht."
+    },
+    {
+      "question": "Welche Aussage zur Zyklothymia stimmt nicht?",
+      "options": [
+        "Möglichkeit des Auftretens von störungsfreien Perioden",
+        "Auftreten der Episoden über einen Zeitraum von mindestens 2 Jahren",
+        "Wiederholtes Auftreten manischer und leichter depressiver Episoden",
+        "Möglichkeit des raschen Wechsels der Episoden innerhalb von 24 Stunden"
+      ],
+      "answer": 2,
+      "explanation": "Zur Zyklothymia gehören hypomane, nicht manische Auslenkungen - sobald eine manische Episode auftritt, liegt eine bipolare Störung vor; deshalb ist diese Aussage die gesuchte falsche. Richtig sind die geforderte Mindestdauer von zwei Jahren, rasche Stimmungswechsel und zwischenzeitlich stabile Phasen.",
+      "topic": "Zeit- & Klassifikationskriterien",
+      "hard": true
+    },
+    {
+      "question": "Wie wird bei der psychotherapeutischen Behandlung einer depressiven Störung ein 'Rezidiv' definiert?",
+      "options": [
+        "Wiederauftreten der Symptomatik nach Gesundung",
+        "Zunahme der Symptomatik nach Behandlung",
+        "Abnahme der Symptomatik nach Behandlung",
+        "Wiederauftreten der Symptomatik vor Gesundung"
+      ],
+      "answer": 0,
+      "explanation": "Ein Rezidiv ist die erneute Erkrankung nach abgeschlossener Genesung und markiert den Beginn einer neuen Episode. Eine bloße Symptomzunahme nach Behandlung ist unspezifisch, eine Abnahme beschreibt das Gegenteil, und ein Wiederauftreten vor der Gesundung ist definitionsgemäß ein Rückfall innerhalb derselben Episode.",
+      "topic": "Zeit- & Klassifikationskriterien",
+      "trap": "Rückfall vor, Rezidiv nach der Genesung - der Zeitpunkt entscheidet."
+    },
+    {
+      "question": "Welche Art von Trauma ist das: Eine Patientin erlebt auf der Arbeit einen schweren Unfall, bei dem ihr eine schwere Kiste auf den Kopf gefallen ist und sie dabei fast gestorben wäre?",
+      "options": [
+        "Typ 2 und interpersonell",
+        "Typ 2 und akzidentell",
+        "Typ 1 und interpersonell",
+        "Typ 1 und akzidentell"
+      ],
+      "answer": 3,
+      "explanation": "Ein einmaliges, zufälliges Unfallereignis ist ein Typ-1-Trauma akzidenteller Genese. Typ 2 setzt wiederholte oder lang andauernde Traumatisierung voraus, die hier fehlt; 'interpersonell' verlangt ein von Menschen absichtlich zugefügtes Ereignis, was auf einen Arbeitsunfall nicht zutrifft.",
+      "topic": "Trauma-Klassifikation",
+      "transfer": true
+    },
+    {
+      "question": "Welche Art von Trauma ist das: Eine Patientin erlebt wiederholt schwerste familiäre Gewalt von ihrem 7. bis 9. Lebensjahr?",
+      "options": [
+        "Typ 1 und akzidentell",
+        "Typ 2 und interpersonell",
+        "Typ 2 und akzidentell",
+        "Typ 1 und interpersonell"
+      ],
+      "answer": 1,
+      "explanation": "Wiederholte, über Jahre andauernde Gewalt durch Bezugspersonen ist ein Typ-2-Trauma interpersoneller Genese - die Kombination mit dem höchsten Risiko für eine komplexe PTBS. Typ 1 scheidet wegen der Wiederholung aus, 'akzidentell' wegen der absichtlichen Zufügung durch Menschen.",
+      "topic": "Trauma-Klassifikation",
+      "transfer": true
+    },
+    {
+      "question": "Welche Aussage zum Verlauf der Schizophrenie stimmt nicht?",
+      "options": [
+        "Prodromalphase: Zunahme von Positiv-Symptomatik",
+        "Prodromalphase: Abnahme von kognitiver Leistung",
+        "Psychotische Episode: Abnahme von Negativ-Symptomatik",
+        "Psychotische Episode: Zunahme von Positiv-Symptomatik"
+      ],
+      "answer": 0,
+      "explanation": "Positivsymptome kennzeichnen die akute Episode, nicht das Prodrom - deshalb ist diese Aussage die gesuchte falsche. Zutreffend sind der kognitive Leistungsabfall bereits im Prodrom sowie das typische Bild der akuten Episode mit dominierender Positiv- und zurücktretender Negativsymptomatik.",
+      "topic": "Schizophrenie: Verlauf & Therapie",
+      "hard": true
+    },
+    {
+      "question": "Inwiefern unterscheiden sich die neurokognitiven Defizite (Konzentration, Gedächtnis, Aufmerksamkeit) von anderen Symptomen der Schizophrenie?",
+      "options": [
+        "Sie treten im Kontext von Negativsymptomen auf",
+        "Sie treten vor der ersten akutpsychotischen Episode auf und persistieren relativ stabil",
+        "Sie treten vor der ersten akutpsychotischen Episode auf und verstärken sich im Verlauf",
+        "Sie treten in der ersten akutpsychotischen Episode auf und verstärken sich im Verlauf"
+      ],
+      "answer": 1,
+      "explanation": "Kennzeichnend ist die Kombination aus frühem Beginn und stabilem Verlauf: Die Defizite bestehen bereits vor der ersten Episode und bleiben danach weitgehend unverändert. Ein Beginn erst mit der Episode ist falsch; eine kontinuierliche Verschlechterung ist nicht belegt; und die Zuordnung zur Negativsymptomatik übersieht, dass es sich um eine eigenständige Symptomdimension handelt.",
+      "topic": "Schizophrenie: Verlauf & Therapie",
+      "hard": true,
+      "trap": "Früher Beginn stimmt - die Verschlechterung im Verlauf aber nicht."
+    },
+    {
+      "question": "Welche Wirkung von Neuroleptika der 1. Generation ist am WENIGSTEN zu erwarten?",
+      "options": [
+        "Extrapyramidal-motorische Störungen",
+        "Verbesserung der Negativ-Symptomatik",
+        "Verbesserung der Positiv-Symptomatik",
+        "Störung der Prolaktin-Synthese"
+      ],
+      "answer": 1,
+      "explanation": "Typische Neuroleptika wirken über die D2-Blockade vor allem auf Positivsymptome; auf die Negativsymptomatik haben sie kaum Effekt und können sie sogar verstärken - das ist die gesuchte Lösung. Positivsymptomreduktion, extrapyramidal-motorische Nebenwirkungen und eine Prolaktinerhöhung sind dagegen klassisch zu erwarten.",
+      "topic": "Schizophrenie: Verlauf & Therapie"
+    },
+    {
+      "question": "Welche Aussage zur Dopamin-Hypothese bei Schizophrenie stimmt NICHT?",
+      "options": [
+        "Positiv-Symptomatik aufgrund mesokortikaler Dopamin-Hypotransmission",
+        "Mesolimbische Dopamin-Hypertransmission aufgrund mesokortikaler Hypoaktivität",
+        "Mesokortikale Dopamin-Hypotransmission aufgrund präfrontaler Hypoaktivität",
+        "Präfrontale Hypoaktivität aufgrund neuronaler Schädigungen"
+      ],
+      "answer": 0,
+      "explanation": "Die Positivsymptomatik wird auf die mesolimbische Hypertransmission zurückgeführt, nicht auf den mesokortikalen Dopaminmangel - dieser erklärt Negativsymptomatik und kognitive Defizite; deshalb ist diese Aussage die gesuchte falsche. Zutreffend sind präfrontale Hypoaktivität, die mesolimbische Übertransmission als Folge der mesokortikalen Unterfunktion und der Zusammenhang von präfrontaler Hypoaktivität und mesokortikaler Hypotransmission.",
+      "topic": "Schizophrenie: Verlauf & Therapie",
+      "hard": true,
+      "trap": "Zwei Bahnen, zwei Richtungen: mesolimbisch zu viel (Positivsymptome), mesokortikal zu wenig (Negativsymptome)."
+    },
+    {
+      "question": "Bei welcher Persönlichkeitsstörung besteht das größte Suizidrisiko?",
+      "options": [
+        "Dissoziale Persönlichkeitsstörung",
+        "Borderline-Persönlichkeitsstörung",
+        "Narzisstische Persönlichkeitsstörung",
+        "Histrionische Persönlichkeitsstörung"
+      ],
+      "answer": 1,
+      "explanation": "Die Borderline-Persönlichkeitsstörung weist mit rund 8-10 % vollendeten Suiziden das mit Abstand höchste Risiko auf. Bei dissozialer, narzisstischer und histrionischer Persönlichkeitsstörung ist das Suizidrisiko zwar gegenüber der Allgemeinbevölkerung erhöht, aber deutlich geringer.",
+      "topic": "Persönlichkeitsstörungen"
+    },
+    {
+      "question": "Wodurch sind Cluster-A-Persönlichkeitsstörungen gekennzeichnet?",
+      "options": [
+        "Ängstlich-furchtsames Verhalten und Erleben",
+        "Dramatisch-emotionales Verhalten und Erleben",
+        "Zwanghaft-kontrollierendes Verhalten und Erleben",
+        "Sonderbar-exzentrisches Verhalten und Erleben"
+      ],
+      "answer": 3,
+      "explanation": "Cluster A umfasst die sonderbar-exzentrischen Störungen (paranoid, schizoid, schizotypisch). Dramatisch-emotional beschreibt Cluster B, ängstlich-furchtsam Cluster C; zwanghaft-kontrollierendes Verhalten ist ein Einzelbild innerhalb von Cluster C und kein Clustermerkmal.",
+      "topic": "Persönlichkeitsstörungen"
+    },
+    {
+      "question": "Welche Medikamenten-Klasse wird zur Suizidprophylaxe empfohlen?",
+      "options": [
+        "Benzodiazepine",
+        "Atypische Neuroleptika",
+        "Lithiumsalze",
+        "Selektive Serotonin-Wiederaufnahmehemmer"
+      ],
+      "answer": 2,
+      "explanation": "Für Lithium ist als einziger Substanzklasse ein eigenständiger, von der Stimmungsstabilisierung unabhängiger suizidprotektiver Effekt belegt. Atypische Neuroleptika wirken auf die Psychose, Benzodiazepine nur kurzfristig anxiolytisch und mit Abhängigkeitsrisiko, und SSRI reduzieren die Depression, haben aber keinen gesicherten spezifischen Antisuizid-Effekt.",
+      "topic": "Persönlichkeitsstörungen"
+    },
+    {
+      "question": "Frau M. ist seit Wochen sehr traurig, weint häufig und hat das Interesse an ihren Hobbys verloren. Wie ist der Affekt der Patientin?",
+      "options": [
+        "Flach",
+        "Depressiv",
+        "Euphorisch",
+        "Ängstlich"
+      ],
+      "answer": 1,
+      "explanation": "Traurigkeit, Weinen und Interessenverlust beschreiben einen depressiven Affekt. Ein flacher Affekt wäre durch fehlende Schwingungsfähigkeit gekennzeichnet, nicht durch intensive Traurigkeit; euphorisch beschreibt gehobene Stimmung; und für Angst als führenden Affekt fehlt jeder Hinweis.",
+      "topic": "AMDP-Befund",
+      "transfer": true
+    },
+    {
+      "question": "Was ist eine formale Denkstörung laut AMDP?",
+      "options": [
+        "Eine Denkstörung, bei der der Betroffene Schwierigkeiten hat, einen klaren Gedankengang aufrechtzuerhalten",
+        "Eine Denkstörung, bei der der Betroffene Schwierigkeiten hat, sich an vergangene Ereignisse zu erinnern",
+        "Eine Denkstörung, bei der der Betroffene Schwierigkeiten hat, seine Gedanken in Worte zu fassen",
+        "Eine Denkstörung, bei der der Betroffene Schwierigkeiten hat, das Thema eines Gesprächs zu halten"
+      ],
+      "answer": 0,
+      "explanation": "Formale Denkstörungen betreffen den Ablauf des Denkens - Tempo, Zusammenhang und Struktur des Gedankengangs. Das Thema nicht halten zu können ist nur ein einzelnes Beispiel und keine Definition; Wortfindungsprobleme sind eine Sprachstörung; und Erinnerungsprobleme gehören zu den mnestischen Störungen.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Welche der folgenden formalen Denkstörungen beschreibt eine Störung im Sprachfluss, bei der der Betroffene plötzlich das Thema wechselt und unzusammenhängende Gedanken äußert?",
+      "options": [
+        "Sperrung",
+        "Tangentialität",
+        "Inkohärenz",
+        "Eingeengtes Denken"
+      ],
+      "answer": 2,
+      "explanation": "Inkohärenz bzw. Zerfahrenheit bezeichnet den Verlust des logischen Zusammenhangs mit abrupten Themenwechseln. Eingeengtes Denken meint das Gegenteil - Verhaftung an wenigen Inhalten; Tangentialität beschreibt das Abgleiten am Thema vorbei bei erhaltenem Zusammenhang; Sperrung ist der plötzliche Abbruch des Gedankengangs.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Welche der folgenden formalen Denkstörungen beschreibt eine Störung im Sprachfluss, bei der der Betroffene lange Pausen zwischen den Worten oder Sätzen macht?",
+      "options": [
+        "Inkohärenz",
+        "Eingeengtes Denken",
+        "Verlangsamtes Denken",
+        "Sperrung"
+      ],
+      "answer": 3,
+      "explanation": "Die Sperrung ist der plötzliche Abriss des Gedankengangs mitten im Satz und zeigt sich genau als solche auffällige Pause. Inkohärenz betrifft den fehlenden Zusammenhang, eingeengtes Denken die inhaltliche Verhaftung; verlangsamtes Denken wäre durchgehend schleppend statt abrupt unterbrochen.",
+      "topic": "AMDP-Befund",
+      "hard": true,
+      "trap": "Sperrung = abrupter Abriss mit Pause; Verlangsamung = durchgehend zähes Tempo ohne Bruch."
+    },
+    {
+      "question": "Welche der folgenden formalen Denkstörungen beschreibt eine Störung im Sprachfluss, bei der der Betroffene denselben Gedanken immer wiederholt, ohne das Gespräch weiterzuführen?",
+      "options": [
+        "Perseveration",
+        "Sperrung",
+        "Inkohärenz",
+        "Eingeengtes Denken"
+      ],
+      "answer": 0,
+      "explanation": "Perseveration bezeichnet das Haftenbleiben an zuvor geäußerten Worten oder Gedanken trotz neuer Gesprächsinhalte. Inkohärenz meint den Zerfall des Zusammenhangs, eingeengtes Denken die Beschränkung auf wenige Themen bei erhaltenem Fortgang, und Sperrung den plötzlichen Abbruch.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Welche der folgenden inhaltlichen Denkstörungen beschreibt eine Überzeugung, dass der Betroffene von einer höheren Macht beeinflusst wird?",
+      "options": [
+        "Wahnwahrnehmung",
+        "Beeinflussungswahn",
+        "Ich-Störung",
+        "Größenwahn"
+      ],
+      "answer": 1,
+      "explanation": "Die Überzeugung, von außen gesteuert oder beeinflusst zu werden, ist der Beeinflussungswahn. Größenwahn betrifft die Selbstüberschätzung; Ich-Störungen sind eine eigene Kategorie des Erlebens von Fremdbeeinflussung der Gedanken, nicht der inhaltlichen Denkstörungen; und Wahnwahrnehmung meint die wahnhafte Deutung einer real vorhandenen Wahrnehmung.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Welches der folgenden Symptome beschreibt eine Störung der Aufmerksamkeit, die sich als Unfähigkeit äußert, sich über längere Zeit auf eine Tätigkeit zu konzentrieren?",
+      "options": [
+        "Aufmerksamkeitsdefizit",
+        "Konfabulation",
+        "Gedächtnisverlust",
+        "Konzentrationsstörung"
+      ],
+      "answer": 3,
+      "explanation": "Die Fähigkeit, die Aufmerksamkeit über die Zeit auf eine Tätigkeit zu bündeln, ist die Konzentration - ihr Ausfall die Konzentrationsstörung. 'Aufmerksamkeitsdefizit' bezeichnet allgemeiner die Zuwendungsfähigkeit im Moment; Gedächtnisverlust und Konfabulation sind mnestische Störungen.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Welches der folgenden Symptome beschreibt eine Störung der Aufmerksamkeit, die sich als übermäßige Wachsamkeit und erhöhte Reaktionsbereitschaft auf potenzielle Bedrohungen äußert?",
+      "options": [
+        "Konfabulation",
+        "Aufmerksamkeitsdefizit",
+        "Gedächtnisverlust",
+        "Hypervigilanz"
+      ],
+      "answer": 3,
+      "explanation": "Hypervigilanz ist die dauerhaft erhöhte Wachsamkeit gegenüber möglichen Gefahren, typisch für PTBS und Angststörungen. Ein Aufmerksamkeitsdefizit beschreibt eine verminderte, keine gesteigerte Zuwendung; Gedächtnisverlust und Konfabulation betreffen das Gedächtnis.",
+      "topic": "AMDP-Befund"
+    },
+    {
+      "question": "Ein Patient berichtet, dass er in der letzten Woche in der U-Bahn ausgeraubt und zusammengeschlagen wurde. Seit dem Überfall sei er fast immer angespannt und misstrauisch, da er befürchte, dass er wieder überfallen werden könne. Die U-Bahn meide er soweit wie möglich. Aber wenn er mal wieder mit der U-Bahn fahren müsse, dann würde er die Umgebung um sich herum genau überwachen, um auf einen möglichen Angriff vorbereitet zu sein. Dabei komme es manchmal vor, dass er die Umgebung nur noch verschwommen wahrnehmen könne. Er würde dann auch nicht mehr gut hören können. Alles würde sich dann 'irgendwie taub' anfühlen. Welche ICD-10-Diagnose beschreibt am besten das Störungsbild?",
+      "options": [
+        "Dissoziative Sensibilitäts- und Empfindungsstörungen",
+        "Derealisation und Depersonalisation",
+        "Posttraumatische Belastungsstörung (PTBS)",
+        "Akute Belastungsreaktion"
+      ],
+      "answer": 2,
+      "explanation": "Traumatisches Ereignis, anhaltendes Hyperarousal, aktive Vermeidung und dissoziative Phänomene bilden zusammen das Vollbild der PTBS - die dissoziativen Wahrnehmungsveränderungen sind hier Teilsymptom, nicht eigene Diagnose. Derealisation/Depersonalisation und dissoziative Sensibilitätsstörungen greifen jeweils nur einen Ausschnitt heraus; die akute Belastungsreaktion beschreibt die unmittelbare Reaktion binnen Stunden bis wenigen Tagen und klingt rasch ab.",
+      "topic": "Fallvignetten",
+      "hard": true,
+      "trap": "Ein dissoziatives Symptom im Rahmen einer PTBS begründet keine eigenständige dissoziative Diagnose.",
+      "transfer": true
+    },
+    {
+      "question": "Ein Patient berichtet, dass er sich seit mehr als zwei Monaten von seinem Nachbarn bedroht fühle. Der Nachbar würde ihn ständig beobachten und ihm überall hin folgen. Der Patient vermutet, dass der Nachbar ihn zusammenschlagen möchte - aus Rache dafür, dass sie einmal in einen Streit geraten seien, bei dem der Patient den Nachbarn angespuckt habe. Seitdem würde der Nachbar ihn systematisch drangsalieren, beispielsweise indem er den Fernseher ständig auf volle Lautstärke drehe. Mittlerweile würde der Patient Stimmen hören, wobei er nicht sicher sei, ob die Stimmen aus dem Fernseher kommen oder in seinem Kopf sind. Obwohl der Patient sagt, dass ihn das alles Angst mache, wirkt er bei seiner Schilderung überhaupt nicht ängstlich, eher teilnahms- und regungslos. Welche ICD-10-Diagnose beschreibt am besten das Störungsbild?",
+      "options": [
+        "Akute schizophreniforme Störung",
+        "Paranoide Persönlichkeitsstörung",
+        "Paranoide Schizophrenie",
+        "Anhaltende wahnhafte Störung"
+      ],
+      "answer": 2,
+      "explanation": "Verfolgungswahn plus akustische Halluzinationen plus Parathymie über mehr als einen Monat erfüllen die Kriterien der paranoiden Schizophrenie. Die akute schizophreniforme Störung scheidet wegen der Dauer aus; die anhaltende wahnhafte Störung verlangt das Fehlen prägnanter Halluzinationen und affektiver Auffälligkeiten; und eine paranoide Persönlichkeitsstörung ist ein überdauerndes Misstrauensmuster ohne Wahn und Halluzinationen.",
+      "topic": "Fallvignetten",
+      "hard": true,
+      "trap": "Die Affektinkongruenz und die Stimmen schließen die anhaltende wahnhafte Störung aus.",
+      "transfer": true
+    },
+    {
+      "question": "Markus ist ein 35-jähriger Ingenieur, der sich seit einiger Zeit ständig Sorgen über seine Arbeit, seine Gesundheit und die Sicherheit seiner Familie macht. Er kann nicht aufhören, über alle möglichen negativen Szenarien nachzudenken, die eintreten könnten. Markus hat Schwierigkeiten, sich zu entspannen, und fühlt sich oft nervös und angespannt. Er hat auch körperliche Symptome wie Muskelverspannungen und Schlafstörungen. Welche psychiatrische Störung hat Markus wahrscheinlich?",
+      "options": [
+        "Bipolare Störung",
+        "Schizophrenie",
+        "Depression",
+        "Generalisierte Angststörung"
+      ],
+      "answer": 3,
+      "explanation": "Frei flottierende Sorgen über mehrere Lebensbereiche mit Anspannung, Unruhe und körperlichen Begleitsymptomen kennzeichnen die generalisierte Angststörung. Für eine Schizophrenie fehlen psychotische Symptome; für eine Depression stehen Stimmung und Antrieb nicht im Vordergrund; und für eine bipolare Störung fehlt jede manische oder hypomane Episode.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Max ist ein 42-jähriger Geschäftsmann. In den letzten Wochen fühlte er sich sehr niedergeschlagen, zog sich zurück und hatte Schwierigkeiten, alltägliche Aufgaben zu erledigen. Jetzt fühle er sich ungewöhnlich glücklich und euphorisch und hat das Gefühl, alles tun zu können. Er hat eine Menge Energie und schläft nur sehr wenig. Er hat auch sehr viele neue Ideen und startet viele Projekte, ohne darüber nachzudenken, ob er sie wirklich zu Ende führen kann. Max hat in letzter Zeit auch viel Geld ausgegeben und impulsiv Entscheidungen getroffen. Welche psychiatrische Störung hat Max wahrscheinlich?",
+      "options": [
+        "Bipolare Störung (manische Episode)",
+        "Schizophrenie",
+        "Depression",
+        "Borderline-Persönlichkeitsstörung"
+      ],
+      "answer": 0,
+      "explanation": "Der Wechsel von einer depressiven Phase in eine Episode mit Euphorie, vermindertem Schlafbedürfnis, Ideenreichtum und riskantem Ausgabeverhalten ist das Kernbild der bipolaren Störung. Psychotische Symptome fehlen; eine rein depressive Diagnose übersieht die manische Episode; und bei der Borderline-Störung wechseln die Stimmungen situationsabhängig innerhalb von Stunden, nicht in wochenlangen Episoden.",
+      "topic": "Fallvignetten",
+      "trap": "Wochenlange Episoden sprechen für bipolar, Stimmungswechsel innerhalb eines Tages für Borderline.",
+      "transfer": true
+    },
+    {
+      "question": "Lisa ist eine 25-jährige Studentin. Sie fühlt sich ständig (seit ca. 3 Monaten) niedergeschlagen und traurig, hat kein Interesse mehr an Aktivitäten, die ihr normalerweise Freude bereiten, und hat Schwierigkeiten, aus dem Bett zu kommen oder sich zu motivieren, irgendetwas zu tun. Sie hat auch Appetitlosigkeit und Schlafstörungen, wodurch sie oft müde und erschöpft ist. Lisa denkt oft, dass ihr Leben keinen Sinn mehr hat, und fühlt sich wertlos. Welche psychiatrische Störung hat Lisa wahrscheinlich?",
+      "options": [
+        "Bipolare Störung",
+        "Angststörung",
+        "Depression",
+        "Schizophrenie"
+      ],
+      "answer": 2,
+      "explanation": "Gedrückte Stimmung, Anhedonie und Antriebsminderung über drei Monate, dazu Appetit- und Schlafstörungen sowie Wertlosigkeitsgefühle ergeben eine depressive Episode. Psychotische Symptome fehlen; für eine bipolare Störung fehlt jede manische Phase; und Angst ist hier kein führendes Symptom.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Tom ist ein 35-jähriger Unternehmer, der seit vielen Jahren Schwierigkeiten hat, Beziehungen aufrechtzuerhalten. Er ist sehr auf sich selbst fixiert und hat ein übertriebenes Gefühl von Selbstwert und Selbstbedeutung. Tom glaubt, dass er in jeder Situation immer Recht hat und dass andere ihm unterlegen sind. Er redet oft über sich selbst und zeigt wenig Interesse an den Bedürfnissen oder Gefühlen anderer. Tom ist auch sehr empfindlich gegenüber Kritik und kann wütend werden, wenn er das Gefühl hat, dass er nicht die Anerkennung bekommt, die er verdient. Welche psychiatrische Störung hat Tom wahrscheinlich?",
+      "options": [
+        "Narzisstische Persönlichkeitsstörung",
+        "Depression",
+        "Borderline-Persönlichkeitsstörung",
+        "Schizophrenie"
+      ],
+      "answer": 0,
+      "explanation": "Grandiosität, Empathiemangel, Anspruchshaltung und Kränkbarkeit über Jahre hinweg beschreiben die narzisstische Persönlichkeitsstörung. Psychotische und depressive Symptome werden nicht berichtet; und bei der Borderline-Störung stünden Verlassenheitsängste, Identitätsdiffusion und Selbstschädigung im Vordergrund, nicht überhöhter Selbstwert.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Anna ist eine 30-jährige Frau, die seit ihrer Kindheit traumatische Ereignisse erlebt hat, darunter sexuellen Missbrauch durch ihren Vater. In den letzten Jahren hat Anna bemerkt, dass sie verschiedene Persönlichkeiten hat, die sich regelmäßig abwechseln und unterschiedliche Namen und Charaktereigenschaften haben. Einige ihrer Persönlichkeiten sind kindlich und unschuldig, während andere aggressiver und wütender sind. Anna hat auch Erinnerungslücken und kann sich nicht an bestimmte Ereignisse erinnern, die von anderen Persönlichkeiten erlebt wurden. Welche psychiatrische Störung hat Anna wahrscheinlich?",
+      "options": [
+        "Schizophrenie",
+        "Bipolare Störung",
+        "Dissoziative Identitätsstörung",
+        "Posttraumatische Belastungsstörung"
+      ],
+      "answer": 2,
+      "explanation": "Abwechselnde, voneinander abgegrenzte Identitätszustände mit Amnesie für die Erlebnisse der jeweils anderen sind das definierende Merkmal der dissoziativen Identitätsstörung. Die Schizophrenie kennt keine wechselnden Identitäten mit eigenen Namen, sondern Ich-Störungen; die bipolare Störung betrifft Stimmungsphasen; und eine PTBS erklärt zwar den traumatischen Hintergrund, nicht aber die Identitätsfragmentierung.",
+      "topic": "Fallvignetten",
+      "hard": true,
+      "trap": "'Gespaltene Persönlichkeit' ist ein Laienbild der Schizophrenie - gemeint ist hier die dissoziative Identitätsstörung.",
+      "transfer": true
+    },
+    {
+      "question": "Sarah ist eine 40-jährige Frau, die als Kind eine schwere körperliche Misshandlung durch ihren Stiefvater erfahren hat. Obwohl sie seit vielen Jahren nicht mehr bei ihm wohnt, hat sie immer noch Schwierigkeiten, die traumatischen Ereignisse zu verarbeiten. Sarah hat häufige Flashbacks und Albträume, in denen sie sich an die Gewalttaten erinnert. Sie ist auch sehr empfindlich gegenüber Situationen, die sie an die Misshandlung erinnern, und vermeidet Orte, die sie mit ihrem Stiefvater in Verbindung bringt. Sarah hat Schwierigkeiten, ihre Emotionen zu kontrollieren, und fühlt sich oft nervös und gereizt. Welche psychiatrische Störung hat Sarah wahrscheinlich?",
+      "options": [
+        "Depression",
+        "Posttraumatische Belastungsstörung",
+        "Schizophrenie",
+        "Borderline-Persönlichkeitsstörung"
+      ],
+      "answer": 1,
+      "explanation": "Flashbacks, Albträume, Vermeidung von Erinnerungsreizen und Übererregbarkeit nach einem Trauma bilden die klassische Trias der PTBS. Psychotische Symptome fehlen; eine depressive Episode erklärt weder Intrusionen noch Vermeidung; und für eine Borderline-Störung fehlen Identitätsdiffusion, Verlassenheitsängste und selbstschädigendes Verhalten.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Jan ist ein 25-jähriger Mann, der seit seiner Jugend unter starken Ängsten leidet. Er hat Schwierigkeiten, neue Menschen kennenzulernen und öffentlich zu sprechen. Jan hat auch Angst davor, in Gruppen zu essen oder zu trinken, da er befürchtet, dass andere ihn beurteilen oder kritisieren könnten. Jan vermeidet oft soziale Situationen oder erträgt sie mit großer Anspannung und Angst. Jan weiß, dass seine Ängste irrational sind, aber er kann nicht anders, als sie zu fühlen. Welche psychiatrische Störung hat Jan wahrscheinlich?",
+      "options": [
+        "Soziale Angststörung",
+        "Agoraphobie",
+        "Generalisierte Angststörung",
+        "Zwangsstörung"
+      ],
+      "answer": 0,
+      "explanation": "Die Angst bezieht sich spezifisch auf Bewertung durch andere in sozialen Situationen - das ist die soziale Angststörung. Die Agoraphobie fürchtet Orte ohne Fluchtmöglichkeit, nicht die Bewertung; die generalisierte Angststörung besteht aus frei flottierenden Sorgen ohne situativen Fokus; und für eine Zwangsstörung fehlen Zwangsgedanken und -handlungen.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Max ist ein 30-jähriger Mann, der seit etwa einem Jahr ungewöhnliche Wahrnehmungen und Gedanken hat. Er hört Stimmen, die ihm Dinge sagen oder Befehle geben, und glaubt, dass diese Stimmen von außen kommen. Max glaubt auch, dass er von Geheimdiensten und Außerirdischen verfolgt wird und dass seine Gedanken von anderen kontrolliert werden. Er hat Schwierigkeiten, seine Gedanken zu ordnen und zu konzentrieren. Max hat sich von seinen Freunden und seiner Familie zurückgezogen und vermeidet soziale Kontakte. Welche psychiatrische Störung hat Max wahrscheinlich?",
+      "options": [
+        "Borderline-Persönlichkeitsstörung",
+        "Posttraumatische Belastungsstörung",
+        "Schizophrenie",
+        "Bipolare Störung"
+      ],
+      "answer": 2,
+      "explanation": "Kommentierende und befehlende Stimmen, Verfolgungswahn, Gedankenbeeinflussung als Ich-Störung, formale Denkstörungen und sozialer Rückzug über ein Jahr ergeben das Vollbild der Schizophrenie. Eine bipolare Störung setzt affektive Episoden voraus; die Borderline-Störung kennt allenfalls kurze pseudopsychotische Zustände; und für eine PTBS fehlt ein traumatisches Ereignis.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    },
+    {
+      "question": "Lena ist eine 45-jährige Frau, die seit Jahren davon überzeugt ist, dass ihr Ehemann sie betrügt und ihre Freunde und Familie gegen sie sind. Sie hat keine Beweise dafür, aber sie ist davon überzeugt, dass alle Beweise vor ihr verborgen werden. Sie hat begonnen, ihr Haus mit Kameras und Mikrofonen auszustatten, um ihre Umgebung zu überwachen. Lena ist von der Überzeugung besessen, dass sie ständig von anderen überwacht und beobachtet wird. Sie hat Schwierigkeiten, diese Gedanken loszulassen, und es fällt ihr schwer, Vertrauen in andere Menschen zu haben. Welche psychiatrische Störung hat Lena wahrscheinlich?",
+      "options": [
+        "Schizophrenie",
+        "Wahnhafte Störung",
+        "Generalisierte Angststörung",
+        "Paranoide Persönlichkeitsstörung"
+      ],
+      "answer": 1,
+      "explanation": "Ein über Jahre bestehender, systematisierter Eifersuchts- und Verfolgungswahn ohne Halluzinationen, Ich-Störungen oder Negativsymptomatik entspricht der anhaltenden wahnhaften Störung. Die generalisierte Angststörung kennt Sorgen, aber keinen Wahn; die paranoide Persönlichkeitsstörung bleibt beim überdauernden Misstrauen ohne wahnhafte Gewissheit; und für eine Schizophrenie fehlen die übrigen Kernsymptome.",
+      "topic": "Fallvignetten",
+      "hard": true,
+      "trap": "Misstrauen wird zur wahnhaften Störung, sobald es unkorrigierbare Gewissheit erreicht - ohne dass die Schizophreniekriterien erfüllt sind.",
+      "transfer": true
+    },
+    {
+      "question": "Herr Schmidt ist ein 70-jähriger Mann, der seit einem Schlaganfall vor ein paar Monaten Gedächtnisprobleme hat. Er hat Schwierigkeiten, sich an Namen, Ereignisse und Gespräche zu erinnern. Er hat auch Schwierigkeiten, Entscheidungen zu treffen und komplexe Aufgaben auszuführen. Herr Schmidt hat auch Veränderungen in seiner Persönlichkeit und Stimmung bemerkt, einschließlich Reizbarkeit und Depressionen. Welche psychiatrische Störung hat Herr Schmidt wahrscheinlich?",
+      "options": [
+        "Vaskuläre Demenz",
+        "Alzheimer-Krankheit",
+        "Parkinson-Krankheit",
+        "Schizophrenie"
+      ],
+      "answer": 0,
+      "explanation": "Der zeitliche Zusammenhang mit einem Schlaganfall, exekutive Defizite und Persönlichkeits- bzw. Affektveränderungen sprechen für eine vaskuläre Demenz. Die Alzheimer-Demenz beginnt schleichend ohne fassbares zerebrovaskuläres Ereignis; die Parkinson-Krankheit wäre durch motorische Kardinalsymptome gekennzeichnet; und für eine Schizophrenie fehlen psychotische Symptome.",
+      "topic": "Fallvignetten",
+      "trap": "Der Zeitpunkt des Beginns entscheidet: abrupt nach Schlaganfall spricht gegen Alzheimer.",
+      "transfer": true
+    },
+    {
+      "question": "Herr Müller ist ein 35-jähriger Mann, der in seiner Freizeit viel Zeit damit verbringt, sich mit ungewöhnlichen und esoterischen Themen wie Verschwörungstheorien, Magie und Okkultismus zu beschäftigen. Er hat wenige Freunde und vermeidet es, mit anderen Menschen in Kontakt zu treten. Er hat eine merkwürdige Art zu sprechen und oft Schwierigkeiten, seine Gedanken zusammenhängend auszudrücken. Er glaubt, dass er übernatürliche Fähigkeiten besitzt, wie zum Beispiel die Fähigkeit, die Zukunft vorauszusagen, und dass er von höheren Mächten kontrolliert wird. Welche psychiatrische Störung hat Herr Müller wahrscheinlich?",
+      "options": [
+        "Schizophrenie",
+        "Bipolare Störung",
+        "Schizotype Störung",
+        "Paranoide Persönlichkeitsstörung"
+      ],
+      "answer": 2,
+      "explanation": "Exzentrische Überzeugungen, magisches Denken, eigentümliche Sprache und sozialer Rückzug ohne manifeste psychotische Episode kennzeichnen die schizotype Störung. Für eine Schizophrenie fehlen eindeutige Wahnphänomene und Halluzinationen im Vollbild; die paranoide Persönlichkeitsstörung ist auf Misstrauen zentriert, nicht auf magisches Denken; und affektive Episoden werden nicht berichtet.",
+      "topic": "Fallvignetten",
+      "hard": true,
+      "transfer": true
+    },
+    {
+      "question": "Frau Mayer ist eine 28-jährige Frau, die in ihrer Jugend sexuell missbraucht wurde. Sie hat seit vielen Jahren emotionale Instabilität und zeigt Symptome wie impulsives Verhalten, intensive und instabile zwischenmenschliche Beziehungen, Stimmungsschwankungen, wiederholte Selbstverletzungen und Suizidgedanken. Sie hat auch Probleme, ein stabiles Selbstbild aufrechtzuerhalten, und hat Schwierigkeiten, ihre Emotionen zu regulieren. In der Vergangenheit hat sie mehrere ungesunde Beziehungen gehabt und hat Schwierigkeiten, länger als ein paar Monate in einer stabilen Beziehung zu bleiben. Welche psychiatrische Störung hat Frau Mayer wahrscheinlich?",
+      "options": [
+        "Schizophrenie",
+        "Borderline-Persönlichkeitsstörung",
+        "Zwangsstörung",
+        "Bipolare Störung"
+      ],
+      "answer": 1,
+      "explanation": "Affektive Instabilität, Impulsivität, instabile Beziehungen, Identitätsdiffusion und wiederholte Selbstverletzung vor traumatischem Hintergrund ergeben das Kernbild der Borderline-Persönlichkeitsstörung. Psychotische Symptome fehlen; die bipolare Störung verläuft in wochenlangen Episoden statt in situativ ausgelösten Schwankungen; und Zwangsgedanken oder -handlungen werden nicht berichtet.",
+      "topic": "Fallvignetten",
+      "transfer": true
+    }
+  ]
+}

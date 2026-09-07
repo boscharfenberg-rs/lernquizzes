@@ -1,0 +1,434 @@
+{
+  "id": "kl-klausurfragen2-grundlagen",
+  "title": "Klausurfragen KL 2 (I): Klassifikation, Verlauf & Therapieverfahren",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "Teil 1 der gesammelten Klausurfragen (Dokument 'KL 2'), 1:1 übernommen: Diagnosekommunikation und Stigma, ICD/DSM, Syndrom vs. Diagnose, Verlaufs- und Komorbiditätsbegriffe, biologische Therapieverfahren und Psychopharmakotherapie. Single Best Answer mit 5 Optionen A-E.",
+  "showGrade": true,
+  "questions": [
+    {
+      "question": "Welche Bedeutung hat der sog. Looping-Effekt nach Ian Hacking im Kontext der Diagnosekommunikation mit Patienten?",
+      "options": [
+        "Der Effekt sagt aus, dass sich Patienten durch Diagnosekommunikation lediglich 'im Kreise drehen', d. h. auf der Stelle stehen bleiben und es zu keiner Veränderung kommt",
+        "Patienten vollziehen nach der Kommunikation einen ersten immensen Entwicklungsschritt (sog. Anfangslooping)",
+        "Die Diagnosekommunikation verändert, wie sich Patienten wahrnehmen, und ihr Verhalten; letztlich verändert sich dadurch die Symptomatik selbst",
+        "Patienten vollziehen danach ein Looping, indem es ihnen erst mal ganz besonders schlecht geht",
+        "Der Looping-Effekt hat mit der Kommunikation der Diagnose nichts zu tun"
+      ],
+      "answer": 2,
+      "explanation": "Hacking beschreibt eine Rückkopplung zwischen Klassifikation und Klassifizierten: Wer eine Diagnose erhält, deutet sich selbst neu, verhält sich entsprechend - und verändert damit das Phänomen, das die Diagnose beschreiben sollte. Die Vorstellung einer initialen Verschlechterung, eines Entwicklungsschubs oder eines Stillstands sind reine Wortassoziationen an 'Looping' und haben mit dem Konzept nichts zu tun; die Behauptung, der Effekt betreffe die Diagnosekommunikation gar nicht, verkehrt seinen Kern ins Gegenteil.",
+      "topic": "Diagnosekommunikation & Stigma",
+      "hard": true,
+      "trap": "'Looping' meint keine Kreisbewegung ohne Fortschritt, sondern eine Rückkopplungsschleife zwischen Etikett und Person."
+    },
+    {
+      "question": "Was bedeutet strukturelle bzw. institutionelle Stigmatisierung im Kontext psychischer Störungen?",
+      "options": [
+        "Stigmatisierung von Patienten mit ganz bestimmten Diagnosen (Gegenteil: globale oder unsystematische Stigmatisierung)",
+        "Stigmatisierung psychischer Störungen durch klinisches Fachpersonal",
+        "Stigmatisierung, bei der klinisches Fachpersonal zum Ziel der Stigmatisierung wird",
+        "Definiert den strukturellen Prozess von der gesellschaftlichen hin zur Selbst-Stigmatisierung",
+        "Alle Antwortalternativen fallen unter das Stichwort der strukturellen Stigmatisierung"
+      ],
+      "answer": 1,
+      "explanation": "Strukturell bzw. institutionell heißt: Die Abwertung geht von den Institutionen des Versorgungssystems und seinem Personal selbst aus - Psychiatrie und Fachpersonal stigmatisieren die eigenen Patienten. Der Weg von der öffentlichen zur Selbststigmatisierung beschreibt die Internalisierung, nicht die Struktur; die Beschränkung auf einzelne Diagnosen ist eine Frage der Spezifität; Fachpersonal als Opfer kehrt die Richtung um; und eine Sammelantwort passt nicht, weil die genannten Varianten sich gegenseitig ausschließen.",
+      "topic": "Diagnosekommunikation & Stigma",
+      "trap": "Richtung beachten: Fachpersonal ist hier Ausgangspunkt, nicht Ziel der Stigmatisierung."
+    },
+    {
+      "question": "Was ist ein explizites Ziel funktionaler Patientenaufklärung in den aktualisierten S3-Leitlinien für Schizophrenie?",
+      "options": [
+        "Empowerment (Stärkung der Autonomie)",
+        "Befähigung",
+        "Selbstermächtigung",
+        "Inneres Wachstum",
+        "Patientenmanagement"
+      ],
+      "answer": 0,
+      "explanation": "Die Leitlinie benennt ausdrücklich Empowerment im Sinne einer gestärkten Autonomie der Betroffenen auf der Grundlage einer fundierten Wissensbasis. 'Befähigung' und 'Selbstermächtigung' sind unscharfe Teilübersetzungen, die den Leitlinienbegriff nicht treffen; 'Patientenmanagement' beschreibt eine Steuerung von außen und damit das Gegenteil; 'inneres Wachstum' ist ein therapieschulen-eigener Begriff und kein Aufklärungsziel.",
+      "topic": "Diagnosekommunikation & Stigma"
+    },
+    {
+      "question": "Moderne Klassifikationssysteme ICD und DSM sind atheoretisch strukturiert. Welche Aussage dazu ist FALSCH?",
+      "options": [
+        "Perspektiven verschiedener Berufsgruppen sollen damit vereinbar sein",
+        "Es wird eine einzige allgemeingültige ätiologische und nosologische Theorie zugrunde gelegt und nicht nur die Theorie einer bestimmten Schule",
+        "Einheitliche Basis für die Diagnostik macht Forschungsbefunde besser vergleichbar",
+        "Ätiologische und nosologische Annahmen werden nicht integriert",
+        "Ein einziges System der Klassifikation soll die zuvor bestehende Heterogenität unterschiedlicher Systeme ersetzen"
+      ],
+      "answer": 1,
+      "explanation": "Atheoretisch heißt gerade, dass KEINE Ätiologietheorie zugrunde gelegt wird - auch keine 'allgemeingültige'; deshalb ist diese Aussage falsch und damit die gesuchte Lösung. Richtig und daher keine Lösung sind: der Verzicht auf ätiologisch-nosologische Annahmen, die Anschlussfähigkeit für verschiedene Berufsgruppen, die Vereinheitlichung vormals heterogener Systeme und die bessere Vergleichbarkeit von Forschungsbefunden.",
+      "topic": "Klassifikationssysteme",
+      "hard": true,
+      "trap": "'Eine einzige Theorie' klingt nach Vereinheitlichung - genau das ist bei atheoretischen Systemen aber ausgeschlossen."
+    },
+    {
+      "question": "Welche Informationen sind in den aktuellen Klassifikationssystemen ICD/DSM für psychische Störungen NICHT zu finden?",
+      "options": [
+        "Dauer der Symptome bis Diagnosestellung",
+        "Differenzialdiagnostische Hinweise",
+        "Befunde und Hinweise zu den Ursachen der Störungen, abgesehen von der Posttraumatischen Belastungsstörung",
+        "Ausschluss-Diagnosen",
+        "Spezifische Symptome"
+      ],
+      "answer": 2,
+      "explanation": "Ursachenaussagen fehlen systematisch, weil die Systeme deskriptiv-atheoretisch angelegt sind; einzig die Traumafolgestörungen setzen ein auslösendes Ereignis voraus. Symptomlisten, Zeitkriterien, Ausschlussdiagnosen und differenzialdiagnostische Hinweise gehören dagegen zum Standardaufbau jedes Störungskapitels und sind daher zu finden.",
+      "topic": "Klassifikationssysteme"
+    },
+    {
+      "question": "Wie nennt man eine überzufällig häufige, theoretisch und empirisch sinnvolle Symptomkombination?",
+      "options": [
+        "Symptombereich",
+        "Diagnose",
+        "Komorbidität",
+        "Syndrom",
+        "Konstellation"
+      ],
+      "answer": 3,
+      "explanation": "Ein Syndrom ist genau das: ein regelhaft gemeinsam auftretendes, inhaltlich sinnvolles Symptommuster. Komorbidität meint das Nebeneinander mehrerer eigenständiger Störungen; eine Diagnose entsteht erst, wenn zum Syndrom Zeit-, Verlaufs- und Ausschlusskriterien hinzukommen; 'Symptombereich' und 'Konstellation' sind keine Fachbegriffe der Klassifikationslehre.",
+      "topic": "Klassifikationssysteme"
+    },
+    {
+      "question": "Was benötigen Sie unter anderem, um von einem Syndrom zu einer Diagnose zu gelangen?",
+      "options": [
+        "Infos über Komorbiditäten",
+        "Eine Fremdeinschätzung durch Angehörige (Fremdvalidierung)",
+        "Informationen zur Ätiologie",
+        "Zeitliche Charakteristika (Dauer der Pathologie)",
+        "Zustimmung durch mindestens einen Fachkollegen (Expertenvalidierung)"
+      ],
+      "answer": 3,
+      "explanation": "Der Schritt vom Syndrom zur Diagnose verlangt vor allem Zeitkriterien - Mindestdauer und Verlaufsgestalt. Ätiologische Informationen sind in deskriptiven Systemen gerade nicht gefordert; eine Fremdanamnese durch Angehörige und eine kollegiale Zweitmeinung sind hilfreich, aber keine Diagnosekriterien; Komorbiditäten werden zusätzlich kodiert, begründen die Diagnose aber nicht.",
+      "topic": "Klassifikationssysteme"
+    },
+    {
+      "question": "Was ist die Bedeutung biopsychosozialer Modelle für das Verständnis der Ätiologie psychischer Störungen?",
+      "options": [
+        "Allen Störungen wird ätiologisch eine biologische wie auch psychosoziale Ätiologie unterstellt, da eine eindeutige spezifische kausale Ätiologie für psychische Störungen bis dato nicht existiert",
+        "Das biopsychosoziale ätiologische Modell galt für die Klassifikationssysteme ICD-10 und DSM-IV; in den neuen Systemen wird dank neuerer Forschung auf das allgemeine Modell zugunsten spezifischer Erklärungsansätze verzichtet",
+        "Das biopsychosoziale Modell ist kein ätiologisches Modell, sondern erklärt die Aufrechterhaltung psychischer Störungen nach Erstmanifestation",
+        "Das Modell beschreibt psychosoziale Vulnerabilitätsmarker, die in Kombination mit störungsspezifischen biologischen Auslösefaktoren die Entstehung psychischer Störungen erklären",
+        "Ätiologisch sind einige Störungen rein biologisch, aber nicht psychologisch erklärbar, wie bspw. schwere Psychosen, andere sind rein psychologisch, aber nicht biologisch erklärbar wie die Posttraumatische Belastungsstörung"
+      ],
+      "answer": 0,
+      "explanation": "Das Modell ist ein allgemeines Rahmenmodell: Weil für keine psychische Störung eine spezifische Kausalätiologie belegt ist, wird durchgängig ein Zusammenspiel biologischer und psychosozialer Faktoren angenommen. Eine saubere Aufteilung in 'rein biologische' und 'rein psychologische' Störungen widerspricht dem ebenso wie die Behauptung, die neuen Systeme hätten das Modell abgelöst. Die Kombination 'psychosoziale Vulnerabilität plus störungsspezifische biologische Auslöser' verengt es unzulässig auf eine feste Rollenverteilung, und die Beschränkung auf Aufrechterhaltung übersieht den ätiologischen Anspruch.",
+      "topic": "Ätiologie",
+      "hard": true
+    },
+    {
+      "question": "Es wird vermutet, dass die realen Komorbiditätsraten höher sind, als es die großen Komorbiditätsstudien nahelegen. Woran dürfte das am ehesten liegen?",
+      "options": [
+        "Komorbidität ist ein Phänomen, welches in Studien explizit nicht gewünscht ist, sodass nur vage Schätzungen möglich sind",
+        "Patienten sind nicht ehrlich bei der Diagnostik",
+        "Nicht alle möglichen Störungsbilder werden in die Studien integriert",
+        "Die genannte Vermutung existiert gar nicht",
+        "Die Forscher haben sich verrechnet"
+      ],
+      "answer": 2,
+      "explanation": "Große Surveys erfassen immer nur einen Ausschnitt des Diagnosespektrums; alles Nicht-Erhobene kann auch nicht als Komorbidität auftauchen - die Raten sind daher systematisch unterschätzt. Rechenfehler und Unehrlichkeit der Patienten sind keine systematischen Erklärungen; dass Komorbidität in Studien 'unerwünscht' sei, trifft nicht zu (sie ist ein zentrales Forschungsthema); und die Vermutung selbst ist gut belegt.",
+      "topic": "Epidemiologie & Verlauf"
+    },
+    {
+      "question": "Welcher epidemiologische Begriff steht für eine akute Verschlechterung eines chronischen Krankheitsverlaufs? Vervollständigen Sie bitte: Der schizophrene Patient leidet unter einer ...",
+      "options": [
+        "... akuten Remission der Symptomatik",
+        "... akuten Dissimulation der Symptomatik",
+        "... akuten Response der Symptomatik",
+        "... akuten Exazerbation der Symptomatik",
+        "... akuten Aggravation der Symptomatik"
+      ],
+      "answer": 3,
+      "explanation": "Exazerbation bezeichnet das akute Aufflammen einer chronisch verlaufenden Erkrankung. Remission ist das Gegenteil (Rückbildung), Response meint das Ansprechen auf Behandlung, Aggravation die absichtliche Übertreibung und Dissimulation das Verbergen von Symptomen - beides Begriffe der Beschwerdenschilderung, nicht des Verlaufs.",
+      "topic": "Epidemiologie & Verlauf",
+      "trap": "Aggravation und Dissimulation beschreiben das Antwortverhalten des Patienten, nicht den Krankheitsverlauf."
+    },
+    {
+      "question": "Welcher epidemiologische Begriff steht für die abgeklungene Symptomatik? Vervollständigen Sie bitte: Der schizophrene Patient weist eine ...",
+      "options": [
+        "... Response der Symptomatik auf",
+        "... Dissimulation der Symptomatik auf",
+        "... Exazerbation der Symptomatik auf",
+        "... Aggravation der Symptomatik auf",
+        "... Remission der Symptomatik auf"
+      ],
+      "answer": 4,
+      "explanation": "Remission bezeichnet die weitgehende oder vollständige Rückbildung der Symptomatik. Exazerbation ist die akute Verschlechterung, Response nur das teilweise Ansprechen auf die Behandlung, Dissimulation das Verheimlichen und Aggravation das Übertreiben von Beschwerden.",
+      "topic": "Epidemiologie & Verlauf"
+    },
+    {
+      "question": "Welcher epidemiologische Begriff steht für Symptomatik, die nach ihrem Auftreten in konstanter Ausprägung verbleibt?",
+      "options": [
+        "Remittierend",
+        "Rezidivierend",
+        "Transitorisch",
+        "Persistierend",
+        "Progressiv"
+      ],
+      "answer": 3,
+      "explanation": "Persistierend meint fortbestehend auf gleichbleibendem Niveau. Progressiv beschreibt eine Zunahme, rezidivierend das wiederholte Auftreten nach Genesung, transitorisch ein vorübergehendes Auftreten und remittierend das Abklingen.",
+      "topic": "Epidemiologie & Verlauf"
+    },
+    {
+      "question": "Walter hat vor 7 Jahren eine erste depressive Episode erlebt, die nach 16 Wochen abgeklungen ist. Danach war er zwei Jahre symptomfrei. Es folgten zwei weitere depressive Episoden, zwischen denen etwa 12 Monate Symptomfreiheit herrschte. Welcher Begriff erklärt den Verlauf von Walters Symptomatik?",
+      "options": [
+        "Remittierend",
+        "Transitorisch",
+        "Progressiv",
+        "Rezidivierend",
+        "Persistierend"
+      ],
+      "answer": 3,
+      "explanation": "Mehrere abgegrenzte Episoden mit vollständiger Symptomfreiheit dazwischen definieren einen rezidivierenden Verlauf. Persistierend wäre er nur bei durchgehender Symptomatik, progressiv bei kontinuierlicher Verschlechterung; transitorisch beschreibt eine einzelne vorübergehende Episode und remittierend lediglich das Abklingen einer Episode, nicht das Wiederauftreten.",
+      "topic": "Epidemiologie & Verlauf"
+    },
+    {
+      "question": "Walter wurde in der Schule immer gehänselt. Daraufhin entwickelte er nach einigen Jahren eine soziale Angststörung. Deren Symptomatik wird dadurch etwas abgemildert, weil seine Eltern sehr liebevollen Kontakt zu ihm pflegen. Welcher epidemiologische Begriff erklärt den Einfluss, den das Verhalten der Eltern auf die Symptomatik der Angststörung hat, am spezifischsten?",
+      "options": [
+        "Komorbiditätseffekt",
+        "Moderatoreffekt oder Mediatoreffekt",
+        "Ätiologieeffekt",
+        "Exazerbationseffekt",
+        "Konfidenzfaktor"
+      ],
+      "answer": 1,
+      "explanation": "Eine dritte Variable, die Stärke oder Weg des Zusammenhangs zwischen Belastung und Symptomatik verändert, ist ein Moderator bzw. Mediator - das trifft auf das elterliche Verhalten zu. Ein 'Ätiologieeffekt' wäre die Verursachung selbst, ein 'Konfidenzfaktor' existiert als Begriff nicht (gemeint wäre allenfalls ein Confounder), ein Komorbiditätseffekt betrifft zusätzliche Störungen und ein Exazerbationseffekt die akute Verschlechterung.",
+      "topic": "Epidemiologie & Verlauf",
+      "hard": true
+    },
+    {
+      "question": "Welche Aussage zu den Verlaufscharakteristika von Störungen mit episodischem Verlauf ist falsch?",
+      "options": [
+        "Ein Rezidiv ist eine erneute Erkrankung nach erfolgter Genesung und stellt damit den Beginn einer neuen Krankheitsepisode dar",
+        "Ein Rückfall bezeichnet eine erneute Symptomverschlechterung nach erfolgter Besserung innerhalb einer Krankheitsepisode",
+        "Recovery bezeichnet die vollständige Genesung und damit das Ende einer Krankheitsepisode",
+        "Response bezeichnet das 'Antworten der Symptomatik' auf die Behandlung im Sinne eines teilweisen, aber nicht vollständigen Symptomrückgangs",
+        "Von Remission wird gesprochen, wenn sich die Symptomatik zurückbildet, und sie definiert das Ende einer Episode"
+      ],
+      "answer": 4,
+      "explanation": "Falsch - und damit gesuchte Lösung - ist die Gleichsetzung von Remission mit dem Ende der Episode: Das Ende markiert erst die Recovery; Remission beschreibt lediglich die Rückbildung der Symptomatik, die Episode gilt weiter als laufend. Korrekt sind daher Recovery als vollständige Genesung, der Rückfall als Verschlechterung innerhalb derselben Episode, Response als partielles Ansprechen und das Rezidiv als Neuerkrankung nach Genesung.",
+      "topic": "Epidemiologie & Verlauf",
+      "hard": true,
+      "trap": "Rückfall (innerhalb der Episode) und Rezidiv (nach Genesung) hängen genau an der Grenze, die die Recovery zieht - nicht die Remission."
+    },
+    {
+      "question": "Bei dem gemeinsamen Vorliegen einer Depression und einer Kokainkonsumstörung handelt es sich um ...?",
+      "options": [
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu Cannabis die konsumierte Substanz sein sollte",
+        "eine Komorbidität sowie eine Doppeldiagnose",
+        "eine Doppeldiagnose, aber keine Komorbidität",
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu die psychiatrische Störung eine Psychose sein sollte",
+        "eine Komorbidität, aber keine Doppeldiagnose"
+      ],
+      "answer": 1,
+      "explanation": "Doppeldiagnose meint das Zusammentreffen einer psychischen Störung mit einer Suchterkrankung - hier Depression plus Kokainkonsumstörung; jede Doppeldiagnose ist zugleich eine Komorbidität. 'Komorbidität ohne Doppeldiagnose' träfe nur ohne Suchtanteil zu, 'Doppeldiagnose ohne Komorbidität' ist begrifflich unmöglich, und die Festlegung auf Cannabis oder auf eine Psychose ist frei erfunden - das Konzept ist substanz- und störungsunabhängig.",
+      "topic": "Komorbidität & Doppeldiagnose"
+    },
+    {
+      "question": "Bei dem gemeinsamen Vorliegen einer bipolaren Störung und einer Persönlichkeitsstörung handelt es sich um ...?",
+      "options": [
+        "eine Komorbidität, aber keine Doppeldiagnose",
+        "eine Doppeldiagnose, aber keine Komorbidität",
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu Cannabis die konsumierte Substanz sein sollte",
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu die psychiatrische Störung eine Psychose sein sollte",
+        "eine Komorbidität und eine Doppeldiagnose"
+      ],
+      "answer": 0,
+      "explanation": "Zwei psychische Störungen ohne Suchtanteil ergeben eine Komorbidität, aber keine Doppeldiagnose - dieser Begriff ist der Kombination psychische Störung plus Substanzkonsumstörung vorbehalten. Deshalb scheiden beide Varianten mit Doppeldiagnose aus; die Festlegung auf Cannabis oder auf eine Psychose ist nicht Teil des Konzepts.",
+      "topic": "Komorbidität & Doppeldiagnose",
+      "trap": "Ohne Suchtdiagnose gibt es keine Doppeldiagnose - egal wie schwer die beiden Störungen sind."
+    },
+    {
+      "question": "Bei dem gemeinsamen Vorliegen einer Panikstörung und einer Alkoholkonsumstörung (Sucht) handelt es sich um ...?",
+      "options": [
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu die psychiatrische Störung eine Psychose sein sollte",
+        "eine Doppeldiagnose, aber keine Komorbidität",
+        "eine Komorbidität, aber keine Doppeldiagnose",
+        "weder eine Komorbidität noch um eine Doppeldiagnose, da konzeptgetreu Cannabis die konsumierte Substanz sein sollte",
+        "eine Komorbidität und eine Doppeldiagnose"
+      ],
+      "answer": 4,
+      "explanation": "Panikstörung plus Alkoholkonsumstörung erfüllt genau die Definition der Doppeldiagnose und ist damit zugleich eine Komorbidität. Die Variante ohne Doppeldiagnose übersieht den Suchtanteil, 'Doppeldiagnose ohne Komorbidität' ist begrifflich ausgeschlossen, und weder muss die Substanz Cannabis noch die psychische Störung eine Psychose sein.",
+      "topic": "Komorbidität & Doppeldiagnose"
+    },
+    {
+      "question": "Wie sollten Sie es diagnostisch am ehesten betrachten, wenn ein Patient nach zweimaligem Konsum von Cannabis eine drogeninduzierte Psychose entwickelt?",
+      "options": [
+        "Zunächst lediglich als pathologischen Cannabiskonsum",
+        "Einfach als drogeninduzierte Psychose",
+        "Als Schizophrenie, ausgelöst durch den Drogenkonsum",
+        "Als Doppeldiagnose (DD) Cannabisabhängigkeit und Psychose",
+        "Keine der Antworten ist passend"
+      ],
+      "answer": 1,
+      "explanation": "Zweimaliger Konsum begründet keine Konsumstörung und schon gar keine Abhängigkeit; es bleibt bei der substanzinduzierten Psychose als eigenständiger Diagnose. Eine Doppeldiagnose setzt eine Suchtdiagnose voraus, die hier fehlt; eine Schizophrenie darf aus einer akuten Intoxikationspsychose nicht abgeleitet werden; 'pathologischer Konsum' allein unterschlägt die manifeste psychotische Symptomatik.",
+      "topic": "Komorbidität & Doppeldiagnose",
+      "hard": true,
+      "trap": "Zwei Konsumereignisse sind noch keine Abhängigkeit - ohne Suchtdiagnose keine Doppeldiagnose."
+    },
+    {
+      "question": "Ihr Patient berichtet, seit mehreren Wochen durchgängig unter niedergedrückter Stimmung und Antriebsverlust zu leiden. An Hobbys empfinde er kaum noch Freude. Zudem habe er Schwierigkeiten, sich zu konzentrieren und beim Einschlafen. Eine organische Ursache sowie Folgen von Substanzkonsum können ausgeschlossen werden. Welcher diagnostische Schluss ist hier am ehesten zulässig?",
+      "options": [
+        "Psychosomatische Störung",
+        "Depressive Episode",
+        "Rezidivierende depressive Störung",
+        "Depressives Syndrom",
+        "Infos reichen für keine diagnostische Annahme aus"
+      ],
+      "answer": 1,
+      "explanation": "Leitsymptome plus Zusatzsymptome über mehrere Wochen, dazu ausgeschlossene organische und substanzbedingte Ursachen: Damit sind Zeit- und Ausschlusskriterien erfüllt, also eine depressive Episode. Für eine rezidivierende Störung fehlt jede frühere Episode; beim bloßen depressiven Syndrom wäre das Zeitkriterium noch nicht erfüllt; eine psychosomatische Störung passt mangels körperlicher Leitsymptomatik nicht, und die Informationen reichen sehr wohl für eine Diagnose.",
+      "topic": "Diagnostischer Schluss"
+    },
+    {
+      "question": "Ihr Patient berichtet aktuell unter niedergedrückter Stimmung und Antriebsverlust zu leiden. An Hobbys empfinde er kaum noch Freude. Zudem habe er Schwierigkeiten, sich zu konzentrieren und beim Einschlafen. Welcher diagnostische Schluss ist hier am ehesten zulässig?",
+      "options": [
+        "Depressives Syndrom",
+        "Rezidivierende depressive Störung",
+        "Depressive Episode",
+        "Depression plus komorbide Schlafstörung",
+        "Psychosomatische Störung"
+      ],
+      "answer": 0,
+      "explanation": "Ohne jede Zeitangabe liegt nur ein sinnvoll zusammengehörendes Symptommuster vor - ein depressives Syndrom. Für eine depressive Episode fehlt das Zeitkriterium, für eine rezidivierende Störung zusätzlich die Vorgeschichte; eine psychosomatische Störung ist nicht angedeutet, und die Schlafstörung ist hier Zusatzsymptom der Depression, keine eigenständige komorbide Diagnose.",
+      "topic": "Diagnostischer Schluss",
+      "hard": true,
+      "trap": "Der einzige Unterschied zur Episoden-Variante ist die fehlende Zeitangabe - genau daran hängt Syndrom vs. Diagnose."
+    },
+    {
+      "question": "Welche der folgenden Therapieschulen folgt dem Grundsatz von Rogers: 'Der Mensch ist gut'?",
+      "options": [
+        "Verhaltenstherapie",
+        "Kognitive Therapie",
+        "Tiefenpsychologisch fundierte Therapie",
+        "Humanistische Therapien, z. B. Gesprächspsychotherapie",
+        "Psychoanalyse"
+      ],
+      "answer": 3,
+      "explanation": "Das humanistische Menschenbild mit Selbstaktualisierungstendenz und positiver Grundannahme stammt von Rogers und trägt die Gesprächspsychotherapie. Kognitive Therapie und Verhaltenstherapie setzen an Lerngeschichte und Kognitionen an, tiefenpsychologische Verfahren und die Psychoanalyse an unbewussten Konflikten und Triebdynamik - keines dieser Modelle beruht auf Rogers' Grundsatz.",
+      "topic": "Therapieverfahren"
+    },
+    {
+      "question": "Welche beiden Therapien zählen zu den circadianen Therapieformen?",
+      "options": [
+        "THS und Lobotomie",
+        "Elektrokrampftherapie (EKT) und tiefe Hirnstimulation (THS)",
+        "Lichttherapie und Wachtherapie",
+        "Wachtherapie und EKT",
+        "THS und Lichttherapie"
+      ],
+      "answer": 2,
+      "explanation": "Circadiane Verfahren greifen in den Schlaf-Wach- und Lichtrhythmus ein: Lichttherapie und Wachtherapie (Schlafentzug). EKT und THS sind Stimulationsverfahren ohne Bezug zum Tagesrhythmus; jede Kombination aus einem circadianen und einem Stimulationsverfahren ist deshalb falsch, und die Lobotomie ist ein historisch obsoletes neurochirurgisches Verfahren.",
+      "topic": "Therapieverfahren"
+    },
+    {
+      "question": "Bei welcher Psychopathologie besteht keine Indikation für eine Elektrokrampftherapie (EKT)?",
+      "options": [
+        "Manie",
+        "Suizidalität",
+        "Schwere und/oder psychotische Depression",
+        "Schizophrenie",
+        "Störung der Affektregulation bei schweren Persönlichkeitsstörungen"
+      ],
+      "answer": 4,
+      "explanation": "Für Affektregulationsstörungen im Rahmen von Persönlichkeitsstörungen ist die EKT nicht indiziert - hier sind störungsspezifische Psychotherapien das Mittel der Wahl. Schwere bzw. psychotische Depression, therapieresistente Manie, Schizophrenie (insbesondere katatone Verläufe) und akute Suizidalität gelten dagegen als anerkannte Indikationen.",
+      "topic": "Therapieverfahren"
+    },
+    {
+      "question": "Bei welcher psychischen Störung wirkt die Elektrokrampftherapie (EKT) am besten und wird am häufigsten eingesetzt?",
+      "options": [
+        "Schizophrenie",
+        "Störung der Affektregulation bei schweren Persönlichkeitsstörungen",
+        "Manie",
+        "Suizidalität",
+        "Schwere und/oder psychotische Depression"
+      ],
+      "answer": 4,
+      "explanation": "Hauptindikation und wirksamster Einsatzbereich ist die schwere, insbesondere psychotische Depression. Manie und Schizophrenie sind zwar mögliche, aber deutlich seltenere Indikationen; Suizidalität ist ein Zustandsbild und keine Störung; bei Persönlichkeitsstörungen besteht gar keine Indikation.",
+      "topic": "Therapieverfahren",
+      "trap": "Indikation und Hauptindikation sind zweierlei - Manie und Schizophrenie sind indiziert, aber nicht der Hauptfall."
+    },
+    {
+      "question": "Welche Aussage ist aus wissenschaftlicher Perspektive am ehesten angemessen hinsichtlich des Wirkmechanismus der Elektrokrampftherapie (EKT)?",
+      "options": [
+        "Möglicherweise wirkt die EKT über eine Stimulation des Nervenwachstumsfaktors BDNF und somit durch Neubildung von Nervengewebe",
+        "Bislang gibt es keine Hypothese zur Wirksamkeit der EKT, ihr Einsatz rechtfertigt sich aber über die hohe klinische Effektivität",
+        "Die Nervenzellen im Gehirn werden vermutlich einem Reset und Neustart unterzogen",
+        "Alle Nerven werden durch den Strom extrem beansprucht und sortieren sich danach neu",
+        "Durch EKT werden spezifisch die Regionen im Gehirn stimuliert, die bei psychischen Störungen relevant sind"
+      ],
+      "answer": 0,
+      "explanation": "Die neurotrophe Hypothese - BDNF-vermittelte Neuroplastizität und Neurogenese - ist die derzeit am besten begründete Erklärung und wird angemessen vorsichtig formuliert. 'Reset und Neustart' sowie 'Nerven sortieren sich neu' sind laienhafte Bilder ohne empirische Basis; dass es gar keine Hypothese gebe, ist falsch; und eine gezielte Stimulation einzelner Zielregionen leistet die EKT gerade nicht - das ist das Prinzip der Tiefen Hirnstimulation.",
+      "topic": "Therapieverfahren",
+      "hard": true
+    },
+    {
+      "question": "Was gilt für die Wirkweise der Tiefen Hirnstimulation (THS)?",
+      "options": [
+        "Hochfrequente Stimulation inhibiert spezifisch und ausschließlich die Zielregion im Gehirn",
+        "Niederfrequente Stimulation inhibiert spezifisch und ausschließlich die Zielregion im Gehirn",
+        "Hochfrequente Stimulation inhibiert die Zielregion im Gehirn und beeinflusst durch die Netzwerkstruktur des Hirns gleichzeitig weitere Regionen",
+        "Alle genannten Aussagen sind zu spezifisch, als dass heutiges Wissen zur Beantwortung ausreichen würde",
+        "Niederfrequente Stimulation inhibiert die Zielregion im Gehirn und beeinflusst durch die Netzwerkstruktur des Hirns gleichzeitig weitere Regionen"
+      ],
+      "answer": 2,
+      "explanation": "Die THS arbeitet hochfrequent und hemmt damit die Zielregion; wegen der Netzwerkarchitektur des Gehirns bleibt der Effekt aber nie lokal begrenzt. Beide 'ausschließlich'-Varianten unterschlagen genau diese Netzwerkwirkung, die niederfrequente Variante hat die Frequenz falsch, und die pauschale Wissensverweigerung ist eine typische Ausweichoption.",
+      "topic": "Therapieverfahren",
+      "hard": true,
+      "trap": "Zwei Merkmale müssen gleichzeitig stimmen: hochfrequent UND netzwerkweit - nicht nur eines von beiden."
+    },
+    {
+      "question": "Wie wird es genannt, wenn Patienten gleichzeitig mehrere Psychopharmaka verordnet bekommen?",
+      "options": [
+        "Polypharmazie",
+        "Multipharmazie",
+        "Komplexbehandlung",
+        "Hochdosisbehandlung",
+        "Overshooting"
+      ],
+      "answer": 0,
+      "explanation": "Der Fachbegriff für die gleichzeitige Gabe mehrerer Wirkstoffe ist Polypharmazie. 'Komplexbehandlung' bezeichnet ein Abrechnungs- und Behandlungsformat in der Klinik, 'Hochdosisbehandlung' betrifft die Dosis eines Präparats, 'Overshooting' und 'Multipharmazie' sind keine etablierten Termini.",
+      "topic": "Psychopharmakotherapie"
+    },
+    {
+      "question": "Was geschieht, wenn Psychopharmaka weit über den empfohlenen maximalen Dosisbereich hinaus überdosiert verordnet werden?",
+      "options": [
+        "Sie erzeugen eine deutliche zusätzliche Symptomreduktion, aber auch deutliche Nebenwirkungen",
+        "Nichts, denn dieser Einsatz der Medikation ist verboten",
+        "Sie erzeugen eine deutliche zusätzliche Symptomreduktion ohne viele Nebenwirkungen",
+        "Sie erzeugen gar keine zusätzliche Wirkung mehr",
+        "Relativ geringe zusätzliche Symptomreduktion bei zeitgleich starken zusätzlichen Nebenwirkungen"
+      ],
+      "answer": 4,
+      "explanation": "Oberhalb des empfohlenen Bereichs flacht die Wirkkurve ab, während die Nebenwirkungen weiter ansteigen - der Zugewinn ist klein, der Preis hoch. Beide Varianten mit 'deutlicher zusätzlicher Symptomreduktion' überschätzen den Nutzen; 'gar keine Wirkung mehr' überzeichnet die Sättigung; und ein generelles Verbot existiert nicht, Off-label-Hochdosierung ist rechtlich möglich, nur selten sinnvoll.",
+      "topic": "Psychopharmakotherapie"
+    },
+    {
+      "question": "Was ist richtig hinsichtlich des idealen Dosisbereichs in der antipsychotischen Psychopharmakotherapie?",
+      "options": [
+        "Bei einer Rezeptorblockade von 100 % ist der ideale Wirkbereich erreicht",
+        "Ab einem bestimmten Dosisbereich kann durch weiteres Hochdosieren kaum klinisch erwünschter Effekt erreicht werden, aber auch kaum unerwünschte Nebenwirkungen",
+        "Bei einer eher geringeren Dosierung, die mit einer Rezeptorblockade von 50-70 % assoziiert ist, ist das Verhältnis von Wirkung und Nebenwirkung ideal",
+        "Patienten sollten die Medikamente alle paar Wochen vollständig absetzen, um dem Gehirn eine Phase der Stabilisierung zu ermöglichen",
+        "Die Wirkung und die Nebenwirkungen der Antipsychotika steigen linear zu ihrer Dosierung"
+      ],
+      "answer": 2,
+      "explanation": "Das therapeutische Fenster liegt bei einer D2-Blockade von etwa 50-70 %; darüber steigen vor allem die Nebenwirkungen. Ein linearer Zusammenhang gilt gerade nicht, eine vollständige Blockade ist maximal nebenwirkungsträchtig, die Variante 'kaum Wirkung und kaum Nebenwirkung' verdreht den zweiten Teil, und intermittierendes Absetzen erhöht das Rückfallrisiko erheblich.",
+      "topic": "Psychopharmakotherapie",
+      "hard": true
+    },
+    {
+      "question": "Wie reagiert das Gehirn auf eine Langzeitbehandlung mit hochdosierten Antipsychotika, insbesondere der ersten Generation?",
+      "options": [
+        "Dopaminrezeptoren werden vermehrt gebildet und werden sensitiver",
+        "Dopaminrezeptoren werden vollständig durch Psychopharmaka ersetzt",
+        "Dopaminrezeptoren werden vermehrt gebildet, reduzieren sich aber in ihrer Sensitivität",
+        "Dopaminrezeptoren werden reduziert gebildet und reduzieren gleichzeitig ihre Sensitivität",
+        "Dopaminrezeptoren werden reduziert gebildet, dafür aber sensitiver"
+      ],
+      "answer": 0,
+      "explanation": "Die chronische Blockade führt zu einer Hochregulation: mehr und empfindlichere Dopaminrezeptoren - Grundlage von Supersensitivitätspsychosen und Spätdyskinesien. Jede Variante mit reduzierter Rezeptorbildung oder verminderter Sensitivität beschreibt die Gegenrichtung, und ein 'Ersetzen' von Rezeptoren durch Medikamente gibt es nicht.",
+      "topic": "Psychopharmakotherapie",
+      "hard": true,
+      "trap": "Blockade führt nicht zu Abbau, sondern zu Aufregulation - genau umgekehrt zur Intuition."
+    }
+  ]
+}

@@ -358,6 +358,34 @@
       "title": "Krankheitslehre – Übungsquiz II (Fragenpool)",
       "subject": "Allgemeine und spezielle Krankheitslehre",
       "description": "48 Fragen aus dem Fragenpool des Moduls, Single Best Answer mit 5 Optionen A–E."
+    },
+    {
+      "id": "kl-klausurfragen2-grundlagen",
+      "file": "kl-klausurfragen2-grundlagen.json",
+      "title": "Klausurfragen KL 2 (I): Klassifikation, Verlauf & Therapieverfahren",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "31 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Diagnosekommunikation und Stigma, ICD/DSM, Syndrom vs. Diagnose, Verlaufs- und Komorbiditätsbegriffe, biologische Therapien und Psychopharmaka. 5 Optionen A–E."
+    },
+    {
+      "id": "kl-klausurfragen2-schizophrenie-affektiv",
+      "file": "kl-klausurfragen2-schizophrenie-affektiv.json",
+      "title": "Klausurfragen KL 2 (II): Schizophrenie, Wahn & affektive Störungen",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "22 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Prodrom und Früherkennung, Wahnpsychopathologie, Negativ- und neurokognitive Symptomatik, Depression, Manie und bipolare Verläufe. 5 Optionen A–E."
+    },
+    {
+      "id": "kl-klausurfragen2-persoenlichkeit-trauma-sucht",
+      "file": "kl-klausurfragen2-persoenlichkeit-trauma-sucht.json",
+      "title": "Klausurfragen KL 2 (III): Persönlichkeit, Trauma, Essstörungen & Sucht",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "40 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Borderline und Persönlichkeitsstörungen, Trauma/PTBS und Dissoziation, Essstörungen, Cannabis und Sucht sowie Suizidalität. 5 Optionen A–E."
+    },
+    {
+      "id": "kl-klausurfragen2-befund-fallvignetten",
+      "file": "kl-klausurfragen2-befund-fallvignetten.json",
+      "title": "Klausurfragen KL 2 (IV): AMDP-Befund, Zeitkriterien & Fallvignetten",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "39 Fragen, 1:1 aus der Sammlung 'Gesammelt Klausurfragen KL 2': Zeit- und Klassifikationskriterien, Trauma-Typologie, Schizophrenie-Verlauf und Dopaminhypothese, AMDP-Befund und der große Block diagnostischer Fallvignetten. 4 Optionen A–D."
     }
   ]
 }
