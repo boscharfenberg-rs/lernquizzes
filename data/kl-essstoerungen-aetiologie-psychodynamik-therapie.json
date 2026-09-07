@@ -1,0 +1,425 @@
+{
+  "id": "kl-essstoerungen-aetiologie-psychodynamik-therapie",
+  "title": "Essstörungen III: Ätiologie, Psychodynamik & Therapie",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Funktionalität und Ätiologie, den sechs Psychodynamik-Kategorien, der differenzialdiagnostischen Abgrenzung (AN/BN/Sucht/Psychose) sowie zur medikamentösen und psychotherapeutischen Behandlung. Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Funktionalität AN",
+      "question": "Welche funktionalen Aspekte werden für die Anorexie am ehesten beschrieben?",
+      "options": [
+        "Ein rein genussorientierter, sorgloser Umgang mit dem Essen",
+        "Erlangen von Autonomie und Kontrolle, Selbstwertsteigerung und Schutz vor Leistungs- und Sexualanforderungen",
+        "Der bewusste Wunsch, möglichst schnell an Körpergewicht zuzunehmen und die Kontrolle über sich völlig aufzugeben",
+        "Eine gezielte Steigerung sozialer Kontakte und Nähe",
+        "Ein ausschließlich körperliches Geschehen ohne psychische Funktion"
+      ],
+      "answer": 1,
+      "explanation": "Funktional dient die Anorexie u. a. dem Erlangen von Autonomie (Loslösung von der Familie), Kontrolle und Stolz ('ich schaffe es'), der Selbstwertsteigerung sowie dem Schutz vor Sexual- und Leistungsanforderungen. Ein Zunahmewunsch, ein genussorientierter Umgang, eine Kontaktsteigerung oder ein rein körperliches Geschehen widersprechen der Funktionalität."
+    },
+    {
+      "topic": "Psychodynamik - sechs Kategorien",
+      "hard": true,
+      "trap": "Die sechs Psychodynamik-Kategorien: Sucht, Psychose, Zwang, Angst, Impulskontrollstörung, körperdysmorphe Störung.",
+      "question": "Welche Kategorie gehört NICHT zu den sechs Psychodynamiken, unter die sich die Anorexie einordnen lässt?",
+      "options": [
+        "Die Impulskontrollstörung",
+        "Die Angst",
+        "Der Zwang",
+        "Die Sucht",
+        "Die dissoziative Störung"
+      ],
+      "answer": 4,
+      "explanation": "Die sechs Kategorien sind Sucht, Psychose, Zwang, Angst, Impulskontrollstörung und körperdysmorphe Störung - die dissoziative Störung gehört nicht dazu. Sucht, Zwang, Angst und Impulskontrollstörung sind hingegen vier der sechs genannten Dynamiken."
+    },
+    {
+      "topic": "Psychodynamik - Sinn",
+      "hard": true,
+      "trap": "F5-Diagnosen sind eine Ausnahme: Sie enthalten nur die Information über einen körperlichen Faktor, nicht über die Psychodynamik.",
+      "question": "Warum bilden die F5-Diagnosen (u. a. Essstörungen) hinsichtlich der Psychodynamik eine Ausnahme?",
+      "options": [
+        "Weil sie ausschließlich bei körperlichen Erkrankungen vergeben werden",
+        "Weil sie keinerlei psychische Komponente besitzen",
+        "Weil sie nur die Information enthalten, dass ein körperlicher Faktor Teil der Störung ist, nicht aber die zugrunde liegende Psychodynamik",
+        "Weil sie als einzige Diagnosen die vollständige Psychodynamik direkt mitliefern und daraus alle therapeutischen Ansatzpunkte unmittelbar ableitbar sind",
+        "Weil sie grundsätzlich keine therapeutischen Ansatzpunkte erlauben"
+      ],
+      "answer": 2,
+      "explanation": "Diagnosen enthalten normalerweise Informationen über die Psychodynamik (woraus sich Therapieansätze ableiten); die F5-Diagnosen sind eine Ausnahme, weil sie nur die Information über einen körperlichen Faktor enthalten - je nach Ausgestaltung der Anorexie lässt sich aber eine der sechs Dynamiken identifizieren. Eine mitgelieferte Psychodynamik, fehlende Therapieansätze, eine rein somatische Vergabe oder das Fehlen jeder psychischen Komponente treffen nicht zu."
+    },
+    {
+      "topic": "AN - überwertige Idee vs. Wahn",
+      "hard": true,
+      "trap": "Bei AN überlegt man wegen der argumentresistenten überwertigen Idee, ob etwas Psychotisches vorliegt - es ist aber kein Wahn.",
+      "question": "Warum überlegt man bei der Anorexie immer wieder, ob nicht etwas Psychotisches vorliegt?",
+      "options": [
+        "Weil bei der Anorexie regelhaft Ich-Störungen auftreten",
+        "Weil bei der Anorexie ein voll ausgebildetes bizarres Wahnsystem mit Realitätsverlust besteht",
+        "Weil bei der Anorexie regelhaft akustische Halluzinationen auftreten",
+        "Wegen der überwertigen Idee, an der die Betroffenen argumentresistent festhalten",
+        "Weil die Betroffenen den Realitätsbezug vollständig verlieren"
+      ],
+      "answer": 3,
+      "explanation": "Die tief verwurzelte Angst vor dem Dicksein ist eine überwertige Idee, an der die Betroffenen argumentresistent festhalten - daher die Nähe zur Frage nach etwas Psychotischem, ohne dass ein Wahn vorliegt. Regelhafte Halluzinationen, ein bizarres Wahnsystem, ein vollständiger Realitätsverlust oder Ich-Störungen treffen nicht zu."
+    },
+    {
+      "topic": "Genetik",
+      "question": "Was zeigen Zwillingsstudien zur Erblichkeit der Essstörungen?",
+      "options": [
+        "Eine höhere Konkordanz bei zweieiigen als bei eineiigen Zwillingen",
+        "Keinerlei genetischen Einfluss",
+        "Eine vollständige, monogene Determination der Erkrankung",
+        "Eine deutlich höhere Konkordanz bei eineiigen als bei zweieiigen Zwillingen",
+        "Eine identische Konkordanz bei eineiigen und zweieiigen Zwillingen ohne jeden genetischen Unterschied"
+      ],
+      "answer": 3,
+      "explanation": "Die Konkordanz ist bei eineiigen (monozygoten) Zwillingen deutlich höher als bei zweieiigen (dizygoten) - ein Hinweis auf eine genetische Komponente. Eine identische oder umgekehrte Konkordanz, ein fehlender genetischer Einfluss oder eine monogene Determination treffen nicht zu."
+    },
+    {
+      "topic": "Organische Ätiologie",
+      "question": "Welche organischen Faktoren werden für die Essstörungen diskutiert?",
+      "options": [
+        "Eine ausschließlich strukturelle Zerstörung des Frontalhirns als alleinige, gesicherte und einzige Ursache der Essstörungen",
+        "Eine Dysregulation hypothalamischer Kontrollzentren der Sättigung und eine Störung der serotonergen Transmission",
+        "Eine Überfunktion der Schilddrüse als alleinige Ursache",
+        "Ein gesicherter monogener Gendefekt",
+        "Ein vollständiges Fehlen jeder biologischen Komponente"
+      ],
+      "answer": 1,
+      "explanation": "Diskutiert werden u. a. eine Dysregulation hypothalamischer Kontrollzentren (Sättigungsregulation) und eine Störung der serotonergen Transmission. Eine Schilddrüsenüberfunktion als alleinige Ursache, eine reine Frontalhirnzerstörung, ein monogener Gendefekt oder ein Fehlen jeder Biologie treffen nicht zu."
+    },
+    {
+      "topic": "Restrained Eating",
+      "hard": true,
+      "trap": "Restrained Eating: Diäten/gezügeltes Essverhalten wirken als 'Einstiegsdroge' - Teufelskreis aus Fasten und Essen.",
+      "question": "Was besagt das Modell des 'Restrained Eating' (gezügeltes Essverhalten)?",
+      "options": [
+        "Ein bewusst gezügeltes Essverhalten schützt zuverlässig vor jeder Essstörung",
+        "Diäten und bewusstes Zügeln wirken als 'Einstiegsdroge' und münden über Heißhunger in einen Teufelskreis aus Fasten und Essanfällen",
+        "Nur eine gesteigerte, ungezügelte Nahrungsaufnahme kann Essstörungen auslösen, während Diäten und gezügeltes Essverhalten überhaupt keine Rolle spielen",
+        "Diäten haben nachweislich keinen Einfluss auf das Essverhalten",
+        "Essstörungen entstehen ausschließlich genetisch, unabhängig vom Essverhalten"
+      ],
+      "answer": 1,
+      "explanation": "Beim Restrained Eating wirken Diäten und bewusstes Zügeln als 'Einstiegsdroge': über Hunger, den erhöhten Anreiz 'verbotener' Lebensmittel und Heißhunger entsteht ein Teufelskreis aus Fasten und Essanfällen. Ein Schutzeffekt des Zügelns, eine rein genetische Entstehung, eine ausschließlich ungezügelte Auslösung oder ein fehlender Diäteinfluss widersprechen dem Modell."
+    },
+    {
+      "topic": "Soziokulturelle Faktoren",
+      "question": "Welche soziokulturellen Faktoren werden in der Ätiologie der Essstörungen genannt?",
+      "options": [
+        "Gesellschaftlicher Druck (Schlankheitsideal) und familiäre Strukturen",
+        "Ausschließlich genetische Faktoren ohne jeden Umwelteinfluss oder soziokulturellen Einfluss",
+        "Das Fehlen jeglicher gesellschaftlicher Einflüsse",
+        "Eine besonders anregende, belastungsfreie Umgebung",
+        "Ein hohes Maß an körperlicher Aktivität als Schutzfaktor"
+      ],
+      "answer": 0,
+      "explanation": "Als soziokulturelle Faktoren gelten der gesellschaftliche Druck (Schlankheitsideal) und familiäre Strukturen. Rein genetische Faktoren, eine belastungsfreie Umgebung, körperliche Aktivität als Schutzfaktor oder das Fehlen gesellschaftlicher Einflüsse treffen nicht zu."
+    },
+    {
+      "topic": "Medikamente AN",
+      "hard": true,
+      "trap": "AN: kein Medikament zugelassen (keine Wirksamkeitsnachweise), aber Off-Label-Use von Olanzapin gegen Gedankenkreisen/zwanghaftes Verhalten.",
+      "question": "Was gilt für die medikamentöse Behandlung der Anorexia nervosa?",
+      "options": [
+        "Antibiotika sind die Behandlung der Wahl",
+        "Fluctin ist das Mittel der Wahl zur Gewichtszunahme",
+        "Es ist eine spezifische, gut belegte Erstlinienmedikation zugelassen",
+        "Eine medikamentöse Behandlung ist bei der Anorexie grundsätzlich verboten und in keinem einzigen Fall zulässig, auch nicht im Off-Label-Use",
+        "Es ist kein Medikament zugelassen; im Off-Label-Use wird Olanzapin gegen Gedankenkreisen und zwanghaftes Verhalten eingesetzt"
+      ],
+      "answer": 4,
+      "explanation": "Für die Anorexie gibt es keine Wirksamkeitsnachweise und kein zugelassenes Medikament; im Off-Label-Use wird das SGA Olanzapin eingesetzt, um Gedankenkreisen und zwanghafte Verhaltensweisen zu reduzieren. Eine zugelassene Erstlinienmedikation, Fluctin zur Gewichtszunahme, Antibiotika oder ein grundsätzliches Verbot treffen nicht zu."
+    },
+    {
+      "topic": "Medikamente BN",
+      "hard": true,
+      "trap": "BN: Fluctin empfohlen - hemmt die Impulsivität und reduziert die Zahl der Essanfälle.",
+      "question": "Welche medikamentöse Empfehlung gilt für die Bulimia nervosa?",
+      "options": [
+        "Olanzapin zur gezielten Gewichtsabnahme",
+        "Ein Antibiotikum zur Behandlung der Essanfälle",
+        "Ein Appetitzügler als Mittel der Wahl",
+        "Fluctin, das über eine Hemmung der Impulsivität die Zahl der Essanfälle reduziert",
+        "Es gibt keinerlei medikamentöse Empfehlung, kein Präparat wird genannt oder eingesetzt"
+      ],
+      "answer": 3,
+      "explanation": "Für die Bulimie ist Fluctin empfohlen - es hemmt die Impulsivität und reduziert dadurch die Anzahl der Essanfälle. Olanzapin zur Gewichtsabnahme, eine fehlende Empfehlung, ein Appetitzügler oder ein Antibiotikum treffen nicht zu."
+    },
+    {
+      "topic": "Medikamente - AN vs. BN",
+      "hard": true,
+      "trap": "Kontrast: bei der AN ist nichts zugelassen, bei der BN gibt es eine Empfehlung (Fluctin).",
+      "question": "Wie unterscheiden sich Anorexie und Bulimie hinsichtlich der zugelassenen bzw. empfohlenen Medikation?",
+      "options": [
+        "Beide werden primär mit Appetitzüglern behandelt",
+        "Bei der Bulimie ist nichts zugelassen, bei der Anorexie gibt es mit Fluctin eine klare Empfehlung",
+        "Bei der Anorexie ist nichts zugelassen, bei der Bulimie gibt es mit Fluctin eine Empfehlung",
+        "Für beide gibt es keinerlei medikamentöse Optionen",
+        "Bei beiden ist dasselbe Medikament als Erstlinientherapie zugelassen"
+      ],
+      "answer": 2,
+      "explanation": "Der Prüfpunkt ist der Kontrast: Bei der Anorexie ist nichts zugelassen (nur Olanzapin off-label), bei der Bulimie gibt es mit Fluctin eine Empfehlung. Ein gemeinsames Erstlinienmedikament, die umgekehrte Zuordnung, gar keine Optionen oder eine Appetitzügler-Behandlung treffen nicht zu."
+    },
+    {
+      "topic": "Syndromale Behandlung",
+      "question": "Wie werden Begleitproblematiken bei Essstörungen syndromal (symptomorientiert) behandelt?",
+      "options": [
+        "Ausschließlich Appetitzügler unabhängig von der Begleitproblematik",
+        "Grundsätzlich gar keine Medikation, egal welche Komorbidität besteht, weil syndromale medikamentöse Behandlungen bei Essstörungen ausnahmslos vollständig ausgeschlossen sind",
+        "Bei jeder Komorbidität dasselbe Standardpräparat",
+        "Ausschließlich Antibiotika gegen sämtliche Begleitsymptome",
+        "Antidepressiva bei komorbider Depression, Neuroleptika bei wahnhaft anmutenden Kognitionen und Stimmungsstabilisatoren bei ausgeprägten Schwankungen"
+      ],
+      "answer": 4,
+      "explanation": "Begleitproblematiken werden syndromal behandelt: Antidepressiva bei komorbider Depression, Neuroleptika bei wahnhaft anmutenden Kognitionen, Stimmungsstabilisatoren bei ausgeprägten Schwankungen, Naltrexon bei starker Dissoziation im Rahmen einer komorbiden PTBS. Reine Appetitzügler, gar keine Medikation, ein Einheitspräparat oder Antibiotika treffen nicht zu."
+    },
+    {
+      "topic": "Naltrexon",
+      "question": "In welcher Konstellation wird Naltrexon im Rahmen der Essstörungsbehandlung eingesetzt?",
+      "options": [
+        "Zur gezielten Auslösung von Essanfällen",
+        "Als Mittel der Wahl gegen die Körperschemastörung",
+        "Bei starker Dissoziation im Rahmen einer komorbiden PTBS",
+        "Als Ersatz für jede Psychotherapie",
+        "Als Standardmedikament zur Gewichtszunahme bei jeder Anorexie"
+      ],
+      "answer": 2,
+      "explanation": "Naltrexon wird syndromal bei starker Dissoziation im Rahmen einer komorbiden PTBS eingesetzt. Ein Standardeinsatz zur Gewichtszunahme, ein Mittel gegen die Körperschemastörung, die Auslösung von Essanfällen oder ein Psychotherapieersatz treffen nicht zu."
+    },
+    {
+      "topic": "Psychotherapie BN",
+      "question": "Welche psychotherapeutischen Verfahren sind bei der Bulimia nervosa am ehesten wirksam?",
+      "options": [
+        "Eine reine Schonung ohne jede Intervention",
+        "Kognitive Verhaltenstherapie und interpersonale Therapie; ein Selbstbehandlungsmanual ist effektiv, aber der KVT unterlegen",
+        "Allein eine langfristige medikamentöse Behandlung ohne Psychotherapie",
+        "Ausschließlich körperliche Trainingsprogramme",
+        "Ausschließlich eine rein stützende Begleitung ohne irgendwelche wirksamkeitsbelegten strukturierten Verfahren oder Behandlungsmanuale"
+      ],
+      "answer": 1,
+      "explanation": "Wirksam sind bei der Bulimie die kognitive Verhaltenstherapie und die interpersonale Therapie; ein Selbstbehandlungsmanual ist effektiv, aber der KVT unterlegen. Eine rein stützende Begleitung, eine reine Dauermedikation, Trainingsprogramme oder bloße Schonung sind nicht die wirksamen Verfahren."
+    },
+    {
+      "topic": "Richtlinienverfahren AN",
+      "question": "Welche störungsspezifischen Verfahren gelten als wichtige Richtlinienverfahren für die Anorexia nervosa?",
+      "options": [
+        "Lichttherapie und Wachtherapie",
+        "Ausschließlich eine medikamentöse Behandlung",
+        "DBT, MBT und TFP",
+        "CBT-E, SSCM und MANTRA",
+        "EMDR und Traumaexposition"
+      ],
+      "answer": 3,
+      "explanation": "Wichtige Richtlinienverfahren für die Anorexie sind CBT-E, SSCM und MANTRA. DBT/MBT/TFP sind Persönlichkeitsstörungs-Verfahren, EMDR/Exposition gehören zur Traumatherapie, circadiane Verfahren zur Depression, und eine reine Medikation ist nicht das Richtlinienverfahren."
+    },
+    {
+      "topic": "DD - AN vs. Sucht",
+      "transfer": true,
+      "question": "Worin unterscheidet sich die Anorexia nervosa am ehesten typisch von einer Suchterkrankung?",
+      "options": [
+        "Bei der Sucht steht das Verlangen nach der Substanz/dem Verhalten im Vordergrund, bei der AN die überwertige Idee der Gewichtskontrolle und das Untergewicht",
+        "Beide Störungen sind klinisch identisch und nicht zu unterscheiden",
+        "Bei der AN besteht kein Kontrollthema, während die Sucht ausschließlich Kontrolle sucht und in keinem Fall ein Verlangen nach einer Substanz oder einem bestimmten Verhalten zeigt",
+        "Die AN ist im Gegensatz zur Sucht mit keinerlei Suizidrisiko verbunden",
+        "Die Sucht betrifft ausschließlich Frauen, die AN ausschließlich Männer"
+      ],
+      "answer": 0,
+      "explanation": "Zwar lässt sich die AN einer Suchtdynamik zuordnen, doch typisch stehen bei der Sucht das Verlangen nach Substanz/Verhalten, bei der AN die überwertige Idee der Gewichtskontrolle und das Untergewicht im Vordergrund. Ein fehlendes Kontrollthema der AN, ein fehlendes Suizidrisiko (AN hat sogar das höchste), eine strikte Geschlechtszuordnung oder eine klinische Identität treffen nicht zu."
+    },
+    {
+      "topic": "BN - Komorbidität",
+      "question": "Welche Störungen sind wichtige Komorbiditäten der Bulimia nervosa?",
+      "options": [
+        "Ausschließlich neurokognitive Störungen",
+        "Depression, soziale Angststörung, Zwangsstörung, PTBS sowie zwanghafte und selbstunsichere Persönlichkeitsstörung",
+        "Ausschließlich die Schizophrenie",
+        "Grundsätzlich keine komorbiden Störungen",
+        "Ausschließlich rein körperliche Erkrankungen ohne psychische Komorbidität jeglicher Art im gesamten Verlauf der betroffenen Person"
+      ],
+      "answer": 1,
+      "explanation": "Wichtige Komorbiditäten der Bulimie sind Depression, soziale Angststörung, Zwangsstörung, PTBS sowie zwanghafte und selbstunsichere Persönlichkeitsstörung. Eine alleinige Schizophrenie, nur neurokognitive Störungen, das Fehlen jeder Komorbidität oder nur körperliche Erkrankungen treffen nicht zu."
+    },
+    {
+      "topic": "Komorbidität - Impulsivität",
+      "question": "Welche komorbide Konstellation ist bei Essstörungen besonders problematisch?",
+      "options": [
+        "Eine hohe Impulsivität, insbesondere im Rahmen einer Borderline-Persönlichkeitsstörung",
+        "Eine vollständige Beschwerdefreiheit ohne jede Komorbidität",
+        "Eine besonders niedrige Impulsivität mit zwanghafter Kontrolle ganz ohne destruktive Durchbrüche",
+        "Eine ausschließlich neurologische Begleiterkrankung",
+        "Eine besonders hohe soziale Anpassung ohne Konflikte"
+      ],
+      "answer": 0,
+      "explanation": "Besonders problematisch ist eine hohe Impulsivität, vor allem im Rahmen einer Borderline-Persönlichkeitsstörung (destruktivere Verläufe). Eine niedrige Impulsivität, Beschwerdefreiheit, eine rein neurologische Begleiterkrankung oder eine hohe Anpassung treffen nicht zu."
+    },
+    {
+      "topic": "Psychodynamik - Anwendung",
+      "transfer": true,
+      "question": "Eine Anorexie-Patientin beschreibt, dass ihr die strikte Nahrungskontrolle ein Gefühl von Stolz und Selbstbestimmung gegenüber ihrer sehr kontrollierenden Familie gibt. Welche Psychodynamik und welcher Therapieansatz liegen am ehesten nahe?",
+      "options": [
+        "Ein Autonomie-/Kontrollmotiv - therapeutisch stehen Selbstwert und Autonomie auf funktionalerem Weg im Fokus",
+        "Eine psychotische Wahnbildung, die Antipsychotika als alleinige Therapie erfordert und jede Psychotherapie ausschließt",
+        "Eine rein körperliche Ursache ohne jeden therapeutischen Ansatzpunkt",
+        "Ein reines Suchtverlangen nach Nahrung ohne Kontrollbezug",
+        "Ein bloßer Wunsch nach Gewichtszunahme"
+      ],
+      "answer": 0,
+      "explanation": "Stolz und Selbstbestimmung gegenüber einer kontrollierenden Familie verweisen auf ein Autonomie-/Kontrollmotiv - therapeutisch geht es darum, Selbstwert und Autonomie auf funktionalerem Weg zu erreichen. Eine rein körperliche Ursache, ein reines Suchtverlangen, eine psychotische Wahnbildung oder ein Zunahmewunsch treffen nicht zu."
+    },
+    {
+      "topic": "Wahnhafte Kognitionen - Anwendung",
+      "transfer": true,
+      "question": "Bei einer Anorexie-Patientin nehmen die Kognitionen zum eigenen Körper eine wahnhaft anmutende, kaum korrigierbare Qualität an. Welche syndromale Medikation kommt am ehesten in Betracht?",
+      "options": [
+        "Ein Appetitzügler zur weiteren Gewichtsreduktion",
+        "Gar keine Behandlung, da die Kognitionen unbehandelbar sind und dauerhaft bestehen bleiben",
+        "Ein Neuroleptikum, syndromal zur Behandlung der wahnhaft anmutenden Kognitionen",
+        "Ein Antibiotikum",
+        "Ein Stimmungsstabilisator zur gezielten Gewichtszunahme"
+      ],
+      "answer": 2,
+      "explanation": "Bei wahnhaft anmutenden Kognitionen kommt syndromal ein Neuroleptikum in Betracht. Ein Appetitzügler, ein Antibiotikum, ein Stimmungsstabilisator zur Gewichtszunahme oder ein Behandlungsverzicht sind nicht angezeigt."
+    },
+    {
+      "topic": "Medikamente - Anwendung BN",
+      "transfer": true,
+      "question": "Eine bulimische Patientin leidet unter häufigen, impulsiv ausgelösten Essanfällen. Welche medikamentöse Option wird am ehesten empfohlen?",
+      "options": [
+        "Fluctin, das über eine Hemmung der Impulsivität die Essanfälle reduziert",
+        "Ein Appetitzügler zur Unterdrückung des Hungers",
+        "Ein Antibiotikum",
+        "Olanzapin zur Gewichtsabnahme",
+        "Gar keine Medikation, da bei der Bulimie nichts empfohlen oder zugelassen ist"
+      ],
+      "answer": 0,
+      "explanation": "Bei impulsgetriebenen Essanfällen der Bulimie wird Fluctin empfohlen, das die Impulsivität hemmt und die Zahl der Essanfälle reduziert. Olanzapin zur Gewichtsabnahme, ein Appetitzügler, ein Antibiotikum oder eine fehlende Empfehlung treffen nicht zu."
+    },
+    {
+      "topic": "Funktionalität - Kontrolle",
+      "question": "Welcher funktionale Aspekt drückt sich im Erleben 'ich schaffe es' bei der Anorexie am ehesten aus?",
+      "options": [
+        "Ein Gefühl von Stolz und Kontrolle über den eigenen Körper",
+        "Ein bewusster Verzicht auf jede Selbstkontrolle",
+        "Ein rein zufälliges Erleben ohne funktionale Bedeutung für die betroffene Person",
+        "Ein Streben nach Gewichtszunahme",
+        "Ein Wunsch nach mehr sozialer Nähe und Abhängigkeit"
+      ],
+      "answer": 0,
+      "explanation": "Das Erleben 'ich schaffe es' drückt ein Gefühl von Stolz und Kontrolle über den eigenen Körper aus - ein funktionaler Aspekt der Anorexie. Ein Wunsch nach Nähe/Abhängigkeit, ein Kontrollverzicht, eine fehlende Funktion oder ein Zunahmestreben treffen nicht zu."
+    },
+    {
+      "topic": "Persönlichkeitsfaktoren",
+      "question": "Welche Persönlichkeitsmerkmale werden in der Ätiologie der Essstörungen genannt?",
+      "options": [
+        "Ein völliges Fehlen jeglicher zwischenmenschlicher Probleme im gesamten sozialen Umfeld",
+        "Eine ausgeprägte soziale Unbekümmertheit",
+        "Eine besonders realistische Selbstwahrnehmung",
+        "Ein durchgehend stabiles, hohes Selbstwertgefühl",
+        "Ein Gefühl der Minderwertigkeit und eine gestörte Wahrnehmung der eigenen Person"
+      ],
+      "answer": 4,
+      "explanation": "Als Persönlichkeitsfaktoren gelten ein Gefühl der Minderwertigkeit, eine gestörte Wahrnehmung der eigenen Person und problematische Zwischenmenschlichkeit. Ein stabiles hohes Selbstwertgefühl, eine realistische Selbstwahrnehmung, fehlende zwischenmenschliche Probleme oder soziale Unbekümmertheit widersprechen dem."
+    },
+    {
+      "topic": "DD - Psychodynamik Anwendung",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine Anorexie-Patientin schildert ausgeprägte Rituale, Zählzwänge rund ums Essen und zwanghaftes Kontrollieren. Welcher der sechs Psychodynamik-Kategorien lässt sich das am ehesten zuordnen?",
+      "options": [
+        "Der Impulskontrollstörung",
+        "Der Sucht",
+        "Der Psychose",
+        "Dem Zwang",
+        "Der körperdysmorphen Störung"
+      ],
+      "answer": 3,
+      "explanation": "Rituale, Zählzwänge und zwanghaftes Kontrollieren lassen sich am ehesten der Zwangsdynamik zuordnen (eine der sechs Kategorien). Sucht (Verlangen), Psychose (Realitätsverlust), Impulskontrollstörung (Impulsdurchbrüche) und körperdysmorphe Störung (optische Verzerrung) beschreiben andere Dynamiken."
+    },
+    {
+      "topic": "Bio-psycho-soziale Ätiologie",
+      "question": "Wie lässt sich die Ätiologie der Essstörungen insgesamt am ehesten zusammenfassen?",
+      "options": [
+        "Als ausschließlich durch das Schlankheitsideal verursacht",
+        "Als Zufallsgeschehen ohne erkennbare Einflussfaktoren",
+        "Als Folge einer einzelnen, klar identifizierbaren Ursache",
+        "Als rein genetisch determiniertes Geschehen ohne jeden soziokulturellen oder persönlichkeitsbezogenen Einfluss auf den Verlauf",
+        "Als multifaktorielles Zusammenspiel genetischer, organischer, soziokultureller und persönlichkeitsbezogener Faktoren"
+      ],
+      "answer": 4,
+      "explanation": "Die Ätiologie ist multifaktoriell: genetische, organische (hypothalamisch/serotonerg), soziokulturelle und persönlichkeitsbezogene Faktoren wirken zusammen. Eine rein genetische, allein soziokulturelle, monokausale oder zufällige Entstehung greift zu kurz."
+    },
+    {
+      "topic": "Männer - körperdysmorphe Dynamik",
+      "hard": true,
+      "transfer": true,
+      "question": "Ein Mann betreibt zwanghaften Muskelaufbau mit rigidem Essverhalten und Medikamentenmissbrauch, weil er sich trotz Muskelmasse als zu schmächtig erlebt. Welcher Einordnung entspricht das am ehesten?",
+      "options": [
+        "Einer Bulimia nervosa",
+        "Einer klassischen Anorexia nervosa vom restriktiven Typus mit ausgeprägtem Untergewicht",
+        "Einer Binge-Eating-Störung",
+        "Einer körperdysmorphen Störung, nach ICD-11 keine Essstörung",
+        "Einer Ruminationsstörung"
+      ],
+      "answer": 3,
+      "explanation": "Zwanghafter Muskelaufbau mit rigidem Essverhalten und Medikamentenmissbrauch bei verzerrtem Körpererleben ist nach ICD-11 eine körperdysmorphe Störung, keine Essstörung. Eine restriktive Anorexie, ein Binge Eating, eine Bulimie oder eine Rumination treffen nicht zu."
+    },
+    {
+      "topic": "Familiäre Homöostase",
+      "question": "Welcher familienbezogene funktionale Aspekt wird für die Anorexie genannt?",
+      "options": [
+        "Ein rein finanzieller Vorteil für die Familie",
+        "Ein völliges Desinteresse an familiären Beziehungen",
+        "Die Steigerung der elterlichen Autonomie",
+        "Die gezielte Zerstörung jeder familiären Bindung",
+        "Die Aufrechterhaltung der familiären Homöostase"
+      ],
+      "answer": 4,
+      "explanation": "Als familienbezogener funktionaler Aspekt wird u. a. die Aufrechterhaltung der familiären Homöostase genannt (die Symptomatik stabilisiert das Familiensystem). Eine gezielte Zerstörung von Bindungen, ein Desinteresse, eine elterliche Autonomiesteigerung oder ein finanzieller Vorteil treffen nicht zu."
+    },
+    {
+      "topic": "Psychodynamik - Angst Anwendung",
+      "transfer": true,
+      "question": "Eine junge Anorexie-Patientin beschreibt, dass ihr das Kranksein ein Ausweichen vor den Anforderungen des Erwachsenwerdens, vor Sexualität und Leistungsdruck ermöglicht. Welcher Psychodynamik entspricht das am ehesten?",
+      "options": [
+        "Der Impulskontrollstörung mit Impulsdurchbrüchen",
+        "Der Suchtdynamik mit reinem Substanzverlangen",
+        "Der Angstdynamik (Schutz vor überfordernden Anforderungen)",
+        "Der psychotischen Dynamik mit Realitätsverlust",
+        "Der körperdysmorphen Dynamik mit optischer Verzerrung des eigenen Körperbildes"
+      ],
+      "answer": 2,
+      "explanation": "Der Schutz vor überfordernden Anforderungen (Erwachsenwerden, Sexualität, Leistung) entspricht der Angstdynamik (Vermeidung). Ein reines Substanzverlangen (Sucht), ein Realitätsverlust (Psychose), eine optische Verzerrung (körperdysmorph) oder Impulsdurchbrüche (Impulskontrolle) treffen den Vermeidungscharakter nicht."
+    },
+    {
+      "topic": "Therapieableitung",
+      "hard": true,
+      "question": "Was ist die zentrale didaktische Aufgabe der Psychodynamik-Folie zur Anorexie?",
+      "options": [
+        "Ausschließlich die körperlichen Folgen zu benennen",
+        "Je Fall die zugrunde liegende Dynamik zu begründen und daraus den therapeutischen Ansatz abzuleiten",
+        "Die Dynamik grundsätzlich als therapeutisch irrelevant einzustufen",
+        "Die genauen Prävalenzzahlen der sechs Kategorien auswendig zu lernen und sie exakt auf die Kommastelle wiederzugeben",
+        "Die ICD-11-Codenummern der Essstörungen zu reproduzieren"
+      ],
+      "answer": 1,
+      "explanation": "Die Folie stellt die Aufgabe, je Fall die zugrunde liegende Dynamik zu begründen und daraus den therapeutischen Ansatz abzuleiten - ideales Material für Anwendungsitems. Prävalenzzahlen, Codenummern, eine Beschränkung auf körperliche Folgen oder eine therapeutische Irrelevanz treffen nicht zu."
+    },
+    {
+      "topic": "Psychodynamik - Sucht Anwendung",
+      "hard": true,
+      "transfer": true,
+      "question": "Eine Patientin erlebt das Hungern und Abnehmen wie einen Rausch, den sie trotz Schäden nicht loslassen kann und immer weiter steigern muss. Welcher Psychodynamik entspricht das am ehesten?",
+      "options": [
+        "Der psychotischen Dynamik",
+        "Der Angstdynamik",
+        "Der Suchtdynamik",
+        "Der körperdysmorphen Dynamik",
+        "Der Zwangsdynamik mit Ritualen"
+      ],
+      "answer": 2,
+      "explanation": "Ein rauschhaftes, nicht loslassbares und sich steigerndes Erleben des Hungerns entspricht am ehesten der Suchtdynamik. Die Angst- (Vermeidung), psychotische (Realitätsverlust), körperdysmorphe (optische Verzerrung) und Zwangsdynamik (Rituale) beschreiben andere Muster."
+    }
+  ]
+}

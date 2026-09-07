@@ -88,6 +88,9 @@
       "group": "speziell",
       "order": 3,
       "quizIds": [
+        "kl-essstoerungen-klassifikation-diagnostik",
+        "kl-essstoerungen-epidemiologie-verlauf-folgen",
+        "kl-essstoerungen-aetiologie-psychodynamik-therapie",
         "kl-zuordnung-essstoerungen"
       ]
     },

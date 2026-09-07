@@ -146,32 +146,25 @@
       "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Epidemiologie (Grunddaten, Nähe Bipolar-Schizophrenie), Ätiologie (Beck vs. Teasdale, erlernte Hilflosigkeit, Monoaminmangelhypothese) und Therapie (differenzielle Indikation, Psycho- vs. Pharmakotherapie, circadiane Verfahren, Lithium, psycholytische Therapie). Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-essstoerungen-grundlagen-epidemiologie",
-      "file": "kl-essstoerungen-grundlagen-epidemiologie.json",
-      "title": "Essstörungen: Grundlagen & Epidemiologie",
+      "id": "kl-essstoerungen-klassifikation-diagnostik",
+      "file": "kl-essstoerungen-klassifikation-diagnostik.json",
+      "title": "Essstörungen I: Klassifikation & Diagnostik",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Essstörungen im Altklausur-Stil: die Minnesota-Hungerstudie und ihre Konsequenz für die Behandlungsreihenfolge, der Überblick über die Störungsbilder einschließlich Pica, Rumination und Nahrungsvermeidung, Epidemiologie von Anorexie, Bulimie und Binge Eating im Vergleich, Mortalität und Suizidrisiko sowie Besonderheiten bei Männern und der Verlauf."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Klassifikation, Kernkriterien und Abgrenzung von Anorexia nervosa, Bulimia nervosa und Binge-Eating-Störung inkl. BMI-Schweregraden und Körperschemastörung. Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-anorexia-nervosa-kriterien",
-      "file": "kl-anorexia-nervosa-kriterien.json",
-      "title": "Anorexia nervosa: Kriterien & Schweregrade",
+      "id": "kl-essstoerungen-epidemiologie-verlauf-folgen",
+      "file": "kl-essstoerungen-epidemiologie-verlauf-folgen.json",
+      "title": "Essstörungen II: Epidemiologie, Verlauf & körperliche Folgen",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Anorexia nervosa im Altklausur-Stil: die vier klassischen Diagnosekriterien, die Körperschemastörung als überwertige Idee, das im ICD-11 entfallene endokrine Kriterium, typisch anorektische Verhaltensweisen, restriktiver und bulimischer Typus, die drei Schweregrade einschließlich der Recovery-Variante sowie die Abgrenzung zur Bulimia nervosa."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Epidemiologie, Geschlechterverhältnis, Verlauf und Prognose, Mortalität/Suizidrisiko sowie den körperlichen Folgen (u. a. Minnesota-Studie, Reversibilität). Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-bulimie-binge-eating-folgen",
-      "file": "kl-bulimie-binge-eating-folgen.json",
-      "title": "Bulimie, Binge Eating & körperliche Folgen",
+      "id": "kl-essstoerungen-aetiologie-psychodynamik-therapie",
+      "file": "kl-essstoerungen-aetiologie-psychodynamik-therapie.json",
+      "title": "Essstörungen III: Ätiologie, Psychodynamik & Therapie",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Essstörungen im Altklausur-Stil: Symptomatik der Bulimia nervosa und die Bandbreite der Kompensationsmaßnahmen einschließlich Insulinpurging, die Kriterien des Binge Eating und seine Folgen sowie die körperlichen, sozialen und psychischen Folgen und die irreversiblen Schäden."
-    },
-    {
-      "id": "kl-essstoerungen-aetiologie-therapie",
-      "file": "kl-essstoerungen-aetiologie-therapie.json",
-      "title": "Essstörungen: Ätiologie, Indikation & Therapie",
-      "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Essstörungen im Altklausur-Stil: Indikation zur stationären Behandlung und das Refeeding-Syndrom, funktionale Aspekte der Anorexie, Ätiologie und das Modell des gezügelten Essverhaltens, Komorbiditäten und zugrunde liegende Psychodynamik sowie Stand der Therapieforschung und medikamentöse Behandlung."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zu Funktionalität und multifaktorieller Ätiologie, den sechs Psychodynamik-Kategorien, differenzialdiagnostischer Abgrenzung sowie medikamentöser und psychotherapeutischer Behandlung. Prüfungsrelevanz-basiert."
     },
     {
       "id": "kl-altklausur-sept2024",
