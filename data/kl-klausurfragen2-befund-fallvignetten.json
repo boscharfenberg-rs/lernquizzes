@@ -194,9 +194,11 @@
         "Narzisstische Persönlichkeitsstörung",
         "Histrionische Persönlichkeitsstörung"
       ],
-      "answer": 1,
-      "explanation": "Die Borderline-Persönlichkeitsstörung weist mit rund 8-10 % vollendeten Suiziden das mit Abstand höchste Risiko auf. Bei dissozialer, narzisstischer und histrionischer Persönlichkeitsstörung ist das Suizidrisiko zwar gegenüber der Allgemeinbevölkerung erhöht, aber deutlich geringer.",
-      "topic": "Persönlichkeitsstörungen"
+      "answer": 2,
+      "explanation": "Das hoechste Risiko eines VOLLENDETEN Suizids wird fuer die narzisstische Persoenlichkeitsstoerung angegeben: Suizidhandlungen erfolgen dort seltener, aber aus dem narzisstischen Zusammenbruch heraus, ohne Appellcharakter und mit hoher Letalitaet. Bei der Borderline-Persoenlichkeitsstoerung sind suizidale und parasuizidale Handlungen zwar am haeufigsten, die einzelne Handlung endet aber seltener toedlich. Bei dissozialer und histrionischer Persoenlichkeitsstoerung ist das Risiko gegenueber der Allgemeinbevoelkerung erhoeht, liegt aber unter beiden genannten.",
+      "topic": "Persönlichkeitsstörungen",
+      "trap": "Haeufigkeit und Letalitaet auseinanderhalten: die meisten Suizidhandlungen bei Borderline, das hoechste Risiko eines vollendeten Suizids bei der narzisstischen PS.",
+      "hard": true
     },
     {
       "question": "Wodurch sind Cluster-A-Persönlichkeitsstörungen gekennzeichnet?",
