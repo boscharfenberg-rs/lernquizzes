@@ -90,18 +90,25 @@
       "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zur Dissoziation (Desintegration, Schutzmechanismus, Alexithymie), zur differenzialdiagnostischen Abgrenzung (Depression, Psychose, Ich-Störung) und zur traumafokussierten Behandlung. Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-ps-psychose-neurose-vergleich",
-      "file": "kl-ps-psychose-neurose-vergleich.json",
-      "title": "Persönlichkeitsstörung, Psychose & Neurose im Vergleich",
+      "id": "kl-bps-grundmatrix-einordnung",
+      "file": "kl-bps-grundmatrix-einordnung.json",
+      "title": "Borderline & PS I: Grundmatrix, Einordnung & Typen",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Die Vergleichsmatrix aus dem PS-Deck im Altklausur-Stil: Beginn, Verlauf, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung, Prävalenz und Geschlechterdifferenzen bei Persönlichkeitsstörung, Psychose und Neurose – samt aller CAVE-Ausnahmen."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zur Grundmatrix Persönlichkeitsstörung/Psychose/Neurose (Beginn, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung), ihren Ausnahmen sowie zur Herkunft der Borderline-Störung und den ICD- und klinischen Typen. Prüfungsrelevanz-basiert."
     },
     {
-      "id": "kl-ps-diagnostik-modelle",
-      "file": "kl-ps-diagnostik-modelle.json",
-      "title": "PS: Diagnostik, Cluster & Persönlichkeitsmodelle",
+      "id": "kl-bps-dsm5-alternativmodell-narzissmus",
+      "file": "kl-bps-dsm5-alternativmodell-narzissmus.json",
+      "title": "Borderline & PS II: Alternatives DSM-5-Modell & narzisstische PS",
       "subject": "Allgemeine und spezielle Krankheitslehre",
-      "description": "Persönlichkeitsstörungen im Altklausur-Stil: dimensionale, kategoriale und störungsspezifische Zugänge, Cluster A/B/C und Subtypen, die allgemeinen Kriterien einer PS, das DSM-5-Alternativmodell mit Funktionsniveau und Traits sowie die fünf ICD-11-Domänen."
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zum alternativen DSM-5-Modell der Persönlichkeitsstörungen (Verzicht auf Cluster/Achsen, Funktionsniveau mit vier Merkmalsbereichen, fünf Trait-Dimensionen) sowie zur narzisstischen Persönlichkeitsstörung (Selbstbezogenheit, Empathie). Prüfungsrelevanz-basiert."
+    },
+    {
+      "id": "kl-bps-psychopathologie-therapie",
+      "file": "kl-bps-psychopathologie-therapie.json",
+      "title": "Borderline & PS III: Psychopathologie & Therapie",
+      "subject": "Allgemeine und spezielle Krankheitslehre",
+      "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zur Borderline-Psychopathologie (Anspannungsmodell, Selbstverletzung, Identitätsstörung, Nähe-Distanz-Konflikt) und zur Behandlung (DBT, MBT, Schematherapie, TFP, Äquivalenzparadox, Netzwerk-Metaanalyse). Prüfungsrelevanz-basiert."
     },
     {
       "id": "kl-bps-affekt-impuls-identitaet",

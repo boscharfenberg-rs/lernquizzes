@@ -112,6 +112,9 @@
       "group": "speziell",
       "order": 5,
       "quizIds": [
+        "kl-bps-grundmatrix-einordnung",
+        "kl-bps-dsm5-alternativmodell-narzissmus",
+        "kl-bps-psychopathologie-therapie",
         "kl-zuordnung-persoenlichkeit-trauma"
       ]
     },

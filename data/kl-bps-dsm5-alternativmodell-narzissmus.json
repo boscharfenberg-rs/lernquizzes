@@ -1,0 +1,420 @@
+{
+  "id": "kl-bps-dsm5-alternativmodell-narzissmus",
+  "title": "Borderline & PS II: Alternatives DSM-5-Modell & narzisstische PS",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zum alternativen DSM-5-Modell der Persönlichkeitsstörungen (Verzicht auf Cluster/Achsen, Funktionsniveau mit vier Merkmalsbereichen, fünf Trait-Dimensionen) sowie zur narzisstischen Persönlichkeitsstörung (Selbstbezogenheit, Empathie). Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "DSM-5 - Verzicht Cluster",
+      "question": "Was ist eine zentrale Neuerung des alternativen DSM-5-Modells gegenüber dem klassischen Vorgehen?",
+      "options": [
+        "Es ersetzt die Cluster durch die drei klinischen Borderline-Typen",
+        "Es ordnet jede Persönlichkeitsstörung genau einem Cluster fest zu",
+        "Es behält die Cluster A, B und C unverändert bei",
+        "Es verzichtet auf die Cluster A, B und C",
+        "Es führt zusätzlich zu den bekannten Clustern noch ein viertes und ein fünftes Cluster ein"
+      ],
+      "answer": 3,
+      "explanation": "Das alternative DSM-5-Modell verzichtet auf die Cluster A, B und C. Eine Erweiterung um weitere Cluster, ein unveränderter Erhalt, eine feste Ein-Cluster-Zuordnung oder ein Ersatz durch die klinischen Borderline-Typen treffen nicht zu."
+    },
+    {
+      "topic": "DSM-5 - monoaxial",
+      "hard": true,
+      "question": "Wie verändert das alternative DSM-5-Modell den Umgang mit den diagnostischen Achsen?",
+      "options": [
+        "Es kennt überhaupt keine Diagnosen mehr",
+        "Es behält die Trennung von Achse 1 und Achse 2 strikt bei",
+        "Es verschiebt die Persönlichkeitsstörungen von Achse 2 auf eine neue Achse 5",
+        "Es verzichtet auf Achse 1 und Achse 2 zugunsten eines monoaxialen Systems",
+        "Es erweitert das bisherige System um mehrere zusätzliche diagnostische Achsen für jede einzelne Störung"
+      ],
+      "answer": 3,
+      "explanation": "Das Modell gibt die Trennung von Achse 1 und Achse 2 auf und nutzt ein monoaxiales System. Eine Erweiterung um zusätzliche Achsen, eine beibehaltene Achsentrennung, eine Verschiebung auf eine 'Achse 5' oder der Verzicht auf Diagnosen überhaupt treffen nicht zu."
+    },
+    {
+      "topic": "DSM-5 - dimensional",
+      "question": "Welche Möglichkeit eröffnet das alternative DSM-5-Modell zusätzlich zur kategorialen Diagnostik?",
+      "options": [
+        "Die verpflichtende Abschaffung jeder kategorialen Zuordnung zugunsten reiner Fallbeschreibung",
+        "Die Beschränkung auf eine einzige Persönlichkeitsstörung pro Person",
+        "Die Erstellung eines dimensionalen Konzepts",
+        "Die ausschließliche Diagnostik über Laborwerte",
+        "Die Rückkehr zu einer rein psychoanalytischen Typenlehre"
+      ],
+      "answer": 2,
+      "explanation": "Neben der kategorialen Diagnostik erlaubt das Modell, ein dimensionales Konzept zu erstellen. Eine Abschaffung jeder Kategorie, eine reine Labordiagnostik, eine psychoanalytische Typenlehre oder eine Ein-Diagnose-Beschränkung treffen nicht zu."
+    },
+    {
+      "topic": "DSM-5 - Sektion III",
+      "question": "Wo ist das alternative Modell der Persönlichkeitsstörungen im DSM-5 verortet?",
+      "options": [
+        "Ausschließlich in der ICD, nicht im DSM",
+        "In einem separaten, eigenständigen Klassifikationssystem außerhalb des DSM",
+        "In Sektion III unter den in Entwicklung befindlichen Instrumenten und Modellen",
+        "Im verbindlichen Hauptteil als alleiniges und ausschließlich gültiges diagnostisches Standardverfahren",
+        "In einem historischen Anhang zu abgeschafften Konzepten"
+      ],
+      "answer": 2,
+      "explanation": "Das alternative Modell steht in Sektion III ('In Entwicklung befindliche Instrumente und Modelle'). Ein verbindlicher Hauptteil, ein eigenständiges System, eine reine ICD-Verortung oder ein historischer Anhang treffen nicht zu."
+    },
+    {
+      "topic": "Alternativmodell - zwei Säulen",
+      "hard": true,
+      "question": "Aus welchen zwei Säulen besteht das alternative DSM-5-Modell?",
+      "options": [
+        "Den drei Clustern und den zwei diagnostischen Achsen des klassischen Systems",
+        "Der historischen Herkunft und den klinischen Borderline-Typen",
+        "Der DBT und der Schematherapie",
+        "Dem Realitätsbezug und der Symptombreite der Grundmatrix",
+        "Dem Funktionsniveau und den pathologischen Persönlichkeitseigenschaften"
+      ],
+      "answer": 4,
+      "explanation": "Das Modell ruht auf zwei Säulen: dem Funktionsniveau (vier Merkmalsbereiche) und den pathologischen Persönlichkeitseigenschaften (fünf Trait-Dimensionen). Cluster/Achsen, Herkunft/Typen, Grundmatrix-Merkmale oder Therapieverfahren sind nicht die zwei Säulen."
+    },
+    {
+      "topic": "Funktionsniveau - vier Bereiche",
+      "hard": true,
+      "trap": "Funktionsniveau = 4 Bereiche, Traits = 5 Dimensionen. Zahlen nicht vermischen.",
+      "question": "Aus wie vielen Merkmalsbereichen besteht das Funktionsniveau im Alternativmodell?",
+      "options": [
+        "Aus fünf Merkmalsbereichen, die exakt den Big-Five-Dimensionen entsprechen",
+        "Aus sechs Merkmalsbereichen",
+        "Aus zwei Merkmalsbereichen analog den alten Achsen",
+        "Aus vier Merkmalsbereichen",
+        "Aus drei Merkmalsbereichen analog den Clustern A, B, C"
+      ],
+      "answer": 3,
+      "explanation": "Das Funktionsniveau umfasst vier Merkmalsbereiche (Identität, Selbstlenkung, Empathie, Intimität). Fünf gehört zu den Traits, drei zu den Clustern, zwei zu den alten Achsen - und sechs trifft nicht zu. Die Zahlen 4 (Funktionsniveau) und 5 (Traits) nicht vermischen."
+    },
+    {
+      "topic": "Funktionsniveau - SELBST",
+      "question": "Welche beiden Merkmalsbereiche bilden im Funktionsniveau die Gruppe SELBST?",
+      "options": [
+        "Realitätsbezug und Symptombreite",
+        "Identität und Selbstlenkung",
+        "Negative Affektivität und Psychotizismus",
+        "Empathie und Intimität, die den Bezug zu anderen Menschen abbilden",
+        "Antagonismus und Disinhibition"
+      ],
+      "answer": 1,
+      "explanation": "Die Gruppe SELBST umfasst Identität und Selbstlenkung. Empathie und Intimität bilden die Gruppe BEZIEHUNG; Antagonismus/Disinhibition und negative Affektivität/Psychotizismus sind Traits; Realitätsbezug/Symptombreite gehören zur Grundmatrix."
+    },
+    {
+      "topic": "Funktionsniveau - BEZIEHUNG",
+      "question": "Welche beiden Merkmalsbereiche bilden im Funktionsniveau die Gruppe BEZIEHUNG?",
+      "options": [
+        "Beginn und Verlauf der Grundmatrix",
+        "Disinhibition und Psychotizismus",
+        "Empathie und Intimität",
+        "Identität und Selbstlenkung, die das Verhältnis zur eigenen Person abbilden",
+        "Verschlossenheit und Antagonismus"
+      ],
+      "answer": 2,
+      "explanation": "Die Gruppe BEZIEHUNG umfasst Empathie und Intimität. Identität und Selbstlenkung bilden die Gruppe SELBST; Verschlossenheit/Antagonismus und Disinhibition/Psychotizismus sind Traits; Beginn/Verlauf gehören zur Grundmatrix."
+    },
+    {
+      "topic": "Funktionsniveau - Identität",
+      "question": "Was umfasst der Merkmalsbereich Identität im Funktionsniveau?",
+      "options": [
+        "Bewusstheit über ein einzigartiges Selbst, Ich-Umwelt-Grenze, Selbstwert und Emotionsregulation",
+        "Die Neigung zu Impulsivität und Verantwortungslosigkeit",
+        "Das Verstehen der Motive und Perspektiven anderer",
+        "Ausschließlich die Fähigkeit, stabile und befriedigende Beziehungen zu anderen zu unterhalten und zu pflegen",
+        "Die Kongruenz zwischen Lebenszielen und den eigenen Kompetenzen"
+      ],
+      "answer": 0,
+      "explanation": "Identität umfasst die Bewusstheit über ein einzigartiges Selbst, die Ich-Umwelt-Grenze, Selbstvertrauen/Selbstwert sowie das Erleben und Regulieren verschiedener Emotionen. Stabile Beziehungen (Intimität), Ziel-Kompetenz-Kongruenz (Selbstlenkung), das Verstehen anderer (Empathie) und Impulsivität (Trait) gehören nicht zur Identität."
+    },
+    {
+      "topic": "Funktionsniveau - Selbstlenkung",
+      "question": "Was kennzeichnet den Merkmalsbereich Selbstlenkung?",
+      "options": [
+        "Die Fähigkeit, die Erfahrungen und Motive anderer Menschen zutreffend zu verstehen und zu akzeptieren",
+        "Sozialer Rückzug und Vermeidung von Nähe",
+        "Das Unterhalten befriedigender und stabiler Beziehungen",
+        "Die Bewusstheit über ein einzigartiges Selbst",
+        "Kongruenz zwischen Lebenszielen und Kompetenzen sowie Reflexion eigener Erfahrungen"
+      ],
+      "answer": 4,
+      "explanation": "Selbstlenkung meint die Kongruenz zwischen Lebenszielen und Kompetenzen sowie die Reflexion eigener Erfahrungen. Das Verstehen anderer (Empathie), stabile Beziehungen (Intimität), die Selbst-Bewusstheit (Identität) und der soziale Rückzug (Trait Verschlossenheit) gehören nicht dazu."
+    },
+    {
+      "topic": "Funktionsniveau - Empathie",
+      "hard": true,
+      "question": "Welche Fähigkeit gehört zentral zum Merkmalsbereich Empathie?",
+      "options": [
+        "Die Mentalisierungsfähigkeit - Motive und Perspektiven anderer verstehen und akzeptieren",
+        "Die Regulation der eigenen Emotionen",
+        "Die Bewusstheit über die eigene Ich-Umwelt-Grenze",
+        "Die Kongruenz der eigenen Lebensziele mit den vorhandenen persönlichen Kompetenzen und Fähigkeiten",
+        "Die Fähigkeit zu dauerhaft stabilen Paarbeziehungen"
+      ],
+      "answer": 0,
+      "explanation": "Empathie umfasst das Verstehen der Erfahrungen und Motive anderer, das Akzeptieren anderer Perspektiven und die Mentalisierungsfähigkeit. Ziel-Kompetenz-Kongruenz (Selbstlenkung), Ich-Umwelt-Grenze und Emotionsregulation (Identität) sowie stabile Beziehungen (Intimität) gehören nicht zur Empathie."
+    },
+    {
+      "topic": "Funktionsniveau - Intimität",
+      "question": "Was beschreibt der Merkmalsbereich Intimität?",
+      "options": [
+        "Die Bewusstheit über ein einzigartiges Selbst",
+        "Das zutreffende Verstehen der Motive und Perspektiven anderer Menschen im sozialen Austausch",
+        "Die Neigung zu Manipulation und Grandiosität",
+        "Die Reflexion der eigenen Erfahrungen",
+        "Befriedigende und stabile Beziehungen"
+      ],
+      "answer": 4,
+      "explanation": "Intimität meint die Fähigkeit zu befriedigenden und stabilen Beziehungen. Das Verstehen anderer (Empathie), die Erfahrungsreflexion (Selbstlenkung), die Selbst-Bewusstheit (Identität) und Manipulation/Grandiosität (Trait Antagonismus) gehören nicht dazu."
+    },
+    {
+      "topic": "Traits - fünf Dimensionen",
+      "hard": true,
+      "question": "Welche fünf Dimensionen bilden die pathologischen Persönlichkeitseigenschaften (angelehnt an die Big Five)?",
+      "options": [
+        "Identität, Selbstlenkung, Empathie, Intimität und Mentalisierung",
+        "Negative Affektivität, Verschlossenheit, Antagonismus, Disinhibition und Psychotizismus",
+        "Die Cluster A, B und C sowie die Achsen 1 und 2",
+        "Trauma-, ADHS-, psychosenaher, impulsiver und Borderline-Typus aus der klinischen Typologie",
+        "Beginn, Verlauf, Ich-Bezug, Realitätsbezug und Symptombreite"
+      ],
+      "answer": 1,
+      "explanation": "Die fünf Trait-Dimensionen sind negative Affektivität, Verschlossenheit, Antagonismus, Disinhibition und Psychotizismus. Die vier Funktionsbereiche, Cluster/Achsen, die BPS-Typen und die Grundmatrix-Merkmale sind nicht die fünf Traits."
+    },
+    {
+      "topic": "Traits - negative Affektivität",
+      "question": "Welche Beispiele gehören zur Dimension negative Affektivität / Emotionalität?",
+      "options": [
+        "Sozialer Rückzug, Vermeidung von Nähe, Anhedonie und ausgeprägte Affektarmut im Kontakt",
+        "Emotionale Labilität, Ängstlichkeit, Trennungsangst und Feindseligkeit",
+        "Ungewöhnliche Überzeugungen und Wahrnehmungsstörungen",
+        "Manipulation, Unehrlichkeit und Grandiosität",
+        "Verantwortungslosigkeit, Impulsivität und Ablenkbarkeit"
+      ],
+      "answer": 1,
+      "explanation": "Zur negativen Affektivität zählen emotionale Labilität, Ängstlichkeit, Trennungsangst und Feindseligkeit. Rückzug/Anhedonie (Verschlossenheit), Manipulation/Grandiosität (Antagonismus), Impulsivität (Disinhibition) und ungewöhnliche Überzeugungen (Psychotizismus) gehören zu anderen Dimensionen."
+    },
+    {
+      "topic": "Traits - Verschlossenheit",
+      "question": "Welche Merkmale kennzeichnen die Dimension Verschlossenheit?",
+      "options": [
+        "Sozialer Rückzug, Vermeidung von Nähe, Anhedonie und Affektarmut",
+        "Grandiosität und Manipulation",
+        "Exzentrizität und Wahrnehmungsstörungen",
+        "Impulsivität und Ablenkbarkeit",
+        "Emotionale Labilität, ausgeprägte Ängstlichkeit, Trennungsangst und offene Feindseligkeit"
+      ],
+      "answer": 0,
+      "explanation": "Verschlossenheit umfasst sozialen Rückzug, Vermeidung von Nähe, Anhedonie und Affektarmut. Labilität/Ängstlichkeit (negative Affektivität), Impulsivität (Disinhibition), Grandiosität (Antagonismus) und Exzentrizität (Psychotizismus) gehören zu anderen Dimensionen."
+    },
+    {
+      "topic": "Traits - Antagonismus",
+      "hard": true,
+      "trap": "Antagonismus (Manipulation, Grandiosität) vs. Enthemmtheit/Disinhibition (Impulsivität, Verantwortungslosigkeit).",
+      "question": "Welche Beispiele gehören zur Dimension Antagonismus / Feindseligkeit?",
+      "options": [
+        "Trennungsangst und emotionale Labilität",
+        "Sozialer Rückzug und Anhedonie",
+        "Ungewöhnliche Überzeugungen und Exzentrizität",
+        "Neigung zur Manipulation, Unehrlichkeit, Grandiosität und Suche nach Aufmerksamkeit",
+        "Verantwortungslosigkeit, ausgeprägte Impulsivität und leichte Ablenkbarkeit im Alltag"
+      ],
+      "answer": 3,
+      "explanation": "Antagonismus umfasst Manipulation, Unehrlichkeit, Grandiosität und Aufmerksamkeitssuche. Verantwortungslosigkeit/Impulsivität gehören zur Disinhibition, Rückzug/Anhedonie zur Verschlossenheit, Trennungsangst/Labilität zur negativen Affektivität, ungewöhnliche Überzeugungen zum Psychotizismus."
+    },
+    {
+      "topic": "Traits - Disinhibition",
+      "trap": "Enthemmtheit/Disinhibition (Impulsivität, Verantwortungslosigkeit) vs. Antagonismus (Manipulation, Grandiosität).",
+      "question": "Welche Merkmale kennzeichnen die Dimension Disinhibition / Enthemmtheit?",
+      "options": [
+        "Verantwortungslosigkeit, Impulsivität und Ablenkbarkeit",
+        "Sozialer Rückzug und Vermeidung von Nähe",
+        "Wahrnehmungsstörungen und ungewöhnliche Überzeugungen",
+        "Ängstlichkeit und Trennungsangst",
+        "Neigung zur Manipulation, ausgeprägte Grandiosität und ständige Suche nach Aufmerksamkeit"
+      ],
+      "answer": 0,
+      "explanation": "Disinhibition umfasst Verantwortungslosigkeit, Impulsivität und Ablenkbarkeit. Manipulation/Grandiosität (Antagonismus), Rückzug (Verschlossenheit), Ängstlichkeit (negative Affektivität) und Wahrnehmungsstörungen (Psychotizismus) gehören zu anderen Dimensionen."
+    },
+    {
+      "topic": "Traits - Psychotizismus",
+      "question": "Welche Beispiele gehören zur Dimension Psychotizismus?",
+      "options": [
+        "Sozialer Rückzug und Anhedonie",
+        "Emotionale Labilität, Trennungsangst und eine ausgeprägte Ängstlichkeit im Alltag",
+        "Verantwortungslosigkeit und Impulsivität",
+        "Ungewöhnliche Überzeugungen, Exzentrizität und Wahrnehmungsstörungen",
+        "Manipulation und Grandiosität"
+      ],
+      "answer": 3,
+      "explanation": "Psychotizismus umfasst ungewöhnliche Überzeugungen, Exzentrizität und Wahrnehmungsstörungen. Labilität/Ängstlichkeit (negative Affektivität), Impulsivität (Disinhibition), Manipulation (Antagonismus) und Rückzug (Verschlossenheit) gehören zu anderen Dimensionen."
+    },
+    {
+      "topic": "Alternativmodell - Zahlen",
+      "hard": true,
+      "trap": "Funktionsniveau = 4 Bereiche, Traits = 5 Dimensionen - Zahlen und Zuordnung nicht vertauschen.",
+      "question": "Welche Zuordnung der Zahlen im Alternativmodell ist korrekt?",
+      "options": [
+        "Vier Merkmalsbereiche des Funktionsniveaus, fünf Trait-Dimensionen",
+        "Zwei Merkmalsbereiche und zwei Trait-Dimensionen analog den Achsen",
+        "Jeweils drei Merkmalsbereiche und drei Trait-Dimensionen analog den Clustern",
+        "Fünf Merkmalsbereiche des Funktionsniveaus, vier Trait-Dimensionen",
+        "Sechs Merkmalsbereiche und sechs Trait-Dimensionen"
+      ],
+      "answer": 0,
+      "explanation": "Korrekt sind vier Merkmalsbereiche des Funktionsniveaus und fünf Trait-Dimensionen. Die vertauschte Zuordnung (5/4), jeweils drei, jeweils zwei oder jeweils sechs treffen nicht zu - genau diese Zahlen sind ein beliebter Prüfpunkt."
+    },
+    {
+      "topic": "Traits - NICHT-Item",
+      "hard": true,
+      "question": "Welche der folgenden gehört NICHT zu den fünf Trait-Dimensionen des Alternativmodells?",
+      "options": [
+        "Der Psychotizismus",
+        "Die Intimität",
+        "Der Antagonismus",
+        "Die negative Affektivität",
+        "Die Disinhibition"
+      ],
+      "answer": 1,
+      "explanation": "Intimität ist ein Merkmalsbereich des Funktionsniveaus, keine Trait-Dimension. Negative Affektivität, Antagonismus, Disinhibition und Psychotizismus sind dagegen vier der fünf Traits (die fünfte ist die Verschlossenheit)."
+    },
+    {
+      "topic": "Funktionsniveau - NICHT-Item",
+      "question": "Welcher der folgenden gehört NICHT zu den vier Merkmalsbereichen des Funktionsniveaus?",
+      "options": [
+        "Die Identität",
+        "Die Intimität",
+        "Die Disinhibition",
+        "Die Selbstlenkung",
+        "Die Empathie"
+      ],
+      "answer": 2,
+      "explanation": "Disinhibition ist eine Trait-Dimension, kein Merkmalsbereich des Funktionsniveaus. Identität, Selbstlenkung, Empathie und Intimität sind die vier Funktionsbereiche."
+    },
+    {
+      "topic": "Traits - Anwendung Antagonismus",
+      "transfer": true,
+      "trap": "Manipulation und Grandiosität = Antagonismus, nicht Disinhibition.",
+      "question": "Ein Patient fällt durch manipulatives, unehrliches Verhalten, ausgeprägte Grandiosität und ständiges Heischen nach Aufmerksamkeit auf. Welcher Trait-Dimension entspricht das am ehesten?",
+      "options": [
+        "Der negativen Affektivität",
+        "Dem Antagonismus",
+        "Dem Psychotizismus",
+        "Der Verschlossenheit",
+        "Der Disinhibition"
+      ],
+      "answer": 1,
+      "explanation": "Manipulation, Unehrlichkeit, Grandiosität und Aufmerksamkeitssuche kennzeichnen den Antagonismus. Die Disinhibition (Impulsivität/Verantwortungslosigkeit), Verschlossenheit (Rückzug), negative Affektivität (Labilität) und der Psychotizismus (ungewöhnliche Überzeugungen) passen nicht."
+    },
+    {
+      "topic": "Traits - Anwendung Disinhibition",
+      "transfer": true,
+      "question": "Eine Patientin zeigt ausgeprägte Impulsivität, Verantwortungslosigkeit und leichte Ablenkbarkeit. Welcher Trait-Dimension entspricht das am ehesten?",
+      "options": [
+        "Dem Antagonismus mit Manipulation und Grandiosität als Kern",
+        "Der Disinhibition",
+        "Der Verschlossenheit",
+        "Der negativen Affektivität",
+        "Dem Psychotizismus"
+      ],
+      "answer": 1,
+      "explanation": "Impulsivität, Verantwortungslosigkeit und Ablenkbarkeit kennzeichnen die Disinhibition. Der Antagonismus (Manipulation/Grandiosität), die Verschlossenheit (Rückzug), die negative Affektivität (Labilität) und der Psychotizismus (Wahrnehmungsstörungen) passen nicht."
+    },
+    {
+      "topic": "Traits - Anwendung Verschlossenheit",
+      "transfer": true,
+      "question": "Ein Patient zieht sich sozial zurück, vermeidet Nähe, wirkt affektarm und kann kaum Freude empfinden. Welcher Trait-Dimension entspricht das am ehesten?",
+      "options": [
+        "Der Disinhibition",
+        "Der negativen Affektivität mit Labilität und Trennungsangst als Kern",
+        "Dem Antagonismus",
+        "Dem Psychotizismus",
+        "Der Verschlossenheit"
+      ],
+      "answer": 4,
+      "explanation": "Sozialer Rückzug, Vermeidung von Nähe, Anhedonie und Affektarmut kennzeichnen die Verschlossenheit. Die negative Affektivität (Labilität/Trennungsangst), der Antagonismus (Manipulation), die Disinhibition (Impulsivität) und der Psychotizismus (Exzentrizität) passen nicht."
+    },
+    {
+      "topic": "Funktionsniveau - Anwendung Empathie",
+      "transfer": true,
+      "hard": true,
+      "question": "Bei einer Patientin fällt vor allem auf, dass sie Motive und Perspektiven anderer kaum nachvollziehen kann - ihre Mentalisierungsfähigkeit ist deutlich reduziert. Welchem Merkmalsbereich des Funktionsniveaus ist das zuzuordnen?",
+      "options": [
+        "Dem Trait Antagonismus",
+        "Der Intimität",
+        "Der Identität",
+        "Der Selbstlenkung",
+        "Der Empathie"
+      ],
+      "answer": 4,
+      "explanation": "Das Verstehen von Motiven/Perspektiven anderer und die Mentalisierungsfähigkeit gehören zur Empathie. Identität (Selbst-Bewusstheit), Selbstlenkung (Ziel-Kompetenz-Kongruenz), Intimität (stabile Beziehungen) und der Trait Antagonismus beschreiben anderes."
+    },
+    {
+      "topic": "Traits - Big-Five-Bezug",
+      "question": "Woran sind die fünf pathologischen Persönlichkeitseigenschaften des Alternativmodells angelehnt?",
+      "options": [
+        "An die drei Cluster A, B und C des klassischen DSM-Systems für Persönlichkeitsstörungen",
+        "An die drei klinischen Borderline-Typen",
+        "An die Big Five (Fünf-Faktoren-Modell der Persönlichkeit)",
+        "An die vier Merkmalsbereiche des Funktionsniveaus",
+        "An die Grundmatrix aus Psychose und Neurose"
+      ],
+      "answer": 2,
+      "explanation": "Die fünf Trait-Dimensionen sind an die Big Five (Fünf-Faktoren-Modell) angelehnt - als pathologische Ausprägungen normaler Persönlichkeitsdimensionen. Die Cluster A-C, die vier Funktionsbereiche, die Borderline-Typen und die Grundmatrix sind nicht die Bezugsgröße."
+    },
+    {
+      "topic": "Narzisstische PS - Kern",
+      "question": "Was ist der Kern der narzisstischen Persönlichkeitsstörung?",
+      "options": [
+        "Eine argumentresistente überwertige Idee bezogen auf das Körpergewicht",
+        "Eine durchgehende, tief empfundene Unterordnung unter die Bedürfnisse und Wünsche aller anderen Menschen",
+        "Missachtung der Rechte und Gefühle anderer aufgrund von Selbstbezogenheit und reduzierter Empathie",
+        "Ein sozialer Rückzug mit ausgeprägter Anhedonie",
+        "Ein psychotischer Realitätsverlust mit doppelter Buchführung"
+      ],
+      "answer": 2,
+      "explanation": "Kern der narzisstischen PS ist die Missachtung der Rechte und Gefühle anderer aufgrund von Selbstbezogenheit und reduzierter Empathiefähigkeit. Eine Unterordnung, ein sozialer Rückzug, eine überwertige Idee (Anorexie) oder ein psychotischer Realitätsverlust treffen nicht zu."
+    },
+    {
+      "topic": "Narzisstische PS - intentional",
+      "hard": true,
+      "question": "Was kennzeichnet die intentionale (aktive) Form der narzisstischen Selbstbezogenheit?",
+      "options": [
+        "Die Annahme, aufgrund eigener Großartigkeit Aufmerksamkeit zu verdienen - mit negativen Reaktionen, wenn sie ausbleibt",
+        "Ein bewusster Verzicht auf jede Aufmerksamkeit",
+        "Eine reduzierte Wahrnehmung eigener Bedürfnisse zugunsten anderer",
+        "Ein völliges Fehlen jeder Selbstbezogenheit",
+        "Das schlichte Vergessen, dass andere Menschen ebenfalls eigene Bedürfnisse und Wünsche und Interessen verfolgen können"
+      ],
+      "answer": 0,
+      "explanation": "Intentional ist die Annahme, wegen der eigenen Großartigkeit Aufmerksamkeit zu verdienen - gekoppelt an negative Reaktionen (Wutanfälle, Beschimpfungen), wenn sie ausbleibt. Das bloße Vergessen fremder Bedürfnisse ist die unbeabsichtigte Form; Aufmerksamkeitsverzicht, Selbstzurücknahme oder fehlende Selbstbezogenheit treffen nicht zu."
+    },
+    {
+      "topic": "Narzisstische PS - unbeabsichtigt",
+      "question": "Was kennzeichnet die unbeabsichtigte (passive) Form der narzisstischen Selbstbezogenheit?",
+      "options": [
+        "Eine ausgeprägte Empathie mit starker Fürsorge für andere",
+        "Wutanfälle und Beschimpfungen bei ausbleibender Aufmerksamkeit",
+        "Die aktive Annahme, aufgrund besonderer Großartigkeit generell bevorzugte Aufmerksamkeit zu verdienen",
+        "Zu vergessen scheinen, dass andere ebenfalls Bedürfnisse haben",
+        "Ein psychotischer Verlust des Realitätsbezugs"
+      ],
+      "answer": 3,
+      "explanation": "Unbeabsichtigt ist, dass Betroffene zu vergessen scheinen, dass andere auch Bedürfnisse haben. Die aktive Anspruchshaltung und Wutanfälle bei ausbleibender Aufmerksamkeit gehören zur intentionalen Form; ein Realitätsverlust oder ausgeprägte Empathie treffen nicht zu."
+    },
+    {
+      "topic": "Narzisstische PS - Anwendung",
+      "transfer": true,
+      "hard": true,
+      "question": "Ein Patient reagiert mit Wutanfällen und Beschimpfungen, sobald ihm nicht die Aufmerksamkeit zuteilwird, die er sich aufgrund seiner vermeintlichen Großartigkeit zuschreibt. Welche Form der Selbstbezogenheit liegt vor?",
+      "options": [
+        "Ein psychosenaher Borderline-Typus",
+        "Die unbeabsichtigte (passive) Selbstbezogenheit",
+        "Eine ausgeprägte Verschlossenheit",
+        "Eine ich-dystone neurotische Symptomatik",
+        "Die intentionale (aktive) Selbstbezogenheit"
+      ],
+      "answer": 4,
+      "explanation": "Die Anspruchshaltung aufgrund vermeintlicher Großartigkeit mit Wutanfällen bei ausbleibender Aufmerksamkeit kennzeichnet die intentionale (aktive) Selbstbezogenheit. Die passive Form (Vergessen fremder Bedürfnisse), eine neurotische Symptomatik, ein Borderline-Typus oder Verschlossenheit treffen nicht zu."
+    }
+  ]
+}

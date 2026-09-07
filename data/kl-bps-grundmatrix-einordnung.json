@@ -1,0 +1,421 @@
+{
+  "id": "kl-bps-grundmatrix-einordnung",
+  "title": "Borderline & PS I: Grundmatrix, Einordnung & Typen",
+  "subject": "Allgemeine und spezielle Krankheitslehre",
+  "description": "30 Fragen im Klausurstil (Single Best Answer, A-E) zur Grundmatrix Persönlichkeitsstörung/Psychose/Neurose (Beginn, Ich-Bezug, Realitätsbezug, Symptombreite, Verursachung), ihren Ausnahmen sowie zur Herkunft der Borderline-Störung und den ICD- und klinischen Typen. Prüfungsrelevanz-basiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Grundmatrix - Beginn",
+      "question": "Wann zeigen sich bei einer Persönlichkeitsstörung typischerweise die ersten Auffälligkeiten?",
+      "options": [
+        "Bereits in der Kindheit",
+        "Erst im höheren Erwachsenenalter nach einem längeren völlig unauffälligen Lebensabschnitt",
+        "Ausschließlich in der Adoleszenz bzw. im frühen Erwachsenenalter",
+        "Immer erst nach einem akuten auslösenden Ereignis",
+        "In der Regel erst im Rentenalter"
+      ],
+      "answer": 0,
+      "explanation": "Persönlichkeitsstörungen zeigen erste Auffälligkeiten bereits in der Kindheit - das unterscheidet sie u. a. von der Psychose (meist Adoleszenz/frühes Erwachsenenalter). Ein Beginn erst im höheren Alter, ausschließlich in der Adoleszenz (das gilt für die Psychose), ein zwingend auslösendes Ereignis oder ein Beginn im Rentenalter treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Ich-Bezug",
+      "hard": true,
+      "trap": "Ich-synton vs. ich-dyston: PKS und Psychose sind ich-synton, die Neurose ich-dyston - aber BPS und selbstunsichere PS sind Ausnahmen.",
+      "question": "Wie verhält sich der Ich-Bezug bei Persönlichkeitsstörung, Psychose und Neurose in der Regel?",
+      "options": [
+        "Alle drei sind grundsätzlich ich-dyston und werden als fremd und störend erlebt",
+        "Der Ich-Bezug spielt in dieser Gegenüberstellung keine Rolle",
+        "Nur die Neurose ist ich-synton, die anderen beiden ich-dyston",
+        "Persönlichkeitsstörung und Psychose sind ich-synton, die Neurose ist ich-dyston",
+        "Die Persönlichkeitsstörung ist ich-dyston, Psychose und Neurose sind ich-synton"
+      ],
+      "answer": 3,
+      "explanation": "In der Grundmatrix sind Persönlichkeitsstörung und Psychose ich-synton (das Erleben wird als zu sich gehörig empfunden), die Neurose dagegen ich-dyston (als fremd/störend erlebt). Dass alle dyston seien, eine umgekehrte Zuordnung oder eine Bedeutungslosigkeit des Ich-Bezugs treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Ausnahmen Ich-Bezug",
+      "hard": true,
+      "trap": "Ausnahme von der Ich-Syntonie der PKS: BPS und selbstunsichere PS.",
+      "question": "Welche Persönlichkeitsstörungen bilden die Ausnahme von der grundsätzlichen Ich-Syntonie der Persönlichkeitsstörungen?",
+      "options": [
+        "Die dependente und die histrionische Persönlichkeitsstörung",
+        "Die schizotype und die paranoide Persönlichkeitsstörung",
+        "Die Borderline-PS und die selbstunsichere PS",
+        "Die antisoziale und die narzisstische Persönlichkeitsstörung mit ihrer ausgeprägten Selbstbezogenheit",
+        "Grundsätzlich alle Persönlichkeitsstörungen ohne jede Ausnahme"
+      ],
+      "answer": 2,
+      "explanation": "Borderline-PS und selbstunsichere PS werden - anders als die übrigen PKS - nicht durchgehend ich-synton erlebt; die Betroffenen leiden an ihren Zuständen. Antisozial/narzisstisch, dependent/histrionisch oder schizotyp/paranoid sind nicht die genannten Ausnahmen, und ein Fehlen jeder Ausnahme trifft nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Realitätsbezug",
+      "question": "Wie unterscheidet sich der Realitätsbezug zwischen Psychose und Persönlichkeitsstörung?",
+      "options": [
+        "Bei beiden ist der Realitätsbezug vollständig und dauerhaft aufgehoben, ohne dass ein Unterschied besteht",
+        "Ein Realitätsbezug lässt sich bei psychischen Störungen grundsätzlich nicht beurteilen",
+        "Bei der Psychose bleibt er erhalten, bei der Persönlichkeitsstörung geht er verloren",
+        "Bei der Psychose ist er (teils) verloren, bei der Persönlichkeitsstörung grundsätzlich erhalten",
+        "Der Realitätsbezug ist bei beiden immer vollständig intakt"
+      ],
+      "answer": 3,
+      "explanation": "Bei der Psychose ist der Realitätsbezug (teils) verloren - klassisch mit der 'doppelten Buchführung' als Kompromiss -, bei der Persönlichkeitsstörung ist er grundsätzlich erhalten. Eine beidseitige Aufhebung, die umgekehrte Zuordnung, ein durchweg intakter Bezug oder eine grundsätzliche Nicht-Beurteilbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - CAVE BPS Realität",
+      "hard": true,
+      "trap": "Realitätsverlust der Psychose vs. pseudopsychotische Phasen bei schwerer BPS.",
+      "question": "Was gilt für den Realitätsbezug bei einer schweren Borderline-Persönlichkeitsstörung?",
+      "options": [
+        "Es liegt regelhaft eine doppelte Buchführung wie bei der Psychose vor",
+        "Es können pseudopsychotische Phasen auftreten, die kein echter psychotischer Realitätsverlust sind",
+        "Der Realitätsbezug ist unter allen Umständen und zu jedem Zeitpunkt uneingeschränkt erhalten",
+        "Es besteht ein dauerhafter, voll ausgebildeter psychotischer Realitätsverlust wie bei einer Schizophrenie",
+        "Der Realitätsbezug ist grundsätzlich nicht beurteilbar"
+      ],
+      "answer": 1,
+      "explanation": "Bei schwerer BPS kann der Realitätsbezug in Belastungssituationen eingeschränkt sein, aber eher pseudopsychotisch - kein echter, dauerhafter psychotischer Realitätsverlust. Ein voll ausgebildeter Realitätsverlust, ein ausnahmslos erhaltener Bezug, eine regelhafte doppelte Buchführung oder eine Nicht-Beurteilbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Symptombreite",
+      "question": "Wie unterscheidet sich die Symptombreite der Neurose von der einer Persönlichkeitsstörung oder Psychose?",
+      "options": [
+        "Die Neurose beeinflusst das gesamte Erleben und Verhalten, während PS und Psychose nur einen eng umschriebenen Ausschnitt betreffen",
+        "Die Symptombreite ist kein Unterscheidungsmerkmal",
+        "Alle drei betreffen ausschließlich einen eng umschriebenen Ausschnitt",
+        "Alle drei betreffen stets die Persönlichkeit in ihrer Gesamtheit",
+        "Die Neurose betrifft einen diskreten Ausschnitt, PS und Psychose das Erleben und Verhalten in Gänze"
+      ],
+      "answer": 4,
+      "explanation": "Die Neurose betrifft einen diskreten Ausschnitt (übrige Funktionsbereiche bleiben unbeeinflusst), während PS und Psychose das Erleben und Verhalten in Gänze prägen. Die umgekehrte Zuordnung, eine durchweg umschriebene oder durchweg globale Betroffenheit oder eine Bedeutungslosigkeit des Merkmals treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Verursachung",
+      "question": "Wie wird die Verursachung der Neurose in der Grundmatrix charakterisiert?",
+      "options": [
+        "Eine ausschließlich endogene, genetisch fixierte Verursachung ohne jeden Umwelteinfluss",
+        "Eine ausschließlich hirnorganische Schädigung",
+        "Eine rein zufällige Entstehung ohne Vulnerabilität und ohne Auslöser",
+        "Eine deutlich stärkere endogene Komponente als bei der Psychose",
+        "Geringere endogene Vulnerabilität, stärkere exogene Auslösung"
+      ],
+      "answer": 4,
+      "explanation": "Die Neurose ist durch eine geringere endogene Vulnerabilität bei stärkerer exogener Auslösung gekennzeichnet - im Kontrast zur Psychose (deutliche endogene Komponente) und zur PS (biosoziale Modelle wie bei Linehan). Eine rein endogene, besonders stark endogene, zufällige oder hirnorganische Verursachung trifft nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Verursachung PS",
+      "question": "Welches Verursachungsmodell wird für die Persönlichkeitsstörungen (z. B. nach Linehan) genannt?",
+      "options": [
+        "Ein ausschließlich lerntheoretisches Modell ohne Vulnerabilität",
+        "Ein Modell, das von einer einzelnen, klar benennbaren Ursache ausgeht",
+        "Ein biosoziales Modell aus endogener Vulnerabilität und exogenen Faktoren",
+        "Ein rein soziologisches Modell, das jede biologische Anlage kategorisch ausschließt",
+        "Ein rein genetisches Modell ohne psychosoziale Komponente"
+      ],
+      "answer": 2,
+      "explanation": "Für die PS werden biosoziale Modelle (z. B. Linehan) genannt: endogene Vulnerabilität plus exogene Faktoren wirken zusammen. Ein rein soziologisches, rein genetisches, rein lerntheoretisches oder monokausales Modell greift zu kurz."
+    },
+    {
+      "topic": "Grundmatrix - Geschlecht",
+      "question": "Wie verteilt sich das Geschlechterverhältnis über die Persönlichkeitsstörungen?",
+      "options": [
+        "Die BPS betrifft nahezu ausschließlich Männer",
+        "Über alle Persönlichkeitsstörungen hinweg besteht durchgehend ein klares Übergewicht des männlichen Geschlechts",
+        "Antisozial eher weiblich, dependent eher männlich",
+        "Das Geschlecht spielt bei Persönlichkeitsstörungen keine Rolle",
+        "Bei der BPS ausgeglichen, antisozial eher männlich, dependent eher weiblich"
+      ],
+      "answer": 4,
+      "explanation": "Bei der BPS ist das Geschlechterverhältnis in etwa ausgeglichen, die antisoziale PS ist eher männlich, die dependente eher weiblich. Ein durchgehendes männliches Übergewicht, eine fast reine Männer-BPS, die umgekehrte Zuordnung oder eine Irrelevanz des Geschlechts treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Verlauf",
+      "question": "Wie ist der Verlauf der Persönlichkeitsstörungen in der Grundmatrix beschrieben?",
+      "options": [
+        "Grundsätzlich hochgradig instabil und über alle Typen hinweg schnell wechselnd, ohne jede Konstanz",
+        "Nicht beurteilbar, weil Persönlichkeitsstörungen keinen Verlauf haben",
+        "Relativ stabil, je nach Typus variabel - die BPS ist dabei wenig stabil",
+        "Immer chronisch progredient bis zur vollständigen Pflegebedürftigkeit",
+        "Streng episodisch mit vollständiger Remission zwischen den Episoden"
+      ],
+      "answer": 2,
+      "explanation": "Der Verlauf der PS ist relativ stabil, je nach Typus variabel; die BPS bildet mit ihrer geringen Stabilität eine Ausnahme. Eine durchgehende Instabilität, ein streng episodischer, ein zwingend progredienter Verlauf oder eine fehlende Verlaufsgestalt treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - Herkunft Restkategorie",
+      "hard": true,
+      "question": "Wie ist der Begriff 'Borderline' historisch entstanden?",
+      "options": [
+        "Als Restkategorie für Fälle zwischen Psychose und Neurose - daher 'Grenzlinie'",
+        "Als Bezeichnung für eine leichte, grenzwertig ausgeprägte Neurose",
+        "Als Unterform der Schizophrenie mit gesichertem Realitätsverlust",
+        "Als reine Verlaufsform der Depression",
+        "Als moderne, von Anfang an klar empirisch definierte eigenständige Krankheitseinheit mit scharfen Grenzen"
+      ],
+      "answer": 0,
+      "explanation": "Borderline war historisch ein Konzept für eine Restkategorie: Fälle, die weder den Psychosen noch den Neurosen klar zuzuordnen waren - daher 'Grenzlinie' zwischen Psychose und Neurose. Diese Herkunft erklärt die vielen Ausnahmen in der Grundmatrix. Eine scharf definierte Krankheitseinheit, eine Schizophrenie-Unterform, eine Depressionsvariante oder eine leichte Neurose treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - Klassifikationssysteme",
+      "question": "Wie wird die Borderline-Störung in DSM und ICD bezeichnet?",
+      "options": [
+        "In beiden Systemen einheitlich und wortgleich als Borderline-Persönlichkeitsstörung ohne jeden Bezeichnungsunterschied",
+        "Im DSM als emotional instabile PS, in der ICD als Borderline-PS",
+        "In beiden Systemen als Unterform der Schizophrenie",
+        "Im DSM als Borderline-PS, in der ICD als emotional instabile PS",
+        "Ausschließlich als 'Grenzpsychose' in beiden Systemen"
+      ],
+      "answer": 3,
+      "explanation": "Das DSM spricht von Borderline-Persönlichkeitsstörung, die ICD von emotional instabiler Persönlichkeitsstörung. Eine wortgleiche Bezeichnung, die umgekehrte Zuordnung, eine Schizophrenie-Unterform oder eine 'Grenzpsychose' treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - ICD-Typen",
+      "hard": true,
+      "trap": "Borderline-Typus (Identität) vs. impulsiver Typus (Impulskontrolle) in der ICD.",
+      "question": "Wie unterscheiden sich die beiden Typen der emotional instabilen PS in der ICD?",
+      "options": [
+        "Beide Typen unterscheiden sich allein hinsichtlich des Realitätsverlusts",
+        "Der Borderline-Typus betont die Impulskontrollstörung, der impulsive Typus die Identitätsproblematik",
+        "Der Borderline-Typus betont die Identitätsproblematik, der impulsive Typus die Impulskontrollstörung",
+        "Beide Typen betonen ausschließlich die Identitätsproblematik ohne jeden Impulsbezug",
+        "Die ICD kennt keine Typenunterscheidung der emotional instabilen PS"
+      ],
+      "answer": 2,
+      "explanation": "In der ICD betont der Borderline-Typus stärker die Identitätsproblematik, der impulsive Typus stärker die Impulskontrollstörung. Die Verwechslung der Zuordnung, eine reine Identitätsbetonung beider, eine Unterscheidung über den Realitätsverlust oder das Fehlen einer Typologie treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - klinische Typen Validierung",
+      "hard": true,
+      "trap": "Empirisch validiert vs. klinische Erfahrung: die drei Borderline-Typen sind NICHT validiert.",
+      "question": "Welcher Status kommt der klinischen Typologie der Borderline-Störung (Trauma-, ADHS-, psychosenaher Typus) zu?",
+      "options": [
+        "Sie stammt aus klinischer Erfahrung und ist empirisch nicht validiert",
+        "Sie ist eine rein genetisch definierte Einteilung",
+        "Sie ist im DSM-5 als verbindliche Subtypisierung kodiert",
+        "Sie ist durch umfangreiche kontrollierte Studien breit empirisch abgesichert und offiziell im Klassifikationssystem verankert",
+        "Sie ersetzt die Grundmatrix als übergeordnetes System"
+      ],
+      "answer": 0,
+      "explanation": "Die drei klinischen Typen sind aus klinischer Erfahrung abgeleitet und ausdrücklich empirisch nicht validiert (CAVE) - das gehört zur Aussage dazu. Eine breite empirische Absicherung, eine DSM-5-Kodierung, ein Ersatz der Grundmatrix oder eine genetische Definition treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - Trauma-Typus",
+      "question": "Was kennzeichnet den Trauma-Typus der Borderline-Störung?",
+      "options": [
+        "Eine komorbide Aufmerksamkeitsstörung mit ausgeprägter Impulsivität und deutlich weniger Dissoziation",
+        "Ein hoher Anteil Traumatisierter mit starken Selbstzweifeln und Dissoziationen",
+        "Paranoide Anmutungen und intermittierende heftige Erregungszustände",
+        "Ein völliges Fehlen jeglicher Belastungsvorgeschichte",
+        "Eine ausschließlich genetisch bedingte Ausprägung ohne Umweltbezug"
+      ],
+      "answer": 1,
+      "explanation": "Der Trauma-Typus (ein hoher Anteil ist traumatisiert) ist durch starke Selbstzweifel und Dissoziationen gekennzeichnet. Die Impulsivität mit weniger Dissoziation beschreibt den ADHS-Typus, paranoide Anmutungen den psychosenahen Typus; eine fehlende Belastungsvorgeschichte oder eine rein genetische Ausprägung treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - ADHS-Typus",
+      "hard": true,
+      "trap": "ADHS-Typus: Impulsivität und Affektregulationsstörung, aber WENIGER Dissoziation als der Trauma-Typus.",
+      "question": "Was ist typisch für den ADHS-Typus der Borderline-Störung?",
+      "options": [
+        "Besonders ausgeprägte Dissoziationen als Leitsymptom bei nur geringer Impulsivität",
+        "Eine ausschließlich depressive Symptomatik ohne Impulsivität",
+        "Ein voll ausgebildetes paranoides Wahnsystem",
+        "Ein vollständiges Fehlen von Impulskontrollproblemen",
+        "Deutliche Impulsivität und Affektregulationsstörung bei weniger Dissoziation"
+      ],
+      "answer": 4,
+      "explanation": "Der ADHS-Typus (hoher Anteil komorbides ADHS) zeigt deutliche Impulsivität, Affektregulationsstörung und desorganisiertes Verhalten - bei weniger Dissoziation als der Trauma-Typus. Ausgeprägte Dissoziationen als Leitsymptom, ein paranoides Wahnsystem, fehlende Impulsprobleme oder eine rein depressive Symptomatik treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - psychosenaher Typus",
+      "question": "Wodurch ist der psychosenahe Typus der Borderline-Störung gekennzeichnet?",
+      "options": [
+        "Durch paranoide Anmutungen und intermittierende heftige Erregungszustände",
+        "Durch eine ausschließlich impulsive Symptomatik ganz ohne paranoide Elemente und ohne jede Erregung",
+        "Durch einen dauerhaften, voll ausgebildeten schizophrenen Residualzustand",
+        "Durch eine rein dissoziative Symptomatik wie beim Trauma-Typus",
+        "Durch das Fehlen jeglicher psychosenaher Symptome"
+      ],
+      "answer": 0,
+      "explanation": "Der psychosenahe Typus ist durch paranoide Anmutungen und intermittierende heftige Erregungszustände gekennzeichnet. Eine rein impulsive Symptomatik, ein schizophrener Residualzustand, ein Fehlen psychosenaher Symptome oder eine rein dissoziative Prägung treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Anwendung Beginn",
+      "transfer": true,
+      "question": "Ein Patient berichtet, seine auffälligen Beziehungs- und Erlebensmuster bestünden durchgängig seit der Kindheit und prägten sein gesamtes Erleben und Verhalten. Welche Kategorie liegt am ehesten nahe?",
+      "options": [
+        "Eine akute Psychose mit Beginn im frühen Erwachsenenalter",
+        "Eine umschriebene Neurose mit diskretem Symptomausschnitt",
+        "Eine rein reaktive Anpassungsstörung ohne Vorgeschichte",
+        "Eine hirnorganische Erkrankung des höheren Lebensalters",
+        "Eine Persönlichkeitsstörung"
+      ],
+      "answer": 4,
+      "explanation": "Ein früher Beginn in der Kindheit und eine das gesamte Erleben und Verhalten prägende Auffälligkeit sprechen für eine Persönlichkeitsstörung. Eine Psychose (späterer Beginn), eine Neurose (diskreter Ausschnitt), eine reaktive Anpassungsstörung oder eine hirnorganische Alterserkrankung passen nicht zum Muster."
+    },
+    {
+      "topic": "Grundmatrix - Anwendung Ich-Bezug",
+      "transfer": true,
+      "hard": true,
+      "question": "Eine Patientin erlebt ihre eigenwilligen, konfliktträchtigen Verhaltensmuster als selbstverständlich zu sich gehörig und sieht darin kein Problem. Wie ist dieser Ich-Bezug zu benennen?",
+      "options": [
+        "Als psychotischer Realitätsverlust",
+        "Ich-synton",
+        "Ich-dyston, wie es für die Neurose typisch ist",
+        "Als pseudopsychotische Phase",
+        "Als doppelte Buchführung"
+      ],
+      "answer": 1,
+      "explanation": "Das Erleben der eigenen Muster als zu sich gehörig, ohne Leidensdruck daran, ist ich-synton - typisch für die meisten Persönlichkeitsstörungen (außer BPS und selbstunsicherer PS). Ich-Dystonie (Neurose), Realitätsverlust, pseudopsychotische Phasen oder doppelte Buchführung beschreiben andere Konstellationen."
+    },
+    {
+      "topic": "Grundmatrix - Anwendung Realität BPS",
+      "transfer": true,
+      "hard": true,
+      "question": "Eine Patientin mit schwerer BPS berichtet unter extremer Anspannung kurzzeitig misstrauisch-verzerrte Wahrnehmungen, die sich mit Nachlassen der Anspannung wieder auflösen. Wie ist das einzuordnen?",
+      "options": [
+        "Als ich-dystone neurotische Symptomatik",
+        "Als klassische doppelte Buchführung mit stabilem Wahnsystem",
+        "Als hirnorganisch bedingtes Delir",
+        "Als pseudopsychotische Phase im Rahmen der BPS, nicht als echter psychotischer Realitätsverlust",
+        "Als Beleg für eine eigenständige, dauerhaft bestehende schizophrene Psychose mit stabilem Wahnsystem"
+      ],
+      "answer": 3,
+      "explanation": "Kurzzeitige, belastungsabhängige und reversible Wahrnehmungsverzerrungen bei schwerer BPS sind pseudopsychotisch - kein echter psychotischer Realitätsverlust. Eine eigenständige Schizophrenie, eine doppelte Buchführung, eine neurotische Symptomatik oder ein Delir treffen nicht zu."
+    },
+    {
+      "topic": "Psychose - doppelte Buchführung",
+      "question": "Was beschreibt die 'doppelte Buchführung' bei der Psychose?",
+      "options": [
+        "Die gleichzeitige Führung zweier getrennter, vollständig integrierter autobiografischer Gedächtnisse ohne jeden Widerspruch",
+        "Einen Kompromiss, bei dem wahnhafte und reale Deutungen nebeneinander bestehen",
+        "Die Unterscheidung von Funktionsniveau und Traits im Alternativmodell",
+        "Ein rein neurotisches Vermeidungsmuster",
+        "Das Nebeneinander zweier klinischer Borderline-Typen"
+      ],
+      "answer": 1,
+      "explanation": "Die doppelte Buchführung bezeichnet einen Kompromiss beim psychotischen Realitätsverlust: wahnhafte und realitätsgerechte Deutungen bestehen nebeneinander. Zwei getrennte autobiografische Gedächtnisse, ein Nebeneinander von Borderline-Typen, die Alternativmodell-Struktur oder ein neurotisches Vermeidungsmuster treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - NICHT-Item",
+      "question": "Welche Aussage über die Persönlichkeitsstörungen trifft in der Grundmatrix NICHT zu?",
+      "options": [
+        "Ihre Lebenszeitprävalenz liegt je nach Störung im Bereich von unter einem bis mehreren Prozent",
+        "Die meisten sind ich-synton, mit BPS und selbstunsicherer PS als Ausnahme",
+        "Der Realitätsbezug ist bei ihnen wie bei der Psychose regelhaft aufgehoben",
+        "Sie beeinflussen das Erleben und Verhalten in seiner Gänze",
+        "Erste Auffälligkeiten zeigen sich bereits in der Kindheit"
+      ],
+      "answer": 2,
+      "explanation": "Falsch ist, dass der Realitätsbezug bei PS regelhaft aufgehoben sei - er ist grundsätzlich erhalten (Ausnahme: pseudopsychotische Phasen bei schwerer BPS). Der frühe Beginn, die globale Symptombreite, die überwiegende Ich-Syntonie mit Ausnahmen und die Prävalenzspanne treffen dagegen zu."
+    },
+    {
+      "topic": "Neurose - Anwendung Symptombreite",
+      "transfer": true,
+      "question": "Ein Patient leidet unter einer klar umschriebenen Angst vor Aufzügen, während sein übriges Erleben und seine Leistungsfähigkeit unbeeinträchtigt sind. Welche Kategorie passt am ehesten?",
+      "options": [
+        "Eine Neurose (diskreter Symptomausschnitt)",
+        "Eine hirnorganische Störung",
+        "Eine Psychose mit Realitätsverlust",
+        "Eine schwere BPS mit pseudopsychotischen Phasen",
+        "Eine Persönlichkeitsstörung mit globaler Beeinflussung des gesamten Erlebens"
+      ],
+      "answer": 0,
+      "explanation": "Eine klar umschriebene Symptomatik bei ansonsten unbeeinflussten Funktionsbereichen entspricht dem diskreten Ausschnitt der Neurose. Eine PS (globale Beeinflussung), eine Psychose (Realitätsverlust), eine schwere BPS oder eine hirnorganische Störung passen nicht zum umschriebenen Bild."
+    },
+    {
+      "topic": "Grundmatrix - Prävalenz",
+      "question": "Wie ist die Lebenszeitprävalenz der Persönlichkeitsstörungen in der Grundmatrix beschrieben?",
+      "options": [
+        "Grundsätzlich unter einem Promille",
+        "Je nach Persönlichkeitsstörung im Bereich von unter einem bis mehreren Prozent",
+        "Nicht bestimmbar, weil Persönlichkeitsstörungen nicht epidemiologisch erfassbar sind",
+        "Durchgehend höher als die der depressiven Störungen",
+        "Für jede einzelne Persönlichkeitsstörung exakt und einheitlich bei einem festen Prozentwert"
+      ],
+      "answer": 1,
+      "explanation": "Die Lebenszeitprävalenz der PS variiert je nach Störung im Bereich von unter einem bis zu mehreren Prozent (grob 0,x bis 6 %). Ein einheitlicher Festwert, ein durchgehend über der Depression liegender Wert, ein Promillebereich oder eine grundsätzliche Nicht-Erfassbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - drei Zugänge",
+      "hard": true,
+      "question": "Über welche drei Zugänge wird die Borderline-Störung erschlossen?",
+      "options": [
+        "Historisch, über die Klassifikationssysteme und über die klinische Erfahrung",
+        "Über die fünf Big-Five-Dimensionen",
+        "Ausschließlich über bildgebende Verfahren, Laborwerte und genetische Marker sowie neuropsychologische Testung",
+        "Über die drei Cluster A, B und C des DSM-5",
+        "Über die vier Merkmalsbereiche des Funktionsniveaus"
+      ],
+      "answer": 0,
+      "explanation": "Die drei Zugänge sind der historische (Restkategorie), der über die Klassifikationssysteme (DSM/ICD) und der über die klinische Erfahrung (drei Typen). Bildgebung/Labor/Genetik, die Cluster A-C, die Funktionsbereiche oder die Trait-Dimensionen sind nicht diese drei Zugänge."
+    },
+    {
+      "topic": "Borderline - NICHT-Item Typen",
+      "question": "Welcher der folgenden Typen gehört NICHT zur klinischen Typologie der Borderline-Störung?",
+      "options": [
+        "Der ADHS-Typus",
+        "Der zwanghafte Typus",
+        "Der Trauma-Typus",
+        "Der psychosenahe Typus",
+        "Keiner - alle drei genannten klinischen Typen sind real Teil der Typologie"
+      ],
+      "answer": 1,
+      "explanation": "Die klinische Typologie kennt den Trauma-Typus, den ADHS-Typus und den psychosenahen Typus - einen 'zwanghaften Typus' gibt es dort nicht. Die drei genannten Typen gehören dagegen dazu."
+    },
+    {
+      "topic": "Grundmatrix - Anwendung Geschlecht",
+      "transfer": true,
+      "question": "Ein Kliniker will das Geschlechterverhältnis von BPS, antisozialer und dependenter PS grob einordnen. Welche Aussage ist am ehesten zutreffend?",
+      "options": [
+        "Ein Geschlechterunterschied besteht bei keiner der drei",
+        "Alle drei betreffen weit überwiegend Männer",
+        "Alle drei betreffen weit überwiegend Frauen",
+        "BPS fast nur Männer, antisozial fast nur Frauen, dependent ausgeglichen verteilt",
+        "BPS ausgeglichen, antisozial eher männlich, dependent eher weiblich"
+      ],
+      "answer": 4,
+      "explanation": "Die BPS ist etwa ausgeglichen, die antisoziale PS eher männlich, die dependente eher weiblich. Ein durchgehendes Männer- oder Frauenübergewicht, eine vertauschte Zuordnung oder ein fehlender Unterschied treffen nicht zu."
+    },
+    {
+      "topic": "Grundmatrix - Beginn Psychose",
+      "question": "Wann beginnt eine Psychose typischerweise - und welche Einschränkung ist zu beachten?",
+      "options": [
+        "Bereits regelhaft in der frühen Kindheit wie bei der Persönlichkeitsstörung",
+        "Ausnahmslos erst im höheren Erwachsenenalter, eine kindliche Psychose ist grundsätzlich ausgeschlossen",
+        "Erst nach dem 60. Lebensjahr",
+        "Meist in Adoleszenz oder frühem Erwachsenenalter, mit dem CAVE der selteneren kindlichen Psychose",
+        "Der Beginn ist bei der Psychose nicht bestimmbar"
+      ],
+      "answer": 3,
+      "explanation": "Die Psychose beginnt meist in der Adoleszenz oder im frühen Erwachsenenalter; als CAVE ist die (seltenere) kindliche Psychose zu beachten. Ein ausschließlicher Beginn im höheren Alter, ein regelhafter Kindheitsbeginn (das gilt für die PS), ein Beginn erst jenseits des 60. Lebensjahres oder eine Nicht-Bestimmbarkeit treffen nicht zu."
+    },
+    {
+      "topic": "Borderline - Anwendung ICD-Typus",
+      "transfer": true,
+      "question": "Bei einer Patientin mit emotional instabiler PS stehen wiederkehrende Identitätsunsicherheit und ein instabiles Selbstbild im Vordergrund, weniger die Impulsdurchbrüche. Welchem ICD-Typus entspricht das am ehesten?",
+      "options": [
+        "Dem impulsiven Typus",
+        "Keinem - die ICD kennt keine Typen der emotional instabilen PS",
+        "Dem Trauma-Typus der klinischen Typologie",
+        "Dem Borderline-Typus",
+        "Dem psychosenahen Typus der klinischen Typologie"
+      ],
+      "answer": 3,
+      "explanation": "Ein im Vordergrund stehendes Identitäts- und Selbstbildproblem entspricht dem Borderline-Typus der emotional instabilen PS in der ICD. Der impulsive Typus betont die Impulskontrolle; psychosenaher und Trauma-Typus gehören zur (nicht validierten) klinischen Typologie, nicht zur ICD; und die ICD kennt sehr wohl zwei Typen."
+    },
+    {
+      "topic": "Grundmatrix - strukturelle Bedeutung",
+      "question": "Welche Rolle spielt die Grundmatrix Persönlichkeitsstörung/Psychose/Neurose im Deck?",
+      "options": [
+        "Sie beschreibt nur körperliche Erkrankungen",
+        "Sie ist eine reine Randnotiz ohne Bezug zu anderen Störungen oder Krankheitskonzepten",
+        "Sie ist das strukturelle Rückgrat und die Brücke zu den anderen Störungsbildern",
+        "Sie gilt ausschließlich für die Borderline-Störung",
+        "Sie ersetzt sämtliche Einzeldiagnosen durch eine einzige Kategorie"
+      ],
+      "answer": 2,
+      "explanation": "Die Grundmatrix ist das strukturelle Rückgrat des Decks und die Brücke zu allen anderen Störungsbildern - sie ordnet Beginn, Ich-Bezug, Realitätsbezug, Symptombreite und Verursachung systematisch ein. Eine Randnotiz, ein Ersatz aller Einzeldiagnosen, eine reine BPS-Geltung oder ein Bezug nur auf körperliche Erkrankungen treffen nicht zu."
+    }
+  ]
+}
