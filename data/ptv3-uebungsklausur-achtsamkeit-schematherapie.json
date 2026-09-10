@@ -1,0 +1,395 @@
+{
+  "id": "ptv3-uebungsklausur-achtsamkeit-schematherapie",
+  "title": "Übungsklausur – Achtsamkeit & Schematherapie",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "Die 28 Fragen der Übungsklausur (Single-Choice-Version der Altklausur) 1:1 übernommen – Die drei Wellen, Achtsamkeit, Werte- und Entwicklungsquadrat, Schema & Modus, Grundbedürfnisse nach Grawe, Bewältigungsmodi und Modusmodell. Lösungen aus dem Abgleich dreier Altklausur-Kopien mit den Vorlesungsfolien; strittige Items sind im Fallen-Hinweis markiert.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Die drei Wellen",
+      "question": "Auf welche psychologische Qualität sind die Verfahren der sogenannten „zweiten Welle\" der Verhaltenstherapie ausgerichtet (Beispiel: 1. Welle: Verhalten, 3. Welle: Emotion)?",
+      "options": [
+        "Gedanken",
+        "Assoziative Netzwerke",
+        "Achtsamkeit",
+        "Emotionen",
+        "Selbstwert"
+      ],
+      "answer": 0,
+      "explanation": "Die zweite Welle der Verhaltenstherapie ist die kognitive Wende: Zielgröße sind Kognitionen, also Gedanken, Bewertungen und Überzeugungen (Beck, Ellis). Die erste Welle setzte am beobachtbaren Verhalten an, die dritte Welle an Emotion, Achtsamkeit und Akzeptanz – Emotionen und Achtsamkeit gehören daher zur dritten, nicht zur zweiten Welle. Der Selbstwert ist ein Konstrukt, aber keine der Wellen definierende Zielqualität, und assoziative Netzwerke sind ein Erklärungsmodell der Gedächtnisorganisation, keine Interventionsebene einer Welle."
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Welche Antwortkombination beschreibt korrekt die drei Aspekte der Aufmerksamkeitslenkung im Rahmen der Achtsamkeit gemäß Kabat-Zinn?",
+      "options": [
+        "Vergangenheitsfokus, on purpose, wertend",
+        "Zukunftsorientiert, absichtsvoll, wertend",
+        "Present moment, on purpose (absichtsvoll), non-judgemental (ohne Wertung)",
+        "Present moment, unabsichtlich, non-judgemental",
+        "Present moment, retrospektiv, wertend"
+      ],
+      "answer": 2,
+      "explanation": "Kabat-Zinns Definition verlangt genau drei Merkmale: Aufmerksamkeit auf den gegenwärtigen Moment, absichtsvoll gelenkt und ohne Bewertung. Alle Varianten mit „wertend\" widersprechen dem Kernmerkmal der Nicht-Bewertung; Retrospektion, Vergangenheitsfokus und Zukunftsorientierung widersprechen dem Gegenwartsbezug. Die Variante „unabsichtlich\" verfehlt, dass Achtsamkeit eine bewusst hergestellte, willentliche Aufmerksamkeitslenkung ist und nicht zufällig geschieht.",
+      "hard": false
+    },
+    {
+      "topic": "Metaperspektive vs. Achtsamkeit",
+      "question": "Sich von den eigenen Gedanken abzukehren, indem Patienten die Erfahrung machen, 1) dass es neben den Gedanken auch noch andere Erlebensbereiche gibt und 2) dass die Gedanken nicht die Realität darstellen, wird in der Mindfulness-Based Cognitive Therapy mit welcher Begriffskombination beschrieben?",
+      "options": [
+        "Rescripting & Reprocessing",
+        "Reframing & Refocusing",
+        "Validierung & Akzeptanz",
+        "Decentering & Disidentification",
+        "Defusion & Detachment"
+      ],
+      "answer": 3,
+      "explanation": "In der MBCT heißen die beiden beschriebenen Erfahrungen Decentering (aus der Ich-Perspektive heraustreten und Gedanken als mentale Ereignisse betrachten) und Disidentification (sich nicht mehr mit den Gedanken gleichsetzen). Defusion und Detachment sind inhaltlich verwandt, stammen aber aus der ACT bzw. der allgemeinen Distanzierungssprache und sind nicht die MBCT-Begriffe. Reframing und Refocusing sind kognitive Umdeutungs- bzw. Aufmerksamkeitstechniken der zweiten Welle, Rescripting und Reprocessing gehören zur Imaginations- bzw. Traumatherapie, und Validierung und Akzeptanz sind Haltungen der DBT, keine Beschreibung dieser Metaperspektive.",
+      "hard": true
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Benennen Sie eine adaptive Ressource, die am ehesten hinter Narzissmus stehen könnte:",
+      "options": [
+        "Durchsetzungsfähigkeit",
+        "Spontanität",
+        "Kompromissfähigkeit",
+        "Bindungsfähigkeit",
+        "Unterstützungsbereitschaft"
+      ],
+      "answer": 0,
+      "explanation": "Im Werte- und Entwicklungsquadrat ist die dysfunktionale Übertreibung immer die entwertete Form einer funktionalen Ressource: Hinter narzisstischer Selbstüberhöhung steht die Fähigkeit, eigene Ansprüche zu vertreten – also Durchsetzungsfähigkeit. Kompromissfähigkeit und Unterstützungsbereitschaft liegen auf dem Gegenpol des Quadrats und sind gerade die Ressourcen, die dem Narzissmus fehlen. Bindungsfähigkeit gehört zur dependenten Seite, Spontanität ist die Ressource hinter der Borderline-Symptomatik."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Benennen Sie eine adaptive Ressource, die am ehesten hinter einer Borderline-Persönlichkeitsstörung stehen könnte:",
+      "options": [
+        "Kompromissfähigkeit",
+        "Spontanität",
+        "Unterstützungsbereitschaft",
+        "Bindungsfähigkeit",
+        "Durchsetzungsfähigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Die Impulsivität und affektive Sprunghaftigkeit der Borderline-Störung ist die übersteigerte Form von Spontanität und Lebendigkeit – das ist die adaptive Ressource dahinter. Durchsetzungsfähigkeit ist die Ressource hinter dem Narzissmus, Bindungsfähigkeit die hinter dependenten Zügen. Kompromissfähigkeit und Unterstützungsbereitschaft beschreiben nachgebende, altruistische Pole, die der Borderline-Dynamik gerade entgegenstehen.",
+      "hard": false
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Benennen Sie einen funktionalen Pol, welchen Sie in Anlehnung an das Werte- und Entwicklungsquadrat bei einem Patienten mit dependenter Persönlichkeitsakzentuierung als Entwicklungsrichtung in Ihrer Psychotherapie am ehesten definieren würden.",
+      "options": [
+        "Unterstützungsbereitschaft",
+        "Kompromissfähigkeit",
+        "Durchsetzungsfähigkeit",
+        "Bindungsfähigkeit",
+        "Spontanität"
+      ],
+      "answer": 2,
+      "explanation": "Dependente Patienten sind bereits im Pol der Anpassung und Bindung überentwickelt; die Entwicklungsrichtung zeigt deshalb auf den Gegenpol: eigene Bedürfnisse vertreten, Nein sagen können – Durchsetzungsfähigkeit. Bindungsfähigkeit, Kompromissfähigkeit und Unterstützungsbereitschaft sind genau die Qualitäten, die bei dieser Akzentuierung schon übersteigert vorliegen; sie weiter zu stärken würde die Störung verfestigen. Spontanität ist die Entwicklungsrichtung bei zwanghafter, nicht bei dependenter Akzentuierung.",
+      "transfer": true
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Benennen Sie einen funktionalen Pol, welchen Sie in Anlehnung an das Werte- und Entwicklungsquadrat bei einem Patienten mit Zwangsstörung als Entwicklungsrichtung in Ihrer Psychotherapie am ehesten definieren würden.",
+      "options": [
+        "Spontanität",
+        "Neurotizismus",
+        "Extraversion",
+        "Gewissenhaftigkeit",
+        "Introversion"
+      ],
+      "answer": 0,
+      "explanation": "Zwanghaftigkeit ist die Übersteigerung von Kontrolle und Gewissenhaftigkeit; die Entwicklungsrichtung liegt daher auf dem Gegenpol Spontanität und Loslassen-Können – im Circumplex-Modell stehen sich Zwang und Borderline genau gegenüber. Gewissenhaftigkeit ist der bereits überentwickelte Pol und wäre die falsche Richtung. Extraversion, Introversion und Neurotizismus sind Persönlichkeitsdimensionen der Fünf-Faktoren-Ebene und keine funktionalen Pole des Werte- und Entwicklungsquadrats.",
+      "hard": true,
+      "trap": "Gewissenhaftigkeit klingt beim Zwang passend, ist aber der schon übersteigerte Pol – gesucht ist die Gegenrichtung.",
+      "transfer": true
+    },
+    {
+      "topic": "Schema & Modus",
+      "question": "Welche Therapieströmung hat die Schematherapie geprägt und leiht dieser die Arbeit mit der Biographie?",
+      "options": [
+        "Multiple Regressions Therapie (MRT)",
+        "Mindfulness Based Child Healing (MBCH)",
+        "Gesprächspsychotherapie",
+        "Bonding Therapie",
+        "Psychodynamische Psychotherapie"
+      ],
+      "answer": 4,
+      "explanation": "Die biographische Perspektive – frühe Bedürfnisfrustration, verinnerlichte Elternbotschaften, Übertragung in der therapeutischen Beziehung – stammt aus der psychodynamischen Tradition; Young hat sie in die Schematherapie integriert. „Mindfulness Based Child Healing (MBCH)\" und „Multiple Regressions Therapie (MRT)\" sind keine etablierten Fachbegriffe, sondern Distraktoren. Die Gesprächspsychotherapie liefert die empathisch-wertschätzende Grundhaltung, nicht die Biographiearbeit, und die Bonding-Therapie ist ein körperorientiertes Verfahren ohne prägenden Einfluss auf die Schematherapie."
+    },
+    {
+      "topic": "Schema & Modus",
+      "question": "Welche Kombination beschreibt zwei Eigenschaften der Schematherapie, die ihre Prägung durch die Kognitive Verhaltenstherapie erkennen lassen?",
+      "options": [
+        "Zielorientiert & transparent",
+        "Bedürfnisorientiert & Emotionsfokus",
+        "Übergreifende Muster & Biographiearbeit",
+        "Fürsorge & „gute Eltern\"",
+        "Inneres Kind & Schemamodi"
+      ],
+      "answer": 0,
+      "explanation": "Zielorientierung und Transparenz (offengelegtes Störungsmodell, gemeinsame Zielsetzung, strukturiertes Vorgehen) sind klassische KVT-Merkmale, die die Schematherapie übernommen hat. Übergreifende Muster und Biographiearbeit stammen aus der psychodynamischen Prägung, Bedürfnisorientierung und Emotionsfokus aus der humanistisch-emotionsfokussierten Linie. Inneres Kind und Schemamodi sowie Fürsorge und „gute Eltern\" sind schematherapie-eigene bzw. beziehungsgestaltende Konzepte und verweisen nicht auf die KVT-Herkunft.",
+      "hard": true
+    },
+    {
+      "topic": "Schema & Modus",
+      "question": "Welche Kombination nennt korrekt zwei der fünf Schema-Domänen, die in der Schematherapie mehrere Schemata in einer Kategorie subsumieren?",
+      "options": [
+        "Selbstverwirklichung & Kontrollverlust",
+        "Abgetrenntheit & Ablehnung / Beeinträchtigung von Autonomie & Leistung",
+        "Angstbewältigung & Impulskontrolle",
+        "Sozialkompetenz & Selbstwirksamkeit",
+        "Bindungsangst & Vermeidungsverhalten"
+      ],
+      "answer": 1,
+      "explanation": "Young ordnet die 18 Schemata fünf Domänen zu; zwei davon sind „Abgetrenntheit und Ablehnung\" (u. a. Verlassenheit, Misstrauen, emotionale Entbehrung) und „Beeinträchtigung von Autonomie und Leistung\" (u. a. Abhängigkeit, Versagen). Angstbewältigung und Impulskontrolle beschreiben Bewältigungsfertigkeiten, nicht Schema-Domänen. Selbstverwirklichung und Kontrollverlust sowie Sozialkompetenz und Selbstwirksamkeit sind allgemeinpsychologische Konstrukte, und Bindungsangst und Vermeidungsverhalten sind Symptombeschreibungen – keines dieser Paare ist eine Domäne des Schemamodells.",
+      "hard": true
+    },
+    {
+      "topic": "Grundbedürfnisse & Konsistenz (Grawe)",
+      "question": "Welches Grundbedürfnis (nach Grawe oder Young) wird bei einem Patienten, der sich eigentlich eine Partnerin wünschen würde, aber in der Psychotherapie häufig abfällige Bemerkungen über sich selbst macht („Na, was willste machen, wer will schon einen Schwabbel wie mich?!\"), wahrscheinlich permanent verletzt?",
+      "options": [
+        "Generativität",
+        "Selbstverwirklichung",
+        "gesunde Ernährung",
+        "Urvertrauen",
+        "Selbstwert"
+      ],
+      "answer": 4,
+      "explanation": "Die selbstabwertenden Bemerkungen sind Ausdruck einer chronischen Verletzung des Grundbedürfnisses nach Selbstwertschutz und Selbstwerterhöhung – der Patient verletzt es in der Interaktion permanent selbst. Selbstverwirklichung und Generativität sind Konzepte der humanistischen bzw. entwicklungspsychologischen Tradition und nicht das hier verletzte Grundbedürfnis. Urvertrauen zielt auf frühe Bindungssicherheit, die hier nicht Thema der Äußerung ist, und gesunde Ernährung ist überhaupt kein psychisches Grundbedürfnis, auch wenn die Adipositas des Patienten dazu verleitet.",
+      "transfer": true
+    },
+    {
+      "topic": "Grundbedürfnisse & Konsistenz (Grawe)",
+      "question": "Welches Grundbedürfnis nach Grawe lässt sich am ehesten damit umschreiben, dass Menschen den Wunsch haben, alle ihre Wünsche und Bedürfnisse in einem funktionalen Gleichgewicht zu wissen?",
+      "options": [
+        "Konsistenz",
+        "Kontinenz",
+        "Kontinuität",
+        "Konfluenz",
+        "Kontusion"
+      ],
+      "answer": 0,
+      "explanation": "Grawe nennt die Vereinbarkeit gleichzeitig aktivierter psychischer Prozesse und Ziele Konsistenz; Inkonsistenz (Diskordanz und Inkongruenz) gilt bei ihm als zentrale Quelle psychischer Störungen. Kontinuität meint zeitliche Stetigkeit und nicht die Vereinbarkeit von Bedürfnissen. Konfluenz ist ein gestalttherapeutischer Begriff für verschmolzene Kontaktgrenzen, Kontinenz bezeichnet Beherrschung bzw. medizinisch die Ausscheidungskontrolle, und Kontusion ist der medizinische Ausdruck für eine Quetschung – beide sind reine Ähnlichkeits-Distraktoren.",
+      "hard": true
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Nennen Sie eine psychische Störung, hinter der am ehesten der dysfunktionale Bewältigungsmodus der Vermeidung steht:",
+      "options": [
+        "ADHS",
+        "narzisstische Persönlichkeitsstörung",
+        "dissoziale Persönlichkeitsstörung",
+        "PTBS",
+        "Zwangsstörung"
+      ],
+      "answer": 3,
+      "explanation": "Die PTBS ist geradezu das Modell einer vermeidungsgetragenen Störung: Erinnerungen, Reize und Affekte werden aktiv umgangen, was die Symptomatik aufrechterhält (die Vorlesungsquellen nennen hier Angststörungen, PTBS und Depression). Narzisstische und dissoziale Persönlichkeitsstörung stehen für Überkompensation, nicht für Vermeidung. Die Zwangsstörung arbeitet primär mit Kontrolle und Ritualen, und ADHS ist eine neurologisch fundierte Entwicklungsstörung und kein Ergebnis eines Bewältigungsmodus."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Nennen Sie eine psychische Störung, hinter der am ehesten der dysfunktionale Bewältigungsmodus der Unterordnung steht:",
+      "options": [
+        "PTBS",
+        "dissoziale Persönlichkeitsstörung",
+        "Borderline-Persönlichkeitsstörung",
+        "dependente Persönlichkeitsstörung",
+        "Substanzkonsumstörung"
+      ],
+      "answer": 3,
+      "explanation": "Unterordnung (Erdulden, Anpassen, eigene Bedürfnisse zurückstellen, um Zuwendung nicht zu verlieren) ist das Kernmuster der dependenten Persönlichkeitsstörung – in allen drei abgeglichenen Altklausur-Kopien übereinstimmend. Die dissoziale Persönlichkeitsstörung folgt dem gegenteiligen Modus der Überkompensation. Substanzkonsumstörung und PTBS sind typische Vermeidungsstörungen, und die Borderline-Persönlichkeitsstörung ist durch wechselnde Modi und Affektinstabilität geprägt, nicht durch stabile Unterordnung.",
+      "trap": "Die Quellen sind sich nur bei der dependenten PS einig; als zweite Störung wurden Depression, Zwangsstörung und ängstlich-vermeidende PS je einmal genannt."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Nennen Sie eine psychische Störung, hinter der am ehesten der dysfunktionale Bewältigungsmodus der Überkompensation steht.",
+      "options": [
+        "Autismus",
+        "dissoziale Persönlichkeitsstörung",
+        "ADHS",
+        "Dissoziative Identitätsstörung",
+        "Heroinabhängigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Überkompensation dreht das zugrunde liegende Schema in sein Gegenteil: Aus Ohnmacht und Entwertung wird Dominanz, Grenzverletzung und Angriff – das Muster der dissozialen Persönlichkeitsstörung. Heroinabhängigkeit und Dissoziative Identitätsstörung sind Vermeidungs- bzw. Abspaltungsphänomene und damit dem Vermeidungsmodus zuzuordnen. Autismus und ADHS sind neuronale Entwicklungsstörungen und entstehen nicht als Bewältigungsstrategie eines Schemas."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Ihr Patient antwortet die ganze Zeit mit „weiß nicht\" auf Ihre Fragen; in welchem dysfunktionalen Bewältigungsmodus befindet er sich wahrscheinlich gerade?",
+      "options": [
+        "Überkompensation",
+        "Unterordnung",
+        "Vermeidung",
+        "Dissoziation",
+        "keiner der genannten Modi"
+      ],
+      "answer": 2,
+      "explanation": "Das ständige „weiß nicht\" hält den Kontakt zu Emotionen und Inhalten auf Distanz und ist damit typische Vermeidung – häufig als distanzierter Beschützer. Unterordnung würde sich in Anpassung und Zustimmung zeigen, nicht im Blockieren, und Überkompensation in Angriff, Abwertung oder Selbsterhöhung. Dissoziation ist keiner der drei schematherapeutischen Bewältigungsmodi, sondern eine extreme Form des Abschaltens, und da Vermeidung zutrifft, greift die Ausschlussoption nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche Kombination nennt zwei direkt beobachtbare Modi aus dem schematherapeutischen Modusmodell?",
+      "options": [
+        "Bindung & Selbstwert",
+        "gesunder Erwachsener & Ich-Modus",
+        "innerer Kritiker & gesunder Erwachsener",
+        "trauriges Kind & verinnerlichter Eltern-Modus",
+        "Vermeidung & Unterwerfung"
+      ],
+      "answer": 4,
+      "explanation": "Direkt beobachtbar sind die Bewältigungsmodi, weil sie sich im konkreten Verhalten zeigen: Vermeidung, Unterwerfung und Überkompensation – Kind- und Elternmodi müssen dagegen erschlossen werden. Der innere Kritiker und der gesunde Erwachsener sind innere Instanzen, die man nur über ihre Äußerungen indirekt erschließt. „Ich-Modus\" ist kein Modus des Modells, sondern ein psychoanalytischer Begriff, und Bindung und Selbstwert sind Grundbedürfnisse, keine Modi.",
+      "hard": true,
+      "trap": "Die drei abgeglichenen Altklausur-Kopien widersprechen sich: Kopie 1 und 2 nennen mit Begründung die Bewältigungsmodi, Kopie 3 dagegen Kind- und Eltern-Modus – bitte im Tutorium klären."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Sie beobachten, dass Ihr adipöser Patient, welcher sich eigentlich eine Partnerin wünschen würde, in der Psychotherapie häufig abfällige Bemerkungen über sich selbst macht („Na, was willste machen, wer will schon einen Schwabbel wie mich?!\"). Welcher nicht direkt beobachtbare Modus ist mutmaßlich bei diesem Patienten stark ausgebildet?",
+      "options": [
+        "orales Kind",
+        "nach innen gerichtete Kritiker",
+        "nach außen gerichtete Kritiker",
+        "dependentes Kind",
+        "Bully & Attack Modus"
+      ],
+      "answer": 1,
+      "explanation": "Die Abwertung richtet sich gegen die eigene Person; dahinter steht ein verinnerlichter, nach innen gerichteter Kritiker (strafender oder fordernder Elternmodus), der nur über solche Äußerungen erschließbar ist. Nach außen gerichtete Kritiker und der Bully-&-Attack-Modus würden andere Menschen abwerten oder einschüchtern, nicht den Patienten selbst. „Orales Kind\" und „dependentes Kind\" sind keine Modi des schematherapeutischen Modells, sondern an psychoanalytische Entwicklungsstufen angelehnte Distraktoren.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welcher Modus aus dem schematherapeutischen Modusmodell entspricht am ehesten dem „Ich\" aus der zweiten Topik nach Freud?",
+      "options": [
+        "Kind-Modus",
+        "Bewältigungsmodus",
+        "verinnerlichter Eltern-Modus",
+        "Ich-Modus",
+        "gesunder Erwachsener"
+      ],
+      "answer": 4,
+      "explanation": "Das Freudsche Ich vermittelt zwischen Triebansprüchen und Über-Ich-Forderungen und prüft die Realität – diese integrierende, ausgleichende Instanz entspricht im Modusmodell dem gesunden Erwachsenen. Der verinnerlichte Eltern-Modus ist das Pendant zum Über-Ich, der Kind-Modus das Pendant zum Es. Bewältigungsmodi sind Abwehr- bzw. Copingstrategien und keine steuernde Instanz, und ein „Ich-Modus\" existiert im Modusmodell nicht.",
+      "trap": "„Ich-Modus\" klingt nach der wörtlichen Übersetzung, ist aber kein Modus der Schematherapie – gefragt ist die funktional entsprechende Instanz."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Sie führen mit dem Patienten eine Stühledialog-Übung durch. Ihr Patient fängt an zu weinen. Welcher Modus, dem Sie einen Stuhl zuweisen können, kommt hier zum Ausdruck?",
+      "options": [
+        "trauriger Bewältiger",
+        "strafender Erwachsener",
+        "trauriges Kind",
+        "distanzierter Beschützer",
+        "vermeidender Selbstberuhiger"
+      ],
+      "answer": 2,
+      "explanation": "Weinen ist unmittelbarer Ausdruck des verletzlichen Kindmodus – hier des traurigen Kindes, dem im Stühledialog ein eigener Stuhl gegeben wird. Der distanzierte Beschützer und der vermeidende Selbstberuhiger würden Gefühle gerade abschneiden statt sie zu zeigen. Ein „strafender Erwachsener\" ist keine Modusbezeichnung des Modells (strafend ist der Elternmodus), und „trauriger Bewältiger\" existiert nicht – Bewältigungsmodi sind über ihre Strategie, nicht über den Affekt benannt.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Sie führen mit dem Patienten eine Stühledialog-Übung durch. Ihr Patient fängt an, angespannt und ärgerlich zu werden. Welcher Modus, dem Sie einen Stuhl zuweisen können, kommt hier zum Ausdruck?",
+      "options": [
+        "abweisender Selbstberuhiger",
+        "distanzierter Beschützer",
+        "ärgerliches Kind",
+        "strafender Erwachsener",
+        "ärgerlicher Bewältiger"
+      ],
+      "answer": 2,
+      "explanation": "Aufkommender Ärger im Stühledialog ist der Ausdruck des ärgerlichen Kindmodus, in dem unerfüllte Bedürfnisse protestierend hervortreten; er erhält einen eigenen Stuhl. Der distanzierte Beschützer und der abweisende Selbstberuhiger zeigen sich in Rückzug, Abschalten oder Ablenkung, nicht in offenem Ärger. „Strafender Erwachsener\" und „ärgerlicher Bewältiger\" sind keine Modusbezeichnungen des Modells – strafend ist der Eltern-, nicht der Erwachsenenmodus."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche Modi dürfen Sie bei der Stühledialog-Übung duzen?",
+      "options": [
+        "Bewältigungs-Modi",
+        "innere Kritiker",
+        "gesunde Erwachsene",
+        "Kind-Modi",
+        "Ich-Modi"
+      ],
+      "answer": 3,
+      "explanation": "Geduzt werden nur die Kind-Modi: Die Ansprache soll die kindliche Erlebensebene erreichen, entspricht der Haltung der „guten Eltern\" und schafft emotionale Nähe. Den gesunden Erwachsenen spricht man auf Augenhöhe und damit im Sie an, und innere Kritiker werden gerade nicht vertraulich, sondern konfrontierend adressiert. Bewältigungs-Modi bleiben als Schutzstrategien ebenfalls beim Sie, und „Ich-Modi\" gibt es im Modell nicht.",
+      "trap": "Nur die Kind-Modi werden geduzt – bei allen anderen Modi bleibt die Ansprache beim Sie."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche Modi versuchen Sie zu entmachten, indem Sie beispielsweise die entsprechenden Stühle vor die Tür stellen lassen?",
+      "options": [
+        "Bewältigungs-Modi",
+        "Kind-Modi",
+        "gesunde Erwachsene",
+        "innere Kritiker",
+        "Ich-Modi"
+      ],
+      "answer": 3,
+      "explanation": "Entmachtet werden die inneren Kritiker (verinnerlichte strafende und fordernde Elternmodi): Ihren Stuhl vor die Tür zu stellen macht körperlich erfahrbar, dass ihre Botschaften nicht zum eigenen Selbst gehören. Kind-Modi werden nicht entmachtet, sondern getröstet und versorgt, der gesunde Erwachsene wird gestärkt. Bewältigungs-Modi werden zunächst validiert und in ihrer Schutzfunktion verstanden statt hinausgestellt, und „Ich-Modi\" sind kein Bestandteil des Modells."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welcher Modus soll durch die Einnahme der Außenperspektive gestärkt werden?",
+      "options": [
+        "innerer Kritiker",
+        "gesunder Erwachsener",
+        "Ich-Modus",
+        "Kind-Modus",
+        "Bewältigungs-Modus"
+      ],
+      "answer": 1,
+      "explanation": "Die Außenperspektive lässt den Patienten das eigene Modusgeschehen von außen betrachten und einordnen – genau die reflektierende, integrierende Funktion des gesunden Erwachsenen, die dadurch gestärkt wird. Der innere Kritiker soll geschwächt und der Kind-Modus versorgt werden, nicht gestärkt. Bewältigungs-Modi sollen an Einfluss verlieren, sobald der gesunde Erwachsene übernimmt, und ein „Ich-Modus\" existiert im Modusmodell nicht."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welcher Modus ist derjenige, der eine achtsame Haltung hat?",
+      "options": [
+        "Bewältigungs-Modus",
+        "Ich-Modus",
+        "Kind-Modus",
+        "innerer Kritiker",
+        "gesunder Erwachsener"
+      ],
+      "answer": 4,
+      "explanation": "Nur der gesunde Erwachsene kann das eigene Erleben annehmend und ohne Bewertung wahrnehmen – hier treffen sich Achtsamkeit und Modusmodell. Der innere Kritiker ist per Definition bewertend und damit das Gegenteil einer achtsamen Haltung. Kind-Modi sind unmittelbar im Affekt gefangen, und Bewältigungs-Modi wenden sich vom Erleben ab; „Ich-Modus\" ist keine Kategorie des Modells."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welcher funktionale/integrierte Anteil verbirgt sich am ehesten hinter dem dysfunktionalen Modus des distanzierten Beschützers? (vgl. auch adaptive Ressource!)",
+      "options": [
+        "Ignoranz",
+        "Abgrenzung",
+        "Selbstwerterhöhung",
+        "aktive Selbstberuhigung",
+        "Kooperationsfähigkeit"
+      ],
+      "answer": 1,
+      "explanation": "Der distanzierte Beschützer schirmt gegen Überflutung ab; in funktionaler, dosierter Form ist das die Fähigkeit zur Abgrenzung – Nähe und Distanz regulieren zu können. Aktive Selbstberuhigung ist der funktionale Kern des vermeidenden Selbstberuhigers, nicht des distanzierten Beschützers. Selbstwerterhöhung gehört zur Überkompensation, Kooperationsfähigkeit zur Unterwerfung, und Ignoranz ist selbst dysfunktional und damit keine adaptive Ressource.",
+      "hard": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welcher funktionale/integrierte Anteil verbirgt sich am ehesten hinter dem dysfunktionalen Modus der Überkompensation? (vgl. auch adaptive Ressource!)",
+      "options": [
+        "Forderungen stellen können",
+        "aktive Selbstberuhigung",
+        "Gefühlsvermeidung",
+        "Abgrenzung",
+        "Zurückhaltung"
+      ],
+      "answer": 0,
+      "explanation": "Überkompensation ist die übersteigerte Form davon, für sich einzutreten; ihr funktionaler Kern ist, Ansprüche und Forderungen angemessen vertreten zu können. Abgrenzung ist die Ressource hinter dem distanzierten Beschützer, aktive Selbstberuhigung die hinter dem vermeidenden Selbstberuhiger. Gefühlsvermeidung ist selbst ein dysfunktionaler Mechanismus, und Zurückhaltung liegt auf dem Gegenpol der Unterwerfung.",
+      "hard": true,
+      "trap": "Gesucht ist die adaptive Ressource, nicht der Modus selbst – Abgrenzung gehört zum distanzierten Beschützer, nicht zur Überkompensation."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche Kombination nennt zwei Techniken, die Sie nutzen können, um eine Außenperspektive im Rahmen einer Stühledialog-Übung einzunehmen?",
+      "options": [
+        "Situationsanalyse & IDÜ",
+        "Containing & Validierung",
+        "Perspektivwechsel & Substitutionstechnik",
+        "Float-Back & Hot-Spot-Technik",
+        "Rescripting & Reprocessing"
+      ],
+      "answer": 2,
+      "explanation": "Die Außenperspektive im Stühledialog entsteht durch Perspektivwechsel (der Patient wechselt Stuhl und Rolle) und die Substitutionstechnik (eine andere Person bzw. ein Stellvertreter wird an die eigene Stelle gesetzt). Float-Back und Hot-Spot-Technik stammen aus EMDR bzw. der Traumakonfrontation, Rescripting und Reprocessing aus der Imaginations- und Traumaverarbeitung. Situationsanalyse und IDÜ sind Elemente von CBASP bzw. der Interaktionellen Übung, und Containing und Validierung sind Beziehungshaltungen, keine Perspektivwechsel-Techniken."
+    }
+  ]
+}
