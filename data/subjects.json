@@ -68,6 +68,27 @@
       "description": "Die 28 Fragen der Übungsklausur (Single-Choice-Version der Altklausur) 1:1 übernommen – Die drei Wellen, Achtsamkeit, Werte- und Entwicklungsquadrat, Schema & Modus, Grundbedürfnisse nach Grawe, Bewältigungsmodi und Modusmodell. Lösungen aus dem Abgleich dreier Altklausur-Kopien mit den Vorlesungsfolien; strittige Items sind im Fallen-Hinweis markiert."
     },
     {
+      "id": "ptv3-eingrenzung-achtsamkeit",
+      "file": "ptv3-eingrenzung-achtsamkeit.json",
+      "title": "Eingrenzung I – Wellen, Achtsamkeit & Metakognition",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Teil A der Themeneingrenzung: die drei Wellen der Verhaltenstherapie und die Treiber der dritten Welle, Grundprinzip der Achtsamkeit nach Kabat-Zinn, Metaperspektive vs. echte Achtsamkeit, Wirkprinzip der Wertneutralität, die fünf Wirkfaktoren und die metakognitive Therapie."
+    },
+    {
+      "id": "ptv3-eingrenzung-schema-modus",
+      "file": "ptv3-eingrenzung-schema-modus.json",
+      "title": "Eingrenzung II – Quadrat, Schema & Modus",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Teil B der Themeneingrenzung, erster Block: Werte- und Entwicklungsquadrat nach Helwig, adaptive Ressourcen und funktionale Gegenpole, Diathese-Stress-Modell, Herkunft des Schemabegriffs sowie die zentrale Unterscheidung Schema (trait, NEB) vs. Modus (state, NEM) und die Synergetik mit ihren Attraktoren."
+    },
+    {
+      "id": "ptv3-eingrenzung-beduerfnisse-modi",
+      "file": "ptv3-eingrenzung-beduerfnisse-modi.json",
+      "title": "Eingrenzung III – Grundbedürfnisse, Konsistenz & Modusmodell",
+      "subject": "Psychotherapieverfahren 3",
+      "description": "Teil B der Themeneingrenzung, zweiter Block: Grundbedürfnisse nach Grawe und Young, Konsistenz als übergeordnetes Bedürfnis, der Weg von der Inkongruenz zur Inkonsistenz, alloplastische und autoplastische Lösung, Schemaaktivierung und Symptombildung sowie die vier Modusgruppen."
+    },
+    {
       "id": "kan-angst-furcht",
       "file": "kan-angst-furcht.json",
       "title": "Furcht, Angst und Angststörungen",

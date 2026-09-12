@@ -1,0 +1,419 @@
+{
+  "id": "ptv3-eingrenzung-beduerfnisse-modi",
+  "title": "Eingrenzung III – Grundbedürfnisse, Konsistenz & Modusmodell",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "Teil B der Themeneingrenzung, zweiter Block: Grundbedürfnisse nach Grawe und Young, Konsistenz als übergeordnetes Bedürfnis, der Weg von der Inkongruenz zur Inkonsistenz, alloplastische und autoplastische Lösung, Schemaaktivierung und Symptombildung sowie die vier Modusgruppen.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Welches Bedürfnis gehört NICHT zu den vier emotionalen Grundbedürfnissen nach Grawe?",
+      "options": [
+        "Das Bedürfnis nach Bindung an eine zugewandte Bezugsperson",
+        "Das Bedürfnis nach Kontrolle und Orientierung",
+        "Das Bedürfnis nach Grenzsetzungen",
+        "Das Bedürfnis nach Lust bzw. Unlustvermeidung",
+        "Das Bedürfnis nach Selbstwerterhöhung bzw. Selbstwertschutz"
+      ],
+      "answer": 2,
+      "explanation": "Das Bedürfnis nach Grenzsetzungen ist die Ergänzung, die Young aus der Perspektive des Kindes zusätzlich aufnimmt – bei Grawe fehlt es, weil er nur die auch im Erwachsenenalter noch vorhandenen Bedürfnisse nennt. Bindung, Kontrolle und Orientierung, Selbstwerterhöhung und Lust bilden Grawes Viererliste, die er mit Bezug auf Epstein formuliert hat.",
+      "trap": "Vier bei Grawe, fünf bei Young – die Grenzsetzungen sind genau der Unterschied."
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Warum nennt Grawe das Bedürfnis nach Grenzsetzungen am ehesten nicht?",
+      "options": [
+        "Weil er nur die auch im Erwachsenenalter noch vorhandenen Bedürfnisse aufführt",
+        "Weil Grenzsetzungen in seinem Modell bereits vollständig im Bedürfnis nach Bindung an eine Bezugsperson enthalten sind",
+        "Weil Grenzsetzungen bei ihm als Bewältigungsreaktion und nicht als Bedürfnis gelten",
+        "Weil er das Modell ausschließlich auf Erwachsene mit Persönlichkeitsstörungen bezieht",
+        "Weil er die Vierzahl aus Gründen der Komplexitätsreduktion willkürlich gesetzt hat"
+      ],
+      "answer": 0,
+      "explanation": "Young bezieht das Bedürfnis nach Grenzsetzungen aus der Perspektive eines Kindes zusätzlich ein; Grawe nennt nur die auch im Erwachsenenalter noch vorhandenen Bedürfnisse. Eine Einordnung unter die Bindung oder als Bewältigungsreaktion findet sich nirgends, ebenso wenig eine Beschränkung auf Persönlichkeitsstörungen. Willkürlich gesetzt ist die Vierzahl gerade nicht – sie folgt dieser inhaltlichen Begründung."
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Welche Einteilung der Grundbedürfnisse übernimmt Roediger und warum?",
+      "options": [
+        "Youngs Fünfer-Systematik, weil sie die kindliche Entwicklungsperspektive vollständiger abbildet",
+        "Epsteins ursprüngliche Systematik, weil sie den historischen Ausgangspunkt bildet",
+        "Grawes Vierer-Einteilung, wegen ihrer weiten Verbreitung",
+        "Panksepps sieben Motivationssysteme, weil sie neurobiologisch fundiert sind",
+        "Die Zweiteilung in Bindung und Selbstbehauptung, weil sie am sparsamsten ist"
+      ],
+      "answer": 2,
+      "explanation": "Roediger übernimmt Grawes Vierer-Einteilung wegen ihrer weiten Verbreitung. Youngs Fünfer-Systematik und Panksepps sieben Motivationssysteme führt er an, macht sie aber nicht zur Grundlage. Die Zweiteilung in Bindung und Selbstbehauptung nutzt er zusätzlich im Sinne maximaler Komplexitätsreduktion, und Epstein steht als Bezugspunkt hinter Grawes Liste, nicht als eigene übernommene Systematik."
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Welche Aufzählung entspricht am ehesten der Grundbedürfnis-Liste, die die Folie im Schematherapie-Deck nennt?",
+      "options": [
+        "Vermeidung, Überkompensation und Erduldung",
+        "Bindung, Kontrolle und Orientierung, Selbstwerterhöhung und Lust bzw. Unlustvermeidung als vier gleichwertige Größen",
+        "SEEKING, RAGE, FEAR, LUST, CARE, PANIK und PLAY",
+        "Vulnerabilität, psychosoziale Risikofaktoren, Krisen und Kompetenzen",
+        "Sichere Bindung, Autonomie/Orientierung/Kontrolle, Selbstwerterhöhung, Spontaneität und Spiel, Konsistenzstreben"
+      ],
+      "answer": 4,
+      "explanation": "Die Folie im Deck listet die Young-nähere Variante mit sicherer Bindung, Autonomie/Orientierung/Kontrolle, Selbstwerterhöhung, Spontaneität und Spiel sowie Konsistenzstreben. Die Viererliste mit Lust bzw. Unlustvermeidung ist Grawes Systematik nach Epstein. Die sieben Großbuchstaben-Systeme stammen von Panksepp, die vier Komponenten vom Diathese-Stress-Modell und die drei Reaktionen von den Bewältigungsstilen.",
+      "hard": true
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Wie umschreibt Roediger das Grundbedürfnis nach Bindung am ehesten?",
+      "options": [
+        "Als vertrauensvolles, verlässliches, bedingungsloses Verbundensein – den „Klebstoff\" sozialer Systeme",
+        "Als Streben nach einem funktionalen Gleichgewicht aller Wünsche und Bedürfnisse",
+        "Als Wunsch, vor sich selbst und vor anderen Menschen gut dazustehen",
+        "Als Bedürfnis, die Spielregeln und Abläufe der Welt vorhersagen zu können",
+        "Als Fähigkeit, Nähe und Distanz in Beziehungen jeweils situationsangemessen und flexibel zu regulieren"
+      ],
+      "answer": 0,
+      "explanation": "Bindung bedeutet nach Roediger vertrauensvolles, verlässliches, bedingungsloses Verbundensein mit einer zugewandten Bezugsperson – er nennt sie den „Klebstoff in allen tragfähigen sozialen Systemen\". Die flexible Regulation von Nähe und Distanz ist die Beschreibung von Bindung in Balance, also bereits ein Konsistenzaspekt. Gut dastehen zu wollen ist die Selbstwerterhöhung, Vorhersagbarkeit die Kontrolle und Orientierung, und das Gleichgewicht aller Bedürfnisse die Konsistenz."
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Ein Patient erklärt, er müsse in Beziehungen immer wissen, wo die anderen gerade sind und was sie vorhaben, sonst halte er es nicht aus – und kontrolliere deshalb regelmäßig das Handy seiner Partnerin. Wie ist das im Sinne Roedigers am ehesten einzuordnen?",
+      "options": [
+        "Als autoplastische Lösung der Inkonsistenzspannung",
+        "Als Überkompensation des normalen Kontrollbedürfnisses",
+        "Als Ausdruck des gesunden Erwachsenenmodus",
+        "Als angemessene Ausprägung des Bedürfnisses nach Kontrolle und Orientierung",
+        "Als Ausdruck eines frustrierten Bedürfnisses nach Grenzsetzungen"
+      ],
+      "answer": 1,
+      "explanation": "Roediger zieht diese Abgrenzung ausdrücklich: Kontrolle meint nicht, dass andere bevormundet oder manipuliert werden – das wäre bereits die Überkompensation des normalen Kontrollbedürfnisses. Angemessen wäre Kontrolle im Sinne von Durchschaubarkeit und Vorhersagbarkeit; es genügt zu wissen, wann der Bus fährt. Grenzsetzungen sind Youngs Zusatzbedürfnis und hier nicht gemeint, eine autoplastische Lösung würde die eigenen Vorstellungen anpassen statt die Umwelt zu kontrollieren, und der gesunde Erwachsenenmodus zeichnet sich gerade durch Flexibilität aus.",
+      "hard": true,
+      "trap": "Kontrollbedürfnis heißt Durchschaubarkeit – andere zu kontrollieren ist schon die Überkompensation.",
+      "transfer": true
+    },
+    {
+      "topic": "Grundbedürfnisse",
+      "question": "Was meint das Grundbedürfnis nach Selbstwerterhöhung am ehesten?",
+      "options": [
+        "Alle eigenen Wünsche in einem funktionalen Gleichgewicht zu wissen",
+        "Die Anerkennung anderer Menschen notfalls auch gegen deren Widerstand durchzusetzen und abzusichern",
+        "Die Abläufe der Welt durchschauen und vorhersagen zu können",
+        "Sich bedingungslos mit einer zugewandten Bezugsperson verbunden zu fühlen",
+        "Vor sich und anderen gut dazustehen, verbunden mit einem Gefühl von Selbstwirksamkeit"
+      ],
+      "answer": 4,
+      "explanation": "Selbstwerterhöhung bzw. Selbstwertschutz meint das Bedürfnis, vor sich und anderen gut dazustehen, verbunden mit einem Gefühl von Selbstwirksamkeit. Anerkennung gegen Widerstand durchzusetzen wäre bereits eine überkompensierende Form. Das bedingungslose Verbundensein ist die Bindung, die Durchschaubarkeit der Welt die Kontrolle und Orientierung und das Gleichgewicht aller Wünsche die Konsistenz."
+    },
+    {
+      "topic": "Konsistenz",
+      "question": "Welche Stellung hat die Konsistenz nach Grawe im Gefüge der Grundbedürfnisse?",
+      "options": [
+        "Sie ist das wichtigste der vier gleichrangigen Grundbedürfnisse und hat bei Konflikten stets Vorrang",
+        "Sie ist ein Sonderfall des Bedürfnisses nach Kontrolle und Orientierung",
+        "Sie ist das übergeordnete Bedürfnis, in dem die anderen möglichst optimal ausbalanciert werden",
+        "Sie ist ein Merkmal des gesunden Erwachsenenmodus, aber kein Bedürfnis",
+        "Sie ist eine Bewältigungsreaktion auf frustrierte Grundbedürfnisse"
+      ],
+      "answer": 2,
+      "explanation": "Nach Grawe ist die Konsistenz das übergeordnete Bedürfnis, in dem die vier erstgenannten möglichst optimal ausbalanciert werden – sie steht also über ihnen, nicht neben ihnen. Als gleichrangiges Bedürfnis mit Vorrang oder als Unterfall der Kontrolle wäre sie falsch eingeordnet. Eine Bewältigungsreaktion ist sie nicht, und dass der gesunde Erwachsenenmodus sie praktisch beschreibt, macht sie nicht zum bloßen Modusmerkmal."
+    },
+    {
+      "topic": "Konsistenz",
+      "question": "Wie formuliert Roediger die Definition optimaler psychischer Gesundheit?",
+      "options": [
+        "Alle vier Grundbedürfnisse dauerhaft und gleichzeitig auf möglichst hohem Niveau befriedigt zu halten",
+        "Sich möglichst frei zwischen den Polen bewegen und diese flexibel ausbalancieren zu können",
+        "Die maladaptiven Schemata vollständig gelöscht zu haben",
+        "Inkongruenzspannung vollständig zu vermeiden",
+        "Die eigenen Bedürfnisse den Erwartungen der Umwelt zuverlässig anpassen zu können"
+      ],
+      "answer": 1,
+      "explanation": "Roedigers Gesundheitsdefinition lautet, sich möglichst frei zwischen diesen Polen bewegen und sie flexibel ausbalancieren zu können – es geht also um Beweglichkeit, nicht um Maximierung. Eine dauerhaft hohe Befriedigung aller Bedürfnisse verfehlt genau diesen Balancegedanken. Schemata lassen sich nach dem Attraktormodell nicht löschen, die zuverlässige Anpassung an die Umwelt ist die autoplastische Lösung, und Inkongruenzspannung ganz zu vermeiden ist weder möglich noch das Ziel."
+    },
+    {
+      "topic": "Konsistenz",
+      "question": "Roediger illustriert die Balance mit der Wendung „genießerisch versacken und trotzdem aufhören können, wenn es am schönsten ist\". Welches Grundbedürfnis in Balance beschreibt er damit am ehesten?",
+      "options": [
+        "Selbstwert",
+        "Bindung",
+        "Autonomie",
+        "Lust",
+        "Kontrolle und Orientierung"
+      ],
+      "answer": 3,
+      "explanation": "Genießen und trotzdem aufhören können beschreibt die Lust in Balance. Für den Selbstwert nennt Roediger das distanziert-rationale Betrachten, ohne im Elfenbeinturm zu versauern; für die Bindung das Zulassen von Nähe, ohne sich zu verlieren oder zu klammern; für Autonomie und Kontrolle die Selbstständigkeit, ohne die anderen zu verlieren oder zu dominieren.",
+      "transfer": true
+    },
+    {
+      "topic": "Konsistenz",
+      "question": "Auf welche zwei Grundpole reduziert Roediger die sieben Motivationssysteme nach Panksepp?",
+      "options": [
+        "Bindung und Selbstbehauptung",
+        "Alloplastische und autoplastische Lösung",
+        "Annäherung und Vermeidung als die beiden grundlegenden Richtungen jeder motivationalen Regung",
+        "Konsistenz und Inkonsistenz",
+        "Kindmodus und Elternmodus"
+      ],
+      "answer": 0,
+      "explanation": "Roediger arbeitet im Sinne maximaler Komplexitätsreduktion mit den zwei Grundpolen Bindung – liebevoll-entspannte Hinwendung, getragen von LUST, CARE und PLAY – und Selbstbehauptung – angespannt-selbstbezogen-kontrollorientiert, getragen von SEEKING, RAGE und FEAR; philosophisch entspricht das Bakans Communio und Actio. Annäherung und Vermeidung sind ein allgemeines motivationspsychologisches Begriffspaar, nicht seine Reduktion. Konsistenz und Inkonsistenz beschreiben den inneren Spannungszustand, allo- und autoplastisch die Lösungswege und Kind- und Elternmodus zwei Modusgruppen.",
+      "hard": true
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Was tut ein Kind nach Roediger, wenn die Umwelt rigide ist und eine Inkongruenzspannung entsteht?",
+      "options": [
+        "Es setzt seine eigenen Bedürfnisse gegen die Erwartungen der Eltern durch und nimmt den Konflikt in Kauf",
+        "Es zieht sich vollständig aus der Beziehung zu den Bezugspersonen zurück",
+        "Es entwickelt unmittelbar einen überkompensierenden Bewältigungsmodus",
+        "Es identifiziert sich mit den Aussagen und Erwartungen der übermächtigen Eltern",
+        "Es gleicht die Spannung durch eine alloplastische Veränderung der Umwelt aus"
+      ],
+      "answer": 3,
+      "explanation": "Ein Kind ist auf ein Minimum an Bindung und Kontrolle angewiesen; um die Spannung nicht zu groß werden zu lassen, identifiziert es sich mit den Aussagen und Erwartungen der übermächtigen Eltern. Sich durchzusetzen oder sich zurückzuziehen würde genau diese lebensnotwendige Beziehung gefährden. Die Umwelt alloplastisch zu verändern steht dem Kind gegenüber übermächtigen Eltern nicht offen, und die Bewältigungsmodi sind eine spätere Folge, nicht der erste Schritt."
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Welchen Satz formuliert Roediger für das Ergebnis dieser Identifikation?",
+      "options": [
+        "Dadurch verschwindet der Konflikt zwischen Kind und Bezugsperson vollständig",
+        "Dadurch entsteht unmittelbar ein maladaptives Schema ohne Zwischenschritt",
+        "Dadurch wird aus innerer Inkonsistenz eine äußere Inkongruenz",
+        "Dadurch werden aus intrapersonalen Konflikten dauerhaft tragfähige interpersonale Beziehungen",
+        "Dadurch werden aus interpersonalen Konflikten intrapersonale Konflikte"
+      ],
+      "answer": 4,
+      "explanation": "Roedigers Satz lautet: „Dadurch werden aus interpersonalen Konflikten intrapersonale Konflikte.\" Der Konflikt verschwindet also nicht, er wandert nach innen – deshalb ist auch die Behauptung eines vollständigen Verschwindens falsch. Die Richtung von innen nach außen kehrt die Kette um: Aus der äußeren Inkongruenz wird eine innere Inkonsistenz, nicht umgekehrt. Ein Schema entsteht in diesem Prozess, aber nicht ohne die beschriebenen Zwischenschritte."
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Wie unterscheiden sich Inkongruenz und Inkonsistenz am ehesten?",
+      "options": [
+        "Inkongruenz ist bewusst zugänglich, Inkonsistenz grundsätzlich unbewusst",
+        "Beide Begriffe bezeichnen denselben Sachverhalt in unterschiedlicher Terminologie",
+        "Inkongruenz liegt zwischen Person und Umwelt, Inkonsistenz zwischen den eigenen Bedürfnissen",
+        "Inkongruenz liegt zwischen den eigenen Bedürfnissen, Inkonsistenz zwischen der Person und ihrer Umwelt",
+        "Inkongruenz betrifft die Kindheit, Inkonsistenz ausschließlich das Erwachsenenalter"
+      ],
+      "answer": 2,
+      "explanation": "Die Inkongruenzspannung entsteht zwischen den Erwartungen der Eltern und den eigenen Bedürfnissen, also außen zwischen Person und Umwelt; durch das „Opfer\" der Identifikation wird daraus eine innere Inkonsistenz zwischen den eigenen Bedürfnissen. Die umgekehrte Zuordnung verfehlt genau diese Richtung. Eine Aufteilung nach Lebensalter oder nach Bewusstseinszugang steht nirgends, und synonym sind die Begriffe gerade nicht.",
+      "hard": true,
+      "trap": "Inkongruenz = außen (Person ↔ Umwelt), Inkonsistenz = innen (zwischen den eigenen Bedürfnissen)."
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Welchen Preis zahlt ein Kind, das sich mit den Erwartungen übermächtiger Eltern identifiziert?",
+      "options": [
+        "Bindung und Kontrolle können nicht mehr gesichert werden, weshalb die Beziehung zu den Eltern abreißt",
+        "Es entwickelt eine ich-dystone Haltung gegenüber den elterlichen Werten",
+        "Es entwickelt eine überkompensierende Haltung und dominiert später seine Partner",
+        "Selbstwerterhöhung und Lust müssen zurücktreten; es wirkt verfrüht erwachsen und „übersozialisiert\"",
+        "Es verliert die Fähigkeit, die Welt als vorhersagbar zu erleben"
+      ],
+      "answer": 3,
+      "explanation": "Der Preis ist genau benannt: Die Bedürfnisse nach Selbstwerterhöhung und Lust müssen zurücktreten oder dürfen nur im Rahmen der Umwelterwartungen verwirklicht werden; diese Kinder zeigen verfrüht Erwachsenenverhalten und sind „übersozialisiert\". Bindung und Kontrolle werden durch die Identifikation gerade gesichert, nicht verloren. Später neigen sie dazu, sich dominanten Partnern unterzuordnen statt zu dominieren; die Vorhersagbarkeit bleibt erhalten, und die übernommenen Werte werden ich-synton erlebt, nicht ich-dyston."
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Welcher Schritt ist nach Roediger für die Therapie der übernommenen elterlichen Bewertungen zentral?",
+      "options": [
+        "Diese übernommenen Bewertungen als genuin eigene Überzeugungen anzuerkennen und in das Selbstbild zu integrieren",
+        "Die Bedürfnisse nach Bindung und Kontrolle zu reduzieren",
+        "Diese übernommenen Bewertungen wieder ich-dyston zu machen",
+        "Die zugrunde liegenden Attraktoren vollständig zu löschen",
+        "Die Inkongruenzspannung zur Ursprungsfamilie erneut herzustellen"
+      ],
+      "answer": 2,
+      "explanation": "Die übernommenen Werte werden als ich-synton erlebt – die Person hält ihre eigene Unterordnung für ihre eigene Überzeugung. Sie wieder ich-dyston zu machen, also aus dem scheinbar Eigenen wieder etwas Fremdes, Betrachtbares zu machen, ist der zentrale Therapieschritt. Sie als genuin eigene anzuerkennen, wäre das genaue Gegenteil. Die alte Inkongruenzspannung wiederherzustellen ist kein Therapieziel, Attraktoren lassen sich nicht löschen, und die Grundbedürfnisse sollen ausbalanciert, nicht reduziert werden.",
+      "hard": true
+    },
+    {
+      "topic": "Inkongruenz → Inkonsistenz",
+      "question": "Eine Patientin schildert, dass sie in ihrer Ehe konsequent zurücksteckt, und fügt überzeugt hinzu, so sei sie eben und das sei auch richtig so. Wie ist ihr Erleben der eigenen Unterordnung am ehesten zu bezeichnen?",
+      "options": [
+        "Als ich-synton",
+        "Als bewusst gewählte alloplastische Lösung",
+        "Als Überkompensation ihres Kontrollbedürfnisses",
+        "Als Ausdruck des gesunden Erwachsenenmodus",
+        "Als ich-dyston, weil sie ihr Verhalten im Gespräch ausdrücklich thematisiert und benennt"
+      ],
+      "answer": 0,
+      "explanation": "Übernommene Werte werden als ich-synton erlebt, also als genuin zum Selbst gehörig – genau das zeigt ihre Überzeugung, das sei richtig so. Ich-dyston wäre es erst, wenn sie das Muster als fremd und fragwürdig erleben könnte; es zu benennen genügt dafür nicht. Eine alloplastische Lösung würde die Umwelt verändern, der gesunde Erwachsenenmodus wäre durch flexible Balance gekennzeichnet, und Überkompensation zeigte sich in Dominanz statt Zurückstecken.",
+      "transfer": true
+    },
+    {
+      "topic": "Zwei Wege zur Konsistenz",
+      "question": "Was kennzeichnet die alloplastische Lösung der Inkonsistenzspannung am ehesten?",
+      "options": [
+        "Die maladaptiven Schemata werden durch neue Lösungsschemata ersetzt",
+        "Die Spannung zwischen Ist- und Soll-Zustand wird dauerhaft ausgehalten",
+        "Die Grundbedürfnisse werden gegeneinander abgewogen und neu gewichtet",
+        "Die inneren Vorstellungen werden den Gegebenheiten der Welt angepasst und die Ziele entsprechend korrigiert",
+        "Die Welt wird den eigenen Vorstellungen angepasst – Zielerreichung auf hohem Aktivitätsniveau"
+      ],
+      "answer": 4,
+      "explanation": "Die alloplastische Lösung ist die Veränderung: Man verändert die Welt so, dass sie den eigenen Vorstellungen entspricht – Zielerreichung durch Veränderung und damit Konsistenz auf hohem Aktivitätsniveau. Das Anpassen der inneren Vorstellungen ist gerade die autoplastische Lösung. Dauerhaftes Aushalten der Spannung ist keiner der beiden Wege, das Abwägen der Grundbedürfnisse beschreibt die Konsistenz selbst, und Lösungsschemata gehören in die Schemaarbeit."
+    },
+    {
+      "topic": "Zwei Wege zur Konsistenz",
+      "question": "Wozu führt die autoplastische Lösung nach Grawes Konsistenztheorie am ehesten?",
+      "options": [
+        "Zur Zielerreichung durch Veränderung der äußeren Bedingungen und damit zu hoher Aktivität",
+        "Zur Akzeptanz durch Zielkorrektur und damit zu Konsistenz auf niedrigem Aktivitätsniveau",
+        "Zu dauerhaft bestehender Inkonsistenz, weil keine Seite nachgibt",
+        "Zu einem Wechsel vom Kindmodus in den gesunden Erwachsenenmodus",
+        "Zur vollständigen Auflösung der Inkongruenzspannung nach außen"
+      ],
+      "answer": 1,
+      "explanation": "Bei der autoplastischen Lösung passt man die inneren Vorstellungen der äußeren Welt an; das führt zur Akzeptanz durch Zielkorrektur und damit zu Konsistenz auf niedrigem Aktivitätsniveau. Die Zielerreichung durch Veränderung ist der alloplastische Weg. Inkonsistenz bleibt gerade nicht bestehen – beide Wege führen zu Konsistenz, sie unterscheiden sich nur darin, welche Seite nachgibt. Ein Moduswechsel ist damit nicht gemeint, und die äußere Situation bleibt unverändert."
+    },
+    {
+      "topic": "Zwei Wege zur Konsistenz",
+      "question": "Ein Mitarbeiter, der seine Arbeitsbedingungen nicht ändern kann, redet sich über Monate erfolgreich ein, dass ihm Aufstieg ohnehin nie wichtig gewesen sei. Welcher Weg zur Konsistenz liegt am ehesten vor?",
+      "options": [
+        "Eine Überkompensation seines Selbstwertbedürfnisses",
+        "Ein Wechsel in den strafenden Elternmodus",
+        "Eine Erhöhung der Inkongruenzspannung",
+        "Die autoplastische Lösung",
+        "Die alloplastische Lösung, weil er aktiv an seiner Situation arbeitet und sie neu bewertet"
+      ],
+      "answer": 3,
+      "explanation": "Er kann die äußere Situation nicht verändern und erzeugt Konsistenz, indem er die inneren Vorstellungen anpasst – Akzeptanz durch Zielkorrektur auf niedrigem Aktivitätsniveau, also die autoplastische Lösung. Alloplastisch wäre es nur, wenn er die Bedingungen selbst veränderte; eine bloße Neubewertung ist gerade keine Veränderung der Welt. Überkompensation zeigte sich in Selbsterhöhung oder Angriff, die Spannung wird aufgelöst statt erhöht, und ein Elternmodus ist in der Szene nicht beschrieben.",
+      "transfer": true,
+      "trap": "Nicht die Aktivität der Person entscheidet, sondern welche Seite nachgibt: Welt (allo) oder eigene Vorstellungen (auto)."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Welche Kette zeigt die Folie zur Schemaaktivierung und Symptombildung am ehesten?",
+      "options": [
+        "Schemaentstehung → Grundbedürfnisse des Kindes → internalisierte Erwartungen der Eltern → Symptom",
+        "Grundbedürfnisse des Kindes treffen auf internalisierte Erwartungen der Eltern → Schemaentstehung → Bewältigungsreaktionen",
+        "Inkonsistenz → Inkongruenz → Bewältigungsreaktion → Grundbedürfnis",
+        "Attraktorbildung → Kontrollparameter → Schemaentstehung → Modus",
+        "Diathese und Krise treffen aufeinander, daraus entsteht ein Modus, aus dem sich schließlich das zugehörige Schema verfestigt"
+      ],
+      "answer": 1,
+      "explanation": "Am Ausgangspunkt stehen die Grundbedürfnisse des Kindes – Bindung, Kontrolle, Selbstwert und Lust –, ihnen gegenüber die internalisierten Erwartungen der Eltern; aus dem Zusammentreffen entsteht die Schemaentstehung und daraus die drei Bewältigungsreaktionen. Diathese und Krise gehören zum Diathese-Stress-Modell, und ein Modus verfestigt sich nicht zum Schema, sondern ist dessen Aktivierung. Die übrigen Reihenfolgen kehren die Kette um: Schemata entstehen nicht vor den Bedürfnissen, Attraktoren bilden sich unter Kontrollparametern, und aus Inkongruenz wird Inkonsistenz, nicht umgekehrt."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Welchen Grundreaktionen im Tierreich entsprechen die drei Bewältigungsreaktionen?",
+      "options": [
+        "Eine Entsprechung zu Grundreaktionen im Tierreich wird nicht hergestellt",
+        "Alle drei entsprechen unterschiedlichen Abstufungen der Fluchtreaktion",
+        "Vermeidung = Flucht, Überkompensation = Kampf, Erduldung = Unterwerfung",
+        "Vermeidung = Kampf, Überkompensation = Unterwerfung, Erduldung = Flucht",
+        "Vermeidung = Unterwerfung, Überkompensation = Flucht, Erduldung = Kampf"
+      ],
+      "answer": 2,
+      "explanation": "Vermeidung entspricht der Flucht, Überkompensation dem Kampf und Erduldung bzw. Unterwerfung der Unterwerfungsreaktion – eine Zuordnung, die im Modusmodell wieder auftaucht und sich als Merkbrücke anbietet. Die vertauschten Varianten verfehlen genau diese Logik; dass alle drei Fluchtformen wären, widerspricht der Dreiteilung, und die Entsprechung wird ausdrücklich hergestellt.",
+      "hard": true
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Welcher der folgenden Typen gehört NICHT zu den vier Typen früher Erlebnisse, die zur Schemaentwicklung beitragen?",
+      "options": [
+        "Die verzögerte Ausbildung der Objektpermanenz im zweiten Lebensjahr",
+        "Selektive Internalisierung oder Identifizierung mit den Bezugspersonen",
+        "„Zuviel des Guten\" durch die Bezugspersonen",
+        "Traumatisierung und Viktimisierung in der Kindheit",
+        "Die schädigende Nichterfüllung kindlicher Grundbedürfnisse"
+      ],
+      "answer": 0,
+      "explanation": "Die Objektpermanenz wird im Zusammenhang mit dem Still-Face-Experiment behandelt, steht aber nicht auf der Liste der vier Typen früher Erlebnisse. Diese umfasst die schädigende Nichterfüllung von Bedürfnissen, Traumatisierung und Viktimisierung, „zuviel des Guten\" sowie die selektive Internalisierung bzw. Identifizierung mit Bezugspersonen."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Welche Schemata können nach der Vorlesung aus „zuviel des Guten\" hervorgehen?",
+      "options": [
+        "Misstrauen, Scham und Anfälligkeit für Krankheit",
+        "Abhängigkeit und Inkompetenz oder überhöhte Standards und Grandiosität",
+        "Unterwerfung, Vermeidung und Überkompensation",
+        "Bindung, Kontrolle, Selbstwert und Lust",
+        "Emotionale Entbehrung und Verlassenheit als Folge fehlender verlässlicher Zuwendung"
+      ],
+      "answer": 1,
+      "explanation": "Der überraschende Punkt der Liste ist, dass nicht nur Mangel schadet, sondern auch das Übermaß: Aus „zuviel des Guten\" können Abhängigkeit und Inkompetenz oder überhöhte Standards und Grandiosität entstehen. Emotionale Entbehrung und Verlassenheit gehen auf die schädigende Nichterfüllung von Bedürfnissen zurück, Misstrauen, Scham und Krankheitsanfälligkeit auf Traumatisierung und Viktimisierung. Unterwerfung, Vermeidung und Überkompensation sind Bewältigungsreaktionen, und die vier Grundbedürfnisse sind keine Schemata.",
+      "hard": true,
+      "trap": "Nicht nur Mangel erzeugt Schemata – auch Verwöhnung und Überförderung gehören zur Liste."
+    },
+    {
+      "topic": "Schemaaktivierung & Symptombildung",
+      "question": "Ein Patient reagiert auf Kritik regelmäßig damit, dass er seinerseits sofort die Kompetenz seines Gegenübers infrage stellt und laut wird. Welche Bewältigungsreaktion liegt am ehesten vor?",
+      "options": [
+        "Eine autoplastische Lösung der Inkonsistenzspannung",
+        "Vermeidung",
+        "Keine der drei Bewältigungsreaktionen",
+        "Erduldung, weil er die Kritik zwar unter Protest, aber letztlich doch entgegennimmt",
+        "Überkompensation"
+      ],
+      "answer": 4,
+      "explanation": "Der Gegenangriff entspricht dem Kampf und damit der Überkompensation – das Schema wird in sein Gegenteil gewendet. Erduldung bzw. Unterwerfung hieße, die Kritik anzunehmen und sich anzupassen; Protest im Angriff ist gerade das Gegenteil. Vermeidung zeigte sich in Rückzug oder Abschalten, eine autoplastische Lösung im Anpassen der eigenen Vorstellungen – und da Überkompensation zutrifft, greift die Ausschlussoption nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche Aussage zum Kindmodus trifft NICHT zu?",
+      "options": [
+        "Er ist vorwiegend traurig, einsam, wütend oder impulsiv",
+        "Er wird durch die Aktivierung von Schemata zuerst innerlich erlebbar",
+        "Er enthält die primären Affekte einschließlich nicht sozialisierter Erfahrungen wie Scham und Schuld",
+        "Er wird im Regelfall nicht direkt beobachtet, sondern über das Verhalten erschlossen",
+        "Er umfasst ausschließlich leidvolle Zustände, weshalb glückliche Anteile ihm nicht zugeordnet werden"
+      ],
+      "answer": 4,
+      "explanation": "Der Kindmodus ist vorwiegend traurig, einsam, wütend oder impulsiv – er kann aber ausdrücklich auch glücklich sein; hier steckt also nicht nur Leid, sondern auch Lebendigkeit. Die primären Affekte samt nicht sozialisierter Erfahrungen wie Scham und Schuld, das vorwiegend belastete Erleben, die indirekte Erschließung und die innere Aktivierung durch Schemata treffen dagegen alle zu."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Eine Patientin sagt mitten in der Sitzung über sich selbst: „Reiß dich zusammen, andere haben es viel schwerer.\" Welcher Modus meldet sich hier am ehesten zu Wort?",
+      "options": [
+        "Ein dysfunktionaler Bewältigungsmodus",
+        "Der Kindmodus",
+        "Keiner der Modi des Modusmodells",
+        "Der Elternmodus",
+        "Der gesunde Erwachsenenmodus, weil sie ihre Lage realistisch mit der anderer Menschen vergleicht"
+      ],
+      "answer": 3,
+      "explanation": "Die Botschaft ist eine internalisierte Stimme aus der Kernfamilie in ihrer strafend-wertenden bzw. fordernden Ausprägung – das ist der Elternmodus. Der gesunde Erwachsenenmodus würde die eigenen Bedürfnisse und Grenzen reflektieren, statt sie abzuwerten; ein Vergleich als Selbstabwertung ist nicht realistisch, sondern entwertend. Der Kindmodus enthält die primären Affekte, ein Bewältigungsmodus zeigte sich im Verhalten, und da ein Modus zutrifft, greift die Ausschlussoption nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Was kennzeichnet die dysfunktionalen Bewältigungsmodi am ehesten?",
+      "options": [
+        "Sie umfassen die primären, nicht sozialisierten Affekte der Person",
+        "Sie kennzeichnen das beobachtbare Verhalten und den Umgang mit inneren Konflikten",
+        "Sie enthalten die internalisierten Botschaften aus der Kernfamilie in strafender oder fordernder Form",
+        "Sie sind im Gegensatz zu den übrigen Modi nur indirekt erschließbar",
+        "Sie beschreiben den Zielzustand der schematherapeutischen Arbeit"
+      ],
+      "answer": 1,
+      "explanation": "Unterwerfung, Flucht bzw. Vermeidung und Kampf bzw. Überkompensation kennzeichnen das beobachtbare Verhalten und sind Ausdruck des Umgangs mit inneren Konflikten – genau sie sieht man in der Therapie zuerst. Die internalisierten Botschaften gehören zum Elternmodus, die primären Affekte zum Kindmodus, der Zielzustand zum gesunden Erwachsenenmodus. Indirekt erschließbar sind gerade die anderen Modusgruppen, nicht diese."
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Ein Patient kann im Streit inzwischen innehalten, benennen, was ihn gerade trifft, und entscheiden, wie er reagieren möchte. Welcher Modus zeigt sich hier am ehesten?",
+      "options": [
+        "Der Kindmodus in seiner glücklichen Ausprägung",
+        "Ein dysfunktionaler Bewältigungsmodus in seiner abgemilderten, sozial angepassten Form",
+        "Der fordernde Elternmodus",
+        "Der gesunde Erwachsenenmodus",
+        "Ein Mischzustand, der sich dem Modusmodell nicht zuordnen lässt"
+      ],
+      "answer": 3,
+      "explanation": "Umgang mit Emotionen, Reflexion der eigenen Bedürfnisse, Möglichkeiten und Grenzen sowie bewusstes Handeln nach eigenen Werten und Zielen beschreiben den gesunden Erwachsenenmodus – genau das zeigt die Szene. Ein Bewältigungsmodus würde das Erleben abschneiden, unterwerfen oder angreifen, statt es zu reflektieren. Der fordernde Elternmodus würde bewerten, der Kindmodus im Affekt bleiben, und die Zuordnung ist hier gerade eindeutig möglich.",
+      "transfer": true
+    },
+    {
+      "topic": "Das Modusmodell",
+      "question": "Welche themenübergreifende Verknüpfung stellt die Vorlesung zwischen dem gesunden Erwachsenenmodus und den vorangegangenen Konzepten her?",
+      "options": [
+        "Er beschreibt praktisch das, was Grawe Konsistenz nennt; Achtsamkeit ist die Haltung, aus der das möglich wird",
+        "Er entspricht der autoplastischen Lösung, weil beide auf Akzeptanz beruhen",
+        "Er entspricht der adaptiven Ressource im Werte- und Entwicklungsquadrat und damit dem Ausgangspunkt jeder Störungsentwicklung",
+        "Er entspricht der Metaperspektive, weil beide das Nachdenken über das eigene Erleben verlangen",
+        "Er entspricht dem Attraktor, der einer Persönlichkeitsstörung zugrunde liegt"
+      ],
+      "answer": 0,
+      "explanation": "Der gesunde Erwachsenenmodus ist praktisch die Beschreibung dessen, was Grawe Konsistenz nennt – die Fähigkeit, sich zwischen den Grundbedürfnissen frei zu bewegen und sie flexibel auszubalancieren; Achtsamkeit ist genau die Haltung, aus der heraus das möglich wird, weil man seine Modi als Modi wahrnimmt, statt in ihnen aufzugehen. Die adaptive Ressource ist der Ausgangspunkt des Quadrats, nicht der Zielmodus, und der Attraktor entspricht dem Schema bzw. den automatisierten Bewältigungsreaktionen. Die Metaperspektive bleibt im Denken über das Denken stehen, und die autoplastische Lösung ist nur einer von zwei Wegen zur Konsistenz.",
+      "hard": true
+    }
+  ]
+}

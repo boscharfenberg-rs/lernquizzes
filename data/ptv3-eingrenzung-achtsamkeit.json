@@ -1,0 +1,419 @@
+{
+  "id": "ptv3-eingrenzung-achtsamkeit",
+  "title": "Eingrenzung I – Wellen, Achtsamkeit & Metakognition",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "Teil A der Themeneingrenzung: die drei Wellen der Verhaltenstherapie und die Treiber der dritten Welle, Grundprinzip der Achtsamkeit nach Kabat-Zinn, Metaperspektive vs. echte Achtsamkeit, Wirkprinzip der Wertneutralität, die fünf Wirkfaktoren und die metakognitive Therapie.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Die drei Wellen",
+      "question": "Worauf richtete die behaviorale Phase – die erste Welle der Verhaltenstherapie – ihren Blick am ehesten?",
+      "options": [
+        "Auf das beobachtbare Verhalten",
+        "Auf Gedanken und Bewertungen als eigenständige Größe",
+        "Auf unbewusste innerseelische Konflikte, die über die Introspektion erschlossen werden",
+        "Auf Achtsamkeit und Akzeptanz des Erlebens",
+        "Auf die therapeutische Beziehung als Wirkfaktor"
+      ],
+      "answer": 0,
+      "explanation": "Die erste Welle entstand aus der Anwendung von Lerntheorien und beschränkte sich bewusst auf beobachtbares Verhalten; alles Innere galt als methodisch nicht zugänglich. Gedanken und Bewertungen wurden erst mit der kognitiven Wende zum eigenständigen Ansatzpunkt, Achtsamkeit und Akzeptanz erst mit der dritten Welle. Unbewusste Konflikte und die Introspektion gehören zur Psychoanalyse, gegen die sich die erste Welle gerade scharf abgrenzte, und die therapeutische Beziehung zählt zu den komplexen Konstrukten, deren schlechte Messbarkeit später ein Treiber der dritten Welle wurde."
+    },
+    {
+      "topic": "Die drei Wellen",
+      "question": "Woran entzündete sich die scharfe Abgrenzung der ersten Welle gegenüber der Psychoanalyse am ehesten?",
+      "options": [
+        "An der Bevorzugung individualisierter statt standardisierter Therapierationale",
+        "An der Behauptung einer vergleichbaren Wirksamkeit aller Schulen",
+        "Am Erkenntnisweg über die Introspektion",
+        "An der Integration von Akzeptanz- und Achtsamkeitsübungen",
+        "An der Annahme, dass Gedanken die Realität nicht unmittelbar abbilden können"
+      ],
+      "answer": 2,
+      "explanation": "Die Psychoanalyse gewann ihre Erkenntnisse über die Introspektion; genau dieser Weg galt der behavioralen Phase als methodisch unzugänglich und damit wissenschaftlich uninteressant. Die Frage der Realitätsabbildung von Gedanken gehört in die kognitive bzw. achtsamkeitsbasierte Linie. Individualisierte versus standardisierte Rationale, Akzeptanz- und Achtsamkeitsübungen und die vergleichbare Wirksamkeit der Schulen sind allesamt Themen, die erst im Zusammenhang mit der dritten Welle auftauchen."
+    },
+    {
+      "topic": "Die drei Wellen",
+      "question": "Welche Aussage zur zweiten Welle der Verhaltenstherapie trifft NICHT zu?",
+      "options": [
+        "Mit der kognitiven Wende verschob sich der Schwerpunkt von der Verhaltensänderung auf die Kognitionen",
+        "Gedanken und Bewertungen erhielten in ihr eine eigenständige Bedeutung",
+        "Kognitive Elemente wurden als zusätzlicher Ansatzpunkt in die Verhaltenstherapie integriert",
+        "Sie beruht auf der Erkenntnis, dass nicht die Situation selbst, sondern ihre Interpretation die Reaktion bestimmt",
+        "Sie ist in Deutschland bis heute weit verbreitet und gut erforscht"
+      ],
+      "answer": 0,
+      "explanation": "Das ist die Feinheit, auf die es ankommt: Die kognitiven Elemente wurden integriert, der Schwerpunkt blieb aber auf der Verhaltensänderung – Kognitionen waren ein zusätzlicher Ansatzpunkt, nicht das Zentrum. Dass die Interpretation und nicht die Situation die Reaktion bestimmt, dass Gedanken eigenständige Bedeutung bekamen und dass kognitive Elemente ergänzend integriert wurden, beschreibt die kognitive Wende korrekt. Die weite Verbreitung und gute Erforschung im deutschen Sprachraum hält die Vorlesung ebenfalls ausdrücklich fest.",
+      "hard": true,
+      "trap": "Die zweite Welle nimmt Kognitionen dazu – sie macht sie nicht zum neuen Schwerpunkt."
+    },
+    {
+      "topic": "Die drei Wellen",
+      "question": "Was ist am ehesten das gemeinsame Kennzeichen der Ansätze der dritten Welle?",
+      "options": [
+        "Die Beschränkung auf messbare, eng operationalisierte Konstrukte",
+        "Die konsequente Standardisierung des Vorgehens über alle Patientengruppen hinweg",
+        "Die Integration von Achtsamkeit und Akzeptanz",
+        "Der Verzicht auf jede Arbeit mit Kognitionen",
+        "Die Rückbindung der Symptomatik an frühkindliche Triebkonflikte"
+      ],
+      "answer": 2,
+      "explanation": "Als gemeinsames Kennzeichen nennt die Vorlesung die Integration von Achtsamkeit und Akzeptanz sowie die Berücksichtigung unterschiedlicher Patientengruppen. Genau deshalb ist die Standardisierung über alle Gruppen hinweg das Gegenteil des Gemeinten – die Frage individualisierter statt standardisierter Rationale war ein Treiber der Entwicklung. Kognitionen werden nicht aufgegeben, sondern anders behandelt, frühkindliche Triebkonflikte sind psychoanalytisch, und die Beschränkung auf eng Messbares kennzeichnet gerade die Begrenzung, an der sich die dritte Welle abarbeitet."
+    },
+    {
+      "topic": "Die drei Wellen",
+      "question": "Welche Ansätze nennt die Vorlesung als Vertreter der dritten Welle?",
+      "options": [
+        "Psychoanalyse, tiefenpsychologisch fundierte Therapie und Objektbeziehungstheorie",
+        "Schematherapie, Dialektisch-Behaviorale Therapie und Akzeptanz- und Commitmenttherapie",
+        "Rational-Emotive Therapie, kognitive Therapie nach Beck und das Stressimpfungstraining",
+        "Systematische Desensibilisierung, Token-Programme und operante Verfahren",
+        "Gesprächspsychotherapie, Gestalttherapie und systemische Familientherapie"
+      ],
+      "answer": 1,
+      "explanation": "Ausdrücklich genannt werden Schematherapie, DBT und ACT. Rational-Emotive Therapie, kognitive Therapie nach Beck und Stressimpfungstraining sind Verfahren der zweiten Welle, systematische Desensibilisierung und operante Programme gehören zur ersten. Gesprächspsychotherapie, Gestalt- und Systemtherapie sind eigenständige Schulen außerhalb des Wellenmodells, ebenso die psychoanalytisch-tiefenpsychologische Linie."
+    },
+    {
+      "topic": "Die drei Wellen",
+      "question": "Welche Aussage gibt die Debatte „Dritte Welle oder Evolution?\" am ehesten korrekt wieder?",
+      "options": [
+        "Die neuen Ansätze werden vor allem wegen ihrer engen Operationalisierbarkeit geschätzt",
+        "Der Wellencharakter der neuen Ansätze gilt inzwischen als gesichert und wird in der Fachliteratur einhellig so eingeordnet",
+        "Die Debatte dreht sich um die Frage, ob Achtsamkeit ihre buddhistischen Wurzeln verleugnet",
+        "Ob es sich um eine eigene Welle handelt, ist umstritten; die neuen Ansätze werden nicht von allen freudig aufgenommen",
+        "Strittig ist allein, ob die zweite Welle jemals eine eigenständige Phase war"
+      ],
+      "answer": 3,
+      "explanation": "Die Folie hält ausdrücklich fest, dass der Wellenstatus umstritten ist und die dritte Welle nicht von allen freudig aufgenommen wird; betont werden in den neuen Ansätzen die kontextuellen und experientiellen Aspekte. Eine einhellige Einordnung gibt es gerade nicht. Die Frage der buddhistischen Wurzeln und die der zweiten Welle sind nicht Gegenstand dieser Debatte, und enge Operationalisierbarkeit ist das Merkmal, dessen Grenzen die neuen Ansätze überhaupt erst motiviert haben."
+    },
+    {
+      "topic": "Treiber der dritten Welle",
+      "question": "Welcher der folgenden Gründe für die Entstehung der dritten Welle wird in der Vorlesung NICHT genannt?",
+      "options": [
+        "Die Erkenntnis, dass es in anderen Therapieschulen sinnvolle Konzepte gibt",
+        "Der Nachweis, dass verhaltenstherapeutische Verfahren den übrigen Schulen deutlich überlegen sind",
+        "Die Frage nach individualisierten gegenüber standardisierten Therapierationalen",
+        "Der therapeutische Wunsch nach einer weniger mechanistischen und reduktionistischen Arbeitsweise mit Patienten",
+        "Die eingeschränkte Messbarkeit komplexerer psychischer Konstrukte"
+      ],
+      "answer": 1,
+      "explanation": "Die Vorlesung nennt das Gegenteil: Kontrolliert man für methodische Unzulänglichkeiten, zeigt sich eine vergleichbare Wirksamkeit zwischen den Schulen – und gerade das entzieht Überlegenheitsansprüchen den Boden. Der Wunsch nach weniger mechanistischer Arbeitsweise, die eingeschränkte Messbarkeit komplexer Konstrukte, die Frage individualisierter versus standardisierter Rationale und die Anerkennung sinnvoller Konzepte anderer Schulen gehören dagegen zur Fünferliste."
+    },
+    {
+      "topic": "Treiber der dritten Welle",
+      "question": "Welche Konstrukte nennt die Vorlesung als Beispiele für die eingeschränkte Messbarkeit, die zur dritten Welle beitrug?",
+      "options": [
+        "Neuronale Erregungsbereitschaft, Attraktorstärke und Kontrollparameter",
+        "Diathese, psychosoziale Risikofaktoren, Krisen und Kompetenzen",
+        "Kontrafaktisches Denken, retrograde Logik und Bedrohungsmonitoring",
+        "Therapeutische Beziehung, Bindungswunsch, Selbstaufmerksamkeit und Emotionen",
+        "Reaktionszeiten, Vermeidungshäufigkeit, Expositionsdauer und Symptomprotokolle"
+      ],
+      "answer": 3,
+      "explanation": "Genannt werden therapeutische Beziehung, Bindungswunsch, Selbstaufmerksamkeit und Emotionen – Größen, die sich nicht so sauber operationalisieren lassen wie beobachtbares Verhalten. Reaktionszeiten, Vermeidungshäufigkeit und Symptomprotokolle sind gerade die gut messbaren Gegenbeispiele. Erregungsbereitschaft und Attraktoren gehören zur Schematherapie, die metakognitiven Prozesse zur metakognitiven Therapie und die vier Komponenten zum Diathese-Stress-Modell."
+    },
+    {
+      "topic": "Treiber der dritten Welle",
+      "question": "Mit welchem Modell wird die ACT in der Vorlesung am Rande erwähnt?",
+      "options": [
+        "Mit den drei Merkmalen des achtsamen Geisteszustands",
+        "Mit den fünf allgemeinen Wirkfaktoren der Achtsamkeit nach der Wirkfaktorenfolie",
+        "Mit den vier Modusgruppen des Modusmodells",
+        "Mit den sieben neurobiologischen Motivationssystemen",
+        "Mit den sechs Kernprozessen im HexaFlex"
+      ],
+      "answer": 4,
+      "explanation": "Die ACT wird mit ihren sechs Kernprozessen im HexaFlex genannt. Die fünf Wirkfaktoren gehören zur allgemeinen Achtsamkeitsfolie und nicht zur ACT, die drei Merkmale stammen von Kabat-Zinn. Die vier Modusgruppen sind Teil des schematherapeutischen Modusmodells, die sieben Motivationssysteme stammen von Panksepp und werden von Roediger angeführt."
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Welche Formulierung gibt die Arbeitsdefinition der Achtsamkeit aus der Vorlesung am ehesten wieder?",
+      "options": [
+        "Die Aufmerksamkeit so lenken, dass belastende Gedanken und Gefühle möglichst rasch an Intensität verlieren",
+        "Das eigene Erleben systematisch von außen betrachten und gedanklich einordnen",
+        "Die Aufmerksamkeit bewusst auf den aktuellen Moment lenken, mit offener und akzeptierender Grundhaltung",
+        "Die Aufmerksamkeit auf die Ursachen des eigenen Grübelns richten",
+        "Dysfunktionale Gedanken identifizieren und durch funktionalere ersetzen"
+      ],
+      "answer": 2,
+      "explanation": "Die Arbeitsdefinition lautet, die Aufmerksamkeit bewusst auf den aktuellen Moment zu lenken – mit einer offenen und akzeptierenden Grundhaltung gegenüber eigenen Erfahrungen, Gedanken und Gefühlen. Das rasche Abschwächen unangenehmer Zustände widerspricht direkt dem Merkmal, den Drang zur schnellen Veränderung zu vermeiden. Das Betrachten von außen und das gedankliche Einordnen ist die Metaperspektive, das Ersetzen dysfunktionaler Gedanken die klassische kognitive Therapie, und die Ursachensuche beim Grübeln ist selbst eine Form des Grübelns."
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Welches der folgenden Merkmale gehört NICHT zu den drei Merkmalen des achtsamen Geisteszustands nach Kabat-Zinn?",
+      "options": [
+        "Die Ausrichtung der Aufmerksamkeit auf den gegenwärtigen Moment",
+        "Der Verzicht auf eine Wertung der Erfahrungen",
+        "Keines der genannten Merkmale gehört dazu",
+        "Die bewusste und absichtsvolle Ausrichtung der Aufmerksamkeit auf die Erfahrung",
+        "Erhöhte Wachheit gegenüber sich ändernden Gedanken, Gefühlen und Empfindungen"
+      ],
+      "answer": 4,
+      "explanation": "Die erhöhte Wachheit gehört zu den Eigenschaften des achtsamen Zustands – also zu dem, was sich einstellt –, nicht zu den drei Merkmalen, die beschreiben, was man tut. Gegenwärtiger Moment, absichtsvolle Ausrichtung und Wertungsverzicht sind genau diese drei Merkmale. Da eines der aufgeführten Merkmale tatsächlich nicht dazugehört, greift die Ausschlussoption nicht.",
+      "hard": true,
+      "trap": "Drei Merkmale (was man tut) und Eigenschaften des Zustands (was sich einstellt) sind zwei getrennte Listen."
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Eine Patientin berichtet, sie sei beim Spaziergang „plötzlich ganz im Moment gewesen\", ohne es beabsichtigt zu haben. Wie ist das im Sinne von Kabat-Zinn am ehesten einzuordnen?",
+      "options": [
+        "Es handelt sich um Metaperspektive, weil sie über ihr Erleben berichtet",
+        "Es fehlt der Gegenwartsbezug, weil ein Spaziergang keine formale Übung ist",
+        "Es fehlt das Merkmal des Wertungsverzichts, weil sie ihr Erleben bereits als besonders bewertet",
+        "Es fehlt das Merkmal der absichtsvollen Ausrichtung der Aufmerksamkeit",
+        "Es handelt sich um vollständige Achtsamkeit, da alle drei Merkmale erfüllt sind"
+      ],
+      "answer": 3,
+      "explanation": "Achtsamkeit ist nach Kabat-Zinn kein Zustand, in den man zufällig gerät, sondern einer, den man aktiv herstellt – „on purpose\". Genau dieses Merkmal fehlt hier. Der Gegenwartsbezug ist dagegen erfüllt, und Achtsamkeit ist nicht an eine formale Übung gebunden. Von Wertung ist in der Szene keine Rede, und ein bloßer Bericht im Nachhinein macht das Erleben selbst noch nicht zur Metaperspektive.",
+      "transfer": true
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Welche Aussage gehört NICHT zu den Eigenschaften des achtsamen Zustands?",
+      "options": [
+        "Ein subjektives Gefühl von Präsenz und Lebendigkeit in der Gegenwart",
+        "Der Verzicht auf komplexe Gedanken über die Erfahrungen",
+        "Der Drang, unangenehme gegenwärtige Erfahrungen rasch zu verändern",
+        "Ein direkter, offener und mitfühlender Kontakt mit dem aktuellen Geschehen",
+        "Erhöhte Wachheit gegenüber sich ändernden Gedanken, Gefühlen und Empfindungen"
+      ],
+      "answer": 2,
+      "explanation": "Die Liste nennt ausdrücklich die Vermeidung des Drangs, gegenwärtige Erfahrungen schnell zu ändern – der Drang selbst ist also das Gegenteil einer Eigenschaft des achtsamen Zustands. Präsenz und Lebendigkeit, der direkte und mitfühlende Kontakt, der Verzicht auf komplexe Gedanken und die erhöhte Wachheit stehen alle auf dieser Liste.",
+      "hard": true
+    },
+    {
+      "topic": "Grundprinzip der Achtsamkeit",
+      "question": "Welche beiden Eigenschaften des achtsamen Zustands tragen am ehesten die Unterscheidung zwischen Metaperspektive und echter Achtsamkeit?",
+      "options": [
+        "Mitfühlender Kontakt mit dem Geschehen und Schulung der Aufmerksamkeit",
+        "Frühzeitiges Erkennen von Aufschaukelungsprozessen und Disidentification",
+        "Verzicht auf komplexe Gedanken und Vermeidung des Veränderungsdrangs",
+        "Erhöhte Wachheit gegenüber Gedanken und subjektives Gefühl von Präsenz und Lebendigkeit",
+        "Absichtsvolle Ausrichtung und Verzicht auf Wertung der Erfahrungen"
+      ],
+      "answer": 2,
+      "explanation": "Genau der Verzicht auf komplexe Gedanken über die Erfahrung und die Vermeidung des Drangs, sie schnell zu ändern, markieren den Unterschied: Wer über sein Erleben nachdenkt oder es sofort korrigieren will, ist in der Metaperspektive. Wachheit und Präsenzgefühl beschreiben den Zustand, unterscheiden ihn aber nicht von der Metaperspektive. Absichtsvolle Ausrichtung und Wertungsverzicht gehören zu den drei Merkmalen, und Aufmerksamkeitsschulung, Aufschaukelungserkennen und Disidentification sind Wirkfaktoren.",
+      "hard": true
+    },
+    {
+      "topic": "Metaperspektive vs. echte Achtsamkeit",
+      "question": "Was kennzeichnet die Metaperspektive am ehesten?",
+      "options": [
+        "Man geht vollständig in dem jeweiligen Gedanken auf, ohne jeden Abstand zu ihm zu gewinnen",
+        "Man denkt über die eigenen Gedanken nach und bleibt damit in einem kognitiven Vorgang",
+        "Man tritt in direkten Kontakt mit dem Erleben, ohne es gedanklich zu übersetzen",
+        "Man ersetzt dysfunktionale Gedanken durch realitätsangemessenere Bewertungen",
+        "Man unterdrückt aufkommende Gedanken, sobald man sie bemerkt, und lenkt sich ab"
+      ],
+      "answer": 1,
+      "explanation": "Metaperspektive heißt, das eigene Erleben von außen zu betrachten und über die eigenen Gedanken nachzudenken – man analysiert, ordnet ein, kommentiert und bleibt damit im Modus des Denkens über das Denken. Der direkte Kontakt ohne gedankliche Übersetzung ist gerade die echte Achtsamkeit. Gedankenunterdrückung ist das Gegenteil der annehmenden Haltung, das Ersetzen von Gedanken ist klassische kognitive Therapie, und das vollständige Aufgehen im Gedanken ist der Zustand, gegenüber dem die Metaperspektive bereits ein Fortschritt ist.",
+      "trap": "Metaperspektive ist ein Fortschritt gegenüber dem Aufgehen im Gedanken – aber noch nicht echte Achtsamkeit."
+    },
+    {
+      "topic": "Metaperspektive vs. echte Achtsamkeit",
+      "question": "Was ist mit „echter Achtsamkeit\" im Unterschied zur Metaperspektive am ehesten gemeint?",
+      "options": [
+        "Das möglichst genaue Durchschauen und gedankliche Einordnen der eigenen Erlebensmuster",
+        "Das Aushalten unangenehmer Zustände, bis sie von selbst nachlassen",
+        "Das Bewerten der Erfahrung nach ihrer Nützlichkeit für die Therapie",
+        "Das planvolle Verändern der Bedingungen, unter denen das Erleben auftritt",
+        "Der direkte, unmittelbare Kontakt mit dem Erleben ohne komplexe Gedanken darüber"
+      ],
+      "answer": 4,
+      "explanation": "Echte Achtsamkeit ist der direkte, unmittelbare Kontakt mit dem Erleben, ohne es in Gedanken zu übersetzen – es geht nicht darum, das Erleben besser zu durchschauen, sondern es überhaupt nicht mehr zu analysieren. Das Durchschauen und Einordnen ist genau die Metaperspektive. Das Verändern der Bedingungen steht dem Verzicht auf den Veränderungsdrang entgegen, bloßes Aushalten ist noch keine annehmende Haltung, und jede Bewertung nach Nützlichkeit verstößt gegen das Merkmal des Wertungsverzichts."
+    },
+    {
+      "topic": "Metaperspektive vs. echte Achtsamkeit",
+      "question": "Ein Patient kann nach einigen Sitzungen präzise beschreiben, welche Gedankenketten sein Grübeln auslösen, und kommentiert während der Übung laufend, was gerade in ihm abläuft. Wie ist das am ehesten einzuordnen?",
+      "options": [
+        "Als Metaperspektive, weil er weiterhin über seine Gedanken nachdenkt",
+        "Als echte Achtsamkeit, weil er den Kontakt zum gegenwärtigen Erleben bereits hergestellt hat",
+        "Als Übergang vom „Doing\" zum „Being\", weil er nicht mehr eingreift",
+        "Als Disidentification, weil er seine Gedanken als mentale Ereignisse benennt",
+        "Als Gedankenunterdrückung, weil er das Grübeln aktiv beenden will"
+      ],
+      "answer": 0,
+      "explanation": "Das laufende Kommentieren und Analysieren ist ein kognitiver Vorgang über das Erleben – also Metaperspektive, ein Fortschritt gegenüber dem Aufgehen im Gedanken, aber noch nicht echte Achtsamkeit. Diese verlangte gerade den Verzicht auf komplexe Gedanken über die Erfahrung. Disidentification würde bedeuten, die Gedanken vorbeiziehen zu lassen, statt sie zu bearbeiten; der Wechsel zum „Being\" verlangt, die analysierende Haltung zu verlassen. Unterdrückt wird hier nichts – er beobachtet und beschreibt.",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "topic": "Metaperspektive vs. echte Achtsamkeit",
+      "question": "Welche Beschreibung trifft den Wirkfaktor Disidentification am ehesten?",
+      "options": [
+        "Beginnende Eskalationen im eigenen Erleben werden früh bemerkt und rechtzeitig unterbrochen",
+        "Die Aufmerksamkeit wird von belastenden Inhalten auf neutrale Reize umgelenkt",
+        "Belastende Gedanken werden auf ihren Realitätsgehalt hin geprüft und durch angemessenere Bewertungen ersetzt",
+        "Das eigene Erleben wird bewusst von außen betrachtet und gedanklich eingeordnet",
+        "Gedanken werden als mentale Ereignisse erkannt, die Identifikation mit Gedanken und Sprache wird abgebaut"
+      ],
+      "answer": 4,
+      "explanation": "Disidentification meint, Gedanken als mentale Ereignisse zu erkennen und die Identifikation mit Gedanken und Sprache abzubauen: Ein Gedanke ist dann keine Aussage über die Wirklichkeit mehr, sondern ein Vorgang im eigenen Kopf. Die Prüfung auf Realitätsgehalt ist klassische kognitive Arbeit an Inhalten. Das Umlenken auf neutrale Reize wäre Ablenkung, das Betrachten von außen die Metaperspektive, und das frühe Bemerken von Eskalationen ist ein eigener, davon unterschiedener Wirkfaktor.",
+      "hard": true
+    },
+    {
+      "topic": "Metaperspektive vs. echte Achtsamkeit",
+      "question": "Ein Patient sagt, er versuche in jeder Übung herauszufinden, was ihm seine Anspannung eigentlich sagen wolle. Welchen Wechsel hat er am ehesten noch nicht vollzogen?",
+      "options": [
+        "Den Wechsel von der Symptomlinderung zur eigentlichen Rückfallprophylaxe",
+        "Den Wechsel von der Einzel- in die Gruppenarbeit im Therapieverlauf",
+        "Den Wechsel vom analytischen Handeln zum erfahrungsbasierten Sein",
+        "Den Wechsel von einer passiven Beobachterrolle in ein planvolles, zielgerichtetes Vorgehen",
+        "Den Wechsel von der Fremd- zur Selbstbewertung des eigenen Erlebens"
+      ],
+      "answer": 2,
+      "explanation": "Die Suche nach der Bedeutung der Anspannung ist analytisches Problemlösen – also „Doing\". Der Wirkfaktor verlangt den Übergang in einen wahrnehmenden, erfahrungsbasierten Modus, das „Being\". Ein planvolles, zielgerichtetes Vorgehen ist gerade das, worin er ohnehin schon steckt. Rückfallprophylaxe, die Frage, wer bewertet, und der Setting-Wechsel betreffen andere Ebenen und haben mit dem mentalen Modus nichts zu tun.",
+      "transfer": true
+    },
+    {
+      "topic": "Wertneutralität & Entlastung",
+      "question": "Warum entfaltet allein das Herausnehmen der Wertung nach der Vorlesung bereits eine erhebliche Wirkung?",
+      "options": [
+        "Weil damit die zweite Ebene wegfällt, auf der die Bewertung des Gefühls zusätzliches Leid erzeugt",
+        "Weil das belastende Gefühl selbst dadurch zuverlässig an Intensität verliert und schneller abklingt",
+        "Weil die auslösende Situation dadurch objektiver eingeschätzt werden kann",
+        "Weil dadurch die Aufmerksamkeit vom Gefühl weg auf den Körper gelenkt wird",
+        "Weil dysfunktionale Gedanken dadurch durch funktionalere ersetzt werden"
+      ],
+      "answer": 0,
+      "explanation": "Belastend ist selten nur das Gefühl, sondern die Bewertung, die sich darüberlegt („ich sollte nicht so fühlen\"). Fällt die Wertung weg, fällt diese zweite Ebene weg, und übrig bleibt das Gefühl selbst – erträglicher als die Kombination aus Gefühl und Selbstverurteilung. Dass das Gefühl selbst schwächer wird, ist gerade nicht der Mechanismus. Objektivere Situationseinschätzung und das Ersetzen von Gedanken sind kognitive Strategien, und das Weglenken der Aufmerksamkeit wäre Vermeidung."
+    },
+    {
+      "topic": "Wertneutralität & Entlastung",
+      "question": "Welche Aussage zur „Entlastung\" durch Wertneutralität trifft NICHT zu?",
+      "options": [
+        "Gemeint ist eine „Transformation von Stress und leidvollen Gefühlen\"",
+        "Erst wenn die Bewertung wegfällt, wird das Gefühl selbst überhaupt zugänglich",
+        "Die Folien fassen das Prinzip zusammen als „Keine Unterdrückung, sondern Annahme und Wandlung\"",
+        "Sie ist ein wirksamer Weg, unangenehme Gefühle zu umgehen und ihnen weniger ausgesetzt zu sein",
+        "Stressbewältigung geht in diesem Verständnis über bloße Symptomlinderung hinaus"
+      ],
+      "answer": 3,
+      "explanation": "Entlastung ist ausdrücklich kein Trick zur Gefühlsvermeidung, sondern deren Gegenteil: Erst ohne Bewertung wird das Gefühl zugänglich. Die Formulierungen „Keine Unterdrückung, sondern Annahme und Wandlung\" und „Transformation von Stress und leidvollen Gefühlen\" stehen so auf den Folien, ebenso der Hinweis, dass Stressbewältigung über Symptomlinderung hinausgeht.",
+      "trap": "Wertneutralität klingt nach Distanzierung, meint aber Zugang zum Gefühl – nicht Vermeidung."
+    },
+    {
+      "topic": "Wertneutralität & Entlastung",
+      "question": "Ein Patient sagt nach mehreren Achtsamkeitsübungen enttäuscht: „Die Anspannung ist immer noch da, das bringt also nichts.\" Was greift an seiner Bewertung am ehesten zu kurz?",
+      "options": [
+        "Dass er die Übung mit einer Entspannungstechnik verwechselt, die er zusätzlich braucht",
+        "Dass er die Übungen offenbar nicht absichtsvoll genug ausgeführt hat",
+        "Dass Anspannung kein geeigneter Gegenstand achtsamer Wahrnehmung ist",
+        "Dass die Wirkung achtsamkeitsbasierter Übungen sich erfahrungsgemäß erst nach dem Abschluss eines vollständigen Programms zeigt",
+        "Dass Stressbewältigung hier über Symptomlinderung hinausgeht und das Verhältnis zum Erleben verändert"
+      ],
+      "answer": 4,
+      "explanation": "Das Ziel ist nicht, dass das unangenehme Gefühl verschwindet, sondern dass sich das Verhältnis zu ihm ändert – genau deshalb hält die Folie fest, dass Stressbewältigung über Symptomlinderung hinausgeht. Ein Verweis auf die Programmdauer verschiebt nur die Erwartung, statt sie zu korrigieren. Die Absichtsvollkeit steht in der Szene nicht infrage, Anspannung ist ein ganz typischer Gegenstand achtsamer Wahrnehmung, und eine ergänzende Entspannungstechnik würde die Erwartung der Symptomreduktion gerade bestätigen.",
+      "transfer": true
+    },
+    {
+      "topic": "Die fünf Wirkfaktoren",
+      "question": "Welcher der folgenden Punkte gehört NICHT zu den fünf allgemeinen Wirkfaktoren der Achtsamkeit?",
+      "options": [
+        "Die Korrektur inhaltlich verzerrter Grundüberzeugungen durch Realitätsprüfung",
+        "Die Schulung der Aufmerksamkeit und das Lösen aus dem dysfunktionalen Grübeln",
+        "Die Steigerung des Kontakts mit dem Hier-und-Jetzt",
+        "Das frühzeitige Erkennen von Aufschaukelungsprozessen",
+        "Die Veränderung des mentalen Modus vom Handeln zum Sein"
+      ],
+      "answer": 0,
+      "explanation": "Die Realitätsprüfung verzerrter Überzeugungen ist das Vorgehen der zweiten Welle und steht nicht auf der Wirkfaktorenliste. Die geschlossene Fünferliste umfasst Aufmerksamkeitsschulung, Steigerung des Kontakts mit dem Hier-und-Jetzt, Veränderung des mentalen Modus, Disidentification und das frühzeitige Erkennen von Aufschaukelungsprozessen."
+    },
+    {
+      "topic": "Die fünf Wirkfaktoren",
+      "question": "Wie beschreibt die Folie den Wirkfaktor „Steigerung des Kontakts mit dem Hier-und-Jetzt\" am ehesten?",
+      "options": [
+        "Als Erkennen von Gedanken als bloßen mentalen Ereignissen",
+        "Als frühes Bemerken beginnender Eskalationen im eigenen Erleben",
+        "Als Fähigkeit, störende Gedanken zuverlässig auszublenden und die Konzentration zu halten",
+        "Als Wahrnehmung und Bewusstmachung des Reichtums jedes Augenblicks",
+        "Als Wechsel vom problemlösenden in den wahrnehmenden Modus"
+      ],
+      "answer": 3,
+      "explanation": "Die Folie spricht ausdrücklich von der „Wahrnehmung und Bewusstmachung des Reichtums jedes Augenblicks\" – es geht also um einen Gewinn an Erlebensqualität, nicht nur um das Abstellen des Grübelns. Das Ausblenden störender Gedanken ist weder gemeint noch achtsam. Das Erkennen mentaler Ereignisse ist Disidentification, das frühe Bemerken von Eskalationen der fünfte Faktor und der Moduswechsel der dritte – alles eigenständige Wirkfaktoren."
+    },
+    {
+      "topic": "Die fünf Wirkfaktoren",
+      "question": "Eine Patientin bemerkt neuerdings schon an einem leichten Engegefühl im Brustkorb, dass sie gleich in eine Sorgenspirale gerät, und kann an dieser Stelle aussteigen. Welcher Wirkfaktor zeigt sich hier am ehesten?",
+      "options": [
+        "Die Schulung der Aufmerksamkeit",
+        "Das frühzeitige Erkennen von Aufschaukelungsprozessen",
+        "Die Disidentification von Gedanken und Sprache",
+        "Die Veränderung des mentalen Modus vom analytischen Handeln zum erfahrungsbasierten Sein",
+        "Die Steigerung des Kontakts mit dem Hier-und-Jetzt"
+      ],
+      "answer": 1,
+      "explanation": "Wer die eigenen inneren Bewegungen genauer wahrnimmt, bemerkt eine beginnende Eskalation früher und kann eingreifen, solange sie klein ist – genau das beschreibt die Szene. Der Moduswechsel und die Kontaktsteigerung beschreiben eine Erlebenshaltung, nicht das Erkennen einer Eskalation. Disidentification würde bedeuten, die Sorgengedanken als mentale Ereignisse zu sehen; die Aufmerksamkeitsschulung ist die Voraussetzung, aber nicht der hier sichtbare Effekt.",
+      "transfer": true
+    },
+    {
+      "topic": "Metakognitive Therapie",
+      "question": "Welcher Satz gibt den Kerngedanken der metakognitiven Therapie am ehesten wieder?",
+      "options": [
+        "Entscheidend ist, welche Grundüberzeugungen einer Person zugrunde liegen und wie stark sie verankert sind",
+        "Entscheidend ist, wie häufig ein belastender Gedanke auftritt",
+        "Entscheidend ist, ob ein Gedanke der Realität standhält",
+        "Entscheidend ist, wie früh im Leben ein Denkmuster erworben wurde",
+        "Entscheidend ist, wie man denkt, nicht was man denkt"
+      ],
+      "answer": 4,
+      "explanation": "Die metakognitive Therapie verschiebt den Fokus vom Inhalt auf die Form: Depressionen werden nicht durch bestimmte Inhalte begünstigt, sondern durch strukturelle Prozesse – also durch die Denkbewegung selbst. Grundüberzeugungen und die Prüfung am Realitätsgehalt sind genau der inhaltsbezogene Zugang der klassischen kognitiven Therapie. Der Erwerbszeitpunkt gehört in die biographische Perspektive, und die bloße Häufigkeit eines Gedankens ist keine strukturelle Bestimmung."
+    },
+    {
+      "topic": "Metakognitive Therapie",
+      "question": "Worin unterscheiden sich kontrafaktisches Denken und retrograde Logik am ehesten?",
+      "options": [
+        "Ersteres ist bewusst steuerbar, Letzteres läuft ausschließlich automatisch ab",
+        "Ersteres überwacht aversive Reize, Letzteres vermeidet korrektive Erfahrungen",
+        "Ersteres richtet sich auf künftige unwahrscheinliche Ereignisse, Letzteres auf bereits tatsächlich eingetretene",
+        "Ersteres malt aus, wie es bei anderem Verhalten gewesen wäre, Letzteres wirft es einem im Nachhinein vor",
+        "Ersteres läuft trotz fehlender Antworten weiter, Letzteres endet mit einer Schlussfolgerung"
+      ],
+      "answer": 3,
+      "explanation": "Kontrafaktisches Denken beschäftigt sich mit Vorstellungen, wie die Dinge wären, hätte man sich anders verhalten – auf der Folie das „Reiten toter Pferde\". Retrograde Logik meint Selbstvorwürfe für ein Verhalten, nachdem die Konsequenzen bereits klar sind; man beurteilt eine damalige Entscheidung mit heutigem Wissen. Gedankenketten über unwahrscheinliche Ereignisse sind Sorgen, das Weiterlaufen ohne Antworten ist Grübeln, und Bedrohungsmonitoring und Vermeidung korrektiver Erfahrungen sind zwei weitere eigenständige Prozesse.",
+      "hard": true,
+      "trap": "Beide blicken zurück – aber nur die retrograde Logik nutzt das Wissen von heute für einen Vorwurf von damals."
+    },
+    {
+      "topic": "Metakognitive Therapie",
+      "question": "Eine Patientin liegt abends stundenlang wach und geht immer wieder durch, warum sie so geworden ist, wie sie ist; zu einem Ergebnis kommt sie nie, weitermachen tut sie trotzdem. Welcher strukturelle Prozess liegt am ehesten vor?",
+      "options": [
+        "Vermeidung korrektiver Erfahrungen in aktiver oder passiver Form",
+        "Grübeln",
+        "Bedrohungsmonitoring",
+        "Sorgen",
+        "Kontrafaktisches Denken"
+      ],
+      "answer": 1,
+      "explanation": "Das Merkmal des Grübelns ist genau, dass es weiterläuft, obwohl keine Antworten gefunden werden – die Szene zeigt das im Wortsinn. Sorgen wären Gedankenketten über unwahrscheinliche künftige Ereignisse, Bedrohungsmonitoring das Überwachen aversiver Reize außerhalb ihrer Relevanz. Kontrafaktisches Denken würde ausmalen, wie es bei anderem Verhalten gekommen wäre, und Vermeidung korrektiver Erfahrungen hieße, Situationen zu meiden, die die Befürchtung widerlegen könnten.",
+      "transfer": true
+    },
+    {
+      "topic": "Metakognitive Therapie",
+      "question": "Ein Patient prüft jeden Morgen sofort nach dem Aufwachen, wie müde er sich fühlt, und wertet jede Müdigkeit als Zeichen fehlender Energie für den Tag. Welcher strukturelle Prozess liegt am ehesten vor?",
+      "options": [
+        "Vermeidung korrektiver Erfahrungen in aktiver oder passiver Form",
+        "Bedrohungsmonitoring",
+        "Kontrafaktisches Denken",
+        "Sorgen",
+        "Retrograde Logik"
+      ],
+      "answer": 1,
+      "explanation": "Bedrohungsmonitoring meint das Überwachen aversiver Reize auch dann, wenn sie gar nicht relevant sind – die Folie nennt genau dieses Beispiel: Müdigkeit am Morgen wird als fehlende Energie gedeutet und damit zum Warnzeichen. Vermeidung korrektiver Erfahrungen läge vor, wenn er Situationen mied, in denen sich seine Befürchtung widerlegen ließe. Kontrafaktisches Denken und retrograde Logik blicken zurück, Sorgen richten sich auf unwahrscheinliche künftige Ereignisse.",
+      "transfer": true
+    },
+    {
+      "topic": "Metakognitive Therapie",
+      "question": "Wie beschreibt die Vorlesung den Bezug zwischen Rumination und chronischer Depression am ehesten?",
+      "options": [
+        "Rumination spielt eine zentrale Rolle für die Aufrechterhaltung; gelebt wird in Vergangenheit und Zukunft statt in der Gegenwart",
+        "Rumination ist der entscheidende auslösende Faktor, ohne den eine depressive Episode nach heutigem Verständnis nicht chronisch verlaufen kann",
+        "Rumination betrifft ausschließlich die Zukunft und äußert sich als Sorgengedanke",
+        "Rumination ist ein Versuch der Lösungssuche, der bei chronischer Depression regelmäßig erfolgreich ist",
+        "Rumination ist eine Form der Metaperspektive und damit bereits ein achtsamer Zugang"
+      ],
+      "answer": 0,
+      "explanation": "Die Folien halten fest, dass Rumination bei einigen Störungen zentral für die Aufrechterhaltung ist; bei der chronischen Depression zeigt sich das als Leben in Vergangenheit („ach hätte ich doch\") und Zukunft („wie soll jemals…\"), zwischen denen das Hier und Jetzt verloren geht. Von einer notwendigen Auslösebedingung ist nicht die Rede, sondern von Aufrechterhaltung. Erfolgreich ist das Grübeln gerade nicht, es betrifft nicht nur die Zukunft, und es ist das Gegenteil eines achtsamen Zugangs.",
+      "hard": true
+    }
+  ]
+}

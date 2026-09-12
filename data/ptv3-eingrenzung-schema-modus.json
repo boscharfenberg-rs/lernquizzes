@@ -1,0 +1,420 @@
+{
+  "id": "ptv3-eingrenzung-schema-modus",
+  "title": "Eingrenzung II – Quadrat, Schema & Modus",
+  "subject": "Psychotherapieverfahren 3",
+  "description": "Teil B der Themeneingrenzung, erster Block: Werte- und Entwicklungsquadrat nach Helwig, adaptive Ressourcen und funktionale Gegenpole, Diathese-Stress-Modell, Herkunft des Schemabegriffs sowie die zentrale Unterscheidung Schema (trait, NEB) vs. Modus (state, NEM) und die Synergetik mit ihren Attraktoren.",
+  "showGrade": true,
+  "questions": [
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Wie lautet die Prämisse nach Helwig, auf der das Werte- und Entwicklungsquadrat aufbaut?",
+      "options": [
+        "Persönlichkeitsmerkmale sind grundsätzlich wertneutral und werden erst durch die Umwelt problematisch",
+        "Jedes Persönlichkeitsmerkmal lässt sich auf ein frustriertes Grundbedürfnis zurückführen",
+        "Eine Eigenschaft wirkt nur konstruktiv, wenn sie in ausgehaltener Spannung zu einem positiven Gegenwert steht",
+        "Eine Eigenschaft ist umso hilfreicher, je stärker und konsequenter sie in allen Lebensbereichen ausgeprägt ist",
+        "Jede Eigenschaft hat einen gesunden Kern, der in der Therapie herausgearbeitet und verstärkt werden sollte"
+      ],
+      "answer": 2,
+      "explanation": "Helwigs Prämisse lautet, dass jede Eigenschaft nur dann zu konstruktiver Wirkung gelangt, wenn sie sich in ausgehaltener Spannung zu einem positiven Gegenwert befindet – eine Eigenschaft ist also nicht für sich genommen gut oder schlecht. Gerade die maximale, konsequente Ausprägung ohne Gegenwert erzeugt den dysfunktionalen Pol. Dass jede Eigenschaft einen gesunden Kern habe, klingt ähnlich, ist aber nicht die Prämisse, sondern eine Folgerung für die Ressourcenarbeit. Wertneutralität und die Zurückführung auf frustrierte Grundbedürfnisse gehören in andere Modelle."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Wie ist das Werte- und Entwicklungsquadrat am ehesten aufgebaut?",
+      "options": [
+        "Vulnerabilität, auslösende Krise, Bewältigungsversuch und daraus folgende Symptombildung als vier aufeinanderfolgende Schritte",
+        "Adaptive Ressource, ihre Übersteigerung als dysfunktionaler Pol und ein funktionaler Gegenpol als Entwicklungsrichtung",
+        "Ist-Zustand, Soll-Zustand, alloplastische und autoplastische Lösung",
+        "Kindmodus, Elternmodus, Bewältigungsmodus und gesunder Erwachsenenmodus",
+        "Bindung, Kontrolle, Selbstwert und Lust als vier gleichwertige Pole"
+      ],
+      "answer": 1,
+      "explanation": "Ausgangspunkt ist eine adaptive Ressource; übersteigert und ohne Gegenwert entsteht daraus ein dysfunktionaler Pol, dem ein funktionaler Gegenpol gegenübersteht, der die Entwicklungsrichtung angibt. Vulnerabilität, Krise und Bewältigung gehören zum Diathese-Stress-Modell bzw. zur Schemaaktivierung. Die vier Modusgruppen sind das Modusmodell, Ist- und Soll-Zustand die Konsistenztheorie, und Bindung, Kontrolle, Selbstwert und Lust sind die Grundbedürfnisse."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Welche adaptive Ressource kippt nach dem Beispiel der Vorlesung übersteigert in Dependenz?",
+      "options": [
+        "Beziehungsfähigkeit",
+        "Unterordnungsbereitschaft",
+        "Durchsetzungsfähigkeit",
+        "Verlässlichkeit",
+        "Spontaneität"
+      ],
+      "answer": 0,
+      "explanation": "Das Beispiel der Vorlesung lautet: Die adaptive Ressource Beziehungsfähigkeit kippt übersteigert in Dependenz. Unterordnungsbereitschaft ist bereits die problematische Ausprägung und keine adaptive Ressource. Durchsetzungsfähigkeit steht hinter selbstbehauptenden, nicht hinter dependenten Mustern, Spontaneität hinter impulsiven, und Verlässlichkeit wäre am ehesten die Ressource hinter zwanghaft-gewissenhaften Zügen."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Welcher funktionale Gegenwert gibt im Beispiel der Vorlesung die Entwicklungsrichtung bei Dependenz an?",
+      "options": [
+        "Beziehungsfähigkeit",
+        "Eigenständigkeit",
+        "Unterordnungsbereitschaft",
+        "Unverbindlichkeit gegenüber den Erwartungen anderer Menschen",
+        "Kompromissbereitschaft"
+      ],
+      "answer": 1,
+      "explanation": "Im Quadrat steht der Dependenz die Unverbindlichkeit als dysfunktionaler Gegenpol gegenüber; der funktionale Gegenwert, auf den die Therapie zielt, ist die Eigenständigkeit. Unverbindlichkeit ist damit die falsche Seite derselben Achse – sie wäre nur ein Kippen ins andere Extrem. Beziehungsfähigkeit ist die Ausgangsressource, die ohnehin schon vorhanden ist; Kompromissbereitschaft und Unterordnungsbereitschaft liegen auf der bereits überentwickelten Seite.",
+      "hard": true,
+      "trap": "Dysfunktionaler Gegenpol (Unverbindlichkeit) und funktionaler Gegenwert (Eigenständigkeit) sind nicht dasselbe."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Wie lautet der Merksatz der Folie zur therapeutischen Grundhaltung im Werte- und Entwicklungsquadrat?",
+      "options": [
+        "Klären Sie zuerst, welches Grundbedürfnis in der Kindheit dauerhaft frustriert wurde",
+        "Beginnen Sie immer bei der am stärksten belastenden Symptomatik Ihrer Patientinnen und Patienten",
+        "Suchen Sie nach den Entwicklungsmöglichkeiten, die hinter den vordergründigen Wünschen der Patienten stehen",
+        "Arbeiten Sie konsequent gegen die überentwickelte Eigenschaft, bis sie an Einfluss verliert",
+        "Nehmen Sie die geäußerten Wünsche der Patienten zum Maßstab und unterstützen Sie zuerst deren konkrete Erfüllung"
+      ],
+      "answer": 2,
+      "explanation": "Der Merksatz lautet, nach den Entwicklungsmöglichkeiten zu suchen, die hinter den vordergründigen Wünschen stehen: Der Wunsch zeigt an, wo die Person gut ist – die Entwicklung liegt auf der Gegenseite. Die Wünsche unmittelbar zu bedienen, verstärkt gerade den überentwickelten Pol. Gegen die Eigenschaft zu arbeiten, widerspricht dem Gedanken, dass sie an sich wertvoll ist und nur einen Gegenwert braucht. Symptomorientierung und die Frage nach dem frustrierten Grundbedürfnis gehören in andere Abschnitte."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Eine Patientin sagt in jeder Sitzung, sie wünsche sich endlich eine feste Beziehung und halte das Alleinsein kaum aus. Wo liegt nach dem Merksatz der Folie am ehesten ihre Entwicklungsmöglichkeit?",
+      "options": [
+        "Im Aushalten von Alleinsein und im Wagen von Autonomie",
+        "In der Stärkung ihres Kontrollbedürfnisses und ihrer Orientierung",
+        "Im Aufbau einer unverbindlicheren Haltung gegenüber anderen",
+        "In einer gezielten Förderung ihrer Bindungsfähigkeit, damit die gewünschte Beziehung überhaupt gelingen kann",
+        "Im Einlassen auf Emotionen und Bauchgefühl"
+      ],
+      "answer": 0,
+      "explanation": "Die Folie nennt genau dieses Beispiel: Wenn eine Patientin sich Bindung wünscht, liegt die Entwicklungsmöglichkeit im Aushalten von Alleinsein und im Wagen von Autonomie. Die Bindungsfähigkeit weiter zu fördern, bedient den ohnehin überentwickelten Pol. Das Einlassen auf Emotionen ist die Entwicklungsrichtung beim Wunsch nach kognitiven Modellen. Kontrolle und Orientierung sind hier nicht das Thema, und Unverbindlichkeit wäre der dysfunktionale Gegenpol, nicht der funktionale.",
+      "transfer": true
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Ein Patient bittet in jeder Sitzung um Erklärungsmodelle, Schaubilder und Literaturhinweise zu seiner Störung. Welche Entwicklungsrichtung legt der Merksatz der Folie am ehesten nahe?",
+      "options": [
+        "Das Einüben von Unterordnung in Beziehungen",
+        "Die weitere Vertiefung seines Störungswissens, damit er seine Symptomatik sicher einordnen kann",
+        "Das Einlassen auf Emotionen und Bauchgefühl",
+        "Das Aushalten von Alleinsein und das Wagen von Autonomie",
+        "Die Stärkung seiner Durchsetzungsfähigkeit im Alltag"
+      ],
+      "answer": 2,
+      "explanation": "Die Folie nennt dieses Beispiel ausdrücklich: Wer nach kognitiven Modellen und Erklärungen verlangt, hat seine Stärke im Kognitiven – die Entwicklung liegt im Einlassen auf Emotionen und Bauchgefühl. Mehr Störungswissen bedient genau den überentwickelten Pol. Alleinsein und Autonomie sind die Entwicklungsrichtung beim Bindungswunsch, Durchsetzungsfähigkeit die bei nachgiebig-dependenten Mustern, und Unterordnung ist kein funktionaler Gegenpol.",
+      "transfer": true
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Welche adaptive Ressource verbirgt sich in Anlehnung an das Werte- und Entwicklungsquadrat am ehesten hinter einer schizoiden Persönlichkeitsstörung?",
+      "options": [
+        "Spontaneität",
+        "Verlässlichkeit",
+        "Eigenständigkeit",
+        "Durchsetzungsfähigkeit",
+        "Unterordnungsbereitschaft"
+      ],
+      "answer": 2,
+      "explanation": "Schizoide Muster sind die Übersteigerung des Für-sich-selbst-Sorgen-Könnens: Wer niemanden braucht, hat die Eigenständigkeit so weit getrieben, dass ihr der Gegenwert der Beziehungsfähigkeit fehlt – die adaptive Ressource dahinter ist also Eigenständigkeit. Unterordnungsbereitschaft und Verlässlichkeit sind anpassungs- und pflichtbezogene Ressourcen, die dem Rückzugsmuster gerade nicht zugrunde liegen. Durchsetzungsfähigkeit steht hinter selbstbehauptend-narzisstischen, Spontaneität hinter impulsiven Mustern.",
+      "hard": true,
+      "transfer": true,
+      "trap": "Diese Beispielfrage zeigt der Dozent selbst – in den Unterlagen steht sie aber ohne Lösung. Die Lösung ist hier aus der Quadratlogik hergeleitet (spiegelbildlich zu Beziehungsfähigkeit → Dependenz → Eigenständigkeit)."
+    },
+    {
+      "topic": "Diathese-Stress-Modell",
+      "question": "Welche der folgenden Größen gehört NICHT zu den vier Komponenten des Diathese-Stress-Modells?",
+      "options": [
+        "Die neuronale Erregungsbereitschaft als latente Reaktionsbereitschaft im Hintergrund",
+        "Krisen als auslösende Momente im Lebensverlauf",
+        "Die Vulnerabilität, die durch besondere dispositionelle Verletzbarkeiten der Person entsteht",
+        "Psychosoziale Risikofaktoren im Umfeld der Person",
+        "Die Kompetenzen, die der Person zur Verfügung stehen"
+      ],
+      "answer": 0,
+      "explanation": "Die neuronale Erregungsbereitschaft ist Grawes Begriff für das Schema und gehört zur Schema-Modus-Unterscheidung, nicht zum Diathese-Stress-Modell. Dieses besteht aus Vulnerabilität, psychosozialen Risikofaktoren, Krisen und Kompetenzen – also dem, was die Person der Belastung entgegensetzen kann."
+    },
+    {
+      "topic": "Diathese-Stress-Modell",
+      "question": "Wie definiert die Folie den Begriff der Diathese am ehesten?",
+      "options": [
+        "Als angeborene Anlage, die für sich allein bereits das spätere Störungsbild festlegt",
+        "Als erlernte Bewältigungsstrategie im Umgang mit Belastung",
+        "Als Summe der psychosozialen Risikofaktoren in der Kindheit",
+        "Als Einfluss durch Interaktion mit Erbeinflüssen oder (epi)genetischen Phänomenen",
+        "Als akute Belastung, die eine Krise auslöst"
+      ],
+      "answer": 3,
+      "explanation": "Die Folie definiert Diathese ausdrücklich als Einfluss durch Interaktion mit Erbeinflüssen oder (epi)genetischen Phänomenen – es geht also um ein Zusammenspiel, nicht um eine Anlage allein. Genau deshalb ist die Vorstellung einer allein festlegenden Anlage die typische Fehldeutung. Psychosoziale Risikofaktoren und Krisen sind eigene Komponenten des Modells, und Bewältigungsstrategien fallen unter die Kompetenzen.",
+      "trap": "Diathese ist nicht die Anlage allein, sondern deren Interaktion mit (epi)genetischen Einflüssen."
+    },
+    {
+      "topic": "Diathese-Stress-Modell",
+      "question": "Zwei Patienten erleben denselben schweren Arbeitsplatzkonflikt; nur einer entwickelt eine behandlungsbedürftige Symptomatik. Welche Komponente des Diathese-Stress-Modells erklärt diesen Unterschied am ehesten mit?",
+      "options": [
+        "Keine der genannten Komponenten",
+        "Die Diathese als genetische Interaktion",
+        "Die psychosozialen Risikofaktoren im Vorfeld",
+        "Die Krise als auslösendes Moment, die bei beiden in gleicher Weise vorhanden ist",
+        "Die Kompetenzen, die der Person zur Verfügung stehen"
+      ],
+      "answer": 4,
+      "explanation": "Die Kompetenzen beschreiben genau das, was die Person der Belastung entgegensetzen kann, und erklären daher unterschiedliche Verläufe bei gleicher Belastung. Die Krise ist hier identisch und kann den Unterschied deshalb nicht tragen. Psychosoziale Risikofaktoren und die Diathese wirken ebenfalls mit, sind in der Szene aber nicht angesprochen – und da eine Komponente passt, greift die Ausschlussoption nicht.",
+      "transfer": true
+    },
+    {
+      "topic": "Herkunft des Schemabegriffs",
+      "question": "Auf wen geht der Schemabegriff als Organisationsprinzip des psychischen Prozesses zurück?",
+      "options": [
+        "Auf Stern",
+        "Auf Haken",
+        "Auf Young",
+        "Auf Helwig, der die Spannung zwischen Wert und Gegenwert beschrieb",
+        "Auf Piaget"
+      ],
+      "answer": 4,
+      "explanation": "Der Schemabegriff als Organisationsprinzip des psychischen Prozesses geht auf Piaget zurück; in Deutschland populär gemacht hat ihn Grawe mit seiner Schema-Theorie. Helwig steht hinter dem Werte- und Entwicklungsquadrat, Young hinter dem Modus- und Schematherapiemodell, Stern hinter den RIGs und Haken hinter der Synergetik."
+    },
+    {
+      "topic": "Herkunft des Schemabegriffs",
+      "question": "Welchem Konzept entspricht ein Schema als fixierter Niederschlag früherer Beziehungserfahrungen in der neuronalen Matrix?",
+      "options": [
+        "Den Kontrollparametern nach Haken",
+        "Den RIGs nach Stern",
+        "Den Kernprozessen des HexaFlex",
+        "Den Lösungsschemata nach Roediger",
+        "Den sieben neurobiologischen Motivationssystemen nach Panksepp"
+      ],
+      "answer": 1,
+      "explanation": "Gemeint sind die RIGs – „Representations of Interactions that have been Generalized\" – im Sinne Sterns: verallgemeinerte Repräsentationen wiederholter Interaktionserfahrungen. Panksepps Motivationssysteme beschreiben neurobiologische Antriebe, Hakens Kontrollparameter gehören zur Synergetik. Lösungsschemata sind die in der Therapie neu angelegten Schemata, und das HexaFlex gehört zur ACT."
+    },
+    {
+      "topic": "Herkunft des Schemabegriffs",
+      "question": "Was meint Young, wenn er das gezeigte Verhalten als „schema-driven\" bezeichnet?",
+      "options": [
+        "Schemata werden durch wiederholtes Verhalten erst erzeugt und gefestigt",
+        "Das Verhalten wird unmittelbar und ohne vermittelnde Zwischenschritte durch das jeweilige Schema selbst hervorgebracht",
+        "Das Verhalten ist mit dem Schema gleichzusetzen und damit direkt beobachtbar",
+        "Schemata aktivieren Kind- und Eltern-Modi, die ihrerseits das Verhalten des Bewältigungsmodus treiben",
+        "Das Verhalten folgt den bewussten Zielen und Werten der Person"
+      ],
+      "answer": 3,
+      "explanation": "Die Schemata aktivieren zunächst innerlich erlebte basale Emotionen – die Kind-Modi – sowie sozial vermittelte kognitive Bewertungen – die Eltern-Modi; diese treiben dann das sichtbare Verhalten des Bewältigungsmodus. Man sieht also nie das Schema direkt und meist auch nicht Kind- oder Elternmodus, sondern die Bewältigung. Eine unmittelbare Wirkung ohne Zwischenschritte und die Gleichsetzung von Verhalten und Schema verfehlen genau diese Kette. Dass Verhalten Schemata erst erzeugt, kehrt die Richtung um, und bewusstes Handeln nach Werten kennzeichnet den gesunden Erwachsenenmodus.",
+      "hard": true
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Welche Zuordnung der neurobiologischen Begriffe Grawes ist am ehesten korrekt?",
+      "options": [
+        "Schema = state, Modus = trait",
+        "Schema = neuronales Erregungsmuster, Modus = neuronale Erregungsbereitschaft",
+        "Schema = Attraktor, Modus = Kontrollparameter",
+        "Schema = neuronale Erregungsbereitschaft, Modus = neuronales Erregungsmuster",
+        "Beide Begriffe bezeichnen dasselbe und werden synonym verwendet"
+      ],
+      "answer": 3,
+      "explanation": "Das Schema steht als neuronal verankerte Reaktionsbereitschaft implizit im Hintergrund – Grawe nennt das neuronale Erregungsbereitschaft (NEB). Der Modus ist der momentane Erlebenszustand, dem die synchrone Aktivierung eines Neuronenverbands entspricht – das neuronale Erregungsmuster (NEM). Die umgekehrte Zuordnung und die Gleichsetzung beider Begriffe verfehlen genau diese Unterscheidung, ebenso die vertauschte trait-state-Zuweisung. Attraktor und Kontrollparameter stammen aus der Synergetik.",
+      "hard": true,
+      "trap": "Bereitschaft (NEB) ist das latente Schema, Muster (NEM) der aktivierte Modus – nicht umgekehrt."
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Wie lautet der Merksatz Roedigers zur Beobachtbarkeit von Schemata?",
+      "options": [
+        "Schemata sind ausschließlich in der therapeutischen Beziehung beobachtbar",
+        "Schemata werden im Verhalten sichtbar, Modi dagegen nur im Erleben",
+        "Schemata und Modi sind beide nur über die Biographie erschließbar",
+        "Schemata sind als überdauernde Muster gut beobachtbar, während Modi als flüchtige Zustände erschlossen werden müssen",
+        "Schemata sind als traits nicht direkt, sondern nur in ihrer aktivierten Form als Modus beobachtbar"
+      ],
+      "answer": 4,
+      "explanation": "Das Schema ist die latente Bereitschaft, der Modus ihre sichtbare Aktivierung – deshalb ist ein Schema nur in aktivierter Form als Modus beobachtbar. Die Umkehrung, Schemata seien gut beobachtbar und Modi müssten erschlossen werden, dreht genau das um. Dass beide nur biographisch erschließbar seien, übersieht die Beobachtbarkeit des Modus, und die Beschränkung auf die therapeutische Beziehung engt unzulässig ein. Auch die Zuweisung Schema = Verhalten, Modus = Erleben verfehlt die trait-state-Logik."
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Was umfasst ein Modus nach Roediger – und was gerade nicht?",
+      "options": [
+        "Das gesamte Erleben einschließlich der ausgeführten Handlung",
+        "Ausschließlich die beobachtbare Handlung, während das gesamte innere Erleben dem Schema zugerechnet wird",
+        "Ausschließlich die biographisch erworbenen Botschaften der Bezugspersonen",
+        "Nur die kognitive Bewertung, während Emotion und Körperempfinden getrennt zu betrachten sind",
+        "Das kognitiv-emotional-vegetative Erleben und die Handlungstendenz, nicht aber die vollzogene Handlung"
+      ],
+      "answer": 4,
+      "explanation": "Der Modus umfasst das kognitiv-emotional-vegetativ-körperhaltungsbezogene Erleben und die daraus entstehende Handlungstendenz – die vollzogene Handlung selbst gehört nach Roediger zur Schema-Bewältigungsreaktion. Die Beschränkung auf die sichtbare Handlung oder die Einbeziehung der ausgeführten Handlung verfehlen genau diese Grenze. Emotion und Körperempfinden sind Teil des Modus, nicht getrennt davon, und die internalisierten Botschaften kennzeichnen speziell den Elternmodus.",
+      "hard": true,
+      "trap": "Der Modus enthält die Handlungs*tendenz* – die vollzogene Handlung gehört zur Bewältigungsreaktion."
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Ein Patient wird im Gespräch spürbar angespannt, ballt die Fäuste und verlässt schließlich wortlos den Raum. Wie ist das Verlassen des Raums am ehesten einzuordnen?",
+      "options": [
+        "Als Teil der Schema-Bewältigungsreaktion, weil es die vollzogene Handlung ist",
+        "Als reiner Ausdruck des Kindmodus ohne Bewältigungsanteil",
+        "Als das Schema selbst, weil sich darin das überdauernde Muster unmittelbar zeigt",
+        "Als Beleg dafür, dass gerade kein Modus aktiviert ist",
+        "Als neuronale Erregungsbereitschaft im Sinne Grawes"
+      ],
+      "answer": 0,
+      "explanation": "Anspannung und Handlungsimpuls gehören zum Modus; die tatsächlich ausgeführte Handlung – das Verlassen des Raums – ist nach Roediger Teil der Schema-Bewältigungsreaktion. Das Schema selbst ist nie direkt sichtbar, sondern nur über seine Aktivierung. Der Kindmodus umfasst die basalen Affekte, nicht das Bewältigungsverhalten; dass gar kein Modus aktiviert sei, widerspricht der deutlichen Aktivierung. Die Erregungsbereitschaft bezeichnet das latente Schema, nicht die Handlung.",
+      "transfer": true,
+      "hard": true
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Welche Aussage über Schemata trifft NICHT zu?",
+      "options": [
+        "Für die Symptomatik sind nur die maladaptiven Schemata relevant",
+        "Schemata stehen als Reaktionsbereitschaften implizit im Hintergrund",
+        "Schemata sind rein gedankliche Muster; das körperliche Selbsterleben zählt nicht dazu",
+        "Ein Schema ist der fixierte Niederschlag früherer Beziehungserfahrungen in der neuronalen Matrix",
+        "Es gibt im Prinzip eine unbegrenzte Zahl von Schemata"
+      ],
+      "answer": 2,
+      "explanation": "Roediger hält ausdrücklich fest, dass auch das körperliche Selbsterleben Teil eines Schemas ist – Schemata sind also nichts rein Gedankliches. Die unbegrenzte Zahl von Schemata, die Beschränkung der Symptomrelevanz auf die maladaptiven, der Charakter als fixierter Niederschlag früherer Beziehungserfahrungen und die implizite Reaktionsbereitschaft im Hintergrund treffen dagegen alle zu."
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Welcher Punkt der Modus-Definition erklärt am ehesten, warum Patienten die Sichtweise ihres aktuellen Modus nicht als eine von mehreren möglichen erleben?",
+      "options": [
+        "Der Modus ist vor dem Hintergrund eingebrannter Schemata erlebbar",
+        "Der Modus beeinflusst Denken und Handeln in der aktuellen Situation",
+        "Der Modus ist im jeweiligen Zustand absolut gültig",
+        "Der Modus entspricht einem neuronalen Erregungsmuster",
+        "Der Modus ist der aktuelle beobachtbare Verhaltens- bzw. Aktivierungszustand der Person"
+      ],
+      "answer": 2,
+      "explanation": "Dass ein Modus im jeweiligen Zustand absolut gültig ist, erklärt genau die klinische Realität: Wer sich in einem Modus befindet, erlebt dessen Sichtweise als die Wirklichkeit, nicht als eine mögliche Perspektive. Beobachtbarkeit, der Hintergrund eingebrannter Schemata, der Einfluss auf Denken und Handeln und die neurobiologische Entsprechung gehören ebenfalls zur Definition, tragen aber genau diesen Punkt nicht."
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Worauf fokussiert die Schematherapie in der Fallkonzeption – im Unterschied zur Therapie?",
+      "options": [
+        "In der Fallkonzeption auf die vorhandenen Ressourcen, in der Therapie auf die maladaptiven Schemata",
+        "In der Fallkonzeption auf die negativen emotionalen Schemata, in der Therapie auf funktionale Schemata als Ressourcen",
+        "In der Fallkonzeption ausschließlich auf die Biographie, in der Therapie dagegen ausschließlich auf das aktuelle Verhalten",
+        "In beiden Phasen gleichermaßen auf die maladaptiven Schemata der Person",
+        "In der Fallkonzeption auf die Bewältigungsmodi, in der Therapie auf den Elternmodus"
+      ],
+      "answer": 1,
+      "explanation": "Für die Symptomatik relevant sind nur die maladaptiven Schemata, deshalb fokussiert die Fallkonzeption auf die negativen emotionalen Schemata. In der Therapie dagegen wird auf funktionale Schemata als Ressourcen zurückgegriffen und es werden neue Lösungsschemata angelegt. Die Umkehrung und die Gleichsetzung beider Phasen verfehlen genau diese Unterscheidung; die Zuordnungen zu Biographie, aktuellem Verhalten oder einzelnen Modusgruppen stehen so nicht im Text.",
+      "hard": true
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Eine Therapeutin greift auf die Fähigkeit einer Patientin zurück, ihre eigenen Kinder liebevoll zu trösten, und lässt sie dieselbe Haltung sich selbst gegenüber einüben. Welches Vorgehen der Schematherapie zeigt sich hier am ehesten?",
+      "options": [
+        "Das Löschen des zugrunde liegenden Attraktors",
+        "Die Fallkonzeption anhand der negativen emotionalen Schemata der Patientin",
+        "Die Arbeit an der Diathese",
+        "Der Rückgriff auf funktionale Schemata als Ressourcen",
+        "Die Entmachtung des Elternmodus"
+      ],
+      "answer": 3,
+      "explanation": "Genau dieses Beispiel führt Roediger an: In der Therapie wird auf funktionale Schemata als Ressourcen zurückgegriffen – etwa auf die Fähigkeit, die eigenen Kinder zu trösten, die dann auf die Person selbst angewendet wird. Die Fallkonzeption arbeitet dagegen mit den negativen emotionalen Schemata. Von einer Entmachtung ist hier nicht die Rede, an der Diathese lässt sich therapeutisch nicht ansetzen, und Attraktoren können gerade nicht gelöscht werden.",
+      "transfer": true
+    },
+    {
+      "topic": "Schema vs. Modus",
+      "question": "Was sind „Lösungsschemata\" im Sinne Roedigers am ehesten?",
+      "options": [
+        "Die bewusst gewordenen Anteile des Elternmodus",
+        "Bewältigungsreaktionen, die sich als hilfreich erwiesen haben",
+        "Besonders gut zugängliche maladaptive Schemata, an denen die Therapie sinnvollerweise ansetzt",
+        "Schemata, die sich im Therapieverlauf von selbst auflösen",
+        "In der Therapie neu angelegte Schemata"
+      ],
+      "answer": 4,
+      "explanation": "Lösungsschemata sind neue Schemata, die in der Therapie zusätzlich angelegt werden – passend zur synergetischen Einsicht, dass man neben alten Attraktoren neue aufbauen muss. Maladaptive Schemata sind gerade nicht gemeint, und von einem Auflösen im Verlauf ist nirgends die Rede. Bewusst gewordene Elternmodus-Anteile und bewährte Bewältigungsreaktionen sind etwas anderes als ein neu angelegtes Schema."
+    },
+    {
+      "topic": "Synergetik & Attraktoren",
+      "question": "Worum geht es in der Synergetik nach Haken?",
+      "options": [
+        "Um die schrittweise Löschung erlernter Verhaltensmuster durch systematische Nichtverstärkung",
+        "Um komplexe, sich nicht linear entwickelnde, selbstorganisierende Systeme",
+        "Um die Vereinbarkeit gleichzeitig aktivierter psychischer Prozesse",
+        "Um die neuronale Repräsentation früher Beziehungserfahrungen",
+        "Um die Wechselwirkung von Erbeinflüssen und Umweltbelastungen bei der Störungsentstehung"
+      ],
+      "answer": 1,
+      "explanation": "Haken legte aus Physik und Mathematik heraus die Grundlagen zum Verständnis komplexer, nicht linear verlaufender, selbstorganisierender Systeme; populär wurde das als Chaos-Theorie. Die Löschung erlernter Muster ist gerade die Vorstellung, der die Synergetik widerspricht. Die Erbe-Umwelt-Wechselwirkung gehört zum Diathese-Stress-Modell, die Vereinbarkeit psychischer Prozesse zu Grawes Konsistenzbegriff und die neuronale Repräsentation früher Beziehungen zu den RIGs."
+    },
+    {
+      "topic": "Synergetik & Attraktoren",
+      "question": "Wie entstehen Attraktoren in einem zunächst chaotischen System?",
+      "options": [
+        "Durch gezielte Steuerung von außen, sobald das System einen ausreichend hohen Ordnungsgrad erreicht hat",
+        "Durch Verstärkungslernen, sobald ein Verhalten wiederholt belohnt wird",
+        "Durch die Internalisierung elterlicher Botschaften in der Kindheit",
+        "Durch das Zusammenspiel von Diathese und Krise",
+        "Autopoietisch unter dem Einfluss von Kontrollparametern, um einen energieärmeren Zustand herbeizuführen"
+      ],
+      "answer": 4,
+      "explanation": "Attraktoren bilden sich aus sich selbst heraus – autopoietisch – unter dem Einfluss sogenannter Kontrollparameter und lenken das System in Ordnungszustände, um einen energieärmeren Zustand herbeizuführen. Eine Steuerung von außen widerspricht genau der Selbstorganisation. Verstärkungslernen, Internalisierung elterlicher Botschaften und das Diathese-Krise-Zusammenspiel stammen aus anderen Modellen und beschreiben nicht die Attraktorbildung."
+    },
+    {
+      "topic": "Synergetik & Attraktoren",
+      "question": "Wie stellt Roediger die Brücke von der Synergetik zur Schematherapie her?",
+      "options": [
+        "Ein Attraktor entspricht dem Grundbedürfnis nach Konsistenz",
+        "Ein Attraktor entspricht dem gesunden Erwachsenenmodus, der das System stabilisiert und ausbalanciert",
+        "Ein Attraktor entspricht der auslösenden Krise im Diathese-Stress-Modell",
+        "Ein Attraktor entspricht einem Schema bzw. den automatisierten Schemabewältigungsreaktionen",
+        "Ein Kontrollparameter entspricht dem maladaptiven Schema"
+      ],
+      "answer": 3,
+      "explanation": "Roedigers Satz lautet, dass ein Attraktor einem Schema bzw. den automatisierten Schemabewältigungsreaktionen entspricht, die einer Persönlichkeitsstörung zugrunde liegen – ein eingefahrener Ordnungszustand, in den das System energetisch günstig zurückfällt. Der gesunde Erwachsenenmodus ist gerade das, was neu aufgebaut werden muss. Die Krise ist ein auslösendes Moment, kein Ordnungszustand; Kontrollparameter sind die Einflussgrößen, unter denen sich Attraktoren bilden, und die Konsistenz ist ein übergeordnetes Bedürfnis."
+    },
+    {
+      "topic": "Synergetik & Attraktoren",
+      "question": "Welche therapeutische Konsequenz ergibt sich aus dem Attraktor-Modell am ehesten?",
+      "options": [
+        "Neben den alten müssen neue Attraktoren aufgebaut und so stark gemacht werden, dass das Verhalten ihnen folgt",
+        "Attraktoren sind grundsätzlich unveränderlich, weshalb nur Symptomlinderung möglich ist",
+        "Einmal gebildete Attraktoren lassen sich bei ausreichend langer Therapiedauer vollständig löschen und ersetzen",
+        "Der Aufbau neuer Attraktoren gelingt nur, wenn die alten zuvor emotional entkoppelt wurden",
+        "Die Therapie muss zunächst die Kontrollparameter beseitigen, damit das System wieder chaotisch wird"
+      ],
+      "answer": 0,
+      "explanation": "Neurophysiologische Befunde sprechen dafür, dass einmal gebildete Attraktoren nicht gelöscht, sondern nur gehemmt bzw. „abgeflacht\" werden können – möglich ist nur, neben den alten neue aufzubauen und so stark zu machen, dass das Verhalten ihnen folgt. Die vollständige Löschung ist genau die ältere Vorstellung, der das Modell ausdrücklich widerspricht. Attraktoren sind nicht unveränderlich, sondern hemmbar; ein Rückbau der Kontrollparameter oder eine vorherige emotionale Entkopplung wird nirgends gefordert.",
+      "hard": true,
+      "trap": "Nicht löschen, sondern abflachen und daneben Neues aufbauen – „Verhaltensmuster löschen\" ist das überholte Modell."
+    },
+    {
+      "topic": "Objektpermanenz",
+      "question": "Wie verhält sich ein Säugling im Still-Face-Experiment, wenn die Bezugsperson abrupt jede Reaktion einstellt?",
+      "options": [
+        "Er versucht zunächst aktiv, den Kontakt wiederherzustellen, gerät dann in Stress und zieht sich zurück",
+        "Er wendet sich sofort anderen Reizen in der Umgebung zu",
+        "Er zeigt von Beginn an einen raschen Rückzug, ohne zuvor einen Wiederherstellungsversuch zu unternehmen",
+        "Er reagiert zunächst gar nicht und beginnt erst nach Wiederaufnahme des Kontakts zu weinen",
+        "Er passt seinen eigenen Ausdruck dem regungslosen Gesicht an und bleibt entspannt"
+      ],
+      "answer": 0,
+      "explanation": "Der Säugling lächelt, zeigt und ruft zunächst, um den Kontakt wiederherzustellen; bleibt die Reaktion aus, gerät er in deutlichen Stress und zieht sich schließlich zurück. Ein sofortiger Rückzug ohne Kontaktversuch verfehlt gerade diese Abfolge. Ausbleibende Reaktion, Anpassung an das regungslose Gesicht oder rasche Zuwendung zu anderen Reizen widersprechen dem beobachteten Stress."
+    },
+    {
+      "topic": "Objektpermanenz",
+      "question": "Welche Schemagruppe entsteht am ehesten, wenn die Erfahrung verlässlicher Verfügbarkeit der Bezugsperson wiederholt fehlt?",
+      "options": [
+        "Abhängigkeit und Inkompetenz",
+        "Überhöhte Standards und Grandiosität als Folge übermäßiger Förderung",
+        "Unterwerfung und Überkompensation",
+        "Emotionale Entbehrung und Verlassenheit",
+        "Misstrauen und Anfälligkeit für Krankheit"
+      ],
+      "answer": 3,
+      "explanation": "Die Erfahrung, dass die Bezugsperson verlässlich verfügbar bleibt – auch wenn sie gerade nicht zugewandt ist –, bildet die Grundlage von Bindungssicherheit; fehlt sie wiederholt, entstehen die Schemata aus der Gruppe emotionale Entbehrung und Verlassenheit. Überhöhte Standards und Grandiosität gehen auf „zuviel des Guten\" zurück, Misstrauen und Krankheitsanfälligkeit auf Traumatisierung und Viktimisierung, Abhängigkeit und Inkompetenz ebenfalls auf das Übermaß. Unterwerfung und Überkompensation sind Bewältigungsreaktionen, keine Schemagruppe."
+    },
+    {
+      "topic": "Werte- und Entwicklungsquadrat",
+      "question": "Ein Patient berichtet stolz, er brauche eigentlich niemanden und komme mit allem allein zurecht; enge Kontakte empfinde er als anstrengend. Welcher funktionale Gegenpol käme nach dem Werte- und Entwicklungsquadrat als Entwicklungsrichtung am ehesten in Betracht?",
+      "options": [
+        "Gewissenhaftigkeit",
+        "Beziehungsfähigkeit",
+        "Eine weiter gestärkte Eigenständigkeit, damit er seine Unabhängigkeit noch verlässlicher absichern kann",
+        "Durchsetzungsfähigkeit",
+        "Unverbindlichkeit"
+      ],
+      "answer": 1,
+      "explanation": "Die Eigenständigkeit ist hier bereits überentwickelt und hat ihren Gegenwert verloren; die Entwicklungsrichtung zeigt deshalb auf den funktionalen Gegenpol Beziehungsfähigkeit – das Pendant zum Vorlesungsbeispiel, in dem die Beziehungsfähigkeit übersteigert in Dependenz kippt. Die Eigenständigkeit weiter zu stärken, bedient genau den überentwickelten Pol. Unverbindlichkeit ist der dysfunktionale Gegenpol der Dependenz und läge auf derselben Seite wie sein Muster. Durchsetzungsfähigkeit und Gewissenhaftigkeit betreffen andere Achsen des Quadrats.",
+      "transfer": true
+    }
+  ]
+}
